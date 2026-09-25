@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111b28">
+  <meta name="description" content="按平台版本检索文字冒险、视觉小说、互动动画与Galgame的发行年份、公司、类型和主要角色。">
+  <title>叙事游戏年鉴 · 平台版本数据库</title>
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.mjs"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="masthead">
+      <a class="brand" href="#top" aria-label="叙事游戏年鉴，回到首页"><span class="brand-mark">N.</span><span>叙事游戏年鉴</span></a>
+      <nav><a href="#catalogue">作品目录</a><a href="#method">收录口径</a><a href="data/versions.csv" download>下载 CSV ↗</a></nav>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-text">
+          <p class="eyebrow">NARRATIVE GAMES INDEX · 1980—2025</p>
+          <h1>从一行指令<br>走进<span>千种故事。</span></h1>
+          <p class="lead">文字冒险、视觉小说、互动动画与 Galgame 的作品和平台版本资料。追溯初次发行，再对照移植、配音与重制的变化。</p>
+          <div class="hero-links"><a class="primary-link" href="#catalogue">浏览作品 <span aria-hidden="true">↗</span></a><a class="secondary-link" href="data/games.json">获取 JSON 数据</a></div>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
+          <div class="art-caption">CHOICE → STORY</div>
+          <div class="art-cursor"></div>
+          <span class="art-point p1"></span><span class="art-point p2"></span><span class="art-point p3"></span>
+          <div class="art-quote">「继续阅读」<span>▌</span></div>
+        </div>
+      </section>
+
+      <section class="overview" aria-label="数据库统计">
+        <div><strong id="stat-works">—</strong><span>收录作品</span></div>
+        <div><strong id="stat-versions">—</strong><span>平台版本</span></div>
+        <div><strong id="stat-years">—</strong><span>发行跨度</span></div>
+        <p>每一个年份都属于一个<strong>具体版本</strong>。同一作品的 PC、主机与重制版分别记录。</p>
+      </section>
+
+      <section class="catalogue" id="catalogue">
+        <div class="section-heading"><div><p class="eyebrow">EXPLORE THE ARCHIVE</p><h2>作品目录</h2></div><p id="result-count" role="status" aria-live="polite">正在载入…</p></div>
+        <div class="filters" aria-label="筛选作品">
+          <label class="search-label"><span>检索作品、角色或发行方</span><input id="search" type="search" placeholder="试试：ToHeart / 1999 / KONAMI / 配音" autocomplete="off"></label>
+          <label><span>主分类</span><select id="category"><option value="">全部分类</option><option>文字冒险</option><option>视觉小说</option><option>互动动画</option><option>Galgame</option></select></label>
+          <label><span>平台</span><select id="platform"><option value="">所有平台</option></select></label>
+          <label><span>年份起</span><input id="from" type="number" inputmode="numeric" min="1970" max="2035" placeholder="不限"></label>
+          <label><span>年份止</span><input id="to" type="number" inputmode="numeric" min="1970" max="2035" placeholder="不限"></label>
+          <label><span>配音</span><select id="voice"><option value="">不限</option><option value="有">有配音</option><option value="无">无配音</option><option value="未核实">待核实</option></select></label>
+          <button id="clear" type="button">清除筛选</button>
+        </div>
+        <div class="catalogue-toolbar"><p>按作品呈现；展开即可查看每个平台版本的发行方和改动。</p><label>排序 <select id="sort"><option value="oldest">首发：从早到晚</option><option value="newest">首发：从近到远</option><option value="title">名称：拼音 / 字母</option></select></label></div>
+        <div class="cards" id="cards"></div>
+        <div id="empty" class="empty" hidden><strong>没有符合条件的记录</strong><span>可以缩小年份范围之外的筛选条件，或尝试其他名称。</span></div>
+      </section>
+
+      <section class="method" id="method">
+        <p class="eyebrow">ABOUT THIS DATABASE</p><h2>这份目录如何记录版本？</h2>
+        <div class="method-grid"><article><span>01 / 作品</span><h3>一部作品，一条故事主线</h3><p>作品条目记录名称、主分类、游戏类型、主要角色与剧情概况。Galgame 与视觉小说可能交叉；主分类优先反映主要玩法。</p></article><article><span>02 / 版本</span><h3>一个平台，一次发行</h3><p>每条平台版本各自记录发行年份、出版／发行公司、配音、移植或重制差异。同年多平台也分开列示。</p></article><article><span>03 / 证据</span><h3>来源随记录保留</h3><p>每部作品和每个版本附核查链接。角色尚无可靠来源时标注“待核实”，不凭印象补全。</p></article></div>
+        <p class="scope-note">此处为经核查的代表作品样本，<strong>不是各年份的完整目录</strong>。早期作品有时只能确认机种系列，无法列出每个同期移植版。资料更新至 2026-09-25。</p>
+      </section>
+    </main>
+
+    <footer><span>叙事游戏年鉴 · 资料与代码可在 GitHub 扩充</span><a href="#top">返回顶部 ↑</a></footer>
+  </div>
+</body>
+</html>

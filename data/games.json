@@ -1,0 +1,1448 @@
+{
+  "meta": {
+    "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
+    "updated": "2026-09-25",
+    "scope": "精选可核查作品，非全量目录。发行年份按此行平台版本实际发售年份；有疑点标注未核实。",
+    "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
+  },
+  "works": [
+    {
+      "id": "g002",
+      "title": "佐克 I",
+      "originalTitle": "Zork I: The Great Underground Empire",
+      "firstYear": 1980,
+      "category": "文字冒险",
+      "genre": "纯文本／奇幻解谜",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "输入指令探索地下帝国，解开谜题并收集宝物。",
+      "notes": "按 Infocom 商业版；早期大型机 Zork 不并入。",
+      "source": "https://infocom-if.org/company/company.html"
+    },
+    {
+      "id": "g001",
+      "title": "神秘屋",
+      "originalTitle": "Mystery House",
+      "firstYear": 1980,
+      "category": "文字冒险",
+      "genre": "图文指令／悬疑",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "在宅邸中搜集线索，查明接连发生的谋杀。",
+      "notes": "最早商业发行版。",
+      "source": "https://www.sierragamers.com/ken-williams/"
+    },
+    {
+      "id": "g003",
+      "title": "Deadline",
+      "originalTitle": "Deadline",
+      "firstYear": 1982,
+      "category": "文字冒险",
+      "genre": "纯文本／推理",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "在限定时间内调查一宗可疑死亡事件。",
+      "notes": "",
+      "source": "https://infocom-if.org/games/games.html"
+    },
+    {
+      "id": "g005",
+      "title": "Lolita：野球拳",
+      "originalTitle": "ロリータ～野球拳",
+      "firstYear": 1982,
+      "category": "Galgame",
+      "genre": "成人向／猜拳",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "以野球拳规则进行的简易对战。",
+      "notes": "按广义早期美少女游戏收录；不是视觉小说。",
+      "source": "https://fm-7.com/museum/products/7bj82lkr/"
+    },
+    {
+      "id": "g004",
+      "title": "夜生活",
+      "originalTitle": "ナイトライフ",
+      "firstYear": 1982,
+      "category": "Galgame",
+      "genre": "成人向／生活工具",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "以情侣生活与生理周期为主题的早期成人软件。",
+      "notes": "历史作品；严格说并非典型恋爱叙事游戏。",
+      "source": "https://www.famitsu.com/news/202312/10327281.html"
+    },
+    {
+      "id": "g006",
+      "title": "Planetfall",
+      "originalTitle": "Planetfall",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "纯文本／科幻",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "在陌生星球探索设施，并追查危机的原因。",
+      "notes": "",
+      "source": "https://www.infocom-if.org/authors/meretzky.html"
+    },
+    {
+      "id": "g009",
+      "title": "团地妻的诱惑",
+      "originalTitle": "団地妻の誘惑",
+      "firstYear": 1983,
+      "category": "Galgame",
+      "genre": "成人向／冒险",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "通过指令探索住宅区并触发事件。",
+      "notes": "",
+      "source": "https://www.famitsu.com/news/202312/10327281.html"
+    },
+    {
+      "id": "g007",
+      "title": "波多比亚连续杀人事件",
+      "originalTitle": "ポートピア連続殺人事件",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文指令／推理",
+      "characters": [
+        "刑警（玩家）",
+        "ヤス"
+      ],
+      "charactersNote": "",
+      "synopsis": "扮演刑警调查神户港发生的杀人事件。",
+      "notes": "此处文字冒险包括图文指令游戏。",
+      "source": "https://fm-7.com/museum/products/k6sufaqm/"
+    },
+    {
+      "id": "g008",
+      "title": "玛丽酱危机一发",
+      "originalTitle": "マリちゃん危機一髪",
+      "firstYear": 1983,
+      "category": "Galgame",
+      "genre": "美少女／解救冒险",
+      "characters": [
+        "玛丽"
+      ],
+      "charactersNote": "",
+      "synopsis": "在图文冒险中寻找并救出玛丽。",
+      "notes": "部分版本附有磁带人声；不等同游戏内角色配音。",
+      "source": "https://fm-7.com/museum/products/1paitdl4/"
+    },
+    {
+      "id": "g010",
+      "title": "龙穴历险记",
+      "originalTitle": "Dragon’s Lair",
+      "firstYear": 1983,
+      "category": "互动动画",
+      "genre": "激光影碟／动作选择",
+      "characters": [
+        "德克（Dirk）",
+        "达芙妮（Daphne）"
+      ],
+      "charactersNote": "",
+      "synopsis": "观看手绘动画，按提示作出动作以救出公主。",
+      "notes": "美国街机原版。",
+      "source": "https://www.arcade-history.com/game/702/"
+    },
+    {
+      "id": "g012",
+      "title": "北海道连锁杀人：鄂霍次克消失",
+      "originalTitle": "北海道連鎖殺人 オホーツクに消ゆ",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文选项／推理",
+      "characters": [
+        "刑警（版本设定不同）",
+        "黑木五郎（早期PC版）",
+        "猿渡俊介（后续版）"
+      ],
+      "charactersNote": "",
+      "synopsis": "循线索穿梭北海道，调查连续杀人案。",
+      "notes": "1984 年 PC 原版；FM-7 移植在 1985 年。",
+      "source": "https://www.gamepres.org/pc88/library/1984/ohotsuku.htm"
+    },
+    {
+      "id": "g013",
+      "title": "荷兰妻会梦见电鳗吗？",
+      "originalTitle": "オランダ妻は電気ウナギの夢を見るか？",
+      "firstYear": 1984,
+      "category": "Galgame",
+      "genre": "成人向／冒险",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "以指令选择推进的早期成人冒险游戏。",
+      "notes": "首发 1984；FM-7 版登记为 1985 年。",
+      "source": "https://www.famitsu.com/news/202312/10327281.html"
+    },
+    {
+      "id": "g011",
+      "title": "银河系漫游指南",
+      "originalTitle": "The Hitchhiker’s Guide to the Galaxy",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "纯文本／科幻喜剧",
+      "characters": [
+        "亚瑟·登特",
+        "福特·普里费克特"
+      ],
+      "charactersNote": "",
+      "synopsis": "在荒诞的宇宙旅途中输入指令解谜。",
+      "notes": "",
+      "source": "https://infocom-if.org/games/games.html"
+    },
+    {
+      "id": "g016",
+      "title": "东京搭讪街",
+      "originalTitle": "TOKYOナンパストリート",
+      "firstYear": 1985,
+      "category": "Galgame",
+      "genre": "成人向／都市恋爱冒险",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "在东京街区与人物相遇并展开对话。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/vt0km2jr/"
+    },
+    {
+      "id": "g015",
+      "title": "天使们的午后",
+      "originalTitle": "天使たちの午後",
+      "firstYear": 1985,
+      "category": "Galgame",
+      "genre": "成人向／学园冒险",
+      "characters": [
+        "白石由美子"
+      ],
+      "charactersNote": "",
+      "synopsis": "在校园场景中与人物交谈并推进情节。",
+      "notes": "按 PC-8801 初版；FM-7 移植为 1986 年。",
+      "source": "https://www.famitsu.com/news/202312/10327281.html"
+    },
+    {
+      "id": "g014",
+      "title": "时间少女",
+      "originalTitle": "タイムギャル",
+      "firstYear": 1985,
+      "category": "互动动画",
+      "genre": "激光影碟／动作选择",
+      "characters": [
+        "玲香（レイカ）",
+        "鲁达（ルーダ）"
+      ],
+      "charactersNote": "",
+      "synopsis": "追捕窃取时光机的罪犯，穿越各个时代。",
+      "notes": "日本街机原版。",
+      "source": "https://www.taito.co.jp/mob/topics/2587"
+    },
+    {
+      "id": "g017",
+      "title": "轻井泽诱拐指南",
+      "originalTitle": "軽井沢誘拐案内",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "图文选项／推理",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "调查轻井泽发生的绑架事件。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/iq8kysdi/"
+    },
+    {
+      "id": "g018",
+      "title": "黄金国传奇",
+      "originalTitle": "エルドラド伝奇",
+      "firstYear": 1985,
+      "category": "Galgame",
+      "genre": "成人向／奇幻冒险",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "围绕传说中的黄金国展开图文冒险。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/333wukd2/"
+    },
+    {
+      "id": "g019",
+      "title": "No・Ri・Ko",
+      "originalTitle": "No・Ri・Ko",
+      "firstYear": 1988,
+      "category": "文字冒险",
+      "genre": "CD-ROM／偶像互动",
+      "characters": [
+        "小川范子"
+      ],
+      "charactersNote": "",
+      "synopsis": "与偶像小川范子进行情境互动，听到真人演出的声音。",
+      "notes": "配音与歌曲来自偶像本人；并非 Leaf 式视觉小说。",
+      "source": "https://pcefan.com/pcengine/entry15.html"
+    },
+    {
+      "id": "g040",
+      "title": "Snatcher",
+      "originalTitle": "スナッチャー",
+      "firstYear": 1988,
+      "category": "文字冒险",
+      "genre": "科幻／赛博朋克侦探",
+      "characters": [
+        "吉利安·希德",
+        "Metal Gear Mk.II"
+      ],
+      "charactersNote": "",
+      "synopsis": "在新神户市追查冒充人类的机器人。",
+      "notes": "PC原版与1992年有声CD移植不可混为一谈。",
+      "source": "https://www.konami.com/corporate/ja/history/product.html"
+    },
+    {
+      "id": "g020",
+      "title": "眼镜蛇：黑龙王的传说",
+      "originalTitle": "コブラ 黒竜王の伝説",
+      "firstYear": 1989,
+      "category": "文字冒险",
+      "genre": "CD-ROM／科幻冒险",
+      "characters": [
+        "眼镜蛇（コブラ）"
+      ],
+      "charactersNote": "",
+      "synopsis": "跟随眼镜蛇展开太空寻宝冒险。",
+      "notes": "",
+      "source": "https://pcefan.com/pcengine/entry15.html"
+    },
+    {
+      "id": "g021",
+      "title": "弟切草",
+      "originalTitle": "弟切草",
+      "firstYear": 1992,
+      "category": "视觉小说",
+      "genre": "有声小说／恐怖",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "雨夜误入洋馆，通过选择推动恐怖故事。",
+      "notes": "“有声小说”指音乐与音效，不保证角色配音。",
+      "source": "https://www.spike-chunsoft.co.jp/company/outline/"
+    },
+    {
+      "id": "g023",
+      "title": "心跳回忆",
+      "originalTitle": "ときめきメモリアル",
+      "firstYear": 1994,
+      "category": "Galgame",
+      "genre": "恋爱模拟",
+      "characters": [
+        "藤崎诗织",
+        "虹野沙希",
+        "馆林见晴"
+      ],
+      "charactersNote": "",
+      "synopsis": "安排三年高中生活并与角色建立关系。",
+      "notes": "恋爱模拟，不属于狭义视觉小说。",
+      "source": "https://www.konami.com/games/tokimeki/about/index.html"
+    },
+    {
+      "id": "g022",
+      "title": "镰鼬之夜",
+      "originalTitle": "かまいたちの夜",
+      "firstYear": 1994,
+      "category": "视觉小说",
+      "genre": "有声小说／推理",
+      "characters": [
+        "透",
+        "真理"
+      ],
+      "charactersNote": "",
+      "synopsis": "被困雪山民宿时查找杀人犯。",
+      "notes": "",
+      "source": "https://www.spike-chunsoft.co.jp/pages/games/kama/"
+    },
+    {
+      "id": "g038",
+      "title": "YU-NO",
+      "originalTitle": "この世の果てで恋を唄う少女YU-NO",
+      "firstYear": 1996,
+      "category": "视觉小说",
+      "genre": "科幻／多线冒险",
+      "characters": [
+        "有马拓哉",
+        "波多野神奈",
+        "岛津澪",
+        "尤诺"
+      ],
+      "charactersNote": "",
+      "synopsis": "穿梭平行世界，调查父亲失踪与时空装置之谜。",
+      "notes": "1996原版与2017完全重制分别记录。",
+      "source": "https://yu-no.jp/spec/ps/"
+    },
+    {
+      "id": "g025",
+      "title": "痕",
+      "originalTitle": "痕",
+      "firstYear": 1996,
+      "category": "视觉小说",
+      "genre": "悬疑／成人向",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "返乡后围绕一桩旧事展开多线悬疑。",
+      "notes": "兼属广义 Galgame。",
+      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/"
+    },
+    {
+      "id": "g024",
+      "title": "雫",
+      "originalTitle": "雫",
+      "firstYear": 1996,
+      "category": "视觉小说",
+      "genre": "悬疑／成人向",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "在校园中追查奇异事件。",
+      "notes": "Leaf Visual Novel Series 第 1 作；兼属广义 Galgame。",
+      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/"
+    },
+    {
+      "id": "g026",
+      "title": "ToHeart",
+      "originalTitle": "ToHeart",
+      "firstYear": 1997,
+      "category": "视觉小说",
+      "genre": "校园恋爱",
+      "characters": [
+        "藤田浩之",
+        "神岸明里",
+        "来栖川芹香",
+        "玛尔琪（Multi）"
+      ],
+      "charactersNote": "",
+      "synopsis": "体验校园日常，发展不同人物的故事线。",
+      "notes": "兼属 Galgame；1999 年 PlayStation 版加入角色配音。",
+      "source": "https://aquaplus.jp/toheart/en.html"
+    },
+    {
+      "id": "g027",
+      "title": "双重角色",
+      "originalTitle": "ダブルキャスト",
+      "firstYear": 1998,
+      "category": "互动动画",
+      "genre": "全动画／悬疑",
+      "characters": [
+        "美月"
+      ],
+      "charactersNote": "",
+      "synopsis": "在全动画剧情中作出选择，揭开女主角的秘密。",
+      "notes": "“やるドラ”系列；由 Production I.G 制作动画。",
+      "source": "https://www.productionig.com/contents/works/05_/000169.html"
+    },
+    {
+      "id": "g028",
+      "title": "Kanon",
+      "originalTitle": "Kanon",
+      "firstYear": 1999,
+      "category": "视觉小说",
+      "genre": "恋爱／奇幻",
+      "characters": [
+        "相泽祐一",
+        "月宫亚由",
+        "水濑名雪"
+      ],
+      "charactersNote": "",
+      "synopsis": "在冬季小镇重逢旧友，逐步找回记忆。",
+      "notes": "兼属 Galgame；按 Windows 初版。",
+      "source": "https://key.visualarts.gr.jp/product/kanon/"
+    },
+    {
+      "id": "g029",
+      "title": "AIR",
+      "originalTitle": "AIR",
+      "firstYear": 2000,
+      "category": "视觉小说",
+      "genre": "恋爱／奇幻",
+      "characters": [
+        "国崎往人",
+        "神尾观铃",
+        "神尾晴子"
+      ],
+      "charactersNote": "",
+      "synopsis": "旅行中的青年在海边小镇追寻传说。",
+      "notes": "兼属 Galgame。",
+      "source": "https://key.visualarts.gr.jp/key20th/history.html"
+    },
+    {
+      "id": "g030",
+      "title": "CLANNAD",
+      "originalTitle": "CLANNAD",
+      "firstYear": 2004,
+      "category": "视觉小说",
+      "genre": "校园／家庭",
+      "characters": [
+        "冈崎朋也",
+        "古河渚",
+        "坂上智代"
+      ],
+      "charactersNote": "",
+      "synopsis": "结识小镇上的人们，经历青春与家庭故事。",
+      "notes": "2004 年 4 月 28 日首发；兼属广义 Galgame。",
+      "source": "https://key.visualarts.gr.jp/key20th/history.html"
+    },
+    {
+      "id": "g031",
+      "title": "Fate/stay night",
+      "originalTitle": "Fate/stay night",
+      "firstYear": 2004,
+      "category": "视觉小说",
+      "genre": "奇幻／战斗",
+      "characters": [
+        "卫宫士郎",
+        "Saber",
+        "远坂凛",
+        "间桐樱"
+      ],
+      "charactersNote": "",
+      "synopsis": "卷入圣杯战争，与从者并肩求生。",
+      "notes": "官网明确列出初版角色配音“无”；后续版本不同。",
+      "source": "https://www.typemoon.com/products/fate/data/index.html"
+    },
+    {
+      "id": "g032",
+      "title": "星之梦",
+      "originalTitle": "planetarian ～ちいさなほしのゆめ～",
+      "firstYear": 2004,
+      "category": "视觉小说",
+      "genre": "单线剧情／科幻",
+      "characters": [
+        "星野梦美",
+        "废墟猎人（屑屋）"
+      ],
+      "charactersNote": "",
+      "synopsis": "在末日废墟与星象馆机器人相遇。",
+      "notes": "最初的在线版仅有部分语音；2006 年 PS2 版扩充为全配音。",
+      "source": "https://www.prot.co.jp/ps2/planetarian/index.html"
+    },
+    {
+      "id": "g033",
+      "title": "日在校园",
+      "originalTitle": "School Days",
+      "firstYear": 2005,
+      "category": "互动动画",
+      "genre": "全动画／恋爱剧情",
+      "characters": [
+        "伊藤诚",
+        "桂言叶",
+        "西园寺世界"
+      ],
+      "charactersNote": "",
+      "synopsis": "围绕三名学生的感情关系，在动画剧情中选择不同走向。",
+      "notes": "兼属视觉小说与 Galgame；首发 2005 年，2025 年为 20 周年。",
+      "source": "https://0verflow.com/sdre_live/"
+    },
+    {
+      "id": "g034",
+      "title": "428：被封锁的涩谷",
+      "originalTitle": "428 ～封鎖された渋谷で～",
+      "firstYear": 2008,
+      "category": "视觉小说",
+      "genre": "实拍有声小说／群像悬疑",
+      "characters": [
+        "加纳慎也",
+        "远藤亚智",
+        "御法川实"
+      ],
+      "charactersNote": "",
+      "synopsis": "从多名主角视角调查涩谷的人质事件。",
+      "notes": "“有声小说”不等于对白配音；首发 2008 年。",
+      "source": "https://www.nintendo.co.jp/wii/software/rtoj/index.html"
+    },
+    {
+      "id": "g039",
+      "title": "WHITE ALBUM2",
+      "originalTitle": "WHITE ALBUM2 -introductory chapter-",
+      "firstYear": 2010,
+      "category": "视觉小说",
+      "genre": "恋爱／群像",
+      "characters": [
+        "北原春希",
+        "小木曾雪菜",
+        "冬马和纱"
+      ],
+      "charactersNote": "",
+      "synopsis": "从学园祭的音乐合作开始，描绘三人的感情纠葛。",
+      "notes": "2010序章和2011终章属于分期发行，主机版合并章节。",
+      "source": "https://blog.aquaplus.jp/archives/2352"
+    },
+    {
+      "id": "g035",
+      "title": "弹丸论破：希望的学园与绝望高中生",
+      "originalTitle": "ダンガンロンパ 希望の学園と絶望の高校生",
+      "firstYear": 2010,
+      "category": "视觉小说",
+      "genre": "推理／辩论",
+      "characters": [
+        "苗木诚",
+        "雾切响子",
+        "黑白熊"
+      ],
+      "charactersNote": "",
+      "synopsis": "被困学园，调查案件并参与班级审判。",
+      "notes": "推理冒险含角色配音；不是恋爱游戏。",
+      "source": "https://www.spike-chunsoft.co.jp/news/17141/"
+    },
+    {
+      "id": "g036",
+      "title": "月姬：月之玻璃片",
+      "originalTitle": "月姫 -A piece of blue glass moon-",
+      "firstYear": 2021,
+      "category": "视觉小说",
+      "genre": "奇幻／悬疑",
+      "characters": [
+        "远野志贵",
+        "爱尔奎特",
+        "希耶尔",
+        "远野秋叶"
+      ],
+      "charactersNote": "",
+      "synopsis": "身怀特殊视觉能力的少年卷入吸血鬼事件。",
+      "notes": "2021 年重制新作；2000 年同人原作另有年份。",
+      "source": "https://typemoon.com/products/tsukihime/"
+    },
+    {
+      "id": "g037",
+      "title": "ToHeart（重制版）",
+      "originalTitle": "ToHeart",
+      "firstYear": 2025,
+      "category": "视觉小说",
+      "genre": "校园恋爱／重制",
+      "characters": [
+        "藤田浩之",
+        "神岸明里",
+        "玛尔琪（Multi）"
+      ],
+      "charactersNote": "",
+      "synopsis": "以新画面重新演绎经典校园恋爱故事。",
+      "notes": "1997 年原作的 2025 年重制版，单独列示；平台发行方有别。",
+      "source": "https://aquaplus.jp/toheart/en.html"
+    }
+  ],
+  "versions": [
+    {
+      "id": "g001-v1",
+      "workId": "g001",
+      "year": 1980,
+      "platform": "Apple II",
+      "publisher": "On-Line Systems",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "最早商业发行版。",
+      "source": "https://www.sierragamers.com/ken-williams/"
+    },
+    {
+      "id": "g002-v1",
+      "workId": "g002",
+      "year": 1980,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "按 Infocom 商业版；早期大型机 Zork 不并入。",
+      "source": "https://infocom-if.org/company/company.html"
+    },
+    {
+      "id": "g003-v1",
+      "workId": "g003",
+      "year": 1982,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "作品最早确认的版本。",
+      "source": "https://infocom-if.org/games/games.html"
+    },
+    {
+      "id": "g004-v1",
+      "workId": "g004",
+      "year": 1982,
+      "platform": "日本个人计算机",
+      "publisher": "光荣",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "历史作品；严格说并非典型恋爱叙事游戏。",
+      "source": "https://www.famitsu.com/news/202312/10327281.html"
+    },
+    {
+      "id": "g005-v1",
+      "workId": "g005",
+      "year": 1982,
+      "platform": "FM-7 等",
+      "publisher": "PSK",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "按广义早期美少女游戏收录；不是视觉小说。",
+      "source": "https://fm-7.com/museum/products/7bj82lkr/"
+    },
+    {
+      "id": "g006-v1",
+      "workId": "g006",
+      "year": 1983,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "作品最早确认的版本。",
+      "source": "https://www.infocom-if.org/authors/meretzky.html"
+    },
+    {
+      "id": "g007-v1",
+      "workId": "g007",
+      "year": 1983,
+      "platform": "日本个人计算机",
+      "publisher": "艾尼克斯",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "此处文字冒险包括图文指令游戏。",
+      "source": "https://fm-7.com/museum/products/k6sufaqm/"
+    },
+    {
+      "id": "g008-v1",
+      "workId": "g008",
+      "year": 1983,
+      "platform": "PC-8801 等",
+      "publisher": "艾尼克斯",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "部分版本附有磁带人声；不等同游戏内角色配音。",
+      "source": "https://fm-7.com/museum/products/1paitdl4/"
+    },
+    {
+      "id": "g009-v1",
+      "workId": "g009",
+      "year": 1983,
+      "platform": "日本个人计算机",
+      "publisher": "光荣",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "作品最早确认的版本。",
+      "source": "https://www.famitsu.com/news/202312/10327281.html"
+    },
+    {
+      "id": "g010-v1",
+      "workId": "g010",
+      "year": 1983,
+      "platform": "街机",
+      "publisher": "Cinematronics",
+      "kind": "首发",
+      "voice": "有",
+      "differences": "美国街机原版。",
+      "source": "https://www.arcade-history.com/game/702/"
+    },
+    {
+      "id": "g011-v1",
+      "workId": "g011",
+      "year": 1984,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "作品最早确认的版本。",
+      "source": "https://infocom-if.org/games/games.html"
+    },
+    {
+      "id": "g012-v1",
+      "workId": "g012",
+      "year": 1984,
+      "platform": "PC-8801 等",
+      "publisher": "ASCII（LOGIN SOFT）",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "1984 年 PC 原版；FM-7 移植在 1985 年。",
+      "source": "https://www.gamepres.org/pc88/library/1984/ohotsuku.htm"
+    },
+    {
+      "id": "g013-v1",
+      "workId": "g013",
+      "year": 1984,
+      "platform": "日本个人计算机",
+      "publisher": "光荣",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "首发 1984；FM-7 版登记为 1985 年。",
+      "source": "https://www.famitsu.com/news/202312/10327281.html"
+    },
+    {
+      "id": "g007-v2",
+      "workId": "g007",
+      "year": 1985,
+      "platform": "红白机",
+      "publisher": "艾尼克斯",
+      "kind": "家庭机移植",
+      "voice": "未核实",
+      "differences": "移植时重做指令选择界面；并非1983年PC初版。",
+      "source": "https://www.nintendo.co.jp/etc/interview/platinumgames/vol1/index3.html"
+    },
+    {
+      "id": "g014-v1",
+      "workId": "g014",
+      "year": 1985,
+      "platform": "街机",
+      "publisher": "太东",
+      "kind": "首发",
+      "voice": "有",
+      "differences": "日本街机原版。",
+      "source": "https://www.taito.co.jp/mob/topics/2587"
+    },
+    {
+      "id": "g015-v1",
+      "workId": "g015",
+      "year": 1985,
+      "platform": "PC-8801 等",
+      "publisher": "JAST",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "按 PC-8801 初版；FM-7 移植为 1986 年。",
+      "source": "https://www.famitsu.com/news/202312/10327281.html"
+    },
+    {
+      "id": "g016-v1",
+      "workId": "g016",
+      "year": 1985,
+      "platform": "日本个人计算机",
+      "publisher": "艾尼克斯",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "作品最早确认的版本。",
+      "source": "https://fm-7.com/museum/products/vt0km2jr/"
+    },
+    {
+      "id": "g017-v1",
+      "workId": "g017",
+      "year": 1985,
+      "platform": "日本个人计算机",
+      "publisher": "艾尼克斯",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "作品最早确认的版本。",
+      "source": "https://fm-7.com/museum/products/iq8kysdi/"
+    },
+    {
+      "id": "g018-v1",
+      "workId": "g018",
+      "year": 1985,
+      "platform": "FM-7 等",
+      "publisher": "艾尼克斯",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "作品最早确认的版本。",
+      "source": "https://fm-7.com/museum/products/333wukd2/"
+    },
+    {
+      "id": "g012-v2",
+      "workId": "g012",
+      "year": 1987,
+      "platform": "红白机",
+      "publisher": "ASCII",
+      "kind": "改编移植",
+      "voice": "未核实",
+      "differences": "根据PC版重新编排故事与人物表现。",
+      "source": "https://www.4gamer.net/games/777/G077714/20240222001/"
+    },
+    {
+      "id": "g019-v1",
+      "workId": "g019",
+      "year": 1988,
+      "platform": "PC Engine CD-ROM²",
+      "publisher": "Hudson",
+      "kind": "首发",
+      "voice": "有",
+      "differences": "配音与歌曲来自偶像本人；并非 Leaf 式视觉小说。",
+      "source": "https://pcefan.com/pcengine/entry15.html"
+    },
+    {
+      "id": "g040-v1",
+      "workId": "g040",
+      "year": 1988,
+      "platform": "PC-8801",
+      "publisher": "Konami",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "PC初版以指令调查为核心。",
+      "source": "https://www.konami.com/corporate/ja/history/product.html"
+    },
+    {
+      "id": "g020-v1",
+      "workId": "g020",
+      "year": 1989,
+      "platform": "PC Engine CD-ROM²",
+      "publisher": "Hudson",
+      "kind": "首发",
+      "voice": "有",
+      "differences": "作品最早确认的版本。",
+      "source": "https://pcefan.com/pcengine/entry15.html"
+    },
+    {
+      "id": "g021-v1",
+      "workId": "g021",
+      "year": 1992,
+      "platform": "超级任天堂",
+      "publisher": "Chunsoft",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "“有声小说”指音乐与音效，不保证角色配音。",
+      "source": "https://www.spike-chunsoft.co.jp/company/outline/"
+    },
+    {
+      "id": "g040-v2",
+      "workId": "g040",
+      "year": 1992,
+      "platform": "PC Engine SUPER CD-ROM²",
+      "publisher": "Konami",
+      "kind": "有声移植",
+      "voice": "有",
+      "differences": "新增角色语音与扩充剧情表现。",
+      "source": "https://www.konami.com/games/pcemini/lineup/jp/ja/"
+    },
+    {
+      "id": "g022-v1",
+      "workId": "g022",
+      "year": 1994,
+      "platform": "超级任天堂",
+      "publisher": "Chunsoft",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "作品最早确认的版本。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/games/kama/"
+    },
+    {
+      "id": "g023-v1",
+      "workId": "g023",
+      "year": 1994,
+      "platform": "PC Engine SUPER CD-ROM²",
+      "publisher": "Konami",
+      "kind": "首发",
+      "voice": "有",
+      "differences": "恋爱模拟，不属于狭义视觉小说。",
+      "source": "https://www.konami.com/games/tokimeki/about/index.html"
+    },
+    {
+      "id": "g023-v2",
+      "workId": "g023",
+      "year": 1995,
+      "platform": "PlayStation",
+      "publisher": "Konami",
+      "kind": "增强移植",
+      "voice": "有",
+      "differences": "《forever with you》改良画面与音效。",
+      "source": "https://www.konami.com/games/corporate/ja/news/topics/20250203/"
+    },
+    {
+      "id": "g024-v1",
+      "workId": "g024",
+      "year": 1996,
+      "platform": "Windows",
+      "publisher": "Leaf",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "Leaf Visual Novel Series 第 1 作；兼属广义 Galgame。",
+      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/"
+    },
+    {
+      "id": "g025-v1",
+      "workId": "g025",
+      "year": 1996,
+      "platform": "Windows",
+      "publisher": "Leaf",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "兼属广义 Galgame。",
+      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/"
+    },
+    {
+      "id": "g038-v1",
+      "workId": "g038",
+      "year": 1996,
+      "platform": "PC-9800",
+      "publisher": "ELF",
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "原版多线剧情与宝玉系统；当年配音情况需逐版核对。",
+      "source": "https://yu-no.jp/spec/ps/"
+    },
+    {
+      "id": "g026-v1",
+      "workId": "g026",
+      "year": 1997,
+      "platform": "Windows",
+      "publisher": "Leaf",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "兼属 Galgame；1999 年 PlayStation 版加入角色配音。",
+      "source": "https://aquaplus.jp/toheart/en.html"
+    },
+    {
+      "id": "g038-v2",
+      "workId": "g038",
+      "year": 1997,
+      "platform": "Sega Saturn",
+      "publisher": "ELF",
+      "kind": "家用机移植",
+      "voice": "有",
+      "differences": "新增角色配音并调整表现与内容。",
+      "source": "https://yu-no.jp/spec/ps/"
+    },
+    {
+      "id": "g027-v1",
+      "workId": "g027",
+      "year": 1998,
+      "platform": "PlayStation",
+      "publisher": "Sony Computer Entertainment",
+      "kind": "首发",
+      "voice": "有",
+      "differences": "“やるドラ”系列；由 Production I.G 制作动画。",
+      "source": "https://www.productionig.com/contents/works/05_/000169.html"
+    },
+    {
+      "id": "g026-v2",
+      "workId": "g026",
+      "year": 1999,
+      "platform": "PlayStation",
+      "publisher": "AQUAPLUS",
+      "kind": "全年龄移植",
+      "voice": "有",
+      "differences": "重写与补充部分内容，并加入角色配音。",
+      "source": "https://aquaplus.jp/th/"
+    },
+    {
+      "id": "g028-v1",
+      "workId": "g028",
+      "year": 1999,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "兼属 Galgame；按 Windows 初版。",
+      "source": "https://key.visualarts.gr.jp/product/kanon/"
+    },
+    {
+      "id": "g029-v1",
+      "workId": "g029",
+      "year": 2000,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "兼属 Galgame。",
+      "source": "https://key.visualarts.gr.jp/key20th/history.html"
+    },
+    {
+      "id": "g028-v2",
+      "workId": "g028",
+      "year": 2002,
+      "platform": "PlayStation 2",
+      "publisher": "Interchannel",
+      "kind": "家用机移植",
+      "voice": "有",
+      "differences": "家用机版提供角色配音；主角配音因版本而异。",
+      "source": "https://www.prot.co.jp/switch/kanon/introduction.html"
+    },
+    {
+      "id": "g030-v1",
+      "workId": "g030",
+      "year": 2004,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "2004 年 4 月 28 日首发；兼属广义 Galgame。",
+      "source": "https://key.visualarts.gr.jp/key20th/history.html"
+    },
+    {
+      "id": "g031-v1",
+      "workId": "g031",
+      "year": 2004,
+      "platform": "Windows",
+      "publisher": "TYPE-MOON",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "官网明确列出初版角色配音“无”；后续版本不同。",
+      "source": "https://www.typemoon.com/products/fate/data/index.html"
+    },
+    {
+      "id": "g032-v1",
+      "workId": "g032",
+      "year": 2004,
+      "platform": "Windows 在线下载",
+      "publisher": "VisualArt’s / Key",
+      "kind": "首发",
+      "voice": "有（部分）",
+      "differences": "最初的在线版仅有部分语音；2006 年 PS2 版扩充为全配音。",
+      "source": "https://www.prot.co.jp/ps2/planetarian/index.html"
+    },
+    {
+      "id": "g027-v2",
+      "workId": "g027",
+      "year": 2005,
+      "platform": "PSP",
+      "publisher": "Sony Computer Entertainment",
+      "kind": "掌机移植",
+      "voice": "有",
+      "differences": "将PlayStation全动画多结局作品移植至PSP。",
+      "source": "https://www.productionig.com/contents/works_sp/31_/index.html"
+    },
+    {
+      "id": "g033-v1",
+      "workId": "g033",
+      "year": 2005,
+      "platform": "Windows",
+      "publisher": "Overflow（STACK）",
+      "kind": "首发",
+      "voice": "有",
+      "differences": "兼属视觉小说与 Galgame；首发 2005 年，2025 年为 20 周年。",
+      "source": "https://0verflow.com/sdre_live/"
+    },
+    {
+      "id": "g030-v2",
+      "workId": "g030",
+      "year": 2006,
+      "platform": "PlayStation 2",
+      "publisher": "Interchannel",
+      "kind": "家用机移植",
+      "voice": "有",
+      "differences": "原版内容移植至主机，加入角色配音。",
+      "source": "https://key.visualarts.gr.jp/clannad_10th/"
+    },
+    {
+      "id": "g032-v2",
+      "workId": "g032",
+      "year": 2006,
+      "platform": "PlayStation 2",
+      "publisher": "PROTOTYPE",
+      "kind": "全配音移植",
+      "voice": "有",
+      "differences": "原2004年Windows版仅部分声音，本版加入包括主角在内的完整配音。",
+      "source": "https://www.prot.co.jp/ps2/planetarian/index.html"
+    },
+    {
+      "id": "g031-v2",
+      "workId": "g031",
+      "year": 2007,
+      "platform": "PlayStation 2",
+      "publisher": "角川书店",
+      "kind": "全年龄移植",
+      "voice": "有",
+      "differences": "《Realta Nua》加入角色配音与新演出。",
+      "source": "https://typemoon.com/contents/9ncnes/fate-stay-night-realta-nua"
+    },
+    {
+      "id": "g030-v3",
+      "workId": "g030",
+      "year": 2008,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "kind": "全配音修订版",
+      "voice": "有",
+      "differences": "《CLANNAD フルボイス》，与2004年无配音初版区分。",
+      "source": "https://key.visualarts.gr.jp/clannad_10th/"
+    },
+    {
+      "id": "g034-v1",
+      "workId": "g034",
+      "year": 2008,
+      "platform": "Wii",
+      "publisher": "世嘉（开发：Chunsoft）",
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "“有声小说”不等于对白配音；首发 2008 年。",
+      "source": "https://www.nintendo.co.jp/wii/software/rtoj/index.html"
+    },
+    {
+      "id": "g035-v1",
+      "workId": "g035",
+      "year": 2010,
+      "platform": "PSP",
+      "publisher": "Spike",
+      "kind": "首发",
+      "voice": "有",
+      "differences": "推理冒险含角色配音；不是恋爱游戏。",
+      "source": "https://www.spike-chunsoft.co.jp/news/17141/"
+    },
+    {
+      "id": "g039-v1",
+      "workId": "g039",
+      "year": 2010,
+      "platform": "Windows",
+      "publisher": "Leaf / AQUAPLUS",
+      "kind": "首发／序章",
+      "voice": "有",
+      "differences": "仅含《introductory chapter》，完整后续剧情后来发行。",
+      "source": "https://blog.aquaplus.jp/archives/2352"
+    },
+    {
+      "id": "g039-v2",
+      "workId": "g039",
+      "year": 2011,
+      "platform": "Windows",
+      "publisher": "Leaf / AQUAPLUS",
+      "kind": "续篇及整合版",
+      "voice": "有",
+      "differences": "《closing chapter》发行，部分商品附《introductory chapter》内容。",
+      "source": "https://blog.aquaplus.jp/archives/2352"
+    },
+    {
+      "id": "g031-v3",
+      "workId": "g031",
+      "year": 2012,
+      "platform": "PlayStation Vita",
+      "publisher": "角川游戏",
+      "kind": "掌机移植",
+      "voice": "有",
+      "differences": "以《Realta Nua》为基础适配Vita。",
+      "source": "https://www.typemoon.com/products/fatevita/character/"
+    },
+    {
+      "id": "g039-v3",
+      "workId": "g039",
+      "year": 2012,
+      "platform": "PlayStation 3",
+      "publisher": "AQUAPLUS",
+      "kind": "合集与全年龄修订",
+      "voice": "有",
+      "differences": "《幸せの向こう側》合并章节，新增剧情、CG及动态立绘。",
+      "source": "https://aquaplus.jp/wa2/product.html"
+    },
+    {
+      "id": "g039-v4",
+      "workId": "g039",
+      "year": 2013,
+      "platform": "PlayStation Vita",
+      "publisher": "AQUAPLUS",
+      "kind": "掌机移植",
+      "voice": "有",
+      "differences": "增加小说显示模式、画面切换与名场面提示。",
+      "source": "https://aquaplus.jp/wa2vita/products/"
+    },
+    {
+      "id": "g038-v3",
+      "workId": "g038",
+      "year": 2017,
+      "platform": "PlayStation 4",
+      "publisher": "5pb. / MAGES.",
+      "kind": "完全重制",
+      "voice": "有",
+      "differences": "新角色画面、重编音乐、角色配音；预购附原版移植DLC。",
+      "source": "https://yu-no.jp/spec/ps/"
+    },
+    {
+      "id": "g038-v4",
+      "workId": "g038",
+      "year": 2017,
+      "platform": "PlayStation Vita",
+      "publisher": "5pb. / MAGES.",
+      "kind": "完全重制",
+      "voice": "有",
+      "differences": "与PS4版同期发行的掌机版。",
+      "source": "https://yu-no.jp/spec/ps/"
+    },
+    {
+      "id": "g034-v2",
+      "workId": "g034",
+      "year": 2018,
+      "platform": "PlayStation 4",
+      "publisher": "Spike Chunsoft",
+      "kind": "高清移植",
+      "voice": "未核实",
+      "differences": "面向现代主机重新发行。",
+      "source": "https://www.spike-chunsoft.co.jp/news/1799/"
+    },
+    {
+      "id": "g034-v3",
+      "workId": "g034",
+      "year": 2018,
+      "platform": "Windows / Steam",
+      "publisher": "Spike Chunsoft",
+      "kind": "高清移植",
+      "voice": "未核实",
+      "differences": "与PS4版同日发行的PC版。",
+      "source": "https://www.spike-chunsoft.co.jp/news/1799/"
+    },
+    {
+      "id": "g030-v4",
+      "workId": "g030",
+      "year": 2019,
+      "platform": "Nintendo Switch",
+      "publisher": "PROTOTYPE",
+      "kind": "高清移植",
+      "voice": "有",
+      "differences": "携带模式与多语言字幕；按Switch版发行年记录。",
+      "source": "https://www.prot.co.jp/switch/clannad/spec.html"
+    },
+    {
+      "id": "g038-v5",
+      "workId": "g038",
+      "year": 2019,
+      "platform": "Nintendo Switch",
+      "publisher": "5pb. / MAGES.",
+      "kind": "重制移植",
+      "voice": "有",
+      "differences": "2017重制版移植至Switch。",
+      "source": "https://yu-no.jp/spec/"
+    },
+    {
+      "id": "g029-v2",
+      "workId": "g029",
+      "year": 2021,
+      "platform": "Nintendo Switch",
+      "publisher": "PROTOTYPE",
+      "kind": "高清移植",
+      "voice": "有",
+      "differences": "提供日语全配音，之后更新加入英语及简体中文字幕。",
+      "source": "https://www.prot.co.jp/switch/air/spec.html"
+    },
+    {
+      "id": "g035-v2",
+      "workId": "g035",
+      "year": 2021,
+      "platform": "Nintendo Switch",
+      "publisher": "Spike Chunsoft",
+      "kind": "纪念版移植",
+      "voice": "有",
+      "differences": "收入系列合集，也提供单独下载。",
+      "source": "https://www.spike-chunsoft.co.jp/news/13989/"
+    },
+    {
+      "id": "g036-v2",
+      "workId": "g036",
+      "year": 2021,
+      "platform": "Nintendo Switch",
+      "publisher": "TYPE-MOON",
+      "kind": "同步首发",
+      "voice": "有",
+      "differences": "与PlayStation 4版同年发行；非2000年PC原版。",
+      "source": "https://typemoon.com/products/tsukihime/"
+    },
+    {
+      "id": "g036-v1",
+      "workId": "g036",
+      "year": 2021,
+      "platform": "PlayStation 4",
+      "publisher": "TYPE-MOON",
+      "kind": "重制首发",
+      "voice": "有",
+      "differences": "2021 年重制新作；2000 年同人原作另有年份。",
+      "source": "https://typemoon.com/products/tsukihime/"
+    },
+    {
+      "id": "g014-v2",
+      "workId": "g014",
+      "year": 2023,
+      "platform": "Nintendo Switch",
+      "publisher": "太东",
+      "kind": "高清复刻",
+      "voice": "有",
+      "differences": "收录于太东LD游戏合集，升级画面并保留互动动画。",
+      "source": "https://www.taito.co.jp/taitoldgamecollection"
+    },
+    {
+      "id": "g028-v3",
+      "workId": "g028",
+      "year": 2023,
+      "platform": "Nintendo Switch",
+      "publisher": "PROTOTYPE",
+      "kind": "高清移植",
+      "voice": "有（主角部分）",
+      "differences": "高清画面与日语角色配音；主角仅部分场景有声。",
+      "source": "https://www.prot.co.jp/switch/kanon/spec.html"
+    },
+    {
+      "id": "g012-v3",
+      "workId": "g012",
+      "year": 2024,
+      "platform": "Nintendo Switch",
+      "publisher": "G-MODE",
+      "kind": "重制",
+      "voice": "有",
+      "differences": "依据红白机版重制，新增后续故事与人物配音。",
+      "source": "https://info.gmodecorp.com/cs/okhotsk/"
+    },
+    {
+      "id": "g012-v4",
+      "workId": "g012",
+      "year": 2024,
+      "platform": "Windows / Steam",
+      "publisher": "G-MODE",
+      "kind": "重制",
+      "voice": "有",
+      "differences": "与Switch同款重制版；按平台单独登记。",
+      "source": "https://info.gmodecorp.com/cs/okhotsk/products/"
+    },
+    {
+      "id": "g031-v4",
+      "workId": "g031",
+      "year": 2024,
+      "platform": "Nintendo Switch",
+      "publisher": "TYPE-MOON",
+      "kind": "高清复刻",
+      "voice": "有",
+      "differences": "基于Vita版，画面高清化并增加多语言文本。",
+      "source": "https://typemoon.com/products/f-sn/"
+    },
+    {
+      "id": "g031-v5",
+      "workId": "g031",
+      "year": 2024,
+      "platform": "Windows / Steam",
+      "publisher": "TYPE-MOON",
+      "kind": "高清复刻",
+      "voice": "有",
+      "differences": "与Switch版同期发布的《REMASTERED》。",
+      "source": "https://typemoon.com/products/f-sn/"
+    },
+    {
+      "id": "g014-v3",
+      "workId": "g014",
+      "year": 2025,
+      "platform": "Windows / Steam",
+      "publisher": "太东",
+      "kind": "高清复刻移植",
+      "voice": "有",
+      "differences": "高清复刻版在Steam发行。",
+      "source": "https://www.taito.co.jp/mob/topics/36776"
+    },
+    {
+      "id": "g023-v3",
+      "workId": "g023",
+      "year": 2025,
+      "platform": "Nintendo Switch",
+      "publisher": "Konami",
+      "kind": "复刻",
+      "voice": "有",
+      "differences": "《forever with you エモーショナル》加入EVS呼名功能与图像切换。",
+      "source": "https://www.konami.com/games/corporate/ja/news/topics/20250508/"
+    },
+    {
+      "id": "g033-v2",
+      "workId": "g033",
+      "year": 2025,
+      "platform": "Windows",
+      "publisher": "Overflow（STACK）",
+      "kind": "高清复刻",
+      "voice": "有",
+      "differences": "《School Days REMASTERED》重做现代系统兼容性，保留动画式叙事。",
+      "source": "https://0verflow.com/sdrm/"
+    },
+    {
+      "id": "g037-v1",
+      "workId": "g037",
+      "year": 2025,
+      "platform": "Nintendo Switch",
+      "publisher": "AQUAPLUS",
+      "kind": "重制首发",
+      "voice": "有",
+      "differences": "1997 年原作的 2025 年重制版，单独列示；平台发行方有别。",
+      "source": "https://aquaplus.jp/toheart/en.html"
+    },
+    {
+      "id": "g037-v2",
+      "workId": "g037",
+      "year": 2025,
+      "platform": "Windows / Steam",
+      "publisher": "DMM GAMES、Shiravune",
+      "kind": "同步首发",
+      "voice": "有",
+      "differences": "3D重制；可切换新旧配音，Steam平台发行方与日版不同。",
+      "source": "https://aquaplus.jp/toheart/en.html"
+    }
+  ]
+}
