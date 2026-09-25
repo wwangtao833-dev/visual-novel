@@ -26,6 +26,8 @@ g096,g096-v2,表参道冒险,表参道アドベンチャー,文字冒险,纯文�
 g096,g096-v3,表参道冒险,表参道アドベンチャー,文字冒险,纯文本／杂志刊载解谜,潜入者（玩家）,1982,MZ-80B,ASCII（杂志刊载）,同刊载机种适配,无,共用游戏主体，机种依赖部分不同；不是 PC-9801 首发。,https://electrelic.com/electrelic/node/1072?language=en
 g097,g097-v1,谜之屋（日本版原创）,ミステリーハウスⅠ,文字冒险,图文指令／寻宝,寻宝者（玩家）,1982,MZ-80B,マイクロキャビン,日本原始版,无,1982 年夏 MZ 系列黑白图像作品，与 Sierra 同名游戏故事不同。,https://www.gamepres.org/pc88/library/adv.htm
 g098,g098-v1,谜之屋 II,ミステリーハウスⅡ,文字冒险,图文指令／寻宝,寻宝者（玩家）,1982,FM-8,マイクロキャビン,早期 FM 版,无,馆藏列 1982 年；早期 FM-8 盘与 FM-7 不兼容。,https://fm-7.com/museum/products/jna9lxqz/
+g113,g113-v1,霍比特人,The Hobbit,文字冒险,图文文字冒险／奇幻,比尔博·巴金斯、甘道夫、索林,1982,ZX Spectrum,Melbourne House,原版,未核实,1982 年 ZX Spectrum 录音带原版；同年 Sinclair Research 曾发行同平台再版。,https://worldofspectrum.org/software?id=0006440
+g113,g113-v2,霍比特人,The Hobbit,文字冒险,图文文字冒险／奇幻,比尔博·巴金斯、甘道夫、索林,1982,ZX Spectrum,Sinclair Research Ltd,同平台再版,未核实,馆藏另列 1982 年 Sinclair Research 的 ZX Spectrum 再版，平台和游戏本体相同。,https://worldofspectrum.org/software?id=0006440
 g001,g001-v2,神秘屋,Mystery House,文字冒险,图文指令／悬疑,待核实,1983,PC-8801,スタークラフト,日本移植,无,1983 年 4 月 PC-8801 移植 Sierra 原作；与同名 MicroCabin 原创作品不同。,https://www.gamepres.org/pc88/library/1983/1983_4.htm
 g006,g006-v1,Planetfall,Planetfall,文字冒险,纯文本／科幻,待核实,1983,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://www.infocom-if.org/authors/meretzky.html
 g007,g007-v1,波多比亚连续杀人事件,ポートピア連続殺人事件,文字冒险,图文指令／推理,刑警（玩家）、ヤス,1983,日本个人计算机,艾尼克斯,首发,无,此处文字冒险包括图文指令游戏。,https://fm-7.com/museum/products/k6sufaqm/
@@ -53,6 +55,17 @@ g101,g101-v2,帕姆斯,ザ・パームス,文字冒险,图文指令／海底探�
 g102,g102-v1,仙境骑士,ザ・ナイト・オブ・ワンダーランド,文字冒险,图文指令／童话,冒险者（玩家）、罗姆公主,1983,FM-7/8,ハミングバードソフト,系列第 2 作,无,馆藏原始机种为 FM-7/8；与《帕姆斯》相比更多中间色画面。,https://fm-7.com/museum/products/vitpdgtz/
 g103,g103-v1,星光冒险 PART 1,スターライト・アドベンチャー PART 1,文字冒险,文本指令／科幻童话,旅行者（玩家）、被营救的公主,1983,FM-7,キャリーラボ,早期 FM 版,无,馆藏明确 FM-7 机种；以文字指令推进，含日文平假名显示。,https://fm-7.com/museum/products/vjg12a36/
 g104,g104-v1,寻找广子,アタックひろ子ちゃん,Galgame,成人向／图文指令,玩家、ひろ子,1983,FM-7,チャンピオンソフト,早期成人冒险,无,馆藏将其列为冒险与成人向，首发机种未核实。,https://fm-7.com/museum/products/7kjmjxi8/
+g113,g113-v3,霍比特人,The Hobbit,文字冒险,图文文字冒险／奇幻,比尔博·巴金斯、甘道夫、索林,1983,Commodore 64,Melbourne House,录音带移植,未核实,档案页将 C64 录音带版列为 1983；页面另列 1985 年该版装载器，年份有异文，待查当年包装。,https://www.lemon64.com/game/hobbit-tape-version
+g114,g114-v1,英灵殿,Valhalla,文字冒险,图文文字冒险／北欧神话,冒险者（玩家）,1983,ZX Spectrum,Legend,原版,未核实,ZX Spectrum 初版；1984 年 C64 版单列。,https://worldofspectrum.org/archive/software/games/valhalla-legend-1
+g115,g115-v1,占星大冒险,アストロロジー・スクランブル,文字冒险,图文冒险／奇幻恋爱,杰米尼、阿夸丽亚斯、撒旦、墨丘利,1983,FM-7,リバーヒルソフト,原版,未核实,馆藏将 FM-7 列为原始机种。,https://fm-7.com/museum/products/mrq0utaa/
+g116,g116-v1,寻找线索！,手掛りを探せ！,文字冒险,图文冒险／推理,旅馆管理员（玩家）,1983,FM-8／FM-7,リバーヒルソフト,原版,未核实,馆藏列 FM 系兼容机种，原始机种不明，合并记为一个兼容版本。,https://fm-7.com/museum/products/kgzrbt1p/
+g117,g117-v1,流浪小鼠,ザ・ストレイストーリー,文字冒险,图文冒险／童话,小鼠,1983,FM-8／FM-7,リバーヒルソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/db6qluaw/
+g118,g118-v1,女子宿舍危机,女子寮パニック,Galgame,成人向／图文冒险,罗姆（ロムちゃん）,1983,FM-8／FM-7,エニックス,原版,未核实,1983 年 6 月共用磁带；馆藏将 FM-8 列为原始机种。,https://fm-7.com/museum/products/vj1bitct/releases
+g119,g119-v1,飞鸟之恋,Lovely飛鳥,Galgame,恋爱／图文冒险,飞鸟,1983,FM-7,エニックス,原版,未核实,1983 年 10 月 FM-7 版；馆藏列其为原始机种。,https://fm-7.com/museum/products/l2zkgfa5/
+g120,g120-v1,不可思议之旅,不思議な旅,文字冒险,图文冒险／异世界,异世界漂流者（玩家）,1983,FM-7,エニックス,原版,未核实,原名「ファンタジーアイランド」；1983 年 10 月 FM-7 版。,https://fm-7.com/museum/products/qto4u7tq/
+g121,g121-v1,间谍 0011,SPY-0011,文字冒险,图文冒险／间谍,间谍 0011（玩家）,1983,FM-8／FM-7,チャンピオンソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/0refcz7z/
+g122,g122-v1,太空奇遇,スペーシーワンダー,文字冒险,图文冒险／科幻,飞船船长（玩家）,1983,FM-8／FM-7,チャンピオンソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/a1b1vc7z/
+g123,g123-v1,奥利机场杀人事件,オルリー空港殺人事件,文字冒险,图文冒险／推理,佳苗、明菜,1983,FM-8／FM-7,チャンピオンソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/lrdwgvuy/
 g011,g011-v1,银河系漫游指南,The Hitchhiker’s Guide to the Galaxy,文字冒险,纯文本／科幻喜剧,亚瑟·登特、福特·普里费克特,1984,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://infocom-if.org/games/games.html
 g012,g012-v1,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,1984,PC-8801 等,ASCII（LOGIN SOFT）,首发,无,1984 年 PC 原版；FM-7 移植在 1985 年。,https://www.gamepres.org/pc88/library/1984/ohotsuku.htm
 g013,g013-v1,荷兰妻会梦见电鳗吗？,オランダ妻は電気ウナギの夢を見るか？,Galgame,成人向／冒险,待核实,1984,日本个人计算机,光荣,首发,无,首发 1984；FM-7 版登记为 1985 年。,https://www.famitsu.com/news/202312/10327281.html
@@ -78,6 +91,19 @@ g106,g106-v1,黑猫庄继承杀人事件,黒猫荘相続殺人事件,文字冒�
 g107,g107-v1,逃离异次元,異次元からの脱出,文字冒险,图文指令／神秘惊悚,迷失异界的上班族（玩家）,1984,FM-7,日本ファルコム,早期 FM 版,无,后半部分含三维迷宫；其他早期机种的确切年份待核。,https://fm-7.com/museum/products/7ggib9g6/
 g108,g108-v1,恶魔之戒,デーモンズリング,文字冒险,图文指令／神秘恐怖,待核实,1984,PC-8801,日本ファルコム,原始 PC 版,无,馆藏标 PC-8801 为原始机种，具体首发月份未获核实。,https://fm-7.com/museum/products/4l5wmkh8/
 g108,g108-v2,恶魔之戒,デーモンズリング,文字冒险,图文指令／神秘恐怖,待核实,1984,FM-7,日本ファルコム,FM-7 移植,无,馆藏标 1984 年；场景快速绘制，FM-7 版画面生成约 1 秒。,https://fm-7.com/museum/products/4l5wmkh8/
+g114,g114-v2,英灵殿,Valhalla,文字冒险,图文文字冒险／北欧神话,冒险者（玩家）,1984,Commodore 64,Legend,移植版,未核实,1984 年 Commodore 64 版；平台发布时间与 1983 年 ZX Spectrum 原版分列。,https://www.lemon64.com/game/valhalla
+g124,g124-v1,G 人：寻找记忆！,Gメン 記憶を探せ！,文字冒险,图文冒险／悬疑,失忆调查者（玩家）,1984,FM-8／FM-7,リバーヒルソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/6mwspus0/
+g125,g125-v1,杂耍之石,ジャグラー・ストーン,文字冒险,图文冒险／奇幻,冒险者（玩家）、神秘老人,1984,FM-8／FM-7,リバーヒルソフト,原版,未核实,四分屏同时显示当前及前三个场景；原始机种未明。,https://fm-7.com/museum/products/5bzhbzog/
+g126,g126-v1,高校大冒险,ハイスクールアドベンチャー,文字冒险,图文冒险／校园解谜,待核实,1984,FM-7,エニックス,原版,未核实,1984 年 6 月 FM-7 原版；参赛时原名「座間高アドベンチャー」。,https://fm-7.com/museum/products/e2w2qqkl/
+g127,g127-v1,暗黑城：创世神加利安的复活,暗黒城～創造神ギャリアンの復活,文字冒险,图文冒险／奇幻,暗黑使徒格鲁,1984,FM-7,エニックス,原版,未核实,1984 年 7 月 FM-7 原版；分九章。,https://fm-7.com/museum/products/om904bko/
+g128,g128-v1,再一次：成功人生故事,サクセス ライフ ストーリィ アゲイン,文字冒险,图文冒险／人生模拟,追求成为圣灵的男子,1984,FM-7,エニックス,原版,未核实,1984 年 12 月 FM-7 原版；七段小冒险串联。,https://fm-7.com/museum/products/2oqhpy7x/
+g129,g129-v1,福尔摩斯,Sherlock,文字冒险,图文文字冒险／侦探,夏洛克·福尔摩斯、华生,1984,ZX Spectrum,Melbourne House,原版,未核实,馆藏 1984 年 ZX Spectrum 录音带原版。,https://worldofspectrum.org/archive/software/text-adventures/sherlock-melbourne-house
+g130,g130-v1,汉普斯特德,Hampstead,文字冒险,纯文本／社会讽刺,向上爬的主人公（玩家）,1984,ZX Spectrum,Melbourne House,原版,未核实,1984 年 ZX Spectrum 版；社会阶层讽刺题材。,https://worldofspectrum.org/archive/software/text-adventures/hampstead-melbourne-house
+g130,g130-v2,汉普斯特德,Hampstead,文字冒险,纯文本／社会讽刺,向上爬的主人公（玩家）,1984,Commodore 64,Melbourne House,移植版,未核实,C64 版目录列 1984 年，与 ZX Spectrum 版同年；具体画面差异待核。,https://www.lemon64.com/game/hampstead
+g131,g131-v1,维京人埃里克传奇,The Saga of Erik the Viking,文字冒险,图文文字冒险／北欧传奇,埃里克,1984,ZX Spectrum,Mosaic Publishing Ltd,原版,未核实,1984 年 ZX Spectrum 原版；由 Level 9 制作。,https://worldofspectrum.org/archive/software/text-adventures/the-saga-of-erik-the-viking-mosaic-publishing-ltd
+g132,g132-v1,恐怖城堡,Castle of Terror,文字冒险,图文文字冒险／恐怖,冒险者（玩家）,1984,ZX Spectrum,Melbourne House,原版,未核实,1984 年 ZX Spectrum 版。,https://worldofspectrum.org/archive/software/text-adventures/castle-of-terror-melbourne-house
+g133,g133-v1,爱丽丝梦游仙境,不思議の国のアリス,文字冒险,纯文本／文学改编,爱丽丝,1984,FM-8／FM-7,マイクロキャビン,原版,未核实,1984 年 4 月 FM 系兼容磁带；另有 エレキッド 销售版，同年但月份未明。,https://fm-7.com/museum/products/yrjupxzp/releases
+g133,g133-v2,爱丽丝梦游仙境,不思議の国のアリス,文字冒险,纯文本／文学改编,爱丽丝,1984,PC-8001,マイクロキャビン,原始机种版本,未核实,馆藏将 PC-8001 列作原始机种；FM 系磁带 1984 年 4 月另有明确馆藏记录，PC-8001 月份待核。,https://fm-7.com/museum/products/yrjupxzp/
 g007,g007-v2,波多比亚连续杀人事件,ポートピア連続殺人事件,文字冒险,图文指令／推理,刑警（玩家）、ヤス,1985,红白机,艾尼克斯,家庭机移植,未核实,移植时重做指令选择界面；并非1983年PC初版。,https://www.nintendo.co.jp/etc/interview/platinumgames/vol1/index3.html
 g014,g014-v1,时间少女,タイムギャル,互动动画,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,1985,街机,太东,首发,有,日本街机原版。,https://www.taito.co.jp/mob/topics/2587
 g015,g015-v1,天使们的午后,天使たちの午後,Galgame,成人向／学园冒险,白石由美子,1985,PC-8801 等,JAST,首发,无,按 PC-8801 初版；FM-7 移植为 1986 年。,https://www.famitsu.com/news/202312/10327281.html
@@ -101,6 +127,14 @@ g110,g110-v1,黄道带,ゾーディアック,文字冒险,图文指令／科幻�
 g111,g111-v1,神威之剑,カムイの剣,文字冒险,图文指令／小说与动画改编,次郎,1985,FM-7,コンプティーク,FM-7 版,无,馆藏确认 1985 年；其他机种和海外英文版日期未核实，暂不拆分。,https://fm-7.com/museum/products/y6ai5nay/
 g111,g111-v2,神威之剑,カムイの剣,文字冒险,图文指令／小说与动画改编,次郎,1985,PC-8801,コンプティーク,1985 年 4 月 PC 版,无,当期目录记 1985 年 4 月；剧情围绕次郎与基德船长宝藏展开，FM-7 版发行月待核。,https://www.gamepres.org/pc88/library/1985/1985_4.htm
 g112,g112-v1,新哥斯拉,ニューゴジラ,文字冒险,图文指令／电影改编,牧吾郎、尚子、哥斯拉,1985,PC-8801,東宝,原始 PC 版,无,1985 年 4 月版含三个玩法段落；包装附怪兽叫声磁带，未据此将角色配音标为“有”。,https://www.gamepres.org/pc88/library/1985/1985_4.htm
+g129,g129-v2,福尔摩斯,Sherlock,文字冒险,图文文字冒险／侦探,夏洛克·福尔摩斯、华生,1985,Commodore 64,Melbourne House,移植版,未核实,C64 版资料列 1985 年；ZX Spectrum 原版为 1984 年。,https://www.lemon64.com/game/sherlock
+g132,g132-v2,恐怖城堡,Castle of Terror,文字冒险,图文文字冒险／恐怖,冒险者（玩家）,1985,Commodore 64,Melbourne House,移植版,未核实,C64 版资料列 1985 年；ZX Spectrum 原版 1984 年。,https://www.lemon64.com/game/castle-of-terror
+g134,g134-v1,瓦尔·特拉德,バル・トラッド,文字冒险,图文冒险／科幻,罗曼·杰森,1985,FM-8／FM-7,リバーヒルソフト,原版,未核实,原始机种不明；冒险过程中穿插动作游戏关卡。,https://fm-7.com/museum/products/7wx08tq8/
+g135,g135-v1,棋子,The Pawn / QL-Pawn,文字冒险,纯文本／奇幻,凯罗夫尼亚的旅行者（玩家）,1985,Sinclair QL,Sinclair Research,原版,无,1985 年 QL-Pawn 原始版 1.0，纯文本、双 Microdrive；后来的 The Pawn 彩色图像版另属后续移植。,https://magneticscrolls.info/facts.php
+g136,g136-v1,恐怖海滨度假,Terrormolinos,文字冒险,纯文本／喜剧,度假者（玩家）,1985,ZX Spectrum,Melbourne House,原版,未核实,1985 年 ZX Spectrum 版，基于修改后的 The Quill。,https://worldofspectrum.org/archive/software/text-adventures/terrormolinos-melbourne-house
+g136,g136-v2,恐怖海滨度假,Terrormolinos,文字冒险,纯文本／喜剧,度假者（玩家）,1985,Commodore 64,Melbourne House,移植版,未核实,C64 版资料列 1985 年；画面和互动细节待核。,https://www.lemon64.com/game/terrormolinos
+g137,g137-v1,莫登的任务,Mordon's Quest,文字冒险,图文文字冒险／奇幻,莫登、冒险者（玩家）,1985,ZX Spectrum,Melbourne House,原版,未核实,1985 年 ZX Spectrum 版；剧情细节待核实。,https://worldofspectrum.org/archive/software/text-adventures/mordons-quest-melbourne-house
+g138,g138-v1,罗宾汉：瑞安侬试金石,Robin of Sherwood: The Touchstones of Rhiannon,文字冒险,文字冒险／奇幻传说,罗宾汉、威尔·斯卡雷特、穆奇,1985,ZX Spectrum,Adventure International,原版,未核实,1985 年 ZX Spectrum 版。,https://worldofspectrum.org/archive/software/text-adventures/robin-of-sherwood-the-touchstones-of-rhiannon-adventure-international
 g012,g012-v2,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,1987,红白机,ASCII,改编移植,未核实,根据PC版重新编排故事与人物表现。,https://www.4gamer.net/games/777/G077714/20240222001/
 g019,g019-v1,No・Ri・Ko,No・Ri・Ko,文字冒险,CD-ROM／偶像互动,小川范子,1988,PC Engine CD-ROM²,Hudson,首发,有,配音与歌曲来自偶像本人；并非 Leaf 式视觉小说。,https://pcefan.com/pcengine/entry15.html
 g040,g040-v1,Snatcher,スナッチャー,文字冒险,科幻／赛博朋克侦探,吉利安·希德、Metal Gear Mk.II,1988,PC-8801,Konami,首发,无,PC初版以指令调查为核心。,https://www.konami.com/corporate/ja/history/product.html

@@ -8,6 +8,8 @@
 
 本次重点增补 Sierra 的早期图文冒险、Infocom 文字冒险、日本 8 位 PC 冒险与激光影碟互动动画；它们在游戏机制上并不都属于后来的恋爱游戏或视觉小说。这里的四个分类是网页检索入口，“Galgame”保留给明确与美少女／恋爱游戏史有关的作品。
 
+第三次查漏补入 1982—1985 年英国的《The Hobbit》《Valhalla》《Sherlock》《The Pawn》等，以及日本早期《女子寮パニック》《Lovely飛鳥》《手掛りを探せ！》《ハイスクールアドベンチャー》等，共新增 26 部作品、34 条版本记录。英国 ZX Spectrum 版的年份和发行方主要据 [World of Spectrum 录音带馆藏](https://worldofspectrum.org/software?id=0006440)核对；《The Pawn》的 1985 年 Sinclair QL 原始版是**纯文本**的双 Microdrive 版本，参照[作品历史](https://magneticscrolls.info/facts.php)，不套用后来彩色图像移植的特征。日本版本依据 [Oh!FM-7 的逐作资料及发行明细](https://fm-7.com/museum/products/vj1bitct/releases)：同一张磁带标称兼容 FM-8／FM-7 时合并记为一个“FM-8／FM-7”版本，原始机种不明时不虚构不同机器的发行年；《不思議の国のアリス》另有原始机种 PC-8001 的年份说明与 FM 系 1984 年 4 月磁带记录。作品中有亲子、童话或早期成人向题材时只记史料中可核对的剧情与类型。
+
 ## 存在异文和待核的信息
 
 - 《The Witness》：Infocom 的[年表](https://www.infocom-if.org/games/games.html)及[作者资料](https://www.infocom-if.org/authors/galley.html)标为 1983 年，而其[单独介绍页](https://www.infocom-if.org/games/witness.html)标为 1984 年；目前以 1983 年入库，同时保留争议。
@@ -19,5 +21,7 @@
 - 《Mystery House》：Sierra 1980 年作品与 MicroCabin 1982 年的日文同名原创游戏分别建档。Sierra 作品的 1983 年 PC-8801 日文移植仍归入 Sierra 作品，依据[当期软件目录](https://www.gamepres.org/pc88/library/1983/1983_4.htm)。
 - 《谜之屋 II》：[馆藏发行明细](https://fm-7.com/museum/products/jna9lxqz/releases)把 FM-8 版列为 1982 年，FM-7 专用版列为 1983 年。单看作品主页的“1982”会误记移植年份。
 - 《ABYSS》：[1985 年录音带版的馆藏](https://fm-7.com/museum/products/rwoxchsm/)指出剧情基本一致、插图重绘。它是版本；《ABYSS II：帝王之泪》是另一部续作。
+- 《The Hobbit》：[World of Spectrum](https://worldofspectrum.org/software?id=0006440)核实 1982 年 ZX Spectrum 原版和 Sinclair Research 同平台再版；[Lemon64 的 C64 录音带条目](https://www.lemon64.com/game/hobbit-tape-version)记 1983 年，装载器资料另见 1985 年版本，待据同时代 C64 包装消除异文。
+- 《Valhalla》：1983 年 [ZX Spectrum 版](https://worldofspectrum.org/archive/software/games/valhalla-legend-1)和 1984 年 [Commodore 64 版](https://www.lemon64.com/game/valhalla)分列。《Castle of Terror》《Sherlock》也分别依据 ZX Spectrum 与 C64 馆藏保留不同机种年份。
 
 本数据库是带来源的精选索引，不宣称收齐 1985 年前所有文本冒险或电脑游戏。增补时请优先核对出版方、原包装／手册、同时期软件目录与可追溯的馆藏资料；如果年份有冲突，请把冲突保留在作品备注中。

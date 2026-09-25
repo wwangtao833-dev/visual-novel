@@ -2,7 +2,7 @@
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
     "updated": "2026-09-25",
-    "scope": "精选可核查作品，非全量目录。1976—1985 年增补早期大型机、欧美文字与图文冒险、日本 PC 冒险及互动动画；年份异文和平台待核项见作品备注。",
+    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
   "works": [
@@ -321,6 +321,23 @@
       "source": "https://fm-7.com/museum/products/jna9lxqz/"
     },
     {
+      "id": "g113",
+      "title": "霍比特人",
+      "originalTitle": "The Hobbit",
+      "firstYear": 1982,
+      "category": "文字冒险",
+      "genre": "图文文字冒险／奇幻",
+      "characters": [
+        "比尔博·巴金斯",
+        "甘道夫",
+        "索林"
+      ],
+      "charactersNote": "",
+      "synopsis": "陪同比尔博从袋底洞出发，穿越荒野并前往孤山寻找宝藏。",
+      "notes": "1982 年 ZX Spectrum 录音带原版；同年 Sinclair Research 曾发行同平台再版。 C64 录音带版有 1983／1985 年异文，暂按条目发行年份记 1983，待查当年原包装。",
+      "source": "https://worldofspectrum.org/software?id=0006440"
+    },
+    {
       "id": "g006",
       "title": "Planetfall",
       "originalTitle": "Planetfall",
@@ -632,6 +649,160 @@
       "synopsis": "进入女子宿舍寻找并试图见到广子。",
       "notes": "成人冒险范畴，不推定其具有后来的恋爱剧情分支。",
       "source": "https://fm-7.com/museum/products/7kjmjxi8/"
+    },
+    {
+      "id": "g114",
+      "title": "英灵殿",
+      "originalTitle": "Valhalla",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文文字冒险／北欧神话",
+      "characters": [
+        "冒险者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "在北欧神话世界中与人物交互，寻找散落的神话宝物。",
+      "notes": "ZX Spectrum 初版；1984 年 C64 版单列。",
+      "source": "https://worldofspectrum.org/archive/software/games/valhalla-legend-1"
+    },
+    {
+      "id": "g115",
+      "title": "占星大冒险",
+      "originalTitle": "アストロロジー・スクランブル",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文冒险／奇幻恋爱",
+      "characters": [
+        "杰米尼",
+        "阿夸丽亚斯",
+        "撒旦",
+        "墨丘利"
+      ],
+      "charactersNote": "",
+      "synopsis": "杰米尼收到撒旦劫持爱人的消息，乘飞船踏上星座世界的救援之旅。",
+      "notes": "馆藏将 FM-7 列为原始机种。",
+      "source": "https://fm-7.com/museum/products/mrq0utaa/"
+    },
+    {
+      "id": "g116",
+      "title": "寻找线索！",
+      "originalTitle": "手掛りを探せ！",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文冒险／推理",
+      "characters": [
+        "旅馆管理员（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "身为民宿管理员，寻找线索，查清住宿处发生的谋杀案。",
+      "notes": "馆藏列 FM 系兼容机种，原始机种不明，合并记为一个兼容版本。",
+      "source": "https://fm-7.com/museum/products/kgzrbt1p/"
+    },
+    {
+      "id": "g117",
+      "title": "流浪小鼠",
+      "originalTitle": "ザ・ストレイストーリー",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文冒险／童话",
+      "characters": [
+        "小鼠"
+      ],
+      "charactersNote": "",
+      "synopsis": "寻找跑出家门迷路的小鼠，经历一段童话式冒险。",
+      "notes": "原始机种不明，馆藏记载 FM 系兼容。",
+      "source": "https://fm-7.com/museum/products/db6qluaw/"
+    },
+    {
+      "id": "g118",
+      "title": "女子宿舍危机",
+      "originalTitle": "女子寮パニック",
+      "firstYear": 1983,
+      "category": "Galgame",
+      "genre": "成人向／图文冒险",
+      "characters": [
+        "罗姆（ロムちゃん）"
+      ],
+      "charactersNote": "",
+      "synopsis": "潜入女子宿舍，寻找并救出被关起来的罗姆。",
+      "notes": "1983 年 6 月共用磁带；馆藏将 FM-8 列为原始机种。",
+      "source": "https://fm-7.com/museum/products/vj1bitct/releases"
+    },
+    {
+      "id": "g119",
+      "title": "飞鸟之恋",
+      "originalTitle": "Lovely飛鳥",
+      "firstYear": 1983,
+      "category": "Galgame",
+      "genre": "恋爱／图文冒险",
+      "characters": [
+        "飞鸟"
+      ],
+      "charactersNote": "",
+      "synopsis": "接到关于飞鸟的神秘电话后，前往她的房间并揭开接下来的故事。",
+      "notes": "1983 年 10 月 FM-7 版；馆藏列其为原始机种。",
+      "source": "https://fm-7.com/museum/products/l2zkgfa5/"
+    },
+    {
+      "id": "g120",
+      "title": "不可思议之旅",
+      "originalTitle": "不思議な旅",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文冒险／异世界",
+      "characters": [
+        "异世界漂流者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "末日灾难后意外来到陌生世界，寻找回到地球的路。",
+      "notes": "原名「ファンタジーアイランド」；1983 年 10 月 FM-7 版。",
+      "source": "https://fm-7.com/museum/products/qto4u7tq/"
+    },
+    {
+      "id": "g121",
+      "title": "间谍 0011",
+      "originalTitle": "SPY-0011",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文冒险／间谍",
+      "characters": [
+        "间谍 0011（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "扮演濒临倒闭的软件公司员工，潜入对手处夺取机密资料以拯救公司。",
+      "notes": "原始机种不明，馆藏记载 FM 系兼容。",
+      "source": "https://fm-7.com/museum/products/0refcz7z/"
+    },
+    {
+      "id": "g122",
+      "title": "太空奇遇",
+      "originalTitle": "スペーシーワンダー",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文冒险／科幻",
+      "characters": [
+        "飞船船长（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "收到第十三行星求救信号后，率领飞船前往救人并争取安全返航。",
+      "notes": "原始机种不明，馆藏记载 FM 系兼容。",
+      "source": "https://fm-7.com/museum/products/a1b1vc7z/"
+    },
+    {
+      "id": "g123",
+      "title": "奥利机场杀人事件",
+      "originalTitle": "オルリー空港殺人事件",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文冒险／推理",
+      "characters": [
+        "佳苗",
+        "明菜"
+      ],
+      "charactersNote": "",
+      "synopsis": "两名女大学生在巴黎机场卷入凶案，佳苗调查现场遗留的线索。",
+      "notes": "原始机种不明，馆藏记载 FM 系兼容。",
+      "source": "https://fm-7.com/museum/products/lrdwgvuy/"
     },
     {
       "id": "g011",
@@ -946,6 +1117,156 @@
       "source": "https://fm-7.com/museum/products/4l5wmkh8/"
     },
     {
+      "id": "g124",
+      "title": "G 人：寻找记忆！",
+      "originalTitle": "Gメン 記憶を探せ！",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文冒险／悬疑",
+      "characters": [
+        "失忆调查者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "从失去的记忆和周围人物着手，追查导致自己失忆的事件。",
+      "notes": "原始机种不明，馆藏记载 FM 系兼容。",
+      "source": "https://fm-7.com/museum/products/6mwspus0/"
+    },
+    {
+      "id": "g125",
+      "title": "杂耍之石",
+      "originalTitle": "ジャグラー・ストーン",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文冒险／奇幻",
+      "characters": [
+        "冒险者（玩家）",
+        "神秘老人"
+      ],
+      "charactersNote": "",
+      "synopsis": "从老人手中得到一块传说宝石，继续搜寻其余两块以恢复世界和平。",
+      "notes": "四分屏同时显示当前及前三个场景；原始机种未明。",
+      "source": "https://fm-7.com/museum/products/5bzhbzog/"
+    },
+    {
+      "id": "g126",
+      "title": "高校大冒险",
+      "originalTitle": "ハイスクールアドベンチャー",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文冒险／校园解谜",
+      "characters": [],
+      "charactersNote": "主要角色姓名待核实",
+      "synopsis": "在校园中搜索被放置的原子弹，逐步解开各处的谜题。",
+      "notes": "1984 年 6 月 FM-7 原版；参赛时原名「座間高アドベンチャー」。",
+      "source": "https://fm-7.com/museum/products/e2w2qqkl/"
+    },
+    {
+      "id": "g127",
+      "title": "暗黑城：创世神加利安的复活",
+      "originalTitle": "暗黒城～創造神ギャリアンの復活",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文冒险／奇幻",
+      "characters": [
+        "暗黑使徒格鲁"
+      ],
+      "charactersNote": "",
+      "synopsis": "前往异世界寻找传说之镜，与企图支配世界的格鲁对抗。",
+      "notes": "1984 年 7 月 FM-7 原版；分九章。",
+      "source": "https://fm-7.com/museum/products/om904bko/"
+    },
+    {
+      "id": "g128",
+      "title": "再一次：成功人生故事",
+      "originalTitle": "サクセス ライフ ストーリィ アゲイン",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文冒险／人生模拟",
+      "characters": [
+        "追求成为圣灵的男子"
+      ],
+      "charactersNote": "",
+      "synopsis": "为了成为圣灵，在人间经历医生、花店经营者等七种人生。",
+      "notes": "1984 年 12 月 FM-7 原版；七段小冒险串联。",
+      "source": "https://fm-7.com/museum/products/2oqhpy7x/"
+    },
+    {
+      "id": "g129",
+      "title": "福尔摩斯",
+      "originalTitle": "Sherlock",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文文字冒险／侦探",
+      "characters": [
+        "夏洛克·福尔摩斯",
+        "华生"
+      ],
+      "charactersNote": "",
+      "synopsis": "扮演福尔摩斯在伦敦调查案件，与华生及其他人物交谈寻找线索。",
+      "notes": "馆藏 1984 年 ZX Spectrum 录音带原版。",
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/sherlock-melbourne-house"
+    },
+    {
+      "id": "g130",
+      "title": "汉普斯特德",
+      "originalTitle": "Hampstead",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "纯文本／社会讽刺",
+      "characters": [
+        "向上爬的主人公（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "从社会阶层底部开始谋求体面的职业、伴侣与住所，最终跻身汉普斯特德。",
+      "notes": "1984 年 ZX Spectrum 版；社会阶层讽刺题材。",
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/hampstead-melbourne-house"
+    },
+    {
+      "id": "g131",
+      "title": "维京人埃里克传奇",
+      "originalTitle": "The Saga of Erik the Viking",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文文字冒险／北欧传奇",
+      "characters": [
+        "埃里克"
+      ],
+      "charactersNote": "",
+      "synopsis": "以维京人埃里克为主角，出海探索神话传说中的世界。",
+      "notes": "1984 年 ZX Spectrum 原版；由 Level 9 制作。",
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/the-saga-of-erik-the-viking-mosaic-publishing-ltd"
+    },
+    {
+      "id": "g132",
+      "title": "恐怖城堡",
+      "originalTitle": "Castle of Terror",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文文字冒险／恐怖",
+      "characters": [
+        "冒险者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "进入阴森的古堡探索房间、寻找线索并应对其中的危险。",
+      "notes": "1984 年 ZX Spectrum 版。",
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/castle-of-terror-melbourne-house"
+    },
+    {
+      "id": "g133",
+      "title": "爱丽丝梦游仙境",
+      "originalTitle": "不思議の国のアリス",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "纯文本／文学改编",
+      "characters": [
+        "爱丽丝"
+      ],
+      "charactersNote": "",
+      "synopsis": "根据《爱丽丝梦游仙境》改编的文字冒险，探索故事中的奇异世界。",
+      "notes": "1984 年 4 月 FM 系兼容磁带；另有 エレキッド 销售版，同年但月份未明。",
+      "source": "https://fm-7.com/museum/products/yrjupxzp/releases"
+    },
+    {
       "id": "g014",
       "title": "时间少女",
       "originalTitle": "タイムギャル",
@@ -1201,6 +1522,84 @@
       "synopsis": "调查神秘渔船与哥斯拉袭击事件，寻找尚子并应对飞来的导弹。",
       "notes": "游戏分为调查、限时营救与多人操作三个段落；附带哥斯拉吼声磁带并不代表人物对白配音。",
       "source": "https://www.gamepres.org/pc88/library/1985/1985_4.htm"
+    },
+    {
+      "id": "g134",
+      "title": "瓦尔·特拉德",
+      "originalTitle": "バル・トラッド",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "图文冒险／科幻",
+      "characters": [
+        "罗曼·杰森"
+      ],
+      "charactersNote": "",
+      "synopsis": "物理学家因时间机器故障流落异世界，寻找散落零件以返回故乡。",
+      "notes": "原始机种不明；冒险过程中穿插动作游戏关卡。",
+      "source": "https://fm-7.com/museum/products/7wx08tq8/"
+    },
+    {
+      "id": "g135",
+      "title": "棋子",
+      "originalTitle": "The Pawn / QL-Pawn",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "纯文本／奇幻",
+      "characters": [
+        "凯罗夫尼亚的旅行者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "落入凯罗夫尼亚，和居民交谈、解开谜题并设法离开这个国度。",
+      "notes": "1985 年 QL-Pawn 原始版 1.0，纯文本、双 Microdrive；后来的 The Pawn 彩色图像版另属后续移植。",
+      "source": "https://magneticscrolls.info/facts.php"
+    },
+    {
+      "id": "g136",
+      "title": "恐怖海滨度假",
+      "originalTitle": "Terrormolinos",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "纯文本／喜剧",
+      "characters": [
+        "度假者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "前往西班牙海滨度假，在层出不穷的意外中设法拍回十张假期照片。",
+      "notes": "1985 年 ZX Spectrum 版，基于修改后的 The Quill。",
+      "source": "https://www.gamesdatabase.org/Media/SYSTEM/Sinclair_ZX_Spectrum/Manual/formated/Terrormolinos_-_1985_-_Melbourne_House.htm"
+    },
+    {
+      "id": "g137",
+      "title": "莫登的任务",
+      "originalTitle": "Mordon's Quest",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "图文文字冒险／奇幻",
+      "characters": [
+        "莫登",
+        "冒险者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "遇见自称古代守护者的莫登，寻找永恒机器的七个部件并完成试炼。",
+      "notes": "1985 年 ZX Spectrum 版；剧情细节待核实。",
+      "source": "https://www.mobygames.com/game/29926/mordons-quest/"
+    },
+    {
+      "id": "g138",
+      "title": "罗宾汉：瑞安侬试金石",
+      "originalTitle": "Robin of Sherwood: The Touchstones of Rhiannon",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "文字冒险／奇幻传说",
+      "characters": [
+        "罗宾汉",
+        "威尔·斯卡雷特",
+        "穆奇"
+      ],
+      "charactersNote": "",
+      "synopsis": "罗宾汉一行被囚于诺丁汉城堡，设法逃走并找回六块瑞安侬试金石。",
+      "notes": "1985 年 ZX Spectrum 版。",
+      "source": "https://www.solutionarchive.com/game/id%2C451/Robin%2Bof%2BSherwood%3A%2BThe%2BTouchstones%2Bof%2BRhiannon.html"
     },
     {
       "id": "g019",
@@ -2065,6 +2464,28 @@
       "source": "https://fm-7.com/museum/products/jna9lxqz/"
     },
     {
+      "id": "g113-v1",
+      "workId": "g113",
+      "year": 1982,
+      "platform": "ZX Spectrum",
+      "publisher": "Melbourne House",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "1982 年 ZX Spectrum 录音带原版；同年 Sinclair Research 曾发行同平台再版。",
+      "source": "https://worldofspectrum.org/software?id=0006440"
+    },
+    {
+      "id": "g113-v2",
+      "workId": "g113",
+      "year": 1982,
+      "platform": "ZX Spectrum",
+      "publisher": "Sinclair Research Ltd",
+      "kind": "同平台再版",
+      "voice": "未核实",
+      "differences": "馆藏另列 1982 年 Sinclair Research 的 ZX Spectrum 再版，平台和游戏本体相同。",
+      "source": "https://worldofspectrum.org/software?id=0006440"
+    },
+    {
       "id": "g001-v2",
       "workId": "g001",
       "year": 1983,
@@ -2362,6 +2783,127 @@
       "source": "https://fm-7.com/museum/products/7kjmjxi8/"
     },
     {
+      "id": "g113-v3",
+      "workId": "g113",
+      "year": 1983,
+      "platform": "Commodore 64",
+      "publisher": "Melbourne House",
+      "kind": "录音带移植",
+      "voice": "未核实",
+      "differences": "档案页将 C64 录音带版列为 1983；页面另列 1985 年该版装载器，年份有异文，待查当年包装。",
+      "source": "https://www.lemon64.com/game/hobbit-tape-version"
+    },
+    {
+      "id": "g114-v1",
+      "workId": "g114",
+      "year": 1983,
+      "platform": "ZX Spectrum",
+      "publisher": "Legend",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "ZX Spectrum 初版；1984 年 C64 版单列。",
+      "source": "https://worldofspectrum.org/archive/software/games/valhalla-legend-1"
+    },
+    {
+      "id": "g115-v1",
+      "workId": "g115",
+      "year": 1983,
+      "platform": "FM-7",
+      "publisher": "リバーヒルソフト",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "馆藏将 FM-7 列为原始机种。",
+      "source": "https://fm-7.com/museum/products/mrq0utaa/"
+    },
+    {
+      "id": "g116-v1",
+      "workId": "g116",
+      "year": 1983,
+      "platform": "FM-8／FM-7",
+      "publisher": "リバーヒルソフト",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "馆藏列 FM 系兼容机种，原始机种不明，合并记为一个兼容版本。",
+      "source": "https://fm-7.com/museum/products/kgzrbt1p/"
+    },
+    {
+      "id": "g117-v1",
+      "workId": "g117",
+      "year": 1983,
+      "platform": "FM-8／FM-7",
+      "publisher": "リバーヒルソフト",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "原始机种不明，馆藏记载 FM 系兼容。",
+      "source": "https://fm-7.com/museum/products/db6qluaw/"
+    },
+    {
+      "id": "g118-v1",
+      "workId": "g118",
+      "year": 1983,
+      "platform": "FM-8／FM-7",
+      "publisher": "エニックス",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "1983 年 6 月共用磁带；馆藏将 FM-8 列为原始机种。",
+      "source": "https://fm-7.com/museum/products/vj1bitct/releases"
+    },
+    {
+      "id": "g119-v1",
+      "workId": "g119",
+      "year": 1983,
+      "platform": "FM-7",
+      "publisher": "エニックス",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "1983 年 10 月 FM-7 版；馆藏列其为原始机种。",
+      "source": "https://fm-7.com/museum/products/l2zkgfa5/"
+    },
+    {
+      "id": "g120-v1",
+      "workId": "g120",
+      "year": 1983,
+      "platform": "FM-7",
+      "publisher": "エニックス",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "原名「ファンタジーアイランド」；1983 年 10 月 FM-7 版。",
+      "source": "https://fm-7.com/museum/products/qto4u7tq/"
+    },
+    {
+      "id": "g121-v1",
+      "workId": "g121",
+      "year": 1983,
+      "platform": "FM-8／FM-7",
+      "publisher": "チャンピオンソフト",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "原始机种不明，馆藏记载 FM 系兼容。",
+      "source": "https://fm-7.com/museum/products/0refcz7z/"
+    },
+    {
+      "id": "g122-v1",
+      "workId": "g122",
+      "year": 1983,
+      "platform": "FM-8／FM-7",
+      "publisher": "チャンピオンソフト",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "原始机种不明，馆藏记载 FM 系兼容。",
+      "source": "https://fm-7.com/museum/products/a1b1vc7z/"
+    },
+    {
+      "id": "g123-v1",
+      "workId": "g123",
+      "year": 1983,
+      "platform": "FM-8／FM-7",
+      "publisher": "チャンピオンソフト",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "原始机种不明，馆藏记载 FM 系兼容。",
+      "source": "https://fm-7.com/museum/products/lrdwgvuy/"
+    },
+    {
       "id": "g011-v1",
       "workId": "g011",
       "year": 1984,
@@ -2637,6 +3179,149 @@
       "source": "https://fm-7.com/museum/products/4l5wmkh8/"
     },
     {
+      "id": "g114-v2",
+      "workId": "g114",
+      "year": 1984,
+      "platform": "Commodore 64",
+      "publisher": "Legend",
+      "kind": "移植版",
+      "voice": "未核实",
+      "differences": "1984 年 Commodore 64 版；平台发布时间与 1983 年 ZX Spectrum 原版分列。",
+      "source": "https://www.lemon64.com/game/valhalla"
+    },
+    {
+      "id": "g124-v1",
+      "workId": "g124",
+      "year": 1984,
+      "platform": "FM-8／FM-7",
+      "publisher": "リバーヒルソフト",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "原始机种不明，馆藏记载 FM 系兼容。",
+      "source": "https://fm-7.com/museum/products/6mwspus0/"
+    },
+    {
+      "id": "g125-v1",
+      "workId": "g125",
+      "year": 1984,
+      "platform": "FM-8／FM-7",
+      "publisher": "リバーヒルソフト",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "四分屏同时显示当前及前三个场景；原始机种未明。",
+      "source": "https://fm-7.com/museum/products/5bzhbzog/"
+    },
+    {
+      "id": "g126-v1",
+      "workId": "g126",
+      "year": 1984,
+      "platform": "FM-7",
+      "publisher": "エニックス",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "1984 年 6 月 FM-7 原版；参赛时原名「座間高アドベンチャー」。",
+      "source": "https://fm-7.com/museum/products/e2w2qqkl/"
+    },
+    {
+      "id": "g127-v1",
+      "workId": "g127",
+      "year": 1984,
+      "platform": "FM-7",
+      "publisher": "エニックス",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "1984 年 7 月 FM-7 原版；分九章。",
+      "source": "https://fm-7.com/museum/products/om904bko/"
+    },
+    {
+      "id": "g128-v1",
+      "workId": "g128",
+      "year": 1984,
+      "platform": "FM-7",
+      "publisher": "エニックス",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "1984 年 12 月 FM-7 原版；七段小冒险串联。",
+      "source": "https://fm-7.com/museum/products/2oqhpy7x/"
+    },
+    {
+      "id": "g129-v1",
+      "workId": "g129",
+      "year": 1984,
+      "platform": "ZX Spectrum",
+      "publisher": "Melbourne House",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "馆藏 1984 年 ZX Spectrum 录音带原版。",
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/sherlock-melbourne-house"
+    },
+    {
+      "id": "g130-v1",
+      "workId": "g130",
+      "year": 1984,
+      "platform": "ZX Spectrum",
+      "publisher": "Melbourne House",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "1984 年 ZX Spectrum 版；社会阶层讽刺题材。",
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/hampstead-melbourne-house"
+    },
+    {
+      "id": "g130-v2",
+      "workId": "g130",
+      "year": 1984,
+      "platform": "Commodore 64",
+      "publisher": "Melbourne House",
+      "kind": "移植版",
+      "voice": "未核实",
+      "differences": "C64 版目录列 1984 年，与 ZX Spectrum 版同年；具体画面差异待核。",
+      "source": "https://www.lemon64.com/game/hampstead"
+    },
+    {
+      "id": "g131-v1",
+      "workId": "g131",
+      "year": 1984,
+      "platform": "ZX Spectrum",
+      "publisher": "Mosaic Publishing Ltd",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "1984 年 ZX Spectrum 原版；由 Level 9 制作。",
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/the-saga-of-erik-the-viking-mosaic-publishing-ltd"
+    },
+    {
+      "id": "g132-v1",
+      "workId": "g132",
+      "year": 1984,
+      "platform": "ZX Spectrum",
+      "publisher": "Melbourne House",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "1984 年 ZX Spectrum 版。",
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/castle-of-terror-melbourne-house"
+    },
+    {
+      "id": "g133-v1",
+      "workId": "g133",
+      "year": 1984,
+      "platform": "FM-8／FM-7",
+      "publisher": "マイクロキャビン",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "1984 年 4 月 FM 系兼容磁带；另有 エレキッド 销售版，同年但月份未明。",
+      "source": "https://fm-7.com/museum/products/yrjupxzp/releases"
+    },
+    {
+      "id": "g133-v2",
+      "workId": "g133",
+      "year": 1984,
+      "platform": "PC-8001",
+      "publisher": "マイクロキャビン",
+      "kind": "原始机种版本",
+      "voice": "未核实",
+      "differences": "馆藏将 PC-8001 列作原始机种；FM 系磁带 1984 年 4 月另有明确馆藏记录，PC-8001 月份待核。",
+      "source": "https://fm-7.com/museum/products/yrjupxzp/"
+    },
+    {
       "id": "g007-v2",
       "workId": "g007",
       "year": 1985,
@@ -2888,6 +3573,94 @@
       "voice": "无",
       "differences": "1985 年 4 月版含三个玩法段落；包装附怪兽叫声磁带，未据此将角色配音标为“有”。",
       "source": "https://www.gamepres.org/pc88/library/1985/1985_4.htm"
+    },
+    {
+      "id": "g129-v2",
+      "workId": "g129",
+      "year": 1985,
+      "platform": "Commodore 64",
+      "publisher": "Melbourne House",
+      "kind": "移植版",
+      "voice": "未核实",
+      "differences": "C64 版资料列 1985 年；ZX Spectrum 原版为 1984 年。",
+      "source": "https://www.lemon64.com/game/sherlock"
+    },
+    {
+      "id": "g132-v2",
+      "workId": "g132",
+      "year": 1985,
+      "platform": "Commodore 64",
+      "publisher": "Melbourne House",
+      "kind": "移植版",
+      "voice": "未核实",
+      "differences": "C64 版资料列 1985 年；ZX Spectrum 原版 1984 年。",
+      "source": "https://www.lemon64.com/game/castle-of-terror"
+    },
+    {
+      "id": "g134-v1",
+      "workId": "g134",
+      "year": 1985,
+      "platform": "FM-8／FM-7",
+      "publisher": "リバーヒルソフト",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "原始机种不明；冒险过程中穿插动作游戏关卡。",
+      "source": "https://fm-7.com/museum/products/7wx08tq8/"
+    },
+    {
+      "id": "g135-v1",
+      "workId": "g135",
+      "year": 1985,
+      "platform": "Sinclair QL",
+      "publisher": "Sinclair Research",
+      "kind": "原版",
+      "voice": "无",
+      "differences": "1985 年 QL-Pawn 原始版 1.0，纯文本、双 Microdrive；后来的 The Pawn 彩色图像版另属后续移植。",
+      "source": "https://magneticscrolls.info/facts.php"
+    },
+    {
+      "id": "g136-v1",
+      "workId": "g136",
+      "year": 1985,
+      "platform": "ZX Spectrum",
+      "publisher": "Melbourne House",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "1985 年 ZX Spectrum 版，基于修改后的 The Quill。",
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/terrormolinos-melbourne-house"
+    },
+    {
+      "id": "g136-v2",
+      "workId": "g136",
+      "year": 1985,
+      "platform": "Commodore 64",
+      "publisher": "Melbourne House",
+      "kind": "移植版",
+      "voice": "未核实",
+      "differences": "C64 版资料列 1985 年；画面和互动细节待核。",
+      "source": "https://www.lemon64.com/game/terrormolinos"
+    },
+    {
+      "id": "g137-v1",
+      "workId": "g137",
+      "year": 1985,
+      "platform": "ZX Spectrum",
+      "publisher": "Melbourne House",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "1985 年 ZX Spectrum 版；剧情细节待核实。",
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/mordons-quest-melbourne-house"
+    },
+    {
+      "id": "g138-v1",
+      "workId": "g138",
+      "year": 1985,
+      "platform": "ZX Spectrum",
+      "publisher": "Adventure International",
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "1985 年 ZX Spectrum 版。",
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/robin-of-sherwood-the-touchstones-of-rhiannon-adventure-international"
     },
     {
       "id": "g012-v2",

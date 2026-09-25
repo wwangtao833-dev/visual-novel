@@ -84,3 +84,18 @@ test('Mystery House II uses dated FM-8 and FM-7 releases independently',()=>{
   assert.deepEqual(fm8[0].versions.map(v=>v.year),[1982]);
   assert.deepEqual(fm7[0].versions.map(v=>v.year),[1983]);
 });
+
+test('Sherlock separates its 1984 Spectrum and 1985 Commodore releases',()=>{
+  const zx=filterCatalogue(data,{query:'Sherlock',platform:'ZX Spectrum',from:1984,to:1984});
+  const c64=filterCatalogue(data,{query:'Sherlock',platform:'Commodore 64',from:1985,to:1985});
+  assert.deepEqual(zx[0].versions.map(v=>v.year),[1984]);
+  assert.deepEqual(c64[0].versions.map(v=>v.year),[1985]);
+  assert.equal(filterCatalogue(data,{query:'Sherlock',platform:'Commodore 64',from:1984,to:1984}).length,0);
+});
+
+test('shared FM tape is a single version while Alice has a separate original machine',()=>{
+  const dorm=filterCatalogue(data,{query:'女子寮パニック',from:1983,to:1983});
+  assert.deepEqual(dorm[0].versions.map(v=>v.platform),['FM-8／FM-7']);
+  const alice=filterCatalogue(data,{query:'不思議の国のアリス',platform:'PC-8001',from:1984,to:1984});
+  assert.deepEqual(alice[0].versions.map(v=>v.publisher),['マイクロキャビン']);
+});
