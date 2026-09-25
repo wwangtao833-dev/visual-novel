@@ -1,76 +1,128 @@
-﻿作品ID,作品名称,原文名称,主分类,游戏类型,主要角色,发行年份,平台,发行公司,版本类型,配音,版本差异,来源
-g001,神秘屋,Mystery House,文字冒险,图文指令／悬疑,待核实,1980,Apple II,On-Line Systems,首发,无,最早商业发行版。,https://www.sierragamers.com/ken-williams/
-g002,佐克 I,Zork I: The Great Underground Empire,文字冒险,纯文本／奇幻解谜,待核实,1980,家用计算机,Infocom,首发,无,按 Infocom 商业版；早期大型机 Zork 不并入。,https://infocom-if.org/company/company.html
-g003,Deadline,Deadline,文字冒险,纯文本／推理,待核实,1982,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://infocom-if.org/games/games.html
-g004,夜生活,ナイトライフ,Galgame,成人向／生活工具,待核实,1982,日本个人计算机,光荣,首发,无,历史作品；严格说并非典型恋爱叙事游戏。,https://www.famitsu.com/news/202312/10327281.html
-g005,Lolita：野球拳,ロリータ～野球拳,Galgame,成人向／猜拳,待核实,1982,FM-7 等,PSK,首发,无,按广义早期美少女游戏收录；不是视觉小说。,https://fm-7.com/museum/products/7bj82lkr/
-g006,Planetfall,Planetfall,文字冒险,纯文本／科幻,待核实,1983,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://www.infocom-if.org/authors/meretzky.html
-g007,波多比亚连续杀人事件,ポートピア連続殺人事件,文字冒险,图文指令／推理,刑警（玩家）、ヤス,1983,日本个人计算机,艾尼克斯,首发,无,此处文字冒险包括图文指令游戏。,https://fm-7.com/museum/products/k6sufaqm/
-g008,玛丽酱危机一发,マリちゃん危機一髪,Galgame,美少女／解救冒险,玛丽,1983,PC-8801 等,艾尼克斯,首发,无,部分版本附有磁带人声；不等同游戏内角色配音。,https://fm-7.com/museum/products/1paitdl4/
-g009,团地妻的诱惑,団地妻の誘惑,Galgame,成人向／冒险,待核实,1983,日本个人计算机,光荣,首发,无,作品最早确认的版本。,https://www.famitsu.com/news/202312/10327281.html
-g010,龙穴历险记,Dragon’s Lair,互动动画,激光影碟／动作选择,德克（Dirk）、达芙妮（Daphne）,1983,街机,Cinematronics,首发,有,美国街机原版。,https://www.arcade-history.com/game/702/
-g011,银河系漫游指南,The Hitchhiker’s Guide to the Galaxy,文字冒险,纯文本／科幻喜剧,亚瑟·登特、福特·普里费克特,1984,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://infocom-if.org/games/games.html
-g012,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,1984,PC-8801 等,ASCII（LOGIN SOFT）,首发,无,1984 年 PC 原版；FM-7 移植在 1985 年。,https://www.gamepres.org/pc88/library/1984/ohotsuku.htm
-g013,荷兰妻会梦见电鳗吗？,オランダ妻は電気ウナギの夢を見るか？,Galgame,成人向／冒险,待核实,1984,日本个人计算机,光荣,首发,无,首发 1984；FM-7 版登记为 1985 年。,https://www.famitsu.com/news/202312/10327281.html
-g007,波多比亚连续杀人事件,ポートピア連続殺人事件,文字冒险,图文指令／推理,刑警（玩家）、ヤス,1985,红白机,艾尼克斯,家庭机移植,未核实,移植时重做指令选择界面；并非1983年PC初版。,https://www.nintendo.co.jp/etc/interview/platinumgames/vol1/index3.html
-g014,时间少女,タイムギャル,互动动画,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,1985,街机,太东,首发,有,日本街机原版。,https://www.taito.co.jp/mob/topics/2587
-g015,天使们的午后,天使たちの午後,Galgame,成人向／学园冒险,白石由美子,1985,PC-8801 等,JAST,首发,无,按 PC-8801 初版；FM-7 移植为 1986 年。,https://www.famitsu.com/news/202312/10327281.html
-g016,东京搭讪街,TOKYOナンパストリート,Galgame,成人向／都市恋爱冒险,待核实,1985,日本个人计算机,艾尼克斯,首发,无,作品最早确认的版本。,https://fm-7.com/museum/products/vt0km2jr/
-g017,轻井泽诱拐指南,軽井沢誘拐案内,文字冒险,图文选项／推理,待核实,1985,日本个人计算机,艾尼克斯,首发,无,作品最早确认的版本。,https://fm-7.com/museum/products/iq8kysdi/
-g018,黄金国传奇,エルドラド伝奇,Galgame,成人向／奇幻冒险,待核实,1985,FM-7 等,艾尼克斯,首发,无,作品最早确认的版本。,https://fm-7.com/museum/products/333wukd2/
-g012,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,1987,红白机,ASCII,改编移植,未核实,根据PC版重新编排故事与人物表现。,https://www.4gamer.net/games/777/G077714/20240222001/
-g019,No・Ri・Ko,No・Ri・Ko,文字冒险,CD-ROM／偶像互动,小川范子,1988,PC Engine CD-ROM²,Hudson,首发,有,配音与歌曲来自偶像本人；并非 Leaf 式视觉小说。,https://pcefan.com/pcengine/entry15.html
-g040,Snatcher,スナッチャー,文字冒险,科幻／赛博朋克侦探,吉利安·希德、Metal Gear Mk.II,1988,PC-8801,Konami,首发,无,PC初版以指令调查为核心。,https://www.konami.com/corporate/ja/history/product.html
-g020,眼镜蛇：黑龙王的传说,コブラ 黒竜王の伝説,文字冒险,CD-ROM／科幻冒险,眼镜蛇（コブラ）,1989,PC Engine CD-ROM²,Hudson,首发,有,作品最早确认的版本。,https://pcefan.com/pcengine/entry15.html
-g021,弟切草,弟切草,视觉小说,有声小说／恐怖,待核实,1992,超级任天堂,Chunsoft,首发,无,“有声小说”指音乐与音效，不保证角色配音。,https://www.spike-chunsoft.co.jp/company/outline/
-g040,Snatcher,スナッチャー,文字冒险,科幻／赛博朋克侦探,吉利安·希德、Metal Gear Mk.II,1992,PC Engine SUPER CD-ROM²,Konami,有声移植,有,新增角色语音与扩充剧情表现。,https://www.konami.com/games/pcemini/lineup/jp/ja/
-g022,镰鼬之夜,かまいたちの夜,视觉小说,有声小说／推理,透、真理,1994,超级任天堂,Chunsoft,首发,无,作品最早确认的版本。,https://www.spike-chunsoft.co.jp/pages/games/kama/
-g023,心跳回忆,ときめきメモリアル,Galgame,恋爱模拟,藤崎诗织、虹野沙希、馆林见晴,1994,PC Engine SUPER CD-ROM²,Konami,首发,有,恋爱模拟，不属于狭义视觉小说。,https://www.konami.com/games/tokimeki/about/index.html
-g023,心跳回忆,ときめきメモリアル,Galgame,恋爱模拟,藤崎诗织、虹野沙希、馆林见晴,1995,PlayStation,Konami,增强移植,有,《forever with you》改良画面与音效。,https://www.konami.com/games/corporate/ja/news/topics/20250203/
-g024,雫,雫,视觉小说,悬疑／成人向,待核实,1996,Windows,Leaf,首发,无,Leaf Visual Novel Series 第 1 作；兼属广义 Galgame。,https://pc98.info/pc-game-history-05-windows-and-the-end/
-g025,痕,痕,视觉小说,悬疑／成人向,待核实,1996,Windows,Leaf,首发,无,兼属广义 Galgame。,https://pc98.info/pc-game-history-05-windows-and-the-end/
-g038,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,1996,PC-9800,ELF,首发,未核实,原版多线剧情与宝玉系统；当年配音情况需逐版核对。,https://yu-no.jp/spec/ps/
-g026,ToHeart,ToHeart,视觉小说,校园恋爱,藤田浩之、神岸明里、来栖川芹香、玛尔琪（Multi）,1997,Windows,Leaf,首发,无,兼属 Galgame；1999 年 PlayStation 版加入角色配音。,https://aquaplus.jp/toheart/en.html
-g038,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,1997,Sega Saturn,ELF,家用机移植,有,新增角色配音并调整表现与内容。,https://yu-no.jp/spec/ps/
-g027,双重角色,ダブルキャスト,互动动画,全动画／悬疑,美月,1998,PlayStation,Sony Computer Entertainment,首发,有,“やるドラ”系列；由 Production I.G 制作动画。,https://www.productionig.com/contents/works/05_/000169.html
-g026,ToHeart,ToHeart,视觉小说,校园恋爱,藤田浩之、神岸明里、来栖川芹香、玛尔琪（Multi）,1999,PlayStation,AQUAPLUS,全年龄移植,有,重写与补充部分内容，并加入角色配音。,https://aquaplus.jp/th/
-g028,Kanon,Kanon,视觉小说,恋爱／奇幻,相泽祐一、月宫亚由、水濑名雪,1999,Windows,VisualArt’s / Key,首发,无,兼属 Galgame；按 Windows 初版。,https://key.visualarts.gr.jp/product/kanon/
-g029,AIR,AIR,视觉小说,恋爱／奇幻,国崎往人、神尾观铃、神尾晴子,2000,Windows,VisualArt’s / Key,首发,无,兼属 Galgame。,https://key.visualarts.gr.jp/key20th/history.html
-g028,Kanon,Kanon,视觉小说,恋爱／奇幻,相泽祐一、月宫亚由、水濑名雪,2002,PlayStation 2,Interchannel,家用机移植,有,家用机版提供角色配音；主角配音因版本而异。,https://www.prot.co.jp/switch/kanon/introduction.html
-g030,CLANNAD,CLANNAD,视觉小说,校园／家庭,冈崎朋也、古河渚、坂上智代,2004,Windows,VisualArt’s / Key,首发,无,2004 年 4 月 28 日首发；兼属广义 Galgame。,https://key.visualarts.gr.jp/key20th/history.html
-g031,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2004,Windows,TYPE-MOON,首发,无,官网明确列出初版角色配音“无”；后续版本不同。,https://www.typemoon.com/products/fate/data/index.html
-g032,星之梦,planetarian ～ちいさなほしのゆめ～,视觉小说,单线剧情／科幻,星野梦美、废墟猎人（屑屋）,2004,Windows 在线下载,VisualArt’s / Key,首发,有（部分）,最初的在线版仅有部分语音；2006 年 PS2 版扩充为全配音。,https://www.prot.co.jp/ps2/planetarian/index.html
-g027,双重角色,ダブルキャスト,互动动画,全动画／悬疑,美月,2005,PSP,Sony Computer Entertainment,掌机移植,有,将PlayStation全动画多结局作品移植至PSP。,https://www.productionig.com/contents/works_sp/31_/index.html
-g033,日在校园,School Days,互动动画,全动画／恋爱剧情,伊藤诚、桂言叶、西园寺世界,2005,Windows,Overflow（STACK）,首发,有,兼属视觉小说与 Galgame；首发 2005 年，2025 年为 20 周年。,https://0verflow.com/sdre_live/
-g030,CLANNAD,CLANNAD,视觉小说,校园／家庭,冈崎朋也、古河渚、坂上智代,2006,PlayStation 2,Interchannel,家用机移植,有,原版内容移植至主机，加入角色配音。,https://key.visualarts.gr.jp/clannad_10th/
-g032,星之梦,planetarian ～ちいさなほしのゆめ～,视觉小说,单线剧情／科幻,星野梦美、废墟猎人（屑屋）,2006,PlayStation 2,PROTOTYPE,全配音移植,有,原2004年Windows版仅部分声音，本版加入包括主角在内的完整配音。,https://www.prot.co.jp/ps2/planetarian/index.html
-g031,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2007,PlayStation 2,角川书店,全年龄移植,有,《Realta Nua》加入角色配音与新演出。,https://typemoon.com/contents/9ncnes/fate-stay-night-realta-nua
-g030,CLANNAD,CLANNAD,视觉小说,校园／家庭,冈崎朋也、古河渚、坂上智代,2008,Windows,VisualArt’s / Key,全配音修订版,有,《CLANNAD フルボイス》，与2004年无配音初版区分。,https://key.visualarts.gr.jp/clannad_10th/
-g034,428：被封锁的涩谷,428 ～封鎖された渋谷で～,视觉小说,实拍有声小说／群像悬疑,加纳慎也、远藤亚智、御法川实,2008,Wii,世嘉（开发：Chunsoft）,首发,未核实,“有声小说”不等于对白配音；首发 2008 年。,https://www.nintendo.co.jp/wii/software/rtoj/index.html
-g035,弹丸论破：希望的学园与绝望高中生,ダンガンロンパ 希望の学園と絶望の高校生,视觉小说,推理／辩论,苗木诚、雾切响子、黑白熊,2010,PSP,Spike,首发,有,推理冒险含角色配音；不是恋爱游戏。,https://www.spike-chunsoft.co.jp/news/17141/
-g039,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2010,Windows,Leaf / AQUAPLUS,首发／序章,有,仅含《introductory chapter》，完整后续剧情后来发行。,https://blog.aquaplus.jp/archives/2352
-g039,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2011,Windows,Leaf / AQUAPLUS,续篇及整合版,有,《closing chapter》发行，部分商品附《introductory chapter》内容。,https://blog.aquaplus.jp/archives/2352
-g031,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2012,PlayStation Vita,角川游戏,掌机移植,有,以《Realta Nua》为基础适配Vita。,https://www.typemoon.com/products/fatevita/character/
-g039,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2012,PlayStation 3,AQUAPLUS,合集与全年龄修订,有,《幸せの向こう側》合并章节，新增剧情、CG及动态立绘。,https://aquaplus.jp/wa2/product.html
-g039,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2013,PlayStation Vita,AQUAPLUS,掌机移植,有,增加小说显示模式、画面切换与名场面提示。,https://aquaplus.jp/wa2vita/products/
-g038,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,2017,PlayStation 4,5pb. / MAGES.,完全重制,有,新角色画面、重编音乐、角色配音；预购附原版移植DLC。,https://yu-no.jp/spec/ps/
-g038,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,2017,PlayStation Vita,5pb. / MAGES.,完全重制,有,与PS4版同期发行的掌机版。,https://yu-no.jp/spec/ps/
-g034,428：被封锁的涩谷,428 ～封鎖された渋谷で～,视觉小说,实拍有声小说／群像悬疑,加纳慎也、远藤亚智、御法川实,2018,PlayStation 4,Spike Chunsoft,高清移植,未核实,面向现代主机重新发行。,https://www.spike-chunsoft.co.jp/news/1799/
-g034,428：被封锁的涩谷,428 ～封鎖された渋谷で～,视觉小说,实拍有声小说／群像悬疑,加纳慎也、远藤亚智、御法川实,2018,Windows / Steam,Spike Chunsoft,高清移植,未核实,与PS4版同日发行的PC版。,https://www.spike-chunsoft.co.jp/news/1799/
-g030,CLANNAD,CLANNAD,视觉小说,校园／家庭,冈崎朋也、古河渚、坂上智代,2019,Nintendo Switch,PROTOTYPE,高清移植,有,携带模式与多语言字幕；按Switch版发行年记录。,https://www.prot.co.jp/switch/clannad/spec.html
-g038,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,2019,Nintendo Switch,5pb. / MAGES.,重制移植,有,2017重制版移植至Switch。,https://yu-no.jp/spec/
-g029,AIR,AIR,视觉小说,恋爱／奇幻,国崎往人、神尾观铃、神尾晴子,2021,Nintendo Switch,PROTOTYPE,高清移植,有,提供日语全配音，之后更新加入英语及简体中文字幕。,https://www.prot.co.jp/switch/air/spec.html
-g035,弹丸论破：希望的学园与绝望高中生,ダンガンロンパ 希望の学園と絶望の高校生,视觉小说,推理／辩论,苗木诚、雾切响子、黑白熊,2021,Nintendo Switch,Spike Chunsoft,纪念版移植,有,收入系列合集，也提供单独下载。,https://www.spike-chunsoft.co.jp/news/13989/
-g036,月姬：月之玻璃片,月姫 -A piece of blue glass moon-,视觉小说,奇幻／悬疑,远野志贵、爱尔奎特、希耶尔、远野秋叶,2021,Nintendo Switch,TYPE-MOON,同步首发,有,与PlayStation 4版同年发行；非2000年PC原版。,https://typemoon.com/products/tsukihime/
-g036,月姬：月之玻璃片,月姫 -A piece of blue glass moon-,视觉小说,奇幻／悬疑,远野志贵、爱尔奎特、希耶尔、远野秋叶,2021,PlayStation 4,TYPE-MOON,重制首发,有,2021 年重制新作；2000 年同人原作另有年份。,https://typemoon.com/products/tsukihime/
-g014,时间少女,タイムギャル,互动动画,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,2023,Nintendo Switch,太东,高清复刻,有,收录于太东LD游戏合集，升级画面并保留互动动画。,https://www.taito.co.jp/taitoldgamecollection
-g028,Kanon,Kanon,视觉小说,恋爱／奇幻,相泽祐一、月宫亚由、水濑名雪,2023,Nintendo Switch,PROTOTYPE,高清移植,有（主角部分）,高清画面与日语角色配音；主角仅部分场景有声。,https://www.prot.co.jp/switch/kanon/spec.html
-g012,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,2024,Nintendo Switch,G-MODE,重制,有,依据红白机版重制，新增后续故事与人物配音。,https://info.gmodecorp.com/cs/okhotsk/
-g012,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,2024,Windows / Steam,G-MODE,重制,有,与Switch同款重制版；按平台单独登记。,https://info.gmodecorp.com/cs/okhotsk/products/
-g031,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2024,Nintendo Switch,TYPE-MOON,高清复刻,有,基于Vita版，画面高清化并增加多语言文本。,https://typemoon.com/products/f-sn/
-g031,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2024,Windows / Steam,TYPE-MOON,高清复刻,有,与Switch版同期发布的《REMASTERED》。,https://typemoon.com/products/f-sn/
-g014,时间少女,タイムギャル,互动动画,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,2025,Windows / Steam,太东,高清复刻移植,有,高清复刻版在Steam发行。,https://www.taito.co.jp/mob/topics/36776
-g023,心跳回忆,ときめきメモリアル,Galgame,恋爱模拟,藤崎诗织、虹野沙希、馆林见晴,2025,Nintendo Switch,Konami,复刻,有,《forever with you エモーショナル》加入EVS呼名功能与图像切换。,https://www.konami.com/games/corporate/ja/news/topics/20250508/
-g033,日在校园,School Days,互动动画,全动画／恋爱剧情,伊藤诚、桂言叶、西园寺世界,2025,Windows,Overflow（STACK）,高清复刻,有,《School Days REMASTERED》重做现代系统兼容性，保留动画式叙事。,https://0verflow.com/sdrm/
-g037,ToHeart（重制版）,ToHeart,视觉小说,校园恋爱／重制,藤田浩之、神岸明里、玛尔琪（Multi）,2025,Nintendo Switch,AQUAPLUS,重制首发,有,1997 年原作的 2025 年重制版，单独列示；平台发行方有别。,https://aquaplus.jp/toheart/en.html
-g037,ToHeart（重制版）,ToHeart,视觉小说,校园恋爱／重制,藤田浩之、神岸明里、玛尔琪（Multi）,2025,Windows / Steam,DMM GAMES、Shiravune,同步首发,有,3D重制；可切换新旧配音，Steam平台发行方与日版不同。,https://aquaplus.jp/toheart/en.html
+﻿作品ID,版本ID,作品名称,原文名称,主分类,游戏类型,主要角色,发行年份,平台,发行公司,版本类型,配音,版本差异,来源
+g001,g001-v1,神秘屋,Mystery House,文字冒险,图文指令／悬疑,待核实,1980,Apple II,On-Line Systems,首发,无,最早商业发行版。,https://www.sierragamers.com/ken-williams/
+g002,g002-v1,佐克 I,Zork I: The Great Underground Empire,文字冒险,纯文本／奇幻解谜,待核实,1980,家用计算机,Infocom,首发,无,按 Infocom 商业版；早期大型机 Zork 不并入。,https://infocom-if.org/company/company.html
+g003,g003-v1,Deadline,Deadline,文字冒险,纯文本／推理,待核实,1982,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://infocom-if.org/games/games.html
+g004,g004-v1,夜生活,ナイトライフ,Galgame,成人向／生活工具,待核实,1982,日本个人计算机,光荣,首发,无,历史作品；严格说并非典型恋爱叙事游戏。,https://www.famitsu.com/news/202312/10327281.html
+g005,g005-v1,Lolita：野球拳,ロリータ～野球拳,Galgame,成人向／猜拳,待核实,1982,FM-7 等,PSK,首发,无,按广义早期美少女游戏收录；不是视觉小说。,https://fm-7.com/museum/products/7bj82lkr/
+g006,g006-v1,Planetfall,Planetfall,文字冒险,纯文本／科幻,待核实,1983,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://www.infocom-if.org/authors/meretzky.html
+g007,g007-v1,波多比亚连续杀人事件,ポートピア連続殺人事件,文字冒险,图文指令／推理,刑警（玩家）、ヤス,1983,日本个人计算机,艾尼克斯,首发,无,此处文字冒险包括图文指令游戏。,https://fm-7.com/museum/products/k6sufaqm/
+g008,g008-v1,玛丽酱危机一发,マリちゃん危機一髪,Galgame,美少女／解救冒险,玛丽,1983,PC-8801 等,艾尼克斯,首发,无,部分版本附有磁带人声；不等同游戏内角色配音。,https://fm-7.com/museum/products/1paitdl4/
+g009,g009-v1,团地妻的诱惑,団地妻の誘惑,Galgame,成人向／冒险,待核实,1983,日本个人计算机,光荣,首发,无,作品最早确认的版本。,https://www.famitsu.com/news/202312/10327281.html
+g010,g010-v1,龙穴历险记,Dragon’s Lair,互动动画,激光影碟／动作选择,德克（Dirk）、达芙妮（Daphne）,1983,街机,Cinematronics,首发,有,美国街机原版。,https://www.arcade-history.com/game/702/
+g041,g041-v1,悬置,Suspended,文字冒险,纯文本／科幻解谜,IRIS、WALDO、AUDA、POET,1983,家用计算机,Infocom,首发,无,文字指令控制不同机器人完成修复。,https://www.infocom-if.org/games/games.html
+g042,g042-v1,魔法师,Enchanter,文字冒险,纯文本／奇幻解谜,见习魔法师（玩家）、Krill,1983,家用计算机,Infocom,首发,无,咒语收集与解析器指令是主要玩法。,https://www.infocom-if.org/games/games.html
+g011,g011-v1,银河系漫游指南,The Hitchhiker’s Guide to the Galaxy,文字冒险,纯文本／科幻喜剧,亚瑟·登特、福特·普里费克特,1984,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://infocom-if.org/games/games.html
+g012,g012-v1,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,1984,PC-8801 等,ASCII（LOGIN SOFT）,首发,无,1984 年 PC 原版；FM-7 移植在 1985 年。,https://www.gamepres.org/pc88/library/1984/ohotsuku.htm
+g013,g013-v1,荷兰妻会梦见电鳗吗？,オランダ妻は電気ウナギの夢を見るか？,Galgame,成人向／冒险,待核实,1984,日本个人计算机,光荣,首发,无,首发 1984；FM-7 版登记为 1985 年。,https://www.famitsu.com/news/202312/10327281.html
+g044,g044-v1,太空王牌,Space Ace,互动动画,激光影碟／动画动作选择,Ace / Dexter、Kimberly、Borf,1984,街机,Cinematronics,首发,有,激光影碟播放手绘动画；按时操作决定分支。,https://www.arcade-museum.com/Videogame/space-ace--cinematronics
+g007,g007-v2,波多比亚连续杀人事件,ポートピア連続殺人事件,文字冒险,图文指令／推理,刑警（玩家）、ヤス,1985,红白机,艾尼克斯,家庭机移植,未核实,移植时重做指令选择界面；并非1983年PC初版。,https://www.nintendo.co.jp/etc/interview/platinumgames/vol1/index3.html
+g014,g014-v1,时间少女,タイムギャル,互动动画,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,1985,街机,太东,首发,有,日本街机原版。,https://www.taito.co.jp/mob/topics/2587
+g015,g015-v1,天使们的午后,天使たちの午後,Galgame,成人向／学园冒险,白石由美子,1985,PC-8801 等,JAST,首发,无,按 PC-8801 初版；FM-7 移植为 1986 年。,https://www.famitsu.com/news/202312/10327281.html
+g016,g016-v1,东京搭讪街,TOKYOナンパストリート,Galgame,成人向／都市恋爱冒险,待核实,1985,日本个人计算机,艾尼克斯,首发,无,作品最早确认的版本。,https://fm-7.com/museum/products/vt0km2jr/
+g017,g017-v1,轻井泽诱拐指南,軽井沢誘拐案内,文字冒险,图文选项／推理,待核实,1985,日本个人计算机,艾尼克斯,首发,无,作品最早确认的版本。,https://fm-7.com/museum/products/iq8kysdi/
+g018,g018-v1,黄金国传奇,エルドラド伝奇,Galgame,成人向／奇幻冒险,待核实,1985,FM-7 等,艾尼克斯,首发,无,作品最早确认的版本。,https://fm-7.com/museum/products/333wukd2/
+g043,g043-v1,永远航行的心灵,A Mind Forever Voyaging,文字冒险,纯文本／科幻叙事,PRISM、Perry Simm,1985,家用计算机,Infocom,首发,无,以多次模拟年代的变化推进故事。,https://www.infocom-if.org/games/games.html
+g012,g012-v2,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,1987,红白机,ASCII,改编移植,未核实,根据PC版重新编排故事与人物表现。,https://www.4gamer.net/games/777/G077714/20240222001/
+g019,g019-v1,No・Ri・Ko,No・Ri・Ko,文字冒险,CD-ROM／偶像互动,小川范子,1988,PC Engine CD-ROM²,Hudson,首发,有,配音与歌曲来自偶像本人；并非 Leaf 式视觉小说。,https://pcefan.com/pcengine/entry15.html
+g040,g040-v1,Snatcher,スナッチャー,文字冒险,科幻／赛博朋克侦探,吉利安·希德、Metal Gear Mk.II,1988,PC-8801,Konami,首发,无,PC初版以指令调查为核心。,https://www.konami.com/corporate/ja/history/product.html
+g020,g020-v1,眼镜蛇：黑龙王的传说,コブラ 黒竜王の伝説,文字冒险,CD-ROM／科幻冒险,眼镜蛇（コブラ）,1989,PC Engine CD-ROM²,Hudson,首发,有,作品最早确认的版本。,https://pcefan.com/pcengine/entry15.html
+g045,g045-v1,龙穴历险记 II：时间扭曲,Dragon's Lair II: Time Warp,互动动画,激光影碟／动画动作选择,德克（Dirk）、达芙妮（Daphne）,1991,街机,Leland,首发,有,延续手绘动画和即时按键玩法。,https://flyers.arcade-museum.com/videogames/show/314
+g021,g021-v1,弟切草,弟切草,视觉小说,有声小说／恐怖,待核实,1992,超级任天堂,Chunsoft,首发,无,“有声小说”指音乐与音效，不保证角色配音。,https://www.spike-chunsoft.co.jp/company/outline/
+g040,g040-v2,Snatcher,スナッチャー,文字冒险,科幻／赛博朋克侦探,吉利安·希德、Metal Gear Mk.II,1992,PC Engine SUPER CD-ROM²,Konami,有声移植,有,新增角色语音与扩充剧情表现。,https://www.konami.com/games/pcemini/lineup/jp/ja/
+g046,g046-v1,同级生,同級生,Galgame,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,1992,PC-9800,ELF,首发,无,原版以地图、日程和人物事件推进。,https://shiravune.com/archives/2502
+g022,g022-v1,镰鼬之夜,かまいたちの夜,视觉小说,有声小说／推理,透、真理,1994,超级任天堂,Chunsoft,首发,无,作品最早确认的版本。,https://www.spike-chunsoft.co.jp/pages/games/kama/
+g023,g023-v1,心跳回忆,ときめきメモリアル,Galgame,恋爱模拟,藤崎诗织、虹野沙希、馆林见晴,1994,PC Engine SUPER CD-ROM²,Konami,首发,有,恋爱模拟，不属于狭义视觉小说。,https://www.konami.com/games/tokimeki/about/index.html
+g023,g023-v2,心跳回忆,ときめきメモリアル,Galgame,恋爱模拟,藤崎诗织、虹野沙希、馆林见晴,1995,PlayStation,Konami,增强移植,有,《forever with you》改良画面与音效。,https://www.konami.com/games/corporate/ja/news/topics/20250203/
+g024,g024-v1,雫,雫,视觉小说,悬疑／成人向,待核实,1996,Windows,Leaf,首发,无,Leaf Visual Novel Series 第 1 作；兼属广义 Galgame。,https://pc98.info/pc-game-history-05-windows-and-the-end/
+g025,g025-v1,痕,痕,视觉小说,悬疑／成人向,待核实,1996,Windows,Leaf,首发,无,兼属广义 Galgame。,https://pc98.info/pc-game-history-05-windows-and-the-end/
+g038,g038-v1,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,1996,PC-9800,ELF,首发,未核实,原版多线剧情与宝玉系统；当年配音情况需逐版核对。,https://yu-no.jp/spec/ps/
+g026,g026-v1,ToHeart,ToHeart,视觉小说,校园恋爱,藤田浩之、神岸明里、来栖川芹香、玛尔琪（Multi）,1997,Windows,Leaf,首发,无,兼属 Galgame；1999 年 PlayStation 版加入角色配音。,https://aquaplus.jp/toheart/en.html
+g038,g038-v2,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,1997,Sega Saturn,ELF,家用机移植,有,新增角色配音并调整表现与内容。,https://yu-no.jp/spec/ps/
+g027,g027-v1,双重角色,ダブルキャスト,互动动画,全动画／悬疑,美月,1998,PlayStation,Sony Computer Entertainment,首发,有,“やるドラ”系列；由 Production I.G 制作动画。,https://www.productionig.com/contents/works/05_/000169.html
+g047,g047-v1,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,1998,Windows,Tactics（NEXTON）,首发,无,1998 年 PC 原作。,https://nexton-net.jp/nexton30th/nvm001/
+g026,g026-v2,ToHeart,ToHeart,视觉小说,校园恋爱,藤田浩之、神岸明里、来栖川芹香、玛尔琪（Multi）,1999,PlayStation,AQUAPLUS,全年龄移植,有,重写与补充部分内容，并加入角色配音。,https://aquaplus.jp/th/
+g028,g028-v1,Kanon,Kanon,视觉小说,恋爱／奇幻,相泽祐一、月宫亚由、水濑名雪,1999,Windows,VisualArt’s / Key,首发,无,兼属 Galgame；按 Windows 初版。,https://key.visualarts.gr.jp/product/kanon/
+g029,g029-v1,AIR,AIR,视觉小说,恋爱／奇幻,国崎往人、神尾观铃、神尾晴子,2000,Windows,VisualArt’s / Key,首发,无,兼属 Galgame。,https://key.visualarts.gr.jp/key20th/history.html
+g048,g048-v1,Never 7：无限终点,Never 7 - The End of Infinity,视觉小说,恋爱冒险／科幻悬疑,石原诚、川岛优夏、樋口遥,2000,PlayStation,KID,infinity 初版,未核实,此行指早期《infinity》，与后来的 Never 7 版本标题不同。,https://www.famitsu.com/game/title/19078/page/1
+g049,g049-v1,逆转裁判,逆転裁判,文字冒险,调查／法庭推理,成步堂龙一、绫里真宵、御剑怜侍,2001,Game Boy Advance,CAPCOM,首发,无,系列首作。,https://www.nintendo.com/jp/topics/article/f141655c-c8da-11e7-8cda-063b7ac45a6d
+g028,g028-v2,Kanon,Kanon,视觉小说,恋爱／奇幻,相泽祐一、月宫亚由、水濑名雪,2002,PlayStation 2,Interchannel,家用机移植,有,家用机版提供角色配音；主角配音因版本而异。,https://www.prot.co.jp/switch/kanon/introduction.html
+g050,g050-v1,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2002,Dreamcast,KID,同步首发,未核实,2002 年同期发行的主机原版；原版配音范围待核对。,https://dengekionline.com/data/news/2002/7/22/b79e0433ff091f2308a4dc12a1901014.html
+g050,g050-v2,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2002,PlayStation 2,KID,同步首发,未核实,2002 年同期发行的主机原版；原版配音范围待核对。,https://dengekionline.com/data/news/2002/7/22/b79e0433ff091f2308a4dc12a1901014.html
+g051,g051-v1,寒蝉鸣泣之时,ひぐらしのなく頃に,视觉小说,有声小说／乡村悬疑,前原圭一、龙宫礼奈、园崎魅音,2002,Windows,07th Expansion,《鬼隐篇》同人首发,无,原作第一篇于 2002 年夏季同人展发表；音乐音效不算角色配音。,https://07th-expansion.net/Soft/Prolog.htm
+g052,g052-v1,Muv-Luv,マブラヴ,Galgame,校园恋爱／平行世界,白银武、鉴纯夏、御剑冥夜,2003,Windows,âge,首发,未核实,原版含 Extra 和 Unlimited 两部分；原版配音范围待核查。,https://muvluv.com/en/products/
+g030,g030-v1,CLANNAD,CLANNAD,视觉小说,校园／家庭,冈崎朋也、古河渚、坂上智代,2004,Windows,VisualArt’s / Key,首发,无,2004 年 4 月 28 日首发；兼属广义 Galgame。,https://key.visualarts.gr.jp/key20th/history.html
+g031,g031-v1,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2004,Windows,TYPE-MOON,首发,无,官网明确列出初版角色配音“无”；后续版本不同。,https://www.typemoon.com/products/fate/data/index.html
+g032,g032-v1,星之梦,planetarian ～ちいさなほしのゆめ～,视觉小说,单线剧情／科幻,星野梦美、废墟猎人（屑屋）,2004,Windows 在线下载,VisualArt’s / Key,首发,有（部分）,最初的在线版仅有部分语音；2006 年 PS2 版扩充为全配音。,https://www.prot.co.jp/ps2/planetarian/index.html
+g027,g027-v2,双重角色,ダブルキャスト,互动动画,全动画／悬疑,美月,2005,PSP,Sony Computer Entertainment,掌机移植,有,将PlayStation全动画多结局作品移植至PSP。,https://www.productionig.com/contents/works_sp/31_/index.html
+g033,g033-v1,日在校园,School Days,互动动画,全动画／恋爱剧情,伊藤诚、桂言叶、西园寺世界,2005,Windows,Overflow（STACK）,首发,有,兼属视觉小说与 Galgame；首发 2005 年，2025 年为 20 周年。,https://0verflow.com/sdre_live/
+g049,g049-v2,逆转裁判,逆転裁判,文字冒险,调查／法庭推理,成步堂龙一、绫里真宵、御剑怜侍,2005,Nintendo DS,CAPCOM,《复苏的逆转》,有,增收第五话与触屏科学调查；配音为少量法庭语音，非全程对话配音。,https://www.nintendo.com/jp/topics/article/f141655c-c8da-11e7-8cda-063b7ac45a6d
+g030,g030-v2,CLANNAD,CLANNAD,视觉小说,校园／家庭,冈崎朋也、古河渚、坂上智代,2006,PlayStation 2,Interchannel,家用机移植,有,原版内容移植至主机，加入角色配音。,https://key.visualarts.gr.jp/clannad_10th/
+g032,g032-v2,星之梦,planetarian ～ちいさなほしのゆめ～,视觉小说,单线剧情／科幻,星野梦美、废墟猎人（屑屋）,2006,PlayStation 2,PROTOTYPE,全配音移植,有,原2004年Windows版仅部分声音，本版加入包括主角在内的完整配音。,https://www.prot.co.jp/ps2/planetarian/index.html
+g053,g053-v1,Muv-Luv Alternative,マブラヴ オルタネイティヴ,视觉小说,科幻战争／平行世界,白银武、鉴纯夏、御剑冥夜、香月夕呼,2006,Windows,âge,DVD 首发,未核实,2006 年 2 月发行的成人向 PC 初版；配音范围待核实。,https://muvluv.com/alternative/spec.htm
+g031,g031-v2,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2007,PlayStation 2,角川书店,全年龄移植,有,《Realta Nua》加入角色配音与新演出。,https://typemoon.com/contents/9ncnes/fate-stay-night-realta-nua
+g030,g030-v3,CLANNAD,CLANNAD,视觉小说,校园／家庭,冈崎朋也、古河渚、坂上智代,2008,Windows,VisualArt’s / Key,全配音修订版,有,《CLANNAD フルボイス》，与2004年无配音初版区分。,https://key.visualarts.gr.jp/clannad_10th/
+g034,g034-v1,428：被封锁的涩谷,428 ～封鎖された渋谷で～,视觉小说,实拍有声小说／群像悬疑,加纳慎也、远藤亚智、御法川实,2008,Wii,世嘉（开发：Chunsoft）,首发,未核实,“有声小说”不等于对白配音；首发 2008 年。,https://www.nintendo.co.jp/wii/software/rtoj/index.html
+g054,g054-v1,命运石之门,STEINS;GATE,视觉小说,科学幻想／时间旅行,冈部伦太郎、牧濑红莉栖、椎名真由理,2009,Xbox 360,5pb.,首发,有,系列首发；原作以文字和静态立绘推进。,https://steinsgate.jp/15th/
+g055,g055-v1,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,密室逃脱／悬疑,淳平、茜、四叶,2009,Nintendo DS,Spike,首发,无,双屏叙事与逃脱谜题；没有 2017 年合集中新增的对话配音。,https://www.spike-chunsoft.co.jp/pages/zendesu/about/index.html
+g035,g035-v1,弹丸论破：希望的学园与绝望高中生,ダンガンロンパ 希望の学園と絶望の高校生,视觉小说,推理／辩论,苗木诚、雾切响子、黑白熊,2010,PSP,Spike,首发,有,推理冒险含角色配音；不是恋爱游戏。,https://www.spike-chunsoft.co.jp/news/17141/
+g039,g039-v1,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2010,Windows,Leaf / AQUAPLUS,首发／序章,有,仅含《introductory chapter》，完整后续剧情后来发行。,https://blog.aquaplus.jp/archives/2352
+g054,g054-v2,命运石之门,STEINS;GATE,视觉小说,科学幻想／时间旅行,冈部伦太郎、牧濑红莉栖、椎名真由理,2010,Windows,5pb. / Nitroplus,PC 移植,有,PC 平台发行；保留原作分支叙事。,https://blog.mages.co.jp/steinsgate/?p=92
+g039,g039-v2,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2011,Windows,Leaf / AQUAPLUS,续篇及整合版,有,《closing chapter》发行，部分商品附《introductory chapter》内容。,https://blog.aquaplus.jp/archives/2352
+g031,g031-v3,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2012,PlayStation Vita,角川游戏,掌机移植,有,以《Realta Nua》为基础适配Vita。,https://www.typemoon.com/products/fatevita/character/
+g039,g039-v3,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2012,PlayStation 3,AQUAPLUS,合集与全年龄修订,有,《幸せの向こう側》合并章节，新增剧情、CG及动态立绘。,https://aquaplus.jp/wa2/product.html
+g039,g039-v4,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2013,PlayStation Vita,AQUAPLUS,掌机移植,有,增加小说显示模式、画面切换与名场面提示。,https://aquaplus.jp/wa2vita/products/
+g052,g052-v2,Muv-Luv,マブラヴ,Galgame,校园恋爱／平行世界,白银武、鉴纯夏、御剑冥夜,2016,Steam,aNCHOR,数字移植,有,PC 数字版加入本地化并保留角色语音。,https://games.ancr.jp/games/muv-luv/
+g038,g038-v3,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,2017,PlayStation 4,5pb. / MAGES.,完全重制,有,新角色画面、重编音乐、角色配音；预购附原版移植DLC。,https://yu-no.jp/spec/ps/
+g038,g038-v4,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,2017,PlayStation Vita,5pb. / MAGES.,完全重制,有,与PS4版同期发行的掌机版。,https://yu-no.jp/spec/ps/
+g053,g053-v2,Muv-Luv Alternative,マブラヴ オルタネイティヴ,视觉小说,科幻战争／平行世界,白银武、鉴纯夏、御剑冥夜、香月夕呼,2017,Steam,aNCHOR,本地化数字版,有,加入译文、画面调整和额外角色配音。,https://store.steampowered.com/app/802890/MuvLuv_Alternative/
+g055,g055-v2,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,密室逃脱／悬疑,淳平、茜、四叶,2017,Steam,Spike Chunsoft,《The Nonary Games》合集,有,高分辨率画面并为本作新增日语、英语对话配音。,https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/
+g055,g055-v3,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,密室逃脱／悬疑,淳平、茜、四叶,2017,PlayStation 4,Spike Chunsoft,《The Nonary Games》合集,有,高分辨率画面并为本作新增日语、英语对话配音。,https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/
+g055,g055-v4,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,密室逃脱／悬疑,淳平、茜、四叶,2017,PlayStation Vita,Spike Chunsoft,《The Nonary Games》合集,有,高分辨率画面并为本作新增日语、英语对话配音。,https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/
+g056,g056-v1,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2017,Windows / itch.io,Team Salvato,免费首发,无,2017 年 9 月在 itch.io 先行推出；无角色台词配音。,https://teamsalvato.com/news/
+g056,g056-v2,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2017,Windows / Steam,Team Salvato,Steam 发行,无,Steam 于同年稍后发行原版，保留心理恐怖的元叙事结构。,https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/
+g034,g034-v2,428：被封锁的涩谷,428 ～封鎖された渋谷で～,视觉小说,实拍有声小说／群像悬疑,加纳慎也、远藤亚智、御法川实,2018,PlayStation 4,Spike Chunsoft,高清移植,未核实,面向现代主机重新发行。,https://www.spike-chunsoft.co.jp/news/1799/
+g034,g034-v3,428：被封锁的涩谷,428 ～封鎖された渋谷で～,视觉小说,实拍有声小说／群像悬疑,加纳慎也、远藤亚智、御法川实,2018,Windows / Steam,Spike Chunsoft,高清移植,未核实,与PS4版同日发行的PC版。,https://www.spike-chunsoft.co.jp/news/1799/
+g051,g051-v2,寒蝉鸣泣之时,ひぐらしのなく頃に,视觉小说,有声小说／乡村悬疑,前原圭一、龙宫礼奈、园崎魅音,2018,Nintendo Switch,ENTERGRAM,《奉》合集,有,主机合集收录多篇故事并提供角色配音。,https://entergram.co.jp/higurashihou/products.html
+g030,g030-v4,CLANNAD,CLANNAD,视觉小说,校园／家庭,冈崎朋也、古河渚、坂上智代,2019,Nintendo Switch,PROTOTYPE,高清移植,有,携带模式与多语言字幕；按Switch版发行年记录。,https://www.prot.co.jp/switch/clannad/spec.html
+g038,g038-v5,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,2019,Nintendo Switch,5pb. / MAGES.,重制移植,有,2017重制版移植至Switch。,https://yu-no.jp/spec/
+g049,g049-v3,逆转裁判,逆転裁判,文字冒险,调查／法庭推理,成步堂龙一、绫里真宵、御剑怜侍,2019,Nintendo Switch,CAPCOM,初期三部曲合集,有,《逆转裁判123》收录前三作；保留少量法庭语音，并提升显示效果。,https://www.nintendo.com/jp/topics/article/761e2356-2f26-11e9-b104-0a6d14145cb1
+g049,g049-v4,逆转裁判,逆転裁判,文字冒险,调查／法庭推理,成步堂龙一、绫里真宵、御剑怜侍,2019,Steam,CAPCOM,初期三部曲合集,有,三部曲合集中的初代，非单独重制；配音主要为法庭喊话。,https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/
+g051,g051-v3,寒蝉鸣泣之时,ひぐらしのなく頃に,视觉小说,有声小说／乡村悬疑,前原圭一、龙宫礼奈、园崎魅音,2019,PlayStation 4,ENTERGRAM,《奉》移植,有,与 Switch 合集主体内容相同，但不支持触屏操作。,https://entergram.co.jp/higurashihou/products.html
+g054,g054-v3,命运石之门,STEINS;GATE,视觉小说,科学幻想／时间旅行,冈部伦太郎、牧濑红莉栖、椎名真由理,2019,Nintendo Switch,Spike Chunsoft / MAGES.,ELITE 动画版,有,使用动画影像替代大量静态画面；附加内容随平台不同。,https://www.spike-chunsoft.com/games/steinsgate-elite/
+g054,g054-v4,命运石之门,STEINS;GATE,视觉小说,科学幻想／时间旅行,冈部伦太郎、牧濑红莉栖、椎名真由理,2019,PlayStation 4 / Steam,Spike Chunsoft / MAGES.,ELITE 动画版,有,使用动画影像替代大量静态画面；附加内容随平台不同。,https://www.spike-chunsoft.com/games/steinsgate-elite/
+g029,g029-v2,AIR,AIR,视觉小说,恋爱／奇幻,国崎往人、神尾观铃、神尾晴子,2021,Nintendo Switch,PROTOTYPE,高清移植,有,提供日语全配音，之后更新加入英语及简体中文字幕。,https://www.prot.co.jp/switch/air/spec.html
+g035,g035-v2,弹丸论破：希望的学园与绝望高中生,ダンガンロンパ 希望の学園と絶望の高校生,视觉小说,推理／辩论,苗木诚、雾切响子、黑白熊,2021,Nintendo Switch,Spike Chunsoft,纪念版移植,有,收入系列合集，也提供单独下载。,https://www.spike-chunsoft.co.jp/news/13989/
+g036,g036-v1,月姬：月之玻璃片,月姫 -A piece of blue glass moon-,视觉小说,奇幻／悬疑,远野志贵、爱尔奎特、希耶尔、远野秋叶,2021,PlayStation 4,TYPE-MOON,重制首发,有,2021 年重制新作；2000 年同人原作另有年份。,https://typemoon.com/products/tsukihime/
+g036,g036-v2,月姬：月之玻璃片,月姫 -A piece of blue glass moon-,视觉小说,奇幻／悬疑,远野志贵、爱尔奎特、希耶尔、远野秋叶,2021,Nintendo Switch,TYPE-MOON,同步首发,有,与PlayStation 4版同年发行；非2000年PC原版。,https://typemoon.com/products/tsukihime/
+g046,g046-v2,同级生,同級生,Galgame,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,2021,Windows,FANZA GAMES（DG REMAKE）,日版重制,有,更新画面与系统，并为女主角加入配音。,https://dmmgames.co.jp/news/detail/id=1786
+g056,g056-v3,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2021,Nintendo Switch,Serenity Forge,Plus 扩展版,无,增加六段友情支线、高清画面、画廊和音乐播放器。,https://www.serenityforge.com/games/doki-doki-literature-club-plus
+g056,g056-v4,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2021,PlayStation 4 / PlayStation 5,Serenity Forge,Plus 扩展版,无,增加六段友情支线、高清画面、画廊和音乐播放器。,https://www.serenityforge.com/games/doki-doki-literature-club-plus
+g056,g056-v5,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2021,Windows / Steam,Serenity Forge,Plus 扩展版,无,增加六段友情支线、高清画面、画廊和音乐播放器。,https://www.serenityforge.com/games/doki-doki-literature-club-plus
+g046,g046-v3,同级生,同級生,Galgame,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,2022,Windows / Steam,Shiravune,国际版重制,有,基于 2021 年重制，加入中英文文本；与 1992 年原版分开。,https://shiravune.com/archives/2502
+g055,g055-v5,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,密室逃脱／悬疑,淳平、茜、四叶,2022,Xbox One / Windows 10,Spike Chunsoft,合集新平台,有,2017 年配音合集移植到 Xbox 与 Microsoft Store PC。,https://www.spike-chunsoft.co.jp/news/14736/
+g014,g014-v2,时间少女,タイムギャル,互动动画,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,2023,Nintendo Switch,太东,高清复刻,有,收录于太东LD游戏合集，升级画面并保留互动动画。,https://www.taito.co.jp/taitoldgamecollection
+g028,g028-v3,Kanon,Kanon,视觉小说,恋爱／奇幻,相泽祐一、月宫亚由、水濑名雪,2023,Nintendo Switch,PROTOTYPE,高清移植,有（主角部分）,高清画面与日语角色配音；主角仅部分场景有声。,https://www.prot.co.jp/switch/kanon/spec.html
+g047,g047-v2,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,2023,Nintendo Switch,novamicus（NEXTON）,ONE. 重制,有,重绘立绘并加入角色配音；主人公仍不配音。,https://nexton-net.jp/nexton30th/nvm001/
+g047,g047-v3,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,2023,Windows,novamicus（NEXTON）,ONE. 重制,有,重绘立绘并加入角色配音；主人公仍不配音。,https://nexton-net.jp/nexton30th/nvm001/
+g047,g047-v4,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,2023,Steam,novamicus（NEXTON）,ONE. 数字版,有,重绘画面与角色配音；商店显示的跨区日期可能早于日版一天。,https://store.steampowered.com/app/2432100/ONE/
+g012,g012-v3,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,2024,Nintendo Switch,G-MODE,重制,有,依据红白机版重制，新增后续故事与人物配音。,https://info.gmodecorp.com/cs/okhotsk/
+g012,g012-v4,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,2024,Windows / Steam,G-MODE,重制,有,与Switch同款重制版；按平台单独登记。,https://info.gmodecorp.com/cs/okhotsk/products/
+g031,g031-v4,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2024,Nintendo Switch,TYPE-MOON,高清复刻,有,基于Vita版，画面高清化并增加多语言文本。,https://typemoon.com/products/f-sn/
+g031,g031-v5,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2024,Windows / Steam,TYPE-MOON,高清复刻,有,与Switch版同期发布的《REMASTERED》。,https://typemoon.com/products/f-sn/
+g046,g046-v4,同级生,同級生,Galgame,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,2024,Nintendo Switch,EXNOA（DG REMAKE）,主机重制版,有,CSver 调整内容，保留重制的配音与画面，增加新场景。,https://dmmgames.co.jp/news/detail/id=1786
+g046,g046-v5,同级生,同級生,Galgame,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,2024,PlayStation 4,EXNOA（DG REMAKE）,主机重制版,有,CSver 调整内容，保留重制的配音与画面，增加新场景。,https://dmmgames.co.jp/news/detail/id=1786
+g052,g052-v3,Muv-Luv,マブラヴ,Galgame,校园恋爱／平行世界,白银武、鉴纯夏、御剑冥夜,2024,Nintendo Switch,aNCHOR,主机复刻,有,面向主机的调整版本，与 2003 年 PC 原版区分。,https://games.ancr.jp/games/muv-luv/
+g053,g053-v3,Muv-Luv Alternative,マブラヴ オルタネイティヴ,视觉小说,科幻战争／平行世界,白银武、鉴纯夏、御剑冥夜、香月夕呼,2024,Nintendo Switch,aNCHOR,主机复刻,有,主机版以全年龄内容和重新调整的显示呈现。,https://games.ancr.jp/games/muv-luv-alternative/
+g014,g014-v3,时间少女,タイムギャル,互动动画,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,2025,Windows / Steam,太东,高清复刻移植,有,高清复刻版在Steam发行。,https://www.taito.co.jp/mob/topics/36776
+g023,g023-v3,心跳回忆,ときめきメモリアル,Galgame,恋爱模拟,藤崎诗织、虹野沙希、馆林见晴,2025,Nintendo Switch,Konami,复刻,有,《forever with you エモーショナル》加入EVS呼名功能与图像切换。,https://www.konami.com/games/corporate/ja/news/topics/20250508/
+g033,g033-v2,日在校园,School Days,互动动画,全动画／恋爱剧情,伊藤诚、桂言叶、西园寺世界,2025,Windows,Overflow（STACK）,高清复刻,有,《School Days REMASTERED》重做现代系统兼容性，保留动画式叙事。,https://0verflow.com/sdrm/
+g037,g037-v1,ToHeart（重制版）,ToHeart,视觉小说,校园恋爱／重制,藤田浩之、神岸明里、玛尔琪（Multi）,2025,Nintendo Switch,AQUAPLUS,重制首发,有,1997 年原作的 2025 年重制版，单独列示；平台发行方有别。,https://aquaplus.jp/toheart/en.html
+g037,g037-v2,ToHeart（重制版）,ToHeart,视觉小说,校园恋爱／重制,藤田浩之、神岸明里、玛尔琪（Multi）,2025,Windows / Steam,DMM GAMES、Shiravune,同步首发,有,3D重制；可切换新旧配音，Steam平台发行方与日版不同。,https://aquaplus.jp/toheart/en.html
+g048,g048-v2,Never 7：无限终点,Never 7 - The End of Infinity,视觉小说,恋爱冒险／科幻悬疑,石原诚、川岛优夏、樋口遥,2025,Nintendo Switch,MAGES.,高清复刻,有,2025 年复刻版，保留恋爱冒险主线并更新显示。,https://game.mages.co.jp/infinity/never7/
+g048,g048-v3,Never 7：无限终点,Never 7 - The End of Infinity,视觉小说,恋爱冒险／科幻悬疑,石原诚、川岛优夏、樋口遥,2025,PlayStation 4,MAGES.,高清复刻,有,2025 年复刻版，保留恋爱冒险主线并更新显示。,https://game.mages.co.jp/infinity/never7/
+g048,g048-v4,Never 7：无限终点,Never 7 - The End of Infinity,视觉小说,恋爱冒险／科幻悬疑,石原诚、川岛优夏、樋口遥,2025,Steam,MAGES.,高清复刻,有,2025 年复刻版，保留恋爱冒险主线并更新显示。,https://game.mages.co.jp/infinity/never7/
+g050,g050-v3,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2025,Nintendo Switch,MAGES.,高清复刻,有,使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。,https://game.mages.co.jp/infinity/ever17/
+g050,g050-v4,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2025,PlayStation 4,MAGES.,高清复刻,有,使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。,https://game.mages.co.jp/infinity/ever17/
+g050,g050-v5,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2025,Steam,MAGES.,高清复刻,有,使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。,https://game.mages.co.jp/infinity/ever17/
+g056,g056-v6,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2025,Android,Team Salvato / Serenity Forge,移动版,无,免费本篇升级高清；Plus 的支线和画廊作为付费扩展。,https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/
+g056,g056-v7,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2025,iOS,Team Salvato / Serenity Forge,移动版,无,免费本篇升级高清；Plus 的支线和画廊作为付费扩展。,https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/

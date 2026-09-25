@@ -25,3 +25,19 @@ test('publisher and main character are independently searchable',()=>{
   assert.ok(filterCatalogue(data,{query:'G-MODE'}).some(({work})=>work.title.includes('鄂霍次克')));
   assert.ok(filterCatalogue(data,{query:'远坂凛'}).some(({work})=>work.title==='Fate/stay night'));
 });
+
+test('999 first edition and voiced collection keep separate years and voice states',()=>{
+  const original=filterCatalogue(data,{query:'9 小时 9 人 9 扇门',platform:'Nintendo DS',from:2009,to:2009});
+  assert.equal(original.length,1);
+  assert.deepEqual(original[0].versions.map(v=>v.voice),['无']);
+  const collection=filterCatalogue(data,{query:'9 小时 9 人 9 扇门',platform:'Steam',from:2017,to:2017});
+  assert.equal(collection.length,1);
+  assert.deepEqual(collection[0].versions.map(v=>v.voice),['有']);
+});
+
+test('Dōkyūsei original and console remake remain distinct',()=>{
+  const original=filterCatalogue(data,{query:'同级生',platform:'PC-9800',from:1992,to:1992});
+  const remake=filterCatalogue(data,{query:'同级生',platform:'Nintendo Switch',from:2024,to:2024});
+  assert.equal(original[0].versions[0].voice,'无');
+  assert.equal(remake[0].versions[0].voice,'有');
+});

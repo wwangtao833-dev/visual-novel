@@ -2,23 +2,10 @@
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
     "updated": "2026-09-25",
-    "scope": "精选可核查作品，非全量目录。发行年份按此行平台版本实际发售年份；有疑点标注未核实。",
+    "scope": "精选可核查作品，非全量目录。首发年份按所列最早发行版本；移植年份、配音与出版方逐版本区分，存疑处标待核实。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
   "works": [
-    {
-      "id": "g002",
-      "title": "佐克 I",
-      "originalTitle": "Zork I: The Great Underground Empire",
-      "firstYear": 1980,
-      "category": "文字冒险",
-      "genre": "纯文本／奇幻解谜",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
-      "synopsis": "输入指令探索地下帝国，解开谜题并收集宝物。",
-      "notes": "按 Infocom 商业版；早期大型机 Zork 不并入。",
-      "source": "https://infocom-if.org/company/company.html"
-    },
     {
       "id": "g001",
       "title": "神秘屋",
@@ -31,6 +18,19 @@
       "synopsis": "在宅邸中搜集线索，查明接连发生的谋杀。",
       "notes": "最早商业发行版。",
       "source": "https://www.sierragamers.com/ken-williams/"
+    },
+    {
+      "id": "g002",
+      "title": "佐克 I",
+      "originalTitle": "Zork I: The Great Underground Empire",
+      "firstYear": 1980,
+      "category": "文字冒险",
+      "genre": "纯文本／奇幻解谜",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "输入指令探索地下帝国，解开谜题并收集宝物。",
+      "notes": "按 Infocom 商业版；早期大型机 Zork 不并入。",
+      "source": "https://infocom-if.org/company/company.html"
     },
     {
       "id": "g003",
@@ -46,19 +46,6 @@
       "source": "https://infocom-if.org/games/games.html"
     },
     {
-      "id": "g005",
-      "title": "Lolita：野球拳",
-      "originalTitle": "ロリータ～野球拳",
-      "firstYear": 1982,
-      "category": "Galgame",
-      "genre": "成人向／猜拳",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
-      "synopsis": "以野球拳规则进行的简易对战。",
-      "notes": "按广义早期美少女游戏收录；不是视觉小说。",
-      "source": "https://fm-7.com/museum/products/7bj82lkr/"
-    },
-    {
       "id": "g004",
       "title": "夜生活",
       "originalTitle": "ナイトライフ",
@@ -72,6 +59,19 @@
       "source": "https://www.famitsu.com/news/202312/10327281.html"
     },
     {
+      "id": "g005",
+      "title": "Lolita：野球拳",
+      "originalTitle": "ロリータ～野球拳",
+      "firstYear": 1982,
+      "category": "Galgame",
+      "genre": "成人向／猜拳",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "以野球拳规则进行的简易对战。",
+      "notes": "按广义早期美少女游戏收录；不是视觉小说。",
+      "source": "https://fm-7.com/museum/products/7bj82lkr/"
+    },
+    {
       "id": "g006",
       "title": "Planetfall",
       "originalTitle": "Planetfall",
@@ -83,19 +83,6 @@
       "synopsis": "在陌生星球探索设施，并追查危机的原因。",
       "notes": "",
       "source": "https://www.infocom-if.org/authors/meretzky.html"
-    },
-    {
-      "id": "g009",
-      "title": "团地妻的诱惑",
-      "originalTitle": "団地妻の誘惑",
-      "firstYear": 1983,
-      "category": "Galgame",
-      "genre": "成人向／冒险",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
-      "synopsis": "通过指令探索住宅区并触发事件。",
-      "notes": "",
-      "source": "https://www.famitsu.com/news/202312/10327281.html"
     },
     {
       "id": "g007",
@@ -129,6 +116,19 @@
       "source": "https://fm-7.com/museum/products/1paitdl4/"
     },
     {
+      "id": "g009",
+      "title": "团地妻的诱惑",
+      "originalTitle": "団地妻の誘惑",
+      "firstYear": 1983,
+      "category": "Galgame",
+      "genre": "成人向／冒险",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "通过指令探索住宅区并触发事件。",
+      "notes": "",
+      "source": "https://www.famitsu.com/news/202312/10327281.html"
+    },
+    {
       "id": "g010",
       "title": "龙穴历险记",
       "originalTitle": "Dragon’s Lair",
@@ -143,6 +143,56 @@
       "synopsis": "观看手绘动画，按提示作出动作以救出公主。",
       "notes": "美国街机原版。",
       "source": "https://www.arcade-history.com/game/702/"
+    },
+    {
+      "id": "g041",
+      "title": "悬置",
+      "originalTitle": "Suspended",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "纯文本／科幻解谜",
+      "characters": [
+        "IRIS",
+        "WALDO",
+        "AUDA",
+        "POET"
+      ],
+      "charactersNote": "",
+      "synopsis": "操纵感官各异的机器人，修复维系殖民地的中央设施。",
+      "notes": "角色栏列出代表性机器人；玩家本人在故事中无法自由移动。",
+      "source": "https://www.infocom-if.org/games/suspended/suspended.html"
+    },
+    {
+      "id": "g042",
+      "title": "魔法师",
+      "originalTitle": "Enchanter",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "纯文本／奇幻解谜",
+      "characters": [
+        "见习魔法师（玩家）",
+        "Krill"
+      ],
+      "charactersNote": "",
+      "synopsis": "扮演见习魔法师潜入巫师的势力范围，利用咒语化解危机。",
+      "notes": "",
+      "source": "https://www.infocom-if.org/games/enchanter/enchanter.html"
+    },
+    {
+      "id": "g011",
+      "title": "银河系漫游指南",
+      "originalTitle": "The Hitchhiker’s Guide to the Galaxy",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "纯文本／科幻喜剧",
+      "characters": [
+        "亚瑟·登特",
+        "福特·普里费克特"
+      ],
+      "charactersNote": "",
+      "synopsis": "在荒诞的宇宙旅途中输入指令解谜。",
+      "notes": "",
+      "source": "https://infocom-if.org/games/games.html"
     },
     {
       "id": "g012",
@@ -175,33 +225,37 @@
       "source": "https://www.famitsu.com/news/202312/10327281.html"
     },
     {
-      "id": "g011",
-      "title": "银河系漫游指南",
-      "originalTitle": "The Hitchhiker’s Guide to the Galaxy",
+      "id": "g044",
+      "title": "太空王牌",
+      "originalTitle": "Space Ace",
       "firstYear": 1984,
-      "category": "文字冒险",
-      "genre": "纯文本／科幻喜剧",
+      "category": "互动动画",
+      "genre": "激光影碟／动画动作选择",
       "characters": [
-        "亚瑟·登特",
-        "福特·普里费克特"
+        "Ace / Dexter",
+        "Kimberly",
+        "Borf"
       ],
       "charactersNote": "",
-      "synopsis": "在荒诞的宇宙旅途中输入指令解谜。",
+      "synopsis": "英雄被射线变成少年后，通过及时操作拯救同伴。",
       "notes": "",
-      "source": "https://infocom-if.org/games/games.html"
+      "source": "https://www.arcade-museum.com/Videogame/space-ace--cinematronics"
     },
     {
-      "id": "g016",
-      "title": "东京搭讪街",
-      "originalTitle": "TOKYOナンパストリート",
+      "id": "g014",
+      "title": "时间少女",
+      "originalTitle": "タイムギャル",
       "firstYear": 1985,
-      "category": "Galgame",
-      "genre": "成人向／都市恋爱冒险",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
-      "synopsis": "在东京街区与人物相遇并展开对话。",
-      "notes": "",
-      "source": "https://fm-7.com/museum/products/vt0km2jr/"
+      "category": "互动动画",
+      "genre": "激光影碟／动作选择",
+      "characters": [
+        "玲香（レイカ）",
+        "鲁达（ルーダ）"
+      ],
+      "charactersNote": "",
+      "synopsis": "追捕窃取时光机的罪犯，穿越各个时代。",
+      "notes": "日本街机原版。",
+      "source": "https://www.taito.co.jp/mob/topics/2587"
     },
     {
       "id": "g015",
@@ -219,20 +273,17 @@
       "source": "https://www.famitsu.com/news/202312/10327281.html"
     },
     {
-      "id": "g014",
-      "title": "时间少女",
-      "originalTitle": "タイムギャル",
+      "id": "g016",
+      "title": "东京搭讪街",
+      "originalTitle": "TOKYOナンパストリート",
       "firstYear": 1985,
-      "category": "互动动画",
-      "genre": "激光影碟／动作选择",
-      "characters": [
-        "玲香（レイカ）",
-        "鲁达（ルーダ）"
-      ],
-      "charactersNote": "",
-      "synopsis": "追捕窃取时光机的罪犯，穿越各个时代。",
-      "notes": "日本街机原版。",
-      "source": "https://www.taito.co.jp/mob/topics/2587"
+      "category": "Galgame",
+      "genre": "成人向／都市恋爱冒险",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "在东京街区与人物相遇并展开对话。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/vt0km2jr/"
     },
     {
       "id": "g017",
@@ -259,6 +310,22 @@
       "synopsis": "围绕传说中的黄金国展开图文冒险。",
       "notes": "",
       "source": "https://fm-7.com/museum/products/333wukd2/"
+    },
+    {
+      "id": "g043",
+      "title": "永远航行的心灵",
+      "originalTitle": "A Mind Forever Voyaging",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "纯文本／科幻叙事",
+      "characters": [
+        "PRISM",
+        "Perry Simm"
+      ],
+      "charactersNote": "",
+      "synopsis": "人工智能进入模拟未来，观察一项政策对社会生活的长期影响。",
+      "notes": "以观察与叙事为重；与常见的物品解谜冒险不同。",
+      "source": "https://www.infocom-if.org/games/amfv/amfv.html"
     },
     {
       "id": "g019",
@@ -307,6 +374,22 @@
       "source": "https://pcefan.com/pcengine/entry15.html"
     },
     {
+      "id": "g045",
+      "title": "龙穴历险记 II：时间扭曲",
+      "originalTitle": "Dragon's Lair II: Time Warp",
+      "firstYear": 1991,
+      "category": "互动动画",
+      "genre": "激光影碟／动画动作选择",
+      "characters": [
+        "德克（Dirk）",
+        "达芙妮（Daphne）"
+      ],
+      "charactersNote": "",
+      "synopsis": "德克穿越不同年代追寻遭带走的达芙妮。",
+      "notes": "与 1983 年的首作分开收录。",
+      "source": "https://flyers.arcade-museum.com/videogames/show/314"
+    },
+    {
       "id": "g021",
       "title": "弟切草",
       "originalTitle": "弟切草",
@@ -318,6 +401,39 @@
       "synopsis": "雨夜误入洋馆，通过选择推动恐怖故事。",
       "notes": "“有声小说”指音乐与音效，不保证角色配音。",
       "source": "https://www.spike-chunsoft.co.jp/company/outline/"
+    },
+    {
+      "id": "g046",
+      "title": "同级生",
+      "originalTitle": "同級生",
+      "firstYear": 1992,
+      "category": "Galgame",
+      "genre": "校园恋爱／地图探索",
+      "characters": [
+        "樱木舞",
+        "田中美沙",
+        "黑川里美"
+      ],
+      "charactersNote": "",
+      "synopsis": "在毕业前的夏天走访城镇，与不同人物相遇并发展感情。",
+      "notes": "1992 年 PC 原版与后续重制的画面、功能和配音不能混同。",
+      "source": "https://shiravune.com/archives/2502"
+    },
+    {
+      "id": "g022",
+      "title": "镰鼬之夜",
+      "originalTitle": "かまいたちの夜",
+      "firstYear": 1994,
+      "category": "视觉小说",
+      "genre": "有声小说／推理",
+      "characters": [
+        "透",
+        "真理"
+      ],
+      "charactersNote": "",
+      "synopsis": "被困雪山民宿时查找杀人犯。",
+      "notes": "",
+      "source": "https://www.spike-chunsoft.co.jp/pages/games/kama/"
     },
     {
       "id": "g023",
@@ -337,20 +453,30 @@
       "source": "https://www.konami.com/games/tokimeki/about/index.html"
     },
     {
-      "id": "g022",
-      "title": "镰鼬之夜",
-      "originalTitle": "かまいたちの夜",
-      "firstYear": 1994,
+      "id": "g024",
+      "title": "雫",
+      "originalTitle": "雫",
+      "firstYear": 1996,
       "category": "视觉小说",
-      "genre": "有声小说／推理",
-      "characters": [
-        "透",
-        "真理"
-      ],
-      "charactersNote": "",
-      "synopsis": "被困雪山民宿时查找杀人犯。",
-      "notes": "",
-      "source": "https://www.spike-chunsoft.co.jp/pages/games/kama/"
+      "genre": "悬疑／成人向",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "在校园中追查奇异事件。",
+      "notes": "Leaf Visual Novel Series 第 1 作；兼属广义 Galgame。",
+      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/"
+    },
+    {
+      "id": "g025",
+      "title": "痕",
+      "originalTitle": "痕",
+      "firstYear": 1996,
+      "category": "视觉小说",
+      "genre": "悬疑／成人向",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "返乡后围绕一桩旧事展开多线悬疑。",
+      "notes": "兼属广义 Galgame。",
+      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/"
     },
     {
       "id": "g038",
@@ -369,32 +495,6 @@
       "synopsis": "穿梭平行世界，调查父亲失踪与时空装置之谜。",
       "notes": "1996原版与2017完全重制分别记录。",
       "source": "https://yu-no.jp/spec/ps/"
-    },
-    {
-      "id": "g025",
-      "title": "痕",
-      "originalTitle": "痕",
-      "firstYear": 1996,
-      "category": "视觉小说",
-      "genre": "悬疑／成人向",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
-      "synopsis": "返乡后围绕一桩旧事展开多线悬疑。",
-      "notes": "兼属广义 Galgame。",
-      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/"
-    },
-    {
-      "id": "g024",
-      "title": "雫",
-      "originalTitle": "雫",
-      "firstYear": 1996,
-      "category": "视觉小说",
-      "genre": "悬疑／成人向",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
-      "synopsis": "在校园中追查奇异事件。",
-      "notes": "Leaf Visual Novel Series 第 1 作；兼属广义 Galgame。",
-      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/"
     },
     {
       "id": "g026",
@@ -430,6 +530,23 @@
       "source": "https://www.productionig.com/contents/works/05_/000169.html"
     },
     {
+      "id": "g047",
+      "title": "ONE：辉之季节",
+      "originalTitle": "ONE 〜輝く季節へ〜",
+      "firstYear": 1998,
+      "category": "视觉小说",
+      "genre": "校园恋爱／奇幻",
+      "characters": [
+        "折原浩平",
+        "长森瑞佳",
+        "七濑留美"
+      ],
+      "charactersNote": "",
+      "synopsis": "平静的校园生活中，浩平逐渐感受到另一个世界对日常的侵蚀。",
+      "notes": "2023 年《ONE.》属于重制；各平台发行年份按当地发售年份登记。",
+      "source": "https://nexton-net.jp/nexton30th/nvm001/"
+    },
+    {
       "id": "g028",
       "title": "Kanon",
       "originalTitle": "Kanon",
@@ -462,6 +579,92 @@
       "synopsis": "旅行中的青年在海边小镇追寻传说。",
       "notes": "兼属 Galgame。",
       "source": "https://key.visualarts.gr.jp/key20th/history.html"
+    },
+    {
+      "id": "g048",
+      "title": "Never 7：无限终点",
+      "originalTitle": "Never 7 - The End of Infinity",
+      "firstYear": 2000,
+      "category": "视觉小说",
+      "genre": "恋爱冒险／科幻悬疑",
+      "characters": [
+        "石原诚",
+        "川岛优夏",
+        "樋口遥"
+      ],
+      "charactersNote": "",
+      "synopsis": "大学生在海岛合宿经历七天，试图避开逐渐逼近的悲剧。",
+      "notes": "PlayStation 初版原名《infinity》；后以 Never 7 名义移植。",
+      "source": "https://game.mages.co.jp/infinity/never7/"
+    },
+    {
+      "id": "g049",
+      "title": "逆转裁判",
+      "originalTitle": "逆転裁判",
+      "firstYear": 2001,
+      "category": "文字冒险",
+      "genre": "调查／法庭推理",
+      "characters": [
+        "成步堂龙一",
+        "绫里真宵",
+        "御剑怜侍"
+      ],
+      "charactersNote": "",
+      "synopsis": "新人律师在调查与法庭辩论中寻找证据，替委托人洗清罪名。",
+      "notes": "合集版本仅表示本作作为合集内容可玩，不等同单独新作。",
+      "source": "https://www.capcom.co.jp/ir/news/html/151221.html"
+    },
+    {
+      "id": "g050",
+      "title": "Ever17：无限之外",
+      "originalTitle": "Ever 17 - The Out of Infinity",
+      "firstYear": 2002,
+      "category": "视觉小说",
+      "genre": "海底设施／科幻悬疑",
+      "characters": [
+        "仓成武",
+        "少年",
+        "田中优美清春香菜",
+        "小町鸫"
+      ],
+      "charactersNote": "",
+      "synopsis": "两条主角视角交错，寻找逃离即将坍塌的海底乐园的方法。",
+      "notes": "2025 年版采用新版调整过的剧本并恢复二维人物画面。",
+      "source": "https://game.mages.co.jp/infinity/ever17/"
+    },
+    {
+      "id": "g051",
+      "title": "寒蝉鸣泣之时",
+      "originalTitle": "ひぐらしのなく頃に",
+      "firstYear": 2002,
+      "category": "视觉小说",
+      "genre": "有声小说／乡村悬疑",
+      "characters": [
+        "前原圭一",
+        "龙宫礼奈",
+        "园崎魅音"
+      ],
+      "charactersNote": "",
+      "synopsis": "迁入雏见泽的圭一发现村中接连发生的失踪与死亡之谜。",
+      "notes": "2002 年首发指《鬼隐篇》；之后各篇分期推出，主机合集另有追加内容。",
+      "source": "https://07th-expansion.net/Soft/Prolog.htm"
+    },
+    {
+      "id": "g052",
+      "title": "Muv-Luv",
+      "originalTitle": "マブラヴ",
+      "firstYear": 2003,
+      "category": "Galgame",
+      "genre": "校园恋爱／平行世界",
+      "characters": [
+        "白银武",
+        "鉴纯夏",
+        "御剑冥夜"
+      ],
+      "charactersNote": "",
+      "synopsis": "从校园恋爱走向平行世界，为续篇的科幻战争故事铺垫。",
+      "notes": "与 2006 年续篇《Muv-Luv Alternative》分开记录。",
+      "source": "https://muvluv.com/en/products/"
     },
     {
       "id": "g030",
@@ -532,6 +735,24 @@
       "source": "https://0verflow.com/sdre_live/"
     },
     {
+      "id": "g053",
+      "title": "Muv-Luv Alternative",
+      "originalTitle": "マブラヴ オルタネイティヴ",
+      "firstYear": 2006,
+      "category": "视觉小说",
+      "genre": "科幻战争／平行世界",
+      "characters": [
+        "白银武",
+        "鉴纯夏",
+        "御剑冥夜",
+        "香月夕呼"
+      ],
+      "charactersNote": "",
+      "synopsis": "武在另一条时间线中参与对抗外星生命的作战，试图改变结局。",
+      "notes": "原版与续作、移动端另列；注意不同地区的语言支持有差异。",
+      "source": "https://muvluv.com/alternative/spec.htm"
+    },
+    {
       "id": "g034",
       "title": "428：被封锁的涩谷",
       "originalTitle": "428 ～封鎖された渋谷で～",
@@ -547,6 +768,57 @@
       "synopsis": "从多名主角视角调查涩谷的人质事件。",
       "notes": "“有声小说”不等于对白配音；首发 2008 年。",
       "source": "https://www.nintendo.co.jp/wii/software/rtoj/index.html"
+    },
+    {
+      "id": "g054",
+      "title": "命运石之门",
+      "originalTitle": "STEINS;GATE",
+      "firstYear": 2009,
+      "category": "视觉小说",
+      "genre": "科学幻想／时间旅行",
+      "characters": [
+        "冈部伦太郎",
+        "牧濑红莉栖",
+        "椎名真由理"
+      ],
+      "charactersNote": "",
+      "synopsis": "秋叶原的伙伴误打误撞发现能影响过去的装置，故事沿不同世界线展开。",
+      "notes": "2019 年 ELITE 版使用动画演出，不等同原版画面。",
+      "source": "https://steinsgate.jp/"
+    },
+    {
+      "id": "g055",
+      "title": "极限脱出：9 小时 9 人 9 扇门",
+      "originalTitle": "極限脱出 9時間9人9の扉",
+      "firstYear": 2009,
+      "category": "视觉小说",
+      "genre": "密室逃脱／悬疑",
+      "characters": [
+        "淳平",
+        "茜",
+        "四叶"
+      ],
+      "charactersNote": "",
+      "synopsis": "九名被困客轮的参与者在倒计时内解密并寻找九号门。",
+      "notes": "2017 年《The Nonary Games》合集为本作新增配音。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/"
+    },
+    {
+      "id": "g035",
+      "title": "弹丸论破：希望的学园与绝望高中生",
+      "originalTitle": "ダンガンロンパ 希望の学園と絶望の高校生",
+      "firstYear": 2010,
+      "category": "视觉小说",
+      "genre": "推理／辩论",
+      "characters": [
+        "苗木诚",
+        "雾切响子",
+        "黑白熊"
+      ],
+      "charactersNote": "",
+      "synopsis": "被困学园，调查案件并参与班级审判。",
+      "notes": "推理冒险含角色配音；不是恋爱游戏。",
+      "source": "https://www.spike-chunsoft.co.jp/news/17141/"
     },
     {
       "id": "g039",
@@ -566,21 +838,22 @@
       "source": "https://blog.aquaplus.jp/archives/2352"
     },
     {
-      "id": "g035",
-      "title": "弹丸论破：希望的学园与绝望高中生",
-      "originalTitle": "ダンガンロンパ 希望の学園と絶望の高校生",
-      "firstYear": 2010,
+      "id": "g056",
+      "title": "心跳文学部！",
+      "originalTitle": "Doki Doki Literature Club!",
+      "firstYear": 2017,
       "category": "视觉小说",
-      "genre": "推理／辩论",
+      "genre": "心理恐怖／元叙事",
       "characters": [
-        "苗木诚",
-        "雾切响子",
-        "黑白熊"
+        "Monika",
+        "Sayori",
+        "Yuri",
+        "Natsuki"
       ],
       "charactersNote": "",
-      "synopsis": "被困学园，调查案件并参与班级审判。",
-      "notes": "推理冒险含角色配音；不是恋爱游戏。",
-      "source": "https://www.spike-chunsoft.co.jp/news/17141/"
+      "synopsis": "加入文学部并以诗歌与成员互动，逐步发现故事异常。",
+      "notes": "2017 年免费原版、2021 年 Plus 扩展版、2025 年移动版分开标注。",
+      "source": "https://teamsalvato.com/games"
     },
     {
       "id": "g036",
@@ -730,6 +1003,28 @@
       "source": "https://www.arcade-history.com/game/702/"
     },
     {
+      "id": "g041-v1",
+      "workId": "g041",
+      "year": 1983,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "文字指令控制不同机器人完成修复。",
+      "source": "https://www.infocom-if.org/games/games.html"
+    },
+    {
+      "id": "g042-v1",
+      "workId": "g042",
+      "year": 1983,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "咒语收集与解析器指令是主要玩法。",
+      "source": "https://www.infocom-if.org/games/games.html"
+    },
+    {
       "id": "g011-v1",
       "workId": "g011",
       "year": 1984,
@@ -761,6 +1056,17 @@
       "voice": "无",
       "differences": "首发 1984；FM-7 版登记为 1985 年。",
       "source": "https://www.famitsu.com/news/202312/10327281.html"
+    },
+    {
+      "id": "g044-v1",
+      "workId": "g044",
+      "year": 1984,
+      "platform": "街机",
+      "publisher": "Cinematronics",
+      "kind": "首发",
+      "voice": "有",
+      "differences": "激光影碟播放手绘动画；按时操作决定分支。",
+      "source": "https://www.arcade-museum.com/Videogame/space-ace--cinematronics"
     },
     {
       "id": "g007-v2",
@@ -829,6 +1135,17 @@
       "source": "https://fm-7.com/museum/products/333wukd2/"
     },
     {
+      "id": "g043-v1",
+      "workId": "g043",
+      "year": 1985,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "以多次模拟年代的变化推进故事。",
+      "source": "https://www.infocom-if.org/games/games.html"
+    },
+    {
       "id": "g012-v2",
       "workId": "g012",
       "year": 1987,
@@ -873,6 +1190,17 @@
       "source": "https://pcefan.com/pcengine/entry15.html"
     },
     {
+      "id": "g045-v1",
+      "workId": "g045",
+      "year": 1991,
+      "platform": "街机",
+      "publisher": "Leland",
+      "kind": "首发",
+      "voice": "有",
+      "differences": "延续手绘动画和即时按键玩法。",
+      "source": "https://flyers.arcade-museum.com/videogames/show/314"
+    },
+    {
       "id": "g021-v1",
       "workId": "g021",
       "year": 1992,
@@ -893,6 +1221,17 @@
       "voice": "有",
       "differences": "新增角色语音与扩充剧情表现。",
       "source": "https://www.konami.com/games/pcemini/lineup/jp/ja/"
+    },
+    {
+      "id": "g046-v1",
+      "workId": "g046",
+      "year": 1992,
+      "platform": "PC-9800",
+      "publisher": "ELF",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "原版以地图、日程和人物事件推进。",
+      "source": "https://shiravune.com/archives/2502"
     },
     {
       "id": "g022-v1",
@@ -994,6 +1333,17 @@
       "source": "https://www.productionig.com/contents/works/05_/000169.html"
     },
     {
+      "id": "g047-v1",
+      "workId": "g047",
+      "year": 1998,
+      "platform": "Windows",
+      "publisher": "Tactics（NEXTON）",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "1998 年 PC 原作。",
+      "source": "https://nexton-net.jp/nexton30th/nvm001/"
+    },
+    {
       "id": "g026-v2",
       "workId": "g026",
       "year": 1999,
@@ -1027,6 +1377,28 @@
       "source": "https://key.visualarts.gr.jp/key20th/history.html"
     },
     {
+      "id": "g048-v1",
+      "workId": "g048",
+      "year": 2000,
+      "platform": "PlayStation",
+      "publisher": "KID",
+      "kind": "infinity 初版",
+      "voice": "未核实",
+      "differences": "此行指早期《infinity》，与后来的 Never 7 版本标题不同。",
+      "source": "https://www.famitsu.com/game/title/19078/page/1"
+    },
+    {
+      "id": "g049-v1",
+      "workId": "g049",
+      "year": 2001,
+      "platform": "Game Boy Advance",
+      "publisher": "CAPCOM",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "系列首作。",
+      "source": "https://www.nintendo.com/jp/topics/article/f141655c-c8da-11e7-8cda-063b7ac45a6d"
+    },
+    {
       "id": "g028-v2",
       "workId": "g028",
       "year": 2002,
@@ -1036,6 +1408,50 @@
       "voice": "有",
       "differences": "家用机版提供角色配音；主角配音因版本而异。",
       "source": "https://www.prot.co.jp/switch/kanon/introduction.html"
+    },
+    {
+      "id": "g050-v1",
+      "workId": "g050",
+      "year": 2002,
+      "platform": "Dreamcast",
+      "publisher": "KID",
+      "kind": "同步首发",
+      "voice": "未核实",
+      "differences": "2002 年同期发行的主机原版；原版配音范围待核对。",
+      "source": "https://dengekionline.com/data/news/2002/7/22/b79e0433ff091f2308a4dc12a1901014.html"
+    },
+    {
+      "id": "g050-v2",
+      "workId": "g050",
+      "year": 2002,
+      "platform": "PlayStation 2",
+      "publisher": "KID",
+      "kind": "同步首发",
+      "voice": "未核实",
+      "differences": "2002 年同期发行的主机原版；原版配音范围待核对。",
+      "source": "https://dengekionline.com/data/news/2002/7/22/b79e0433ff091f2308a4dc12a1901014.html"
+    },
+    {
+      "id": "g051-v1",
+      "workId": "g051",
+      "year": 2002,
+      "platform": "Windows",
+      "publisher": "07th Expansion",
+      "kind": "《鬼隐篇》同人首发",
+      "voice": "无",
+      "differences": "原作第一篇于 2002 年夏季同人展发表；音乐音效不算角色配音。",
+      "source": "https://07th-expansion.net/Soft/Prolog.htm"
+    },
+    {
+      "id": "g052-v1",
+      "workId": "g052",
+      "year": 2003,
+      "platform": "Windows",
+      "publisher": "âge",
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "原版含 Extra 和 Unlimited 两部分；原版配音范围待核查。",
+      "source": "https://muvluv.com/en/products/"
     },
     {
       "id": "g030-v1",
@@ -1093,6 +1509,17 @@
       "source": "https://0verflow.com/sdre_live/"
     },
     {
+      "id": "g049-v2",
+      "workId": "g049",
+      "year": 2005,
+      "platform": "Nintendo DS",
+      "publisher": "CAPCOM",
+      "kind": "《复苏的逆转》",
+      "voice": "有",
+      "differences": "增收第五话与触屏科学调查；配音为少量法庭语音，非全程对话配音。",
+      "source": "https://www.nintendo.com/jp/topics/article/f141655c-c8da-11e7-8cda-063b7ac45a6d"
+    },
+    {
       "id": "g030-v2",
       "workId": "g030",
       "year": 2006,
@@ -1113,6 +1540,17 @@
       "voice": "有",
       "differences": "原2004年Windows版仅部分声音，本版加入包括主角在内的完整配音。",
       "source": "https://www.prot.co.jp/ps2/planetarian/index.html"
+    },
+    {
+      "id": "g053-v1",
+      "workId": "g053",
+      "year": 2006,
+      "platform": "Windows",
+      "publisher": "âge",
+      "kind": "DVD 首发",
+      "voice": "未核实",
+      "differences": "2006 年 2 月发行的成人向 PC 初版；配音范围待核实。",
+      "source": "https://muvluv.com/alternative/spec.htm"
     },
     {
       "id": "g031-v2",
@@ -1148,6 +1586,28 @@
       "source": "https://www.nintendo.co.jp/wii/software/rtoj/index.html"
     },
     {
+      "id": "g054-v1",
+      "workId": "g054",
+      "year": 2009,
+      "platform": "Xbox 360",
+      "publisher": "5pb.",
+      "kind": "首发",
+      "voice": "有",
+      "differences": "系列首发；原作以文字和静态立绘推进。",
+      "source": "https://steinsgate.jp/15th/"
+    },
+    {
+      "id": "g055-v1",
+      "workId": "g055",
+      "year": 2009,
+      "platform": "Nintendo DS",
+      "publisher": "Spike",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "双屏叙事与逃脱谜题；没有 2017 年合集中新增的对话配音。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/zendesu/about/index.html"
+    },
+    {
       "id": "g035-v1",
       "workId": "g035",
       "year": 2010,
@@ -1168,6 +1628,17 @@
       "voice": "有",
       "differences": "仅含《introductory chapter》，完整后续剧情后来发行。",
       "source": "https://blog.aquaplus.jp/archives/2352"
+    },
+    {
+      "id": "g054-v2",
+      "workId": "g054",
+      "year": 2010,
+      "platform": "Windows",
+      "publisher": "5pb. / Nitroplus",
+      "kind": "PC 移植",
+      "voice": "有",
+      "differences": "PC 平台发行；保留原作分支叙事。",
+      "source": "https://blog.mages.co.jp/steinsgate/?p=92"
     },
     {
       "id": "g039-v2",
@@ -1214,6 +1685,17 @@
       "source": "https://aquaplus.jp/wa2vita/products/"
     },
     {
+      "id": "g052-v2",
+      "workId": "g052",
+      "year": 2016,
+      "platform": "Steam",
+      "publisher": "aNCHOR",
+      "kind": "数字移植",
+      "voice": "有",
+      "differences": "PC 数字版加入本地化并保留角色语音。",
+      "source": "https://games.ancr.jp/games/muv-luv/"
+    },
+    {
       "id": "g038-v3",
       "workId": "g038",
       "year": 2017,
@@ -1234,6 +1716,72 @@
       "voice": "有",
       "differences": "与PS4版同期发行的掌机版。",
       "source": "https://yu-no.jp/spec/ps/"
+    },
+    {
+      "id": "g053-v2",
+      "workId": "g053",
+      "year": 2017,
+      "platform": "Steam",
+      "publisher": "aNCHOR",
+      "kind": "本地化数字版",
+      "voice": "有",
+      "differences": "加入译文、画面调整和额外角色配音。",
+      "source": "https://store.steampowered.com/app/802890/MuvLuv_Alternative/"
+    },
+    {
+      "id": "g055-v2",
+      "workId": "g055",
+      "year": 2017,
+      "platform": "Steam",
+      "publisher": "Spike Chunsoft",
+      "kind": "《The Nonary Games》合集",
+      "voice": "有",
+      "differences": "高分辨率画面并为本作新增日语、英语对话配音。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/"
+    },
+    {
+      "id": "g055-v3",
+      "workId": "g055",
+      "year": 2017,
+      "platform": "PlayStation 4",
+      "publisher": "Spike Chunsoft",
+      "kind": "《The Nonary Games》合集",
+      "voice": "有",
+      "differences": "高分辨率画面并为本作新增日语、英语对话配音。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/"
+    },
+    {
+      "id": "g055-v4",
+      "workId": "g055",
+      "year": 2017,
+      "platform": "PlayStation Vita",
+      "publisher": "Spike Chunsoft",
+      "kind": "《The Nonary Games》合集",
+      "voice": "有",
+      "differences": "高分辨率画面并为本作新增日语、英语对话配音。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/"
+    },
+    {
+      "id": "g056-v1",
+      "workId": "g056",
+      "year": 2017,
+      "platform": "Windows / itch.io",
+      "publisher": "Team Salvato",
+      "kind": "免费首发",
+      "voice": "无",
+      "differences": "2017 年 9 月在 itch.io 先行推出；无角色台词配音。",
+      "source": "https://teamsalvato.com/news/"
+    },
+    {
+      "id": "g056-v2",
+      "workId": "g056",
+      "year": 2017,
+      "platform": "Windows / Steam",
+      "publisher": "Team Salvato",
+      "kind": "Steam 发行",
+      "voice": "无",
+      "differences": "Steam 于同年稍后发行原版，保留心理恐怖的元叙事结构。",
+      "source": "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/"
     },
     {
       "id": "g034-v2",
@@ -1258,6 +1806,17 @@
       "source": "https://www.spike-chunsoft.co.jp/news/1799/"
     },
     {
+      "id": "g051-v2",
+      "workId": "g051",
+      "year": 2018,
+      "platform": "Nintendo Switch",
+      "publisher": "ENTERGRAM",
+      "kind": "《奉》合集",
+      "voice": "有",
+      "differences": "主机合集收录多篇故事并提供角色配音。",
+      "source": "https://entergram.co.jp/higurashihou/products.html"
+    },
+    {
       "id": "g030-v4",
       "workId": "g030",
       "year": 2019,
@@ -1278,6 +1837,61 @@
       "voice": "有",
       "differences": "2017重制版移植至Switch。",
       "source": "https://yu-no.jp/spec/"
+    },
+    {
+      "id": "g049-v3",
+      "workId": "g049",
+      "year": 2019,
+      "platform": "Nintendo Switch",
+      "publisher": "CAPCOM",
+      "kind": "初期三部曲合集",
+      "voice": "有",
+      "differences": "《逆转裁判123》收录前三作；保留少量法庭语音，并提升显示效果。",
+      "source": "https://www.nintendo.com/jp/topics/article/761e2356-2f26-11e9-b104-0a6d14145cb1"
+    },
+    {
+      "id": "g049-v4",
+      "workId": "g049",
+      "year": 2019,
+      "platform": "Steam",
+      "publisher": "CAPCOM",
+      "kind": "初期三部曲合集",
+      "voice": "有",
+      "differences": "三部曲合集中的初代，非单独重制；配音主要为法庭喊话。",
+      "source": "https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/"
+    },
+    {
+      "id": "g051-v3",
+      "workId": "g051",
+      "year": 2019,
+      "platform": "PlayStation 4",
+      "publisher": "ENTERGRAM",
+      "kind": "《奉》移植",
+      "voice": "有",
+      "differences": "与 Switch 合集主体内容相同，但不支持触屏操作。",
+      "source": "https://entergram.co.jp/higurashihou/products.html"
+    },
+    {
+      "id": "g054-v3",
+      "workId": "g054",
+      "year": 2019,
+      "platform": "Nintendo Switch",
+      "publisher": "Spike Chunsoft / MAGES.",
+      "kind": "ELITE 动画版",
+      "voice": "有",
+      "differences": "使用动画影像替代大量静态画面；附加内容随平台不同。",
+      "source": "https://www.spike-chunsoft.com/games/steinsgate-elite/"
+    },
+    {
+      "id": "g054-v4",
+      "workId": "g054",
+      "year": 2019,
+      "platform": "PlayStation 4 / Steam",
+      "publisher": "Spike Chunsoft / MAGES.",
+      "kind": "ELITE 动画版",
+      "voice": "有",
+      "differences": "使用动画影像替代大量静态画面；附加内容随平台不同。",
+      "source": "https://www.spike-chunsoft.com/games/steinsgate-elite/"
     },
     {
       "id": "g029-v2",
@@ -1302,6 +1916,17 @@
       "source": "https://www.spike-chunsoft.co.jp/news/13989/"
     },
     {
+      "id": "g036-v1",
+      "workId": "g036",
+      "year": 2021,
+      "platform": "PlayStation 4",
+      "publisher": "TYPE-MOON",
+      "kind": "重制首发",
+      "voice": "有",
+      "differences": "2021 年重制新作；2000 年同人原作另有年份。",
+      "source": "https://typemoon.com/products/tsukihime/"
+    },
+    {
       "id": "g036-v2",
       "workId": "g036",
       "year": 2021,
@@ -1313,15 +1938,70 @@
       "source": "https://typemoon.com/products/tsukihime/"
     },
     {
-      "id": "g036-v1",
-      "workId": "g036",
+      "id": "g046-v2",
+      "workId": "g046",
       "year": 2021,
-      "platform": "PlayStation 4",
-      "publisher": "TYPE-MOON",
-      "kind": "重制首发",
+      "platform": "Windows",
+      "publisher": "FANZA GAMES（DG REMAKE）",
+      "kind": "日版重制",
       "voice": "有",
-      "differences": "2021 年重制新作；2000 年同人原作另有年份。",
-      "source": "https://typemoon.com/products/tsukihime/"
+      "differences": "更新画面与系统，并为女主角加入配音。",
+      "source": "https://dmmgames.co.jp/news/detail/id=1786"
+    },
+    {
+      "id": "g056-v3",
+      "workId": "g056",
+      "year": 2021,
+      "platform": "Nintendo Switch",
+      "publisher": "Serenity Forge",
+      "kind": "Plus 扩展版",
+      "voice": "无",
+      "differences": "增加六段友情支线、高清画面、画廊和音乐播放器。",
+      "source": "https://www.serenityforge.com/games/doki-doki-literature-club-plus"
+    },
+    {
+      "id": "g056-v4",
+      "workId": "g056",
+      "year": 2021,
+      "platform": "PlayStation 4 / PlayStation 5",
+      "publisher": "Serenity Forge",
+      "kind": "Plus 扩展版",
+      "voice": "无",
+      "differences": "增加六段友情支线、高清画面、画廊和音乐播放器。",
+      "source": "https://www.serenityforge.com/games/doki-doki-literature-club-plus"
+    },
+    {
+      "id": "g056-v5",
+      "workId": "g056",
+      "year": 2021,
+      "platform": "Windows / Steam",
+      "publisher": "Serenity Forge",
+      "kind": "Plus 扩展版",
+      "voice": "无",
+      "differences": "增加六段友情支线、高清画面、画廊和音乐播放器。",
+      "source": "https://www.serenityforge.com/games/doki-doki-literature-club-plus"
+    },
+    {
+      "id": "g046-v3",
+      "workId": "g046",
+      "year": 2022,
+      "platform": "Windows / Steam",
+      "publisher": "Shiravune",
+      "kind": "国际版重制",
+      "voice": "有",
+      "differences": "基于 2021 年重制，加入中英文文本；与 1992 年原版分开。",
+      "source": "https://shiravune.com/archives/2502"
+    },
+    {
+      "id": "g055-v5",
+      "workId": "g055",
+      "year": 2022,
+      "platform": "Xbox One / Windows 10",
+      "publisher": "Spike Chunsoft",
+      "kind": "合集新平台",
+      "voice": "有",
+      "differences": "2017 年配音合集移植到 Xbox 与 Microsoft Store PC。",
+      "source": "https://www.spike-chunsoft.co.jp/news/14736/"
     },
     {
       "id": "g014-v2",
@@ -1344,6 +2024,39 @@
       "voice": "有（主角部分）",
       "differences": "高清画面与日语角色配音；主角仅部分场景有声。",
       "source": "https://www.prot.co.jp/switch/kanon/spec.html"
+    },
+    {
+      "id": "g047-v2",
+      "workId": "g047",
+      "year": 2023,
+      "platform": "Nintendo Switch",
+      "publisher": "novamicus（NEXTON）",
+      "kind": "ONE. 重制",
+      "voice": "有",
+      "differences": "重绘立绘并加入角色配音；主人公仍不配音。",
+      "source": "https://nexton-net.jp/nexton30th/nvm001/"
+    },
+    {
+      "id": "g047-v3",
+      "workId": "g047",
+      "year": 2023,
+      "platform": "Windows",
+      "publisher": "novamicus（NEXTON）",
+      "kind": "ONE. 重制",
+      "voice": "有",
+      "differences": "重绘立绘并加入角色配音；主人公仍不配音。",
+      "source": "https://nexton-net.jp/nexton30th/nvm001/"
+    },
+    {
+      "id": "g047-v4",
+      "workId": "g047",
+      "year": 2023,
+      "platform": "Steam",
+      "publisher": "novamicus（NEXTON）",
+      "kind": "ONE. 数字版",
+      "voice": "有",
+      "differences": "重绘画面与角色配音；商店显示的跨区日期可能早于日版一天。",
+      "source": "https://store.steampowered.com/app/2432100/ONE/"
     },
     {
       "id": "g012-v3",
@@ -1388,6 +2101,50 @@
       "voice": "有",
       "differences": "与Switch版同期发布的《REMASTERED》。",
       "source": "https://typemoon.com/products/f-sn/"
+    },
+    {
+      "id": "g046-v4",
+      "workId": "g046",
+      "year": 2024,
+      "platform": "Nintendo Switch",
+      "publisher": "EXNOA（DG REMAKE）",
+      "kind": "主机重制版",
+      "voice": "有",
+      "differences": "CSver 调整内容，保留重制的配音与画面，增加新场景。",
+      "source": "https://dmmgames.co.jp/news/detail/id=1786"
+    },
+    {
+      "id": "g046-v5",
+      "workId": "g046",
+      "year": 2024,
+      "platform": "PlayStation 4",
+      "publisher": "EXNOA（DG REMAKE）",
+      "kind": "主机重制版",
+      "voice": "有",
+      "differences": "CSver 调整内容，保留重制的配音与画面，增加新场景。",
+      "source": "https://dmmgames.co.jp/news/detail/id=1786"
+    },
+    {
+      "id": "g052-v3",
+      "workId": "g052",
+      "year": 2024,
+      "platform": "Nintendo Switch",
+      "publisher": "aNCHOR",
+      "kind": "主机复刻",
+      "voice": "有",
+      "differences": "面向主机的调整版本，与 2003 年 PC 原版区分。",
+      "source": "https://games.ancr.jp/games/muv-luv/"
+    },
+    {
+      "id": "g053-v3",
+      "workId": "g053",
+      "year": 2024,
+      "platform": "Nintendo Switch",
+      "publisher": "aNCHOR",
+      "kind": "主机复刻",
+      "voice": "有",
+      "differences": "主机版以全年龄内容和重新调整的显示呈现。",
+      "source": "https://games.ancr.jp/games/muv-luv-alternative/"
     },
     {
       "id": "g014-v3",
@@ -1443,6 +2200,94 @@
       "voice": "有",
       "differences": "3D重制；可切换新旧配音，Steam平台发行方与日版不同。",
       "source": "https://aquaplus.jp/toheart/en.html"
+    },
+    {
+      "id": "g048-v2",
+      "workId": "g048",
+      "year": 2025,
+      "platform": "Nintendo Switch",
+      "publisher": "MAGES.",
+      "kind": "高清复刻",
+      "voice": "有",
+      "differences": "2025 年复刻版，保留恋爱冒险主线并更新显示。",
+      "source": "https://game.mages.co.jp/infinity/never7/"
+    },
+    {
+      "id": "g048-v3",
+      "workId": "g048",
+      "year": 2025,
+      "platform": "PlayStation 4",
+      "publisher": "MAGES.",
+      "kind": "高清复刻",
+      "voice": "有",
+      "differences": "2025 年复刻版，保留恋爱冒险主线并更新显示。",
+      "source": "https://game.mages.co.jp/infinity/never7/"
+    },
+    {
+      "id": "g048-v4",
+      "workId": "g048",
+      "year": 2025,
+      "platform": "Steam",
+      "publisher": "MAGES.",
+      "kind": "高清复刻",
+      "voice": "有",
+      "differences": "2025 年复刻版，保留恋爱冒险主线并更新显示。",
+      "source": "https://game.mages.co.jp/infinity/never7/"
+    },
+    {
+      "id": "g050-v3",
+      "workId": "g050",
+      "year": 2025,
+      "platform": "Nintendo Switch",
+      "publisher": "MAGES.",
+      "kind": "高清复刻",
+      "voice": "有",
+      "differences": "使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。",
+      "source": "https://game.mages.co.jp/infinity/ever17/"
+    },
+    {
+      "id": "g050-v4",
+      "workId": "g050",
+      "year": 2025,
+      "platform": "PlayStation 4",
+      "publisher": "MAGES.",
+      "kind": "高清复刻",
+      "voice": "有",
+      "differences": "使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。",
+      "source": "https://game.mages.co.jp/infinity/ever17/"
+    },
+    {
+      "id": "g050-v5",
+      "workId": "g050",
+      "year": 2025,
+      "platform": "Steam",
+      "publisher": "MAGES.",
+      "kind": "高清复刻",
+      "voice": "有",
+      "differences": "使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。",
+      "source": "https://game.mages.co.jp/infinity/ever17/"
+    },
+    {
+      "id": "g056-v6",
+      "workId": "g056",
+      "year": 2025,
+      "platform": "Android",
+      "publisher": "Team Salvato / Serenity Forge",
+      "kind": "移动版",
+      "voice": "无",
+      "differences": "免费本篇升级高清；Plus 的支线和画廊作为付费扩展。",
+      "source": "https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/"
+    },
+    {
+      "id": "g056-v7",
+      "workId": "g056",
+      "year": 2025,
+      "platform": "iOS",
+      "publisher": "Team Salvato / Serenity Forge",
+      "kind": "移动版",
+      "voice": "无",
+      "differences": "免费本篇升级高清；Plus 的支线和画廊作为付费扩展。",
+      "source": "https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/"
     }
   ]
 }
