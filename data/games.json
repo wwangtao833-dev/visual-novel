@@ -2,10 +2,87 @@
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
     "updated": "2026-09-25",
-    "scope": "精选可核查作品，非全量目录。1985 年及之前增加早期图文指令、文字冒险与互动动画；同名游戏或日期存在异文时见作品备注，未核平台不凭推测补全。",
+    "scope": "精选可核查作品，非全量目录。1976—1985 年增补早期大型机、欧美文字与图文冒险、日本 PC 冒险及互动动画；年份异文和平台待核项见作品备注。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
   "works": [
+    {
+      "id": "g089",
+      "title": "巨洞冒险",
+      "originalTitle": "Colossal Cave Adventure",
+      "firstYear": 1976,
+      "category": "文字冒险",
+      "genre": "纯文本／洞穴探索",
+      "characters": [
+        "探险者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "进入巨洞寻找宝藏，借助方向和物品指令穿过迷宫与险境。",
+      "notes": "1976 年 Crowther 原作与 1977 年 Woods 扩充版分列；1979 年家用机版本属于移植／改编。",
+      "source": "https://www.catb.org/~esr/open-adventure/history.html"
+    },
+    {
+      "id": "g090",
+      "title": "佐克（大型机原作）",
+      "originalTitle": "Zork (MIT PDP-10 original)",
+      "firstYear": 1977,
+      "category": "文字冒险",
+      "genre": "纯文本／奇幻解谜",
+      "characters": [
+        "冒险者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "探索大地下帝国、收集宝物并解开房间与物品谜题。",
+      "notes": "与数据库中的 1980 年 Infocom 商业版《Zork I》分别记录。",
+      "source": "https://github.com/MITDDC/zork"
+    },
+    {
+      "id": "g091",
+      "title": "冒险乐园",
+      "originalTitle": "Adventureland",
+      "firstYear": 1978,
+      "category": "文字冒险",
+      "genre": "纯文本／寻宝解谜",
+      "characters": [
+        "冒险者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "在奇幻的森林和洞穴里解谜，寻找散落各地的宝物。",
+      "notes": "博物馆记录首批零售录音带由作者自行复制销售；后期品牌名称不可倒填。",
+      "source": "https://www.museumofplay.org/blog/scott-adams-adventure-international-collection-documents-early-commercial-computer-gaming/"
+    },
+    {
+      "id": "g092",
+      "title": "海盗冒险",
+      "originalTitle": "Pirate Adventure",
+      "firstYear": 1978,
+      "category": "文字冒险",
+      "genre": "纯文本／海盗寻宝",
+      "characters": [
+        "冒险者（玩家）",
+        "海盗"
+      ],
+      "charactersNote": "",
+      "synopsis": "从伦敦的住处抵达奇异海岛，筹备航行并寻找海盗宝藏。",
+      "notes": "",
+      "source": "https://ifdb.org/viewgame?id=zya3mo3njj58hewi"
+    },
+    {
+      "id": "g093",
+      "title": "伯爵",
+      "originalTitle": "The Count",
+      "firstYear": 1979,
+      "category": "文字冒险",
+      "genre": "纯文本／吸血鬼恐怖",
+      "characters": [
+        "冒险者（玩家）",
+        "吸血鬼伯爵"
+      ],
+      "charactersNote": "",
+      "synopsis": "在古堡中调查伯爵并寻找应对吸血鬼的方法。",
+      "notes": "已确认作品年份；最早的具体发行机种和包装版本仍待核实。",
+      "source": "https://ifdb.org/viewgame?id=89qmjvv4cb0z93t5"
+    },
     {
       "id": "g001",
       "title": "神秘屋",
@@ -80,6 +157,21 @@
       "synopsis": "深入地下帝国，设法应对巫师的魔法与恶作剧。",
       "notes": "",
       "source": "https://www.infocom-if.org/games/zork2/zork2.html"
+    },
+    {
+      "id": "g094",
+      "title": "软色情冒险",
+      "originalTitle": "Softporn Adventure",
+      "firstYear": 1981,
+      "category": "文字冒险",
+      "genre": "纯文本／成人喜剧冒险",
+      "characters": [
+        "男性主人公（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "在城市中探索并解谜，与人物互动以推进成人喜剧故事。",
+      "notes": "1987 年《Leisure Suit Larry》借用其设定；二者不是同一平台版本。",
+      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf"
     },
     {
       "id": "g003",
@@ -165,6 +257,68 @@
       "synopsis": "独自驾驶勘探飞船时遭遇巨大的外星船只。",
       "notes": "",
       "source": "https://www.infocom-if.org/games/starcross/starcross.html"
+    },
+    {
+      "id": "g095",
+      "title": "尤利西斯与金羊毛",
+      "originalTitle": "Ulysses and the Golden Fleece",
+      "firstYear": 1982,
+      "category": "文字冒险",
+      "genre": "彩色图文指令／希腊神话",
+      "characters": [
+        "尤利西斯",
+        "独眼巨人",
+        "海妖"
+      ],
+      "charactersNote": "",
+      "synopsis": "奉命寻找传说中的金羊毛，在海陆旅程中与神话人物周旋。",
+      "notes": "Sierra 馆藏另有一份黑盒页面写 1981 年，系列页与设计师年表写 1982 年；保留异文。",
+      "source": "https://www.sierragamers.com/hi-res/"
+    },
+    {
+      "id": "g096",
+      "title": "表参道冒险",
+      "originalTitle": "表参道アドベンチャー",
+      "firstYear": 1982,
+      "category": "文字冒险",
+      "genre": "纯文本／杂志刊载解谜",
+      "characters": [
+        "潜入者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "潜入表参道的 ASCII 公司，寻找并取走秘密文件。",
+      "notes": "杂志重刊资料与实物程序解析均证实 1982 年刊载和 PC-8001／MZ 系列；不要误写成 1982 年 PC-9801 首发。",
+      "source": "https://ascii.jp/elem/000/000/341/341643/"
+    },
+    {
+      "id": "g097",
+      "title": "谜之屋（日本版原创）",
+      "originalTitle": "ミステリーハウスⅠ",
+      "firstYear": 1982,
+      "category": "文字冒险",
+      "genre": "图文指令／寻宝",
+      "characters": [
+        "寻宝者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "探索屋内的房间，找到藏在建筑中的宝物。",
+      "notes": "与 Sierra 的《Mystery House》（1980）同名但内容独立，不能合并为移植。",
+      "source": "https://www.gamepres.org/pc88/library/adv.htm"
+    },
+    {
+      "id": "g098",
+      "title": "谜之屋 II",
+      "originalTitle": "ミステリーハウスⅡ",
+      "firstYear": 1982,
+      "category": "文字冒险",
+      "genre": "图文指令／寻宝",
+      "characters": [
+        "寻宝者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "在馆内找出四份纸条，由线索推断珠宝所在。",
+      "notes": "馆藏发行明细分别记 FM-8 版为 1982 年、FM-7 专用版为 1983 年。",
+      "source": "https://fm-7.com/museum/products/jna9lxqz/"
     },
     {
       "id": "g006",
@@ -383,6 +537,101 @@
       "synopsis": "取得传说之剑后进入宇宙，继续面对新的威胁。",
       "notes": "",
       "source": "https://fm-7.com/museum/products/gttnk7za/"
+    },
+    {
+      "id": "g099",
+      "title": "黑水晶",
+      "originalTitle": "The Dark Crystal",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "彩色图文指令／电影改编",
+      "characters": [
+        "Jen",
+        "Kira"
+      ],
+      "charactersNote": "",
+      "synopsis": "踏上旅程寻找缺失的水晶碎片，阻止黑暗势力继续统治。",
+      "notes": "Sierra 年表标原版 1983，Gelfling Adventure 为 1984 年不同操作版本。",
+      "source": "https://www.sierragamers.com/the-dark-crystal/"
+    },
+    {
+      "id": "g100",
+      "title": "南青山冒险",
+      "originalTitle": "南青山アドベンチャー",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "纯文本／科幻讽刺",
+      "characters": [
+        "投稿者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "被长期冷冻的投稿者在未来醒来，试图进入 ASCII 公司顾问的住宅。",
+      "notes": "1983 年 4 月的当期软件目录明确标 PC-8001 及以后，不照搬其他资料的 1982 PC-9801 说法。",
+      "source": "https://www.gamepres.org/pc88/library/1983/1983_4.htm"
+    },
+    {
+      "id": "g101",
+      "title": "帕姆斯",
+      "originalTitle": "ザ・パームス",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文指令／海底探险",
+      "characters": [
+        "冒险者（玩家）",
+        "被掳走的恋人"
+      ],
+      "charactersNote": "",
+      "synopsis": "寻找被海底人掳走的恋人，探索色彩鲜明的水下场景。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/aibua2n8/"
+    },
+    {
+      "id": "g102",
+      "title": "仙境骑士",
+      "originalTitle": "ザ・ナイト・オブ・ワンダーランド",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文指令／童话",
+      "characters": [
+        "冒险者（玩家）",
+        "罗姆公主"
+      ],
+      "charactersNote": "",
+      "synopsis": "穿过森林与城堡，寻找魔法泉水医治患病公主。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/vitpdgtz/"
+    },
+    {
+      "id": "g103",
+      "title": "星光冒险 PART 1",
+      "originalTitle": "スターライト・アドベンチャー PART 1",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "文本指令／科幻童话",
+      "characters": [
+        "旅行者（玩家）",
+        "被营救的公主"
+      ],
+      "charactersNote": "",
+      "synopsis": "驾驶宇宙飞船访问八颗星球，寻找并营救公主。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/vjg12a36/"
+    },
+    {
+      "id": "g104",
+      "title": "寻找广子",
+      "originalTitle": "アタックひろ子ちゃん",
+      "firstYear": 1983,
+      "category": "Galgame",
+      "genre": "成人向／图文指令",
+      "characters": [
+        "玩家",
+        "ひろ子"
+      ],
+      "charactersNote": "",
+      "synopsis": "进入女子宿舍寻找并试图见到广子。",
+      "notes": "成人冒险范畴，不推定其具有后来的恋爱剧情分支。",
+      "source": "https://fm-7.com/museum/products/7kjmjxi8/"
     },
     {
       "id": "g011",
@@ -638,6 +887,65 @@
       "source": "https://fm-7.com/museum/products/crs8l0ue/"
     },
     {
+      "id": "g105",
+      "title": "深渊",
+      "originalTitle": "ABYSS",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文指令／科幻潜入",
+      "characters": [
+        "莫兹·希巴特（Moz Shibatto）"
+      ],
+      "charactersNote": "",
+      "synopsis": "潜入拥有终极武器的犯罪组织基地，遭俘虏并失去记忆后继续任务。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/74ajuk34/"
+    },
+    {
+      "id": "g106",
+      "title": "黑猫庄继承杀人事件",
+      "originalTitle": "黒猫荘相続殺人事件",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文指令／推理",
+      "characters": [
+        "调查员（玩家）",
+        "助手正男"
+      ],
+      "charactersNote": "",
+      "synopsis": "围绕遗产继承引发的命案，调查嫌疑人并展示证物追问。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/yyf8ms3g/"
+    },
+    {
+      "id": "g107",
+      "title": "逃离异次元",
+      "originalTitle": "異次元からの脱出",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文指令／神秘惊悚",
+      "characters": [
+        "迷失异界的上班族（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "深夜被奇怪的浓雾带入陌生森林，寻找离开封闭异世界的方法。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/7ggib9g6/"
+    },
+    {
+      "id": "g108",
+      "title": "恶魔之戒",
+      "originalTitle": "デーモンズリング",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文指令／神秘恐怖",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "围绕魔王之戒展开神秘冒险，在快速绘制的场景里寻找线索。",
+      "notes": "剧情资料不足以可靠列出有名字的主角。",
+      "source": "https://fm-7.com/museum/products/4l5wmkh8/"
+    },
+    {
       "id": "g014",
       "title": "时间少女",
       "originalTitle": "タイムギャル",
@@ -827,8 +1135,72 @@
       "characters": [],
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "探索八间房间与人物对话，进入不同的解谜和小游戏。",
-      "notes": "当时归为成人向冒险；含小游戏，不能按后世恋爱视觉小说的定义理解。",
+      "notes": "1985 年 PC-8801 版与 FM-7 版分别收录；馆藏另记 1986 年有同系列续作。属于成人向冒险，不按后世恋爱视觉小说理解。",
       "source": "https://fm-7.com/museum/products/9sufuw5m/"
+    },
+    {
+      "id": "g109",
+      "title": "深渊 II：帝王之泪",
+      "originalTitle": "ABYSS Ⅱ 帝王の涙",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "图文指令／科幻",
+      "characters": [
+        "莫兹·希巴特（Moz Shibatto）"
+      ],
+      "charactersNote": "",
+      "synopsis": "任务结束后体内被植入中子弹的主角，追寻传说的终极武器“帝王之泪”。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/x0bcvxtx/"
+    },
+    {
+      "id": "g110",
+      "title": "黄道带",
+      "originalTitle": "ゾーディアック",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "图文指令／科幻探索",
+      "characters": [
+        "寻父的主角",
+        "亚马洛伊德·玛丽",
+        "杜马博士"
+      ],
+      "charactersNote": "",
+      "synopsis": "和话多的机器人玛丽一起寻访失踪的父亲杜马博士。",
+      "notes": "馆藏资料称结局以续作提示收尾。",
+      "source": "https://fm-7.com/museum/products/rdtaieyr/"
+    },
+    {
+      "id": "g111",
+      "title": "神威之剑",
+      "originalTitle": "カムイの剣",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "图文指令／小说与动画改编",
+      "characters": [
+        "次郎"
+      ],
+      "charactersNote": "",
+      "synopsis": "依据同名小说和动画的冒险旅程，追寻主角的身世与秘密。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/y6ai5nay/"
+    },
+    {
+      "id": "g112",
+      "title": "新哥斯拉",
+      "originalTitle": "ニューゴジラ",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "图文指令／电影改编",
+      "characters": [
+        "牧吾郎",
+        "尚子",
+        "哥斯拉"
+      ],
+      "charactersNote": "",
+      "synopsis": "调查神秘渔船与哥斯拉袭击事件，寻找尚子并应对飞来的导弹。",
+      "notes": "游戏分为调查、限时营救与多人操作三个段落；附带哥斯拉吼声磁带并不代表人物对白配音。",
+      "source": "https://www.gamepres.org/pc88/library/1985/1985_4.htm"
     },
     {
       "id": "g019",
@@ -1396,6 +1768,94 @@
   ],
   "versions": [
     {
+      "id": "g089-v1",
+      "workId": "g089",
+      "year": 1976,
+      "platform": "PDP-10",
+      "publisher": "Will Crowther（作者传播）",
+      "kind": "原始大型机版",
+      "voice": "无",
+      "differences": "原作以洞穴路线和少量宝物为核心；非商业发行。",
+      "source": "https://www.catb.org/~esr/open-adventure/history.html"
+    },
+    {
+      "id": "g089-v2",
+      "workId": "g089",
+      "year": 1977,
+      "platform": "PDP-10",
+      "publisher": "Don Woods（作者传播）",
+      "kind": "扩充版",
+      "voice": "无",
+      "differences": "Don Woods 在原作上增加谜题、宝藏和奇幻内容；同机种的不同内容版本。",
+      "source": "https://rickadams.org/adventure/a_history.html"
+    },
+    {
+      "id": "g090-v1",
+      "workId": "g090",
+      "year": 1977,
+      "platform": "PDP-10",
+      "publisher": "MIT 创作者团队（非商业传播）",
+      "kind": "大型机原作",
+      "voice": "无",
+      "differences": "MIT 收藏的 1977 年 MDL 源码；随后商业版拆分为《Zork I》等独立作品。",
+      "source": "https://github.com/MITDDC/zork"
+    },
+    {
+      "id": "g091-v1",
+      "workId": "g091",
+      "year": 1978,
+      "platform": "TRS-80",
+      "publisher": "Scott Adams（初期自行销售）",
+      "kind": "首发录音带",
+      "voice": "无",
+      "differences": "最初的商业家用机文字冒险之一；后续 Adventure International 包装版时间另待核。",
+      "source": "https://www.msadams.com/adventures.htm"
+    },
+    {
+      "id": "g092-v1",
+      "workId": "g092",
+      "year": 1978,
+      "platform": "TRS-80",
+      "publisher": "Scott Adams／Adventure International",
+      "kind": "早期家用机版",
+      "voice": "无",
+      "differences": "作者 Scott 与 Alexis Adams；具体早期商业包装和出版名称仍待逐批核对。",
+      "source": "https://ifdb.org/viewgame?id=zya3mo3njj58hewi"
+    },
+    {
+      "id": "g089-v3",
+      "workId": "g089",
+      "year": 1979,
+      "platform": "TRS-80",
+      "publisher": "Microsoft",
+      "kind": "Microsoft Adventure 商业改编",
+      "voice": "无",
+      "differences": "家用电脑版本，属于《Adventure》的商业改编；不等同于 1976 年源代码。",
+      "source": "https://www.trs-80.org/microsoft-adventure.html"
+    },
+    {
+      "id": "g089-v4",
+      "workId": "g089",
+      "year": 1979,
+      "platform": "Apple II",
+      "publisher": "Microsoft",
+      "kind": "Microsoft Adventure 商业改编",
+      "voice": "无",
+      "differences": "同年销售的 Apple II 版，发行时间据电脑史馆藏。",
+      "source": "https://www.trs-80.org/microsoft-adventure.html"
+    },
+    {
+      "id": "g093-v1",
+      "workId": "g093",
+      "year": 1979,
+      "platform": "家用计算机",
+      "publisher": "Adventure International",
+      "kind": "早期家用机版",
+      "voice": "无",
+      "differences": "1979 年发行，但最早的具体机种及包装待核；不推定为 TRS-80 首发。",
+      "source": "https://ifdb.org/viewgame?id=89qmjvv4cb0z93t5"
+    },
+    {
       "id": "g001-v1",
       "workId": "g001",
       "year": 1980,
@@ -1449,6 +1909,17 @@
       "voice": "无",
       "differences": "此处合并同年早期计算机平台；具体机种日期待核实。",
       "source": "https://www.infocom-if.org/games/zork2/zork2.html"
+    },
+    {
+      "id": "g094-v1",
+      "workId": "g094",
+      "year": 1981,
+      "platform": "Apple II",
+      "publisher": "On-Line Systems",
+      "kind": "首发商业版",
+      "voice": "无",
+      "differences": "文本指令；归入成人喜剧文字冒险，不等同于后来的恋爱视觉小说。",
+      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf"
     },
     {
       "id": "g003-v1",
@@ -1526,6 +1997,83 @@
       "voice": "无",
       "differences": "以文字命令探索外星飞船；机种明细待核实。",
       "source": "https://www.infocom-if.org/games/starcross/starcross.html"
+    },
+    {
+      "id": "g095-v1",
+      "workId": "g095",
+      "year": 1982,
+      "platform": "Apple II",
+      "publisher": "On-Line Systems／Sierra On-Line",
+      "kind": "Hi-Res Adventure #4",
+      "voice": "无",
+      "differences": "上方场景插图、下方两词指令；系列页和设计师年表列 1982 年。",
+      "source": "https://www.sierragamers.com/hi-res/"
+    },
+    {
+      "id": "g096-v1",
+      "workId": "g096",
+      "year": 1982,
+      "platform": "PC-8001",
+      "publisher": "ASCII（杂志刊载）",
+      "kind": "1982 年 4 月杂志版",
+      "voice": "无",
+      "differences": "随《月刊 ASCII》附刊 Ah!SKI 发表的文本指令游戏。",
+      "source": "https://ifdb.org/viewgame?id=l0ovglum7br9nztc"
+    },
+    {
+      "id": "g096-v2",
+      "workId": "g096",
+      "year": 1982,
+      "platform": "MZ-80K/C",
+      "publisher": "ASCII（杂志刊载）",
+      "kind": "同刊载机种适配",
+      "voice": "无",
+      "differences": "利用杂志所列机种接口执行相同程序；不是另一次商业发行。",
+      "source": "https://electrelic.com/electrelic/node/1072?language=en"
+    },
+    {
+      "id": "g096-v3",
+      "workId": "g096",
+      "year": 1982,
+      "platform": "MZ-80B",
+      "publisher": "ASCII（杂志刊载）",
+      "kind": "同刊载机种适配",
+      "voice": "无",
+      "differences": "共用游戏主体，机种依赖部分不同；不是 PC-9801 首发。",
+      "source": "https://electrelic.com/electrelic/node/1072?language=en"
+    },
+    {
+      "id": "g097-v1",
+      "workId": "g097",
+      "year": 1982,
+      "platform": "MZ-80B",
+      "publisher": "マイクロキャビン",
+      "kind": "日本原始版",
+      "voice": "无",
+      "differences": "1982 年夏 MZ 系列黑白图像作品，与 Sierra 同名游戏故事不同。",
+      "source": "https://www.gamepres.org/pc88/library/adv.htm"
+    },
+    {
+      "id": "g098-v1",
+      "workId": "g098",
+      "year": 1982,
+      "platform": "FM-8",
+      "publisher": "マイクロキャビン",
+      "kind": "早期 FM 版",
+      "voice": "无",
+      "differences": "馆藏列 1982 年；早期 FM-8 盘与 FM-7 不兼容。",
+      "source": "https://fm-7.com/museum/products/jna9lxqz/"
+    },
+    {
+      "id": "g001-v2",
+      "workId": "g001",
+      "year": 1983,
+      "platform": "PC-8801",
+      "publisher": "スタークラフト",
+      "kind": "日本移植",
+      "voice": "无",
+      "differences": "1983 年 4 月 PC-8801 移植 Sierra 原作；与同名 MicroCabin 原创作品不同。",
+      "source": "https://www.gamepres.org/pc88/library/1983/1983_4.htm"
     },
     {
       "id": "g006-v1",
@@ -1713,6 +2261,105 @@
       "voice": "无",
       "differences": "前作续篇，另有几段 3D 射击；角色人声未见证据。",
       "source": "https://fm-7.com/museum/products/gttnk7za/"
+    },
+    {
+      "id": "g097-v2",
+      "workId": "g097",
+      "year": 1983,
+      "platform": "FM-7",
+      "publisher": "マイクロキャビン",
+      "kind": "彩色移植",
+      "voice": "无",
+      "differences": "馆藏标为 1983 年 11 月；改为 FM-7 彩色画面，且此版晚于《谜之屋 II》的 FM 版。",
+      "source": "https://fm-7.com/museum/products/az1oan43/"
+    },
+    {
+      "id": "g098-v2",
+      "workId": "g098",
+      "year": 1983,
+      "platform": "FM-7",
+      "publisher": "マイクロキャビン",
+      "kind": "FM-7 专用版",
+      "voice": "无",
+      "differences": "馆藏发行明细记为 1983 年 FM-7 专用版；早期 FM-8 盘在 FM-7 不能正常运行。",
+      "source": "https://fm-7.com/museum/products/jna9lxqz/releases"
+    },
+    {
+      "id": "g099-v1",
+      "workId": "g099",
+      "year": 1983,
+      "platform": "Apple II",
+      "publisher": "Sierra On-Line",
+      "kind": "Hi-Res Adventure #6",
+      "voice": "无",
+      "differences": "依电影改编的图文冒险，输入文字命令进行探索。",
+      "source": "https://www.sierragamers.com/the-dark-crystal/"
+    },
+    {
+      "id": "g100-v1",
+      "workId": "g100",
+      "year": 1983,
+      "platform": "PC-8001",
+      "publisher": "ASCII",
+      "kind": "1983 年 4 月发表",
+      "voice": "无",
+      "differences": "《表参道冒险》后续作品，英文命令文本游戏；首发机种记为 PC-8001 及以后兼容系列。",
+      "source": "https://www.gamepres.org/pc88/library/1983/1983_4.htm"
+    },
+    {
+      "id": "g101-v1",
+      "workId": "g101",
+      "year": 1983,
+      "platform": "FM-8",
+      "publisher": "ハミングバードソフト",
+      "kind": "系列第 1 作",
+      "voice": "无",
+      "differences": "馆藏记 1983 年 1 月，原始机种标 FM-8；图文指令冒险。",
+      "source": "https://fm-7.com/museum/products/aibua2n8/"
+    },
+    {
+      "id": "g101-v2",
+      "workId": "g101",
+      "year": 1983,
+      "platform": "FM-7",
+      "publisher": "ハミングバードソフト",
+      "kind": "FM-7 适配",
+      "voice": "无",
+      "differences": "FM-7 兼容版本；与 FM-8 的具体发行先后待核。",
+      "source": "https://fm-7.com/museum/products/aibua2n8/"
+    },
+    {
+      "id": "g102-v1",
+      "workId": "g102",
+      "year": 1983,
+      "platform": "FM-7/8",
+      "publisher": "ハミングバードソフト",
+      "kind": "系列第 2 作",
+      "voice": "无",
+      "differences": "馆藏原始机种为 FM-7/8；与《帕姆斯》相比更多中间色画面。",
+      "source": "https://fm-7.com/museum/products/vitpdgtz/"
+    },
+    {
+      "id": "g103-v1",
+      "workId": "g103",
+      "year": 1983,
+      "platform": "FM-7",
+      "publisher": "キャリーラボ",
+      "kind": "早期 FM 版",
+      "voice": "无",
+      "differences": "馆藏明确 FM-7 机种；以文字指令推进，含日文平假名显示。",
+      "source": "https://fm-7.com/museum/products/vjg12a36/"
+    },
+    {
+      "id": "g104-v1",
+      "workId": "g104",
+      "year": 1983,
+      "platform": "FM-7",
+      "publisher": "チャンピオンソフト",
+      "kind": "早期成人冒险",
+      "voice": "无",
+      "differences": "馆藏将其列为冒险与成人向，首发机种未核实。",
+      "source": "https://fm-7.com/museum/products/7kjmjxi8/"
     },
     {
       "id": "g011-v1",
@@ -1924,6 +2571,72 @@
       "source": "https://fm-7.com/museum/products/crs8l0ue/"
     },
     {
+      "id": "g099-v2",
+      "workId": "g099",
+      "year": 1984,
+      "platform": "Apple II",
+      "publisher": "Sierra On-Line",
+      "kind": "Gelfling Adventure 儿童改编版",
+      "voice": "无",
+      "differences": "同题材重新设计为选择式界面，适合较年轻的玩家；1984 年版本据 Sierra 年鉴。",
+      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf"
+    },
+    {
+      "id": "g105-v1",
+      "workId": "g105",
+      "year": 1984,
+      "platform": "FM-7/8",
+      "publisher": "ハミングバードソフト",
+      "kind": "系列首作",
+      "voice": "无",
+      "differences": "图文指令科幻冒险；馆藏将原始机种记为 FM-7/8。",
+      "source": "https://fm-7.com/museum/products/74ajuk34/"
+    },
+    {
+      "id": "g106-v1",
+      "workId": "g106",
+      "year": 1984,
+      "platform": "FM-7",
+      "publisher": "リバーヒルソフト",
+      "kind": "早期 FM 版",
+      "voice": "无",
+      "differences": "馆藏确认该机种和年份；完整首发机种顺序未核实。",
+      "source": "https://fm-7.com/museum/products/yyf8ms3g/"
+    },
+    {
+      "id": "g107-v1",
+      "workId": "g107",
+      "year": 1984,
+      "platform": "FM-7",
+      "publisher": "日本ファルコム",
+      "kind": "早期 FM 版",
+      "voice": "无",
+      "differences": "后半部分含三维迷宫；其他早期机种的确切年份待核。",
+      "source": "https://fm-7.com/museum/products/7ggib9g6/"
+    },
+    {
+      "id": "g108-v1",
+      "workId": "g108",
+      "year": 1984,
+      "platform": "PC-8801",
+      "publisher": "日本ファルコム",
+      "kind": "原始 PC 版",
+      "voice": "无",
+      "differences": "馆藏标 PC-8801 为原始机种，具体首发月份未获核实。",
+      "source": "https://fm-7.com/museum/products/4l5wmkh8/"
+    },
+    {
+      "id": "g108-v2",
+      "workId": "g108",
+      "year": 1984,
+      "platform": "FM-7",
+      "publisher": "日本ファルコム",
+      "kind": "FM-7 移植",
+      "voice": "无",
+      "differences": "馆藏标 1984 年；场景快速绘制，FM-7 版画面生成约 1 秒。",
+      "source": "https://fm-7.com/museum/products/4l5wmkh8/"
+    },
+    {
       "id": "g007-v2",
       "workId": "g007",
       "year": 1985,
@@ -2094,10 +2807,87 @@
       "year": 1985,
       "platform": "FM-7",
       "publisher": "チャンピオンソフト",
-      "kind": "早期 PC 版",
+      "kind": "同年 FM-7 版",
       "voice": "无",
-      "differences": "馆藏确认 FM-7 版本；最初发行机种未核定。",
+      "differences": "馆藏确认 1985 年 FM-7 版本；与 PC-8801 版的具体发行先后及内容异同未核实。",
       "source": "https://fm-7.com/museum/products/9sufuw5m/"
+    },
+    {
+      "id": "g086-v2",
+      "workId": "g086",
+      "year": 1985,
+      "platform": "PC-8801",
+      "publisher": "チャンピオンソフト",
+      "kind": "1985 年 4 月 PC 版",
+      "voice": "无",
+      "differences": "当期 PC-8801 软件目录明确 1985 年 4 月；描述与 FM-7 版的房间和人物线索一致。",
+      "source": "https://www.gamepres.org/pc88/library/1985/1985_4.htm"
+    },
+    {
+      "id": "g105-v2",
+      "workId": "g105",
+      "year": 1985,
+      "platform": "FM-7",
+      "publisher": "ハミングバードソフト",
+      "kind": "tape ABYSS 录音带版",
+      "voice": "无",
+      "differences": "1985 年录音带版：情节基本一致，但画面重新绘制，整部程序驻留内存。",
+      "source": "https://fm-7.com/museum/products/rwoxchsm/"
+    },
+    {
+      "id": "g109-v1",
+      "workId": "g109",
+      "year": 1985,
+      "platform": "FM-7",
+      "publisher": "ハミングバードソフト",
+      "kind": "续作",
+      "voice": "无",
+      "differences": "与 1984 年《ABYSS》分属两部作品，馆藏原始机种为 FM-7。",
+      "source": "https://fm-7.com/museum/products/x0bcvxtx/"
+    },
+    {
+      "id": "g110-v1",
+      "workId": "g110",
+      "year": 1985,
+      "platform": "FM-7",
+      "publisher": "リバーヒルソフト",
+      "kind": "早期 FM 版",
+      "voice": "无",
+      "differences": "馆藏确认年份与机种；完整首发平台和确切月份待核。",
+      "source": "https://fm-7.com/museum/products/rdtaieyr/"
+    },
+    {
+      "id": "g111-v1",
+      "workId": "g111",
+      "year": 1985,
+      "platform": "FM-7",
+      "publisher": "コンプティーク",
+      "kind": "FM-7 版",
+      "voice": "无",
+      "differences": "馆藏确认 1985 年；其他机种和海外英文版日期未核实，暂不拆分。",
+      "source": "https://fm-7.com/museum/products/y6ai5nay/"
+    },
+    {
+      "id": "g111-v2",
+      "workId": "g111",
+      "year": 1985,
+      "platform": "PC-8801",
+      "publisher": "コンプティーク",
+      "kind": "1985 年 4 月 PC 版",
+      "voice": "无",
+      "differences": "当期目录记 1985 年 4 月；剧情围绕次郎与基德船长宝藏展开，FM-7 版发行月待核。",
+      "source": "https://www.gamepres.org/pc88/library/1985/1985_4.htm"
+    },
+    {
+      "id": "g112-v1",
+      "workId": "g112",
+      "year": 1985,
+      "platform": "PC-8801",
+      "publisher": "東宝",
+      "kind": "原始 PC 版",
+      "voice": "无",
+      "differences": "1985 年 4 月版含三个玩法段落；包装附怪兽叫声磁带，未据此将角色配音标为“有”。",
+      "source": "https://www.gamepres.org/pc88/library/1985/1985_4.htm"
     },
     {
       "id": "g012-v2",

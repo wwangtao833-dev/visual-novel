@@ -1,9 +1,18 @@
 ﻿作品ID,版本ID,作品名称,原文名称,主分类,游戏类型,主要角色,发行年份,平台,发行公司,版本类型,配音,版本差异,来源
+g089,g089-v1,巨洞冒险,Colossal Cave Adventure,文字冒险,纯文本／洞穴探索,探险者（玩家）,1976,PDP-10,Will Crowther（作者传播）,原始大型机版,无,原作以洞穴路线和少量宝物为核心；非商业发行。,https://www.catb.org/~esr/open-adventure/history.html
+g089,g089-v2,巨洞冒险,Colossal Cave Adventure,文字冒险,纯文本／洞穴探索,探险者（玩家）,1977,PDP-10,Don Woods（作者传播）,扩充版,无,Don Woods 在原作上增加谜题、宝藏和奇幻内容；同机种的不同内容版本。,https://rickadams.org/adventure/a_history.html
+g090,g090-v1,佐克（大型机原作）,Zork (MIT PDP-10 original),文字冒险,纯文本／奇幻解谜,冒险者（玩家）,1977,PDP-10,MIT 创作者团队（非商业传播）,大型机原作,无,MIT 收藏的 1977 年 MDL 源码；随后商业版拆分为《Zork I》等独立作品。,https://github.com/MITDDC/zork
+g091,g091-v1,冒险乐园,Adventureland,文字冒险,纯文本／寻宝解谜,冒险者（玩家）,1978,TRS-80,Scott Adams（初期自行销售）,首发录音带,无,最初的商业家用机文字冒险之一；后续 Adventure International 包装版时间另待核。,https://www.msadams.com/adventures.htm
+g092,g092-v1,海盗冒险,Pirate Adventure,文字冒险,纯文本／海盗寻宝,冒险者（玩家）、海盗,1978,TRS-80,Scott Adams／Adventure International,早期家用机版,无,作者 Scott 与 Alexis Adams；具体早期商业包装和出版名称仍待逐批核对。,https://ifdb.org/viewgame?id=zya3mo3njj58hewi
+g089,g089-v3,巨洞冒险,Colossal Cave Adventure,文字冒险,纯文本／洞穴探索,探险者（玩家）,1979,TRS-80,Microsoft,Microsoft Adventure 商业改编,无,家用电脑版本，属于《Adventure》的商业改编；不等同于 1976 年源代码。,https://www.trs-80.org/microsoft-adventure.html
+g089,g089-v4,巨洞冒险,Colossal Cave Adventure,文字冒险,纯文本／洞穴探索,探险者（玩家）,1979,Apple II,Microsoft,Microsoft Adventure 商业改编,无,同年销售的 Apple II 版，发行时间据电脑史馆藏。,https://www.trs-80.org/microsoft-adventure.html
+g093,g093-v1,伯爵,The Count,文字冒险,纯文本／吸血鬼恐怖,冒险者（玩家）、吸血鬼伯爵,1979,家用计算机,Adventure International,早期家用机版,无,1979 年发行，但最早的具体机种及包装待核；不推定为 TRS-80 首发。,https://ifdb.org/viewgame?id=89qmjvv4cb0z93t5
 g001,g001-v1,神秘屋,Mystery House,文字冒险,图文指令／悬疑,待核实,1980,Apple II,On-Line Systems,首发,无,最早商业发行版。,https://www.sierragamers.com/ken-williams/
 g002,g002-v1,佐克 I,Zork I: The Great Underground Empire,文字冒险,纯文本／奇幻解谜,待核实,1980,家用计算机,Infocom,首发,无,按 Infocom 商业版；早期大型机 Zork 不并入。,https://infocom-if.org/company/company.html
 g057,g057-v1,巫师与公主,The Wizard and the Princess,文字冒险,彩色图文指令／奇幻,冒险者（玩家）、普莉西拉公主、巫师 Harlin,1980,Apple II,On-Line Systems,首发,无,彩色静态插图与文字指令。,https://www.sierragamers.com/roberta-williams/
 g058,g058-v1,克兰斯顿庄园,Cranston Manor,文字冒险,彩色图文指令／寻宝,寻宝者（玩家）、克兰斯顿,1981,Apple II,On-Line Systems,首发,无,英文指令与彩色场景。,https://www.sierragamers.com/wp-content/uploads/2019/12/001_On_Line_Letter_Volume_1_Number_1_June_1981.pdf
 g062,g062-v1,佐克 II,Zork II: The Wizard of Frobozz,文字冒险,纯文本／奇幻解谜,冒险者（玩家）、Frobozz 巫师,1981,家用计算机,Infocom,首发／早期多机种,无,此处合并同年早期计算机平台；具体机种日期待核实。,https://www.infocom-if.org/games/zork2/zork2.html
+g094,g094-v1,软色情冒险,Softporn Adventure,文字冒险,纯文本／成人喜剧冒险,男性主人公（玩家）,1981,Apple II,On-Line Systems,首发商业版,无,文本指令；归入成人喜剧文字冒险，不等同于后来的恋爱视觉小说。,https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf
 g003,g003-v1,Deadline,Deadline,文字冒险,纯文本／推理,待核实,1982,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://infocom-if.org/games/games.html
 g004,g004-v1,夜生活,ナイトライフ,Galgame,成人向／生活工具,待核实,1982,日本个人计算机,光荣,首发,无,历史作品；严格说并非典型恋爱叙事游戏。,https://www.famitsu.com/news/202312/10327281.html
 g005,g005-v1,Lolita：野球拳,ロリータ～野球拳,Galgame,成人向／猜拳,待核实,1982,FM-7 等,PSK,首发,无,按广义早期美少女游戏收录；不是视觉小说。,https://fm-7.com/museum/products/7bj82lkr/
@@ -11,6 +20,13 @@ g057,g057-v2,巫师与公主,The Wizard and the Princess,文字冒险,彩色图�
 g059,g059-v1,时区,Time Zone,文字冒险,彩色图文指令／时间旅行,旅行者（玩家）,1982,Apple II,On-Line Systems,首发,无,多张磁盘的跨时代图文冒险。,https://www.sierragamers.com/hi-res/
 g063,g063-v1,佐克 III,Zork III: The Dungeon Master,文字冒险,纯文本／奇幻解谜,冒险者（玩家）、地下城主,1982,家用计算机,Infocom,首发／早期多机种,无,同年发行机种与先后顺序仍待逐台核实。,https://www.infocom-if.org/games/zork3/zork3.html
 g064,g064-v1,星际交汇,Starcross,文字冒险,纯文本／科幻探索,黑洞矿工（玩家）,1982,家用计算机,Infocom,首发／早期多机种,无,以文字命令探索外星飞船；机种明细待核实。,https://www.infocom-if.org/games/starcross/starcross.html
+g095,g095-v1,尤利西斯与金羊毛,Ulysses and the Golden Fleece,文字冒险,彩色图文指令／希腊神话,尤利西斯、独眼巨人、海妖,1982,Apple II,On-Line Systems／Sierra On-Line,Hi-Res Adventure #4,无,上方场景插图、下方两词指令；系列页和设计师年表列 1982 年。,https://www.sierragamers.com/hi-res/
+g096,g096-v1,表参道冒险,表参道アドベンチャー,文字冒险,纯文本／杂志刊载解谜,潜入者（玩家）,1982,PC-8001,ASCII（杂志刊载）,1982 年 4 月杂志版,无,随《月刊 ASCII》附刊 Ah!SKI 发表的文本指令游戏。,https://ifdb.org/viewgame?id=l0ovglum7br9nztc
+g096,g096-v2,表参道冒险,表参道アドベンチャー,文字冒险,纯文本／杂志刊载解谜,潜入者（玩家）,1982,MZ-80K/C,ASCII（杂志刊载）,同刊载机种适配,无,利用杂志所列机种接口执行相同程序；不是另一次商业发行。,https://electrelic.com/electrelic/node/1072?language=en
+g096,g096-v3,表参道冒险,表参道アドベンチャー,文字冒险,纯文本／杂志刊载解谜,潜入者（玩家）,1982,MZ-80B,ASCII（杂志刊载）,同刊载机种适配,无,共用游戏主体，机种依赖部分不同；不是 PC-9801 首发。,https://electrelic.com/electrelic/node/1072?language=en
+g097,g097-v1,谜之屋（日本版原创）,ミステリーハウスⅠ,文字冒险,图文指令／寻宝,寻宝者（玩家）,1982,MZ-80B,マイクロキャビン,日本原始版,无,1982 年夏 MZ 系列黑白图像作品，与 Sierra 同名游戏故事不同。,https://www.gamepres.org/pc88/library/adv.htm
+g098,g098-v1,谜之屋 II,ミステリーハウスⅡ,文字冒险,图文指令／寻宝,寻宝者（玩家）,1982,FM-8,マイクロキャビン,早期 FM 版,无,馆藏列 1982 年；早期 FM-8 盘与 FM-7 不兼容。,https://fm-7.com/museum/products/jna9lxqz/
+g001,g001-v2,神秘屋,Mystery House,文字冒险,图文指令／悬疑,待核实,1983,PC-8801,スタークラフト,日本移植,无,1983 年 4 月 PC-8801 移植 Sierra 原作；与同名 MicroCabin 原创作品不同。,https://www.gamepres.org/pc88/library/1983/1983_4.htm
 g006,g006-v1,Planetfall,Planetfall,文字冒险,纯文本／科幻,待核实,1983,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://www.infocom-if.org/authors/meretzky.html
 g007,g007-v1,波多比亚连续杀人事件,ポートピア連続殺人事件,文字冒险,图文指令／推理,刑警（玩家）、ヤス,1983,日本个人计算机,艾尼克斯,首发,无,此处文字冒险包括图文指令游戏。,https://fm-7.com/museum/products/k6sufaqm/
 g008,g008-v1,玛丽酱危机一发,マリちゃん危機一髪,Galgame,美少女／解救冒险,玛丽,1983,PC-8801 等,艾尼克斯,首发,无,部分版本附有磁带人声；不等同游戏内角色配音。,https://fm-7.com/museum/products/1paitdl4/
@@ -28,6 +44,15 @@ g074,g074-v2,德泽尼乐园,デゼニランド,文字冒险,图文指令／游�
 g075,g075-v1,四次元少女莉迪亚,四次元少女リディア,文字冒险,图文指令／科幻故事,调查员（玩家）、Trigger 博士,1983,FM-7,チャンピオンソフト,首发,无,附立体眼镜的图文冒险；有音乐但角色人声未见证据。,https://fm-7.com/museum/products/91e3ra67/
 g082,g082-v1,贝加之战,Bega's Battle,互动动画,激光影碟／动画射击,Bega、Luna、Jobe、Sony、Varge,1983,街机,Data East,首发,未核实,动画影碟穿插射击环节；非文字分支视觉小说。,https://www.arcade-museum.com/Videogame/begas-battle
 g087,g087-v1,暗黑星云,暗黒星雲,文字冒险,图文指令／科幻,星亚瑟（玩家）,1983,FM-7,T&E SOFT,首发,无,前作续篇，另有几段 3D 射击；角色人声未见证据。,https://fm-7.com/museum/products/gttnk7za/
+g097,g097-v2,谜之屋（日本版原创）,ミステリーハウスⅠ,文字冒险,图文指令／寻宝,寻宝者（玩家）,1983,FM-7,マイクロキャビン,彩色移植,无,馆藏标为 1983 年 11 月；改为 FM-7 彩色画面，且此版晚于《谜之屋 II》的 FM 版。,https://fm-7.com/museum/products/az1oan43/
+g098,g098-v2,谜之屋 II,ミステリーハウスⅡ,文字冒险,图文指令／寻宝,寻宝者（玩家）,1983,FM-7,マイクロキャビン,FM-7 专用版,无,馆藏发行明细记为 1983 年 FM-7 专用版；早期 FM-8 盘在 FM-7 不能正常运行。,https://fm-7.com/museum/products/jna9lxqz/releases
+g099,g099-v1,黑水晶,The Dark Crystal,文字冒险,彩色图文指令／电影改编,Jen、Kira,1983,Apple II,Sierra On-Line,Hi-Res Adventure #6,无,依电影改编的图文冒险，输入文字命令进行探索。,https://www.sierragamers.com/the-dark-crystal/
+g100,g100-v1,南青山冒险,南青山アドベンチャー,文字冒险,纯文本／科幻讽刺,投稿者（玩家）,1983,PC-8001,ASCII,1983 年 4 月发表,无,《表参道冒险》后续作品，英文命令文本游戏；首发机种记为 PC-8001 及以后兼容系列。,https://www.gamepres.org/pc88/library/1983/1983_4.htm
+g101,g101-v1,帕姆斯,ザ・パームス,文字冒险,图文指令／海底探险,冒险者（玩家）、被掳走的恋人,1983,FM-8,ハミングバードソフト,系列第 1 作,无,馆藏记 1983 年 1 月，原始机种标 FM-8；图文指令冒险。,https://fm-7.com/museum/products/aibua2n8/
+g101,g101-v2,帕姆斯,ザ・パームス,文字冒险,图文指令／海底探险,冒险者（玩家）、被掳走的恋人,1983,FM-7,ハミングバードソフト,FM-7 适配,无,FM-7 兼容版本；与 FM-8 的具体发行先后待核。,https://fm-7.com/museum/products/aibua2n8/
+g102,g102-v1,仙境骑士,ザ・ナイト・オブ・ワンダーランド,文字冒险,图文指令／童话,冒险者（玩家）、罗姆公主,1983,FM-7/8,ハミングバードソフト,系列第 2 作,无,馆藏原始机种为 FM-7/8；与《帕姆斯》相比更多中间色画面。,https://fm-7.com/museum/products/vitpdgtz/
+g103,g103-v1,星光冒险 PART 1,スターライト・アドベンチャー PART 1,文字冒险,文本指令／科幻童话,旅行者（玩家）、被营救的公主,1983,FM-7,キャリーラボ,早期 FM 版,无,馆藏明确 FM-7 机种；以文字指令推进，含日文平假名显示。,https://fm-7.com/museum/products/vjg12a36/
+g104,g104-v1,寻找广子,アタックひろ子ちゃん,Galgame,成人向／图文指令,玩家、ひろ子,1983,FM-7,チャンピオンソフト,早期成人冒险,无,馆藏将其列为冒险与成人向，首发机种未核实。,https://fm-7.com/museum/products/7kjmjxi8/
 g011,g011-v1,银河系漫游指南,The Hitchhiker’s Guide to the Galaxy,文字冒险,纯文本／科幻喜剧,亚瑟·登特、福特·普里费克特,1984,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://infocom-if.org/games/games.html
 g012,g012-v1,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,1984,PC-8801 等,ASCII（LOGIN SOFT）,首发,无,1984 年 PC 原版；FM-7 移植在 1985 年。,https://www.gamepres.org/pc88/library/1984/ohotsuku.htm
 g013,g013-v1,荷兰妻会梦见电鳗吗？,オランダ妻は電気ウナギの夢を見るか？,Galgame,成人向／冒险,待核实,1984,日本个人计算机,光荣,首发,无,首发 1984；FM-7 版登记为 1985 年。,https://www.famitsu.com/news/202312/10327281.html
@@ -47,6 +72,12 @@ g079,g079-v1,翼人,ウイングマン,文字冒险,图文指令／漫画改编,
 g083,g083-v1,雷霆风暴／眼镜蛇指令,サンダーストーム / Cobra Command,互动动画,激光影碟／动画射击,直升机驾驶员（玩家）,1984,街机,Data East,首发,未核实,日本名《Thunder Storm》，海外街机名《Cobra Command》；与 1988 年同名射击游戏无关。,https://www.arcade-museum.com/Videogame/cobra-command
 g084,g084-v1,忍者疾风,忍者ハヤテ,互动动画,激光影碟／动画动作选择,疾风（ハヤテ）、被掳走的公主,1984,街机,TAITO,首发,未核实,激光影碟播放动画，按提示决定动作；角色配音范围待核实。,https://www.taito.co.jp/mob/topics/26255
 g088,g088-v1,泰拉 4001,テラ4001,文字冒险,图文指令／科幻,星亚瑟（玩家）、Antonio Inoshin、Gondar,1984,FM-7,T&E SOFT,首发,无,含角色移动、飞行及简化战斗等混合玩法。,https://fm-7.com/museum/products/crs8l0ue/
+g099,g099-v2,黑水晶,The Dark Crystal,文字冒险,彩色图文指令／电影改编,Jen、Kira,1984,Apple II,Sierra On-Line,Gelfling Adventure 儿童改编版,无,同题材重新设计为选择式界面，适合较年轻的玩家；1984 年版本据 Sierra 年鉴。,https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf
+g105,g105-v1,深渊,ABYSS,文字冒险,图文指令／科幻潜入,莫兹·希巴特（Moz Shibatto）,1984,FM-7/8,ハミングバードソフト,系列首作,无,图文指令科幻冒险；馆藏将原始机种记为 FM-7/8。,https://fm-7.com/museum/products/74ajuk34/
+g106,g106-v1,黑猫庄继承杀人事件,黒猫荘相続殺人事件,文字冒险,图文指令／推理,调查员（玩家）、助手正男,1984,FM-7,リバーヒルソフト,早期 FM 版,无,馆藏确认该机种和年份；完整首发机种顺序未核实。,https://fm-7.com/museum/products/yyf8ms3g/
+g107,g107-v1,逃离异次元,異次元からの脱出,文字冒险,图文指令／神秘惊悚,迷失异界的上班族（玩家）,1984,FM-7,日本ファルコム,早期 FM 版,无,后半部分含三维迷宫；其他早期机种的确切年份待核。,https://fm-7.com/museum/products/7ggib9g6/
+g108,g108-v1,恶魔之戒,デーモンズリング,文字冒险,图文指令／神秘恐怖,待核实,1984,PC-8801,日本ファルコム,原始 PC 版,无,馆藏标 PC-8801 为原始机种，具体首发月份未获核实。,https://fm-7.com/museum/products/4l5wmkh8/
+g108,g108-v2,恶魔之戒,デーモンズリング,文字冒险,图文指令／神秘恐怖,待核实,1984,FM-7,日本ファルコム,FM-7 移植,无,馆藏标 1984 年；场景快速绘制，FM-7 版画面生成约 1 秒。,https://fm-7.com/museum/products/4l5wmkh8/
 g007,g007-v2,波多比亚连续杀人事件,ポートピア連続殺人事件,文字冒险,图文指令／推理,刑警（玩家）、ヤス,1985,红白机,艾尼克斯,家庭机移植,未核实,移植时重做指令选择界面；并非1983年PC初版。,https://www.nintendo.co.jp/etc/interview/platinumgames/vol1/index3.html
 g014,g014-v1,时间少女,タイムギャル,互动动画,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,1985,街机,太东,首发,有,日本街机原版。,https://www.taito.co.jp/mob/topics/2587
 g015,g015-v1,天使们的午后,天使たちの午後,Galgame,成人向／学园冒险,白石由美子,1985,PC-8801 等,JAST,首发,无,按 PC-8801 初版；FM-7 移植为 1986 年。,https://www.famitsu.com/news/202312/10327281.html
@@ -62,7 +93,14 @@ g080,g080-v1,阿兹特克,アステカ,文字冒险,图文指令／考古探险,
 g080,g080-v2,阿兹特克,アステカ,文字冒险,图文指令／考古探险,Wilson 博士,1985,FM-7,日本ファルコム,同年移植,无,FM-7 馆藏记为 1985 年 6 月，采用局部实景图像。,https://fm-7.com/museum/products/qagni9o7/
 g081,g081-v1,Will：死亡陷阱 II,Will: The Death Trap II,文字冒险,图文指令／科幻谍报,Benson、Aisha,1985,PC-8801,スクウェア,首发,无,图文指令冒险采用更多局部动画和对话模式；非激光影碟电影。,https://www.gamepres.org/pc88/library/1985/1985_9.htm
 g085,g085-v1,公路追击,ロードブラスター / Road Blaster,互动动画,激光影碟／动画赛车动作,驾驶者（玩家）,1985,街机,Data East,首发,未核实,东映制作动画影像，按指示操作车辆。,https://www.arcade-museum.com/Videogame/road-blaster
-g086,g086-v1,妖精公寓,Fairie's Residence,Galgame,美少女／图文探索与小游戏,待核实,1985,FM-7,チャンピオンソフト,早期 PC 版,无,馆藏确认 FM-7 版本；最初发行机种未核定。,https://fm-7.com/museum/products/9sufuw5m/
+g086,g086-v1,妖精公寓,Fairie's Residence,Galgame,美少女／图文探索与小游戏,待核实,1985,FM-7,チャンピオンソフト,同年 FM-7 版,无,馆藏确认 1985 年 FM-7 版本；与 PC-8801 版的具体发行先后及内容异同未核实。,https://fm-7.com/museum/products/9sufuw5m/
+g086,g086-v2,妖精公寓,Fairie's Residence,Galgame,美少女／图文探索与小游戏,待核实,1985,PC-8801,チャンピオンソフト,1985 年 4 月 PC 版,无,当期 PC-8801 软件目录明确 1985 年 4 月；描述与 FM-7 版的房间和人物线索一致。,https://www.gamepres.org/pc88/library/1985/1985_4.htm
+g105,g105-v2,深渊,ABYSS,文字冒险,图文指令／科幻潜入,莫兹·希巴特（Moz Shibatto）,1985,FM-7,ハミングバードソフト,tape ABYSS 录音带版,无,1985 年录音带版：情节基本一致，但画面重新绘制，整部程序驻留内存。,https://fm-7.com/museum/products/rwoxchsm/
+g109,g109-v1,深渊 II：帝王之泪,ABYSS Ⅱ 帝王の涙,文字冒险,图文指令／科幻,莫兹·希巴特（Moz Shibatto）,1985,FM-7,ハミングバードソフト,续作,无,与 1984 年《ABYSS》分属两部作品，馆藏原始机种为 FM-7。,https://fm-7.com/museum/products/x0bcvxtx/
+g110,g110-v1,黄道带,ゾーディアック,文字冒险,图文指令／科幻探索,寻父的主角、亚马洛伊德·玛丽、杜马博士,1985,FM-7,リバーヒルソフト,早期 FM 版,无,馆藏确认年份与机种；完整首发平台和确切月份待核。,https://fm-7.com/museum/products/rdtaieyr/
+g111,g111-v1,神威之剑,カムイの剣,文字冒险,图文指令／小说与动画改编,次郎,1985,FM-7,コンプティーク,FM-7 版,无,馆藏确认 1985 年；其他机种和海外英文版日期未核实，暂不拆分。,https://fm-7.com/museum/products/y6ai5nay/
+g111,g111-v2,神威之剑,カムイの剣,文字冒险,图文指令／小说与动画改编,次郎,1985,PC-8801,コンプティーク,1985 年 4 月 PC 版,无,当期目录记 1985 年 4 月；剧情围绕次郎与基德船长宝藏展开，FM-7 版发行月待核。,https://www.gamepres.org/pc88/library/1985/1985_4.htm
+g112,g112-v1,新哥斯拉,ニューゴジラ,文字冒险,图文指令／电影改编,牧吾郎、尚子、哥斯拉,1985,PC-8801,東宝,原始 PC 版,无,1985 年 4 月版含三个玩法段落；包装附怪兽叫声磁带，未据此将角色配音标为“有”。,https://www.gamepres.org/pc88/library/1985/1985_4.htm
 g012,g012-v2,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,1987,红白机,ASCII,改编移植,未核实,根据PC版重新编排故事与人物表现。,https://www.4gamer.net/games/777/G077714/20240222001/
 g019,g019-v1,No・Ri・Ko,No・Ri・Ko,文字冒险,CD-ROM／偶像互动,小川范子,1988,PC Engine CD-ROM²,Hudson,首发,有,配音与歌曲来自偶像本人；并非 Leaf 式视觉小说。,https://pcefan.com/pcengine/entry15.html
 g040,g040-v1,Snatcher,スナッチャー,文字冒险,科幻／赛博朋克侦探,吉利安·希德、Metal Gear Mk.II,1988,PC-8801,Konami,首发,无,PC初版以指令调查为核心。,https://www.konami.com/corporate/ja/history/product.html

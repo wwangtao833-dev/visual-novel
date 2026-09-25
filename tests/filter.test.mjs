@@ -58,3 +58,29 @@ test('an early PC work and its later console adaptation have separate dates',()=
   assert.equal(consoleVersion.length,1);
   assert.equal(consoleVersion[0].versions[0].kind,'主机改编');
 });
+
+test('1970s origins and later commercial edition are separate works',()=>{
+  const original=filterCatalogue(data,{query:'Zork (MIT PDP-10 original)',from:1977,to:1977});
+  const commercial=filterCatalogue(data,{query:'Zork I: The Great Underground Empire',from:1980,to:1980});
+  assert.equal(original.length,1);
+  assert.equal(commercial.length,1);
+  assert.notEqual(original[0].work.id,commercial[0].work.id);
+  assert.deepEqual(original[0].versions.map(v=>v.platform),['PDP-10']);
+});
+
+test('identical Mystery House names do not merge two different games',()=>{
+  const micro=filterCatalogue(data,{query:'ミステリーハウスⅠ',platform:'MZ-80B',from:1982,to:1982});
+  const sierra=filterCatalogue(data,{query:'Mystery House',platform:'PC-8801',from:1983,to:1983});
+  assert.equal(micro.length,1);
+  assert.equal(sierra.length,1);
+  assert.notEqual(micro[0].work.id,sierra[0].work.id);
+});
+
+test('Mystery House II uses dated FM-8 and FM-7 releases independently',()=>{
+  const fm8=filterCatalogue(data,{query:'ミステリーハウスⅡ',platform:'FM-8',from:1982,to:1982});
+  const fm7=filterCatalogue(data,{query:'ミステリーハウスⅡ',platform:'FM-7',from:1983,to:1983});
+  assert.equal(fm8.length,1);
+  assert.equal(fm7.length,1);
+  assert.deepEqual(fm8[0].versions.map(v=>v.year),[1982]);
+  assert.deepEqual(fm7[0].versions.map(v=>v.year),[1983]);
+});

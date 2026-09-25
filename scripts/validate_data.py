@@ -11,7 +11,7 @@ work_ids = {work['id'] for work in works}
 version_ids = {version['id'] for version in versions}
 assert len(work_ids) == len(works) and len(version_ids) == len(versions), '重复 ID'
 assert {work['category'] for work in works} == {'文字冒险', '视觉小说', '互动动画', 'Galgame'}
-assert all(1980 <= version['year'] <= 2026 and version['workId'] in work_ids for version in versions)
+assert all(1976 <= version['year'] <= 2026 and version['workId'] in work_ids for version in versions)
 assert all(version['publisher'] and version['platform'] and version['source'].startswith('https://')
            and version['voice'] in {'有', '无', '未核实', '有（部分）', '有（主角部分）'} for version in versions)
 assert all(work['source'].startswith('https://') and isinstance(work['characters'], list)
