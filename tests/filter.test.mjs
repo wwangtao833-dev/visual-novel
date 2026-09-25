@@ -41,3 +41,20 @@ test('Dōkyūsei original and console remake remain distinct',()=>{
   assert.equal(original[0].versions[0].voice,'无');
   assert.equal(remake[0].versions[0].voice,'有');
 });
+
+test('early Wingman versions retain their distinct PC-8801 and FM-7 years',()=>{
+  const pc=filterCatalogue(data,{query:'ウイングマン',platform:'PC-8801',from:1984,to:1984});
+  const fm=filterCatalogue(data,{query:'ウイングマン',platform:'FM-7',from:1985,to:1985});
+  assert.equal(pc.length,1);
+  assert.equal(fm.length,1);
+  assert.deepEqual(pc[0].versions.map(v=>v.year),[1984]);
+  assert.deepEqual(fm[0].versions.map(v=>v.year),[1985]);
+});
+
+test('an early PC work and its later console adaptation have separate dates',()=>{
+  const pc=filterCatalogue(data,{query:'サラダの国のトマト姫',platform:'PC-8801',from:1984,to:1984});
+  const consoleVersion=filterCatalogue(data,{query:'サラダの国のトマト姫',platform:'红白机',from:1988,to:1988});
+  assert.equal(pc.length,1);
+  assert.equal(consoleVersion.length,1);
+  assert.equal(consoleVersion[0].versions[0].kind,'主机改编');
+});

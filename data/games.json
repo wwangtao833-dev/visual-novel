@@ -2,7 +2,7 @@
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
     "updated": "2026-09-25",
-    "scope": "精选可核查作品，非全量目录。首发年份按所列最早发行版本；移植年份、配音与出版方逐版本区分，存疑处标待核实。",
+    "scope": "精选可核查作品，非全量目录。1985 年及之前增加早期图文指令、文字冒险与互动动画；同名游戏或日期存在异文时见作品备注，未核平台不凭推测补全。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
   "works": [
@@ -31,6 +31,55 @@
       "synopsis": "输入指令探索地下帝国，解开谜题并收集宝物。",
       "notes": "按 Infocom 商业版；早期大型机 Zork 不并入。",
       "source": "https://infocom-if.org/company/company.html"
+    },
+    {
+      "id": "g057",
+      "title": "巫师与公主",
+      "originalTitle": "The Wizard and the Princess",
+      "firstYear": 1980,
+      "category": "文字冒险",
+      "genre": "彩色图文指令／奇幻",
+      "characters": [
+        "冒险者（玩家）",
+        "普莉西拉公主",
+        "巫师 Harlin"
+      ],
+      "charactersNote": "",
+      "synopsis": "穿越荒漠与险境，营救被巫师囚禁的公主。",
+      "notes": "与《神秘屋》同属 Sierra 的 Hi-Res Adventure 系列。",
+      "source": "https://www.sierragamers.com/hi-res/"
+    },
+    {
+      "id": "g058",
+      "title": "克兰斯顿庄园",
+      "originalTitle": "Cranston Manor",
+      "firstYear": 1981,
+      "category": "文字冒险",
+      "genre": "彩色图文指令／寻宝",
+      "characters": [
+        "寻宝者（玩家）",
+        "克兰斯顿"
+      ],
+      "charactersNote": "",
+      "synopsis": "搜寻富豪留下的宝物，探索据说有亡灵看守的庄园。",
+      "notes": "",
+      "source": "https://www.sierragamers.com/hi-res/"
+    },
+    {
+      "id": "g062",
+      "title": "佐克 II",
+      "originalTitle": "Zork II: The Wizard of Frobozz",
+      "firstYear": 1981,
+      "category": "文字冒险",
+      "genre": "纯文本／奇幻解谜",
+      "characters": [
+        "冒险者（玩家）",
+        "Frobozz 巫师"
+      ],
+      "charactersNote": "",
+      "synopsis": "深入地下帝国，设法应对巫师的魔法与恶作剧。",
+      "notes": "",
+      "source": "https://www.infocom-if.org/games/zork2/zork2.html"
     },
     {
       "id": "g003",
@@ -70,6 +119,52 @@
       "synopsis": "以野球拳规则进行的简易对战。",
       "notes": "按广义早期美少女游戏收录；不是视觉小说。",
       "source": "https://fm-7.com/museum/products/7bj82lkr/"
+    },
+    {
+      "id": "g059",
+      "title": "时区",
+      "originalTitle": "Time Zone",
+      "firstYear": 1982,
+      "category": "文字冒险",
+      "genre": "彩色图文指令／时间旅行",
+      "characters": [
+        "旅行者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "穿梭多个时代，调查威胁历史的事件。",
+      "notes": "其他机器移植年份未获逐项核实，暂未拆分。",
+      "source": "https://www.sierragamers.com/hi-res/"
+    },
+    {
+      "id": "g063",
+      "title": "佐克 III",
+      "originalTitle": "Zork III: The Dungeon Master",
+      "firstYear": 1982,
+      "category": "文字冒险",
+      "genre": "纯文本／奇幻解谜",
+      "characters": [
+        "冒险者（玩家）",
+        "地下城主"
+      ],
+      "charactersNote": "",
+      "synopsis": "深入地下帝国核心，经受地下城主布下的考验。",
+      "notes": "",
+      "source": "https://www.infocom-if.org/games/zork3/zork3.html"
+    },
+    {
+      "id": "g064",
+      "title": "星际交汇",
+      "originalTitle": "Starcross",
+      "firstYear": 1982,
+      "category": "文字冒险",
+      "genre": "纯文本／科幻探索",
+      "characters": [
+        "黑洞矿工（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "独自驾驶勘探飞船时遭遇巨大的外星船只。",
+      "notes": "",
+      "source": "https://www.infocom-if.org/games/starcross/starcross.html"
     },
     {
       "id": "g006",
@@ -179,6 +274,117 @@
       "source": "https://www.infocom-if.org/games/enchanter/enchanter.html"
     },
     {
+      "id": "g065",
+      "title": "目击者",
+      "originalTitle": "The Witness",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "纯文本／侦探推理",
+      "characters": [
+        "警探（玩家）",
+        "Duffy 警佐"
+      ],
+      "charactersNote": "",
+      "synopsis": "1938 年洛杉矶附近的雨夜，警探必须在限时内侦破命案。",
+      "notes": "同一档案的作品介绍页写 1984 年，年表与作者页写 1983 年；保留异文。",
+      "source": "https://www.infocom-if.org/games/games.html"
+    },
+    {
+      "id": "g066",
+      "title": "异教徒",
+      "originalTitle": "Infidel",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "纯文本／考古冒险",
+      "characters": [
+        "探险者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "被同伴抛弃的探险者在埃及沙漠寻找失落金字塔。",
+      "notes": "",
+      "source": "https://www.infocom-if.org/games/infidel/infidel.html"
+    },
+    {
+      "id": "g073",
+      "title": "惑星梅菲乌斯",
+      "originalTitle": "惑星メフィウス",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文指令／科幻",
+      "characters": [
+        "星亚瑟（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "前往梅菲乌斯寻找传说之剑，阻止银河系遭入侵。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/tocvx2b8/"
+    },
+    {
+      "id": "g074",
+      "title": "德泽尼乐园",
+      "originalTitle": "デゼニランド",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文指令／游乐园解谜",
+      "characters": [
+        "寻宝者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "进入虚构游乐园，寻找藏在其中的金制“三月磨臼”。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/zd9clwc4/"
+    },
+    {
+      "id": "g075",
+      "title": "四次元少女莉迪亚",
+      "originalTitle": "四次元少女リディア",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文指令／科幻故事",
+      "characters": [
+        "调查员（玩家）",
+        "Trigger 博士"
+      ],
+      "charactersNote": "",
+      "synopsis": "调查父亲失踪和百慕大海域的神秘事件。",
+      "notes": "名称虽有少女，馆藏将其归为冒险游戏；不据标题认定为恋爱游戏。",
+      "source": "https://fm-7.com/museum/products/91e3ra67/"
+    },
+    {
+      "id": "g082",
+      "title": "贝加之战",
+      "originalTitle": "Bega's Battle",
+      "firstYear": 1983,
+      "category": "互动动画",
+      "genre": "激光影碟／动画射击",
+      "characters": [
+        "Bega",
+        "Luna",
+        "Jobe",
+        "Sony",
+        "Varge"
+      ],
+      "charactersNote": "",
+      "synopsis": "义体英雄与同伴对抗外星敌军，阻止地球毁灭。",
+      "notes": "",
+      "source": "https://www.arcade-museum.com/Videogame/begas-battle"
+    },
+    {
+      "id": "g087",
+      "title": "暗黑星云",
+      "originalTitle": "暗黒星雲",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "genre": "图文指令／科幻",
+      "characters": [
+        "星亚瑟（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "取得传说之剑后进入宇宙，继续面对新的威胁。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/gttnk7za/"
+    },
+    {
       "id": "g011",
       "title": "银河系漫游指南",
       "originalTitle": "The Hitchhiker’s Guide to the Galaxy",
@@ -240,6 +446,196 @@
       "synopsis": "英雄被射线变成少年后，通过及时操作拯救同伴。",
       "notes": "",
       "source": "https://www.arcade-museum.com/Videogame/space-ace--cinematronics"
+    },
+    {
+      "id": "g060",
+      "title": "国王密使：王冠之旅",
+      "originalTitle": "King’s Quest: Quest for the Crown",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "动画图文指令／奇幻",
+      "characters": [
+        "格雷厄姆（Graham）",
+        "爱德华国王"
+      ],
+      "charactersNote": "",
+      "synopsis": "骑士格雷厄姆寻找三件宝物，争取成为达文特里王国的继承人。",
+      "notes": "不是全动画激光影碟作品；“动画”指游戏画面的角色移动。",
+      "source": "https://www.sierragamers.com/roberta-williams/"
+    },
+    {
+      "id": "g067",
+      "title": "巫术师",
+      "originalTitle": "Sorcerer",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "纯文本／奇幻解谜",
+      "characters": [
+        "魔法师（玩家）",
+        "Belboz"
+      ],
+      "charactersNote": "",
+      "synopsis": "巫师 Belboz 突然失踪，玩家用咒语追查事件。",
+      "notes": "",
+      "source": "https://www.infocom-if.org/games/sorcerer/sorcerer.html"
+    },
+    {
+      "id": "g068",
+      "title": "深海追踪",
+      "originalTitle": "Seastalker",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "纯文本／海底科幻",
+      "characters": [
+        "青年发明家（玩家）",
+        "Tip"
+      ],
+      "charactersNote": "",
+      "synopsis": "与好友乘小型潜艇，阻止海底研究站遭怪物袭击。",
+      "notes": "",
+      "source": "https://www.infocom-if.org/games/seastalker/seastalker.html"
+    },
+    {
+      "id": "g069",
+      "title": "海底宝藏",
+      "originalTitle": "Cutthroats",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "纯文本／沉船寻宝",
+      "characters": [
+        "潜水员（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "潜入沉船，与各怀目的的同伴争夺宝藏。",
+      "notes": "",
+      "source": "https://www.infocom-if.org/games/cutthroats/cutthroats.html"
+    },
+    {
+      "id": "g070",
+      "title": "嫌疑人",
+      "originalTitle": "Suspect",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "纯文本／推理",
+      "characters": [
+        "记者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "记者在化装舞会上被诬陷杀人，必须自行找出凶手。",
+      "notes": "",
+      "source": "https://www.infocom-if.org/games/suspect/suspect.html"
+    },
+    {
+      "id": "g076",
+      "title": "死亡陷阱",
+      "originalTitle": "ザ・デストラップ",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文指令／谍报冒险",
+      "characters": [
+        "情报员 Benson",
+        "Dr. Gitan"
+      ],
+      "charactersNote": "",
+      "synopsis": "扮演情报员，营救被反政府武装绑架的科学家。",
+      "notes": "主人公 Benson 的姓名由续作《Will》说明。",
+      "source": "https://fm-7.com/museum/products/1xukf90e/"
+    },
+    {
+      "id": "g077",
+      "title": "沙拉王国的番茄公主",
+      "originalTitle": "サラダの国のトマト姫",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文指令／童话",
+      "characters": [
+        "黄瓜战士（玩家）",
+        "番茄公主",
+        "南瓜大王"
+      ],
+      "charactersNote": "",
+      "synopsis": "黄瓜战士前往沙拉王国营救被南瓜大王囚禁的公主。",
+      "notes": "1984 年 PC 指令版与 1988 年红白机命令菜单版分开记录。",
+      "source": "https://fm-7.com/museum/products/zyh0e5dv/"
+    },
+    {
+      "id": "g078",
+      "title": "扎斯：夺回人工智能猎户座",
+      "originalTitle": "ザース 人工頭脳オリオンの奪還",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文指令／科幻",
+      "characters": [
+        "少女（姓名待核）"
+      ],
+      "charactersNote": "",
+      "synopsis": "以夺回“猎户座”人工智能为目标，探索科幻场景。",
+      "notes": "少女姓名和具体剧情细节缺少可靠说明；不把静态图文误记为互动动画。",
+      "source": "https://fm-7.com/museum/products/3txek9px/"
+    },
+    {
+      "id": "g079",
+      "title": "翼人",
+      "originalTitle": "ウイングマン",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文指令／漫画改编",
+      "characters": [
+        "广野健太",
+        "梦葵（葵）"
+      ],
+      "charactersNote": "",
+      "synopsis": "化身漫画主角，夺回被反派夺走的梦之笔记本。",
+      "notes": "漫画改编冒险，不因少女角色而自动归入 Galgame。",
+      "source": "https://fm-7.com/museum/products/aao3ghzi/"
+    },
+    {
+      "id": "g083",
+      "title": "雷霆风暴／眼镜蛇指令",
+      "originalTitle": "サンダーストーム / Cobra Command",
+      "firstYear": 1984,
+      "category": "互动动画",
+      "genre": "激光影碟／动画射击",
+      "characters": [
+        "直升机驾驶员（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "驾驶直升机穿过多个战区，最终攻击敌方总部。",
+      "notes": "",
+      "source": "https://www.arcade-museum.com/Videogame/cobra-command"
+    },
+    {
+      "id": "g084",
+      "title": "忍者疾风",
+      "originalTitle": "忍者ハヤテ",
+      "firstYear": 1984,
+      "category": "互动动画",
+      "genre": "激光影碟／动画动作选择",
+      "characters": [
+        "疾风（ハヤテ）",
+        "被掳走的公主"
+      ],
+      "charactersNote": "",
+      "synopsis": "忍者疾风闯入城堡，破解机关并救出公主。",
+      "notes": "",
+      "source": "https://www.taito.co.jp/mob/topics/26255"
+    },
+    {
+      "id": "g088",
+      "title": "泰拉 4001",
+      "originalTitle": "テラ4001",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "genre": "图文指令／科幻",
+      "characters": [
+        "星亚瑟（玩家）",
+        "Antonio Inoshin",
+        "Gondar"
+      ],
+      "charactersNote": "",
+      "synopsis": "星亚瑟传奇第三部，角色在可移动的场景中继续宇宙冒险。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/crs8l0ue/"
     },
     {
       "id": "g014",
@@ -326,6 +722,113 @@
       "synopsis": "人工智能进入模拟未来，观察一项政策对社会生活的长期影响。",
       "notes": "以观察与叙事为重；与常见的物品解谜冒险不同。",
       "source": "https://www.infocom-if.org/games/amfv/amfv.html"
+    },
+    {
+      "id": "g061",
+      "title": "国王密使 II：浪漫王座",
+      "originalTitle": "King’s Quest II: Romancing the Throne",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "动画图文指令／童话",
+      "characters": [
+        "格雷厄姆（Graham）",
+        "瓦兰妮丝（Valanice）"
+      ],
+      "charactersNote": "",
+      "synopsis": "成为国王的格雷厄姆进入异国，寻钥匙解救被囚的瓦兰妮丝。",
+      "notes": "",
+      "source": "https://www.sierragamers.com/kings-quest-2/"
+    },
+    {
+      "id": "g071",
+      "title": "许愿石",
+      "originalTitle": "Wishbringer",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "纯文本／轻奇幻",
+      "characters": [
+        "邮差（玩家）",
+        "黑猫"
+      ],
+      "charactersNote": "",
+      "synopsis": "送信到魔法商店后卷入寻猫和争夺神奇石头的事件。",
+      "notes": "",
+      "source": "https://www.infocom-if.org/games/wishbringer/wishbringer.html"
+    },
+    {
+      "id": "g072",
+      "title": "破咒者",
+      "originalTitle": "Spellbreaker",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "纯文本／奇幻解谜",
+      "characters": [
+        "魔法师（玩家）",
+        "Belboz"
+      ],
+      "charactersNote": "",
+      "synopsis": "魔法开始失效，魔法师公会寻找危机源头。",
+      "notes": "",
+      "source": "https://www.infocom-if.org/games/spellbreaker/spellbreaker.html"
+    },
+    {
+      "id": "g080",
+      "title": "阿兹特克",
+      "originalTitle": "アステカ",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "图文指令／考古探险",
+      "characters": [
+        "Wilson 博士"
+      ],
+      "charactersNote": "",
+      "synopsis": "寻找玛雅文书，并调查 Wilson 博士失踪之谜。",
+      "notes": "",
+      "source": "https://fm-7.com/museum/products/qagni9o7/"
+    },
+    {
+      "id": "g081",
+      "title": "Will：死亡陷阱 II",
+      "originalTitle": "Will: The Death Trap II",
+      "firstYear": 1985,
+      "category": "文字冒险",
+      "genre": "图文指令／科幻谍报",
+      "characters": [
+        "Benson",
+        "Aisha"
+      ],
+      "charactersNote": "",
+      "synopsis": "恐吓讯息威胁消灭地球生命，情报员 Benson 登岛追查。",
+      "notes": "与 1984 年《死亡陷阱》为前后两作；角色配音未见可靠证据。",
+      "source": "https://www.gamepres.org/pc88/library/1985/1985_9.htm"
+    },
+    {
+      "id": "g085",
+      "title": "公路追击",
+      "originalTitle": "ロードブラスター / Road Blaster",
+      "firstYear": 1985,
+      "category": "互动动画",
+      "genre": "激光影碟／动画赛车动作",
+      "characters": [
+        "驾驶者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "驾驶改装汽车追查害死妻子的车队。",
+      "notes": "",
+      "source": "https://www.arcade-museum.com/Videogame/road-blaster"
+    },
+    {
+      "id": "g086",
+      "title": "妖精公寓",
+      "originalTitle": "Fairie's Residence",
+      "firstYear": 1985,
+      "category": "Galgame",
+      "genre": "美少女／图文探索与小游戏",
+      "characters": [],
+      "charactersNote": "主要角色待可靠资料核实",
+      "synopsis": "探索八间房间与人物对话，进入不同的解谜和小游戏。",
+      "notes": "当时归为成人向冒险；含小游戏，不能按后世恋爱视觉小说的定义理解。",
+      "source": "https://fm-7.com/museum/products/9sufuw5m/"
     },
     {
       "id": "g019",
@@ -915,6 +1418,39 @@
       "source": "https://infocom-if.org/company/company.html"
     },
     {
+      "id": "g057-v1",
+      "workId": "g057",
+      "year": 1980,
+      "platform": "Apple II",
+      "publisher": "On-Line Systems",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "彩色静态插图与文字指令。",
+      "source": "https://www.sierragamers.com/roberta-williams/"
+    },
+    {
+      "id": "g058-v1",
+      "workId": "g058",
+      "year": 1981,
+      "platform": "Apple II",
+      "publisher": "On-Line Systems",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "英文指令与彩色场景。",
+      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/001_On_Line_Letter_Volume_1_Number_1_June_1981.pdf"
+    },
+    {
+      "id": "g062-v1",
+      "workId": "g062",
+      "year": 1981,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发／早期多机种",
+      "voice": "无",
+      "differences": "此处合并同年早期计算机平台；具体机种日期待核实。",
+      "source": "https://www.infocom-if.org/games/zork2/zork2.html"
+    },
+    {
       "id": "g003-v1",
       "workId": "g003",
       "year": 1982,
@@ -946,6 +1482,50 @@
       "voice": "无",
       "differences": "按广义早期美少女游戏收录；不是视觉小说。",
       "source": "https://fm-7.com/museum/products/7bj82lkr/"
+    },
+    {
+      "id": "g057-v2",
+      "workId": "g057",
+      "year": 1982,
+      "platform": "IBM PC",
+      "publisher": "IBM",
+      "kind": "Adventure in Serenia 版本",
+      "voice": "无",
+      "differences": "以不同标题发行的 IBM 移植版。",
+      "source": "https://www.sierragamers.com/hi-res/"
+    },
+    {
+      "id": "g059-v1",
+      "workId": "g059",
+      "year": 1982,
+      "platform": "Apple II",
+      "publisher": "On-Line Systems",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "多张磁盘的跨时代图文冒险。",
+      "source": "https://www.sierragamers.com/hi-res/"
+    },
+    {
+      "id": "g063-v1",
+      "workId": "g063",
+      "year": 1982,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发／早期多机种",
+      "voice": "无",
+      "differences": "同年发行机种与先后顺序仍待逐台核实。",
+      "source": "https://www.infocom-if.org/games/zork3/zork3.html"
+    },
+    {
+      "id": "g064-v1",
+      "workId": "g064",
+      "year": 1982,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发／早期多机种",
+      "voice": "无",
+      "differences": "以文字命令探索外星飞船；机种明细待核实。",
+      "source": "https://www.infocom-if.org/games/starcross/starcross.html"
     },
     {
       "id": "g006-v1",
@@ -1025,6 +1605,116 @@
       "source": "https://www.infocom-if.org/games/games.html"
     },
     {
+      "id": "g057-v3",
+      "workId": "g057",
+      "year": 1983,
+      "platform": "FM-7",
+      "publisher": "スタークラフト",
+      "kind": "日本移植",
+      "voice": "无",
+      "differences": "由 Starcraft 移植，画面与平台适配有别于 Apple II。",
+      "source": "https://fm-7.com/museum/products/gcdtmjc7/"
+    },
+    {
+      "id": "g058-v2",
+      "workId": "g058",
+      "year": 1983,
+      "platform": "FM-7",
+      "publisher": "スタークラフト",
+      "kind": "日本移植",
+      "voice": "无",
+      "differences": "日本 FM-7 平台移植；追寻宅邸中的宝藏。",
+      "source": "https://fm-7.com/museum/products/0mvxzwag/"
+    },
+    {
+      "id": "g065-v1",
+      "workId": "g065",
+      "year": 1983,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发／早期多机种",
+      "voice": "无",
+      "differences": "依据 Infocom 年表与作者资料记为 1983 年；各机种另待核实。",
+      "source": "https://www.infocom-if.org/authors/galley.html"
+    },
+    {
+      "id": "g066-v1",
+      "workId": "g066",
+      "year": 1983,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发／早期多机种",
+      "voice": "无",
+      "differences": "沙漠求生与古迹探索；机种明细待核实。",
+      "source": "https://www.infocom-if.org/games/infidel/infidel.html"
+    },
+    {
+      "id": "g073-v1",
+      "workId": "g073",
+      "year": 1983,
+      "platform": "FM-7",
+      "publisher": "T&E SOFT",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "档案列 FM-7 为原始机种，采用指令与画面目标选择。",
+      "source": "https://fm-7.com/museum/products/tocvx2b8/"
+    },
+    {
+      "id": "g074-v1",
+      "workId": "g074",
+      "year": 1983,
+      "platform": "X1D",
+      "publisher": "ハドソンソフト",
+      "kind": "首发机种",
+      "voice": "无",
+      "differences": "档案将 X1D 列为原始机种；准确先后月份待核实。",
+      "source": "https://fm-7.com/museum/products/zd9clwc4/"
+    },
+    {
+      "id": "g074-v2",
+      "workId": "g074",
+      "year": 1983,
+      "platform": "FM-7",
+      "publisher": "ハドソンソフト",
+      "kind": "移植",
+      "voice": "无",
+      "differences": "FM-7 图文指令版；与 X1D 同年，月份待核实。",
+      "source": "https://fm-7.com/museum/products/zd9clwc4/"
+    },
+    {
+      "id": "g075-v1",
+      "workId": "g075",
+      "year": 1983,
+      "platform": "FM-7",
+      "publisher": "チャンピオンソフト",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "附立体眼镜的图文冒险；有音乐但角色人声未见证据。",
+      "source": "https://fm-7.com/museum/products/91e3ra67/"
+    },
+    {
+      "id": "g082-v1",
+      "workId": "g082",
+      "year": 1983,
+      "platform": "街机",
+      "publisher": "Data East",
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "动画影碟穿插射击环节；非文字分支视觉小说。",
+      "source": "https://www.arcade-museum.com/Videogame/begas-battle"
+    },
+    {
+      "id": "g087-v1",
+      "workId": "g087",
+      "year": 1983,
+      "platform": "FM-7",
+      "publisher": "T&E SOFT",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "前作续篇，另有几段 3D 射击；角色人声未见证据。",
+      "source": "https://fm-7.com/museum/products/gttnk7za/"
+    },
+    {
       "id": "g011-v1",
       "workId": "g011",
       "year": 1984,
@@ -1067,6 +1757,171 @@
       "voice": "有",
       "differences": "激光影碟播放手绘动画；按时操作决定分支。",
       "source": "https://www.arcade-museum.com/Videogame/space-ace--cinematronics"
+    },
+    {
+      "id": "g060-v1",
+      "workId": "g060",
+      "year": 1984,
+      "platform": "IBM PCjr",
+      "publisher": "IBM",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "移动角色与输入指令相结合的早期动画冒险。",
+      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/Kings_Quest_1_Manual_1_IBM_Version.pdf"
+    },
+    {
+      "id": "g060-v2",
+      "workId": "g060",
+      "year": 1984,
+      "platform": "IBM PC / DOS",
+      "publisher": "Sierra On-Line",
+      "kind": "PC 移植",
+      "voice": "无",
+      "differences": "一般 PC 发行版与原 PCjr 版的硬件适配不同。",
+      "source": "https://www.sierragamers.com/kq1-grey-box/"
+    },
+    {
+      "id": "g067-v1",
+      "workId": "g067",
+      "year": 1984,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发／早期多机种",
+      "voice": "无",
+      "differences": "《Enchanter》的系列后续，需收集和运用咒语。",
+      "source": "https://www.infocom-if.org/games/sorcerer/sorcerer.html"
+    },
+    {
+      "id": "g068-v1",
+      "workId": "g068",
+      "year": 1984,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发／早期多机种",
+      "voice": "无",
+      "differences": "面向较年轻读者的文字冒险。",
+      "source": "https://www.infocom-if.org/games/seastalker/seastalker.html"
+    },
+    {
+      "id": "g069-v1",
+      "workId": "g069",
+      "year": 1984,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发／早期多机种",
+      "voice": "无",
+      "differences": "不同开局可能指向不同沉船。",
+      "source": "https://www.infocom-if.org/games/cutthroats/cutthroats.html"
+    },
+    {
+      "id": "g070-v1",
+      "workId": "g070",
+      "year": 1984,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发／早期多机种",
+      "voice": "无",
+      "differences": "从被怀疑者的视角搜集线索。",
+      "source": "https://www.infocom-if.org/games/suspect/suspect.html"
+    },
+    {
+      "id": "g076-v1",
+      "workId": "g076",
+      "year": 1984,
+      "platform": "PC-8801",
+      "publisher": "スクウェア",
+      "kind": "原始机种",
+      "voice": "无",
+      "differences": "档案认定 PC-8801 为原始平台；以指令和静态图像推进。",
+      "source": "https://fm-7.com/museum/products/1xukf90e/"
+    },
+    {
+      "id": "g076-v2",
+      "workId": "g076",
+      "year": 1984,
+      "platform": "FM-7",
+      "publisher": "スクウェア",
+      "kind": "同年移植",
+      "voice": "无",
+      "differences": "FM-7 馆藏标注 1984 年 12 月；与 PC 版分开。",
+      "source": "https://fm-7.com/museum/products/1xukf90e/"
+    },
+    {
+      "id": "g077-v1",
+      "workId": "g077",
+      "year": 1984,
+      "platform": "PC-8801",
+      "publisher": "ハドソンソフト",
+      "kind": "早期 PC 版",
+      "voice": "无",
+      "differences": "1984 年 7 月 PC-8801 版；日文指令图文冒险。",
+      "source": "https://www.gamepres.org/pc88/library/1984/1984_7.htm"
+    },
+    {
+      "id": "g077-v2",
+      "workId": "g077",
+      "year": 1984,
+      "platform": "FM-7",
+      "publisher": "ハドソンソフト",
+      "kind": "同年多机种版",
+      "voice": "无",
+      "differences": "FM-7 馆藏确认 1984 年，未确认与 PC-8801 的发行先后。",
+      "source": "https://fm-7.com/museum/products/zyh0e5dv/"
+    },
+    {
+      "id": "g078-v1",
+      "workId": "g078",
+      "year": 1984,
+      "platform": "FM-7",
+      "publisher": "エニックス",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "馆藏列 FM-7 为原始机种，画面受科幻动画影响。",
+      "source": "https://fm-7.com/museum/products/3txek9px/"
+    },
+    {
+      "id": "g079-v1",
+      "workId": "g079",
+      "year": 1984,
+      "platform": "PC-8801",
+      "publisher": "エニックス",
+      "kind": "原始 PC 版",
+      "voice": "无",
+      "differences": "1984 年 11 月 PC-8801 版；角色名以原作设定为背景。",
+      "source": "https://www.gamepres.org/pc88/library/1984/1984_11.htm"
+    },
+    {
+      "id": "g083-v1",
+      "workId": "g083",
+      "year": 1984,
+      "platform": "街机",
+      "publisher": "Data East",
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "日本名《Thunder Storm》，海外街机名《Cobra Command》；与 1988 年同名射击游戏无关。",
+      "source": "https://www.arcade-museum.com/Videogame/cobra-command"
+    },
+    {
+      "id": "g084-v1",
+      "workId": "g084",
+      "year": 1984,
+      "platform": "街机",
+      "publisher": "TAITO",
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "激光影碟播放动画，按提示决定动作；角色配音范围待核实。",
+      "source": "https://www.taito.co.jp/mob/topics/26255"
+    },
+    {
+      "id": "g088-v1",
+      "workId": "g088",
+      "year": 1984,
+      "platform": "FM-7",
+      "publisher": "T&E SOFT",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "含角色移动、飞行及简化战斗等混合玩法。",
+      "source": "https://fm-7.com/museum/products/crs8l0ue/"
     },
     {
       "id": "g007-v2",
@@ -1146,6 +2001,105 @@
       "source": "https://www.infocom-if.org/games/games.html"
     },
     {
+      "id": "g061-v1",
+      "workId": "g061",
+      "year": 1985,
+      "platform": "IBM PC / DOS",
+      "publisher": "Sierra On-Line",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "沿用指令输入与角色移动的图文冒险。",
+      "source": "https://www.sierragamers.com/kings-quest-2/"
+    },
+    {
+      "id": "g071-v1",
+      "workId": "g071",
+      "year": 1985,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发／早期多机种",
+      "voice": "无",
+      "differences": "较易入门的文字解谜冒险。",
+      "source": "https://www.infocom-if.org/games/wishbringer/wishbringer.html"
+    },
+    {
+      "id": "g072-v1",
+      "workId": "g072",
+      "year": 1985,
+      "platform": "家用计算机",
+      "publisher": "Infocom",
+      "kind": "首发／早期多机种",
+      "voice": "无",
+      "differences": "《Enchanter》系列第三部，围绕失控的魔法展开。",
+      "source": "https://www.infocom-if.org/games/spellbreaker/spellbreaker.html"
+    },
+    {
+      "id": "g079-v2",
+      "workId": "g079",
+      "year": 1985,
+      "platform": "FM-7",
+      "publisher": "エニックス",
+      "kind": "移植",
+      "voice": "无",
+      "differences": "FM-7 馆藏记 1985 年 3 月；加入平台适配。",
+      "source": "https://fm-7.com/museum/products/aao3ghzi/"
+    },
+    {
+      "id": "g080-v1",
+      "workId": "g080",
+      "year": 1985,
+      "platform": "PC-8801",
+      "publisher": "日本ファルコム",
+      "kind": "原始机种",
+      "voice": "无",
+      "differences": "PC-8801 初版；具体月份的二手档案有差异，按年登记。",
+      "source": "https://www.falcom.co.jp/games-data/egg_asteka_pc8801"
+    },
+    {
+      "id": "g080-v2",
+      "workId": "g080",
+      "year": 1985,
+      "platform": "FM-7",
+      "publisher": "日本ファルコム",
+      "kind": "同年移植",
+      "voice": "无",
+      "differences": "FM-7 馆藏记为 1985 年 6 月，采用局部实景图像。",
+      "source": "https://fm-7.com/museum/products/qagni9o7/"
+    },
+    {
+      "id": "g081-v1",
+      "workId": "g081",
+      "year": 1985,
+      "platform": "PC-8801",
+      "publisher": "スクウェア",
+      "kind": "首发",
+      "voice": "无",
+      "differences": "图文指令冒险采用更多局部动画和对话模式；非激光影碟电影。",
+      "source": "https://www.gamepres.org/pc88/library/1985/1985_9.htm"
+    },
+    {
+      "id": "g085-v1",
+      "workId": "g085",
+      "year": 1985,
+      "platform": "街机",
+      "publisher": "Data East",
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "东映制作动画影像，按指示操作车辆。",
+      "source": "https://www.arcade-museum.com/Videogame/road-blaster"
+    },
+    {
+      "id": "g086-v1",
+      "workId": "g086",
+      "year": 1985,
+      "platform": "FM-7",
+      "publisher": "チャンピオンソフト",
+      "kind": "早期 PC 版",
+      "voice": "无",
+      "differences": "馆藏确认 FM-7 版本；最初发行机种未核定。",
+      "source": "https://fm-7.com/museum/products/9sufuw5m/"
+    },
+    {
       "id": "g012-v2",
       "workId": "g012",
       "year": 1987,
@@ -1177,6 +2131,17 @@
       "voice": "无",
       "differences": "PC初版以指令调查为核心。",
       "source": "https://www.konami.com/corporate/ja/history/product.html"
+    },
+    {
+      "id": "g077-v3",
+      "workId": "g077",
+      "year": 1988,
+      "platform": "红白机",
+      "publisher": "ハドソンソフト",
+      "kind": "主机改编",
+      "voice": "无",
+      "differences": "用屏幕命令菜单取代电脑版键盘输入，画面与内容重制。",
+      "source": "https://www.nintendo.co.jp/wii/vc/vc_skt/vc_skt_01.html"
     },
     {
       "id": "g020-v1",
@@ -2059,6 +3024,17 @@
       "source": "https://store.steampowered.com/app/2432100/ONE/"
     },
     {
+      "id": "g084-v2",
+      "workId": "g084",
+      "year": 2023,
+      "platform": "Nintendo Switch",
+      "publisher": "TAITO",
+      "kind": "HD 复刻",
+      "voice": "未核实",
+      "differences": "《TAITO LD Game Collection》收录，以高清影像呈现。",
+      "source": "https://www.taito.co.jp/mob/topics/26135"
+    },
+    {
       "id": "g012-v3",
       "workId": "g012",
       "year": 2024,
@@ -2288,6 +3264,17 @@
       "voice": "无",
       "differences": "免费本篇升级高清；Plus 的支线和画廊作为付费扩展。",
       "source": "https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/"
+    },
+    {
+      "id": "g084-v3",
+      "workId": "g084",
+      "year": 2025,
+      "platform": "Steam",
+      "publisher": "TAITO",
+      "kind": "HD 复刻数字版",
+      "voice": "未核实",
+      "differences": "单独发行的 HD 移植；商店与日本公告跨时区日期有一天差异。",
+      "source": "https://www.taito.co.jp/mob/topics/36776"
     }
   ]
 }

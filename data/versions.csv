@@ -1,9 +1,16 @@
 ﻿作品ID,版本ID,作品名称,原文名称,主分类,游戏类型,主要角色,发行年份,平台,发行公司,版本类型,配音,版本差异,来源
 g001,g001-v1,神秘屋,Mystery House,文字冒险,图文指令／悬疑,待核实,1980,Apple II,On-Line Systems,首发,无,最早商业发行版。,https://www.sierragamers.com/ken-williams/
 g002,g002-v1,佐克 I,Zork I: The Great Underground Empire,文字冒险,纯文本／奇幻解谜,待核实,1980,家用计算机,Infocom,首发,无,按 Infocom 商业版；早期大型机 Zork 不并入。,https://infocom-if.org/company/company.html
+g057,g057-v1,巫师与公主,The Wizard and the Princess,文字冒险,彩色图文指令／奇幻,冒险者（玩家）、普莉西拉公主、巫师 Harlin,1980,Apple II,On-Line Systems,首发,无,彩色静态插图与文字指令。,https://www.sierragamers.com/roberta-williams/
+g058,g058-v1,克兰斯顿庄园,Cranston Manor,文字冒险,彩色图文指令／寻宝,寻宝者（玩家）、克兰斯顿,1981,Apple II,On-Line Systems,首发,无,英文指令与彩色场景。,https://www.sierragamers.com/wp-content/uploads/2019/12/001_On_Line_Letter_Volume_1_Number_1_June_1981.pdf
+g062,g062-v1,佐克 II,Zork II: The Wizard of Frobozz,文字冒险,纯文本／奇幻解谜,冒险者（玩家）、Frobozz 巫师,1981,家用计算机,Infocom,首发／早期多机种,无,此处合并同年早期计算机平台；具体机种日期待核实。,https://www.infocom-if.org/games/zork2/zork2.html
 g003,g003-v1,Deadline,Deadline,文字冒险,纯文本／推理,待核实,1982,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://infocom-if.org/games/games.html
 g004,g004-v1,夜生活,ナイトライフ,Galgame,成人向／生活工具,待核实,1982,日本个人计算机,光荣,首发,无,历史作品；严格说并非典型恋爱叙事游戏。,https://www.famitsu.com/news/202312/10327281.html
 g005,g005-v1,Lolita：野球拳,ロリータ～野球拳,Galgame,成人向／猜拳,待核实,1982,FM-7 等,PSK,首发,无,按广义早期美少女游戏收录；不是视觉小说。,https://fm-7.com/museum/products/7bj82lkr/
+g057,g057-v2,巫师与公主,The Wizard and the Princess,文字冒险,彩色图文指令／奇幻,冒险者（玩家）、普莉西拉公主、巫师 Harlin,1982,IBM PC,IBM,Adventure in Serenia 版本,无,以不同标题发行的 IBM 移植版。,https://www.sierragamers.com/hi-res/
+g059,g059-v1,时区,Time Zone,文字冒险,彩色图文指令／时间旅行,旅行者（玩家）,1982,Apple II,On-Line Systems,首发,无,多张磁盘的跨时代图文冒险。,https://www.sierragamers.com/hi-res/
+g063,g063-v1,佐克 III,Zork III: The Dungeon Master,文字冒险,纯文本／奇幻解谜,冒险者（玩家）、地下城主,1982,家用计算机,Infocom,首发／早期多机种,无,同年发行机种与先后顺序仍待逐台核实。,https://www.infocom-if.org/games/zork3/zork3.html
+g064,g064-v1,星际交汇,Starcross,文字冒险,纯文本／科幻探索,黑洞矿工（玩家）,1982,家用计算机,Infocom,首发／早期多机种,无,以文字命令探索外星飞船；机种明细待核实。,https://www.infocom-if.org/games/starcross/starcross.html
 g006,g006-v1,Planetfall,Planetfall,文字冒险,纯文本／科幻,待核实,1983,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://www.infocom-if.org/authors/meretzky.html
 g007,g007-v1,波多比亚连续杀人事件,ポートピア連続殺人事件,文字冒险,图文指令／推理,刑警（玩家）、ヤス,1983,日本个人计算机,艾尼克斯,首发,无,此处文字冒险包括图文指令游戏。,https://fm-7.com/museum/products/k6sufaqm/
 g008,g008-v1,玛丽酱危机一发,マリちゃん危機一髪,Galgame,美少女／解救冒险,玛丽,1983,PC-8801 等,艾尼克斯,首发,无,部分版本附有磁带人声；不等同游戏内角色配音。,https://fm-7.com/museum/products/1paitdl4/
@@ -11,10 +18,35 @@ g009,g009-v1,团地妻的诱惑,団地妻の誘惑,Galgame,成人向／冒险,�
 g010,g010-v1,龙穴历险记,Dragon’s Lair,互动动画,激光影碟／动作选择,德克（Dirk）、达芙妮（Daphne）,1983,街机,Cinematronics,首发,有,美国街机原版。,https://www.arcade-history.com/game/702/
 g041,g041-v1,悬置,Suspended,文字冒险,纯文本／科幻解谜,IRIS、WALDO、AUDA、POET,1983,家用计算机,Infocom,首发,无,文字指令控制不同机器人完成修复。,https://www.infocom-if.org/games/games.html
 g042,g042-v1,魔法师,Enchanter,文字冒险,纯文本／奇幻解谜,见习魔法师（玩家）、Krill,1983,家用计算机,Infocom,首发,无,咒语收集与解析器指令是主要玩法。,https://www.infocom-if.org/games/games.html
+g057,g057-v3,巫师与公主,The Wizard and the Princess,文字冒险,彩色图文指令／奇幻,冒险者（玩家）、普莉西拉公主、巫师 Harlin,1983,FM-7,スタークラフト,日本移植,无,由 Starcraft 移植，画面与平台适配有别于 Apple II。,https://fm-7.com/museum/products/gcdtmjc7/
+g058,g058-v2,克兰斯顿庄园,Cranston Manor,文字冒险,彩色图文指令／寻宝,寻宝者（玩家）、克兰斯顿,1983,FM-7,スタークラフト,日本移植,无,日本 FM-7 平台移植；追寻宅邸中的宝藏。,https://fm-7.com/museum/products/0mvxzwag/
+g065,g065-v1,目击者,The Witness,文字冒险,纯文本／侦探推理,警探（玩家）、Duffy 警佐,1983,家用计算机,Infocom,首发／早期多机种,无,依据 Infocom 年表与作者资料记为 1983 年；各机种另待核实。,https://www.infocom-if.org/authors/galley.html
+g066,g066-v1,异教徒,Infidel,文字冒险,纯文本／考古冒险,探险者（玩家）,1983,家用计算机,Infocom,首发／早期多机种,无,沙漠求生与古迹探索；机种明细待核实。,https://www.infocom-if.org/games/infidel/infidel.html
+g073,g073-v1,惑星梅菲乌斯,惑星メフィウス,文字冒险,图文指令／科幻,星亚瑟（玩家）,1983,FM-7,T&E SOFT,首发,无,档案列 FM-7 为原始机种，采用指令与画面目标选择。,https://fm-7.com/museum/products/tocvx2b8/
+g074,g074-v1,德泽尼乐园,デゼニランド,文字冒险,图文指令／游乐园解谜,寻宝者（玩家）,1983,X1D,ハドソンソフト,首发机种,无,档案将 X1D 列为原始机种；准确先后月份待核实。,https://fm-7.com/museum/products/zd9clwc4/
+g074,g074-v2,德泽尼乐园,デゼニランド,文字冒险,图文指令／游乐园解谜,寻宝者（玩家）,1983,FM-7,ハドソンソフト,移植,无,FM-7 图文指令版；与 X1D 同年，月份待核实。,https://fm-7.com/museum/products/zd9clwc4/
+g075,g075-v1,四次元少女莉迪亚,四次元少女リディア,文字冒险,图文指令／科幻故事,调查员（玩家）、Trigger 博士,1983,FM-7,チャンピオンソフト,首发,无,附立体眼镜的图文冒险；有音乐但角色人声未见证据。,https://fm-7.com/museum/products/91e3ra67/
+g082,g082-v1,贝加之战,Bega's Battle,互动动画,激光影碟／动画射击,Bega、Luna、Jobe、Sony、Varge,1983,街机,Data East,首发,未核实,动画影碟穿插射击环节；非文字分支视觉小说。,https://www.arcade-museum.com/Videogame/begas-battle
+g087,g087-v1,暗黑星云,暗黒星雲,文字冒险,图文指令／科幻,星亚瑟（玩家）,1983,FM-7,T&E SOFT,首发,无,前作续篇，另有几段 3D 射击；角色人声未见证据。,https://fm-7.com/museum/products/gttnk7za/
 g011,g011-v1,银河系漫游指南,The Hitchhiker’s Guide to the Galaxy,文字冒险,纯文本／科幻喜剧,亚瑟·登特、福特·普里费克特,1984,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://infocom-if.org/games/games.html
 g012,g012-v1,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,1984,PC-8801 等,ASCII（LOGIN SOFT）,首发,无,1984 年 PC 原版；FM-7 移植在 1985 年。,https://www.gamepres.org/pc88/library/1984/ohotsuku.htm
 g013,g013-v1,荷兰妻会梦见电鳗吗？,オランダ妻は電気ウナギの夢を見るか？,Galgame,成人向／冒险,待核实,1984,日本个人计算机,光荣,首发,无,首发 1984；FM-7 版登记为 1985 年。,https://www.famitsu.com/news/202312/10327281.html
 g044,g044-v1,太空王牌,Space Ace,互动动画,激光影碟／动画动作选择,Ace / Dexter、Kimberly、Borf,1984,街机,Cinematronics,首发,有,激光影碟播放手绘动画；按时操作决定分支。,https://www.arcade-museum.com/Videogame/space-ace--cinematronics
+g060,g060-v1,国王密使：王冠之旅,King’s Quest: Quest for the Crown,文字冒险,动画图文指令／奇幻,格雷厄姆（Graham）、爱德华国王,1984,IBM PCjr,IBM,首发,无,移动角色与输入指令相结合的早期动画冒险。,https://www.sierragamers.com/wp-content/uploads/2019/12/Kings_Quest_1_Manual_1_IBM_Version.pdf
+g060,g060-v2,国王密使：王冠之旅,King’s Quest: Quest for the Crown,文字冒险,动画图文指令／奇幻,格雷厄姆（Graham）、爱德华国王,1984,IBM PC / DOS,Sierra On-Line,PC 移植,无,一般 PC 发行版与原 PCjr 版的硬件适配不同。,https://www.sierragamers.com/kq1-grey-box/
+g067,g067-v1,巫术师,Sorcerer,文字冒险,纯文本／奇幻解谜,魔法师（玩家）、Belboz,1984,家用计算机,Infocom,首发／早期多机种,无,《Enchanter》的系列后续，需收集和运用咒语。,https://www.infocom-if.org/games/sorcerer/sorcerer.html
+g068,g068-v1,深海追踪,Seastalker,文字冒险,纯文本／海底科幻,青年发明家（玩家）、Tip,1984,家用计算机,Infocom,首发／早期多机种,无,面向较年轻读者的文字冒险。,https://www.infocom-if.org/games/seastalker/seastalker.html
+g069,g069-v1,海底宝藏,Cutthroats,文字冒险,纯文本／沉船寻宝,潜水员（玩家）,1984,家用计算机,Infocom,首发／早期多机种,无,不同开局可能指向不同沉船。,https://www.infocom-if.org/games/cutthroats/cutthroats.html
+g070,g070-v1,嫌疑人,Suspect,文字冒险,纯文本／推理,记者（玩家）,1984,家用计算机,Infocom,首发／早期多机种,无,从被怀疑者的视角搜集线索。,https://www.infocom-if.org/games/suspect/suspect.html
+g076,g076-v1,死亡陷阱,ザ・デストラップ,文字冒险,图文指令／谍报冒险,情报员 Benson、Dr. Gitan,1984,PC-8801,スクウェア,原始机种,无,档案认定 PC-8801 为原始平台；以指令和静态图像推进。,https://fm-7.com/museum/products/1xukf90e/
+g076,g076-v2,死亡陷阱,ザ・デストラップ,文字冒险,图文指令／谍报冒险,情报员 Benson、Dr. Gitan,1984,FM-7,スクウェア,同年移植,无,FM-7 馆藏标注 1984 年 12 月；与 PC 版分开。,https://fm-7.com/museum/products/1xukf90e/
+g077,g077-v1,沙拉王国的番茄公主,サラダの国のトマト姫,文字冒险,图文指令／童话,黄瓜战士（玩家）、番茄公主、南瓜大王,1984,PC-8801,ハドソンソフト,早期 PC 版,无,1984 年 7 月 PC-8801 版；日文指令图文冒险。,https://www.gamepres.org/pc88/library/1984/1984_7.htm
+g077,g077-v2,沙拉王国的番茄公主,サラダの国のトマト姫,文字冒险,图文指令／童话,黄瓜战士（玩家）、番茄公主、南瓜大王,1984,FM-7,ハドソンソフト,同年多机种版,无,FM-7 馆藏确认 1984 年，未确认与 PC-8801 的发行先后。,https://fm-7.com/museum/products/zyh0e5dv/
+g078,g078-v1,扎斯：夺回人工智能猎户座,ザース 人工頭脳オリオンの奪還,文字冒险,图文指令／科幻,少女（姓名待核）,1984,FM-7,エニックス,首发,无,馆藏列 FM-7 为原始机种，画面受科幻动画影响。,https://fm-7.com/museum/products/3txek9px/
+g079,g079-v1,翼人,ウイングマン,文字冒险,图文指令／漫画改编,广野健太、梦葵（葵）,1984,PC-8801,エニックス,原始 PC 版,无,1984 年 11 月 PC-8801 版；角色名以原作设定为背景。,https://www.gamepres.org/pc88/library/1984/1984_11.htm
+g083,g083-v1,雷霆风暴／眼镜蛇指令,サンダーストーム / Cobra Command,互动动画,激光影碟／动画射击,直升机驾驶员（玩家）,1984,街机,Data East,首发,未核实,日本名《Thunder Storm》，海外街机名《Cobra Command》；与 1988 年同名射击游戏无关。,https://www.arcade-museum.com/Videogame/cobra-command
+g084,g084-v1,忍者疾风,忍者ハヤテ,互动动画,激光影碟／动画动作选择,疾风（ハヤテ）、被掳走的公主,1984,街机,TAITO,首发,未核实,激光影碟播放动画，按提示决定动作；角色配音范围待核实。,https://www.taito.co.jp/mob/topics/26255
+g088,g088-v1,泰拉 4001,テラ4001,文字冒险,图文指令／科幻,星亚瑟（玩家）、Antonio Inoshin、Gondar,1984,FM-7,T&E SOFT,首发,无,含角色移动、飞行及简化战斗等混合玩法。,https://fm-7.com/museum/products/crs8l0ue/
 g007,g007-v2,波多比亚连续杀人事件,ポートピア連続殺人事件,文字冒险,图文指令／推理,刑警（玩家）、ヤス,1985,红白机,艾尼克斯,家庭机移植,未核实,移植时重做指令选择界面；并非1983年PC初版。,https://www.nintendo.co.jp/etc/interview/platinumgames/vol1/index3.html
 g014,g014-v1,时间少女,タイムギャル,互动动画,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,1985,街机,太东,首发,有,日本街机原版。,https://www.taito.co.jp/mob/topics/2587
 g015,g015-v1,天使们的午后,天使たちの午後,Galgame,成人向／学园冒险,白石由美子,1985,PC-8801 等,JAST,首发,无,按 PC-8801 初版；FM-7 移植为 1986 年。,https://www.famitsu.com/news/202312/10327281.html
@@ -22,9 +54,19 @@ g016,g016-v1,东京搭讪街,TOKYOナンパストリート,Galgame,成人向／�
 g017,g017-v1,轻井泽诱拐指南,軽井沢誘拐案内,文字冒险,图文选项／推理,待核实,1985,日本个人计算机,艾尼克斯,首发,无,作品最早确认的版本。,https://fm-7.com/museum/products/iq8kysdi/
 g018,g018-v1,黄金国传奇,エルドラド伝奇,Galgame,成人向／奇幻冒险,待核实,1985,FM-7 等,艾尼克斯,首发,无,作品最早确认的版本。,https://fm-7.com/museum/products/333wukd2/
 g043,g043-v1,永远航行的心灵,A Mind Forever Voyaging,文字冒险,纯文本／科幻叙事,PRISM、Perry Simm,1985,家用计算机,Infocom,首发,无,以多次模拟年代的变化推进故事。,https://www.infocom-if.org/games/games.html
+g061,g061-v1,国王密使 II：浪漫王座,King’s Quest II: Romancing the Throne,文字冒险,动画图文指令／童话,格雷厄姆（Graham）、瓦兰妮丝（Valanice）,1985,IBM PC / DOS,Sierra On-Line,首发,无,沿用指令输入与角色移动的图文冒险。,https://www.sierragamers.com/kings-quest-2/
+g071,g071-v1,许愿石,Wishbringer,文字冒险,纯文本／轻奇幻,邮差（玩家）、黑猫,1985,家用计算机,Infocom,首发／早期多机种,无,较易入门的文字解谜冒险。,https://www.infocom-if.org/games/wishbringer/wishbringer.html
+g072,g072-v1,破咒者,Spellbreaker,文字冒险,纯文本／奇幻解谜,魔法师（玩家）、Belboz,1985,家用计算机,Infocom,首发／早期多机种,无,《Enchanter》系列第三部，围绕失控的魔法展开。,https://www.infocom-if.org/games/spellbreaker/spellbreaker.html
+g079,g079-v2,翼人,ウイングマン,文字冒险,图文指令／漫画改编,广野健太、梦葵（葵）,1985,FM-7,エニックス,移植,无,FM-7 馆藏记 1985 年 3 月；加入平台适配。,https://fm-7.com/museum/products/aao3ghzi/
+g080,g080-v1,阿兹特克,アステカ,文字冒险,图文指令／考古探险,Wilson 博士,1985,PC-8801,日本ファルコム,原始机种,无,PC-8801 初版；具体月份的二手档案有差异，按年登记。,https://www.falcom.co.jp/games-data/egg_asteka_pc8801
+g080,g080-v2,阿兹特克,アステカ,文字冒险,图文指令／考古探险,Wilson 博士,1985,FM-7,日本ファルコム,同年移植,无,FM-7 馆藏记为 1985 年 6 月，采用局部实景图像。,https://fm-7.com/museum/products/qagni9o7/
+g081,g081-v1,Will：死亡陷阱 II,Will: The Death Trap II,文字冒险,图文指令／科幻谍报,Benson、Aisha,1985,PC-8801,スクウェア,首发,无,图文指令冒险采用更多局部动画和对话模式；非激光影碟电影。,https://www.gamepres.org/pc88/library/1985/1985_9.htm
+g085,g085-v1,公路追击,ロードブラスター / Road Blaster,互动动画,激光影碟／动画赛车动作,驾驶者（玩家）,1985,街机,Data East,首发,未核实,东映制作动画影像，按指示操作车辆。,https://www.arcade-museum.com/Videogame/road-blaster
+g086,g086-v1,妖精公寓,Fairie's Residence,Galgame,美少女／图文探索与小游戏,待核实,1985,FM-7,チャンピオンソフト,早期 PC 版,无,馆藏确认 FM-7 版本；最初发行机种未核定。,https://fm-7.com/museum/products/9sufuw5m/
 g012,g012-v2,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,1987,红白机,ASCII,改编移植,未核实,根据PC版重新编排故事与人物表现。,https://www.4gamer.net/games/777/G077714/20240222001/
 g019,g019-v1,No・Ri・Ko,No・Ri・Ko,文字冒险,CD-ROM／偶像互动,小川范子,1988,PC Engine CD-ROM²,Hudson,首发,有,配音与歌曲来自偶像本人；并非 Leaf 式视觉小说。,https://pcefan.com/pcengine/entry15.html
 g040,g040-v1,Snatcher,スナッチャー,文字冒险,科幻／赛博朋克侦探,吉利安·希德、Metal Gear Mk.II,1988,PC-8801,Konami,首发,无,PC初版以指令调查为核心。,https://www.konami.com/corporate/ja/history/product.html
+g077,g077-v3,沙拉王国的番茄公主,サラダの国のトマト姫,文字冒险,图文指令／童话,黄瓜战士（玩家）、番茄公主、南瓜大王,1988,红白机,ハドソンソフト,主机改编,无,用屏幕命令菜单取代电脑版键盘输入，画面与内容重制。,https://www.nintendo.co.jp/wii/vc/vc_skt/vc_skt_01.html
 g020,g020-v1,眼镜蛇：黑龙王的传说,コブラ 黒竜王の伝説,文字冒险,CD-ROM／科幻冒险,眼镜蛇（コブラ）,1989,PC Engine CD-ROM²,Hudson,首发,有,作品最早确认的版本。,https://pcefan.com/pcengine/entry15.html
 g045,g045-v1,龙穴历险记 II：时间扭曲,Dragon's Lair II: Time Warp,互动动画,激光影碟／动画动作选择,德克（Dirk）、达芙妮（Daphne）,1991,街机,Leland,首发,有,延续手绘动画和即时按键玩法。,https://flyers.arcade-museum.com/videogames/show/314
 g021,g021-v1,弟切草,弟切草,视觉小说,有声小说／恐怖,待核实,1992,超级任天堂,Chunsoft,首发,无,“有声小说”指音乐与音效，不保证角色配音。,https://www.spike-chunsoft.co.jp/company/outline/
@@ -105,6 +147,7 @@ g028,g028-v3,Kanon,Kanon,视觉小说,恋爱／奇幻,相泽祐一、月宫亚�
 g047,g047-v2,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,2023,Nintendo Switch,novamicus（NEXTON）,ONE. 重制,有,重绘立绘并加入角色配音；主人公仍不配音。,https://nexton-net.jp/nexton30th/nvm001/
 g047,g047-v3,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,2023,Windows,novamicus（NEXTON）,ONE. 重制,有,重绘立绘并加入角色配音；主人公仍不配音。,https://nexton-net.jp/nexton30th/nvm001/
 g047,g047-v4,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,2023,Steam,novamicus（NEXTON）,ONE. 数字版,有,重绘画面与角色配音；商店显示的跨区日期可能早于日版一天。,https://store.steampowered.com/app/2432100/ONE/
+g084,g084-v2,忍者疾风,忍者ハヤテ,互动动画,激光影碟／动画动作选择,疾风（ハヤテ）、被掳走的公主,2023,Nintendo Switch,TAITO,HD 复刻,未核实,《TAITO LD Game Collection》收录，以高清影像呈现。,https://www.taito.co.jp/mob/topics/26135
 g012,g012-v3,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,2024,Nintendo Switch,G-MODE,重制,有,依据红白机版重制，新增后续故事与人物配音。,https://info.gmodecorp.com/cs/okhotsk/
 g012,g012-v4,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,2024,Windows / Steam,G-MODE,重制,有,与Switch同款重制版；按平台单独登记。,https://info.gmodecorp.com/cs/okhotsk/products/
 g031,g031-v4,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2024,Nintendo Switch,TYPE-MOON,高清复刻,有,基于Vita版，画面高清化并增加多语言文本。,https://typemoon.com/products/f-sn/
@@ -126,3 +169,4 @@ g050,g050-v4,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,�
 g050,g050-v5,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2025,Steam,MAGES.,高清复刻,有,使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。,https://game.mages.co.jp/infinity/ever17/
 g056,g056-v6,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2025,Android,Team Salvato / Serenity Forge,移动版,无,免费本篇升级高清；Plus 的支线和画廊作为付费扩展。,https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/
 g056,g056-v7,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2025,iOS,Team Salvato / Serenity Forge,移动版,无,免费本篇升级高清；Plus 的支线和画廊作为付费扩展。,https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/
+g084,g084-v3,忍者疾风,忍者ハヤテ,互动动画,激光影碟／动画动作选择,疾风（ハヤテ）、被掳走的公主,2025,Steam,TAITO,HD 复刻数字版,未核实,单独发行的 HD 移植；商店与日本公告跨时区日期有一天差异。,https://www.taito.co.jp/mob/topics/36776
