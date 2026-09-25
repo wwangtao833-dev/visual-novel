@@ -43,7 +43,7 @@ async function main(){
     $('stat-works').textContent=data.works.length;
     $('stat-versions').textContent=data.versions.length;
     const years=data.versions.map(v=>v.year);$('stat-years').textContent=Math.min(...years)+'—'+Math.max(...years);
-    const platforms=[...new Set(data.versions.flatMap(v=>v.platform.split(/\s*\/\s*/).map(p=>p.trim())))].sort((a,b)=>a.localeCompare(b,'zh'));
+    const platforms=[...new Set(data.versions.map(v=>v.platform.trim()))].sort((a,b)=>a.localeCompare(b,'zh'));
     for(const p of platforms){const option=label('option','',p);option.value=p;fields.platform.append(option)}
     const render=()=>{
       const matches=filterCatalogue(data,readFilters());
