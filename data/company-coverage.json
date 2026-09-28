@@ -766,6 +766,63 @@
           "source": "https://bangumi.tv/subject/352894"
         }
       ]
+    },
+    {
+      "id": "aniplex_exe",
+      "name": "ANIPLEX.EXE",
+      "checkedAt": "2026-09-28",
+      "status": "官网四部独立作品核对完成",
+      "scope": "按 ANIPLEX.EXE 品牌官网作品和新闻分类核对：第一期两部、第二期一部、第三期一部，共四部独立发行的叙事游戏。电视动画、合集和原声带不另计游戏。",
+      "versionScope": "各主要平台的已发行年份及差异按品牌官网核实，PC 的 Steam、DMM GAMES 和 DLsite 视为同一 Windows 平台；《种拾之歌》另有 DMM 网页版。发行地区、Switch 商店具体署名以及未列出的后续版本仍可继续核实。",
+      "publisherNote": "ANIPLEX.EXE 是 Aniplex 的小说游戏品牌。首发 PC 版署名 ANIPLEX.EXE；《ATRI》和《徒花异谭》的 Switch／手机移植由 iMel 开发及销售，因此主目录的厂商计数会依平台发行署名分配。 《播种之谣》的移动商店账号为 Aniplex Inc.，筛选归入 Aniplex。",
+      "workIds": [
+        "g200",
+        "g201",
+        "g202",
+        "g203"
+      ],
+      "catalogueEntryCount": 4,
+      "source": "https://aniplex-exe.com/news/",
+      "sectionTitle": "从《ATRI》到《播种之谣》",
+      "entries": [
+        {
+          "title": "ATRI -My Dear Moments-",
+          "status": "已收录",
+          "workIds": [
+            "g200"
+          ],
+          "reason": "独立发行的小说游戏；剧情、角色和已核实平台分别列入作品与版本记录。",
+          "source": "https://atri-mdm.com/story/"
+        },
+        {
+          "title": "徒花異譚 / Adabana Odd Tales",
+          "status": "已收录",
+          "workIds": [
+            "g201"
+          ],
+          "reason": "独立发行的小说游戏；剧情、角色和已核实平台分别列入作品与版本记录。",
+          "source": "https://adabanaitan.com/"
+        },
+        {
+          "title": "ヒラヒラヒヒル / Hira Hira Hihiru",
+          "status": "已收录",
+          "workIds": [
+            "g202"
+          ],
+          "reason": "独立发行的小说游戏；剧情、角色和已核实平台分别列入作品与版本记录。",
+          "source": "https://hirahirahihiru.com/"
+        },
+        {
+          "title": "たねつみの歌 / Seedsow Lullaby",
+          "status": "已收录",
+          "workIds": [
+            "g203"
+          ],
+          "reason": "独立发行的小说游戏；剧情、角色和已核实平台分别列入作品与版本记录。",
+          "source": "https://tanetsumi.aniplex-exe.com/"
+        }
+      ],
+      "auditNote": "“四部”依据品牌官网现有四个作品栏目逐项核对，指独立已发行游戏，不代表 Aniplex 公司的全部电子游戏。第一期同时推出两部作品；零售商店不等于游戏平台。"
     }
   ]
 }

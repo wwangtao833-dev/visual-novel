@@ -2,7 +2,7 @@
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
     "updated": "2026-09-28",
-    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题综合官方合集、旧站及短篇记录，已登记 9 部独立发布的叙事游戏；包括两部洋馆假日、两部人气投票短篇及胡萝卜蛋糕事件。合集和内含新增篇章另作版本与内容说明，未核实字段明确标记。",
+    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题综合官方合集、旧站及短篇记录，已登记 9 部独立发布的叙事游戏；包括两部洋馆假日、两部人气投票短篇及胡萝卜蛋糕事件。合集和内含新增篇章另作版本与内容说明，未核实字段明确标记。 ANIPLEX.EXE 专题按其官网四部作品核对；品牌项目期数与独立游戏数不同。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
   "works": [
@@ -3375,6 +3375,84 @@
       "synopsis": "第二次结果发表短篇再次让角色围绕人气榜和读者留言展开对话，以自我吐槽和群像小剧场回应玩家对本篇及外传人物的评价。",
       "notes": "现据 Bangumi 条目及关联记录登记 2016 年（记录日期为 8 月 21 日），尚待原始发行公告复核；不是 novect.net/ranking2.html，该地址实际为第一次投票的结果页。",
       "source": "https://bangumi.tv/subject/352894"
+    },
+    {
+      "id": "g200",
+      "title": "ATRI -My Dear Moments-",
+      "originalTitle": "ATRI -My Dear Moments-",
+      "firstYear": 2020,
+      "category": "视觉小说",
+      "subcategory": "恋爱剧情",
+      "genre": "近未来／机器人／青春",
+      "characters": [
+        "斑鸠夏生",
+        "亚托莉",
+        "神白水菜萌",
+        "野岛龙司",
+        "凯瑟琳"
+      ],
+      "charactersNote": "",
+      "synopsis": "海平面异常上升后的近未来，失去一条腿的少年斑鸠夏生返回海边小镇，潜入祖母留下的海底仓库寻找遗产。他在那里发现记忆不完整的人形机器人亚托莉，两人一起度过小镇逐渐沉入海中的夏天。",
+      "notes": "ANIPLEX.EXE 第一弹之一；Frontwing 与枕开发，ANIPLEX.EXE 发行。首发按官方日本时间 2020 年 6 月 19 日登记；Steam 在部分时区显示 6 月 18 日。2024 年电视动画不计作游戏。",
+      "source": "https://atri-mdm.com/story/"
+    },
+    {
+      "id": "g201",
+      "title": "徒花异谭",
+      "originalTitle": "徒花異譚 / Adabana Odd Tales",
+      "firstYear": 2020,
+      "category": "视觉小说",
+      "subcategory": "剧情分支／冒险",
+      "genre": "和风奇幻／童话／悬疑",
+      "characters": [
+        "白姬",
+        "黑笔",
+        "乙姬",
+        "瓜子姬",
+        "桃太郎"
+      ],
+      "charactersNote": "",
+      "synopsis": "失去记忆的白姬在陌生森林中被使用毛笔作刀的少年黑笔救下。两人进入绘草纸的世界“徒花乡”，穿行于遭虫蛀和扭曲的日本童话，修补故事，也追寻白姬失落的记忆。",
+      "notes": "ANIPLEX.EXE 第一弹之一；Liar-soft 开发，ANIPLEX.EXE 发行。首发按日本时间 2020 年 6 月 19 日登记；移植版正篇内容与 PC 版相同。",
+      "source": "https://adabanaitan.com/"
+    },
+    {
+      "id": "g202",
+      "title": "ヒラヒラヒヒル",
+      "originalTitle": "ヒラヒラヒヒル / Hira Hira Hihiru",
+      "firstYear": 2023,
+      "category": "视觉小说",
+      "subcategory": "剧情分支／冒险",
+      "genre": "架空大正／医学／社会群像",
+      "characters": [
+        "千种正光",
+        "天间武雄",
+        "加鸟周平",
+        "常见明子"
+      ],
+      "charactersNote": "",
+      "synopsis": "架空大正时代，死者复苏后发生记忆衰退及肉体腐坏的现象被称为“风烂症”。医生千种正光参与加鸟周平的调查，学生天间武雄也因机缘卷入；故事从两人的视角讲述患者、医疗制度和周围人的处境。",
+      "notes": "ANIPLEX.EXE 第二期企划，瀬戸口廉也编剧。官方仅列已核实的 Windows PC 版（Steam、DMM GAMES、DLsite），不将数字商店误记为不同平台。",
+      "source": "https://hirahirahihiru.com/"
+    },
+    {
+      "id": "g203",
+      "title": "播种之谣",
+      "originalTitle": "たねつみの歌 / Seedsow Lullaby",
+      "firstYear": 2024,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "家族／跨时空／神话奇幻",
+      "characters": [
+        "みすず",
+        "陽子",
+        "ツムギ",
+        "ヒルコ"
+      ],
+      "charactersNote": "",
+      "synopsis": "2023 年，十六岁的みすず遇见从 1996 年穿越而来的同龄母亲阳子；她们前往 2050 年接上みすず的女儿ツムギ，并与自称みすず弟弟的ヒルコ一同前往常世之国，协助神明完成新旧世代交接的“种拾仪式”。",
+      "notes": "ANIPLEX.EXE 第三期企划；官网说明正篇没有选项和剧情分支。2024 年 12 月 20 日另有无需下载的 DMM GAMES 浏览器版；同一故事不另计作品。",
+      "source": "https://tanetsumi.aniplex-exe.com/"
     }
   ],
   "versions": [
@@ -8636,6 +8714,202 @@
       "voice": "未核实",
       "differences": "现据 Bangumi 条目及关联记录登记 2016 年（记录日期为 8 月 21 日），尚待原始发行公告复核；不是 novect.net/ranking2.html，该地址实际为第一次投票的结果页。",
       "source": "https://bangumi.tv/subject/352894"
+    },
+    {
+      "id": "g200-v1",
+      "workId": "g200",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "ANIPLEX.EXE",
+      "publisherCompanies": [
+        "ANIPLEX.EXE"
+      ],
+      "kind": "PC 数字版首发",
+      "voice": "有",
+      "differences": "2020 年 6 月 19 日（日本时间）在 Steam 等商店发行；可阅读日语、英语、简体中文及繁体中文。游戏角色配音见官网人物页。",
+      "source": "https://aniplex-exe.com/news/?category=aniplex-exe&id=54285"
+    },
+    {
+      "id": "g200-v2",
+      "workId": "g200",
+      "year": 2021,
+      "platform": "Nintendo Switch",
+      "publisher": "iMel株式会社",
+      "publisherCompanies": [
+        "iMel株式会社"
+      ],
+      "kind": "PC 移植版",
+      "voice": "有",
+      "differences": "2021 年 12 月 16 日发行；iMel 负责移植开发及销售，官方确认正篇内容与 PC 版相同。",
+      "source": "https://aniplex-exe.com/news/?category=aniplex-exe&id=59279"
+    },
+    {
+      "id": "g200-v3",
+      "workId": "g200",
+      "year": 2021,
+      "platform": "iOS",
+      "publisher": "iMel株式会社",
+      "publisherCompanies": [
+        "iMel株式会社"
+      ],
+      "kind": "PC 移植版",
+      "voice": "有",
+      "differences": "2021 年 12 月 16 日发行；iMel 负责移植开发及销售，官方确认正篇内容与 PC 版相同。",
+      "source": "https://aniplex-exe.com/news/?category=aniplex-exe&id=59279"
+    },
+    {
+      "id": "g200-v4",
+      "workId": "g200",
+      "year": 2021,
+      "platform": "Android",
+      "publisher": "iMel株式会社",
+      "publisherCompanies": [
+        "iMel株式会社"
+      ],
+      "kind": "PC 移植版",
+      "voice": "有",
+      "differences": "2021 年 12 月 16 日发行；iMel 负责移植开发及销售，官方确认正篇内容与 PC 版相同。",
+      "source": "https://aniplex-exe.com/news/?category=aniplex-exe&id=59279"
+    },
+    {
+      "id": "g201-v1",
+      "workId": "g201",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "ANIPLEX.EXE",
+      "publisherCompanies": [
+        "ANIPLEX.EXE"
+      ],
+      "kind": "PC 数字版首发",
+      "voice": "有",
+      "differences": "2020 年 6 月 19 日（日本时间）在 Steam 等商店发行；可阅读日语、英语、简体中文及繁体中文。游戏角色配音见官网人物页。",
+      "source": "https://aniplex-exe.com/news/?category=aniplex-exe&id=54285"
+    },
+    {
+      "id": "g201-v2",
+      "workId": "g201",
+      "year": 2021,
+      "platform": "Nintendo Switch",
+      "publisher": "iMel株式会社",
+      "publisherCompanies": [
+        "iMel株式会社"
+      ],
+      "kind": "PC 移植版",
+      "voice": "有",
+      "differences": "2021 年 12 月 16 日发行；iMel 负责移植开发及销售，官方确认正篇内容与 PC 版相同。",
+      "source": "https://aniplex-exe.com/news/?category=aniplex-exe&id=59279"
+    },
+    {
+      "id": "g201-v3",
+      "workId": "g201",
+      "year": 2021,
+      "platform": "iOS",
+      "publisher": "iMel株式会社",
+      "publisherCompanies": [
+        "iMel株式会社"
+      ],
+      "kind": "PC 移植版",
+      "voice": "有",
+      "differences": "2021 年 12 月 16 日发行；iMel 负责移植开发及销售，官方确认正篇内容与 PC 版相同。",
+      "source": "https://aniplex-exe.com/news/?category=aniplex-exe&id=59279"
+    },
+    {
+      "id": "g201-v4",
+      "workId": "g201",
+      "year": 2021,
+      "platform": "Android",
+      "publisher": "iMel株式会社",
+      "publisherCompanies": [
+        "iMel株式会社"
+      ],
+      "kind": "PC 移植版",
+      "voice": "有",
+      "differences": "2021 年 12 月 16 日发行；iMel 负责移植开发及销售，官方确认正篇内容与 PC 版相同。",
+      "source": "https://aniplex-exe.com/news/?category=aniplex-exe&id=59279"
+    },
+    {
+      "id": "g202-v1",
+      "workId": "g202",
+      "year": 2023,
+      "platform": "Windows",
+      "publisher": "ANIPLEX.EXE",
+      "publisherCompanies": [
+        "ANIPLEX.EXE"
+      ],
+      "kind": "PC 数字版首发",
+      "voice": "有",
+      "differences": "2023 年 11 月 17 日发行，Steam、DMM GAMES、DLsite 同属 Windows PC 销售渠道；官网人物页标注游戏声优。",
+      "source": "https://aniplex-exe.com/news/?category=hirahirahihiru&id=64177"
+    },
+    {
+      "id": "g203-v1",
+      "workId": "g203",
+      "year": 2024,
+      "platform": "Windows",
+      "publisher": "ANIPLEX.EXE",
+      "publisherCompanies": [
+        "ANIPLEX.EXE"
+      ],
+      "kind": "PC 数字版首发",
+      "voice": "有",
+      "differences": "2024 年 12 月 13 日发行；Windows 版可经 Steam、DMM GAMES、DLsite 获取；官网明确无分支与选项。",
+      "source": "https://tanetsumi.aniplex-exe.com/"
+    },
+    {
+      "id": "g203-v2",
+      "workId": "g203",
+      "year": 2024,
+      "platform": "网页浏览器",
+      "publisher": "ANIPLEX.EXE",
+      "publisherCompanies": [
+        "ANIPLEX.EXE"
+      ],
+      "kind": "DMM GAMES 浏览器版",
+      "voice": "有",
+      "differences": "2024 年 12 月 20 日上线，无须下载安装；发行署名按官网品牌暂归档，DMM GAMES 为所列销售平台。",
+      "source": "https://tanetsumi.aniplex-exe.com/news/?id=66860"
+    },
+    {
+      "id": "g203-v3",
+      "workId": "g203",
+      "year": 2025,
+      "platform": "Nintendo Switch",
+      "publisher": "ANIPLEX.EXE",
+      "publisherCompanies": [
+        "ANIPLEX.EXE"
+      ],
+      "kind": "PC 移植版",
+      "voice": "有",
+      "differences": "2025 年 5 月 1 日发行，提供免费体验版，完整版单独购买。官网将游戏制作列为 ANIPLEX.EXE；移植程序开发由 iMel 承担。",
+      "source": "https://aniplex-exe.com/news/?category=tanetsumi&id=67599"
+    },
+    {
+      "id": "g203-v4",
+      "workId": "g203",
+      "year": 2025,
+      "platform": "iOS",
+      "publisher": "Aniplex Inc.",
+      "publisherCompanies": [
+        "Aniplex"
+      ],
+      "kind": "PC 移植版",
+      "voice": "有",
+      "differences": "2025 年 5 月 1 日发行，剧情开头免费下载，后续章节需应用内购买解锁。移动商店发行账号为 Aniplex Inc.；iMel 负责程序开发。",
+      "source": "https://apps.apple.com/jp/app/%E3%81%9F%E3%81%AD%E3%81%A4%E3%81%BF%E3%81%AE%E6%AD%8C/id6741062807"
+    },
+    {
+      "id": "g203-v5",
+      "workId": "g203",
+      "year": 2025,
+      "platform": "Android",
+      "publisher": "Aniplex Inc.",
+      "publisherCompanies": [
+        "Aniplex"
+      ],
+      "kind": "PC 移植版",
+      "voice": "有",
+      "differences": "2025 年 5 月 1 日发行，剧情开头免费下载，后续章节需应用内购买解锁。移动商店发行账号为 Aniplex Inc.；iMel 负责程序开发。",
+      "source": "https://play.google.com/store/apps/details?id=com.aniplex.tanetsumi"
     }
   ]
 }
