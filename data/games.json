@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
-    "updated": "2026-09-25",
+    "updated": "2026-09-28",
     "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
@@ -19,7 +19,8 @@
       "charactersNote": "",
       "synopsis": "进入巨洞寻找宝藏，借助方向和物品指令穿过迷宫与险境。",
       "notes": "1976 年 Crowther 原作与 1977 年 Woods 扩充版分列；1979 年家用机版本属于移植／改编。",
-      "source": "https://www.catb.org/~esr/open-adventure/history.html"
+      "source": "https://www.catb.org/~esr/open-adventure/history.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g090",
@@ -34,7 +35,8 @@
       "charactersNote": "",
       "synopsis": "探索大地下帝国、收集宝物并解开房间与物品谜题。",
       "notes": "与数据库中的 1980 年 Infocom 商业版《Zork I》分别记录。",
-      "source": "https://github.com/MITDDC/zork"
+      "source": "https://github.com/MITDDC/zork",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g091",
@@ -49,7 +51,8 @@
       "charactersNote": "",
       "synopsis": "在奇幻的森林和洞穴里解谜，寻找散落各地的宝物。",
       "notes": "博物馆记录首批零售录音带由作者自行复制销售；后期品牌名称不可倒填。",
-      "source": "https://www.museumofplay.org/blog/scott-adams-adventure-international-collection-documents-early-commercial-computer-gaming/"
+      "source": "https://www.museumofplay.org/blog/scott-adams-adventure-international-collection-documents-early-commercial-computer-gaming/",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g092",
@@ -65,7 +68,8 @@
       "charactersNote": "",
       "synopsis": "从伦敦的住处抵达奇异海岛，筹备航行并寻找海盗宝藏。",
       "notes": "",
-      "source": "https://ifdb.org/viewgame?id=zya3mo3njj58hewi"
+      "source": "https://ifdb.org/viewgame?id=zya3mo3njj58hewi",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g093",
@@ -81,7 +85,8 @@
       "charactersNote": "",
       "synopsis": "在古堡中调查伯爵并寻找应对吸血鬼的方法。",
       "notes": "已确认作品年份；最早的具体发行机种和包装版本仍待核实。",
-      "source": "https://ifdb.org/viewgame?id=89qmjvv4cb0z93t5"
+      "source": "https://ifdb.org/viewgame?id=89qmjvv4cb0z93t5",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g001",
@@ -94,7 +99,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "在宅邸中搜集线索，查明接连发生的谋杀。",
       "notes": "最早商业发行版。",
-      "source": "https://www.sierragamers.com/ken-williams/"
+      "source": "https://www.sierragamers.com/ken-williams/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g002",
@@ -107,7 +113,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "输入指令探索地下帝国，解开谜题并收集宝物。",
       "notes": "按 Infocom 商业版；早期大型机 Zork 不并入。",
-      "source": "https://infocom-if.org/company/company.html"
+      "source": "https://infocom-if.org/company/company.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g057",
@@ -124,7 +131,8 @@
       "charactersNote": "",
       "synopsis": "穿越荒漠与险境，营救被巫师囚禁的公主。",
       "notes": "与《神秘屋》同属 Sierra 的 Hi-Res Adventure 系列。",
-      "source": "https://www.sierragamers.com/hi-res/"
+      "source": "https://www.sierragamers.com/hi-res/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g058",
@@ -140,7 +148,8 @@
       "charactersNote": "",
       "synopsis": "搜寻富豪留下的宝物，探索据说有亡灵看守的庄园。",
       "notes": "",
-      "source": "https://www.sierragamers.com/hi-res/"
+      "source": "https://www.sierragamers.com/hi-res/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g062",
@@ -156,7 +165,8 @@
       "charactersNote": "",
       "synopsis": "深入地下帝国，设法应对巫师的魔法与恶作剧。",
       "notes": "",
-      "source": "https://www.infocom-if.org/games/zork2/zork2.html"
+      "source": "https://www.infocom-if.org/games/zork2/zork2.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g094",
@@ -171,7 +181,8 @@
       "charactersNote": "",
       "synopsis": "在城市中探索并解谜，与人物互动以推进成人喜剧故事。",
       "notes": "1987 年《Leisure Suit Larry》借用其设定；二者不是同一平台版本。",
-      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf"
+      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g003",
@@ -184,7 +195,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "在限定时间内调查一宗可疑死亡事件。",
       "notes": "",
-      "source": "https://infocom-if.org/games/games.html"
+      "source": "https://infocom-if.org/games/games.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g004",
@@ -197,7 +209,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "以情侣生活与生理周期为主题的早期成人软件。",
       "notes": "历史作品；严格说并非典型恋爱叙事游戏。",
-      "source": "https://www.famitsu.com/news/202312/10327281.html"
+      "source": "https://www.famitsu.com/news/202312/10327281.html",
+      "subcategory": "早期成人向互动"
     },
     {
       "id": "g005",
@@ -210,7 +223,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "以野球拳规则进行的简易对战。",
       "notes": "按广义早期美少女游戏收录；不是视觉小说。",
-      "source": "https://fm-7.com/museum/products/7bj82lkr/"
+      "source": "https://fm-7.com/museum/products/7bj82lkr/",
+      "subcategory": "早期成人向互动"
     },
     {
       "id": "g059",
@@ -225,7 +239,8 @@
       "charactersNote": "",
       "synopsis": "穿梭多个时代，调查威胁历史的事件。",
       "notes": "其他机器移植年份未获逐项核实，暂未拆分。",
-      "source": "https://www.sierragamers.com/hi-res/"
+      "source": "https://www.sierragamers.com/hi-res/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g063",
@@ -241,7 +256,8 @@
       "charactersNote": "",
       "synopsis": "深入地下帝国核心，经受地下城主布下的考验。",
       "notes": "",
-      "source": "https://www.infocom-if.org/games/zork3/zork3.html"
+      "source": "https://www.infocom-if.org/games/zork3/zork3.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g064",
@@ -256,7 +272,8 @@
       "charactersNote": "",
       "synopsis": "独自驾驶勘探飞船时遭遇巨大的外星船只。",
       "notes": "",
-      "source": "https://www.infocom-if.org/games/starcross/starcross.html"
+      "source": "https://www.infocom-if.org/games/starcross/starcross.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g095",
@@ -273,7 +290,8 @@
       "charactersNote": "",
       "synopsis": "奉命寻找传说中的金羊毛，在海陆旅程中与神话人物周旋。",
       "notes": "Sierra 馆藏另有一份黑盒页面写 1981 年，系列页与设计师年表写 1982 年；保留异文。",
-      "source": "https://www.sierragamers.com/hi-res/"
+      "source": "https://www.sierragamers.com/hi-res/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g096",
@@ -288,7 +306,8 @@
       "charactersNote": "",
       "synopsis": "潜入表参道的 ASCII 公司，寻找并取走秘密文件。",
       "notes": "杂志重刊资料与实物程序解析均证实 1982 年刊载和 PC-8001／MZ 系列；不要误写成 1982 年 PC-9801 首发。",
-      "source": "https://ascii.jp/elem/000/000/341/341643/"
+      "source": "https://ascii.jp/elem/000/000/341/341643/",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g097",
@@ -303,7 +322,8 @@
       "charactersNote": "",
       "synopsis": "探索屋内的房间，找到藏在建筑中的宝物。",
       "notes": "与 Sierra 的《Mystery House》（1980）同名但内容独立，不能合并为移植。",
-      "source": "https://www.gamepres.org/pc88/library/adv.htm"
+      "source": "https://www.gamepres.org/pc88/library/adv.htm",
+      "subcategory": "图文指令"
     },
     {
       "id": "g098",
@@ -318,7 +338,8 @@
       "charactersNote": "",
       "synopsis": "在馆内找出四份纸条，由线索推断珠宝所在。",
       "notes": "馆藏发行明细分别记 FM-8 版为 1982 年、FM-7 专用版为 1983 年。",
-      "source": "https://fm-7.com/museum/products/jna9lxqz/"
+      "source": "https://fm-7.com/museum/products/jna9lxqz/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g113",
@@ -335,7 +356,8 @@
       "charactersNote": "",
       "synopsis": "陪同比尔博从袋底洞出发，穿越荒野并前往孤山寻找宝藏。",
       "notes": "1982 年 ZX Spectrum 录音带原版；同年 Sinclair Research 曾发行同平台再版。 C64 录音带版有 1983／1985 年异文，暂按条目发行年份记 1983，待查当年原包装。",
-      "source": "https://worldofspectrum.org/software?id=0006440"
+      "source": "https://worldofspectrum.org/software?id=0006440",
+      "subcategory": "图文指令"
     },
     {
       "id": "g006",
@@ -348,7 +370,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "在陌生星球探索设施，并追查危机的原因。",
       "notes": "",
-      "source": "https://www.infocom-if.org/authors/meretzky.html"
+      "source": "https://www.infocom-if.org/authors/meretzky.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g007",
@@ -364,7 +387,8 @@
       "charactersNote": "",
       "synopsis": "扮演刑警调查神户港发生的杀人事件。",
       "notes": "此处文字冒险包括图文指令游戏。",
-      "source": "https://fm-7.com/museum/products/k6sufaqm/"
+      "source": "https://fm-7.com/museum/products/k6sufaqm/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g008",
@@ -379,7 +403,8 @@
       "charactersNote": "",
       "synopsis": "在图文冒险中寻找并救出玛丽。",
       "notes": "部分版本附有磁带人声；不等同游戏内角色配音。",
-      "source": "https://fm-7.com/museum/products/1paitdl4/"
+      "source": "https://fm-7.com/museum/products/1paitdl4/",
+      "subcategory": "美少女探索冒险"
     },
     {
       "id": "g009",
@@ -392,7 +417,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "通过指令探索住宅区并触发事件。",
       "notes": "",
-      "source": "https://www.famitsu.com/news/202312/10327281.html"
+      "source": "https://www.famitsu.com/news/202312/10327281.html",
+      "subcategory": "成人向冒险"
     },
     {
       "id": "g010",
@@ -408,7 +434,8 @@
       "charactersNote": "",
       "synopsis": "观看手绘动画，按提示作出动作以救出公主。",
       "notes": "美国街机原版。",
-      "source": "https://www.arcade-history.com/game/702/"
+      "source": "https://www.arcade-history.com/game/702/",
+      "subcategory": "激光影碟·动作选择"
     },
     {
       "id": "g041",
@@ -426,7 +453,8 @@
       "charactersNote": "",
       "synopsis": "操纵感官各异的机器人，修复维系殖民地的中央设施。",
       "notes": "角色栏列出代表性机器人；玩家本人在故事中无法自由移动。",
-      "source": "https://www.infocom-if.org/games/suspended/suspended.html"
+      "source": "https://www.infocom-if.org/games/suspended/suspended.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g042",
@@ -442,7 +470,8 @@
       "charactersNote": "",
       "synopsis": "扮演见习魔法师潜入巫师的势力范围，利用咒语化解危机。",
       "notes": "",
-      "source": "https://www.infocom-if.org/games/enchanter/enchanter.html"
+      "source": "https://www.infocom-if.org/games/enchanter/enchanter.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g065",
@@ -458,7 +487,8 @@
       "charactersNote": "",
       "synopsis": "1938 年洛杉矶附近的雨夜，警探必须在限时内侦破命案。",
       "notes": "同一档案的作品介绍页写 1984 年，年表与作者页写 1983 年；保留异文。",
-      "source": "https://www.infocom-if.org/games/games.html"
+      "source": "https://www.infocom-if.org/games/games.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g066",
@@ -473,7 +503,8 @@
       "charactersNote": "",
       "synopsis": "被同伴抛弃的探险者在埃及沙漠寻找失落金字塔。",
       "notes": "",
-      "source": "https://www.infocom-if.org/games/infidel/infidel.html"
+      "source": "https://www.infocom-if.org/games/infidel/infidel.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g073",
@@ -488,7 +519,8 @@
       "charactersNote": "",
       "synopsis": "前往梅菲乌斯寻找传说之剑，阻止银河系遭入侵。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/tocvx2b8/"
+      "source": "https://fm-7.com/museum/products/tocvx2b8/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g074",
@@ -503,7 +535,8 @@
       "charactersNote": "",
       "synopsis": "进入虚构游乐园，寻找藏在其中的金制“三月磨臼”。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/zd9clwc4/"
+      "source": "https://fm-7.com/museum/products/zd9clwc4/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g075",
@@ -519,7 +552,8 @@
       "charactersNote": "",
       "synopsis": "调查父亲失踪和百慕大海域的神秘事件。",
       "notes": "名称虽有少女，馆藏将其归为冒险游戏；不据标题认定为恋爱游戏。",
-      "source": "https://fm-7.com/museum/products/91e3ra67/"
+      "source": "https://fm-7.com/museum/products/91e3ra67/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g082",
@@ -538,7 +572,8 @@
       "charactersNote": "",
       "synopsis": "义体英雄与同伴对抗外星敌军，阻止地球毁灭。",
       "notes": "",
-      "source": "https://www.arcade-museum.com/Videogame/begas-battle"
+      "source": "https://www.arcade-museum.com/Videogame/begas-battle",
+      "subcategory": "激光影碟·射击／驾驶"
     },
     {
       "id": "g087",
@@ -553,7 +588,8 @@
       "charactersNote": "",
       "synopsis": "取得传说之剑后进入宇宙，继续面对新的威胁。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/gttnk7za/"
+      "source": "https://fm-7.com/museum/products/gttnk7za/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g099",
@@ -569,7 +605,8 @@
       "charactersNote": "",
       "synopsis": "踏上旅程寻找缺失的水晶碎片，阻止黑暗势力继续统治。",
       "notes": "Sierra 年表标原版 1983，Gelfling Adventure 为 1984 年不同操作版本。",
-      "source": "https://www.sierragamers.com/the-dark-crystal/"
+      "source": "https://www.sierragamers.com/the-dark-crystal/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g100",
@@ -584,7 +621,8 @@
       "charactersNote": "",
       "synopsis": "被长期冷冻的投稿者在未来醒来，试图进入 ASCII 公司顾问的住宅。",
       "notes": "1983 年 4 月的当期软件目录明确标 PC-8001 及以后，不照搬其他资料的 1982 PC-9801 说法。",
-      "source": "https://www.gamepres.org/pc88/library/1983/1983_4.htm"
+      "source": "https://www.gamepres.org/pc88/library/1983/1983_4.htm",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g101",
@@ -600,7 +638,8 @@
       "charactersNote": "",
       "synopsis": "寻找被海底人掳走的恋人，探索色彩鲜明的水下场景。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/aibua2n8/"
+      "source": "https://fm-7.com/museum/products/aibua2n8/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g102",
@@ -616,7 +655,8 @@
       "charactersNote": "",
       "synopsis": "穿过森林与城堡，寻找魔法泉水医治患病公主。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/vitpdgtz/"
+      "source": "https://fm-7.com/museum/products/vitpdgtz/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g103",
@@ -632,7 +672,8 @@
       "charactersNote": "",
       "synopsis": "驾驶宇宙飞船访问八颗星球，寻找并营救公主。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/vjg12a36/"
+      "source": "https://fm-7.com/museum/products/vjg12a36/",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g104",
@@ -648,7 +689,8 @@
       "charactersNote": "",
       "synopsis": "进入女子宿舍寻找并试图见到广子。",
       "notes": "成人冒险范畴，不推定其具有后来的恋爱剧情分支。",
-      "source": "https://fm-7.com/museum/products/7kjmjxi8/"
+      "source": "https://fm-7.com/museum/products/7kjmjxi8/",
+      "subcategory": "成人向冒险"
     },
     {
       "id": "g114",
@@ -663,7 +705,8 @@
       "charactersNote": "",
       "synopsis": "在北欧神话世界中与人物交互，寻找散落的神话宝物。",
       "notes": "ZX Spectrum 初版；1984 年 C64 版单列。",
-      "source": "https://worldofspectrum.org/archive/software/games/valhalla-legend-1"
+      "source": "https://worldofspectrum.org/archive/software/games/valhalla-legend-1",
+      "subcategory": "图文指令"
     },
     {
       "id": "g115",
@@ -681,7 +724,8 @@
       "charactersNote": "",
       "synopsis": "杰米尼收到撒旦劫持爱人的消息，乘飞船踏上星座世界的救援之旅。",
       "notes": "馆藏将 FM-7 列为原始机种。",
-      "source": "https://fm-7.com/museum/products/mrq0utaa/"
+      "source": "https://fm-7.com/museum/products/mrq0utaa/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g116",
@@ -696,7 +740,8 @@
       "charactersNote": "",
       "synopsis": "身为民宿管理员，寻找线索，查清住宿处发生的谋杀案。",
       "notes": "馆藏列 FM 系兼容机种，原始机种不明，合并记为一个兼容版本。",
-      "source": "https://fm-7.com/museum/products/kgzrbt1p/"
+      "source": "https://fm-7.com/museum/products/kgzrbt1p/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g117",
@@ -711,7 +756,8 @@
       "charactersNote": "",
       "synopsis": "寻找跑出家门迷路的小鼠，经历一段童话式冒险。",
       "notes": "原始机种不明，馆藏记载 FM 系兼容。",
-      "source": "https://fm-7.com/museum/products/db6qluaw/"
+      "source": "https://fm-7.com/museum/products/db6qluaw/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g118",
@@ -726,7 +772,8 @@
       "charactersNote": "",
       "synopsis": "潜入女子宿舍，寻找并救出被关起来的罗姆。",
       "notes": "1983 年 6 月共用磁带；馆藏将 FM-8 列为原始机种。",
-      "source": "https://fm-7.com/museum/products/vj1bitct/releases"
+      "source": "https://fm-7.com/museum/products/vj1bitct/releases",
+      "subcategory": "成人向冒险"
     },
     {
       "id": "g119",
@@ -741,7 +788,8 @@
       "charactersNote": "",
       "synopsis": "接到关于飞鸟的神秘电话后，前往她的房间并揭开接下来的故事。",
       "notes": "1983 年 10 月 FM-7 版；馆藏列其为原始机种。",
-      "source": "https://fm-7.com/museum/products/l2zkgfa5/"
+      "source": "https://fm-7.com/museum/products/l2zkgfa5/",
+      "subcategory": "恋爱剧情冒险"
     },
     {
       "id": "g120",
@@ -756,7 +804,8 @@
       "charactersNote": "",
       "synopsis": "末日灾难后意外来到陌生世界，寻找回到地球的路。",
       "notes": "原名「ファンタジーアイランド」；1983 年 10 月 FM-7 版。",
-      "source": "https://fm-7.com/museum/products/qto4u7tq/"
+      "source": "https://fm-7.com/museum/products/qto4u7tq/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g121",
@@ -771,7 +820,8 @@
       "charactersNote": "",
       "synopsis": "扮演濒临倒闭的软件公司员工，潜入对手处夺取机密资料以拯救公司。",
       "notes": "原始机种不明，馆藏记载 FM 系兼容。",
-      "source": "https://fm-7.com/museum/products/0refcz7z/"
+      "source": "https://fm-7.com/museum/products/0refcz7z/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g122",
@@ -786,7 +836,8 @@
       "charactersNote": "",
       "synopsis": "收到第十三行星求救信号后，率领飞船前往救人并争取安全返航。",
       "notes": "原始机种不明，馆藏记载 FM 系兼容。",
-      "source": "https://fm-7.com/museum/products/a1b1vc7z/"
+      "source": "https://fm-7.com/museum/products/a1b1vc7z/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g123",
@@ -802,7 +853,8 @@
       "charactersNote": "",
       "synopsis": "两名女大学生在巴黎机场卷入凶案，佳苗调查现场遗留的线索。",
       "notes": "原始机种不明，馆藏记载 FM 系兼容。",
-      "source": "https://fm-7.com/museum/products/lrdwgvuy/"
+      "source": "https://fm-7.com/museum/products/lrdwgvuy/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g011",
@@ -818,7 +870,8 @@
       "charactersNote": "",
       "synopsis": "在荒诞的宇宙旅途中输入指令解谜。",
       "notes": "",
-      "source": "https://infocom-if.org/games/games.html"
+      "source": "https://infocom-if.org/games/games.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g012",
@@ -835,7 +888,8 @@
       "charactersNote": "",
       "synopsis": "循线索穿梭北海道，调查连续杀人案。",
       "notes": "1984 年 PC 原版；FM-7 移植在 1985 年。",
-      "source": "https://www.gamepres.org/pc88/library/1984/ohotsuku.htm"
+      "source": "https://www.gamepres.org/pc88/library/1984/ohotsuku.htm",
+      "subcategory": "图文选项／调查"
     },
     {
       "id": "g013",
@@ -848,7 +902,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "以指令选择推进的早期成人冒险游戏。",
       "notes": "首发 1984；FM-7 版登记为 1985 年。",
-      "source": "https://www.famitsu.com/news/202312/10327281.html"
+      "source": "https://www.famitsu.com/news/202312/10327281.html",
+      "subcategory": "成人向冒险"
     },
     {
       "id": "g044",
@@ -865,7 +920,8 @@
       "charactersNote": "",
       "synopsis": "英雄被射线变成少年后，通过及时操作拯救同伴。",
       "notes": "",
-      "source": "https://www.arcade-museum.com/Videogame/space-ace--cinematronics"
+      "source": "https://www.arcade-museum.com/Videogame/space-ace--cinematronics",
+      "subcategory": "激光影碟·动作选择"
     },
     {
       "id": "g060",
@@ -881,7 +937,8 @@
       "charactersNote": "",
       "synopsis": "骑士格雷厄姆寻找三件宝物，争取成为达文特里王国的继承人。",
       "notes": "不是全动画激光影碟作品；“动画”指游戏画面的角色移动。",
-      "source": "https://www.sierragamers.com/roberta-williams/"
+      "source": "https://www.sierragamers.com/roberta-williams/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g067",
@@ -897,7 +954,8 @@
       "charactersNote": "",
       "synopsis": "巫师 Belboz 突然失踪，玩家用咒语追查事件。",
       "notes": "",
-      "source": "https://www.infocom-if.org/games/sorcerer/sorcerer.html"
+      "source": "https://www.infocom-if.org/games/sorcerer/sorcerer.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g068",
@@ -913,7 +971,8 @@
       "charactersNote": "",
       "synopsis": "与好友乘小型潜艇，阻止海底研究站遭怪物袭击。",
       "notes": "",
-      "source": "https://www.infocom-if.org/games/seastalker/seastalker.html"
+      "source": "https://www.infocom-if.org/games/seastalker/seastalker.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g069",
@@ -928,7 +987,8 @@
       "charactersNote": "",
       "synopsis": "潜入沉船，与各怀目的的同伴争夺宝藏。",
       "notes": "",
-      "source": "https://www.infocom-if.org/games/cutthroats/cutthroats.html"
+      "source": "https://www.infocom-if.org/games/cutthroats/cutthroats.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g070",
@@ -943,7 +1003,8 @@
       "charactersNote": "",
       "synopsis": "记者在化装舞会上被诬陷杀人，必须自行找出凶手。",
       "notes": "",
-      "source": "https://www.infocom-if.org/games/suspect/suspect.html"
+      "source": "https://www.infocom-if.org/games/suspect/suspect.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g076",
@@ -959,7 +1020,8 @@
       "charactersNote": "",
       "synopsis": "扮演情报员，营救被反政府武装绑架的科学家。",
       "notes": "主人公 Benson 的姓名由续作《Will》说明。",
-      "source": "https://fm-7.com/museum/products/1xukf90e/"
+      "source": "https://fm-7.com/museum/products/1xukf90e/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g077",
@@ -976,7 +1038,8 @@
       "charactersNote": "",
       "synopsis": "黄瓜战士前往沙拉王国营救被南瓜大王囚禁的公主。",
       "notes": "1984 年 PC 指令版与 1988 年红白机命令菜单版分开记录。",
-      "source": "https://fm-7.com/museum/products/zyh0e5dv/"
+      "source": "https://fm-7.com/museum/products/zyh0e5dv/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g078",
@@ -991,7 +1054,8 @@
       "charactersNote": "",
       "synopsis": "以夺回“猎户座”人工智能为目标，探索科幻场景。",
       "notes": "少女姓名和具体剧情细节缺少可靠说明；不把静态图文误记为互动动画。",
-      "source": "https://fm-7.com/museum/products/3txek9px/"
+      "source": "https://fm-7.com/museum/products/3txek9px/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g079",
@@ -1007,7 +1071,8 @@
       "charactersNote": "",
       "synopsis": "化身漫画主角，夺回被反派夺走的梦之笔记本。",
       "notes": "漫画改编冒险，不因少女角色而自动归入 Galgame。",
-      "source": "https://fm-7.com/museum/products/aao3ghzi/"
+      "source": "https://fm-7.com/museum/products/aao3ghzi/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g083",
@@ -1022,7 +1087,8 @@
       "charactersNote": "",
       "synopsis": "驾驶直升机穿过多个战区，最终攻击敌方总部。",
       "notes": "",
-      "source": "https://www.arcade-museum.com/Videogame/cobra-command"
+      "source": "https://www.arcade-museum.com/Videogame/cobra-command",
+      "subcategory": "激光影碟·射击／驾驶"
     },
     {
       "id": "g084",
@@ -1038,7 +1104,8 @@
       "charactersNote": "",
       "synopsis": "忍者疾风闯入城堡，破解机关并救出公主。",
       "notes": "",
-      "source": "https://www.taito.co.jp/mob/topics/26255"
+      "source": "https://www.taito.co.jp/mob/topics/26255",
+      "subcategory": "激光影碟·动作选择"
     },
     {
       "id": "g088",
@@ -1055,7 +1122,8 @@
       "charactersNote": "",
       "synopsis": "星亚瑟传奇第三部，角色在可移动的场景中继续宇宙冒险。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/crs8l0ue/"
+      "source": "https://fm-7.com/museum/products/crs8l0ue/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g105",
@@ -1070,7 +1138,8 @@
       "charactersNote": "",
       "synopsis": "潜入拥有终极武器的犯罪组织基地，遭俘虏并失去记忆后继续任务。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/74ajuk34/"
+      "source": "https://fm-7.com/museum/products/74ajuk34/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g106",
@@ -1086,7 +1155,8 @@
       "charactersNote": "",
       "synopsis": "围绕遗产继承引发的命案，调查嫌疑人并展示证物追问。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/yyf8ms3g/"
+      "source": "https://fm-7.com/museum/products/yyf8ms3g/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g107",
@@ -1101,7 +1171,8 @@
       "charactersNote": "",
       "synopsis": "深夜被奇怪的浓雾带入陌生森林，寻找离开封闭异世界的方法。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/7ggib9g6/"
+      "source": "https://fm-7.com/museum/products/7ggib9g6/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g108",
@@ -1114,7 +1185,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "围绕魔王之戒展开神秘冒险，在快速绘制的场景里寻找线索。",
       "notes": "剧情资料不足以可靠列出有名字的主角。",
-      "source": "https://fm-7.com/museum/products/4l5wmkh8/"
+      "source": "https://fm-7.com/museum/products/4l5wmkh8/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g124",
@@ -1129,7 +1201,8 @@
       "charactersNote": "",
       "synopsis": "从失去的记忆和周围人物着手，追查导致自己失忆的事件。",
       "notes": "原始机种不明，馆藏记载 FM 系兼容。",
-      "source": "https://fm-7.com/museum/products/6mwspus0/"
+      "source": "https://fm-7.com/museum/products/6mwspus0/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g125",
@@ -1145,7 +1218,8 @@
       "charactersNote": "",
       "synopsis": "从老人手中得到一块传说宝石，继续搜寻其余两块以恢复世界和平。",
       "notes": "四分屏同时显示当前及前三个场景；原始机种未明。",
-      "source": "https://fm-7.com/museum/products/5bzhbzog/"
+      "source": "https://fm-7.com/museum/products/5bzhbzog/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g126",
@@ -1158,7 +1232,8 @@
       "charactersNote": "主要角色姓名待核实",
       "synopsis": "在校园中搜索被放置的原子弹，逐步解开各处的谜题。",
       "notes": "1984 年 6 月 FM-7 原版；参赛时原名「座間高アドベンチャー」。",
-      "source": "https://fm-7.com/museum/products/e2w2qqkl/"
+      "source": "https://fm-7.com/museum/products/e2w2qqkl/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g127",
@@ -1173,7 +1248,8 @@
       "charactersNote": "",
       "synopsis": "前往异世界寻找传说之镜，与企图支配世界的格鲁对抗。",
       "notes": "1984 年 7 月 FM-7 原版；分九章。",
-      "source": "https://fm-7.com/museum/products/om904bko/"
+      "source": "https://fm-7.com/museum/products/om904bko/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g128",
@@ -1188,7 +1264,8 @@
       "charactersNote": "",
       "synopsis": "为了成为圣灵，在人间经历医生、花店经营者等七种人生。",
       "notes": "1984 年 12 月 FM-7 原版；七段小冒险串联。",
-      "source": "https://fm-7.com/museum/products/2oqhpy7x/"
+      "source": "https://fm-7.com/museum/products/2oqhpy7x/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g129",
@@ -1204,7 +1281,8 @@
       "charactersNote": "",
       "synopsis": "扮演福尔摩斯在伦敦调查案件，与华生及其他人物交谈寻找线索。",
       "notes": "馆藏 1984 年 ZX Spectrum 录音带原版。",
-      "source": "https://worldofspectrum.org/archive/software/text-adventures/sherlock-melbourne-house"
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/sherlock-melbourne-house",
+      "subcategory": "图文指令"
     },
     {
       "id": "g130",
@@ -1219,7 +1297,8 @@
       "charactersNote": "",
       "synopsis": "从社会阶层底部开始谋求体面的职业、伴侣与住所，最终跻身汉普斯特德。",
       "notes": "1984 年 ZX Spectrum 版；社会阶层讽刺题材。",
-      "source": "https://worldofspectrum.org/archive/software/text-adventures/hampstead-melbourne-house"
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/hampstead-melbourne-house",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g131",
@@ -1234,7 +1313,8 @@
       "charactersNote": "",
       "synopsis": "以维京人埃里克为主角，出海探索神话传说中的世界。",
       "notes": "1984 年 ZX Spectrum 原版；由 Level 9 制作。",
-      "source": "https://worldofspectrum.org/archive/software/text-adventures/the-saga-of-erik-the-viking-mosaic-publishing-ltd"
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/the-saga-of-erik-the-viking-mosaic-publishing-ltd",
+      "subcategory": "图文指令"
     },
     {
       "id": "g132",
@@ -1249,7 +1329,8 @@
       "charactersNote": "",
       "synopsis": "进入阴森的古堡探索房间、寻找线索并应对其中的危险。",
       "notes": "1984 年 ZX Spectrum 版。",
-      "source": "https://worldofspectrum.org/archive/software/text-adventures/castle-of-terror-melbourne-house"
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/castle-of-terror-melbourne-house",
+      "subcategory": "图文指令"
     },
     {
       "id": "g133",
@@ -1264,7 +1345,8 @@
       "charactersNote": "",
       "synopsis": "根据《爱丽丝梦游仙境》改编的文字冒险，探索故事中的奇异世界。",
       "notes": "1984 年 4 月 FM 系兼容磁带；另有 エレキッド 销售版，同年但月份未明。",
-      "source": "https://fm-7.com/museum/products/yrjupxzp/releases"
+      "source": "https://fm-7.com/museum/products/yrjupxzp/releases",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g014",
@@ -1280,7 +1362,8 @@
       "charactersNote": "",
       "synopsis": "追捕窃取时光机的罪犯，穿越各个时代。",
       "notes": "日本街机原版。",
-      "source": "https://www.taito.co.jp/mob/topics/2587"
+      "source": "https://www.taito.co.jp/mob/topics/2587",
+      "subcategory": "激光影碟·动作选择"
     },
     {
       "id": "g015",
@@ -1295,7 +1378,8 @@
       "charactersNote": "",
       "synopsis": "在校园场景中与人物交谈并推进情节。",
       "notes": "按 PC-8801 初版；FM-7 移植为 1986 年。",
-      "source": "https://www.famitsu.com/news/202312/10327281.html"
+      "source": "https://www.famitsu.com/news/202312/10327281.html",
+      "subcategory": "成人向冒险"
     },
     {
       "id": "g016",
@@ -1308,7 +1392,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "在东京街区与人物相遇并展开对话。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/vt0km2jr/"
+      "source": "https://fm-7.com/museum/products/vt0km2jr/",
+      "subcategory": "恋爱剧情冒险"
     },
     {
       "id": "g017",
@@ -1321,7 +1406,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "调查轻井泽发生的绑架事件。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/iq8kysdi/"
+      "source": "https://fm-7.com/museum/products/iq8kysdi/",
+      "subcategory": "图文选项／调查"
     },
     {
       "id": "g018",
@@ -1334,7 +1420,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "围绕传说中的黄金国展开图文冒险。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/333wukd2/"
+      "source": "https://fm-7.com/museum/products/333wukd2/",
+      "subcategory": "成人向冒险"
     },
     {
       "id": "g043",
@@ -1350,7 +1437,8 @@
       "charactersNote": "",
       "synopsis": "人工智能进入模拟未来，观察一项政策对社会生活的长期影响。",
       "notes": "以观察与叙事为重；与常见的物品解谜冒险不同。",
-      "source": "https://www.infocom-if.org/games/amfv/amfv.html"
+      "source": "https://www.infocom-if.org/games/amfv/amfv.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g061",
@@ -1366,7 +1454,8 @@
       "charactersNote": "",
       "synopsis": "成为国王的格雷厄姆进入异国，寻钥匙解救被囚的瓦兰妮丝。",
       "notes": "",
-      "source": "https://www.sierragamers.com/kings-quest-2/"
+      "source": "https://www.sierragamers.com/kings-quest-2/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g071",
@@ -1382,7 +1471,8 @@
       "charactersNote": "",
       "synopsis": "送信到魔法商店后卷入寻猫和争夺神奇石头的事件。",
       "notes": "",
-      "source": "https://www.infocom-if.org/games/wishbringer/wishbringer.html"
+      "source": "https://www.infocom-if.org/games/wishbringer/wishbringer.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g072",
@@ -1398,7 +1488,8 @@
       "charactersNote": "",
       "synopsis": "魔法开始失效，魔法师公会寻找危机源头。",
       "notes": "",
-      "source": "https://www.infocom-if.org/games/spellbreaker/spellbreaker.html"
+      "source": "https://www.infocom-if.org/games/spellbreaker/spellbreaker.html",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g080",
@@ -1413,7 +1504,8 @@
       "charactersNote": "",
       "synopsis": "寻找玛雅文书，并调查 Wilson 博士失踪之谜。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/qagni9o7/"
+      "source": "https://fm-7.com/museum/products/qagni9o7/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g081",
@@ -1429,7 +1521,8 @@
       "charactersNote": "",
       "synopsis": "恐吓讯息威胁消灭地球生命，情报员 Benson 登岛追查。",
       "notes": "与 1984 年《死亡陷阱》为前后两作；角色配音未见可靠证据。",
-      "source": "https://www.gamepres.org/pc88/library/1985/1985_9.htm"
+      "source": "https://www.gamepres.org/pc88/library/1985/1985_9.htm",
+      "subcategory": "图文指令"
     },
     {
       "id": "g085",
@@ -1444,7 +1537,8 @@
       "charactersNote": "",
       "synopsis": "驾驶改装汽车追查害死妻子的车队。",
       "notes": "",
-      "source": "https://www.arcade-museum.com/Videogame/road-blaster"
+      "source": "https://www.arcade-museum.com/Videogame/road-blaster",
+      "subcategory": "激光影碟·射击／驾驶"
     },
     {
       "id": "g086",
@@ -1457,7 +1551,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "探索八间房间与人物对话，进入不同的解谜和小游戏。",
       "notes": "1985 年 PC-8801 版与 FM-7 版分别收录；馆藏另记 1986 年有同系列续作。属于成人向冒险，不按后世恋爱视觉小说理解。",
-      "source": "https://fm-7.com/museum/products/9sufuw5m/"
+      "source": "https://fm-7.com/museum/products/9sufuw5m/",
+      "subcategory": "美少女探索冒险"
     },
     {
       "id": "g109",
@@ -1472,7 +1567,8 @@
       "charactersNote": "",
       "synopsis": "任务结束后体内被植入中子弹的主角，追寻传说的终极武器“帝王之泪”。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/x0bcvxtx/"
+      "source": "https://fm-7.com/museum/products/x0bcvxtx/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g110",
@@ -1489,7 +1585,8 @@
       "charactersNote": "",
       "synopsis": "和话多的机器人玛丽一起寻访失踪的父亲杜马博士。",
       "notes": "馆藏资料称结局以续作提示收尾。",
-      "source": "https://fm-7.com/museum/products/rdtaieyr/"
+      "source": "https://fm-7.com/museum/products/rdtaieyr/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g111",
@@ -1504,7 +1601,8 @@
       "charactersNote": "",
       "synopsis": "依据同名小说和动画的冒险旅程，追寻主角的身世与秘密。",
       "notes": "",
-      "source": "https://fm-7.com/museum/products/y6ai5nay/"
+      "source": "https://fm-7.com/museum/products/y6ai5nay/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g112",
@@ -1521,7 +1619,8 @@
       "charactersNote": "",
       "synopsis": "调查神秘渔船与哥斯拉袭击事件，寻找尚子并应对飞来的导弹。",
       "notes": "游戏分为调查、限时营救与多人操作三个段落；附带哥斯拉吼声磁带并不代表人物对白配音。",
-      "source": "https://www.gamepres.org/pc88/library/1985/1985_4.htm"
+      "source": "https://www.gamepres.org/pc88/library/1985/1985_4.htm",
+      "subcategory": "图文指令"
     },
     {
       "id": "g134",
@@ -1536,7 +1635,8 @@
       "charactersNote": "",
       "synopsis": "物理学家因时间机器故障流落异世界，寻找散落零件以返回故乡。",
       "notes": "原始机种不明；冒险过程中穿插动作游戏关卡。",
-      "source": "https://fm-7.com/museum/products/7wx08tq8/"
+      "source": "https://fm-7.com/museum/products/7wx08tq8/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g135",
@@ -1551,7 +1651,8 @@
       "charactersNote": "",
       "synopsis": "落入凯罗夫尼亚，和居民交谈、解开谜题并设法离开这个国度。",
       "notes": "1985 年 QL-Pawn 原始版 1.0，纯文本、双 Microdrive；后来的 The Pawn 彩色图像版另属后续移植。",
-      "source": "https://magneticscrolls.info/facts.php"
+      "source": "https://magneticscrolls.info/facts.php",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g136",
@@ -1566,7 +1667,8 @@
       "charactersNote": "",
       "synopsis": "前往西班牙海滨度假，在层出不穷的意外中设法拍回十张假期照片。",
       "notes": "1985 年 ZX Spectrum 版，基于修改后的 The Quill。",
-      "source": "https://www.gamesdatabase.org/Media/SYSTEM/Sinclair_ZX_Spectrum/Manual/formated/Terrormolinos_-_1985_-_Melbourne_House.htm"
+      "source": "https://www.gamesdatabase.org/Media/SYSTEM/Sinclair_ZX_Spectrum/Manual/formated/Terrormolinos_-_1985_-_Melbourne_House.htm",
+      "subcategory": "纯文本指令"
     },
     {
       "id": "g137",
@@ -1582,7 +1684,8 @@
       "charactersNote": "",
       "synopsis": "遇见自称古代守护者的莫登，寻找永恒机器的七个部件并完成试炼。",
       "notes": "1985 年 ZX Spectrum 版；剧情细节待核实。",
-      "source": "https://www.mobygames.com/game/29926/mordons-quest/"
+      "source": "https://www.mobygames.com/game/29926/mordons-quest/",
+      "subcategory": "图文指令"
     },
     {
       "id": "g138",
@@ -1599,7 +1702,8 @@
       "charactersNote": "",
       "synopsis": "罗宾汉一行被囚于诺丁汉城堡，设法逃走并找回六块瑞安侬试金石。",
       "notes": "1985 年 ZX Spectrum 版。",
-      "source": "https://www.solutionarchive.com/game/id%2C451/Robin%2Bof%2BSherwood%3A%2BThe%2BTouchstones%2Bof%2BRhiannon.html"
+      "source": "https://www.solutionarchive.com/game/id%2C451/Robin%2Bof%2BSherwood%3A%2BThe%2BTouchstones%2Bof%2BRhiannon.html",
+      "subcategory": "图文指令"
     },
     {
       "id": "g019",
@@ -1614,7 +1718,8 @@
       "charactersNote": "",
       "synopsis": "与偶像小川范子进行情境互动，听到真人演出的声音。",
       "notes": "配音与歌曲来自偶像本人；并非 Leaf 式视觉小说。",
-      "source": "https://pcefan.com/pcengine/entry15.html"
+      "source": "https://pcefan.com/pcengine/entry15.html",
+      "subcategory": "光盘图文冒险"
     },
     {
       "id": "g040",
@@ -1630,7 +1735,8 @@
       "charactersNote": "",
       "synopsis": "在新神户市追查冒充人类的机器人。",
       "notes": "PC原版与1992年有声CD移植不可混为一谈。",
-      "source": "https://www.konami.com/corporate/ja/history/product.html"
+      "source": "https://www.konami.com/corporate/ja/history/product.html",
+      "subcategory": "图文选项／调查"
     },
     {
       "id": "g020",
@@ -1645,7 +1751,8 @@
       "charactersNote": "",
       "synopsis": "跟随眼镜蛇展开太空寻宝冒险。",
       "notes": "",
-      "source": "https://pcefan.com/pcengine/entry15.html"
+      "source": "https://pcefan.com/pcengine/entry15.html",
+      "subcategory": "光盘图文冒险"
     },
     {
       "id": "g045",
@@ -1661,7 +1768,8 @@
       "charactersNote": "",
       "synopsis": "德克穿越不同年代追寻遭带走的达芙妮。",
       "notes": "与 1983 年的首作分开收录。",
-      "source": "https://flyers.arcade-museum.com/videogames/show/314"
+      "source": "https://flyers.arcade-museum.com/videogames/show/314",
+      "subcategory": "激光影碟·动作选择"
     },
     {
       "id": "g021",
@@ -1674,7 +1782,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "雨夜误入洋馆，通过选择推动恐怖故事。",
       "notes": "“有声小说”指音乐与音效，不保证角色配音。",
-      "source": "https://www.spike-chunsoft.co.jp/company/outline/"
+      "source": "https://www.spike-chunsoft.co.jp/company/outline/",
+      "subcategory": "有声小说"
     },
     {
       "id": "g046",
@@ -1691,7 +1800,8 @@
       "charactersNote": "",
       "synopsis": "在毕业前的夏天走访城镇，与不同人物相遇并发展感情。",
       "notes": "1992 年 PC 原版与后续重制的画面、功能和配音不能混同。",
-      "source": "https://shiravune.com/archives/2502"
+      "source": "https://shiravune.com/archives/2502",
+      "subcategory": "恋爱剧情冒险"
     },
     {
       "id": "g022",
@@ -1707,7 +1817,8 @@
       "charactersNote": "",
       "synopsis": "被困雪山民宿时查找杀人犯。",
       "notes": "",
-      "source": "https://www.spike-chunsoft.co.jp/pages/games/kama/"
+      "source": "https://www.spike-chunsoft.co.jp/pages/games/kama/",
+      "subcategory": "有声小说"
     },
     {
       "id": "g023",
@@ -1724,7 +1835,8 @@
       "charactersNote": "",
       "synopsis": "安排三年高中生活并与角色建立关系。",
       "notes": "恋爱模拟，不属于狭义视觉小说。",
-      "source": "https://www.konami.com/games/tokimeki/about/index.html"
+      "source": "https://www.konami.com/games/tokimeki/about/index.html",
+      "subcategory": "恋爱模拟"
     },
     {
       "id": "g024",
@@ -1737,7 +1849,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "在校园中追查奇异事件。",
       "notes": "Leaf Visual Novel Series 第 1 作；兼属广义 Galgame。",
-      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/"
+      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/",
+      "subcategory": "剧情分支／冒险"
     },
     {
       "id": "g025",
@@ -1750,7 +1863,8 @@
       "charactersNote": "主要角色待可靠资料核实",
       "synopsis": "返乡后围绕一桩旧事展开多线悬疑。",
       "notes": "兼属广义 Galgame。",
-      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/"
+      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/",
+      "subcategory": "剧情分支／冒险"
     },
     {
       "id": "g038",
@@ -1768,7 +1882,8 @@
       "charactersNote": "",
       "synopsis": "穿梭平行世界，调查父亲失踪与时空装置之谜。",
       "notes": "1996原版与2017完全重制分别记录。",
-      "source": "https://yu-no.jp/spec/ps/"
+      "source": "https://yu-no.jp/spec/ps/",
+      "subcategory": "剧情分支／冒险"
     },
     {
       "id": "g026",
@@ -1786,7 +1901,8 @@
       "charactersNote": "",
       "synopsis": "体验校园日常，发展不同人物的故事线。",
       "notes": "兼属 Galgame；1999 年 PlayStation 版加入角色配音。",
-      "source": "https://aquaplus.jp/toheart/en.html"
+      "source": "https://aquaplus.jp/toheart/en.html",
+      "subcategory": "恋爱剧情"
     },
     {
       "id": "g027",
@@ -1801,7 +1917,8 @@
       "charactersNote": "",
       "synopsis": "在全动画剧情中作出选择，揭开女主角的秘密。",
       "notes": "“やるドラ”系列；由 Production I.G 制作动画。",
-      "source": "https://www.productionig.com/contents/works/05_/000169.html"
+      "source": "https://www.productionig.com/contents/works/05_/000169.html",
+      "subcategory": "全动画·剧情分支"
     },
     {
       "id": "g047",
@@ -1818,7 +1935,8 @@
       "charactersNote": "",
       "synopsis": "平静的校园生活中，浩平逐渐感受到另一个世界对日常的侵蚀。",
       "notes": "2023 年《ONE.》属于重制；各平台发行年份按当地发售年份登记。",
-      "source": "https://nexton-net.jp/nexton30th/nvm001/"
+      "source": "https://nexton-net.jp/nexton30th/nvm001/",
+      "subcategory": "恋爱剧情"
     },
     {
       "id": "g028",
@@ -1835,7 +1953,8 @@
       "charactersNote": "",
       "synopsis": "在冬季小镇重逢旧友，逐步找回记忆。",
       "notes": "兼属 Galgame；按 Windows 初版。",
-      "source": "https://key.visualarts.gr.jp/product/kanon/"
+      "source": "https://key.visualarts.gr.jp/product/kanon/",
+      "subcategory": "恋爱剧情"
     },
     {
       "id": "g029",
@@ -1852,7 +1971,8 @@
       "charactersNote": "",
       "synopsis": "旅行中的青年在海边小镇追寻传说。",
       "notes": "兼属 Galgame。",
-      "source": "https://key.visualarts.gr.jp/key20th/history.html"
+      "source": "https://key.visualarts.gr.jp/key20th/history.html",
+      "subcategory": "恋爱剧情"
     },
     {
       "id": "g048",
@@ -1869,7 +1989,8 @@
       "charactersNote": "",
       "synopsis": "大学生在海岛合宿经历七天，试图避开逐渐逼近的悲剧。",
       "notes": "PlayStation 初版原名《infinity》；后以 Never 7 名义移植。",
-      "source": "https://game.mages.co.jp/infinity/never7/"
+      "source": "https://game.mages.co.jp/infinity/never7/",
+      "subcategory": "恋爱剧情"
     },
     {
       "id": "g049",
@@ -1886,7 +2007,8 @@
       "charactersNote": "",
       "synopsis": "新人律师在调查与法庭辩论中寻找证据，替委托人洗清罪名。",
       "notes": "合集版本仅表示本作作为合集内容可玩，不等同单独新作。",
-      "source": "https://www.capcom.co.jp/ir/news/html/151221.html"
+      "source": "https://www.capcom.co.jp/ir/news/html/151221.html",
+      "subcategory": "图文选项／调查"
     },
     {
       "id": "g050",
@@ -1904,7 +2026,8 @@
       "charactersNote": "",
       "synopsis": "两条主角视角交错，寻找逃离即将坍塌的海底乐园的方法。",
       "notes": "2025 年版采用新版调整过的剧本并恢复二维人物画面。",
-      "source": "https://game.mages.co.jp/infinity/ever17/"
+      "source": "https://game.mages.co.jp/infinity/ever17/",
+      "subcategory": "剧情分支／冒险"
     },
     {
       "id": "g051",
@@ -1921,7 +2044,8 @@
       "charactersNote": "",
       "synopsis": "迁入雏见泽的圭一发现村中接连发生的失踪与死亡之谜。",
       "notes": "2002 年首发指《鬼隐篇》；之后各篇分期推出，主机合集另有追加内容。",
-      "source": "https://07th-expansion.net/Soft/Prolog.htm"
+      "source": "https://07th-expansion.net/Soft/Prolog.htm",
+      "subcategory": "有声小说"
     },
     {
       "id": "g052",
@@ -1938,7 +2062,8 @@
       "charactersNote": "",
       "synopsis": "从校园恋爱走向平行世界，为续篇的科幻战争故事铺垫。",
       "notes": "与 2006 年续篇《Muv-Luv Alternative》分开记录。",
-      "source": "https://muvluv.com/en/products/"
+      "source": "https://muvluv.com/en/products/",
+      "subcategory": "恋爱剧情冒险"
     },
     {
       "id": "g030",
@@ -1955,7 +2080,8 @@
       "charactersNote": "",
       "synopsis": "结识小镇上的人们，经历青春与家庭故事。",
       "notes": "2004 年 4 月 28 日首发；兼属广义 Galgame。",
-      "source": "https://key.visualarts.gr.jp/key20th/history.html"
+      "source": "https://key.visualarts.gr.jp/key20th/history.html",
+      "subcategory": "恋爱剧情"
     },
     {
       "id": "g031",
@@ -1973,7 +2099,8 @@
       "charactersNote": "",
       "synopsis": "卷入圣杯战争，与从者并肩求生。",
       "notes": "官网明确列出初版角色配音“无”；后续版本不同。",
-      "source": "https://www.typemoon.com/products/fate/data/index.html"
+      "source": "https://www.typemoon.com/products/fate/data/index.html",
+      "subcategory": "剧情分支／冒险"
     },
     {
       "id": "g032",
@@ -1989,7 +2116,8 @@
       "charactersNote": "",
       "synopsis": "在末日废墟与星象馆机器人相遇。",
       "notes": "最初的在线版仅有部分语音；2006 年 PS2 版扩充为全配音。",
-      "source": "https://www.prot.co.jp/ps2/planetarian/index.html"
+      "source": "https://www.prot.co.jp/ps2/planetarian/index.html",
+      "subcategory": "单线视觉小说"
     },
     {
       "id": "g033",
@@ -2006,7 +2134,8 @@
       "charactersNote": "",
       "synopsis": "围绕三名学生的感情关系，在动画剧情中选择不同走向。",
       "notes": "兼属视觉小说与 Galgame；首发 2005 年，2025 年为 20 周年。",
-      "source": "https://0verflow.com/sdre_live/"
+      "source": "https://0verflow.com/sdre_live/",
+      "subcategory": "全动画·剧情分支"
     },
     {
       "id": "g053",
@@ -2024,7 +2153,8 @@
       "charactersNote": "",
       "synopsis": "武在另一条时间线中参与对抗外星生命的作战，试图改变结局。",
       "notes": "与前作分开收录；不同地区的语言支持可能不同。",
-      "source": "https://muvluv.com/alternative/spec.htm"
+      "source": "https://muvluv.com/alternative/spec.htm",
+      "subcategory": "剧情分支／冒险"
     },
     {
       "id": "g034",
@@ -2041,7 +2171,8 @@
       "charactersNote": "",
       "synopsis": "从多名主角视角调查涩谷的人质事件。",
       "notes": "“有声小说”不等于对白配音；首发 2008 年。",
-      "source": "https://www.nintendo.co.jp/wii/software/rtoj/index.html"
+      "source": "https://www.nintendo.co.jp/wii/software/rtoj/index.html",
+      "subcategory": "有声小说"
     },
     {
       "id": "g054",
@@ -2058,7 +2189,8 @@
       "charactersNote": "",
       "synopsis": "秋叶原的伙伴误打误撞发现能影响过去的装置，故事沿不同世界线展开。",
       "notes": "2019 年 ELITE 版使用动画演出，不等同原版画面。",
-      "source": "https://steinsgate.jp/"
+      "source": "https://steinsgate.jp/",
+      "subcategory": "剧情分支／冒险"
     },
     {
       "id": "g055",
@@ -2075,7 +2207,8 @@
       "charactersNote": "",
       "synopsis": "九名被困客轮的参与者在倒计时内解密并寻找九号门。",
       "notes": "2017 年《The Nonary Games》合集为本作新增配音。",
-      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/"
+      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/",
+      "subcategory": "推理解谜融合"
     },
     {
       "id": "g035",
@@ -2092,7 +2225,8 @@
       "charactersNote": "",
       "synopsis": "被困学园，调查案件并参与班级审判。",
       "notes": "推理冒险含角色配音；不是恋爱游戏。",
-      "source": "https://www.spike-chunsoft.co.jp/news/17141/"
+      "source": "https://www.spike-chunsoft.co.jp/news/17141/",
+      "subcategory": "推理解谜融合"
     },
     {
       "id": "g039",
@@ -2109,7 +2243,8 @@
       "charactersNote": "",
       "synopsis": "从学园祭的音乐合作开始，描绘三人的感情纠葛。",
       "notes": "2010序章和2011终章属于分期发行，主机版合并章节。",
-      "source": "https://blog.aquaplus.jp/archives/2352"
+      "source": "https://blog.aquaplus.jp/archives/2352",
+      "subcategory": "恋爱剧情"
     },
     {
       "id": "g056",
@@ -2127,7 +2262,8 @@
       "charactersNote": "",
       "synopsis": "加入文学部并以诗歌与成员互动，逐步发现故事异常。",
       "notes": "2017 年免费原版、2021 年 Plus 扩展版、2025 年移动版分开标注。",
-      "source": "https://teamsalvato.com/games"
+      "source": "https://teamsalvato.com/games",
+      "subcategory": "剧情分支／冒险"
     },
     {
       "id": "g036",
@@ -2145,7 +2281,8 @@
       "charactersNote": "",
       "synopsis": "身怀特殊视觉能力的少年卷入吸血鬼事件。",
       "notes": "2021 年重制新作；2000 年同人原作另有年份。",
-      "source": "https://typemoon.com/products/tsukihime/"
+      "source": "https://typemoon.com/products/tsukihime/",
+      "subcategory": "剧情分支／冒险"
     },
     {
       "id": "g037",
@@ -2162,7 +2299,8 @@
       "charactersNote": "",
       "synopsis": "以新画面重新演绎经典校园恋爱故事。",
       "notes": "1997 年原作的 2025 年重制版，单独列示；平台发行方有别。",
-      "source": "https://aquaplus.jp/toheart/en.html"
+      "source": "https://aquaplus.jp/toheart/en.html",
+      "subcategory": "恋爱剧情"
     }
   ],
   "versions": [
@@ -2175,7 +2313,8 @@
       "kind": "原始大型机版",
       "voice": "无",
       "differences": "原作以洞穴路线和少量宝物为核心；非商业发行。",
-      "source": "https://www.catb.org/~esr/open-adventure/history.html"
+      "source": "https://www.catb.org/~esr/open-adventure/history.html",
+      "publisherCompanies": []
     },
     {
       "id": "g089-v2",
@@ -2186,7 +2325,8 @@
       "kind": "扩充版",
       "voice": "无",
       "differences": "Don Woods 在原作上增加谜题、宝藏和奇幻内容；同机种的不同内容版本。",
-      "source": "https://rickadams.org/adventure/a_history.html"
+      "source": "https://rickadams.org/adventure/a_history.html",
+      "publisherCompanies": []
     },
     {
       "id": "g090-v1",
@@ -2197,7 +2337,8 @@
       "kind": "大型机原作",
       "voice": "无",
       "differences": "MIT 收藏的 1977 年 MDL 源码；随后商业版拆分为《Zork I》等独立作品。",
-      "source": "https://github.com/MITDDC/zork"
+      "source": "https://github.com/MITDDC/zork",
+      "publisherCompanies": []
     },
     {
       "id": "g091-v1",
@@ -2208,7 +2349,8 @@
       "kind": "首发录音带",
       "voice": "无",
       "differences": "最初的商业家用机文字冒险之一；后续 Adventure International 包装版时间另待核。",
-      "source": "https://www.msadams.com/adventures.htm"
+      "source": "https://www.msadams.com/adventures.htm",
+      "publisherCompanies": []
     },
     {
       "id": "g092-v1",
@@ -2219,7 +2361,10 @@
       "kind": "早期家用机版",
       "voice": "无",
       "differences": "作者 Scott 与 Alexis Adams；具体早期商业包装和出版名称仍待逐批核对。",
-      "source": "https://ifdb.org/viewgame?id=zya3mo3njj58hewi"
+      "source": "https://ifdb.org/viewgame?id=zya3mo3njj58hewi",
+      "publisherCompanies": [
+        "Adventure International"
+      ]
     },
     {
       "id": "g089-v3",
@@ -2230,7 +2375,10 @@
       "kind": "Microsoft Adventure 商业改编",
       "voice": "无",
       "differences": "家用电脑版本，属于《Adventure》的商业改编；不等同于 1976 年源代码。",
-      "source": "https://www.trs-80.org/microsoft-adventure.html"
+      "source": "https://www.trs-80.org/microsoft-adventure.html",
+      "publisherCompanies": [
+        "Microsoft"
+      ]
     },
     {
       "id": "g089-v4",
@@ -2241,7 +2389,10 @@
       "kind": "Microsoft Adventure 商业改编",
       "voice": "无",
       "differences": "同年销售的 Apple II 版，发行时间据电脑史馆藏。",
-      "source": "https://www.trs-80.org/microsoft-adventure.html"
+      "source": "https://www.trs-80.org/microsoft-adventure.html",
+      "publisherCompanies": [
+        "Microsoft"
+      ]
     },
     {
       "id": "g093-v1",
@@ -2252,7 +2403,10 @@
       "kind": "早期家用机版",
       "voice": "无",
       "differences": "1979 年发行，但最早的具体机种及包装待核；不推定为 TRS-80 首发。",
-      "source": "https://ifdb.org/viewgame?id=89qmjvv4cb0z93t5"
+      "source": "https://ifdb.org/viewgame?id=89qmjvv4cb0z93t5",
+      "publisherCompanies": [
+        "Adventure International"
+      ]
     },
     {
       "id": "g001-v1",
@@ -2263,7 +2417,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "最早商业发行版。",
-      "source": "https://www.sierragamers.com/ken-williams/"
+      "source": "https://www.sierragamers.com/ken-williams/",
+      "publisherCompanies": [
+        "On-Line Systems"
+      ]
     },
     {
       "id": "g002-v1",
@@ -2274,7 +2431,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "按 Infocom 商业版；早期大型机 Zork 不并入。",
-      "source": "https://infocom-if.org/company/company.html"
+      "source": "https://infocom-if.org/company/company.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g057-v1",
@@ -2285,7 +2445,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "彩色静态插图与文字指令。",
-      "source": "https://www.sierragamers.com/roberta-williams/"
+      "source": "https://www.sierragamers.com/roberta-williams/",
+      "publisherCompanies": [
+        "On-Line Systems"
+      ]
     },
     {
       "id": "g058-v1",
@@ -2296,7 +2459,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "英文指令与彩色场景。",
-      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/001_On_Line_Letter_Volume_1_Number_1_June_1981.pdf"
+      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/001_On_Line_Letter_Volume_1_Number_1_June_1981.pdf",
+      "publisherCompanies": [
+        "On-Line Systems"
+      ]
     },
     {
       "id": "g062-v1",
@@ -2307,7 +2473,10 @@
       "kind": "首发／早期多机种",
       "voice": "无",
       "differences": "此处合并同年早期计算机平台；具体机种日期待核实。",
-      "source": "https://www.infocom-if.org/games/zork2/zork2.html"
+      "source": "https://www.infocom-if.org/games/zork2/zork2.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g094-v1",
@@ -2318,7 +2487,10 @@
       "kind": "首发商业版",
       "voice": "无",
       "differences": "文本指令；归入成人喜剧文字冒险，不等同于后来的恋爱视觉小说。",
-      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf"
+      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf",
+      "publisherCompanies": [
+        "On-Line Systems"
+      ]
     },
     {
       "id": "g003-v1",
@@ -2329,7 +2501,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "作品最早确认的版本。",
-      "source": "https://infocom-if.org/games/games.html"
+      "source": "https://infocom-if.org/games/games.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g004-v1",
@@ -2340,7 +2515,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "历史作品；严格说并非典型恋爱叙事游戏。",
-      "source": "https://www.famitsu.com/news/202312/10327281.html"
+      "source": "https://www.famitsu.com/news/202312/10327281.html",
+      "publisherCompanies": [
+        "光荣"
+      ]
     },
     {
       "id": "g005-v1",
@@ -2351,7 +2529,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "按广义早期美少女游戏收录；不是视觉小说。",
-      "source": "https://fm-7.com/museum/products/7bj82lkr/"
+      "source": "https://fm-7.com/museum/products/7bj82lkr/",
+      "publisherCompanies": [
+        "PSK"
+      ]
     },
     {
       "id": "g057-v2",
@@ -2362,7 +2543,10 @@
       "kind": "Adventure in Serenia 版本",
       "voice": "无",
       "differences": "以不同标题发行的 IBM 移植版。",
-      "source": "https://www.sierragamers.com/hi-res/"
+      "source": "https://www.sierragamers.com/hi-res/",
+      "publisherCompanies": [
+        "IBM"
+      ]
     },
     {
       "id": "g059-v1",
@@ -2373,7 +2557,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "多张磁盘的跨时代图文冒险。",
-      "source": "https://www.sierragamers.com/hi-res/"
+      "source": "https://www.sierragamers.com/hi-res/",
+      "publisherCompanies": [
+        "On-Line Systems"
+      ]
     },
     {
       "id": "g063-v1",
@@ -2384,7 +2571,10 @@
       "kind": "首发／早期多机种",
       "voice": "无",
       "differences": "同年发行机种与先后顺序仍待逐台核实。",
-      "source": "https://www.infocom-if.org/games/zork3/zork3.html"
+      "source": "https://www.infocom-if.org/games/zork3/zork3.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g064-v1",
@@ -2395,7 +2585,10 @@
       "kind": "首发／早期多机种",
       "voice": "无",
       "differences": "以文字命令探索外星飞船；机种明细待核实。",
-      "source": "https://www.infocom-if.org/games/starcross/starcross.html"
+      "source": "https://www.infocom-if.org/games/starcross/starcross.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g095-v1",
@@ -2406,7 +2599,11 @@
       "kind": "Hi-Res Adventure #4",
       "voice": "无",
       "differences": "上方场景插图、下方两词指令；系列页和设计师年表列 1982 年。",
-      "source": "https://www.sierragamers.com/hi-res/"
+      "source": "https://www.sierragamers.com/hi-res/",
+      "publisherCompanies": [
+        "On-Line Systems",
+        "Sierra On-Line"
+      ]
     },
     {
       "id": "g096-v1",
@@ -2417,7 +2614,10 @@
       "kind": "1982 年 4 月杂志版",
       "voice": "无",
       "differences": "随《月刊 ASCII》附刊 Ah!SKI 发表的文本指令游戏。",
-      "source": "https://ifdb.org/viewgame?id=l0ovglum7br9nztc"
+      "source": "https://ifdb.org/viewgame?id=l0ovglum7br9nztc",
+      "publisherCompanies": [
+        "ASCII"
+      ]
     },
     {
       "id": "g096-v2",
@@ -2428,7 +2628,10 @@
       "kind": "同刊载机种适配",
       "voice": "无",
       "differences": "利用杂志所列机种接口执行相同程序；不是另一次商业发行。",
-      "source": "https://electrelic.com/electrelic/node/1072?language=en"
+      "source": "https://electrelic.com/electrelic/node/1072?language=en",
+      "publisherCompanies": [
+        "ASCII"
+      ]
     },
     {
       "id": "g096-v3",
@@ -2439,7 +2642,10 @@
       "kind": "同刊载机种适配",
       "voice": "无",
       "differences": "共用游戏主体，机种依赖部分不同；不是 PC-9801 首发。",
-      "source": "https://electrelic.com/electrelic/node/1072?language=en"
+      "source": "https://electrelic.com/electrelic/node/1072?language=en",
+      "publisherCompanies": [
+        "ASCII"
+      ]
     },
     {
       "id": "g097-v1",
@@ -2450,7 +2656,10 @@
       "kind": "日本原始版",
       "voice": "无",
       "differences": "1982 年夏 MZ 系列黑白图像作品，与 Sierra 同名游戏故事不同。",
-      "source": "https://www.gamepres.org/pc88/library/adv.htm"
+      "source": "https://www.gamepres.org/pc88/library/adv.htm",
+      "publisherCompanies": [
+        "マイクロキャビン"
+      ]
     },
     {
       "id": "g098-v1",
@@ -2461,7 +2670,10 @@
       "kind": "早期 FM 版",
       "voice": "无",
       "differences": "馆藏列 1982 年；早期 FM-8 盘与 FM-7 不兼容。",
-      "source": "https://fm-7.com/museum/products/jna9lxqz/"
+      "source": "https://fm-7.com/museum/products/jna9lxqz/",
+      "publisherCompanies": [
+        "マイクロキャビン"
+      ]
     },
     {
       "id": "g113-v1",
@@ -2472,7 +2684,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "1982 年 ZX Spectrum 录音带原版；同年 Sinclair Research 曾发行同平台再版。",
-      "source": "https://worldofspectrum.org/software?id=0006440"
+      "source": "https://worldofspectrum.org/software?id=0006440",
+      "publisherCompanies": [
+        "Melbourne House"
+      ]
     },
     {
       "id": "g113-v2",
@@ -2483,7 +2698,10 @@
       "kind": "同平台再版",
       "voice": "未核实",
       "differences": "馆藏另列 1982 年 Sinclair Research 的 ZX Spectrum 再版，平台和游戏本体相同。",
-      "source": "https://worldofspectrum.org/software?id=0006440"
+      "source": "https://worldofspectrum.org/software?id=0006440",
+      "publisherCompanies": [
+        "Sinclair Research"
+      ]
     },
     {
       "id": "g001-v2",
@@ -2494,7 +2712,10 @@
       "kind": "日本移植",
       "voice": "无",
       "differences": "1983 年 4 月 PC-8801 移植 Sierra 原作；与同名 MicroCabin 原创作品不同。",
-      "source": "https://www.gamepres.org/pc88/library/1983/1983_4.htm"
+      "source": "https://www.gamepres.org/pc88/library/1983/1983_4.htm",
+      "publisherCompanies": [
+        "スタークラフト"
+      ]
     },
     {
       "id": "g006-v1",
@@ -2505,7 +2726,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "作品最早确认的版本。",
-      "source": "https://www.infocom-if.org/authors/meretzky.html"
+      "source": "https://www.infocom-if.org/authors/meretzky.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g007-v1",
@@ -2516,7 +2740,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "此处文字冒险包括图文指令游戏。",
-      "source": "https://fm-7.com/museum/products/k6sufaqm/"
+      "source": "https://fm-7.com/museum/products/k6sufaqm/",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g008-v1",
@@ -2527,7 +2754,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "部分版本附有磁带人声；不等同游戏内角色配音。",
-      "source": "https://fm-7.com/museum/products/1paitdl4/"
+      "source": "https://fm-7.com/museum/products/1paitdl4/",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g009-v1",
@@ -2538,7 +2768,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "作品最早确认的版本。",
-      "source": "https://www.famitsu.com/news/202312/10327281.html"
+      "source": "https://www.famitsu.com/news/202312/10327281.html",
+      "publisherCompanies": [
+        "光荣"
+      ]
     },
     {
       "id": "g010-v1",
@@ -2549,7 +2782,10 @@
       "kind": "首发",
       "voice": "有",
       "differences": "美国街机原版。",
-      "source": "https://www.arcade-history.com/game/702/"
+      "source": "https://www.arcade-history.com/game/702/",
+      "publisherCompanies": [
+        "Cinematronics"
+      ]
     },
     {
       "id": "g041-v1",
@@ -2560,7 +2796,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "文字指令控制不同机器人完成修复。",
-      "source": "https://www.infocom-if.org/games/games.html"
+      "source": "https://www.infocom-if.org/games/games.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g042-v1",
@@ -2571,7 +2810,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "咒语收集与解析器指令是主要玩法。",
-      "source": "https://www.infocom-if.org/games/games.html"
+      "source": "https://www.infocom-if.org/games/games.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g057-v3",
@@ -2582,7 +2824,10 @@
       "kind": "日本移植",
       "voice": "无",
       "differences": "由 Starcraft 移植，画面与平台适配有别于 Apple II。",
-      "source": "https://fm-7.com/museum/products/gcdtmjc7/"
+      "source": "https://fm-7.com/museum/products/gcdtmjc7/",
+      "publisherCompanies": [
+        "スタークラフト"
+      ]
     },
     {
       "id": "g058-v2",
@@ -2593,7 +2838,10 @@
       "kind": "日本移植",
       "voice": "无",
       "differences": "日本 FM-7 平台移植；追寻宅邸中的宝藏。",
-      "source": "https://fm-7.com/museum/products/0mvxzwag/"
+      "source": "https://fm-7.com/museum/products/0mvxzwag/",
+      "publisherCompanies": [
+        "スタークラフト"
+      ]
     },
     {
       "id": "g065-v1",
@@ -2604,7 +2852,10 @@
       "kind": "首发／早期多机种",
       "voice": "无",
       "differences": "依据 Infocom 年表与作者资料记为 1983 年；各机种另待核实。",
-      "source": "https://www.infocom-if.org/authors/galley.html"
+      "source": "https://www.infocom-if.org/authors/galley.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g066-v1",
@@ -2615,7 +2866,10 @@
       "kind": "首发／早期多机种",
       "voice": "无",
       "differences": "沙漠求生与古迹探索；机种明细待核实。",
-      "source": "https://www.infocom-if.org/games/infidel/infidel.html"
+      "source": "https://www.infocom-if.org/games/infidel/infidel.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g073-v1",
@@ -2626,7 +2880,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "档案列 FM-7 为原始机种，采用指令与画面目标选择。",
-      "source": "https://fm-7.com/museum/products/tocvx2b8/"
+      "source": "https://fm-7.com/museum/products/tocvx2b8/",
+      "publisherCompanies": [
+        "T&E SOFT"
+      ]
     },
     {
       "id": "g074-v1",
@@ -2637,7 +2894,10 @@
       "kind": "首发机种",
       "voice": "无",
       "differences": "档案将 X1D 列为原始机种；准确先后月份待核实。",
-      "source": "https://fm-7.com/museum/products/zd9clwc4/"
+      "source": "https://fm-7.com/museum/products/zd9clwc4/",
+      "publisherCompanies": [
+        "Hudson Soft（哈德森）"
+      ]
     },
     {
       "id": "g074-v2",
@@ -2648,7 +2908,10 @@
       "kind": "移植",
       "voice": "无",
       "differences": "FM-7 图文指令版；与 X1D 同年，月份待核实。",
-      "source": "https://fm-7.com/museum/products/zd9clwc4/"
+      "source": "https://fm-7.com/museum/products/zd9clwc4/",
+      "publisherCompanies": [
+        "Hudson Soft（哈德森）"
+      ]
     },
     {
       "id": "g075-v1",
@@ -2659,7 +2922,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "附立体眼镜的图文冒险；有音乐但角色人声未见证据。",
-      "source": "https://fm-7.com/museum/products/91e3ra67/"
+      "source": "https://fm-7.com/museum/products/91e3ra67/",
+      "publisherCompanies": [
+        "チャンピオンソフト"
+      ]
     },
     {
       "id": "g082-v1",
@@ -2670,7 +2936,10 @@
       "kind": "首发",
       "voice": "未核实",
       "differences": "动画影碟穿插射击环节；非文字分支视觉小说。",
-      "source": "https://www.arcade-museum.com/Videogame/begas-battle"
+      "source": "https://www.arcade-museum.com/Videogame/begas-battle",
+      "publisherCompanies": [
+        "Data East"
+      ]
     },
     {
       "id": "g087-v1",
@@ -2681,7 +2950,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "前作续篇，另有几段 3D 射击；角色人声未见证据。",
-      "source": "https://fm-7.com/museum/products/gttnk7za/"
+      "source": "https://fm-7.com/museum/products/gttnk7za/",
+      "publisherCompanies": [
+        "T&E SOFT"
+      ]
     },
     {
       "id": "g097-v2",
@@ -2692,7 +2964,10 @@
       "kind": "彩色移植",
       "voice": "无",
       "differences": "馆藏标为 1983 年 11 月；改为 FM-7 彩色画面，且此版晚于《谜之屋 II》的 FM 版。",
-      "source": "https://fm-7.com/museum/products/az1oan43/"
+      "source": "https://fm-7.com/museum/products/az1oan43/",
+      "publisherCompanies": [
+        "マイクロキャビン"
+      ]
     },
     {
       "id": "g098-v2",
@@ -2703,7 +2978,10 @@
       "kind": "FM-7 专用版",
       "voice": "无",
       "differences": "馆藏发行明细记为 1983 年 FM-7 专用版；早期 FM-8 盘在 FM-7 不能正常运行。",
-      "source": "https://fm-7.com/museum/products/jna9lxqz/releases"
+      "source": "https://fm-7.com/museum/products/jna9lxqz/releases",
+      "publisherCompanies": [
+        "マイクロキャビン"
+      ]
     },
     {
       "id": "g099-v1",
@@ -2714,7 +2992,10 @@
       "kind": "Hi-Res Adventure #6",
       "voice": "无",
       "differences": "依电影改编的图文冒险，输入文字命令进行探索。",
-      "source": "https://www.sierragamers.com/the-dark-crystal/"
+      "source": "https://www.sierragamers.com/the-dark-crystal/",
+      "publisherCompanies": [
+        "Sierra On-Line"
+      ]
     },
     {
       "id": "g100-v1",
@@ -2725,7 +3006,10 @@
       "kind": "1983 年 4 月发表",
       "voice": "无",
       "differences": "《表参道冒险》后续作品，英文命令文本游戏；首发机种记为 PC-8001 及以后兼容系列。",
-      "source": "https://www.gamepres.org/pc88/library/1983/1983_4.htm"
+      "source": "https://www.gamepres.org/pc88/library/1983/1983_4.htm",
+      "publisherCompanies": [
+        "ASCII"
+      ]
     },
     {
       "id": "g101-v1",
@@ -2736,7 +3020,10 @@
       "kind": "系列第 1 作",
       "voice": "无",
       "differences": "馆藏记 1983 年 1 月，原始机种标 FM-8；图文指令冒险。",
-      "source": "https://fm-7.com/museum/products/aibua2n8/"
+      "source": "https://fm-7.com/museum/products/aibua2n8/",
+      "publisherCompanies": [
+        "ハミングバードソフト"
+      ]
     },
     {
       "id": "g101-v2",
@@ -2747,7 +3034,10 @@
       "kind": "FM-7 适配",
       "voice": "无",
       "differences": "FM-7 兼容版本；与 FM-8 的具体发行先后待核。",
-      "source": "https://fm-7.com/museum/products/aibua2n8/"
+      "source": "https://fm-7.com/museum/products/aibua2n8/",
+      "publisherCompanies": [
+        "ハミングバードソフト"
+      ]
     },
     {
       "id": "g102-v1",
@@ -2758,7 +3048,10 @@
       "kind": "系列第 2 作",
       "voice": "无",
       "differences": "馆藏原始机种为 FM-7/8；与《帕姆斯》相比更多中间色画面。",
-      "source": "https://fm-7.com/museum/products/vitpdgtz/"
+      "source": "https://fm-7.com/museum/products/vitpdgtz/",
+      "publisherCompanies": [
+        "ハミングバードソフト"
+      ]
     },
     {
       "id": "g103-v1",
@@ -2769,7 +3062,10 @@
       "kind": "早期 FM 版",
       "voice": "无",
       "differences": "馆藏明确 FM-7 机种；以文字指令推进，含日文平假名显示。",
-      "source": "https://fm-7.com/museum/products/vjg12a36/"
+      "source": "https://fm-7.com/museum/products/vjg12a36/",
+      "publisherCompanies": [
+        "キャリーラボ"
+      ]
     },
     {
       "id": "g104-v1",
@@ -2780,7 +3076,10 @@
       "kind": "早期成人冒险",
       "voice": "无",
       "differences": "馆藏将其列为冒险与成人向，首发机种未核实。",
-      "source": "https://fm-7.com/museum/products/7kjmjxi8/"
+      "source": "https://fm-7.com/museum/products/7kjmjxi8/",
+      "publisherCompanies": [
+        "チャンピオンソフト"
+      ]
     },
     {
       "id": "g113-v3",
@@ -2791,7 +3090,10 @@
       "kind": "录音带移植",
       "voice": "未核实",
       "differences": "档案页将 C64 录音带版列为 1983；页面另列 1985 年该版装载器，年份有异文，待查当年包装。",
-      "source": "https://www.lemon64.com/game/hobbit-tape-version"
+      "source": "https://www.lemon64.com/game/hobbit-tape-version",
+      "publisherCompanies": [
+        "Melbourne House"
+      ]
     },
     {
       "id": "g114-v1",
@@ -2802,7 +3104,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "ZX Spectrum 初版；1984 年 C64 版单列。",
-      "source": "https://worldofspectrum.org/archive/software/games/valhalla-legend-1"
+      "source": "https://worldofspectrum.org/archive/software/games/valhalla-legend-1",
+      "publisherCompanies": [
+        "Legend"
+      ]
     },
     {
       "id": "g115-v1",
@@ -2813,7 +3118,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "馆藏将 FM-7 列为原始机种。",
-      "source": "https://fm-7.com/museum/products/mrq0utaa/"
+      "source": "https://fm-7.com/museum/products/mrq0utaa/",
+      "publisherCompanies": [
+        "リバーヒルソフト"
+      ]
     },
     {
       "id": "g116-v1",
@@ -2824,7 +3132,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "馆藏列 FM 系兼容机种，原始机种不明，合并记为一个兼容版本。",
-      "source": "https://fm-7.com/museum/products/kgzrbt1p/"
+      "source": "https://fm-7.com/museum/products/kgzrbt1p/",
+      "publisherCompanies": [
+        "リバーヒルソフト"
+      ]
     },
     {
       "id": "g117-v1",
@@ -2835,7 +3146,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "原始机种不明，馆藏记载 FM 系兼容。",
-      "source": "https://fm-7.com/museum/products/db6qluaw/"
+      "source": "https://fm-7.com/museum/products/db6qluaw/",
+      "publisherCompanies": [
+        "リバーヒルソフト"
+      ]
     },
     {
       "id": "g118-v1",
@@ -2846,7 +3160,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "1983 年 6 月共用磁带；馆藏将 FM-8 列为原始机种。",
-      "source": "https://fm-7.com/museum/products/vj1bitct/releases"
+      "source": "https://fm-7.com/museum/products/vj1bitct/releases",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g119-v1",
@@ -2857,7 +3174,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "1983 年 10 月 FM-7 版；馆藏列其为原始机种。",
-      "source": "https://fm-7.com/museum/products/l2zkgfa5/"
+      "source": "https://fm-7.com/museum/products/l2zkgfa5/",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g120-v1",
@@ -2868,7 +3188,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "原名「ファンタジーアイランド」；1983 年 10 月 FM-7 版。",
-      "source": "https://fm-7.com/museum/products/qto4u7tq/"
+      "source": "https://fm-7.com/museum/products/qto4u7tq/",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g121-v1",
@@ -2879,7 +3202,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "原始机种不明，馆藏记载 FM 系兼容。",
-      "source": "https://fm-7.com/museum/products/0refcz7z/"
+      "source": "https://fm-7.com/museum/products/0refcz7z/",
+      "publisherCompanies": [
+        "チャンピオンソフト"
+      ]
     },
     {
       "id": "g122-v1",
@@ -2890,7 +3216,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "原始机种不明，馆藏记载 FM 系兼容。",
-      "source": "https://fm-7.com/museum/products/a1b1vc7z/"
+      "source": "https://fm-7.com/museum/products/a1b1vc7z/",
+      "publisherCompanies": [
+        "チャンピオンソフト"
+      ]
     },
     {
       "id": "g123-v1",
@@ -2901,7 +3230,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "原始机种不明，馆藏记载 FM 系兼容。",
-      "source": "https://fm-7.com/museum/products/lrdwgvuy/"
+      "source": "https://fm-7.com/museum/products/lrdwgvuy/",
+      "publisherCompanies": [
+        "チャンピオンソフト"
+      ]
     },
     {
       "id": "g011-v1",
@@ -2912,7 +3244,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "作品最早确认的版本。",
-      "source": "https://infocom-if.org/games/games.html"
+      "source": "https://infocom-if.org/games/games.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g012-v1",
@@ -2923,7 +3258,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "1984 年 PC 原版；FM-7 移植在 1985 年。",
-      "source": "https://www.gamepres.org/pc88/library/1984/ohotsuku.htm"
+      "source": "https://www.gamepres.org/pc88/library/1984/ohotsuku.htm",
+      "publisherCompanies": [
+        "ASCII"
+      ]
     },
     {
       "id": "g013-v1",
@@ -2934,7 +3272,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "首发 1984；FM-7 版登记为 1985 年。",
-      "source": "https://www.famitsu.com/news/202312/10327281.html"
+      "source": "https://www.famitsu.com/news/202312/10327281.html",
+      "publisherCompanies": [
+        "光荣"
+      ]
     },
     {
       "id": "g044-v1",
@@ -2945,7 +3286,10 @@
       "kind": "首发",
       "voice": "有",
       "differences": "激光影碟播放手绘动画；按时操作决定分支。",
-      "source": "https://www.arcade-museum.com/Videogame/space-ace--cinematronics"
+      "source": "https://www.arcade-museum.com/Videogame/space-ace--cinematronics",
+      "publisherCompanies": [
+        "Cinematronics"
+      ]
     },
     {
       "id": "g060-v1",
@@ -2956,7 +3300,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "移动角色与输入指令相结合的早期动画冒险。",
-      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/Kings_Quest_1_Manual_1_IBM_Version.pdf"
+      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/Kings_Quest_1_Manual_1_IBM_Version.pdf",
+      "publisherCompanies": [
+        "IBM"
+      ]
     },
     {
       "id": "g060-v2",
@@ -2967,7 +3314,10 @@
       "kind": "PC 移植",
       "voice": "无",
       "differences": "一般 PC 发行版与原 PCjr 版的硬件适配不同。",
-      "source": "https://www.sierragamers.com/kq1-grey-box/"
+      "source": "https://www.sierragamers.com/kq1-grey-box/",
+      "publisherCompanies": [
+        "Sierra On-Line"
+      ]
     },
     {
       "id": "g067-v1",
@@ -2978,7 +3328,10 @@
       "kind": "首发／早期多机种",
       "voice": "无",
       "differences": "《Enchanter》的系列后续，需收集和运用咒语。",
-      "source": "https://www.infocom-if.org/games/sorcerer/sorcerer.html"
+      "source": "https://www.infocom-if.org/games/sorcerer/sorcerer.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g068-v1",
@@ -2989,7 +3342,10 @@
       "kind": "首发／早期多机种",
       "voice": "无",
       "differences": "面向较年轻读者的文字冒险。",
-      "source": "https://www.infocom-if.org/games/seastalker/seastalker.html"
+      "source": "https://www.infocom-if.org/games/seastalker/seastalker.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g069-v1",
@@ -3000,7 +3356,10 @@
       "kind": "首发／早期多机种",
       "voice": "无",
       "differences": "不同开局可能指向不同沉船。",
-      "source": "https://www.infocom-if.org/games/cutthroats/cutthroats.html"
+      "source": "https://www.infocom-if.org/games/cutthroats/cutthroats.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g070-v1",
@@ -3011,7 +3370,10 @@
       "kind": "首发／早期多机种",
       "voice": "无",
       "differences": "从被怀疑者的视角搜集线索。",
-      "source": "https://www.infocom-if.org/games/suspect/suspect.html"
+      "source": "https://www.infocom-if.org/games/suspect/suspect.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g076-v1",
@@ -3022,7 +3384,10 @@
       "kind": "原始机种",
       "voice": "无",
       "differences": "档案认定 PC-8801 为原始平台；以指令和静态图像推进。",
-      "source": "https://fm-7.com/museum/products/1xukf90e/"
+      "source": "https://fm-7.com/museum/products/1xukf90e/",
+      "publisherCompanies": [
+        "スクウェア"
+      ]
     },
     {
       "id": "g076-v2",
@@ -3033,7 +3398,10 @@
       "kind": "同年移植",
       "voice": "无",
       "differences": "FM-7 馆藏标注 1984 年 12 月；与 PC 版分开。",
-      "source": "https://fm-7.com/museum/products/1xukf90e/"
+      "source": "https://fm-7.com/museum/products/1xukf90e/",
+      "publisherCompanies": [
+        "スクウェア"
+      ]
     },
     {
       "id": "g077-v1",
@@ -3044,7 +3412,10 @@
       "kind": "早期 PC 版",
       "voice": "无",
       "differences": "1984 年 7 月 PC-8801 版；日文指令图文冒险。",
-      "source": "https://www.gamepres.org/pc88/library/1984/1984_7.htm"
+      "source": "https://www.gamepres.org/pc88/library/1984/1984_7.htm",
+      "publisherCompanies": [
+        "Hudson Soft（哈德森）"
+      ]
     },
     {
       "id": "g077-v2",
@@ -3055,7 +3426,10 @@
       "kind": "同年多机种版",
       "voice": "无",
       "differences": "FM-7 馆藏确认 1984 年，未确认与 PC-8801 的发行先后。",
-      "source": "https://fm-7.com/museum/products/zyh0e5dv/"
+      "source": "https://fm-7.com/museum/products/zyh0e5dv/",
+      "publisherCompanies": [
+        "Hudson Soft（哈德森）"
+      ]
     },
     {
       "id": "g078-v1",
@@ -3066,7 +3440,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "馆藏列 FM-7 为原始机种，画面受科幻动画影响。",
-      "source": "https://fm-7.com/museum/products/3txek9px/"
+      "source": "https://fm-7.com/museum/products/3txek9px/",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g079-v1",
@@ -3077,7 +3454,10 @@
       "kind": "原始 PC 版",
       "voice": "无",
       "differences": "1984 年 11 月 PC-8801 版；角色名以原作设定为背景。",
-      "source": "https://www.gamepres.org/pc88/library/1984/1984_11.htm"
+      "source": "https://www.gamepres.org/pc88/library/1984/1984_11.htm",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g083-v1",
@@ -3088,7 +3468,10 @@
       "kind": "首发",
       "voice": "未核实",
       "differences": "日本名《Thunder Storm》，海外街机名《Cobra Command》；与 1988 年同名射击游戏无关。",
-      "source": "https://www.arcade-museum.com/Videogame/cobra-command"
+      "source": "https://www.arcade-museum.com/Videogame/cobra-command",
+      "publisherCompanies": [
+        "Data East"
+      ]
     },
     {
       "id": "g084-v1",
@@ -3099,7 +3482,10 @@
       "kind": "首发",
       "voice": "未核实",
       "differences": "激光影碟播放动画，按提示决定动作；角色配音范围待核实。",
-      "source": "https://www.taito.co.jp/mob/topics/26255"
+      "source": "https://www.taito.co.jp/mob/topics/26255",
+      "publisherCompanies": [
+        "TAITO（太东）"
+      ]
     },
     {
       "id": "g088-v1",
@@ -3110,7 +3496,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "含角色移动、飞行及简化战斗等混合玩法。",
-      "source": "https://fm-7.com/museum/products/crs8l0ue/"
+      "source": "https://fm-7.com/museum/products/crs8l0ue/",
+      "publisherCompanies": [
+        "T&E SOFT"
+      ]
     },
     {
       "id": "g099-v2",
@@ -3121,7 +3510,10 @@
       "kind": "Gelfling Adventure 儿童改编版",
       "voice": "无",
       "differences": "同题材重新设计为选择式界面，适合较年轻的玩家；1984 年版本据 Sierra 年鉴。",
-      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf"
+      "source": "https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf",
+      "publisherCompanies": [
+        "Sierra On-Line"
+      ]
     },
     {
       "id": "g105-v1",
@@ -3132,7 +3524,10 @@
       "kind": "系列首作",
       "voice": "无",
       "differences": "图文指令科幻冒险；馆藏将原始机种记为 FM-7/8。",
-      "source": "https://fm-7.com/museum/products/74ajuk34/"
+      "source": "https://fm-7.com/museum/products/74ajuk34/",
+      "publisherCompanies": [
+        "ハミングバードソフト"
+      ]
     },
     {
       "id": "g106-v1",
@@ -3143,7 +3538,10 @@
       "kind": "早期 FM 版",
       "voice": "无",
       "differences": "馆藏确认该机种和年份；完整首发机种顺序未核实。",
-      "source": "https://fm-7.com/museum/products/yyf8ms3g/"
+      "source": "https://fm-7.com/museum/products/yyf8ms3g/",
+      "publisherCompanies": [
+        "リバーヒルソフト"
+      ]
     },
     {
       "id": "g107-v1",
@@ -3154,7 +3552,10 @@
       "kind": "早期 FM 版",
       "voice": "无",
       "differences": "后半部分含三维迷宫；其他早期机种的确切年份待核。",
-      "source": "https://fm-7.com/museum/products/7ggib9g6/"
+      "source": "https://fm-7.com/museum/products/7ggib9g6/",
+      "publisherCompanies": [
+        "日本ファルコム"
+      ]
     },
     {
       "id": "g108-v1",
@@ -3165,7 +3566,10 @@
       "kind": "原始 PC 版",
       "voice": "无",
       "differences": "馆藏标 PC-8801 为原始机种，具体首发月份未获核实。",
-      "source": "https://fm-7.com/museum/products/4l5wmkh8/"
+      "source": "https://fm-7.com/museum/products/4l5wmkh8/",
+      "publisherCompanies": [
+        "日本ファルコム"
+      ]
     },
     {
       "id": "g108-v2",
@@ -3176,7 +3580,10 @@
       "kind": "FM-7 移植",
       "voice": "无",
       "differences": "馆藏标 1984 年；场景快速绘制，FM-7 版画面生成约 1 秒。",
-      "source": "https://fm-7.com/museum/products/4l5wmkh8/"
+      "source": "https://fm-7.com/museum/products/4l5wmkh8/",
+      "publisherCompanies": [
+        "日本ファルコム"
+      ]
     },
     {
       "id": "g114-v2",
@@ -3187,7 +3594,10 @@
       "kind": "移植版",
       "voice": "未核实",
       "differences": "1984 年 Commodore 64 版；平台发布时间与 1983 年 ZX Spectrum 原版分列。",
-      "source": "https://www.lemon64.com/game/valhalla"
+      "source": "https://www.lemon64.com/game/valhalla",
+      "publisherCompanies": [
+        "Legend"
+      ]
     },
     {
       "id": "g124-v1",
@@ -3198,7 +3608,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "原始机种不明，馆藏记载 FM 系兼容。",
-      "source": "https://fm-7.com/museum/products/6mwspus0/"
+      "source": "https://fm-7.com/museum/products/6mwspus0/",
+      "publisherCompanies": [
+        "リバーヒルソフト"
+      ]
     },
     {
       "id": "g125-v1",
@@ -3209,7 +3622,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "四分屏同时显示当前及前三个场景；原始机种未明。",
-      "source": "https://fm-7.com/museum/products/5bzhbzog/"
+      "source": "https://fm-7.com/museum/products/5bzhbzog/",
+      "publisherCompanies": [
+        "リバーヒルソフト"
+      ]
     },
     {
       "id": "g126-v1",
@@ -3220,7 +3636,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "1984 年 6 月 FM-7 原版；参赛时原名「座間高アドベンチャー」。",
-      "source": "https://fm-7.com/museum/products/e2w2qqkl/"
+      "source": "https://fm-7.com/museum/products/e2w2qqkl/",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g127-v1",
@@ -3231,7 +3650,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "1984 年 7 月 FM-7 原版；分九章。",
-      "source": "https://fm-7.com/museum/products/om904bko/"
+      "source": "https://fm-7.com/museum/products/om904bko/",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g128-v1",
@@ -3242,7 +3664,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "1984 年 12 月 FM-7 原版；七段小冒险串联。",
-      "source": "https://fm-7.com/museum/products/2oqhpy7x/"
+      "source": "https://fm-7.com/museum/products/2oqhpy7x/",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g129-v1",
@@ -3253,7 +3678,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "馆藏 1984 年 ZX Spectrum 录音带原版。",
-      "source": "https://worldofspectrum.org/archive/software/text-adventures/sherlock-melbourne-house"
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/sherlock-melbourne-house",
+      "publisherCompanies": [
+        "Melbourne House"
+      ]
     },
     {
       "id": "g130-v1",
@@ -3264,7 +3692,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "1984 年 ZX Spectrum 版；社会阶层讽刺题材。",
-      "source": "https://worldofspectrum.org/archive/software/text-adventures/hampstead-melbourne-house"
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/hampstead-melbourne-house",
+      "publisherCompanies": [
+        "Melbourne House"
+      ]
     },
     {
       "id": "g130-v2",
@@ -3275,7 +3706,10 @@
       "kind": "移植版",
       "voice": "未核实",
       "differences": "C64 版目录列 1984 年，与 ZX Spectrum 版同年；具体画面差异待核。",
-      "source": "https://www.lemon64.com/game/hampstead"
+      "source": "https://www.lemon64.com/game/hampstead",
+      "publisherCompanies": [
+        "Melbourne House"
+      ]
     },
     {
       "id": "g131-v1",
@@ -3286,7 +3720,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "1984 年 ZX Spectrum 原版；由 Level 9 制作。",
-      "source": "https://worldofspectrum.org/archive/software/text-adventures/the-saga-of-erik-the-viking-mosaic-publishing-ltd"
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/the-saga-of-erik-the-viking-mosaic-publishing-ltd",
+      "publisherCompanies": [
+        "Mosaic Publishing Ltd"
+      ]
     },
     {
       "id": "g132-v1",
@@ -3297,7 +3734,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "1984 年 ZX Spectrum 版。",
-      "source": "https://worldofspectrum.org/archive/software/text-adventures/castle-of-terror-melbourne-house"
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/castle-of-terror-melbourne-house",
+      "publisherCompanies": [
+        "Melbourne House"
+      ]
     },
     {
       "id": "g133-v1",
@@ -3308,7 +3748,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "1984 年 4 月 FM 系兼容磁带；另有 エレキッド 销售版，同年但月份未明。",
-      "source": "https://fm-7.com/museum/products/yrjupxzp/releases"
+      "source": "https://fm-7.com/museum/products/yrjupxzp/releases",
+      "publisherCompanies": [
+        "マイクロキャビン"
+      ]
     },
     {
       "id": "g133-v2",
@@ -3319,7 +3762,10 @@
       "kind": "原始机种版本",
       "voice": "未核实",
       "differences": "馆藏将 PC-8001 列作原始机种；FM 系磁带 1984 年 4 月另有明确馆藏记录，PC-8001 月份待核。",
-      "source": "https://fm-7.com/museum/products/yrjupxzp/"
+      "source": "https://fm-7.com/museum/products/yrjupxzp/",
+      "publisherCompanies": [
+        "マイクロキャビン"
+      ]
     },
     {
       "id": "g007-v2",
@@ -3330,7 +3776,10 @@
       "kind": "家庭机移植",
       "voice": "未核实",
       "differences": "移植时重做指令选择界面；并非1983年PC初版。",
-      "source": "https://www.nintendo.co.jp/etc/interview/platinumgames/vol1/index3.html"
+      "source": "https://www.nintendo.co.jp/etc/interview/platinumgames/vol1/index3.html",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g014-v1",
@@ -3341,7 +3790,10 @@
       "kind": "首发",
       "voice": "有",
       "differences": "日本街机原版。",
-      "source": "https://www.taito.co.jp/mob/topics/2587"
+      "source": "https://www.taito.co.jp/mob/topics/2587",
+      "publisherCompanies": [
+        "TAITO（太东）"
+      ]
     },
     {
       "id": "g015-v1",
@@ -3352,7 +3804,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "按 PC-8801 初版；FM-7 移植为 1986 年。",
-      "source": "https://www.famitsu.com/news/202312/10327281.html"
+      "source": "https://www.famitsu.com/news/202312/10327281.html",
+      "publisherCompanies": [
+        "JAST"
+      ]
     },
     {
       "id": "g016-v1",
@@ -3363,7 +3818,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "作品最早确认的版本。",
-      "source": "https://fm-7.com/museum/products/vt0km2jr/"
+      "source": "https://fm-7.com/museum/products/vt0km2jr/",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g017-v1",
@@ -3374,7 +3832,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "作品最早确认的版本。",
-      "source": "https://fm-7.com/museum/products/iq8kysdi/"
+      "source": "https://fm-7.com/museum/products/iq8kysdi/",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g018-v1",
@@ -3385,7 +3846,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "作品最早确认的版本。",
-      "source": "https://fm-7.com/museum/products/333wukd2/"
+      "source": "https://fm-7.com/museum/products/333wukd2/",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g043-v1",
@@ -3396,7 +3860,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "以多次模拟年代的变化推进故事。",
-      "source": "https://www.infocom-if.org/games/games.html"
+      "source": "https://www.infocom-if.org/games/games.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g061-v1",
@@ -3407,7 +3874,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "沿用指令输入与角色移动的图文冒险。",
-      "source": "https://www.sierragamers.com/kings-quest-2/"
+      "source": "https://www.sierragamers.com/kings-quest-2/",
+      "publisherCompanies": [
+        "Sierra On-Line"
+      ]
     },
     {
       "id": "g071-v1",
@@ -3418,7 +3888,10 @@
       "kind": "首发／早期多机种",
       "voice": "无",
       "differences": "较易入门的文字解谜冒险。",
-      "source": "https://www.infocom-if.org/games/wishbringer/wishbringer.html"
+      "source": "https://www.infocom-if.org/games/wishbringer/wishbringer.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g072-v1",
@@ -3429,7 +3902,10 @@
       "kind": "首发／早期多机种",
       "voice": "无",
       "differences": "《Enchanter》系列第三部，围绕失控的魔法展开。",
-      "source": "https://www.infocom-if.org/games/spellbreaker/spellbreaker.html"
+      "source": "https://www.infocom-if.org/games/spellbreaker/spellbreaker.html",
+      "publisherCompanies": [
+        "Infocom"
+      ]
     },
     {
       "id": "g079-v2",
@@ -3440,7 +3916,10 @@
       "kind": "移植",
       "voice": "无",
       "differences": "FM-7 馆藏记 1985 年 3 月；加入平台适配。",
-      "source": "https://fm-7.com/museum/products/aao3ghzi/"
+      "source": "https://fm-7.com/museum/products/aao3ghzi/",
+      "publisherCompanies": [
+        "Enix（艾尼克斯）"
+      ]
     },
     {
       "id": "g080-v1",
@@ -3451,7 +3930,10 @@
       "kind": "原始机种",
       "voice": "无",
       "differences": "PC-8801 初版；具体月份的二手档案有差异，按年登记。",
-      "source": "https://www.falcom.co.jp/games-data/egg_asteka_pc8801"
+      "source": "https://www.falcom.co.jp/games-data/egg_asteka_pc8801",
+      "publisherCompanies": [
+        "日本ファルコム"
+      ]
     },
     {
       "id": "g080-v2",
@@ -3462,7 +3944,10 @@
       "kind": "同年移植",
       "voice": "无",
       "differences": "FM-7 馆藏记为 1985 年 6 月，采用局部实景图像。",
-      "source": "https://fm-7.com/museum/products/qagni9o7/"
+      "source": "https://fm-7.com/museum/products/qagni9o7/",
+      "publisherCompanies": [
+        "日本ファルコム"
+      ]
     },
     {
       "id": "g081-v1",
@@ -3473,7 +3958,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "图文指令冒险采用更多局部动画和对话模式；非激光影碟电影。",
-      "source": "https://www.gamepres.org/pc88/library/1985/1985_9.htm"
+      "source": "https://www.gamepres.org/pc88/library/1985/1985_9.htm",
+      "publisherCompanies": [
+        "スクウェア"
+      ]
     },
     {
       "id": "g085-v1",
@@ -3484,7 +3972,10 @@
       "kind": "首发",
       "voice": "未核实",
       "differences": "东映制作动画影像，按指示操作车辆。",
-      "source": "https://www.arcade-museum.com/Videogame/road-blaster"
+      "source": "https://www.arcade-museum.com/Videogame/road-blaster",
+      "publisherCompanies": [
+        "Data East"
+      ]
     },
     {
       "id": "g086-v1",
@@ -3495,7 +3986,10 @@
       "kind": "同年 FM-7 版",
       "voice": "无",
       "differences": "馆藏确认 1985 年 FM-7 版本；与 PC-8801 版的具体发行先后及内容异同未核实。",
-      "source": "https://fm-7.com/museum/products/9sufuw5m/"
+      "source": "https://fm-7.com/museum/products/9sufuw5m/",
+      "publisherCompanies": [
+        "チャンピオンソフト"
+      ]
     },
     {
       "id": "g086-v2",
@@ -3506,7 +4000,10 @@
       "kind": "1985 年 4 月 PC 版",
       "voice": "无",
       "differences": "当期 PC-8801 软件目录明确 1985 年 4 月；描述与 FM-7 版的房间和人物线索一致。",
-      "source": "https://www.gamepres.org/pc88/library/1985/1985_4.htm"
+      "source": "https://www.gamepres.org/pc88/library/1985/1985_4.htm",
+      "publisherCompanies": [
+        "チャンピオンソフト"
+      ]
     },
     {
       "id": "g105-v2",
@@ -3517,7 +4014,10 @@
       "kind": "tape ABYSS 录音带版",
       "voice": "无",
       "differences": "1985 年录音带版：情节基本一致，但画面重新绘制，整部程序驻留内存。",
-      "source": "https://fm-7.com/museum/products/rwoxchsm/"
+      "source": "https://fm-7.com/museum/products/rwoxchsm/",
+      "publisherCompanies": [
+        "ハミングバードソフト"
+      ]
     },
     {
       "id": "g109-v1",
@@ -3528,7 +4028,10 @@
       "kind": "续作",
       "voice": "无",
       "differences": "与 1984 年《ABYSS》分属两部作品，馆藏原始机种为 FM-7。",
-      "source": "https://fm-7.com/museum/products/x0bcvxtx/"
+      "source": "https://fm-7.com/museum/products/x0bcvxtx/",
+      "publisherCompanies": [
+        "ハミングバードソフト"
+      ]
     },
     {
       "id": "g110-v1",
@@ -3539,7 +4042,10 @@
       "kind": "早期 FM 版",
       "voice": "无",
       "differences": "馆藏确认年份与机种；完整首发平台和确切月份待核。",
-      "source": "https://fm-7.com/museum/products/rdtaieyr/"
+      "source": "https://fm-7.com/museum/products/rdtaieyr/",
+      "publisherCompanies": [
+        "リバーヒルソフト"
+      ]
     },
     {
       "id": "g111-v1",
@@ -3550,7 +4056,10 @@
       "kind": "FM-7 版",
       "voice": "无",
       "differences": "馆藏确认 1985 年；其他机种和海外英文版日期未核实，暂不拆分。",
-      "source": "https://fm-7.com/museum/products/y6ai5nay/"
+      "source": "https://fm-7.com/museum/products/y6ai5nay/",
+      "publisherCompanies": [
+        "コンプティーク"
+      ]
     },
     {
       "id": "g111-v2",
@@ -3561,7 +4070,10 @@
       "kind": "1985 年 4 月 PC 版",
       "voice": "无",
       "differences": "当期目录记 1985 年 4 月；剧情围绕次郎与基德船长宝藏展开，FM-7 版发行月待核。",
-      "source": "https://www.gamepres.org/pc88/library/1985/1985_4.htm"
+      "source": "https://www.gamepres.org/pc88/library/1985/1985_4.htm",
+      "publisherCompanies": [
+        "コンプティーク"
+      ]
     },
     {
       "id": "g112-v1",
@@ -3572,7 +4084,10 @@
       "kind": "原始 PC 版",
       "voice": "无",
       "differences": "1985 年 4 月版含三个玩法段落；包装附怪兽叫声磁带，未据此将角色配音标为“有”。",
-      "source": "https://www.gamepres.org/pc88/library/1985/1985_4.htm"
+      "source": "https://www.gamepres.org/pc88/library/1985/1985_4.htm",
+      "publisherCompanies": [
+        "東宝"
+      ]
     },
     {
       "id": "g129-v2",
@@ -3583,7 +4098,10 @@
       "kind": "移植版",
       "voice": "未核实",
       "differences": "C64 版资料列 1985 年；ZX Spectrum 原版为 1984 年。",
-      "source": "https://www.lemon64.com/game/sherlock"
+      "source": "https://www.lemon64.com/game/sherlock",
+      "publisherCompanies": [
+        "Melbourne House"
+      ]
     },
     {
       "id": "g132-v2",
@@ -3594,7 +4112,10 @@
       "kind": "移植版",
       "voice": "未核实",
       "differences": "C64 版资料列 1985 年；ZX Spectrum 原版 1984 年。",
-      "source": "https://www.lemon64.com/game/castle-of-terror"
+      "source": "https://www.lemon64.com/game/castle-of-terror",
+      "publisherCompanies": [
+        "Melbourne House"
+      ]
     },
     {
       "id": "g134-v1",
@@ -3605,7 +4126,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "原始机种不明；冒险过程中穿插动作游戏关卡。",
-      "source": "https://fm-7.com/museum/products/7wx08tq8/"
+      "source": "https://fm-7.com/museum/products/7wx08tq8/",
+      "publisherCompanies": [
+        "リバーヒルソフト"
+      ]
     },
     {
       "id": "g135-v1",
@@ -3616,7 +4140,10 @@
       "kind": "原版",
       "voice": "无",
       "differences": "1985 年 QL-Pawn 原始版 1.0，纯文本、双 Microdrive；后来的 The Pawn 彩色图像版另属后续移植。",
-      "source": "https://magneticscrolls.info/facts.php"
+      "source": "https://magneticscrolls.info/facts.php",
+      "publisherCompanies": [
+        "Sinclair Research"
+      ]
     },
     {
       "id": "g136-v1",
@@ -3627,7 +4154,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "1985 年 ZX Spectrum 版，基于修改后的 The Quill。",
-      "source": "https://worldofspectrum.org/archive/software/text-adventures/terrormolinos-melbourne-house"
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/terrormolinos-melbourne-house",
+      "publisherCompanies": [
+        "Melbourne House"
+      ]
     },
     {
       "id": "g136-v2",
@@ -3638,7 +4168,10 @@
       "kind": "移植版",
       "voice": "未核实",
       "differences": "C64 版资料列 1985 年；画面和互动细节待核。",
-      "source": "https://www.lemon64.com/game/terrormolinos"
+      "source": "https://www.lemon64.com/game/terrormolinos",
+      "publisherCompanies": [
+        "Melbourne House"
+      ]
     },
     {
       "id": "g137-v1",
@@ -3649,7 +4182,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "1985 年 ZX Spectrum 版；剧情细节待核实。",
-      "source": "https://worldofspectrum.org/archive/software/text-adventures/mordons-quest-melbourne-house"
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/mordons-quest-melbourne-house",
+      "publisherCompanies": [
+        "Melbourne House"
+      ]
     },
     {
       "id": "g138-v1",
@@ -3660,7 +4196,10 @@
       "kind": "原版",
       "voice": "未核实",
       "differences": "1985 年 ZX Spectrum 版。",
-      "source": "https://worldofspectrum.org/archive/software/text-adventures/robin-of-sherwood-the-touchstones-of-rhiannon-adventure-international"
+      "source": "https://worldofspectrum.org/archive/software/text-adventures/robin-of-sherwood-the-touchstones-of-rhiannon-adventure-international",
+      "publisherCompanies": [
+        "Adventure International"
+      ]
     },
     {
       "id": "g012-v2",
@@ -3671,7 +4210,10 @@
       "kind": "改编移植",
       "voice": "未核实",
       "differences": "根据PC版重新编排故事与人物表现。",
-      "source": "https://www.4gamer.net/games/777/G077714/20240222001/"
+      "source": "https://www.4gamer.net/games/777/G077714/20240222001/",
+      "publisherCompanies": [
+        "ASCII"
+      ]
     },
     {
       "id": "g019-v1",
@@ -3682,7 +4224,10 @@
       "kind": "首发",
       "voice": "有",
       "differences": "配音与歌曲来自偶像本人；并非 Leaf 式视觉小说。",
-      "source": "https://pcefan.com/pcengine/entry15.html"
+      "source": "https://pcefan.com/pcengine/entry15.html",
+      "publisherCompanies": [
+        "Hudson Soft（哈德森）"
+      ]
     },
     {
       "id": "g040-v1",
@@ -3693,7 +4238,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "PC初版以指令调查为核心。",
-      "source": "https://www.konami.com/corporate/ja/history/product.html"
+      "source": "https://www.konami.com/corporate/ja/history/product.html",
+      "publisherCompanies": [
+        "Konami"
+      ]
     },
     {
       "id": "g077-v3",
@@ -3704,7 +4252,10 @@
       "kind": "主机改编",
       "voice": "无",
       "differences": "用屏幕命令菜单取代电脑版键盘输入，画面与内容重制。",
-      "source": "https://www.nintendo.co.jp/wii/vc/vc_skt/vc_skt_01.html"
+      "source": "https://www.nintendo.co.jp/wii/vc/vc_skt/vc_skt_01.html",
+      "publisherCompanies": [
+        "Hudson Soft（哈德森）"
+      ]
     },
     {
       "id": "g020-v1",
@@ -3715,7 +4266,10 @@
       "kind": "首发",
       "voice": "有",
       "differences": "作品最早确认的版本。",
-      "source": "https://pcefan.com/pcengine/entry15.html"
+      "source": "https://pcefan.com/pcengine/entry15.html",
+      "publisherCompanies": [
+        "Hudson Soft（哈德森）"
+      ]
     },
     {
       "id": "g045-v1",
@@ -3726,7 +4280,10 @@
       "kind": "首发",
       "voice": "有",
       "differences": "延续手绘动画和即时按键玩法。",
-      "source": "https://flyers.arcade-museum.com/videogames/show/314"
+      "source": "https://flyers.arcade-museum.com/videogames/show/314",
+      "publisherCompanies": [
+        "Leland"
+      ]
     },
     {
       "id": "g021-v1",
@@ -3737,7 +4294,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "“有声小说”指音乐与音效，不保证角色配音。",
-      "source": "https://www.spike-chunsoft.co.jp/company/outline/"
+      "source": "https://www.spike-chunsoft.co.jp/company/outline/",
+      "publisherCompanies": [
+        "Chunsoft"
+      ]
     },
     {
       "id": "g040-v2",
@@ -3748,7 +4308,10 @@
       "kind": "有声移植",
       "voice": "有",
       "differences": "新增角色语音与扩充剧情表现。",
-      "source": "https://www.konami.com/games/pcemini/lineup/jp/ja/"
+      "source": "https://www.konami.com/games/pcemini/lineup/jp/ja/",
+      "publisherCompanies": [
+        "Konami"
+      ]
     },
     {
       "id": "g046-v1",
@@ -3759,7 +4322,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "原版以地图、日程和人物事件推进。",
-      "source": "https://shiravune.com/archives/2502"
+      "source": "https://shiravune.com/archives/2502",
+      "publisherCompanies": [
+        "ELF"
+      ]
     },
     {
       "id": "g022-v1",
@@ -3770,7 +4336,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "作品最早确认的版本。",
-      "source": "https://www.spike-chunsoft.co.jp/pages/games/kama/"
+      "source": "https://www.spike-chunsoft.co.jp/pages/games/kama/",
+      "publisherCompanies": [
+        "Chunsoft"
+      ]
     },
     {
       "id": "g023-v1",
@@ -3781,7 +4350,10 @@
       "kind": "首发",
       "voice": "有",
       "differences": "恋爱模拟，不属于狭义视觉小说。",
-      "source": "https://www.konami.com/games/tokimeki/about/index.html"
+      "source": "https://www.konami.com/games/tokimeki/about/index.html",
+      "publisherCompanies": [
+        "Konami"
+      ]
     },
     {
       "id": "g023-v2",
@@ -3792,7 +4364,10 @@
       "kind": "增强移植",
       "voice": "有",
       "differences": "《forever with you》改良画面与音效。",
-      "source": "https://www.konami.com/games/corporate/ja/news/topics/20250203/"
+      "source": "https://www.konami.com/games/corporate/ja/news/topics/20250203/",
+      "publisherCompanies": [
+        "Konami"
+      ]
     },
     {
       "id": "g024-v1",
@@ -3803,7 +4378,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "Leaf Visual Novel Series 第 1 作；兼属广义 Galgame。",
-      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/"
+      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/",
+      "publisherCompanies": [
+        "Leaf"
+      ]
     },
     {
       "id": "g025-v1",
@@ -3814,7 +4392,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "兼属广义 Galgame。",
-      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/"
+      "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/",
+      "publisherCompanies": [
+        "Leaf"
+      ]
     },
     {
       "id": "g038-v1",
@@ -3825,7 +4406,10 @@
       "kind": "首发",
       "voice": "未核实",
       "differences": "原版多线剧情与宝玉系统；当年配音情况需逐版核对。",
-      "source": "https://yu-no.jp/spec/ps/"
+      "source": "https://yu-no.jp/spec/ps/",
+      "publisherCompanies": [
+        "ELF"
+      ]
     },
     {
       "id": "g026-v1",
@@ -3836,7 +4420,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "兼属 Galgame；1999 年 PlayStation 版加入角色配音。",
-      "source": "https://aquaplus.jp/toheart/en.html"
+      "source": "https://aquaplus.jp/toheart/en.html",
+      "publisherCompanies": [
+        "Leaf"
+      ]
     },
     {
       "id": "g038-v2",
@@ -3847,7 +4434,10 @@
       "kind": "家用机移植",
       "voice": "有",
       "differences": "新增角色配音并调整表现与内容。",
-      "source": "https://yu-no.jp/spec/ps/"
+      "source": "https://yu-no.jp/spec/ps/",
+      "publisherCompanies": [
+        "ELF"
+      ]
     },
     {
       "id": "g027-v1",
@@ -3858,7 +4448,10 @@
       "kind": "首发",
       "voice": "有",
       "differences": "“やるドラ”系列；由 Production I.G 制作动画。",
-      "source": "https://www.productionig.com/contents/works/05_/000169.html"
+      "source": "https://www.productionig.com/contents/works/05_/000169.html",
+      "publisherCompanies": [
+        "Sony Computer Entertainment"
+      ]
     },
     {
       "id": "g047-v1",
@@ -3869,7 +4462,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "1998 年 PC 原作。",
-      "source": "https://nexton-net.jp/nexton30th/nvm001/"
+      "source": "https://nexton-net.jp/nexton30th/nvm001/",
+      "publisherCompanies": [
+        "Tactics（NEXTON）"
+      ]
     },
     {
       "id": "g026-v2",
@@ -3880,7 +4476,10 @@
       "kind": "全年龄移植",
       "voice": "有",
       "differences": "重写与补充部分内容，并加入角色配音。",
-      "source": "https://aquaplus.jp/th/"
+      "source": "https://aquaplus.jp/th/",
+      "publisherCompanies": [
+        "AQUAPLUS"
+      ]
     },
     {
       "id": "g028-v1",
@@ -3891,7 +4490,11 @@
       "kind": "首发",
       "voice": "无",
       "differences": "兼属 Galgame；按 Windows 初版。",
-      "source": "https://key.visualarts.gr.jp/product/kanon/"
+      "source": "https://key.visualarts.gr.jp/product/kanon/",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ]
     },
     {
       "id": "g029-v1",
@@ -3902,7 +4505,11 @@
       "kind": "首发",
       "voice": "无",
       "differences": "兼属 Galgame。",
-      "source": "https://key.visualarts.gr.jp/key20th/history.html"
+      "source": "https://key.visualarts.gr.jp/key20th/history.html",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ]
     },
     {
       "id": "g048-v1",
@@ -3913,7 +4520,10 @@
       "kind": "infinity 初版",
       "voice": "未核实",
       "differences": "此行指早期《infinity》，与后来的 Never 7 版本标题不同。",
-      "source": "https://www.famitsu.com/game/title/19078/page/1"
+      "source": "https://www.famitsu.com/game/title/19078/page/1",
+      "publisherCompanies": [
+        "KID"
+      ]
     },
     {
       "id": "g049-v1",
@@ -3924,7 +4534,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "系列首作。",
-      "source": "https://www.nintendo.com/jp/topics/article/f141655c-c8da-11e7-8cda-063b7ac45a6d"
+      "source": "https://www.nintendo.com/jp/topics/article/f141655c-c8da-11e7-8cda-063b7ac45a6d",
+      "publisherCompanies": [
+        "CAPCOM"
+      ]
     },
     {
       "id": "g028-v2",
@@ -3935,7 +4548,10 @@
       "kind": "家用机移植",
       "voice": "有",
       "differences": "家用机版提供角色配音；主角配音因版本而异。",
-      "source": "https://www.prot.co.jp/switch/kanon/introduction.html"
+      "source": "https://www.prot.co.jp/switch/kanon/introduction.html",
+      "publisherCompanies": [
+        "Interchannel"
+      ]
     },
     {
       "id": "g050-v1",
@@ -3946,7 +4562,10 @@
       "kind": "同步首发",
       "voice": "未核实",
       "differences": "2002 年同期发行的主机原版；原版配音范围待核对。",
-      "source": "https://dengekionline.com/data/news/2002/7/22/b79e0433ff091f2308a4dc12a1901014.html"
+      "source": "https://dengekionline.com/data/news/2002/7/22/b79e0433ff091f2308a4dc12a1901014.html",
+      "publisherCompanies": [
+        "KID"
+      ]
     },
     {
       "id": "g050-v2",
@@ -3957,7 +4576,10 @@
       "kind": "同步首发",
       "voice": "未核实",
       "differences": "2002 年同期发行的主机原版；原版配音范围待核对。",
-      "source": "https://dengekionline.com/data/news/2002/7/22/b79e0433ff091f2308a4dc12a1901014.html"
+      "source": "https://dengekionline.com/data/news/2002/7/22/b79e0433ff091f2308a4dc12a1901014.html",
+      "publisherCompanies": [
+        "KID"
+      ]
     },
     {
       "id": "g051-v1",
@@ -3968,7 +4590,10 @@
       "kind": "《鬼隐篇》同人首发",
       "voice": "无",
       "differences": "原作第一篇于 2002 年夏季同人展发表；音乐音效不算角色配音。",
-      "source": "https://07th-expansion.net/Soft/Prolog.htm"
+      "source": "https://07th-expansion.net/Soft/Prolog.htm",
+      "publisherCompanies": [
+        "07th Expansion"
+      ]
     },
     {
       "id": "g052-v1",
@@ -3979,7 +4604,10 @@
       "kind": "首发",
       "voice": "未核实",
       "differences": "原版含 Extra 和 Unlimited 两部分；原版配音范围待核查。",
-      "source": "https://muvluv.com/en/products/"
+      "source": "https://muvluv.com/en/products/",
+      "publisherCompanies": [
+        "âge"
+      ]
     },
     {
       "id": "g030-v1",
@@ -3990,7 +4618,11 @@
       "kind": "首发",
       "voice": "无",
       "differences": "2004 年 4 月 28 日首发；兼属广义 Galgame。",
-      "source": "https://key.visualarts.gr.jp/key20th/history.html"
+      "source": "https://key.visualarts.gr.jp/key20th/history.html",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ]
     },
     {
       "id": "g031-v1",
@@ -4001,7 +4633,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "官网明确列出初版角色配音“无”；后续版本不同。",
-      "source": "https://www.typemoon.com/products/fate/data/index.html"
+      "source": "https://www.typemoon.com/products/fate/data/index.html",
+      "publisherCompanies": [
+        "TYPE-MOON"
+      ]
     },
     {
       "id": "g032-v1",
@@ -4012,7 +4647,11 @@
       "kind": "首发",
       "voice": "有（部分）",
       "differences": "最初的在线版仅有部分语音；2006 年 PS2 版扩充为全配音。",
-      "source": "https://www.prot.co.jp/ps2/planetarian/index.html"
+      "source": "https://www.prot.co.jp/ps2/planetarian/index.html",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ]
     },
     {
       "id": "g027-v2",
@@ -4023,7 +4662,10 @@
       "kind": "掌机移植",
       "voice": "有",
       "differences": "将PlayStation全动画多结局作品移植至PSP。",
-      "source": "https://www.productionig.com/contents/works_sp/31_/index.html"
+      "source": "https://www.productionig.com/contents/works_sp/31_/index.html",
+      "publisherCompanies": [
+        "Sony Computer Entertainment"
+      ]
     },
     {
       "id": "g033-v1",
@@ -4034,7 +4676,10 @@
       "kind": "首发",
       "voice": "有",
       "differences": "兼属视觉小说与 Galgame；首发 2005 年，2025 年为 20 周年。",
-      "source": "https://0verflow.com/sdre_live/"
+      "source": "https://0verflow.com/sdre_live/",
+      "publisherCompanies": [
+        "Overflow（STACK）"
+      ]
     },
     {
       "id": "g049-v2",
@@ -4045,7 +4690,10 @@
       "kind": "《复苏的逆转》",
       "voice": "有",
       "differences": "增收第五话与触屏科学调查；配音为少量法庭语音，非全程对话配音。",
-      "source": "https://www.nintendo.com/jp/topics/article/f141655c-c8da-11e7-8cda-063b7ac45a6d"
+      "source": "https://www.nintendo.com/jp/topics/article/f141655c-c8da-11e7-8cda-063b7ac45a6d",
+      "publisherCompanies": [
+        "CAPCOM"
+      ]
     },
     {
       "id": "g030-v2",
@@ -4056,7 +4704,10 @@
       "kind": "家用机移植",
       "voice": "有",
       "differences": "原版内容移植至主机，加入角色配音。",
-      "source": "https://key.visualarts.gr.jp/clannad_10th/"
+      "source": "https://key.visualarts.gr.jp/clannad_10th/",
+      "publisherCompanies": [
+        "Interchannel"
+      ]
     },
     {
       "id": "g032-v2",
@@ -4067,7 +4718,10 @@
       "kind": "全配音移植",
       "voice": "有",
       "differences": "原2004年Windows版仅部分声音，本版加入包括主角在内的完整配音。",
-      "source": "https://www.prot.co.jp/ps2/planetarian/index.html"
+      "source": "https://www.prot.co.jp/ps2/planetarian/index.html",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ]
     },
     {
       "id": "g053-v1",
@@ -4078,7 +4732,10 @@
       "kind": "DVD 首发",
       "voice": "未核实",
       "differences": "2006 年 2 月发行的成人向 PC 初版；配音范围待核实。",
-      "source": "https://muvluv.com/alternative/spec.htm"
+      "source": "https://muvluv.com/alternative/spec.htm",
+      "publisherCompanies": [
+        "âge"
+      ]
     },
     {
       "id": "g031-v2",
@@ -4089,7 +4746,10 @@
       "kind": "全年龄移植",
       "voice": "有",
       "differences": "《Realta Nua》加入角色配音与新演出。",
-      "source": "https://typemoon.com/contents/9ncnes/fate-stay-night-realta-nua"
+      "source": "https://typemoon.com/contents/9ncnes/fate-stay-night-realta-nua",
+      "publisherCompanies": [
+        "角川书店"
+      ]
     },
     {
       "id": "g030-v3",
@@ -4100,7 +4760,11 @@
       "kind": "全配音修订版",
       "voice": "有",
       "differences": "《CLANNAD フルボイス》，与2004年无配音初版区分。",
-      "source": "https://key.visualarts.gr.jp/clannad_10th/"
+      "source": "https://key.visualarts.gr.jp/clannad_10th/",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ]
     },
     {
       "id": "g034-v1",
@@ -4111,7 +4775,10 @@
       "kind": "首发",
       "voice": "未核实",
       "differences": "“有声小说”不等于对白配音；首发 2008 年。",
-      "source": "https://www.nintendo.co.jp/wii/software/rtoj/index.html"
+      "source": "https://www.nintendo.co.jp/wii/software/rtoj/index.html",
+      "publisherCompanies": [
+        "世嘉"
+      ]
     },
     {
       "id": "g054-v1",
@@ -4122,7 +4789,10 @@
       "kind": "首发",
       "voice": "有",
       "differences": "系列首发；原作以文字和静态立绘推进。",
-      "source": "https://steinsgate.jp/15th/"
+      "source": "https://steinsgate.jp/15th/",
+      "publisherCompanies": [
+        "5pb."
+      ]
     },
     {
       "id": "g055-v1",
@@ -4133,7 +4803,10 @@
       "kind": "首发",
       "voice": "无",
       "differences": "双屏叙事与逃脱谜题；没有 2017 年合集中新增的对话配音。",
-      "source": "https://www.spike-chunsoft.co.jp/pages/zendesu/about/index.html"
+      "source": "https://www.spike-chunsoft.co.jp/pages/zendesu/about/index.html",
+      "publisherCompanies": [
+        "Spike"
+      ]
     },
     {
       "id": "g035-v1",
@@ -4144,7 +4817,10 @@
       "kind": "首发",
       "voice": "有",
       "differences": "推理冒险含角色配音；不是恋爱游戏。",
-      "source": "https://www.spike-chunsoft.co.jp/news/17141/"
+      "source": "https://www.spike-chunsoft.co.jp/news/17141/",
+      "publisherCompanies": [
+        "Spike"
+      ]
     },
     {
       "id": "g039-v1",
@@ -4155,7 +4831,11 @@
       "kind": "首发／序章",
       "voice": "有",
       "differences": "仅含《introductory chapter》，完整后续剧情后来发行。",
-      "source": "https://blog.aquaplus.jp/archives/2352"
+      "source": "https://blog.aquaplus.jp/archives/2352",
+      "publisherCompanies": [
+        "Leaf",
+        "AQUAPLUS"
+      ]
     },
     {
       "id": "g054-v2",
@@ -4166,7 +4846,11 @@
       "kind": "PC 移植",
       "voice": "有",
       "differences": "PC 平台发行；保留原作分支叙事。",
-      "source": "https://blog.mages.co.jp/steinsgate/?p=92"
+      "source": "https://blog.mages.co.jp/steinsgate/?p=92",
+      "publisherCompanies": [
+        "5pb.",
+        "Nitroplus"
+      ]
     },
     {
       "id": "g039-v2",
@@ -4177,7 +4861,11 @@
       "kind": "续篇及整合版",
       "voice": "有",
       "differences": "《closing chapter》发行，部分商品附《introductory chapter》内容。",
-      "source": "https://blog.aquaplus.jp/archives/2352"
+      "source": "https://blog.aquaplus.jp/archives/2352",
+      "publisherCompanies": [
+        "Leaf",
+        "AQUAPLUS"
+      ]
     },
     {
       "id": "g031-v3",
@@ -4188,7 +4876,10 @@
       "kind": "掌机移植",
       "voice": "有",
       "differences": "以《Realta Nua》为基础适配Vita。",
-      "source": "https://www.typemoon.com/products/fatevita/character/"
+      "source": "https://www.typemoon.com/products/fatevita/character/",
+      "publisherCompanies": [
+        "角川游戏"
+      ]
     },
     {
       "id": "g039-v3",
@@ -4199,7 +4890,10 @@
       "kind": "合集与全年龄修订",
       "voice": "有",
       "differences": "《幸せの向こう側》合并章节，新增剧情、CG及动态立绘。",
-      "source": "https://aquaplus.jp/wa2/product.html"
+      "source": "https://aquaplus.jp/wa2/product.html",
+      "publisherCompanies": [
+        "AQUAPLUS"
+      ]
     },
     {
       "id": "g039-v4",
@@ -4210,7 +4904,10 @@
       "kind": "掌机移植",
       "voice": "有",
       "differences": "增加小说显示模式、画面切换与名场面提示。",
-      "source": "https://aquaplus.jp/wa2vita/products/"
+      "source": "https://aquaplus.jp/wa2vita/products/",
+      "publisherCompanies": [
+        "AQUAPLUS"
+      ]
     },
     {
       "id": "g052-v2",
@@ -4221,7 +4918,10 @@
       "kind": "数字移植",
       "voice": "有",
       "differences": "PC 数字版加入本地化并保留角色语音。",
-      "source": "https://games.ancr.jp/games/muv-luv/"
+      "source": "https://games.ancr.jp/games/muv-luv/",
+      "publisherCompanies": [
+        "aNCHOR"
+      ]
     },
     {
       "id": "g038-v3",
@@ -4232,7 +4932,11 @@
       "kind": "完全重制",
       "voice": "有",
       "differences": "新角色画面、重编音乐、角色配音；预购附原版移植DLC。",
-      "source": "https://yu-no.jp/spec/ps/"
+      "source": "https://yu-no.jp/spec/ps/",
+      "publisherCompanies": [
+        "5pb.",
+        "MAGES."
+      ]
     },
     {
       "id": "g038-v4",
@@ -4243,7 +4947,11 @@
       "kind": "完全重制",
       "voice": "有",
       "differences": "与PS4版同期发行的掌机版。",
-      "source": "https://yu-no.jp/spec/ps/"
+      "source": "https://yu-no.jp/spec/ps/",
+      "publisherCompanies": [
+        "5pb.",
+        "MAGES."
+      ]
     },
     {
       "id": "g053-v2",
@@ -4254,7 +4962,10 @@
       "kind": "本地化数字版",
       "voice": "有",
       "differences": "加入译文、画面调整和额外角色配音。",
-      "source": "https://store.steampowered.com/app/802890/MuvLuv_Alternative/"
+      "source": "https://store.steampowered.com/app/802890/MuvLuv_Alternative/",
+      "publisherCompanies": [
+        "aNCHOR"
+      ]
     },
     {
       "id": "g055-v2",
@@ -4265,7 +4976,10 @@
       "kind": "《The Nonary Games》合集",
       "voice": "有",
       "differences": "高分辨率画面并为本作新增日语、英语对话配音。",
-      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/"
+      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ]
     },
     {
       "id": "g055-v3",
@@ -4276,7 +4990,10 @@
       "kind": "《The Nonary Games》合集",
       "voice": "有",
       "differences": "高分辨率画面并为本作新增日语、英语对话配音。",
-      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/"
+      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ]
     },
     {
       "id": "g055-v4",
@@ -4287,7 +5004,10 @@
       "kind": "《The Nonary Games》合集",
       "voice": "有",
       "differences": "高分辨率画面并为本作新增日语、英语对话配音。",
-      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/"
+      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ]
     },
     {
       "id": "g056-v1",
@@ -4298,7 +5018,10 @@
       "kind": "免费首发",
       "voice": "无",
       "differences": "2017 年 9 月在 itch.io 先行推出；无角色台词配音。",
-      "source": "https://teamsalvato.com/news/"
+      "source": "https://teamsalvato.com/news/",
+      "publisherCompanies": [
+        "Team Salvato"
+      ]
     },
     {
       "id": "g056-v2",
@@ -4309,7 +5032,10 @@
       "kind": "Steam 发行",
       "voice": "无",
       "differences": "Steam 于同年稍后发行原版，保留心理恐怖的元叙事结构。",
-      "source": "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/"
+      "source": "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/",
+      "publisherCompanies": [
+        "Team Salvato"
+      ]
     },
     {
       "id": "g034-v2",
@@ -4320,7 +5046,10 @@
       "kind": "高清移植",
       "voice": "未核实",
       "differences": "面向现代主机重新发行。",
-      "source": "https://www.spike-chunsoft.co.jp/news/1799/"
+      "source": "https://www.spike-chunsoft.co.jp/news/1799/",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ]
     },
     {
       "id": "g034-v3",
@@ -4331,7 +5060,10 @@
       "kind": "高清移植",
       "voice": "未核实",
       "differences": "与PS4版同日发行的PC版。",
-      "source": "https://www.spike-chunsoft.co.jp/news/1799/"
+      "source": "https://www.spike-chunsoft.co.jp/news/1799/",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ]
     },
     {
       "id": "g051-v2",
@@ -4342,7 +5074,10 @@
       "kind": "《奉》合集",
       "voice": "有",
       "differences": "主机合集收录多篇故事并提供角色配音。",
-      "source": "https://entergram.co.jp/higurashihou/products.html"
+      "source": "https://entergram.co.jp/higurashihou/products.html",
+      "publisherCompanies": [
+        "ENTERGRAM"
+      ]
     },
     {
       "id": "g030-v4",
@@ -4353,7 +5088,10 @@
       "kind": "高清移植",
       "voice": "有",
       "differences": "携带模式与多语言字幕；按Switch版发行年记录。",
-      "source": "https://www.prot.co.jp/switch/clannad/spec.html"
+      "source": "https://www.prot.co.jp/switch/clannad/spec.html",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ]
     },
     {
       "id": "g038-v5",
@@ -4364,7 +5102,11 @@
       "kind": "重制移植",
       "voice": "有",
       "differences": "2017重制版移植至Switch。",
-      "source": "https://yu-no.jp/spec/"
+      "source": "https://yu-no.jp/spec/",
+      "publisherCompanies": [
+        "5pb.",
+        "MAGES."
+      ]
     },
     {
       "id": "g049-v3",
@@ -4375,7 +5117,10 @@
       "kind": "初期三部曲合集",
       "voice": "有",
       "differences": "《逆转裁判123》收录前三作；保留少量法庭语音，并提升显示效果。",
-      "source": "https://www.nintendo.com/jp/topics/article/761e2356-2f26-11e9-b104-0a6d14145cb1"
+      "source": "https://www.nintendo.com/jp/topics/article/761e2356-2f26-11e9-b104-0a6d14145cb1",
+      "publisherCompanies": [
+        "CAPCOM"
+      ]
     },
     {
       "id": "g049-v4",
@@ -4386,7 +5131,10 @@
       "kind": "初期三部曲合集",
       "voice": "有",
       "differences": "三部曲合集中的初代，非单独重制；配音主要为法庭喊话。",
-      "source": "https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/"
+      "source": "https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/",
+      "publisherCompanies": [
+        "CAPCOM"
+      ]
     },
     {
       "id": "g051-v3",
@@ -4397,7 +5145,10 @@
       "kind": "《奉》移植",
       "voice": "有",
       "differences": "与 Switch 合集主体内容相同，但不支持触屏操作。",
-      "source": "https://entergram.co.jp/higurashihou/products.html"
+      "source": "https://entergram.co.jp/higurashihou/products.html",
+      "publisherCompanies": [
+        "ENTERGRAM"
+      ]
     },
     {
       "id": "g054-v3",
@@ -4408,7 +5159,11 @@
       "kind": "ELITE 动画版",
       "voice": "有",
       "differences": "使用动画影像替代大量静态画面；附加内容随平台不同。",
-      "source": "https://www.spike-chunsoft.com/games/steinsgate-elite/"
+      "source": "https://www.spike-chunsoft.com/games/steinsgate-elite/",
+      "publisherCompanies": [
+        "Spike Chunsoft",
+        "MAGES."
+      ]
     },
     {
       "id": "g054-v4",
@@ -4419,7 +5174,11 @@
       "kind": "ELITE 动画版",
       "voice": "有",
       "differences": "使用动画影像替代大量静态画面；附加内容随平台不同。",
-      "source": "https://www.spike-chunsoft.com/games/steinsgate-elite/"
+      "source": "https://www.spike-chunsoft.com/games/steinsgate-elite/",
+      "publisherCompanies": [
+        "Spike Chunsoft",
+        "MAGES."
+      ]
     },
     {
       "id": "g029-v2",
@@ -4430,7 +5189,10 @@
       "kind": "高清移植",
       "voice": "有",
       "differences": "提供日语全配音，之后更新加入英语及简体中文字幕。",
-      "source": "https://www.prot.co.jp/switch/air/spec.html"
+      "source": "https://www.prot.co.jp/switch/air/spec.html",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ]
     },
     {
       "id": "g035-v2",
@@ -4441,7 +5203,10 @@
       "kind": "纪念版移植",
       "voice": "有",
       "differences": "收入系列合集，也提供单独下载。",
-      "source": "https://www.spike-chunsoft.co.jp/news/13989/"
+      "source": "https://www.spike-chunsoft.co.jp/news/13989/",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ]
     },
     {
       "id": "g036-v1",
@@ -4452,7 +5217,10 @@
       "kind": "重制首发",
       "voice": "有",
       "differences": "2021 年重制新作；2000 年同人原作另有年份。",
-      "source": "https://typemoon.com/products/tsukihime/"
+      "source": "https://typemoon.com/products/tsukihime/",
+      "publisherCompanies": [
+        "TYPE-MOON"
+      ]
     },
     {
       "id": "g036-v2",
@@ -4463,7 +5231,10 @@
       "kind": "同步首发",
       "voice": "有",
       "differences": "与PlayStation 4版同年发行；非2000年PC原版。",
-      "source": "https://typemoon.com/products/tsukihime/"
+      "source": "https://typemoon.com/products/tsukihime/",
+      "publisherCompanies": [
+        "TYPE-MOON"
+      ]
     },
     {
       "id": "g046-v2",
@@ -4474,7 +5245,10 @@
       "kind": "日版重制",
       "voice": "有",
       "differences": "更新画面与系统，并为女主角加入配音。",
-      "source": "https://dmmgames.co.jp/news/detail/id=1786"
+      "source": "https://dmmgames.co.jp/news/detail/id=1786",
+      "publisherCompanies": [
+        "FANZA GAMES（DG REMAKE）"
+      ]
     },
     {
       "id": "g056-v3",
@@ -4485,7 +5259,10 @@
       "kind": "Plus 扩展版",
       "voice": "无",
       "differences": "增加六段友情支线、高清画面、画廊和音乐播放器。",
-      "source": "https://www.serenityforge.com/games/doki-doki-literature-club-plus"
+      "source": "https://www.serenityforge.com/games/doki-doki-literature-club-plus",
+      "publisherCompanies": [
+        "Serenity Forge"
+      ]
     },
     {
       "id": "g056-v4",
@@ -4496,7 +5273,10 @@
       "kind": "Plus 扩展版",
       "voice": "无",
       "differences": "增加六段友情支线、高清画面、画廊和音乐播放器。",
-      "source": "https://www.serenityforge.com/games/doki-doki-literature-club-plus"
+      "source": "https://www.serenityforge.com/games/doki-doki-literature-club-plus",
+      "publisherCompanies": [
+        "Serenity Forge"
+      ]
     },
     {
       "id": "g056-v5",
@@ -4507,7 +5287,10 @@
       "kind": "Plus 扩展版",
       "voice": "无",
       "differences": "增加六段友情支线、高清画面、画廊和音乐播放器。",
-      "source": "https://www.serenityforge.com/games/doki-doki-literature-club-plus"
+      "source": "https://www.serenityforge.com/games/doki-doki-literature-club-plus",
+      "publisherCompanies": [
+        "Serenity Forge"
+      ]
     },
     {
       "id": "g046-v3",
@@ -4518,7 +5301,10 @@
       "kind": "国际版重制",
       "voice": "有",
       "differences": "基于 2021 年重制，加入中英文文本；与 1992 年原版分开。",
-      "source": "https://shiravune.com/archives/2502"
+      "source": "https://shiravune.com/archives/2502",
+      "publisherCompanies": [
+        "Shiravune"
+      ]
     },
     {
       "id": "g055-v5",
@@ -4529,7 +5315,10 @@
       "kind": "合集新平台",
       "voice": "有",
       "differences": "2017 年配音合集移植到 Xbox 与 Microsoft Store PC。",
-      "source": "https://www.spike-chunsoft.co.jp/news/14736/"
+      "source": "https://www.spike-chunsoft.co.jp/news/14736/",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ]
     },
     {
       "id": "g014-v2",
@@ -4540,7 +5329,10 @@
       "kind": "高清复刻",
       "voice": "有",
       "differences": "收录于太东LD游戏合集，升级画面并保留互动动画。",
-      "source": "https://www.taito.co.jp/taitoldgamecollection"
+      "source": "https://www.taito.co.jp/taitoldgamecollection",
+      "publisherCompanies": [
+        "TAITO（太东）"
+      ]
     },
     {
       "id": "g028-v3",
@@ -4551,7 +5343,10 @@
       "kind": "高清移植",
       "voice": "有（主角部分）",
       "differences": "高清画面与日语角色配音；主角仅部分场景有声。",
-      "source": "https://www.prot.co.jp/switch/kanon/spec.html"
+      "source": "https://www.prot.co.jp/switch/kanon/spec.html",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ]
     },
     {
       "id": "g047-v2",
@@ -4562,7 +5357,10 @@
       "kind": "ONE. 重制",
       "voice": "有",
       "differences": "重绘立绘并加入角色配音；主人公仍不配音。",
-      "source": "https://nexton-net.jp/nexton30th/nvm001/"
+      "source": "https://nexton-net.jp/nexton30th/nvm001/",
+      "publisherCompanies": [
+        "novamicus（NEXTON）"
+      ]
     },
     {
       "id": "g047-v3",
@@ -4573,7 +5371,10 @@
       "kind": "ONE. 重制",
       "voice": "有",
       "differences": "重绘立绘并加入角色配音；主人公仍不配音。",
-      "source": "https://nexton-net.jp/nexton30th/nvm001/"
+      "source": "https://nexton-net.jp/nexton30th/nvm001/",
+      "publisherCompanies": [
+        "novamicus（NEXTON）"
+      ]
     },
     {
       "id": "g047-v4",
@@ -4584,7 +5385,10 @@
       "kind": "ONE. 数字版",
       "voice": "有",
       "differences": "重绘画面与角色配音；商店显示的跨区日期可能早于日版一天。",
-      "source": "https://store.steampowered.com/app/2432100/ONE/"
+      "source": "https://store.steampowered.com/app/2432100/ONE/",
+      "publisherCompanies": [
+        "novamicus（NEXTON）"
+      ]
     },
     {
       "id": "g084-v2",
@@ -4595,7 +5399,10 @@
       "kind": "HD 复刻",
       "voice": "未核实",
       "differences": "《TAITO LD Game Collection》收录，以高清影像呈现。",
-      "source": "https://www.taito.co.jp/mob/topics/26135"
+      "source": "https://www.taito.co.jp/mob/topics/26135",
+      "publisherCompanies": [
+        "TAITO（太东）"
+      ]
     },
     {
       "id": "g012-v3",
@@ -4606,7 +5413,10 @@
       "kind": "重制",
       "voice": "有",
       "differences": "依据红白机版重制，新增后续故事与人物配音。",
-      "source": "https://info.gmodecorp.com/cs/okhotsk/"
+      "source": "https://info.gmodecorp.com/cs/okhotsk/",
+      "publisherCompanies": [
+        "G-MODE"
+      ]
     },
     {
       "id": "g012-v4",
@@ -4617,7 +5427,10 @@
       "kind": "重制",
       "voice": "有",
       "differences": "与Switch同款重制版；按平台单独登记。",
-      "source": "https://info.gmodecorp.com/cs/okhotsk/products/"
+      "source": "https://info.gmodecorp.com/cs/okhotsk/products/",
+      "publisherCompanies": [
+        "G-MODE"
+      ]
     },
     {
       "id": "g031-v4",
@@ -4628,7 +5441,10 @@
       "kind": "高清复刻",
       "voice": "有",
       "differences": "基于Vita版，画面高清化并增加多语言文本。",
-      "source": "https://typemoon.com/products/f-sn/"
+      "source": "https://typemoon.com/products/f-sn/",
+      "publisherCompanies": [
+        "TYPE-MOON"
+      ]
     },
     {
       "id": "g031-v5",
@@ -4639,7 +5455,10 @@
       "kind": "高清复刻",
       "voice": "有",
       "differences": "与Switch版同期发布的《REMASTERED》。",
-      "source": "https://typemoon.com/products/f-sn/"
+      "source": "https://typemoon.com/products/f-sn/",
+      "publisherCompanies": [
+        "TYPE-MOON"
+      ]
     },
     {
       "id": "g046-v4",
@@ -4650,7 +5469,10 @@
       "kind": "主机重制版",
       "voice": "有",
       "differences": "CSver 调整内容，保留重制的配音与画面，增加新场景。",
-      "source": "https://dmmgames.co.jp/news/detail/id=1786"
+      "source": "https://dmmgames.co.jp/news/detail/id=1786",
+      "publisherCompanies": [
+        "EXNOA（DG REMAKE）"
+      ]
     },
     {
       "id": "g046-v5",
@@ -4661,7 +5483,10 @@
       "kind": "主机重制版",
       "voice": "有",
       "differences": "CSver 调整内容，保留重制的配音与画面，增加新场景。",
-      "source": "https://dmmgames.co.jp/news/detail/id=1786"
+      "source": "https://dmmgames.co.jp/news/detail/id=1786",
+      "publisherCompanies": [
+        "EXNOA（DG REMAKE）"
+      ]
     },
     {
       "id": "g052-v3",
@@ -4672,7 +5497,10 @@
       "kind": "主机复刻",
       "voice": "有",
       "differences": "面向主机的调整版本，与 2003 年 PC 原版区分。",
-      "source": "https://games.ancr.jp/games/muv-luv/"
+      "source": "https://games.ancr.jp/games/muv-luv/",
+      "publisherCompanies": [
+        "aNCHOR"
+      ]
     },
     {
       "id": "g053-v3",
@@ -4683,7 +5511,10 @@
       "kind": "主机复刻",
       "voice": "有",
       "differences": "主机版以全年龄内容和重新调整的显示呈现。",
-      "source": "https://games.ancr.jp/games/muv-luv-alternative/"
+      "source": "https://games.ancr.jp/games/muv-luv-alternative/",
+      "publisherCompanies": [
+        "aNCHOR"
+      ]
     },
     {
       "id": "g014-v3",
@@ -4694,7 +5525,10 @@
       "kind": "高清复刻移植",
       "voice": "有",
       "differences": "高清复刻版在Steam发行。",
-      "source": "https://www.taito.co.jp/mob/topics/36776"
+      "source": "https://www.taito.co.jp/mob/topics/36776",
+      "publisherCompanies": [
+        "TAITO（太东）"
+      ]
     },
     {
       "id": "g023-v3",
@@ -4705,7 +5539,10 @@
       "kind": "复刻",
       "voice": "有",
       "differences": "《forever with you エモーショナル》加入EVS呼名功能与图像切换。",
-      "source": "https://www.konami.com/games/corporate/ja/news/topics/20250508/"
+      "source": "https://www.konami.com/games/corporate/ja/news/topics/20250508/",
+      "publisherCompanies": [
+        "Konami"
+      ]
     },
     {
       "id": "g033-v2",
@@ -4716,7 +5553,10 @@
       "kind": "高清复刻",
       "voice": "有",
       "differences": "《School Days REMASTERED》重做现代系统兼容性，保留动画式叙事。",
-      "source": "https://0verflow.com/sdrm/"
+      "source": "https://0verflow.com/sdrm/",
+      "publisherCompanies": [
+        "Overflow（STACK）"
+      ]
     },
     {
       "id": "g037-v1",
@@ -4727,7 +5567,10 @@
       "kind": "重制首发",
       "voice": "有",
       "differences": "1997 年原作的 2025 年重制版，单独列示；平台发行方有别。",
-      "source": "https://aquaplus.jp/toheart/en.html"
+      "source": "https://aquaplus.jp/toheart/en.html",
+      "publisherCompanies": [
+        "AQUAPLUS"
+      ]
     },
     {
       "id": "g037-v2",
@@ -4738,7 +5581,11 @@
       "kind": "同步首发",
       "voice": "有",
       "differences": "3D重制；可切换新旧配音，Steam平台发行方与日版不同。",
-      "source": "https://aquaplus.jp/toheart/en.html"
+      "source": "https://aquaplus.jp/toheart/en.html",
+      "publisherCompanies": [
+        "DMM GAMES",
+        "Shiravune"
+      ]
     },
     {
       "id": "g048-v2",
@@ -4749,7 +5596,10 @@
       "kind": "高清复刻",
       "voice": "有",
       "differences": "2025 年复刻版，保留恋爱冒险主线并更新显示。",
-      "source": "https://game.mages.co.jp/infinity/never7/"
+      "source": "https://game.mages.co.jp/infinity/never7/",
+      "publisherCompanies": [
+        "MAGES."
+      ]
     },
     {
       "id": "g048-v3",
@@ -4760,7 +5610,10 @@
       "kind": "高清复刻",
       "voice": "有",
       "differences": "2025 年复刻版，保留恋爱冒险主线并更新显示。",
-      "source": "https://game.mages.co.jp/infinity/never7/"
+      "source": "https://game.mages.co.jp/infinity/never7/",
+      "publisherCompanies": [
+        "MAGES."
+      ]
     },
     {
       "id": "g048-v4",
@@ -4771,7 +5624,10 @@
       "kind": "高清复刻",
       "voice": "有",
       "differences": "2025 年复刻版，保留恋爱冒险主线并更新显示。",
-      "source": "https://game.mages.co.jp/infinity/never7/"
+      "source": "https://game.mages.co.jp/infinity/never7/",
+      "publisherCompanies": [
+        "MAGES."
+      ]
     },
     {
       "id": "g050-v3",
@@ -4782,7 +5638,10 @@
       "kind": "高清复刻",
       "voice": "有",
       "differences": "使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。",
-      "source": "https://game.mages.co.jp/infinity/ever17/"
+      "source": "https://game.mages.co.jp/infinity/ever17/",
+      "publisherCompanies": [
+        "MAGES."
+      ]
     },
     {
       "id": "g050-v4",
@@ -4793,7 +5652,10 @@
       "kind": "高清复刻",
       "voice": "有",
       "differences": "使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。",
-      "source": "https://game.mages.co.jp/infinity/ever17/"
+      "source": "https://game.mages.co.jp/infinity/ever17/",
+      "publisherCompanies": [
+        "MAGES."
+      ]
     },
     {
       "id": "g050-v5",
@@ -4804,7 +5666,10 @@
       "kind": "高清复刻",
       "voice": "有",
       "differences": "使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。",
-      "source": "https://game.mages.co.jp/infinity/ever17/"
+      "source": "https://game.mages.co.jp/infinity/ever17/",
+      "publisherCompanies": [
+        "MAGES."
+      ]
     },
     {
       "id": "g056-v6",
@@ -4815,7 +5680,11 @@
       "kind": "移动版",
       "voice": "无",
       "differences": "免费本篇升级高清；Plus 的支线和画廊作为付费扩展。",
-      "source": "https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/"
+      "source": "https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/",
+      "publisherCompanies": [
+        "Team Salvato",
+        "Serenity Forge"
+      ]
     },
     {
       "id": "g056-v7",
@@ -4826,7 +5695,11 @@
       "kind": "移动版",
       "voice": "无",
       "differences": "免费本篇升级高清；Plus 的支线和画廊作为付费扩展。",
-      "source": "https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/"
+      "source": "https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/",
+      "publisherCompanies": [
+        "Team Salvato",
+        "Serenity Forge"
+      ]
     },
     {
       "id": "g084-v3",
@@ -4837,7 +5710,10 @@
       "kind": "HD 复刻数字版",
       "voice": "未核实",
       "differences": "单独发行的 HD 移植；商店与日本公告跨时区日期有一天差异。",
-      "source": "https://www.taito.co.jp/mob/topics/36776"
+      "source": "https://www.taito.co.jp/mob/topics/36776",
+      "publisherCompanies": [
+        "TAITO（太东）"
+      ]
     }
   ]
 }

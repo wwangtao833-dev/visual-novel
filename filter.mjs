@@ -7,13 +7,16 @@ export function filterCatalogue(data, filters={}) {
   const results=[];
   for(const work of data.works) {
     if(filters.category && work.category!==filters.category) continue;
-    const ownMatch=!query || normalize([work.title,work.originalTitle,work.genre,work.category,work.synopsis,...work.characters].join(' ')).includes(query);
+    if(filters.subcategory && work.subcategory!==filters.subcategory) continue;
+    const ownMatch=!query || normalize([work.title,work.originalTitle,work.genre,work.category,work.subcategory,work.synopsis,...work.characters].join(' ')).includes(query);
     const versions=(versionByWork.get(work.id) || []).filter(v=>{
       if(filters.platform && !normalize(v.platform).includes(normalize(filters.platform))) return false;
       if(filters.from && v.year<Number(filters.from)) return false;
       if(filters.to && v.year>Number(filters.to)) return false;
       if(filters.voice && !v.voice.startsWith(filters.voice)) return false;
-      return ownMatch || normalize([v.year,v.platform,v.publisher,v.kind,v.voice,v.differences].join(' ')).includes(query);
+      if(filters.company && !(filters.company==='__unattributed__'
+        ? !v.publisherCompanies?.length : v.publisherCompanies?.includes(filters.company))) return false;
+      return ownMatch || normalize([v.year,v.platform,v.publisher,...(v.publisherCompanies||[]),v.kind,v.voice,v.differences].join(' ')).includes(query);
     });
     if(versions.length) results.push({work,versions});
   }

@@ -99,3 +99,26 @@ test('shared FM tape is a single version while Alice has a separate original mac
   const alice=filterCatalogue(data,{query:'不思議の国のアリス',platform:'PC-8001',from:1984,to:1984});
   assert.deepEqual(alice[0].versions.map(v=>v.publisher),['マイクロキャビン']);
 });
+
+test('subcategories select only works within the chosen parent class',()=>{
+  const matches=filterCatalogue(data,{category:'互动动画',subcategory:'激光影碟·射击／驾驶'});
+  assert.equal(matches.length,3);
+  assert.ok(matches.every(({work})=>work.category==='互动动画' && work.subcategory==='激光影碟·射击／驾驶'));
+  assert.equal(filterCatalogue(data,{category:'视觉小说',subcategory:'激光影碟·射击／驾驶'}).length,0);
+});
+
+test('publisher aliases group versions without replacing their original credit',()=>{
+  const matches=filterCatalogue(data,{company:'Enix（艾尼克斯）'});
+  assert.ok(matches.some(({work})=>work.title==='波多比亚连续杀人事件'));
+  assert.ok(matches.some(({work})=>work.title==='女子宿舍危机'));
+  assert.ok(matches.flatMap(({versions})=>versions).some(v=>v.publisher==='エニックス'));
+  assert.ok(matches.flatMap(({versions})=>versions).some(v=>v.publisher==='艾尼克斯'));
+});
+
+test('joint publisher filtering keeps only credited versions of each work',()=>{
+  const matches=filterCatalogue(data,{query:'ToHeart',company:'AQUAPLUS'});
+  assert.ok(matches.length>0);
+  assert.ok(matches.every(({versions})=>versions.every(v=>v.publisherCompanies.includes('AQUAPLUS'))));
+  const original=filterCatalogue(data,{query:'Colossal Cave Adventure',company:'__unattributed__',from:1976,to:1977});
+  assert.deepEqual(original[0].versions.map(v=>v.year),[1976,1977]);
+});

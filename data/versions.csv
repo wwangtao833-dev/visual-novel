@@ -1,244 +1,244 @@
-﻿作品ID,版本ID,作品名称,原文名称,主分类,游戏类型,主要角色,发行年份,平台,发行公司,版本类型,配音,版本差异,来源
-g089,g089-v1,巨洞冒险,Colossal Cave Adventure,文字冒险,纯文本／洞穴探索,探险者（玩家）,1976,PDP-10,Will Crowther（作者传播）,原始大型机版,无,原作以洞穴路线和少量宝物为核心；非商业发行。,https://www.catb.org/~esr/open-adventure/history.html
-g089,g089-v2,巨洞冒险,Colossal Cave Adventure,文字冒险,纯文本／洞穴探索,探险者（玩家）,1977,PDP-10,Don Woods（作者传播）,扩充版,无,Don Woods 在原作上增加谜题、宝藏和奇幻内容；同机种的不同内容版本。,https://rickadams.org/adventure/a_history.html
-g090,g090-v1,佐克（大型机原作）,Zork (MIT PDP-10 original),文字冒险,纯文本／奇幻解谜,冒险者（玩家）,1977,PDP-10,MIT 创作者团队（非商业传播）,大型机原作,无,MIT 收藏的 1977 年 MDL 源码；随后商业版拆分为《Zork I》等独立作品。,https://github.com/MITDDC/zork
-g091,g091-v1,冒险乐园,Adventureland,文字冒险,纯文本／寻宝解谜,冒险者（玩家）,1978,TRS-80,Scott Adams（初期自行销售）,首发录音带,无,最初的商业家用机文字冒险之一；后续 Adventure International 包装版时间另待核。,https://www.msadams.com/adventures.htm
-g092,g092-v1,海盗冒险,Pirate Adventure,文字冒险,纯文本／海盗寻宝,冒险者（玩家）、海盗,1978,TRS-80,Scott Adams／Adventure International,早期家用机版,无,作者 Scott 与 Alexis Adams；具体早期商业包装和出版名称仍待逐批核对。,https://ifdb.org/viewgame?id=zya3mo3njj58hewi
-g089,g089-v3,巨洞冒险,Colossal Cave Adventure,文字冒险,纯文本／洞穴探索,探险者（玩家）,1979,TRS-80,Microsoft,Microsoft Adventure 商业改编,无,家用电脑版本，属于《Adventure》的商业改编；不等同于 1976 年源代码。,https://www.trs-80.org/microsoft-adventure.html
-g089,g089-v4,巨洞冒险,Colossal Cave Adventure,文字冒险,纯文本／洞穴探索,探险者（玩家）,1979,Apple II,Microsoft,Microsoft Adventure 商业改编,无,同年销售的 Apple II 版，发行时间据电脑史馆藏。,https://www.trs-80.org/microsoft-adventure.html
-g093,g093-v1,伯爵,The Count,文字冒险,纯文本／吸血鬼恐怖,冒险者（玩家）、吸血鬼伯爵,1979,家用计算机,Adventure International,早期家用机版,无,1979 年发行，但最早的具体机种及包装待核；不推定为 TRS-80 首发。,https://ifdb.org/viewgame?id=89qmjvv4cb0z93t5
-g001,g001-v1,神秘屋,Mystery House,文字冒险,图文指令／悬疑,待核实,1980,Apple II,On-Line Systems,首发,无,最早商业发行版。,https://www.sierragamers.com/ken-williams/
-g002,g002-v1,佐克 I,Zork I: The Great Underground Empire,文字冒险,纯文本／奇幻解谜,待核实,1980,家用计算机,Infocom,首发,无,按 Infocom 商业版；早期大型机 Zork 不并入。,https://infocom-if.org/company/company.html
-g057,g057-v1,巫师与公主,The Wizard and the Princess,文字冒险,彩色图文指令／奇幻,冒险者（玩家）、普莉西拉公主、巫师 Harlin,1980,Apple II,On-Line Systems,首发,无,彩色静态插图与文字指令。,https://www.sierragamers.com/roberta-williams/
-g058,g058-v1,克兰斯顿庄园,Cranston Manor,文字冒险,彩色图文指令／寻宝,寻宝者（玩家）、克兰斯顿,1981,Apple II,On-Line Systems,首发,无,英文指令与彩色场景。,https://www.sierragamers.com/wp-content/uploads/2019/12/001_On_Line_Letter_Volume_1_Number_1_June_1981.pdf
-g062,g062-v1,佐克 II,Zork II: The Wizard of Frobozz,文字冒险,纯文本／奇幻解谜,冒险者（玩家）、Frobozz 巫师,1981,家用计算机,Infocom,首发／早期多机种,无,此处合并同年早期计算机平台；具体机种日期待核实。,https://www.infocom-if.org/games/zork2/zork2.html
-g094,g094-v1,软色情冒险,Softporn Adventure,文字冒险,纯文本／成人喜剧冒险,男性主人公（玩家）,1981,Apple II,On-Line Systems,首发商业版,无,文本指令；归入成人喜剧文字冒险，不等同于后来的恋爱视觉小说。,https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf
-g003,g003-v1,Deadline,Deadline,文字冒险,纯文本／推理,待核实,1982,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://infocom-if.org/games/games.html
-g004,g004-v1,夜生活,ナイトライフ,Galgame,成人向／生活工具,待核实,1982,日本个人计算机,光荣,首发,无,历史作品；严格说并非典型恋爱叙事游戏。,https://www.famitsu.com/news/202312/10327281.html
-g005,g005-v1,Lolita：野球拳,ロリータ～野球拳,Galgame,成人向／猜拳,待核实,1982,FM-7 等,PSK,首发,无,按广义早期美少女游戏收录；不是视觉小说。,https://fm-7.com/museum/products/7bj82lkr/
-g057,g057-v2,巫师与公主,The Wizard and the Princess,文字冒险,彩色图文指令／奇幻,冒险者（玩家）、普莉西拉公主、巫师 Harlin,1982,IBM PC,IBM,Adventure in Serenia 版本,无,以不同标题发行的 IBM 移植版。,https://www.sierragamers.com/hi-res/
-g059,g059-v1,时区,Time Zone,文字冒险,彩色图文指令／时间旅行,旅行者（玩家）,1982,Apple II,On-Line Systems,首发,无,多张磁盘的跨时代图文冒险。,https://www.sierragamers.com/hi-res/
-g063,g063-v1,佐克 III,Zork III: The Dungeon Master,文字冒险,纯文本／奇幻解谜,冒险者（玩家）、地下城主,1982,家用计算机,Infocom,首发／早期多机种,无,同年发行机种与先后顺序仍待逐台核实。,https://www.infocom-if.org/games/zork3/zork3.html
-g064,g064-v1,星际交汇,Starcross,文字冒险,纯文本／科幻探索,黑洞矿工（玩家）,1982,家用计算机,Infocom,首发／早期多机种,无,以文字命令探索外星飞船；机种明细待核实。,https://www.infocom-if.org/games/starcross/starcross.html
-g095,g095-v1,尤利西斯与金羊毛,Ulysses and the Golden Fleece,文字冒险,彩色图文指令／希腊神话,尤利西斯、独眼巨人、海妖,1982,Apple II,On-Line Systems／Sierra On-Line,Hi-Res Adventure #4,无,上方场景插图、下方两词指令；系列页和设计师年表列 1982 年。,https://www.sierragamers.com/hi-res/
-g096,g096-v1,表参道冒险,表参道アドベンチャー,文字冒险,纯文本／杂志刊载解谜,潜入者（玩家）,1982,PC-8001,ASCII（杂志刊载）,1982 年 4 月杂志版,无,随《月刊 ASCII》附刊 Ah!SKI 发表的文本指令游戏。,https://ifdb.org/viewgame?id=l0ovglum7br9nztc
-g096,g096-v2,表参道冒险,表参道アドベンチャー,文字冒险,纯文本／杂志刊载解谜,潜入者（玩家）,1982,MZ-80K/C,ASCII（杂志刊载）,同刊载机种适配,无,利用杂志所列机种接口执行相同程序；不是另一次商业发行。,https://electrelic.com/electrelic/node/1072?language=en
-g096,g096-v3,表参道冒险,表参道アドベンチャー,文字冒险,纯文本／杂志刊载解谜,潜入者（玩家）,1982,MZ-80B,ASCII（杂志刊载）,同刊载机种适配,无,共用游戏主体，机种依赖部分不同；不是 PC-9801 首发。,https://electrelic.com/electrelic/node/1072?language=en
-g097,g097-v1,谜之屋（日本版原创）,ミステリーハウスⅠ,文字冒险,图文指令／寻宝,寻宝者（玩家）,1982,MZ-80B,マイクロキャビン,日本原始版,无,1982 年夏 MZ 系列黑白图像作品，与 Sierra 同名游戏故事不同。,https://www.gamepres.org/pc88/library/adv.htm
-g098,g098-v1,谜之屋 II,ミステリーハウスⅡ,文字冒险,图文指令／寻宝,寻宝者（玩家）,1982,FM-8,マイクロキャビン,早期 FM 版,无,馆藏列 1982 年；早期 FM-8 盘与 FM-7 不兼容。,https://fm-7.com/museum/products/jna9lxqz/
-g113,g113-v1,霍比特人,The Hobbit,文字冒险,图文文字冒险／奇幻,比尔博·巴金斯、甘道夫、索林,1982,ZX Spectrum,Melbourne House,原版,未核实,1982 年 ZX Spectrum 录音带原版；同年 Sinclair Research 曾发行同平台再版。,https://worldofspectrum.org/software?id=0006440
-g113,g113-v2,霍比特人,The Hobbit,文字冒险,图文文字冒险／奇幻,比尔博·巴金斯、甘道夫、索林,1982,ZX Spectrum,Sinclair Research Ltd,同平台再版,未核实,馆藏另列 1982 年 Sinclair Research 的 ZX Spectrum 再版，平台和游戏本体相同。,https://worldofspectrum.org/software?id=0006440
-g001,g001-v2,神秘屋,Mystery House,文字冒险,图文指令／悬疑,待核实,1983,PC-8801,スタークラフト,日本移植,无,1983 年 4 月 PC-8801 移植 Sierra 原作；与同名 MicroCabin 原创作品不同。,https://www.gamepres.org/pc88/library/1983/1983_4.htm
-g006,g006-v1,Planetfall,Planetfall,文字冒险,纯文本／科幻,待核实,1983,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://www.infocom-if.org/authors/meretzky.html
-g007,g007-v1,波多比亚连续杀人事件,ポートピア連続殺人事件,文字冒险,图文指令／推理,刑警（玩家）、ヤス,1983,日本个人计算机,艾尼克斯,首发,无,此处文字冒险包括图文指令游戏。,https://fm-7.com/museum/products/k6sufaqm/
-g008,g008-v1,玛丽酱危机一发,マリちゃん危機一髪,Galgame,美少女／解救冒险,玛丽,1983,PC-8801 等,艾尼克斯,首发,无,部分版本附有磁带人声；不等同游戏内角色配音。,https://fm-7.com/museum/products/1paitdl4/
-g009,g009-v1,团地妻的诱惑,団地妻の誘惑,Galgame,成人向／冒险,待核实,1983,日本个人计算机,光荣,首发,无,作品最早确认的版本。,https://www.famitsu.com/news/202312/10327281.html
-g010,g010-v1,龙穴历险记,Dragon’s Lair,互动动画,激光影碟／动作选择,德克（Dirk）、达芙妮（Daphne）,1983,街机,Cinematronics,首发,有,美国街机原版。,https://www.arcade-history.com/game/702/
-g041,g041-v1,悬置,Suspended,文字冒险,纯文本／科幻解谜,IRIS、WALDO、AUDA、POET,1983,家用计算机,Infocom,首发,无,文字指令控制不同机器人完成修复。,https://www.infocom-if.org/games/games.html
-g042,g042-v1,魔法师,Enchanter,文字冒险,纯文本／奇幻解谜,见习魔法师（玩家）、Krill,1983,家用计算机,Infocom,首发,无,咒语收集与解析器指令是主要玩法。,https://www.infocom-if.org/games/games.html
-g057,g057-v3,巫师与公主,The Wizard and the Princess,文字冒险,彩色图文指令／奇幻,冒险者（玩家）、普莉西拉公主、巫师 Harlin,1983,FM-7,スタークラフト,日本移植,无,由 Starcraft 移植，画面与平台适配有别于 Apple II。,https://fm-7.com/museum/products/gcdtmjc7/
-g058,g058-v2,克兰斯顿庄园,Cranston Manor,文字冒险,彩色图文指令／寻宝,寻宝者（玩家）、克兰斯顿,1983,FM-7,スタークラフト,日本移植,无,日本 FM-7 平台移植；追寻宅邸中的宝藏。,https://fm-7.com/museum/products/0mvxzwag/
-g065,g065-v1,目击者,The Witness,文字冒险,纯文本／侦探推理,警探（玩家）、Duffy 警佐,1983,家用计算机,Infocom,首发／早期多机种,无,依据 Infocom 年表与作者资料记为 1983 年；各机种另待核实。,https://www.infocom-if.org/authors/galley.html
-g066,g066-v1,异教徒,Infidel,文字冒险,纯文本／考古冒险,探险者（玩家）,1983,家用计算机,Infocom,首发／早期多机种,无,沙漠求生与古迹探索；机种明细待核实。,https://www.infocom-if.org/games/infidel/infidel.html
-g073,g073-v1,惑星梅菲乌斯,惑星メフィウス,文字冒险,图文指令／科幻,星亚瑟（玩家）,1983,FM-7,T&E SOFT,首发,无,档案列 FM-7 为原始机种，采用指令与画面目标选择。,https://fm-7.com/museum/products/tocvx2b8/
-g074,g074-v1,德泽尼乐园,デゼニランド,文字冒险,图文指令／游乐园解谜,寻宝者（玩家）,1983,X1D,ハドソンソフト,首发机种,无,档案将 X1D 列为原始机种；准确先后月份待核实。,https://fm-7.com/museum/products/zd9clwc4/
-g074,g074-v2,德泽尼乐园,デゼニランド,文字冒险,图文指令／游乐园解谜,寻宝者（玩家）,1983,FM-7,ハドソンソフト,移植,无,FM-7 图文指令版；与 X1D 同年，月份待核实。,https://fm-7.com/museum/products/zd9clwc4/
-g075,g075-v1,四次元少女莉迪亚,四次元少女リディア,文字冒险,图文指令／科幻故事,调查员（玩家）、Trigger 博士,1983,FM-7,チャンピオンソフト,首发,无,附立体眼镜的图文冒险；有音乐但角色人声未见证据。,https://fm-7.com/museum/products/91e3ra67/
-g082,g082-v1,贝加之战,Bega's Battle,互动动画,激光影碟／动画射击,Bega、Luna、Jobe、Sony、Varge,1983,街机,Data East,首发,未核实,动画影碟穿插射击环节；非文字分支视觉小说。,https://www.arcade-museum.com/Videogame/begas-battle
-g087,g087-v1,暗黑星云,暗黒星雲,文字冒险,图文指令／科幻,星亚瑟（玩家）,1983,FM-7,T&E SOFT,首发,无,前作续篇，另有几段 3D 射击；角色人声未见证据。,https://fm-7.com/museum/products/gttnk7za/
-g097,g097-v2,谜之屋（日本版原创）,ミステリーハウスⅠ,文字冒险,图文指令／寻宝,寻宝者（玩家）,1983,FM-7,マイクロキャビン,彩色移植,无,馆藏标为 1983 年 11 月；改为 FM-7 彩色画面，且此版晚于《谜之屋 II》的 FM 版。,https://fm-7.com/museum/products/az1oan43/
-g098,g098-v2,谜之屋 II,ミステリーハウスⅡ,文字冒险,图文指令／寻宝,寻宝者（玩家）,1983,FM-7,マイクロキャビン,FM-7 专用版,无,馆藏发行明细记为 1983 年 FM-7 专用版；早期 FM-8 盘在 FM-7 不能正常运行。,https://fm-7.com/museum/products/jna9lxqz/releases
-g099,g099-v1,黑水晶,The Dark Crystal,文字冒险,彩色图文指令／电影改编,Jen、Kira,1983,Apple II,Sierra On-Line,Hi-Res Adventure #6,无,依电影改编的图文冒险，输入文字命令进行探索。,https://www.sierragamers.com/the-dark-crystal/
-g100,g100-v1,南青山冒险,南青山アドベンチャー,文字冒险,纯文本／科幻讽刺,投稿者（玩家）,1983,PC-8001,ASCII,1983 年 4 月发表,无,《表参道冒险》后续作品，英文命令文本游戏；首发机种记为 PC-8001 及以后兼容系列。,https://www.gamepres.org/pc88/library/1983/1983_4.htm
-g101,g101-v1,帕姆斯,ザ・パームス,文字冒险,图文指令／海底探险,冒险者（玩家）、被掳走的恋人,1983,FM-8,ハミングバードソフト,系列第 1 作,无,馆藏记 1983 年 1 月，原始机种标 FM-8；图文指令冒险。,https://fm-7.com/museum/products/aibua2n8/
-g101,g101-v2,帕姆斯,ザ・パームス,文字冒险,图文指令／海底探险,冒险者（玩家）、被掳走的恋人,1983,FM-7,ハミングバードソフト,FM-7 适配,无,FM-7 兼容版本；与 FM-8 的具体发行先后待核。,https://fm-7.com/museum/products/aibua2n8/
-g102,g102-v1,仙境骑士,ザ・ナイト・オブ・ワンダーランド,文字冒险,图文指令／童话,冒险者（玩家）、罗姆公主,1983,FM-7/8,ハミングバードソフト,系列第 2 作,无,馆藏原始机种为 FM-7/8；与《帕姆斯》相比更多中间色画面。,https://fm-7.com/museum/products/vitpdgtz/
-g103,g103-v1,星光冒险 PART 1,スターライト・アドベンチャー PART 1,文字冒险,文本指令／科幻童话,旅行者（玩家）、被营救的公主,1983,FM-7,キャリーラボ,早期 FM 版,无,馆藏明确 FM-7 机种；以文字指令推进，含日文平假名显示。,https://fm-7.com/museum/products/vjg12a36/
-g104,g104-v1,寻找广子,アタックひろ子ちゃん,Galgame,成人向／图文指令,玩家、ひろ子,1983,FM-7,チャンピオンソフト,早期成人冒险,无,馆藏将其列为冒险与成人向，首发机种未核实。,https://fm-7.com/museum/products/7kjmjxi8/
-g113,g113-v3,霍比特人,The Hobbit,文字冒险,图文文字冒险／奇幻,比尔博·巴金斯、甘道夫、索林,1983,Commodore 64,Melbourne House,录音带移植,未核实,档案页将 C64 录音带版列为 1983；页面另列 1985 年该版装载器，年份有异文，待查当年包装。,https://www.lemon64.com/game/hobbit-tape-version
-g114,g114-v1,英灵殿,Valhalla,文字冒险,图文文字冒险／北欧神话,冒险者（玩家）,1983,ZX Spectrum,Legend,原版,未核实,ZX Spectrum 初版；1984 年 C64 版单列。,https://worldofspectrum.org/archive/software/games/valhalla-legend-1
-g115,g115-v1,占星大冒险,アストロロジー・スクランブル,文字冒险,图文冒险／奇幻恋爱,杰米尼、阿夸丽亚斯、撒旦、墨丘利,1983,FM-7,リバーヒルソフト,原版,未核实,馆藏将 FM-7 列为原始机种。,https://fm-7.com/museum/products/mrq0utaa/
-g116,g116-v1,寻找线索！,手掛りを探せ！,文字冒险,图文冒险／推理,旅馆管理员（玩家）,1983,FM-8／FM-7,リバーヒルソフト,原版,未核实,馆藏列 FM 系兼容机种，原始机种不明，合并记为一个兼容版本。,https://fm-7.com/museum/products/kgzrbt1p/
-g117,g117-v1,流浪小鼠,ザ・ストレイストーリー,文字冒险,图文冒险／童话,小鼠,1983,FM-8／FM-7,リバーヒルソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/db6qluaw/
-g118,g118-v1,女子宿舍危机,女子寮パニック,Galgame,成人向／图文冒险,罗姆（ロムちゃん）,1983,FM-8／FM-7,エニックス,原版,未核实,1983 年 6 月共用磁带；馆藏将 FM-8 列为原始机种。,https://fm-7.com/museum/products/vj1bitct/releases
-g119,g119-v1,飞鸟之恋,Lovely飛鳥,Galgame,恋爱／图文冒险,飞鸟,1983,FM-7,エニックス,原版,未核实,1983 年 10 月 FM-7 版；馆藏列其为原始机种。,https://fm-7.com/museum/products/l2zkgfa5/
-g120,g120-v1,不可思议之旅,不思議な旅,文字冒险,图文冒险／异世界,异世界漂流者（玩家）,1983,FM-7,エニックス,原版,未核实,原名「ファンタジーアイランド」；1983 年 10 月 FM-7 版。,https://fm-7.com/museum/products/qto4u7tq/
-g121,g121-v1,间谍 0011,SPY-0011,文字冒险,图文冒险／间谍,间谍 0011（玩家）,1983,FM-8／FM-7,チャンピオンソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/0refcz7z/
-g122,g122-v1,太空奇遇,スペーシーワンダー,文字冒险,图文冒险／科幻,飞船船长（玩家）,1983,FM-8／FM-7,チャンピオンソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/a1b1vc7z/
-g123,g123-v1,奥利机场杀人事件,オルリー空港殺人事件,文字冒险,图文冒险／推理,佳苗、明菜,1983,FM-8／FM-7,チャンピオンソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/lrdwgvuy/
-g011,g011-v1,银河系漫游指南,The Hitchhiker’s Guide to the Galaxy,文字冒险,纯文本／科幻喜剧,亚瑟·登特、福特·普里费克特,1984,家用计算机,Infocom,首发,无,作品最早确认的版本。,https://infocom-if.org/games/games.html
-g012,g012-v1,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,1984,PC-8801 等,ASCII（LOGIN SOFT）,首发,无,1984 年 PC 原版；FM-7 移植在 1985 年。,https://www.gamepres.org/pc88/library/1984/ohotsuku.htm
-g013,g013-v1,荷兰妻会梦见电鳗吗？,オランダ妻は電気ウナギの夢を見るか？,Galgame,成人向／冒险,待核实,1984,日本个人计算机,光荣,首发,无,首发 1984；FM-7 版登记为 1985 年。,https://www.famitsu.com/news/202312/10327281.html
-g044,g044-v1,太空王牌,Space Ace,互动动画,激光影碟／动画动作选择,Ace / Dexter、Kimberly、Borf,1984,街机,Cinematronics,首发,有,激光影碟播放手绘动画；按时操作决定分支。,https://www.arcade-museum.com/Videogame/space-ace--cinematronics
-g060,g060-v1,国王密使：王冠之旅,King’s Quest: Quest for the Crown,文字冒险,动画图文指令／奇幻,格雷厄姆（Graham）、爱德华国王,1984,IBM PCjr,IBM,首发,无,移动角色与输入指令相结合的早期动画冒险。,https://www.sierragamers.com/wp-content/uploads/2019/12/Kings_Quest_1_Manual_1_IBM_Version.pdf
-g060,g060-v2,国王密使：王冠之旅,King’s Quest: Quest for the Crown,文字冒险,动画图文指令／奇幻,格雷厄姆（Graham）、爱德华国王,1984,IBM PC / DOS,Sierra On-Line,PC 移植,无,一般 PC 发行版与原 PCjr 版的硬件适配不同。,https://www.sierragamers.com/kq1-grey-box/
-g067,g067-v1,巫术师,Sorcerer,文字冒险,纯文本／奇幻解谜,魔法师（玩家）、Belboz,1984,家用计算机,Infocom,首发／早期多机种,无,《Enchanter》的系列后续，需收集和运用咒语。,https://www.infocom-if.org/games/sorcerer/sorcerer.html
-g068,g068-v1,深海追踪,Seastalker,文字冒险,纯文本／海底科幻,青年发明家（玩家）、Tip,1984,家用计算机,Infocom,首发／早期多机种,无,面向较年轻读者的文字冒险。,https://www.infocom-if.org/games/seastalker/seastalker.html
-g069,g069-v1,海底宝藏,Cutthroats,文字冒险,纯文本／沉船寻宝,潜水员（玩家）,1984,家用计算机,Infocom,首发／早期多机种,无,不同开局可能指向不同沉船。,https://www.infocom-if.org/games/cutthroats/cutthroats.html
-g070,g070-v1,嫌疑人,Suspect,文字冒险,纯文本／推理,记者（玩家）,1984,家用计算机,Infocom,首发／早期多机种,无,从被怀疑者的视角搜集线索。,https://www.infocom-if.org/games/suspect/suspect.html
-g076,g076-v1,死亡陷阱,ザ・デストラップ,文字冒险,图文指令／谍报冒险,情报员 Benson、Dr. Gitan,1984,PC-8801,スクウェア,原始机种,无,档案认定 PC-8801 为原始平台；以指令和静态图像推进。,https://fm-7.com/museum/products/1xukf90e/
-g076,g076-v2,死亡陷阱,ザ・デストラップ,文字冒险,图文指令／谍报冒险,情报员 Benson、Dr. Gitan,1984,FM-7,スクウェア,同年移植,无,FM-7 馆藏标注 1984 年 12 月；与 PC 版分开。,https://fm-7.com/museum/products/1xukf90e/
-g077,g077-v1,沙拉王国的番茄公主,サラダの国のトマト姫,文字冒险,图文指令／童话,黄瓜战士（玩家）、番茄公主、南瓜大王,1984,PC-8801,ハドソンソフト,早期 PC 版,无,1984 年 7 月 PC-8801 版；日文指令图文冒险。,https://www.gamepres.org/pc88/library/1984/1984_7.htm
-g077,g077-v2,沙拉王国的番茄公主,サラダの国のトマト姫,文字冒险,图文指令／童话,黄瓜战士（玩家）、番茄公主、南瓜大王,1984,FM-7,ハドソンソフト,同年多机种版,无,FM-7 馆藏确认 1984 年，未确认与 PC-8801 的发行先后。,https://fm-7.com/museum/products/zyh0e5dv/
-g078,g078-v1,扎斯：夺回人工智能猎户座,ザース 人工頭脳オリオンの奪還,文字冒险,图文指令／科幻,少女（姓名待核）,1984,FM-7,エニックス,首发,无,馆藏列 FM-7 为原始机种，画面受科幻动画影响。,https://fm-7.com/museum/products/3txek9px/
-g079,g079-v1,翼人,ウイングマン,文字冒险,图文指令／漫画改编,广野健太、梦葵（葵）,1984,PC-8801,エニックス,原始 PC 版,无,1984 年 11 月 PC-8801 版；角色名以原作设定为背景。,https://www.gamepres.org/pc88/library/1984/1984_11.htm
-g083,g083-v1,雷霆风暴／眼镜蛇指令,サンダーストーム / Cobra Command,互动动画,激光影碟／动画射击,直升机驾驶员（玩家）,1984,街机,Data East,首发,未核实,日本名《Thunder Storm》，海外街机名《Cobra Command》；与 1988 年同名射击游戏无关。,https://www.arcade-museum.com/Videogame/cobra-command
-g084,g084-v1,忍者疾风,忍者ハヤテ,互动动画,激光影碟／动画动作选择,疾风（ハヤテ）、被掳走的公主,1984,街机,TAITO,首发,未核实,激光影碟播放动画，按提示决定动作；角色配音范围待核实。,https://www.taito.co.jp/mob/topics/26255
-g088,g088-v1,泰拉 4001,テラ4001,文字冒险,图文指令／科幻,星亚瑟（玩家）、Antonio Inoshin、Gondar,1984,FM-7,T&E SOFT,首发,无,含角色移动、飞行及简化战斗等混合玩法。,https://fm-7.com/museum/products/crs8l0ue/
-g099,g099-v2,黑水晶,The Dark Crystal,文字冒险,彩色图文指令／电影改编,Jen、Kira,1984,Apple II,Sierra On-Line,Gelfling Adventure 儿童改编版,无,同题材重新设计为选择式界面，适合较年轻的玩家；1984 年版本据 Sierra 年鉴。,https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf
-g105,g105-v1,深渊,ABYSS,文字冒险,图文指令／科幻潜入,莫兹·希巴特（Moz Shibatto）,1984,FM-7/8,ハミングバードソフト,系列首作,无,图文指令科幻冒险；馆藏将原始机种记为 FM-7/8。,https://fm-7.com/museum/products/74ajuk34/
-g106,g106-v1,黑猫庄继承杀人事件,黒猫荘相続殺人事件,文字冒险,图文指令／推理,调查员（玩家）、助手正男,1984,FM-7,リバーヒルソフト,早期 FM 版,无,馆藏确认该机种和年份；完整首发机种顺序未核实。,https://fm-7.com/museum/products/yyf8ms3g/
-g107,g107-v1,逃离异次元,異次元からの脱出,文字冒险,图文指令／神秘惊悚,迷失异界的上班族（玩家）,1984,FM-7,日本ファルコム,早期 FM 版,无,后半部分含三维迷宫；其他早期机种的确切年份待核。,https://fm-7.com/museum/products/7ggib9g6/
-g108,g108-v1,恶魔之戒,デーモンズリング,文字冒险,图文指令／神秘恐怖,待核实,1984,PC-8801,日本ファルコム,原始 PC 版,无,馆藏标 PC-8801 为原始机种，具体首发月份未获核实。,https://fm-7.com/museum/products/4l5wmkh8/
-g108,g108-v2,恶魔之戒,デーモンズリング,文字冒险,图文指令／神秘恐怖,待核实,1984,FM-7,日本ファルコム,FM-7 移植,无,馆藏标 1984 年；场景快速绘制，FM-7 版画面生成约 1 秒。,https://fm-7.com/museum/products/4l5wmkh8/
-g114,g114-v2,英灵殿,Valhalla,文字冒险,图文文字冒险／北欧神话,冒险者（玩家）,1984,Commodore 64,Legend,移植版,未核实,1984 年 Commodore 64 版；平台发布时间与 1983 年 ZX Spectrum 原版分列。,https://www.lemon64.com/game/valhalla
-g124,g124-v1,G 人：寻找记忆！,Gメン 記憶を探せ！,文字冒险,图文冒险／悬疑,失忆调查者（玩家）,1984,FM-8／FM-7,リバーヒルソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/6mwspus0/
-g125,g125-v1,杂耍之石,ジャグラー・ストーン,文字冒险,图文冒险／奇幻,冒险者（玩家）、神秘老人,1984,FM-8／FM-7,リバーヒルソフト,原版,未核实,四分屏同时显示当前及前三个场景；原始机种未明。,https://fm-7.com/museum/products/5bzhbzog/
-g126,g126-v1,高校大冒险,ハイスクールアドベンチャー,文字冒险,图文冒险／校园解谜,待核实,1984,FM-7,エニックス,原版,未核实,1984 年 6 月 FM-7 原版；参赛时原名「座間高アドベンチャー」。,https://fm-7.com/museum/products/e2w2qqkl/
-g127,g127-v1,暗黑城：创世神加利安的复活,暗黒城～創造神ギャリアンの復活,文字冒险,图文冒险／奇幻,暗黑使徒格鲁,1984,FM-7,エニックス,原版,未核实,1984 年 7 月 FM-7 原版；分九章。,https://fm-7.com/museum/products/om904bko/
-g128,g128-v1,再一次：成功人生故事,サクセス ライフ ストーリィ アゲイン,文字冒险,图文冒险／人生模拟,追求成为圣灵的男子,1984,FM-7,エニックス,原版,未核实,1984 年 12 月 FM-7 原版；七段小冒险串联。,https://fm-7.com/museum/products/2oqhpy7x/
-g129,g129-v1,福尔摩斯,Sherlock,文字冒险,图文文字冒险／侦探,夏洛克·福尔摩斯、华生,1984,ZX Spectrum,Melbourne House,原版,未核实,馆藏 1984 年 ZX Spectrum 录音带原版。,https://worldofspectrum.org/archive/software/text-adventures/sherlock-melbourne-house
-g130,g130-v1,汉普斯特德,Hampstead,文字冒险,纯文本／社会讽刺,向上爬的主人公（玩家）,1984,ZX Spectrum,Melbourne House,原版,未核实,1984 年 ZX Spectrum 版；社会阶层讽刺题材。,https://worldofspectrum.org/archive/software/text-adventures/hampstead-melbourne-house
-g130,g130-v2,汉普斯特德,Hampstead,文字冒险,纯文本／社会讽刺,向上爬的主人公（玩家）,1984,Commodore 64,Melbourne House,移植版,未核实,C64 版目录列 1984 年，与 ZX Spectrum 版同年；具体画面差异待核。,https://www.lemon64.com/game/hampstead
-g131,g131-v1,维京人埃里克传奇,The Saga of Erik the Viking,文字冒险,图文文字冒险／北欧传奇,埃里克,1984,ZX Spectrum,Mosaic Publishing Ltd,原版,未核实,1984 年 ZX Spectrum 原版；由 Level 9 制作。,https://worldofspectrum.org/archive/software/text-adventures/the-saga-of-erik-the-viking-mosaic-publishing-ltd
-g132,g132-v1,恐怖城堡,Castle of Terror,文字冒险,图文文字冒险／恐怖,冒险者（玩家）,1984,ZX Spectrum,Melbourne House,原版,未核实,1984 年 ZX Spectrum 版。,https://worldofspectrum.org/archive/software/text-adventures/castle-of-terror-melbourne-house
-g133,g133-v1,爱丽丝梦游仙境,不思議の国のアリス,文字冒险,纯文本／文学改编,爱丽丝,1984,FM-8／FM-7,マイクロキャビン,原版,未核实,1984 年 4 月 FM 系兼容磁带；另有 エレキッド 销售版，同年但月份未明。,https://fm-7.com/museum/products/yrjupxzp/releases
-g133,g133-v2,爱丽丝梦游仙境,不思議の国のアリス,文字冒险,纯文本／文学改编,爱丽丝,1984,PC-8001,マイクロキャビン,原始机种版本,未核实,馆藏将 PC-8001 列作原始机种；FM 系磁带 1984 年 4 月另有明确馆藏记录，PC-8001 月份待核。,https://fm-7.com/museum/products/yrjupxzp/
-g007,g007-v2,波多比亚连续杀人事件,ポートピア連続殺人事件,文字冒险,图文指令／推理,刑警（玩家）、ヤス,1985,红白机,艾尼克斯,家庭机移植,未核实,移植时重做指令选择界面；并非1983年PC初版。,https://www.nintendo.co.jp/etc/interview/platinumgames/vol1/index3.html
-g014,g014-v1,时间少女,タイムギャル,互动动画,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,1985,街机,太东,首发,有,日本街机原版。,https://www.taito.co.jp/mob/topics/2587
-g015,g015-v1,天使们的午后,天使たちの午後,Galgame,成人向／学园冒险,白石由美子,1985,PC-8801 等,JAST,首发,无,按 PC-8801 初版；FM-7 移植为 1986 年。,https://www.famitsu.com/news/202312/10327281.html
-g016,g016-v1,东京搭讪街,TOKYOナンパストリート,Galgame,成人向／都市恋爱冒险,待核实,1985,日本个人计算机,艾尼克斯,首发,无,作品最早确认的版本。,https://fm-7.com/museum/products/vt0km2jr/
-g017,g017-v1,轻井泽诱拐指南,軽井沢誘拐案内,文字冒险,图文选项／推理,待核实,1985,日本个人计算机,艾尼克斯,首发,无,作品最早确认的版本。,https://fm-7.com/museum/products/iq8kysdi/
-g018,g018-v1,黄金国传奇,エルドラド伝奇,Galgame,成人向／奇幻冒险,待核实,1985,FM-7 等,艾尼克斯,首发,无,作品最早确认的版本。,https://fm-7.com/museum/products/333wukd2/
-g043,g043-v1,永远航行的心灵,A Mind Forever Voyaging,文字冒险,纯文本／科幻叙事,PRISM、Perry Simm,1985,家用计算机,Infocom,首发,无,以多次模拟年代的变化推进故事。,https://www.infocom-if.org/games/games.html
-g061,g061-v1,国王密使 II：浪漫王座,King’s Quest II: Romancing the Throne,文字冒险,动画图文指令／童话,格雷厄姆（Graham）、瓦兰妮丝（Valanice）,1985,IBM PC / DOS,Sierra On-Line,首发,无,沿用指令输入与角色移动的图文冒险。,https://www.sierragamers.com/kings-quest-2/
-g071,g071-v1,许愿石,Wishbringer,文字冒险,纯文本／轻奇幻,邮差（玩家）、黑猫,1985,家用计算机,Infocom,首发／早期多机种,无,较易入门的文字解谜冒险。,https://www.infocom-if.org/games/wishbringer/wishbringer.html
-g072,g072-v1,破咒者,Spellbreaker,文字冒险,纯文本／奇幻解谜,魔法师（玩家）、Belboz,1985,家用计算机,Infocom,首发／早期多机种,无,《Enchanter》系列第三部，围绕失控的魔法展开。,https://www.infocom-if.org/games/spellbreaker/spellbreaker.html
-g079,g079-v2,翼人,ウイングマン,文字冒险,图文指令／漫画改编,广野健太、梦葵（葵）,1985,FM-7,エニックス,移植,无,FM-7 馆藏记 1985 年 3 月；加入平台适配。,https://fm-7.com/museum/products/aao3ghzi/
-g080,g080-v1,阿兹特克,アステカ,文字冒险,图文指令／考古探险,Wilson 博士,1985,PC-8801,日本ファルコム,原始机种,无,PC-8801 初版；具体月份的二手档案有差异，按年登记。,https://www.falcom.co.jp/games-data/egg_asteka_pc8801
-g080,g080-v2,阿兹特克,アステカ,文字冒险,图文指令／考古探险,Wilson 博士,1985,FM-7,日本ファルコム,同年移植,无,FM-7 馆藏记为 1985 年 6 月，采用局部实景图像。,https://fm-7.com/museum/products/qagni9o7/
-g081,g081-v1,Will：死亡陷阱 II,Will: The Death Trap II,文字冒险,图文指令／科幻谍报,Benson、Aisha,1985,PC-8801,スクウェア,首发,无,图文指令冒险采用更多局部动画和对话模式；非激光影碟电影。,https://www.gamepres.org/pc88/library/1985/1985_9.htm
-g085,g085-v1,公路追击,ロードブラスター / Road Blaster,互动动画,激光影碟／动画赛车动作,驾驶者（玩家）,1985,街机,Data East,首发,未核实,东映制作动画影像，按指示操作车辆。,https://www.arcade-museum.com/Videogame/road-blaster
-g086,g086-v1,妖精公寓,Fairie's Residence,Galgame,美少女／图文探索与小游戏,待核实,1985,FM-7,チャンピオンソフト,同年 FM-7 版,无,馆藏确认 1985 年 FM-7 版本；与 PC-8801 版的具体发行先后及内容异同未核实。,https://fm-7.com/museum/products/9sufuw5m/
-g086,g086-v2,妖精公寓,Fairie's Residence,Galgame,美少女／图文探索与小游戏,待核实,1985,PC-8801,チャンピオンソフト,1985 年 4 月 PC 版,无,当期 PC-8801 软件目录明确 1985 年 4 月；描述与 FM-7 版的房间和人物线索一致。,https://www.gamepres.org/pc88/library/1985/1985_4.htm
-g105,g105-v2,深渊,ABYSS,文字冒险,图文指令／科幻潜入,莫兹·希巴特（Moz Shibatto）,1985,FM-7,ハミングバードソフト,tape ABYSS 录音带版,无,1985 年录音带版：情节基本一致，但画面重新绘制，整部程序驻留内存。,https://fm-7.com/museum/products/rwoxchsm/
-g109,g109-v1,深渊 II：帝王之泪,ABYSS Ⅱ 帝王の涙,文字冒险,图文指令／科幻,莫兹·希巴特（Moz Shibatto）,1985,FM-7,ハミングバードソフト,续作,无,与 1984 年《ABYSS》分属两部作品，馆藏原始机种为 FM-7。,https://fm-7.com/museum/products/x0bcvxtx/
-g110,g110-v1,黄道带,ゾーディアック,文字冒险,图文指令／科幻探索,寻父的主角、亚马洛伊德·玛丽、杜马博士,1985,FM-7,リバーヒルソフト,早期 FM 版,无,馆藏确认年份与机种；完整首发平台和确切月份待核。,https://fm-7.com/museum/products/rdtaieyr/
-g111,g111-v1,神威之剑,カムイの剣,文字冒险,图文指令／小说与动画改编,次郎,1985,FM-7,コンプティーク,FM-7 版,无,馆藏确认 1985 年；其他机种和海外英文版日期未核实，暂不拆分。,https://fm-7.com/museum/products/y6ai5nay/
-g111,g111-v2,神威之剑,カムイの剣,文字冒险,图文指令／小说与动画改编,次郎,1985,PC-8801,コンプティーク,1985 年 4 月 PC 版,无,当期目录记 1985 年 4 月；剧情围绕次郎与基德船长宝藏展开，FM-7 版发行月待核。,https://www.gamepres.org/pc88/library/1985/1985_4.htm
-g112,g112-v1,新哥斯拉,ニューゴジラ,文字冒险,图文指令／电影改编,牧吾郎、尚子、哥斯拉,1985,PC-8801,東宝,原始 PC 版,无,1985 年 4 月版含三个玩法段落；包装附怪兽叫声磁带，未据此将角色配音标为“有”。,https://www.gamepres.org/pc88/library/1985/1985_4.htm
-g129,g129-v2,福尔摩斯,Sherlock,文字冒险,图文文字冒险／侦探,夏洛克·福尔摩斯、华生,1985,Commodore 64,Melbourne House,移植版,未核实,C64 版资料列 1985 年；ZX Spectrum 原版为 1984 年。,https://www.lemon64.com/game/sherlock
-g132,g132-v2,恐怖城堡,Castle of Terror,文字冒险,图文文字冒险／恐怖,冒险者（玩家）,1985,Commodore 64,Melbourne House,移植版,未核实,C64 版资料列 1985 年；ZX Spectrum 原版 1984 年。,https://www.lemon64.com/game/castle-of-terror
-g134,g134-v1,瓦尔·特拉德,バル・トラッド,文字冒险,图文冒险／科幻,罗曼·杰森,1985,FM-8／FM-7,リバーヒルソフト,原版,未核实,原始机种不明；冒险过程中穿插动作游戏关卡。,https://fm-7.com/museum/products/7wx08tq8/
-g135,g135-v1,棋子,The Pawn / QL-Pawn,文字冒险,纯文本／奇幻,凯罗夫尼亚的旅行者（玩家）,1985,Sinclair QL,Sinclair Research,原版,无,1985 年 QL-Pawn 原始版 1.0，纯文本、双 Microdrive；后来的 The Pawn 彩色图像版另属后续移植。,https://magneticscrolls.info/facts.php
-g136,g136-v1,恐怖海滨度假,Terrormolinos,文字冒险,纯文本／喜剧,度假者（玩家）,1985,ZX Spectrum,Melbourne House,原版,未核实,1985 年 ZX Spectrum 版，基于修改后的 The Quill。,https://worldofspectrum.org/archive/software/text-adventures/terrormolinos-melbourne-house
-g136,g136-v2,恐怖海滨度假,Terrormolinos,文字冒险,纯文本／喜剧,度假者（玩家）,1985,Commodore 64,Melbourne House,移植版,未核实,C64 版资料列 1985 年；画面和互动细节待核。,https://www.lemon64.com/game/terrormolinos
-g137,g137-v1,莫登的任务,Mordon's Quest,文字冒险,图文文字冒险／奇幻,莫登、冒险者（玩家）,1985,ZX Spectrum,Melbourne House,原版,未核实,1985 年 ZX Spectrum 版；剧情细节待核实。,https://worldofspectrum.org/archive/software/text-adventures/mordons-quest-melbourne-house
-g138,g138-v1,罗宾汉：瑞安侬试金石,Robin of Sherwood: The Touchstones of Rhiannon,文字冒险,文字冒险／奇幻传说,罗宾汉、威尔·斯卡雷特、穆奇,1985,ZX Spectrum,Adventure International,原版,未核实,1985 年 ZX Spectrum 版。,https://worldofspectrum.org/archive/software/text-adventures/robin-of-sherwood-the-touchstones-of-rhiannon-adventure-international
-g012,g012-v2,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,1987,红白机,ASCII,改编移植,未核实,根据PC版重新编排故事与人物表现。,https://www.4gamer.net/games/777/G077714/20240222001/
-g019,g019-v1,No・Ri・Ko,No・Ri・Ko,文字冒险,CD-ROM／偶像互动,小川范子,1988,PC Engine CD-ROM²,Hudson,首发,有,配音与歌曲来自偶像本人；并非 Leaf 式视觉小说。,https://pcefan.com/pcengine/entry15.html
-g040,g040-v1,Snatcher,スナッチャー,文字冒险,科幻／赛博朋克侦探,吉利安·希德、Metal Gear Mk.II,1988,PC-8801,Konami,首发,无,PC初版以指令调查为核心。,https://www.konami.com/corporate/ja/history/product.html
-g077,g077-v3,沙拉王国的番茄公主,サラダの国のトマト姫,文字冒险,图文指令／童话,黄瓜战士（玩家）、番茄公主、南瓜大王,1988,红白机,ハドソンソフト,主机改编,无,用屏幕命令菜单取代电脑版键盘输入，画面与内容重制。,https://www.nintendo.co.jp/wii/vc/vc_skt/vc_skt_01.html
-g020,g020-v1,眼镜蛇：黑龙王的传说,コブラ 黒竜王の伝説,文字冒险,CD-ROM／科幻冒险,眼镜蛇（コブラ）,1989,PC Engine CD-ROM²,Hudson,首发,有,作品最早确认的版本。,https://pcefan.com/pcengine/entry15.html
-g045,g045-v1,龙穴历险记 II：时间扭曲,Dragon's Lair II: Time Warp,互动动画,激光影碟／动画动作选择,德克（Dirk）、达芙妮（Daphne）,1991,街机,Leland,首发,有,延续手绘动画和即时按键玩法。,https://flyers.arcade-museum.com/videogames/show/314
-g021,g021-v1,弟切草,弟切草,视觉小说,有声小说／恐怖,待核实,1992,超级任天堂,Chunsoft,首发,无,“有声小说”指音乐与音效，不保证角色配音。,https://www.spike-chunsoft.co.jp/company/outline/
-g040,g040-v2,Snatcher,スナッチャー,文字冒险,科幻／赛博朋克侦探,吉利安·希德、Metal Gear Mk.II,1992,PC Engine SUPER CD-ROM²,Konami,有声移植,有,新增角色语音与扩充剧情表现。,https://www.konami.com/games/pcemini/lineup/jp/ja/
-g046,g046-v1,同级生,同級生,Galgame,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,1992,PC-9800,ELF,首发,无,原版以地图、日程和人物事件推进。,https://shiravune.com/archives/2502
-g022,g022-v1,镰鼬之夜,かまいたちの夜,视觉小说,有声小说／推理,透、真理,1994,超级任天堂,Chunsoft,首发,无,作品最早确认的版本。,https://www.spike-chunsoft.co.jp/pages/games/kama/
-g023,g023-v1,心跳回忆,ときめきメモリアル,Galgame,恋爱模拟,藤崎诗织、虹野沙希、馆林见晴,1994,PC Engine SUPER CD-ROM²,Konami,首发,有,恋爱模拟，不属于狭义视觉小说。,https://www.konami.com/games/tokimeki/about/index.html
-g023,g023-v2,心跳回忆,ときめきメモリアル,Galgame,恋爱模拟,藤崎诗织、虹野沙希、馆林见晴,1995,PlayStation,Konami,增强移植,有,《forever with you》改良画面与音效。,https://www.konami.com/games/corporate/ja/news/topics/20250203/
-g024,g024-v1,雫,雫,视觉小说,悬疑／成人向,待核实,1996,Windows,Leaf,首发,无,Leaf Visual Novel Series 第 1 作；兼属广义 Galgame。,https://pc98.info/pc-game-history-05-windows-and-the-end/
-g025,g025-v1,痕,痕,视觉小说,悬疑／成人向,待核实,1996,Windows,Leaf,首发,无,兼属广义 Galgame。,https://pc98.info/pc-game-history-05-windows-and-the-end/
-g038,g038-v1,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,1996,PC-9800,ELF,首发,未核实,原版多线剧情与宝玉系统；当年配音情况需逐版核对。,https://yu-no.jp/spec/ps/
-g026,g026-v1,ToHeart,ToHeart,视觉小说,校园恋爱,藤田浩之、神岸明里、来栖川芹香、玛尔琪（Multi）,1997,Windows,Leaf,首发,无,兼属 Galgame；1999 年 PlayStation 版加入角色配音。,https://aquaplus.jp/toheart/en.html
-g038,g038-v2,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,1997,Sega Saturn,ELF,家用机移植,有,新增角色配音并调整表现与内容。,https://yu-no.jp/spec/ps/
-g027,g027-v1,双重角色,ダブルキャスト,互动动画,全动画／悬疑,美月,1998,PlayStation,Sony Computer Entertainment,首发,有,“やるドラ”系列；由 Production I.G 制作动画。,https://www.productionig.com/contents/works/05_/000169.html
-g047,g047-v1,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,1998,Windows,Tactics（NEXTON）,首发,无,1998 年 PC 原作。,https://nexton-net.jp/nexton30th/nvm001/
-g026,g026-v2,ToHeart,ToHeart,视觉小说,校园恋爱,藤田浩之、神岸明里、来栖川芹香、玛尔琪（Multi）,1999,PlayStation,AQUAPLUS,全年龄移植,有,重写与补充部分内容，并加入角色配音。,https://aquaplus.jp/th/
-g028,g028-v1,Kanon,Kanon,视觉小说,恋爱／奇幻,相泽祐一、月宫亚由、水濑名雪,1999,Windows,VisualArt’s / Key,首发,无,兼属 Galgame；按 Windows 初版。,https://key.visualarts.gr.jp/product/kanon/
-g029,g029-v1,AIR,AIR,视觉小说,恋爱／奇幻,国崎往人、神尾观铃、神尾晴子,2000,Windows,VisualArt’s / Key,首发,无,兼属 Galgame。,https://key.visualarts.gr.jp/key20th/history.html
-g048,g048-v1,Never 7：无限终点,Never 7 - The End of Infinity,视觉小说,恋爱冒险／科幻悬疑,石原诚、川岛优夏、樋口遥,2000,PlayStation,KID,infinity 初版,未核实,此行指早期《infinity》，与后来的 Never 7 版本标题不同。,https://www.famitsu.com/game/title/19078/page/1
-g049,g049-v1,逆转裁判,逆転裁判,文字冒险,调查／法庭推理,成步堂龙一、绫里真宵、御剑怜侍,2001,Game Boy Advance,CAPCOM,首发,无,系列首作。,https://www.nintendo.com/jp/topics/article/f141655c-c8da-11e7-8cda-063b7ac45a6d
-g028,g028-v2,Kanon,Kanon,视觉小说,恋爱／奇幻,相泽祐一、月宫亚由、水濑名雪,2002,PlayStation 2,Interchannel,家用机移植,有,家用机版提供角色配音；主角配音因版本而异。,https://www.prot.co.jp/switch/kanon/introduction.html
-g050,g050-v1,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2002,Dreamcast,KID,同步首发,未核实,2002 年同期发行的主机原版；原版配音范围待核对。,https://dengekionline.com/data/news/2002/7/22/b79e0433ff091f2308a4dc12a1901014.html
-g050,g050-v2,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2002,PlayStation 2,KID,同步首发,未核实,2002 年同期发行的主机原版；原版配音范围待核对。,https://dengekionline.com/data/news/2002/7/22/b79e0433ff091f2308a4dc12a1901014.html
-g051,g051-v1,寒蝉鸣泣之时,ひぐらしのなく頃に,视觉小说,有声小说／乡村悬疑,前原圭一、龙宫礼奈、园崎魅音,2002,Windows,07th Expansion,《鬼隐篇》同人首发,无,原作第一篇于 2002 年夏季同人展发表；音乐音效不算角色配音。,https://07th-expansion.net/Soft/Prolog.htm
-g052,g052-v1,Muv-Luv,マブラヴ,Galgame,校园恋爱／平行世界,白银武、鉴纯夏、御剑冥夜,2003,Windows,âge,首发,未核实,原版含 Extra 和 Unlimited 两部分；原版配音范围待核查。,https://muvluv.com/en/products/
-g030,g030-v1,CLANNAD,CLANNAD,视觉小说,校园／家庭,冈崎朋也、古河渚、坂上智代,2004,Windows,VisualArt’s / Key,首发,无,2004 年 4 月 28 日首发；兼属广义 Galgame。,https://key.visualarts.gr.jp/key20th/history.html
-g031,g031-v1,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2004,Windows,TYPE-MOON,首发,无,官网明确列出初版角色配音“无”；后续版本不同。,https://www.typemoon.com/products/fate/data/index.html
-g032,g032-v1,星之梦,planetarian ～ちいさなほしのゆめ～,视觉小说,单线剧情／科幻,星野梦美、废墟猎人（屑屋）,2004,Windows 在线下载,VisualArt’s / Key,首发,有（部分）,最初的在线版仅有部分语音；2006 年 PS2 版扩充为全配音。,https://www.prot.co.jp/ps2/planetarian/index.html
-g027,g027-v2,双重角色,ダブルキャスト,互动动画,全动画／悬疑,美月,2005,PSP,Sony Computer Entertainment,掌机移植,有,将PlayStation全动画多结局作品移植至PSP。,https://www.productionig.com/contents/works_sp/31_/index.html
-g033,g033-v1,日在校园,School Days,互动动画,全动画／恋爱剧情,伊藤诚、桂言叶、西园寺世界,2005,Windows,Overflow（STACK）,首发,有,兼属视觉小说与 Galgame；首发 2005 年，2025 年为 20 周年。,https://0verflow.com/sdre_live/
-g049,g049-v2,逆转裁判,逆転裁判,文字冒险,调查／法庭推理,成步堂龙一、绫里真宵、御剑怜侍,2005,Nintendo DS,CAPCOM,《复苏的逆转》,有,增收第五话与触屏科学调查；配音为少量法庭语音，非全程对话配音。,https://www.nintendo.com/jp/topics/article/f141655c-c8da-11e7-8cda-063b7ac45a6d
-g030,g030-v2,CLANNAD,CLANNAD,视觉小说,校园／家庭,冈崎朋也、古河渚、坂上智代,2006,PlayStation 2,Interchannel,家用机移植,有,原版内容移植至主机，加入角色配音。,https://key.visualarts.gr.jp/clannad_10th/
-g032,g032-v2,星之梦,planetarian ～ちいさなほしのゆめ～,视觉小说,单线剧情／科幻,星野梦美、废墟猎人（屑屋）,2006,PlayStation 2,PROTOTYPE,全配音移植,有,原2004年Windows版仅部分声音，本版加入包括主角在内的完整配音。,https://www.prot.co.jp/ps2/planetarian/index.html
-g053,g053-v1,Muv-Luv Alternative,マブラヴ オルタネイティヴ,视觉小说,科幻战争／平行世界,白银武、鉴纯夏、御剑冥夜、香月夕呼,2006,Windows,âge,DVD 首发,未核实,2006 年 2 月发行的成人向 PC 初版；配音范围待核实。,https://muvluv.com/alternative/spec.htm
-g031,g031-v2,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2007,PlayStation 2,角川书店,全年龄移植,有,《Realta Nua》加入角色配音与新演出。,https://typemoon.com/contents/9ncnes/fate-stay-night-realta-nua
-g030,g030-v3,CLANNAD,CLANNAD,视觉小说,校园／家庭,冈崎朋也、古河渚、坂上智代,2008,Windows,VisualArt’s / Key,全配音修订版,有,《CLANNAD フルボイス》，与2004年无配音初版区分。,https://key.visualarts.gr.jp/clannad_10th/
-g034,g034-v1,428：被封锁的涩谷,428 ～封鎖された渋谷で～,视觉小说,实拍有声小说／群像悬疑,加纳慎也、远藤亚智、御法川实,2008,Wii,世嘉（开发：Chunsoft）,首发,未核实,“有声小说”不等于对白配音；首发 2008 年。,https://www.nintendo.co.jp/wii/software/rtoj/index.html
-g054,g054-v1,命运石之门,STEINS;GATE,视觉小说,科学幻想／时间旅行,冈部伦太郎、牧濑红莉栖、椎名真由理,2009,Xbox 360,5pb.,首发,有,系列首发；原作以文字和静态立绘推进。,https://steinsgate.jp/15th/
-g055,g055-v1,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,密室逃脱／悬疑,淳平、茜、四叶,2009,Nintendo DS,Spike,首发,无,双屏叙事与逃脱谜题；没有 2017 年合集中新增的对话配音。,https://www.spike-chunsoft.co.jp/pages/zendesu/about/index.html
-g035,g035-v1,弹丸论破：希望的学园与绝望高中生,ダンガンロンパ 希望の学園と絶望の高校生,视觉小说,推理／辩论,苗木诚、雾切响子、黑白熊,2010,PSP,Spike,首发,有,推理冒险含角色配音；不是恋爱游戏。,https://www.spike-chunsoft.co.jp/news/17141/
-g039,g039-v1,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2010,Windows,Leaf / AQUAPLUS,首发／序章,有,仅含《introductory chapter》，完整后续剧情后来发行。,https://blog.aquaplus.jp/archives/2352
-g054,g054-v2,命运石之门,STEINS;GATE,视觉小说,科学幻想／时间旅行,冈部伦太郎、牧濑红莉栖、椎名真由理,2010,Windows,5pb. / Nitroplus,PC 移植,有,PC 平台发行；保留原作分支叙事。,https://blog.mages.co.jp/steinsgate/?p=92
-g039,g039-v2,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2011,Windows,Leaf / AQUAPLUS,续篇及整合版,有,《closing chapter》发行，部分商品附《introductory chapter》内容。,https://blog.aquaplus.jp/archives/2352
-g031,g031-v3,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2012,PlayStation Vita,角川游戏,掌机移植,有,以《Realta Nua》为基础适配Vita。,https://www.typemoon.com/products/fatevita/character/
-g039,g039-v3,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2012,PlayStation 3,AQUAPLUS,合集与全年龄修订,有,《幸せの向こう側》合并章节，新增剧情、CG及动态立绘。,https://aquaplus.jp/wa2/product.html
-g039,g039-v4,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2013,PlayStation Vita,AQUAPLUS,掌机移植,有,增加小说显示模式、画面切换与名场面提示。,https://aquaplus.jp/wa2vita/products/
-g052,g052-v2,Muv-Luv,マブラヴ,Galgame,校园恋爱／平行世界,白银武、鉴纯夏、御剑冥夜,2016,Steam,aNCHOR,数字移植,有,PC 数字版加入本地化并保留角色语音。,https://games.ancr.jp/games/muv-luv/
-g038,g038-v3,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,2017,PlayStation 4,5pb. / MAGES.,完全重制,有,新角色画面、重编音乐、角色配音；预购附原版移植DLC。,https://yu-no.jp/spec/ps/
-g038,g038-v4,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,2017,PlayStation Vita,5pb. / MAGES.,完全重制,有,与PS4版同期发行的掌机版。,https://yu-no.jp/spec/ps/
-g053,g053-v2,Muv-Luv Alternative,マブラヴ オルタネイティヴ,视觉小说,科幻战争／平行世界,白银武、鉴纯夏、御剑冥夜、香月夕呼,2017,Steam,aNCHOR,本地化数字版,有,加入译文、画面调整和额外角色配音。,https://store.steampowered.com/app/802890/MuvLuv_Alternative/
-g055,g055-v2,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,密室逃脱／悬疑,淳平、茜、四叶,2017,Steam,Spike Chunsoft,《The Nonary Games》合集,有,高分辨率画面并为本作新增日语、英语对话配音。,https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/
-g055,g055-v3,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,密室逃脱／悬疑,淳平、茜、四叶,2017,PlayStation 4,Spike Chunsoft,《The Nonary Games》合集,有,高分辨率画面并为本作新增日语、英语对话配音。,https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/
-g055,g055-v4,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,密室逃脱／悬疑,淳平、茜、四叶,2017,PlayStation Vita,Spike Chunsoft,《The Nonary Games》合集,有,高分辨率画面并为本作新增日语、英语对话配音。,https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/
-g056,g056-v1,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2017,Windows / itch.io,Team Salvato,免费首发,无,2017 年 9 月在 itch.io 先行推出；无角色台词配音。,https://teamsalvato.com/news/
-g056,g056-v2,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2017,Windows / Steam,Team Salvato,Steam 发行,无,Steam 于同年稍后发行原版，保留心理恐怖的元叙事结构。,https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/
-g034,g034-v2,428：被封锁的涩谷,428 ～封鎖された渋谷で～,视觉小说,实拍有声小说／群像悬疑,加纳慎也、远藤亚智、御法川实,2018,PlayStation 4,Spike Chunsoft,高清移植,未核实,面向现代主机重新发行。,https://www.spike-chunsoft.co.jp/news/1799/
-g034,g034-v3,428：被封锁的涩谷,428 ～封鎖された渋谷で～,视觉小说,实拍有声小说／群像悬疑,加纳慎也、远藤亚智、御法川实,2018,Windows / Steam,Spike Chunsoft,高清移植,未核实,与PS4版同日发行的PC版。,https://www.spike-chunsoft.co.jp/news/1799/
-g051,g051-v2,寒蝉鸣泣之时,ひぐらしのなく頃に,视觉小说,有声小说／乡村悬疑,前原圭一、龙宫礼奈、园崎魅音,2018,Nintendo Switch,ENTERGRAM,《奉》合集,有,主机合集收录多篇故事并提供角色配音。,https://entergram.co.jp/higurashihou/products.html
-g030,g030-v4,CLANNAD,CLANNAD,视觉小说,校园／家庭,冈崎朋也、古河渚、坂上智代,2019,Nintendo Switch,PROTOTYPE,高清移植,有,携带模式与多语言字幕；按Switch版发行年记录。,https://www.prot.co.jp/switch/clannad/spec.html
-g038,g038-v5,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,2019,Nintendo Switch,5pb. / MAGES.,重制移植,有,2017重制版移植至Switch。,https://yu-no.jp/spec/
-g049,g049-v3,逆转裁判,逆転裁判,文字冒险,调查／法庭推理,成步堂龙一、绫里真宵、御剑怜侍,2019,Nintendo Switch,CAPCOM,初期三部曲合集,有,《逆转裁判123》收录前三作；保留少量法庭语音，并提升显示效果。,https://www.nintendo.com/jp/topics/article/761e2356-2f26-11e9-b104-0a6d14145cb1
-g049,g049-v4,逆转裁判,逆転裁判,文字冒险,调查／法庭推理,成步堂龙一、绫里真宵、御剑怜侍,2019,Steam,CAPCOM,初期三部曲合集,有,三部曲合集中的初代，非单独重制；配音主要为法庭喊话。,https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/
-g051,g051-v3,寒蝉鸣泣之时,ひぐらしのなく頃に,视觉小说,有声小说／乡村悬疑,前原圭一、龙宫礼奈、园崎魅音,2019,PlayStation 4,ENTERGRAM,《奉》移植,有,与 Switch 合集主体内容相同，但不支持触屏操作。,https://entergram.co.jp/higurashihou/products.html
-g054,g054-v3,命运石之门,STEINS;GATE,视觉小说,科学幻想／时间旅行,冈部伦太郎、牧濑红莉栖、椎名真由理,2019,Nintendo Switch,Spike Chunsoft / MAGES.,ELITE 动画版,有,使用动画影像替代大量静态画面；附加内容随平台不同。,https://www.spike-chunsoft.com/games/steinsgate-elite/
-g054,g054-v4,命运石之门,STEINS;GATE,视觉小说,科学幻想／时间旅行,冈部伦太郎、牧濑红莉栖、椎名真由理,2019,PlayStation 4 / Steam,Spike Chunsoft / MAGES.,ELITE 动画版,有,使用动画影像替代大量静态画面；附加内容随平台不同。,https://www.spike-chunsoft.com/games/steinsgate-elite/
-g029,g029-v2,AIR,AIR,视觉小说,恋爱／奇幻,国崎往人、神尾观铃、神尾晴子,2021,Nintendo Switch,PROTOTYPE,高清移植,有,提供日语全配音，之后更新加入英语及简体中文字幕。,https://www.prot.co.jp/switch/air/spec.html
-g035,g035-v2,弹丸论破：希望的学园与绝望高中生,ダンガンロンパ 希望の学園と絶望の高校生,视觉小说,推理／辩论,苗木诚、雾切响子、黑白熊,2021,Nintendo Switch,Spike Chunsoft,纪念版移植,有,收入系列合集，也提供单独下载。,https://www.spike-chunsoft.co.jp/news/13989/
-g036,g036-v1,月姬：月之玻璃片,月姫 -A piece of blue glass moon-,视觉小说,奇幻／悬疑,远野志贵、爱尔奎特、希耶尔、远野秋叶,2021,PlayStation 4,TYPE-MOON,重制首发,有,2021 年重制新作；2000 年同人原作另有年份。,https://typemoon.com/products/tsukihime/
-g036,g036-v2,月姬：月之玻璃片,月姫 -A piece of blue glass moon-,视觉小说,奇幻／悬疑,远野志贵、爱尔奎特、希耶尔、远野秋叶,2021,Nintendo Switch,TYPE-MOON,同步首发,有,与PlayStation 4版同年发行；非2000年PC原版。,https://typemoon.com/products/tsukihime/
-g046,g046-v2,同级生,同級生,Galgame,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,2021,Windows,FANZA GAMES（DG REMAKE）,日版重制,有,更新画面与系统，并为女主角加入配音。,https://dmmgames.co.jp/news/detail/id=1786
-g056,g056-v3,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2021,Nintendo Switch,Serenity Forge,Plus 扩展版,无,增加六段友情支线、高清画面、画廊和音乐播放器。,https://www.serenityforge.com/games/doki-doki-literature-club-plus
-g056,g056-v4,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2021,PlayStation 4 / PlayStation 5,Serenity Forge,Plus 扩展版,无,增加六段友情支线、高清画面、画廊和音乐播放器。,https://www.serenityforge.com/games/doki-doki-literature-club-plus
-g056,g056-v5,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2021,Windows / Steam,Serenity Forge,Plus 扩展版,无,增加六段友情支线、高清画面、画廊和音乐播放器。,https://www.serenityforge.com/games/doki-doki-literature-club-plus
-g046,g046-v3,同级生,同級生,Galgame,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,2022,Windows / Steam,Shiravune,国际版重制,有,基于 2021 年重制，加入中英文文本；与 1992 年原版分开。,https://shiravune.com/archives/2502
-g055,g055-v5,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,密室逃脱／悬疑,淳平、茜、四叶,2022,Xbox One / Windows 10,Spike Chunsoft,合集新平台,有,2017 年配音合集移植到 Xbox 与 Microsoft Store PC。,https://www.spike-chunsoft.co.jp/news/14736/
-g014,g014-v2,时间少女,タイムギャル,互动动画,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,2023,Nintendo Switch,太东,高清复刻,有,收录于太东LD游戏合集，升级画面并保留互动动画。,https://www.taito.co.jp/taitoldgamecollection
-g028,g028-v3,Kanon,Kanon,视觉小说,恋爱／奇幻,相泽祐一、月宫亚由、水濑名雪,2023,Nintendo Switch,PROTOTYPE,高清移植,有（主角部分）,高清画面与日语角色配音；主角仅部分场景有声。,https://www.prot.co.jp/switch/kanon/spec.html
-g047,g047-v2,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,2023,Nintendo Switch,novamicus（NEXTON）,ONE. 重制,有,重绘立绘并加入角色配音；主人公仍不配音。,https://nexton-net.jp/nexton30th/nvm001/
-g047,g047-v3,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,2023,Windows,novamicus（NEXTON）,ONE. 重制,有,重绘立绘并加入角色配音；主人公仍不配音。,https://nexton-net.jp/nexton30th/nvm001/
-g047,g047-v4,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,2023,Steam,novamicus（NEXTON）,ONE. 数字版,有,重绘画面与角色配音；商店显示的跨区日期可能早于日版一天。,https://store.steampowered.com/app/2432100/ONE/
-g084,g084-v2,忍者疾风,忍者ハヤテ,互动动画,激光影碟／动画动作选择,疾风（ハヤテ）、被掳走的公主,2023,Nintendo Switch,TAITO,HD 复刻,未核实,《TAITO LD Game Collection》收录，以高清影像呈现。,https://www.taito.co.jp/mob/topics/26135
-g012,g012-v3,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,2024,Nintendo Switch,G-MODE,重制,有,依据红白机版重制，新增后续故事与人物配音。,https://info.gmodecorp.com/cs/okhotsk/
-g012,g012-v4,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,2024,Windows / Steam,G-MODE,重制,有,与Switch同款重制版；按平台单独登记。,https://info.gmodecorp.com/cs/okhotsk/products/
-g031,g031-v4,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2024,Nintendo Switch,TYPE-MOON,高清复刻,有,基于Vita版，画面高清化并增加多语言文本。,https://typemoon.com/products/f-sn/
-g031,g031-v5,Fate/stay night,Fate/stay night,视觉小说,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2024,Windows / Steam,TYPE-MOON,高清复刻,有,与Switch版同期发布的《REMASTERED》。,https://typemoon.com/products/f-sn/
-g046,g046-v4,同级生,同級生,Galgame,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,2024,Nintendo Switch,EXNOA（DG REMAKE）,主机重制版,有,CSver 调整内容，保留重制的配音与画面，增加新场景。,https://dmmgames.co.jp/news/detail/id=1786
-g046,g046-v5,同级生,同級生,Galgame,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,2024,PlayStation 4,EXNOA（DG REMAKE）,主机重制版,有,CSver 调整内容，保留重制的配音与画面，增加新场景。,https://dmmgames.co.jp/news/detail/id=1786
-g052,g052-v3,Muv-Luv,マブラヴ,Galgame,校园恋爱／平行世界,白银武、鉴纯夏、御剑冥夜,2024,Nintendo Switch,aNCHOR,主机复刻,有,面向主机的调整版本，与 2003 年 PC 原版区分。,https://games.ancr.jp/games/muv-luv/
-g053,g053-v3,Muv-Luv Alternative,マブラヴ オルタネイティヴ,视觉小说,科幻战争／平行世界,白银武、鉴纯夏、御剑冥夜、香月夕呼,2024,Nintendo Switch,aNCHOR,主机复刻,有,主机版以全年龄内容和重新调整的显示呈现。,https://games.ancr.jp/games/muv-luv-alternative/
-g014,g014-v3,时间少女,タイムギャル,互动动画,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,2025,Windows / Steam,太东,高清复刻移植,有,高清复刻版在Steam发行。,https://www.taito.co.jp/mob/topics/36776
-g023,g023-v3,心跳回忆,ときめきメモリアル,Galgame,恋爱模拟,藤崎诗织、虹野沙希、馆林见晴,2025,Nintendo Switch,Konami,复刻,有,《forever with you エモーショナル》加入EVS呼名功能与图像切换。,https://www.konami.com/games/corporate/ja/news/topics/20250508/
-g033,g033-v2,日在校园,School Days,互动动画,全动画／恋爱剧情,伊藤诚、桂言叶、西园寺世界,2025,Windows,Overflow（STACK）,高清复刻,有,《School Days REMASTERED》重做现代系统兼容性，保留动画式叙事。,https://0verflow.com/sdrm/
-g037,g037-v1,ToHeart（重制版）,ToHeart,视觉小说,校园恋爱／重制,藤田浩之、神岸明里、玛尔琪（Multi）,2025,Nintendo Switch,AQUAPLUS,重制首发,有,1997 年原作的 2025 年重制版，单独列示；平台发行方有别。,https://aquaplus.jp/toheart/en.html
-g037,g037-v2,ToHeart（重制版）,ToHeart,视觉小说,校园恋爱／重制,藤田浩之、神岸明里、玛尔琪（Multi）,2025,Windows / Steam,DMM GAMES、Shiravune,同步首发,有,3D重制；可切换新旧配音，Steam平台发行方与日版不同。,https://aquaplus.jp/toheart/en.html
-g048,g048-v2,Never 7：无限终点,Never 7 - The End of Infinity,视觉小说,恋爱冒险／科幻悬疑,石原诚、川岛优夏、樋口遥,2025,Nintendo Switch,MAGES.,高清复刻,有,2025 年复刻版，保留恋爱冒险主线并更新显示。,https://game.mages.co.jp/infinity/never7/
-g048,g048-v3,Never 7：无限终点,Never 7 - The End of Infinity,视觉小说,恋爱冒险／科幻悬疑,石原诚、川岛优夏、樋口遥,2025,PlayStation 4,MAGES.,高清复刻,有,2025 年复刻版，保留恋爱冒险主线并更新显示。,https://game.mages.co.jp/infinity/never7/
-g048,g048-v4,Never 7：无限终点,Never 7 - The End of Infinity,视觉小说,恋爱冒险／科幻悬疑,石原诚、川岛优夏、樋口遥,2025,Steam,MAGES.,高清复刻,有,2025 年复刻版，保留恋爱冒险主线并更新显示。,https://game.mages.co.jp/infinity/never7/
-g050,g050-v3,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2025,Nintendo Switch,MAGES.,高清复刻,有,使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。,https://game.mages.co.jp/infinity/ever17/
-g050,g050-v4,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2025,PlayStation 4,MAGES.,高清复刻,有,使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。,https://game.mages.co.jp/infinity/ever17/
-g050,g050-v5,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2025,Steam,MAGES.,高清复刻,有,使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。,https://game.mages.co.jp/infinity/ever17/
-g056,g056-v6,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2025,Android,Team Salvato / Serenity Forge,移动版,无,免费本篇升级高清；Plus 的支线和画廊作为付费扩展。,https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/
-g056,g056-v7,心跳文学部！,Doki Doki Literature Club!,视觉小说,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2025,iOS,Team Salvato / Serenity Forge,移动版,无,免费本篇升级高清；Plus 的支线和画廊作为付费扩展。,https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/
-g084,g084-v3,忍者疾风,忍者ハヤテ,互动动画,激光影碟／动画动作选择,疾风（ハヤテ）、被掳走的公主,2025,Steam,TAITO,HD 复刻数字版,未核实,单独发行的 HD 移植；商店与日本公告跨时区日期有一天差异。,https://www.taito.co.jp/mob/topics/36776
+﻿作品ID,版本ID,作品名称,原文名称,主分类,细分类,游戏类型,主要角色,发行年份,平台,发行公司,发行厂商归档,版本类型,配音,版本差异,来源
+g089,g089-v1,巨洞冒险,Colossal Cave Adventure,文字冒险,纯文本指令,纯文本／洞穴探索,探险者（玩家）,1976,PDP-10,Will Crowther（作者传播）,非商业／未署商业厂商,原始大型机版,无,原作以洞穴路线和少量宝物为核心；非商业发行。,https://www.catb.org/~esr/open-adventure/history.html
+g089,g089-v2,巨洞冒险,Colossal Cave Adventure,文字冒险,纯文本指令,纯文本／洞穴探索,探险者（玩家）,1977,PDP-10,Don Woods（作者传播）,非商业／未署商业厂商,扩充版,无,Don Woods 在原作上增加谜题、宝藏和奇幻内容；同机种的不同内容版本。,https://rickadams.org/adventure/a_history.html
+g090,g090-v1,佐克（大型机原作）,Zork (MIT PDP-10 original),文字冒险,纯文本指令,纯文本／奇幻解谜,冒险者（玩家）,1977,PDP-10,MIT 创作者团队（非商业传播）,非商业／未署商业厂商,大型机原作,无,MIT 收藏的 1977 年 MDL 源码；随后商业版拆分为《Zork I》等独立作品。,https://github.com/MITDDC/zork
+g091,g091-v1,冒险乐园,Adventureland,文字冒险,纯文本指令,纯文本／寻宝解谜,冒险者（玩家）,1978,TRS-80,Scott Adams（初期自行销售）,非商业／未署商业厂商,首发录音带,无,最初的商业家用机文字冒险之一；后续 Adventure International 包装版时间另待核。,https://www.msadams.com/adventures.htm
+g092,g092-v1,海盗冒险,Pirate Adventure,文字冒险,纯文本指令,纯文本／海盗寻宝,冒险者（玩家）、海盗,1978,TRS-80,Scott Adams／Adventure International,Adventure International,早期家用机版,无,作者 Scott 与 Alexis Adams；具体早期商业包装和出版名称仍待逐批核对。,https://ifdb.org/viewgame?id=zya3mo3njj58hewi
+g089,g089-v3,巨洞冒险,Colossal Cave Adventure,文字冒险,纯文本指令,纯文本／洞穴探索,探险者（玩家）,1979,TRS-80,Microsoft,Microsoft,Microsoft Adventure 商业改编,无,家用电脑版本，属于《Adventure》的商业改编；不等同于 1976 年源代码。,https://www.trs-80.org/microsoft-adventure.html
+g089,g089-v4,巨洞冒险,Colossal Cave Adventure,文字冒险,纯文本指令,纯文本／洞穴探索,探险者（玩家）,1979,Apple II,Microsoft,Microsoft,Microsoft Adventure 商业改编,无,同年销售的 Apple II 版，发行时间据电脑史馆藏。,https://www.trs-80.org/microsoft-adventure.html
+g093,g093-v1,伯爵,The Count,文字冒险,纯文本指令,纯文本／吸血鬼恐怖,冒险者（玩家）、吸血鬼伯爵,1979,家用计算机,Adventure International,Adventure International,早期家用机版,无,1979 年发行，但最早的具体机种及包装待核；不推定为 TRS-80 首发。,https://ifdb.org/viewgame?id=89qmjvv4cb0z93t5
+g001,g001-v1,神秘屋,Mystery House,文字冒险,图文指令,图文指令／悬疑,待核实,1980,Apple II,On-Line Systems,On-Line Systems,首发,无,最早商业发行版。,https://www.sierragamers.com/ken-williams/
+g002,g002-v1,佐克 I,Zork I: The Great Underground Empire,文字冒险,纯文本指令,纯文本／奇幻解谜,待核实,1980,家用计算机,Infocom,Infocom,首发,无,按 Infocom 商业版；早期大型机 Zork 不并入。,https://infocom-if.org/company/company.html
+g057,g057-v1,巫师与公主,The Wizard and the Princess,文字冒险,图文指令,彩色图文指令／奇幻,冒险者（玩家）、普莉西拉公主、巫师 Harlin,1980,Apple II,On-Line Systems,On-Line Systems,首发,无,彩色静态插图与文字指令。,https://www.sierragamers.com/roberta-williams/
+g058,g058-v1,克兰斯顿庄园,Cranston Manor,文字冒险,图文指令,彩色图文指令／寻宝,寻宝者（玩家）、克兰斯顿,1981,Apple II,On-Line Systems,On-Line Systems,首发,无,英文指令与彩色场景。,https://www.sierragamers.com/wp-content/uploads/2019/12/001_On_Line_Letter_Volume_1_Number_1_June_1981.pdf
+g062,g062-v1,佐克 II,Zork II: The Wizard of Frobozz,文字冒险,纯文本指令,纯文本／奇幻解谜,冒险者（玩家）、Frobozz 巫师,1981,家用计算机,Infocom,Infocom,首发／早期多机种,无,此处合并同年早期计算机平台；具体机种日期待核实。,https://www.infocom-if.org/games/zork2/zork2.html
+g094,g094-v1,软色情冒险,Softporn Adventure,文字冒险,纯文本指令,纯文本／成人喜剧冒险,男性主人公（玩家）,1981,Apple II,On-Line Systems,On-Line Systems,首发商业版,无,文本指令；归入成人喜剧文字冒险，不等同于后来的恋爱视觉小说。,https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf
+g003,g003-v1,Deadline,Deadline,文字冒险,纯文本指令,纯文本／推理,待核实,1982,家用计算机,Infocom,Infocom,首发,无,作品最早确认的版本。,https://infocom-if.org/games/games.html
+g004,g004-v1,夜生活,ナイトライフ,Galgame,早期成人向互动,成人向／生活工具,待核实,1982,日本个人计算机,光荣,光荣,首发,无,历史作品；严格说并非典型恋爱叙事游戏。,https://www.famitsu.com/news/202312/10327281.html
+g005,g005-v1,Lolita：野球拳,ロリータ～野球拳,Galgame,早期成人向互动,成人向／猜拳,待核实,1982,FM-7 等,PSK,PSK,首发,无,按广义早期美少女游戏收录；不是视觉小说。,https://fm-7.com/museum/products/7bj82lkr/
+g057,g057-v2,巫师与公主,The Wizard and the Princess,文字冒险,图文指令,彩色图文指令／奇幻,冒险者（玩家）、普莉西拉公主、巫师 Harlin,1982,IBM PC,IBM,IBM,Adventure in Serenia 版本,无,以不同标题发行的 IBM 移植版。,https://www.sierragamers.com/hi-res/
+g059,g059-v1,时区,Time Zone,文字冒险,图文指令,彩色图文指令／时间旅行,旅行者（玩家）,1982,Apple II,On-Line Systems,On-Line Systems,首发,无,多张磁盘的跨时代图文冒险。,https://www.sierragamers.com/hi-res/
+g063,g063-v1,佐克 III,Zork III: The Dungeon Master,文字冒险,纯文本指令,纯文本／奇幻解谜,冒险者（玩家）、地下城主,1982,家用计算机,Infocom,Infocom,首发／早期多机种,无,同年发行机种与先后顺序仍待逐台核实。,https://www.infocom-if.org/games/zork3/zork3.html
+g064,g064-v1,星际交汇,Starcross,文字冒险,纯文本指令,纯文本／科幻探索,黑洞矿工（玩家）,1982,家用计算机,Infocom,Infocom,首发／早期多机种,无,以文字命令探索外星飞船；机种明细待核实。,https://www.infocom-if.org/games/starcross/starcross.html
+g095,g095-v1,尤利西斯与金羊毛,Ulysses and the Golden Fleece,文字冒险,图文指令,彩色图文指令／希腊神话,尤利西斯、独眼巨人、海妖,1982,Apple II,On-Line Systems／Sierra On-Line,On-Line Systems、Sierra On-Line,Hi-Res Adventure #4,无,上方场景插图、下方两词指令；系列页和设计师年表列 1982 年。,https://www.sierragamers.com/hi-res/
+g096,g096-v1,表参道冒险,表参道アドベンチャー,文字冒险,纯文本指令,纯文本／杂志刊载解谜,潜入者（玩家）,1982,PC-8001,ASCII（杂志刊载）,ASCII,1982 年 4 月杂志版,无,随《月刊 ASCII》附刊 Ah!SKI 发表的文本指令游戏。,https://ifdb.org/viewgame?id=l0ovglum7br9nztc
+g096,g096-v2,表参道冒险,表参道アドベンチャー,文字冒险,纯文本指令,纯文本／杂志刊载解谜,潜入者（玩家）,1982,MZ-80K/C,ASCII（杂志刊载）,ASCII,同刊载机种适配,无,利用杂志所列机种接口执行相同程序；不是另一次商业发行。,https://electrelic.com/electrelic/node/1072?language=en
+g096,g096-v3,表参道冒险,表参道アドベンチャー,文字冒险,纯文本指令,纯文本／杂志刊载解谜,潜入者（玩家）,1982,MZ-80B,ASCII（杂志刊载）,ASCII,同刊载机种适配,无,共用游戏主体，机种依赖部分不同；不是 PC-9801 首发。,https://electrelic.com/electrelic/node/1072?language=en
+g097,g097-v1,谜之屋（日本版原创）,ミステリーハウスⅠ,文字冒险,图文指令,图文指令／寻宝,寻宝者（玩家）,1982,MZ-80B,マイクロキャビン,マイクロキャビン,日本原始版,无,1982 年夏 MZ 系列黑白图像作品，与 Sierra 同名游戏故事不同。,https://www.gamepres.org/pc88/library/adv.htm
+g098,g098-v1,谜之屋 II,ミステリーハウスⅡ,文字冒险,图文指令,图文指令／寻宝,寻宝者（玩家）,1982,FM-8,マイクロキャビン,マイクロキャビン,早期 FM 版,无,馆藏列 1982 年；早期 FM-8 盘与 FM-7 不兼容。,https://fm-7.com/museum/products/jna9lxqz/
+g113,g113-v1,霍比特人,The Hobbit,文字冒险,图文指令,图文文字冒险／奇幻,比尔博·巴金斯、甘道夫、索林,1982,ZX Spectrum,Melbourne House,Melbourne House,原版,未核实,1982 年 ZX Spectrum 录音带原版；同年 Sinclair Research 曾发行同平台再版。,https://worldofspectrum.org/software?id=0006440
+g113,g113-v2,霍比特人,The Hobbit,文字冒险,图文指令,图文文字冒险／奇幻,比尔博·巴金斯、甘道夫、索林,1982,ZX Spectrum,Sinclair Research Ltd,Sinclair Research,同平台再版,未核实,馆藏另列 1982 年 Sinclair Research 的 ZX Spectrum 再版，平台和游戏本体相同。,https://worldofspectrum.org/software?id=0006440
+g001,g001-v2,神秘屋,Mystery House,文字冒险,图文指令,图文指令／悬疑,待核实,1983,PC-8801,スタークラフト,スタークラフト,日本移植,无,1983 年 4 月 PC-8801 移植 Sierra 原作；与同名 MicroCabin 原创作品不同。,https://www.gamepres.org/pc88/library/1983/1983_4.htm
+g006,g006-v1,Planetfall,Planetfall,文字冒险,纯文本指令,纯文本／科幻,待核实,1983,家用计算机,Infocom,Infocom,首发,无,作品最早确认的版本。,https://www.infocom-if.org/authors/meretzky.html
+g007,g007-v1,波多比亚连续杀人事件,ポートピア連続殺人事件,文字冒险,图文指令,图文指令／推理,刑警（玩家）、ヤス,1983,日本个人计算机,艾尼克斯,Enix（艾尼克斯）,首发,无,此处文字冒险包括图文指令游戏。,https://fm-7.com/museum/products/k6sufaqm/
+g008,g008-v1,玛丽酱危机一发,マリちゃん危機一髪,Galgame,美少女探索冒险,美少女／解救冒险,玛丽,1983,PC-8801 等,艾尼克斯,Enix（艾尼克斯）,首发,无,部分版本附有磁带人声；不等同游戏内角色配音。,https://fm-7.com/museum/products/1paitdl4/
+g009,g009-v1,团地妻的诱惑,団地妻の誘惑,Galgame,成人向冒险,成人向／冒险,待核实,1983,日本个人计算机,光荣,光荣,首发,无,作品最早确认的版本。,https://www.famitsu.com/news/202312/10327281.html
+g010,g010-v1,龙穴历险记,Dragon’s Lair,互动动画,激光影碟·动作选择,激光影碟／动作选择,德克（Dirk）、达芙妮（Daphne）,1983,街机,Cinematronics,Cinematronics,首发,有,美国街机原版。,https://www.arcade-history.com/game/702/
+g041,g041-v1,悬置,Suspended,文字冒险,纯文本指令,纯文本／科幻解谜,IRIS、WALDO、AUDA、POET,1983,家用计算机,Infocom,Infocom,首发,无,文字指令控制不同机器人完成修复。,https://www.infocom-if.org/games/games.html
+g042,g042-v1,魔法师,Enchanter,文字冒险,纯文本指令,纯文本／奇幻解谜,见习魔法师（玩家）、Krill,1983,家用计算机,Infocom,Infocom,首发,无,咒语收集与解析器指令是主要玩法。,https://www.infocom-if.org/games/games.html
+g057,g057-v3,巫师与公主,The Wizard and the Princess,文字冒险,图文指令,彩色图文指令／奇幻,冒险者（玩家）、普莉西拉公主、巫师 Harlin,1983,FM-7,スタークラフト,スタークラフト,日本移植,无,由 Starcraft 移植，画面与平台适配有别于 Apple II。,https://fm-7.com/museum/products/gcdtmjc7/
+g058,g058-v2,克兰斯顿庄园,Cranston Manor,文字冒险,图文指令,彩色图文指令／寻宝,寻宝者（玩家）、克兰斯顿,1983,FM-7,スタークラフト,スタークラフト,日本移植,无,日本 FM-7 平台移植；追寻宅邸中的宝藏。,https://fm-7.com/museum/products/0mvxzwag/
+g065,g065-v1,目击者,The Witness,文字冒险,纯文本指令,纯文本／侦探推理,警探（玩家）、Duffy 警佐,1983,家用计算机,Infocom,Infocom,首发／早期多机种,无,依据 Infocom 年表与作者资料记为 1983 年；各机种另待核实。,https://www.infocom-if.org/authors/galley.html
+g066,g066-v1,异教徒,Infidel,文字冒险,纯文本指令,纯文本／考古冒险,探险者（玩家）,1983,家用计算机,Infocom,Infocom,首发／早期多机种,无,沙漠求生与古迹探索；机种明细待核实。,https://www.infocom-if.org/games/infidel/infidel.html
+g073,g073-v1,惑星梅菲乌斯,惑星メフィウス,文字冒险,图文指令,图文指令／科幻,星亚瑟（玩家）,1983,FM-7,T&E SOFT,T&E SOFT,首发,无,档案列 FM-7 为原始机种，采用指令与画面目标选择。,https://fm-7.com/museum/products/tocvx2b8/
+g074,g074-v1,德泽尼乐园,デゼニランド,文字冒险,图文指令,图文指令／游乐园解谜,寻宝者（玩家）,1983,X1D,ハドソンソフト,Hudson Soft（哈德森）,首发机种,无,档案将 X1D 列为原始机种；准确先后月份待核实。,https://fm-7.com/museum/products/zd9clwc4/
+g074,g074-v2,德泽尼乐园,デゼニランド,文字冒险,图文指令,图文指令／游乐园解谜,寻宝者（玩家）,1983,FM-7,ハドソンソフト,Hudson Soft（哈德森）,移植,无,FM-7 图文指令版；与 X1D 同年，月份待核实。,https://fm-7.com/museum/products/zd9clwc4/
+g075,g075-v1,四次元少女莉迪亚,四次元少女リディア,文字冒险,图文指令,图文指令／科幻故事,调查员（玩家）、Trigger 博士,1983,FM-7,チャンピオンソフト,チャンピオンソフト,首发,无,附立体眼镜的图文冒险；有音乐但角色人声未见证据。,https://fm-7.com/museum/products/91e3ra67/
+g082,g082-v1,贝加之战,Bega's Battle,互动动画,激光影碟·射击／驾驶,激光影碟／动画射击,Bega、Luna、Jobe、Sony、Varge,1983,街机,Data East,Data East,首发,未核实,动画影碟穿插射击环节；非文字分支视觉小说。,https://www.arcade-museum.com/Videogame/begas-battle
+g087,g087-v1,暗黑星云,暗黒星雲,文字冒险,图文指令,图文指令／科幻,星亚瑟（玩家）,1983,FM-7,T&E SOFT,T&E SOFT,首发,无,前作续篇，另有几段 3D 射击；角色人声未见证据。,https://fm-7.com/museum/products/gttnk7za/
+g097,g097-v2,谜之屋（日本版原创）,ミステリーハウスⅠ,文字冒险,图文指令,图文指令／寻宝,寻宝者（玩家）,1983,FM-7,マイクロキャビン,マイクロキャビン,彩色移植,无,馆藏标为 1983 年 11 月；改为 FM-7 彩色画面，且此版晚于《谜之屋 II》的 FM 版。,https://fm-7.com/museum/products/az1oan43/
+g098,g098-v2,谜之屋 II,ミステリーハウスⅡ,文字冒险,图文指令,图文指令／寻宝,寻宝者（玩家）,1983,FM-7,マイクロキャビン,マイクロキャビン,FM-7 专用版,无,馆藏发行明细记为 1983 年 FM-7 专用版；早期 FM-8 盘在 FM-7 不能正常运行。,https://fm-7.com/museum/products/jna9lxqz/releases
+g099,g099-v1,黑水晶,The Dark Crystal,文字冒险,图文指令,彩色图文指令／电影改编,Jen、Kira,1983,Apple II,Sierra On-Line,Sierra On-Line,Hi-Res Adventure #6,无,依电影改编的图文冒险，输入文字命令进行探索。,https://www.sierragamers.com/the-dark-crystal/
+g100,g100-v1,南青山冒险,南青山アドベンチャー,文字冒险,纯文本指令,纯文本／科幻讽刺,投稿者（玩家）,1983,PC-8001,ASCII,ASCII,1983 年 4 月发表,无,《表参道冒险》后续作品，英文命令文本游戏；首发机种记为 PC-8001 及以后兼容系列。,https://www.gamepres.org/pc88/library/1983/1983_4.htm
+g101,g101-v1,帕姆斯,ザ・パームス,文字冒险,图文指令,图文指令／海底探险,冒险者（玩家）、被掳走的恋人,1983,FM-8,ハミングバードソフト,ハミングバードソフト,系列第 1 作,无,馆藏记 1983 年 1 月，原始机种标 FM-8；图文指令冒险。,https://fm-7.com/museum/products/aibua2n8/
+g101,g101-v2,帕姆斯,ザ・パームス,文字冒险,图文指令,图文指令／海底探险,冒险者（玩家）、被掳走的恋人,1983,FM-7,ハミングバードソフト,ハミングバードソフト,FM-7 适配,无,FM-7 兼容版本；与 FM-8 的具体发行先后待核。,https://fm-7.com/museum/products/aibua2n8/
+g102,g102-v1,仙境骑士,ザ・ナイト・オブ・ワンダーランド,文字冒险,图文指令,图文指令／童话,冒险者（玩家）、罗姆公主,1983,FM-7/8,ハミングバードソフト,ハミングバードソフト,系列第 2 作,无,馆藏原始机种为 FM-7/8；与《帕姆斯》相比更多中间色画面。,https://fm-7.com/museum/products/vitpdgtz/
+g103,g103-v1,星光冒险 PART 1,スターライト・アドベンチャー PART 1,文字冒险,纯文本指令,文本指令／科幻童话,旅行者（玩家）、被营救的公主,1983,FM-7,キャリーラボ,キャリーラボ,早期 FM 版,无,馆藏明确 FM-7 机种；以文字指令推进，含日文平假名显示。,https://fm-7.com/museum/products/vjg12a36/
+g104,g104-v1,寻找广子,アタックひろ子ちゃん,Galgame,成人向冒险,成人向／图文指令,玩家、ひろ子,1983,FM-7,チャンピオンソフト,チャンピオンソフト,早期成人冒险,无,馆藏将其列为冒险与成人向，首发机种未核实。,https://fm-7.com/museum/products/7kjmjxi8/
+g113,g113-v3,霍比特人,The Hobbit,文字冒险,图文指令,图文文字冒险／奇幻,比尔博·巴金斯、甘道夫、索林,1983,Commodore 64,Melbourne House,Melbourne House,录音带移植,未核实,档案页将 C64 录音带版列为 1983；页面另列 1985 年该版装载器，年份有异文，待查当年包装。,https://www.lemon64.com/game/hobbit-tape-version
+g114,g114-v1,英灵殿,Valhalla,文字冒险,图文指令,图文文字冒险／北欧神话,冒险者（玩家）,1983,ZX Spectrum,Legend,Legend,原版,未核实,ZX Spectrum 初版；1984 年 C64 版单列。,https://worldofspectrum.org/archive/software/games/valhalla-legend-1
+g115,g115-v1,占星大冒险,アストロロジー・スクランブル,文字冒险,图文指令,图文冒险／奇幻恋爱,杰米尼、阿夸丽亚斯、撒旦、墨丘利,1983,FM-7,リバーヒルソフト,リバーヒルソフト,原版,未核实,馆藏将 FM-7 列为原始机种。,https://fm-7.com/museum/products/mrq0utaa/
+g116,g116-v1,寻找线索！,手掛りを探せ！,文字冒险,图文指令,图文冒险／推理,旅馆管理员（玩家）,1983,FM-8／FM-7,リバーヒルソフト,リバーヒルソフト,原版,未核实,馆藏列 FM 系兼容机种，原始机种不明，合并记为一个兼容版本。,https://fm-7.com/museum/products/kgzrbt1p/
+g117,g117-v1,流浪小鼠,ザ・ストレイストーリー,文字冒险,图文指令,图文冒险／童话,小鼠,1983,FM-8／FM-7,リバーヒルソフト,リバーヒルソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/db6qluaw/
+g118,g118-v1,女子宿舍危机,女子寮パニック,Galgame,成人向冒险,成人向／图文冒险,罗姆（ロムちゃん）,1983,FM-8／FM-7,エニックス,Enix（艾尼克斯）,原版,未核实,1983 年 6 月共用磁带；馆藏将 FM-8 列为原始机种。,https://fm-7.com/museum/products/vj1bitct/releases
+g119,g119-v1,飞鸟之恋,Lovely飛鳥,Galgame,恋爱剧情冒险,恋爱／图文冒险,飞鸟,1983,FM-7,エニックス,Enix（艾尼克斯）,原版,未核实,1983 年 10 月 FM-7 版；馆藏列其为原始机种。,https://fm-7.com/museum/products/l2zkgfa5/
+g120,g120-v1,不可思议之旅,不思議な旅,文字冒险,图文指令,图文冒险／异世界,异世界漂流者（玩家）,1983,FM-7,エニックス,Enix（艾尼克斯）,原版,未核实,原名「ファンタジーアイランド」；1983 年 10 月 FM-7 版。,https://fm-7.com/museum/products/qto4u7tq/
+g121,g121-v1,间谍 0011,SPY-0011,文字冒险,图文指令,图文冒险／间谍,间谍 0011（玩家）,1983,FM-8／FM-7,チャンピオンソフト,チャンピオンソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/0refcz7z/
+g122,g122-v1,太空奇遇,スペーシーワンダー,文字冒险,图文指令,图文冒险／科幻,飞船船长（玩家）,1983,FM-8／FM-7,チャンピオンソフト,チャンピオンソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/a1b1vc7z/
+g123,g123-v1,奥利机场杀人事件,オルリー空港殺人事件,文字冒险,图文指令,图文冒险／推理,佳苗、明菜,1983,FM-8／FM-7,チャンピオンソフト,チャンピオンソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/lrdwgvuy/
+g011,g011-v1,银河系漫游指南,The Hitchhiker’s Guide to the Galaxy,文字冒险,纯文本指令,纯文本／科幻喜剧,亚瑟·登特、福特·普里费克特,1984,家用计算机,Infocom,Infocom,首发,无,作品最早确认的版本。,https://infocom-if.org/games/games.html
+g012,g012-v1,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／调查,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,1984,PC-8801 等,ASCII（LOGIN SOFT）,ASCII,首发,无,1984 年 PC 原版；FM-7 移植在 1985 年。,https://www.gamepres.org/pc88/library/1984/ohotsuku.htm
+g013,g013-v1,荷兰妻会梦见电鳗吗？,オランダ妻は電気ウナギの夢を見るか？,Galgame,成人向冒险,成人向／冒险,待核实,1984,日本个人计算机,光荣,光荣,首发,无,首发 1984；FM-7 版登记为 1985 年。,https://www.famitsu.com/news/202312/10327281.html
+g044,g044-v1,太空王牌,Space Ace,互动动画,激光影碟·动作选择,激光影碟／动画动作选择,Ace / Dexter、Kimberly、Borf,1984,街机,Cinematronics,Cinematronics,首发,有,激光影碟播放手绘动画；按时操作决定分支。,https://www.arcade-museum.com/Videogame/space-ace--cinematronics
+g060,g060-v1,国王密使：王冠之旅,King’s Quest: Quest for the Crown,文字冒险,图文指令,动画图文指令／奇幻,格雷厄姆（Graham）、爱德华国王,1984,IBM PCjr,IBM,IBM,首发,无,移动角色与输入指令相结合的早期动画冒险。,https://www.sierragamers.com/wp-content/uploads/2019/12/Kings_Quest_1_Manual_1_IBM_Version.pdf
+g060,g060-v2,国王密使：王冠之旅,King’s Quest: Quest for the Crown,文字冒险,图文指令,动画图文指令／奇幻,格雷厄姆（Graham）、爱德华国王,1984,IBM PC / DOS,Sierra On-Line,Sierra On-Line,PC 移植,无,一般 PC 发行版与原 PCjr 版的硬件适配不同。,https://www.sierragamers.com/kq1-grey-box/
+g067,g067-v1,巫术师,Sorcerer,文字冒险,纯文本指令,纯文本／奇幻解谜,魔法师（玩家）、Belboz,1984,家用计算机,Infocom,Infocom,首发／早期多机种,无,《Enchanter》的系列后续，需收集和运用咒语。,https://www.infocom-if.org/games/sorcerer/sorcerer.html
+g068,g068-v1,深海追踪,Seastalker,文字冒险,纯文本指令,纯文本／海底科幻,青年发明家（玩家）、Tip,1984,家用计算机,Infocom,Infocom,首发／早期多机种,无,面向较年轻读者的文字冒险。,https://www.infocom-if.org/games/seastalker/seastalker.html
+g069,g069-v1,海底宝藏,Cutthroats,文字冒险,纯文本指令,纯文本／沉船寻宝,潜水员（玩家）,1984,家用计算机,Infocom,Infocom,首发／早期多机种,无,不同开局可能指向不同沉船。,https://www.infocom-if.org/games/cutthroats/cutthroats.html
+g070,g070-v1,嫌疑人,Suspect,文字冒险,纯文本指令,纯文本／推理,记者（玩家）,1984,家用计算机,Infocom,Infocom,首发／早期多机种,无,从被怀疑者的视角搜集线索。,https://www.infocom-if.org/games/suspect/suspect.html
+g076,g076-v1,死亡陷阱,ザ・デストラップ,文字冒险,图文指令,图文指令／谍报冒险,情报员 Benson、Dr. Gitan,1984,PC-8801,スクウェア,スクウェア,原始机种,无,档案认定 PC-8801 为原始平台；以指令和静态图像推进。,https://fm-7.com/museum/products/1xukf90e/
+g076,g076-v2,死亡陷阱,ザ・デストラップ,文字冒险,图文指令,图文指令／谍报冒险,情报员 Benson、Dr. Gitan,1984,FM-7,スクウェア,スクウェア,同年移植,无,FM-7 馆藏标注 1984 年 12 月；与 PC 版分开。,https://fm-7.com/museum/products/1xukf90e/
+g077,g077-v1,沙拉王国的番茄公主,サラダの国のトマト姫,文字冒险,图文指令,图文指令／童话,黄瓜战士（玩家）、番茄公主、南瓜大王,1984,PC-8801,ハドソンソフト,Hudson Soft（哈德森）,早期 PC 版,无,1984 年 7 月 PC-8801 版；日文指令图文冒险。,https://www.gamepres.org/pc88/library/1984/1984_7.htm
+g077,g077-v2,沙拉王国的番茄公主,サラダの国のトマト姫,文字冒险,图文指令,图文指令／童话,黄瓜战士（玩家）、番茄公主、南瓜大王,1984,FM-7,ハドソンソフト,Hudson Soft（哈德森）,同年多机种版,无,FM-7 馆藏确认 1984 年，未确认与 PC-8801 的发行先后。,https://fm-7.com/museum/products/zyh0e5dv/
+g078,g078-v1,扎斯：夺回人工智能猎户座,ザース 人工頭脳オリオンの奪還,文字冒险,图文指令,图文指令／科幻,少女（姓名待核）,1984,FM-7,エニックス,Enix（艾尼克斯）,首发,无,馆藏列 FM-7 为原始机种，画面受科幻动画影响。,https://fm-7.com/museum/products/3txek9px/
+g079,g079-v1,翼人,ウイングマン,文字冒险,图文指令,图文指令／漫画改编,广野健太、梦葵（葵）,1984,PC-8801,エニックス,Enix（艾尼克斯）,原始 PC 版,无,1984 年 11 月 PC-8801 版；角色名以原作设定为背景。,https://www.gamepres.org/pc88/library/1984/1984_11.htm
+g083,g083-v1,雷霆风暴／眼镜蛇指令,サンダーストーム / Cobra Command,互动动画,激光影碟·射击／驾驶,激光影碟／动画射击,直升机驾驶员（玩家）,1984,街机,Data East,Data East,首发,未核实,日本名《Thunder Storm》，海外街机名《Cobra Command》；与 1988 年同名射击游戏无关。,https://www.arcade-museum.com/Videogame/cobra-command
+g084,g084-v1,忍者疾风,忍者ハヤテ,互动动画,激光影碟·动作选择,激光影碟／动画动作选择,疾风（ハヤテ）、被掳走的公主,1984,街机,TAITO,TAITO（太东）,首发,未核实,激光影碟播放动画，按提示决定动作；角色配音范围待核实。,https://www.taito.co.jp/mob/topics/26255
+g088,g088-v1,泰拉 4001,テラ4001,文字冒险,图文指令,图文指令／科幻,星亚瑟（玩家）、Antonio Inoshin、Gondar,1984,FM-7,T&E SOFT,T&E SOFT,首发,无,含角色移动、飞行及简化战斗等混合玩法。,https://fm-7.com/museum/products/crs8l0ue/
+g099,g099-v2,黑水晶,The Dark Crystal,文字冒险,图文指令,彩色图文指令／电影改编,Jen、Kira,1984,Apple II,Sierra On-Line,Sierra On-Line,Gelfling Adventure 儿童改编版,无,同题材重新设计为选择式界面，适合较年轻的玩家；1984 年版本据 Sierra 年鉴。,https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf
+g105,g105-v1,深渊,ABYSS,文字冒险,图文指令,图文指令／科幻潜入,莫兹·希巴特（Moz Shibatto）,1984,FM-7/8,ハミングバードソフト,ハミングバードソフト,系列首作,无,图文指令科幻冒险；馆藏将原始机种记为 FM-7/8。,https://fm-7.com/museum/products/74ajuk34/
+g106,g106-v1,黑猫庄继承杀人事件,黒猫荘相続殺人事件,文字冒险,图文指令,图文指令／推理,调查员（玩家）、助手正男,1984,FM-7,リバーヒルソフト,リバーヒルソフト,早期 FM 版,无,馆藏确认该机种和年份；完整首发机种顺序未核实。,https://fm-7.com/museum/products/yyf8ms3g/
+g107,g107-v1,逃离异次元,異次元からの脱出,文字冒险,图文指令,图文指令／神秘惊悚,迷失异界的上班族（玩家）,1984,FM-7,日本ファルコム,日本ファルコム,早期 FM 版,无,后半部分含三维迷宫；其他早期机种的确切年份待核。,https://fm-7.com/museum/products/7ggib9g6/
+g108,g108-v1,恶魔之戒,デーモンズリング,文字冒险,图文指令,图文指令／神秘恐怖,待核实,1984,PC-8801,日本ファルコム,日本ファルコム,原始 PC 版,无,馆藏标 PC-8801 为原始机种，具体首发月份未获核实。,https://fm-7.com/museum/products/4l5wmkh8/
+g108,g108-v2,恶魔之戒,デーモンズリング,文字冒险,图文指令,图文指令／神秘恐怖,待核实,1984,FM-7,日本ファルコム,日本ファルコム,FM-7 移植,无,馆藏标 1984 年；场景快速绘制，FM-7 版画面生成约 1 秒。,https://fm-7.com/museum/products/4l5wmkh8/
+g114,g114-v2,英灵殿,Valhalla,文字冒险,图文指令,图文文字冒险／北欧神话,冒险者（玩家）,1984,Commodore 64,Legend,Legend,移植版,未核实,1984 年 Commodore 64 版；平台发布时间与 1983 年 ZX Spectrum 原版分列。,https://www.lemon64.com/game/valhalla
+g124,g124-v1,G 人：寻找记忆！,Gメン 記憶を探せ！,文字冒险,图文指令,图文冒险／悬疑,失忆调查者（玩家）,1984,FM-8／FM-7,リバーヒルソフト,リバーヒルソフト,原版,未核实,原始机种不明，馆藏记载 FM 系兼容。,https://fm-7.com/museum/products/6mwspus0/
+g125,g125-v1,杂耍之石,ジャグラー・ストーン,文字冒险,图文指令,图文冒险／奇幻,冒险者（玩家）、神秘老人,1984,FM-8／FM-7,リバーヒルソフト,リバーヒルソフト,原版,未核实,四分屏同时显示当前及前三个场景；原始机种未明。,https://fm-7.com/museum/products/5bzhbzog/
+g126,g126-v1,高校大冒险,ハイスクールアドベンチャー,文字冒险,图文指令,图文冒险／校园解谜,待核实,1984,FM-7,エニックス,Enix（艾尼克斯）,原版,未核实,1984 年 6 月 FM-7 原版；参赛时原名「座間高アドベンチャー」。,https://fm-7.com/museum/products/e2w2qqkl/
+g127,g127-v1,暗黑城：创世神加利安的复活,暗黒城～創造神ギャリアンの復活,文字冒险,图文指令,图文冒险／奇幻,暗黑使徒格鲁,1984,FM-7,エニックス,Enix（艾尼克斯）,原版,未核实,1984 年 7 月 FM-7 原版；分九章。,https://fm-7.com/museum/products/om904bko/
+g128,g128-v1,再一次：成功人生故事,サクセス ライフ ストーリィ アゲイン,文字冒险,图文指令,图文冒险／人生模拟,追求成为圣灵的男子,1984,FM-7,エニックス,Enix（艾尼克斯）,原版,未核实,1984 年 12 月 FM-7 原版；七段小冒险串联。,https://fm-7.com/museum/products/2oqhpy7x/
+g129,g129-v1,福尔摩斯,Sherlock,文字冒险,图文指令,图文文字冒险／侦探,夏洛克·福尔摩斯、华生,1984,ZX Spectrum,Melbourne House,Melbourne House,原版,未核实,馆藏 1984 年 ZX Spectrum 录音带原版。,https://worldofspectrum.org/archive/software/text-adventures/sherlock-melbourne-house
+g130,g130-v1,汉普斯特德,Hampstead,文字冒险,纯文本指令,纯文本／社会讽刺,向上爬的主人公（玩家）,1984,ZX Spectrum,Melbourne House,Melbourne House,原版,未核实,1984 年 ZX Spectrum 版；社会阶层讽刺题材。,https://worldofspectrum.org/archive/software/text-adventures/hampstead-melbourne-house
+g130,g130-v2,汉普斯特德,Hampstead,文字冒险,纯文本指令,纯文本／社会讽刺,向上爬的主人公（玩家）,1984,Commodore 64,Melbourne House,Melbourne House,移植版,未核实,C64 版目录列 1984 年，与 ZX Spectrum 版同年；具体画面差异待核。,https://www.lemon64.com/game/hampstead
+g131,g131-v1,维京人埃里克传奇,The Saga of Erik the Viking,文字冒险,图文指令,图文文字冒险／北欧传奇,埃里克,1984,ZX Spectrum,Mosaic Publishing Ltd,Mosaic Publishing Ltd,原版,未核实,1984 年 ZX Spectrum 原版；由 Level 9 制作。,https://worldofspectrum.org/archive/software/text-adventures/the-saga-of-erik-the-viking-mosaic-publishing-ltd
+g132,g132-v1,恐怖城堡,Castle of Terror,文字冒险,图文指令,图文文字冒险／恐怖,冒险者（玩家）,1984,ZX Spectrum,Melbourne House,Melbourne House,原版,未核实,1984 年 ZX Spectrum 版。,https://worldofspectrum.org/archive/software/text-adventures/castle-of-terror-melbourne-house
+g133,g133-v1,爱丽丝梦游仙境,不思議の国のアリス,文字冒险,纯文本指令,纯文本／文学改编,爱丽丝,1984,FM-8／FM-7,マイクロキャビン,マイクロキャビン,原版,未核实,1984 年 4 月 FM 系兼容磁带；另有 エレキッド 销售版，同年但月份未明。,https://fm-7.com/museum/products/yrjupxzp/releases
+g133,g133-v2,爱丽丝梦游仙境,不思議の国のアリス,文字冒险,纯文本指令,纯文本／文学改编,爱丽丝,1984,PC-8001,マイクロキャビン,マイクロキャビン,原始机种版本,未核实,馆藏将 PC-8001 列作原始机种；FM 系磁带 1984 年 4 月另有明确馆藏记录，PC-8001 月份待核。,https://fm-7.com/museum/products/yrjupxzp/
+g007,g007-v2,波多比亚连续杀人事件,ポートピア連続殺人事件,文字冒险,图文指令,图文指令／推理,刑警（玩家）、ヤス,1985,红白机,艾尼克斯,Enix（艾尼克斯）,家庭机移植,未核实,移植时重做指令选择界面；并非1983年PC初版。,https://www.nintendo.co.jp/etc/interview/platinumgames/vol1/index3.html
+g014,g014-v1,时间少女,タイムギャル,互动动画,激光影碟·动作选择,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,1985,街机,太东,TAITO（太东）,首发,有,日本街机原版。,https://www.taito.co.jp/mob/topics/2587
+g015,g015-v1,天使们的午后,天使たちの午後,Galgame,成人向冒险,成人向／学园冒险,白石由美子,1985,PC-8801 等,JAST,JAST,首发,无,按 PC-8801 初版；FM-7 移植为 1986 年。,https://www.famitsu.com/news/202312/10327281.html
+g016,g016-v1,东京搭讪街,TOKYOナンパストリート,Galgame,恋爱剧情冒险,成人向／都市恋爱冒险,待核实,1985,日本个人计算机,艾尼克斯,Enix（艾尼克斯）,首发,无,作品最早确认的版本。,https://fm-7.com/museum/products/vt0km2jr/
+g017,g017-v1,轻井泽诱拐指南,軽井沢誘拐案内,文字冒险,图文选项／调查,图文选项／推理,待核实,1985,日本个人计算机,艾尼克斯,Enix（艾尼克斯）,首发,无,作品最早确认的版本。,https://fm-7.com/museum/products/iq8kysdi/
+g018,g018-v1,黄金国传奇,エルドラド伝奇,Galgame,成人向冒险,成人向／奇幻冒险,待核实,1985,FM-7 等,艾尼克斯,Enix（艾尼克斯）,首发,无,作品最早确认的版本。,https://fm-7.com/museum/products/333wukd2/
+g043,g043-v1,永远航行的心灵,A Mind Forever Voyaging,文字冒险,纯文本指令,纯文本／科幻叙事,PRISM、Perry Simm,1985,家用计算机,Infocom,Infocom,首发,无,以多次模拟年代的变化推进故事。,https://www.infocom-if.org/games/games.html
+g061,g061-v1,国王密使 II：浪漫王座,King’s Quest II: Romancing the Throne,文字冒险,图文指令,动画图文指令／童话,格雷厄姆（Graham）、瓦兰妮丝（Valanice）,1985,IBM PC / DOS,Sierra On-Line,Sierra On-Line,首发,无,沿用指令输入与角色移动的图文冒险。,https://www.sierragamers.com/kings-quest-2/
+g071,g071-v1,许愿石,Wishbringer,文字冒险,纯文本指令,纯文本／轻奇幻,邮差（玩家）、黑猫,1985,家用计算机,Infocom,Infocom,首发／早期多机种,无,较易入门的文字解谜冒险。,https://www.infocom-if.org/games/wishbringer/wishbringer.html
+g072,g072-v1,破咒者,Spellbreaker,文字冒险,纯文本指令,纯文本／奇幻解谜,魔法师（玩家）、Belboz,1985,家用计算机,Infocom,Infocom,首发／早期多机种,无,《Enchanter》系列第三部，围绕失控的魔法展开。,https://www.infocom-if.org/games/spellbreaker/spellbreaker.html
+g079,g079-v2,翼人,ウイングマン,文字冒险,图文指令,图文指令／漫画改编,广野健太、梦葵（葵）,1985,FM-7,エニックス,Enix（艾尼克斯）,移植,无,FM-7 馆藏记 1985 年 3 月；加入平台适配。,https://fm-7.com/museum/products/aao3ghzi/
+g080,g080-v1,阿兹特克,アステカ,文字冒险,图文指令,图文指令／考古探险,Wilson 博士,1985,PC-8801,日本ファルコム,日本ファルコム,原始机种,无,PC-8801 初版；具体月份的二手档案有差异，按年登记。,https://www.falcom.co.jp/games-data/egg_asteka_pc8801
+g080,g080-v2,阿兹特克,アステカ,文字冒险,图文指令,图文指令／考古探险,Wilson 博士,1985,FM-7,日本ファルコム,日本ファルコム,同年移植,无,FM-7 馆藏记为 1985 年 6 月，采用局部实景图像。,https://fm-7.com/museum/products/qagni9o7/
+g081,g081-v1,Will：死亡陷阱 II,Will: The Death Trap II,文字冒险,图文指令,图文指令／科幻谍报,Benson、Aisha,1985,PC-8801,スクウェア,スクウェア,首发,无,图文指令冒险采用更多局部动画和对话模式；非激光影碟电影。,https://www.gamepres.org/pc88/library/1985/1985_9.htm
+g085,g085-v1,公路追击,ロードブラスター / Road Blaster,互动动画,激光影碟·射击／驾驶,激光影碟／动画赛车动作,驾驶者（玩家）,1985,街机,Data East,Data East,首发,未核实,东映制作动画影像，按指示操作车辆。,https://www.arcade-museum.com/Videogame/road-blaster
+g086,g086-v1,妖精公寓,Fairie's Residence,Galgame,美少女探索冒险,美少女／图文探索与小游戏,待核实,1985,FM-7,チャンピオンソフト,チャンピオンソフト,同年 FM-7 版,无,馆藏确认 1985 年 FM-7 版本；与 PC-8801 版的具体发行先后及内容异同未核实。,https://fm-7.com/museum/products/9sufuw5m/
+g086,g086-v2,妖精公寓,Fairie's Residence,Galgame,美少女探索冒险,美少女／图文探索与小游戏,待核实,1985,PC-8801,チャンピオンソフト,チャンピオンソフト,1985 年 4 月 PC 版,无,当期 PC-8801 软件目录明确 1985 年 4 月；描述与 FM-7 版的房间和人物线索一致。,https://www.gamepres.org/pc88/library/1985/1985_4.htm
+g105,g105-v2,深渊,ABYSS,文字冒险,图文指令,图文指令／科幻潜入,莫兹·希巴特（Moz Shibatto）,1985,FM-7,ハミングバードソフト,ハミングバードソフト,tape ABYSS 录音带版,无,1985 年录音带版：情节基本一致，但画面重新绘制，整部程序驻留内存。,https://fm-7.com/museum/products/rwoxchsm/
+g109,g109-v1,深渊 II：帝王之泪,ABYSS Ⅱ 帝王の涙,文字冒险,图文指令,图文指令／科幻,莫兹·希巴特（Moz Shibatto）,1985,FM-7,ハミングバードソフト,ハミングバードソフト,续作,无,与 1984 年《ABYSS》分属两部作品，馆藏原始机种为 FM-7。,https://fm-7.com/museum/products/x0bcvxtx/
+g110,g110-v1,黄道带,ゾーディアック,文字冒险,图文指令,图文指令／科幻探索,寻父的主角、亚马洛伊德·玛丽、杜马博士,1985,FM-7,リバーヒルソフト,リバーヒルソフト,早期 FM 版,无,馆藏确认年份与机种；完整首发平台和确切月份待核。,https://fm-7.com/museum/products/rdtaieyr/
+g111,g111-v1,神威之剑,カムイの剣,文字冒险,图文指令,图文指令／小说与动画改编,次郎,1985,FM-7,コンプティーク,コンプティーク,FM-7 版,无,馆藏确认 1985 年；其他机种和海外英文版日期未核实，暂不拆分。,https://fm-7.com/museum/products/y6ai5nay/
+g111,g111-v2,神威之剑,カムイの剣,文字冒险,图文指令,图文指令／小说与动画改编,次郎,1985,PC-8801,コンプティーク,コンプティーク,1985 年 4 月 PC 版,无,当期目录记 1985 年 4 月；剧情围绕次郎与基德船长宝藏展开，FM-7 版发行月待核。,https://www.gamepres.org/pc88/library/1985/1985_4.htm
+g112,g112-v1,新哥斯拉,ニューゴジラ,文字冒险,图文指令,图文指令／电影改编,牧吾郎、尚子、哥斯拉,1985,PC-8801,東宝,東宝,原始 PC 版,无,1985 年 4 月版含三个玩法段落；包装附怪兽叫声磁带，未据此将角色配音标为“有”。,https://www.gamepres.org/pc88/library/1985/1985_4.htm
+g129,g129-v2,福尔摩斯,Sherlock,文字冒险,图文指令,图文文字冒险／侦探,夏洛克·福尔摩斯、华生,1985,Commodore 64,Melbourne House,Melbourne House,移植版,未核实,C64 版资料列 1985 年；ZX Spectrum 原版为 1984 年。,https://www.lemon64.com/game/sherlock
+g132,g132-v2,恐怖城堡,Castle of Terror,文字冒险,图文指令,图文文字冒险／恐怖,冒险者（玩家）,1985,Commodore 64,Melbourne House,Melbourne House,移植版,未核实,C64 版资料列 1985 年；ZX Spectrum 原版 1984 年。,https://www.lemon64.com/game/castle-of-terror
+g134,g134-v1,瓦尔·特拉德,バル・トラッド,文字冒险,图文指令,图文冒险／科幻,罗曼·杰森,1985,FM-8／FM-7,リバーヒルソフト,リバーヒルソフト,原版,未核实,原始机种不明；冒险过程中穿插动作游戏关卡。,https://fm-7.com/museum/products/7wx08tq8/
+g135,g135-v1,棋子,The Pawn / QL-Pawn,文字冒险,纯文本指令,纯文本／奇幻,凯罗夫尼亚的旅行者（玩家）,1985,Sinclair QL,Sinclair Research,Sinclair Research,原版,无,1985 年 QL-Pawn 原始版 1.0，纯文本、双 Microdrive；后来的 The Pawn 彩色图像版另属后续移植。,https://magneticscrolls.info/facts.php
+g136,g136-v1,恐怖海滨度假,Terrormolinos,文字冒险,纯文本指令,纯文本／喜剧,度假者（玩家）,1985,ZX Spectrum,Melbourne House,Melbourne House,原版,未核实,1985 年 ZX Spectrum 版，基于修改后的 The Quill。,https://worldofspectrum.org/archive/software/text-adventures/terrormolinos-melbourne-house
+g136,g136-v2,恐怖海滨度假,Terrormolinos,文字冒险,纯文本指令,纯文本／喜剧,度假者（玩家）,1985,Commodore 64,Melbourne House,Melbourne House,移植版,未核实,C64 版资料列 1985 年；画面和互动细节待核。,https://www.lemon64.com/game/terrormolinos
+g137,g137-v1,莫登的任务,Mordon's Quest,文字冒险,图文指令,图文文字冒险／奇幻,莫登、冒险者（玩家）,1985,ZX Spectrum,Melbourne House,Melbourne House,原版,未核实,1985 年 ZX Spectrum 版；剧情细节待核实。,https://worldofspectrum.org/archive/software/text-adventures/mordons-quest-melbourne-house
+g138,g138-v1,罗宾汉：瑞安侬试金石,Robin of Sherwood: The Touchstones of Rhiannon,文字冒险,图文指令,文字冒险／奇幻传说,罗宾汉、威尔·斯卡雷特、穆奇,1985,ZX Spectrum,Adventure International,Adventure International,原版,未核实,1985 年 ZX Spectrum 版。,https://worldofspectrum.org/archive/software/text-adventures/robin-of-sherwood-the-touchstones-of-rhiannon-adventure-international
+g012,g012-v2,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／调查,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,1987,红白机,ASCII,ASCII,改编移植,未核实,根据PC版重新编排故事与人物表现。,https://www.4gamer.net/games/777/G077714/20240222001/
+g019,g019-v1,No・Ri・Ko,No・Ri・Ko,文字冒险,光盘图文冒险,CD-ROM／偶像互动,小川范子,1988,PC Engine CD-ROM²,Hudson,Hudson Soft（哈德森）,首发,有,配音与歌曲来自偶像本人；并非 Leaf 式视觉小说。,https://pcefan.com/pcengine/entry15.html
+g040,g040-v1,Snatcher,スナッチャー,文字冒险,图文选项／调查,科幻／赛博朋克侦探,吉利安·希德、Metal Gear Mk.II,1988,PC-8801,Konami,Konami,首发,无,PC初版以指令调查为核心。,https://www.konami.com/corporate/ja/history/product.html
+g077,g077-v3,沙拉王国的番茄公主,サラダの国のトマト姫,文字冒险,图文指令,图文指令／童话,黄瓜战士（玩家）、番茄公主、南瓜大王,1988,红白机,ハドソンソフト,Hudson Soft（哈德森）,主机改编,无,用屏幕命令菜单取代电脑版键盘输入，画面与内容重制。,https://www.nintendo.co.jp/wii/vc/vc_skt/vc_skt_01.html
+g020,g020-v1,眼镜蛇：黑龙王的传说,コブラ 黒竜王の伝説,文字冒险,光盘图文冒险,CD-ROM／科幻冒险,眼镜蛇（コブラ）,1989,PC Engine CD-ROM²,Hudson,Hudson Soft（哈德森）,首发,有,作品最早确认的版本。,https://pcefan.com/pcengine/entry15.html
+g045,g045-v1,龙穴历险记 II：时间扭曲,Dragon's Lair II: Time Warp,互动动画,激光影碟·动作选择,激光影碟／动画动作选择,德克（Dirk）、达芙妮（Daphne）,1991,街机,Leland,Leland,首发,有,延续手绘动画和即时按键玩法。,https://flyers.arcade-museum.com/videogames/show/314
+g021,g021-v1,弟切草,弟切草,视觉小说,有声小说,有声小说／恐怖,待核实,1992,超级任天堂,Chunsoft,Chunsoft,首发,无,“有声小说”指音乐与音效，不保证角色配音。,https://www.spike-chunsoft.co.jp/company/outline/
+g040,g040-v2,Snatcher,スナッチャー,文字冒险,图文选项／调查,科幻／赛博朋克侦探,吉利安·希德、Metal Gear Mk.II,1992,PC Engine SUPER CD-ROM²,Konami,Konami,有声移植,有,新增角色语音与扩充剧情表现。,https://www.konami.com/games/pcemini/lineup/jp/ja/
+g046,g046-v1,同级生,同級生,Galgame,恋爱剧情冒险,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,1992,PC-9800,ELF,ELF,首发,无,原版以地图、日程和人物事件推进。,https://shiravune.com/archives/2502
+g022,g022-v1,镰鼬之夜,かまいたちの夜,视觉小说,有声小说,有声小说／推理,透、真理,1994,超级任天堂,Chunsoft,Chunsoft,首发,无,作品最早确认的版本。,https://www.spike-chunsoft.co.jp/pages/games/kama/
+g023,g023-v1,心跳回忆,ときめきメモリアル,Galgame,恋爱模拟,恋爱模拟,藤崎诗织、虹野沙希、馆林见晴,1994,PC Engine SUPER CD-ROM²,Konami,Konami,首发,有,恋爱模拟，不属于狭义视觉小说。,https://www.konami.com/games/tokimeki/about/index.html
+g023,g023-v2,心跳回忆,ときめきメモリアル,Galgame,恋爱模拟,恋爱模拟,藤崎诗织、虹野沙希、馆林见晴,1995,PlayStation,Konami,Konami,增强移植,有,《forever with you》改良画面与音效。,https://www.konami.com/games/corporate/ja/news/topics/20250203/
+g024,g024-v1,雫,雫,视觉小说,剧情分支／冒险,悬疑／成人向,待核实,1996,Windows,Leaf,Leaf,首发,无,Leaf Visual Novel Series 第 1 作；兼属广义 Galgame。,https://pc98.info/pc-game-history-05-windows-and-the-end/
+g025,g025-v1,痕,痕,视觉小说,剧情分支／冒险,悬疑／成人向,待核实,1996,Windows,Leaf,Leaf,首发,无,兼属广义 Galgame。,https://pc98.info/pc-game-history-05-windows-and-the-end/
+g038,g038-v1,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,剧情分支／冒险,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,1996,PC-9800,ELF,ELF,首发,未核实,原版多线剧情与宝玉系统；当年配音情况需逐版核对。,https://yu-no.jp/spec/ps/
+g026,g026-v1,ToHeart,ToHeart,视觉小说,恋爱剧情,校园恋爱,藤田浩之、神岸明里、来栖川芹香、玛尔琪（Multi）,1997,Windows,Leaf,Leaf,首发,无,兼属 Galgame；1999 年 PlayStation 版加入角色配音。,https://aquaplus.jp/toheart/en.html
+g038,g038-v2,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,剧情分支／冒险,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,1997,Sega Saturn,ELF,ELF,家用机移植,有,新增角色配音并调整表现与内容。,https://yu-no.jp/spec/ps/
+g027,g027-v1,双重角色,ダブルキャスト,互动动画,全动画·剧情分支,全动画／悬疑,美月,1998,PlayStation,Sony Computer Entertainment,Sony Computer Entertainment,首发,有,“やるドラ”系列；由 Production I.G 制作动画。,https://www.productionig.com/contents/works/05_/000169.html
+g047,g047-v1,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,恋爱剧情,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,1998,Windows,Tactics（NEXTON）,Tactics（NEXTON）,首发,无,1998 年 PC 原作。,https://nexton-net.jp/nexton30th/nvm001/
+g026,g026-v2,ToHeart,ToHeart,视觉小说,恋爱剧情,校园恋爱,藤田浩之、神岸明里、来栖川芹香、玛尔琪（Multi）,1999,PlayStation,AQUAPLUS,AQUAPLUS,全年龄移植,有,重写与补充部分内容，并加入角色配音。,https://aquaplus.jp/th/
+g028,g028-v1,Kanon,Kanon,视觉小说,恋爱剧情,恋爱／奇幻,相泽祐一、月宫亚由、水濑名雪,1999,Windows,VisualArt’s / Key,VisualArt’s、Key,首发,无,兼属 Galgame；按 Windows 初版。,https://key.visualarts.gr.jp/product/kanon/
+g029,g029-v1,AIR,AIR,视觉小说,恋爱剧情,恋爱／奇幻,国崎往人、神尾观铃、神尾晴子,2000,Windows,VisualArt’s / Key,VisualArt’s、Key,首发,无,兼属 Galgame。,https://key.visualarts.gr.jp/key20th/history.html
+g048,g048-v1,Never 7：无限终点,Never 7 - The End of Infinity,视觉小说,恋爱剧情,恋爱冒险／科幻悬疑,石原诚、川岛优夏、樋口遥,2000,PlayStation,KID,KID,infinity 初版,未核实,此行指早期《infinity》，与后来的 Never 7 版本标题不同。,https://www.famitsu.com/game/title/19078/page/1
+g049,g049-v1,逆转裁判,逆転裁判,文字冒险,图文选项／调查,调查／法庭推理,成步堂龙一、绫里真宵、御剑怜侍,2001,Game Boy Advance,CAPCOM,CAPCOM,首发,无,系列首作。,https://www.nintendo.com/jp/topics/article/f141655c-c8da-11e7-8cda-063b7ac45a6d
+g028,g028-v2,Kanon,Kanon,视觉小说,恋爱剧情,恋爱／奇幻,相泽祐一、月宫亚由、水濑名雪,2002,PlayStation 2,Interchannel,Interchannel,家用机移植,有,家用机版提供角色配音；主角配音因版本而异。,https://www.prot.co.jp/switch/kanon/introduction.html
+g050,g050-v1,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,剧情分支／冒险,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2002,Dreamcast,KID,KID,同步首发,未核实,2002 年同期发行的主机原版；原版配音范围待核对。,https://dengekionline.com/data/news/2002/7/22/b79e0433ff091f2308a4dc12a1901014.html
+g050,g050-v2,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,剧情分支／冒险,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2002,PlayStation 2,KID,KID,同步首发,未核实,2002 年同期发行的主机原版；原版配音范围待核对。,https://dengekionline.com/data/news/2002/7/22/b79e0433ff091f2308a4dc12a1901014.html
+g051,g051-v1,寒蝉鸣泣之时,ひぐらしのなく頃に,视觉小说,有声小说,有声小说／乡村悬疑,前原圭一、龙宫礼奈、园崎魅音,2002,Windows,07th Expansion,07th Expansion,《鬼隐篇》同人首发,无,原作第一篇于 2002 年夏季同人展发表；音乐音效不算角色配音。,https://07th-expansion.net/Soft/Prolog.htm
+g052,g052-v1,Muv-Luv,マブラヴ,Galgame,恋爱剧情冒险,校园恋爱／平行世界,白银武、鉴纯夏、御剑冥夜,2003,Windows,âge,âge,首发,未核实,原版含 Extra 和 Unlimited 两部分；原版配音范围待核查。,https://muvluv.com/en/products/
+g030,g030-v1,CLANNAD,CLANNAD,视觉小说,恋爱剧情,校园／家庭,冈崎朋也、古河渚、坂上智代,2004,Windows,VisualArt’s / Key,VisualArt’s、Key,首发,无,2004 年 4 月 28 日首发；兼属广义 Galgame。,https://key.visualarts.gr.jp/key20th/history.html
+g031,g031-v1,Fate/stay night,Fate/stay night,视觉小说,剧情分支／冒险,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2004,Windows,TYPE-MOON,TYPE-MOON,首发,无,官网明确列出初版角色配音“无”；后续版本不同。,https://www.typemoon.com/products/fate/data/index.html
+g032,g032-v1,星之梦,planetarian ～ちいさなほしのゆめ～,视觉小说,单线视觉小说,单线剧情／科幻,星野梦美、废墟猎人（屑屋）,2004,Windows 在线下载,VisualArt’s / Key,VisualArt’s、Key,首发,有（部分）,最初的在线版仅有部分语音；2006 年 PS2 版扩充为全配音。,https://www.prot.co.jp/ps2/planetarian/index.html
+g027,g027-v2,双重角色,ダブルキャスト,互动动画,全动画·剧情分支,全动画／悬疑,美月,2005,PSP,Sony Computer Entertainment,Sony Computer Entertainment,掌机移植,有,将PlayStation全动画多结局作品移植至PSP。,https://www.productionig.com/contents/works_sp/31_/index.html
+g033,g033-v1,日在校园,School Days,互动动画,全动画·剧情分支,全动画／恋爱剧情,伊藤诚、桂言叶、西园寺世界,2005,Windows,Overflow（STACK）,Overflow（STACK）,首发,有,兼属视觉小说与 Galgame；首发 2005 年，2025 年为 20 周年。,https://0verflow.com/sdre_live/
+g049,g049-v2,逆转裁判,逆転裁判,文字冒险,图文选项／调查,调查／法庭推理,成步堂龙一、绫里真宵、御剑怜侍,2005,Nintendo DS,CAPCOM,CAPCOM,《复苏的逆转》,有,增收第五话与触屏科学调查；配音为少量法庭语音，非全程对话配音。,https://www.nintendo.com/jp/topics/article/f141655c-c8da-11e7-8cda-063b7ac45a6d
+g030,g030-v2,CLANNAD,CLANNAD,视觉小说,恋爱剧情,校园／家庭,冈崎朋也、古河渚、坂上智代,2006,PlayStation 2,Interchannel,Interchannel,家用机移植,有,原版内容移植至主机，加入角色配音。,https://key.visualarts.gr.jp/clannad_10th/
+g032,g032-v2,星之梦,planetarian ～ちいさなほしのゆめ～,视觉小说,单线视觉小说,单线剧情／科幻,星野梦美、废墟猎人（屑屋）,2006,PlayStation 2,PROTOTYPE,PROTOTYPE,全配音移植,有,原2004年Windows版仅部分声音，本版加入包括主角在内的完整配音。,https://www.prot.co.jp/ps2/planetarian/index.html
+g053,g053-v1,Muv-Luv Alternative,マブラヴ オルタネイティヴ,视觉小说,剧情分支／冒险,科幻战争／平行世界,白银武、鉴纯夏、御剑冥夜、香月夕呼,2006,Windows,âge,âge,DVD 首发,未核实,2006 年 2 月发行的成人向 PC 初版；配音范围待核实。,https://muvluv.com/alternative/spec.htm
+g031,g031-v2,Fate/stay night,Fate/stay night,视觉小说,剧情分支／冒险,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2007,PlayStation 2,角川书店,角川书店,全年龄移植,有,《Realta Nua》加入角色配音与新演出。,https://typemoon.com/contents/9ncnes/fate-stay-night-realta-nua
+g030,g030-v3,CLANNAD,CLANNAD,视觉小说,恋爱剧情,校园／家庭,冈崎朋也、古河渚、坂上智代,2008,Windows,VisualArt’s / Key,VisualArt’s、Key,全配音修订版,有,《CLANNAD フルボイス》，与2004年无配音初版区分。,https://key.visualarts.gr.jp/clannad_10th/
+g034,g034-v1,428：被封锁的涩谷,428 ～封鎖された渋谷で～,视觉小说,有声小说,实拍有声小说／群像悬疑,加纳慎也、远藤亚智、御法川实,2008,Wii,世嘉（开发：Chunsoft）,世嘉,首发,未核实,“有声小说”不等于对白配音；首发 2008 年。,https://www.nintendo.co.jp/wii/software/rtoj/index.html
+g054,g054-v1,命运石之门,STEINS;GATE,视觉小说,剧情分支／冒险,科学幻想／时间旅行,冈部伦太郎、牧濑红莉栖、椎名真由理,2009,Xbox 360,5pb.,5pb.,首发,有,系列首发；原作以文字和静态立绘推进。,https://steinsgate.jp/15th/
+g055,g055-v1,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,推理解谜融合,密室逃脱／悬疑,淳平、茜、四叶,2009,Nintendo DS,Spike,Spike,首发,无,双屏叙事与逃脱谜题；没有 2017 年合集中新增的对话配音。,https://www.spike-chunsoft.co.jp/pages/zendesu/about/index.html
+g035,g035-v1,弹丸论破：希望的学园与绝望高中生,ダンガンロンパ 希望の学園と絶望の高校生,视觉小说,推理解谜融合,推理／辩论,苗木诚、雾切响子、黑白熊,2010,PSP,Spike,Spike,首发,有,推理冒险含角色配音；不是恋爱游戏。,https://www.spike-chunsoft.co.jp/news/17141/
+g039,g039-v1,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱剧情,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2010,Windows,Leaf / AQUAPLUS,Leaf、AQUAPLUS,首发／序章,有,仅含《introductory chapter》，完整后续剧情后来发行。,https://blog.aquaplus.jp/archives/2352
+g054,g054-v2,命运石之门,STEINS;GATE,视觉小说,剧情分支／冒险,科学幻想／时间旅行,冈部伦太郎、牧濑红莉栖、椎名真由理,2010,Windows,5pb. / Nitroplus,5pb.、Nitroplus,PC 移植,有,PC 平台发行；保留原作分支叙事。,https://blog.mages.co.jp/steinsgate/?p=92
+g039,g039-v2,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱剧情,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2011,Windows,Leaf / AQUAPLUS,Leaf、AQUAPLUS,续篇及整合版,有,《closing chapter》发行，部分商品附《introductory chapter》内容。,https://blog.aquaplus.jp/archives/2352
+g031,g031-v3,Fate/stay night,Fate/stay night,视觉小说,剧情分支／冒险,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2012,PlayStation Vita,角川游戏,角川游戏,掌机移植,有,以《Realta Nua》为基础适配Vita。,https://www.typemoon.com/products/fatevita/character/
+g039,g039-v3,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱剧情,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2012,PlayStation 3,AQUAPLUS,AQUAPLUS,合集与全年龄修订,有,《幸せの向こう側》合并章节，新增剧情、CG及动态立绘。,https://aquaplus.jp/wa2/product.html
+g039,g039-v4,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱剧情,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2013,PlayStation Vita,AQUAPLUS,AQUAPLUS,掌机移植,有,增加小说显示模式、画面切换与名场面提示。,https://aquaplus.jp/wa2vita/products/
+g052,g052-v2,Muv-Luv,マブラヴ,Galgame,恋爱剧情冒险,校园恋爱／平行世界,白银武、鉴纯夏、御剑冥夜,2016,Steam,aNCHOR,aNCHOR,数字移植,有,PC 数字版加入本地化并保留角色语音。,https://games.ancr.jp/games/muv-luv/
+g038,g038-v3,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,剧情分支／冒险,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,2017,PlayStation 4,5pb. / MAGES.,5pb.、MAGES.,完全重制,有,新角色画面、重编音乐、角色配音；预购附原版移植DLC。,https://yu-no.jp/spec/ps/
+g038,g038-v4,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,剧情分支／冒险,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,2017,PlayStation Vita,5pb. / MAGES.,5pb.、MAGES.,完全重制,有,与PS4版同期发行的掌机版。,https://yu-no.jp/spec/ps/
+g053,g053-v2,Muv-Luv Alternative,マブラヴ オルタネイティヴ,视觉小说,剧情分支／冒险,科幻战争／平行世界,白银武、鉴纯夏、御剑冥夜、香月夕呼,2017,Steam,aNCHOR,aNCHOR,本地化数字版,有,加入译文、画面调整和额外角色配音。,https://store.steampowered.com/app/802890/MuvLuv_Alternative/
+g055,g055-v2,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,推理解谜融合,密室逃脱／悬疑,淳平、茜、四叶,2017,Steam,Spike Chunsoft,Spike Chunsoft,《The Nonary Games》合集,有,高分辨率画面并为本作新增日语、英语对话配音。,https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/
+g055,g055-v3,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,推理解谜融合,密室逃脱／悬疑,淳平、茜、四叶,2017,PlayStation 4,Spike Chunsoft,Spike Chunsoft,《The Nonary Games》合集,有,高分辨率画面并为本作新增日语、英语对话配音。,https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/
+g055,g055-v4,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,推理解谜融合,密室逃脱／悬疑,淳平、茜、四叶,2017,PlayStation Vita,Spike Chunsoft,Spike Chunsoft,《The Nonary Games》合集,有,高分辨率画面并为本作新增日语、英语对话配音。,https://www.spike-chunsoft.co.jp/pages/zeroescape/doublepack/
+g056,g056-v1,心跳文学部！,Doki Doki Literature Club!,视觉小说,剧情分支／冒险,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2017,Windows / itch.io,Team Salvato,Team Salvato,免费首发,无,2017 年 9 月在 itch.io 先行推出；无角色台词配音。,https://teamsalvato.com/news/
+g056,g056-v2,心跳文学部！,Doki Doki Literature Club!,视觉小说,剧情分支／冒险,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2017,Windows / Steam,Team Salvato,Team Salvato,Steam 发行,无,Steam 于同年稍后发行原版，保留心理恐怖的元叙事结构。,https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/
+g034,g034-v2,428：被封锁的涩谷,428 ～封鎖された渋谷で～,视觉小说,有声小说,实拍有声小说／群像悬疑,加纳慎也、远藤亚智、御法川实,2018,PlayStation 4,Spike Chunsoft,Spike Chunsoft,高清移植,未核实,面向现代主机重新发行。,https://www.spike-chunsoft.co.jp/news/1799/
+g034,g034-v3,428：被封锁的涩谷,428 ～封鎖された渋谷で～,视觉小说,有声小说,实拍有声小说／群像悬疑,加纳慎也、远藤亚智、御法川实,2018,Windows / Steam,Spike Chunsoft,Spike Chunsoft,高清移植,未核实,与PS4版同日发行的PC版。,https://www.spike-chunsoft.co.jp/news/1799/
+g051,g051-v2,寒蝉鸣泣之时,ひぐらしのなく頃に,视觉小说,有声小说,有声小说／乡村悬疑,前原圭一、龙宫礼奈、园崎魅音,2018,Nintendo Switch,ENTERGRAM,ENTERGRAM,《奉》合集,有,主机合集收录多篇故事并提供角色配音。,https://entergram.co.jp/higurashihou/products.html
+g030,g030-v4,CLANNAD,CLANNAD,视觉小说,恋爱剧情,校园／家庭,冈崎朋也、古河渚、坂上智代,2019,Nintendo Switch,PROTOTYPE,PROTOTYPE,高清移植,有,携带模式与多语言字幕；按Switch版发行年记录。,https://www.prot.co.jp/switch/clannad/spec.html
+g038,g038-v5,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,剧情分支／冒险,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,2019,Nintendo Switch,5pb. / MAGES.,5pb.、MAGES.,重制移植,有,2017重制版移植至Switch。,https://yu-no.jp/spec/
+g049,g049-v3,逆转裁判,逆転裁判,文字冒险,图文选项／调查,调查／法庭推理,成步堂龙一、绫里真宵、御剑怜侍,2019,Nintendo Switch,CAPCOM,CAPCOM,初期三部曲合集,有,《逆转裁判123》收录前三作；保留少量法庭语音，并提升显示效果。,https://www.nintendo.com/jp/topics/article/761e2356-2f26-11e9-b104-0a6d14145cb1
+g049,g049-v4,逆转裁判,逆転裁判,文字冒险,图文选项／调查,调查／法庭推理,成步堂龙一、绫里真宵、御剑怜侍,2019,Steam,CAPCOM,CAPCOM,初期三部曲合集,有,三部曲合集中的初代，非单独重制；配音主要为法庭喊话。,https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/
+g051,g051-v3,寒蝉鸣泣之时,ひぐらしのなく頃に,视觉小说,有声小说,有声小说／乡村悬疑,前原圭一、龙宫礼奈、园崎魅音,2019,PlayStation 4,ENTERGRAM,ENTERGRAM,《奉》移植,有,与 Switch 合集主体内容相同，但不支持触屏操作。,https://entergram.co.jp/higurashihou/products.html
+g054,g054-v3,命运石之门,STEINS;GATE,视觉小说,剧情分支／冒险,科学幻想／时间旅行,冈部伦太郎、牧濑红莉栖、椎名真由理,2019,Nintendo Switch,Spike Chunsoft / MAGES.,Spike Chunsoft、MAGES.,ELITE 动画版,有,使用动画影像替代大量静态画面；附加内容随平台不同。,https://www.spike-chunsoft.com/games/steinsgate-elite/
+g054,g054-v4,命运石之门,STEINS;GATE,视觉小说,剧情分支／冒险,科学幻想／时间旅行,冈部伦太郎、牧濑红莉栖、椎名真由理,2019,PlayStation 4 / Steam,Spike Chunsoft / MAGES.,Spike Chunsoft、MAGES.,ELITE 动画版,有,使用动画影像替代大量静态画面；附加内容随平台不同。,https://www.spike-chunsoft.com/games/steinsgate-elite/
+g029,g029-v2,AIR,AIR,视觉小说,恋爱剧情,恋爱／奇幻,国崎往人、神尾观铃、神尾晴子,2021,Nintendo Switch,PROTOTYPE,PROTOTYPE,高清移植,有,提供日语全配音，之后更新加入英语及简体中文字幕。,https://www.prot.co.jp/switch/air/spec.html
+g035,g035-v2,弹丸论破：希望的学园与绝望高中生,ダンガンロンパ 希望の学園と絶望の高校生,视觉小说,推理解谜融合,推理／辩论,苗木诚、雾切响子、黑白熊,2021,Nintendo Switch,Spike Chunsoft,Spike Chunsoft,纪念版移植,有,收入系列合集，也提供单独下载。,https://www.spike-chunsoft.co.jp/news/13989/
+g036,g036-v1,月姬：月之玻璃片,月姫 -A piece of blue glass moon-,视觉小说,剧情分支／冒险,奇幻／悬疑,远野志贵、爱尔奎特、希耶尔、远野秋叶,2021,PlayStation 4,TYPE-MOON,TYPE-MOON,重制首发,有,2021 年重制新作；2000 年同人原作另有年份。,https://typemoon.com/products/tsukihime/
+g036,g036-v2,月姬：月之玻璃片,月姫 -A piece of blue glass moon-,视觉小说,剧情分支／冒险,奇幻／悬疑,远野志贵、爱尔奎特、希耶尔、远野秋叶,2021,Nintendo Switch,TYPE-MOON,TYPE-MOON,同步首发,有,与PlayStation 4版同年发行；非2000年PC原版。,https://typemoon.com/products/tsukihime/
+g046,g046-v2,同级生,同級生,Galgame,恋爱剧情冒险,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,2021,Windows,FANZA GAMES（DG REMAKE）,FANZA GAMES（DG REMAKE）,日版重制,有,更新画面与系统，并为女主角加入配音。,https://dmmgames.co.jp/news/detail/id=1786
+g056,g056-v3,心跳文学部！,Doki Doki Literature Club!,视觉小说,剧情分支／冒险,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2021,Nintendo Switch,Serenity Forge,Serenity Forge,Plus 扩展版,无,增加六段友情支线、高清画面、画廊和音乐播放器。,https://www.serenityforge.com/games/doki-doki-literature-club-plus
+g056,g056-v4,心跳文学部！,Doki Doki Literature Club!,视觉小说,剧情分支／冒险,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2021,PlayStation 4 / PlayStation 5,Serenity Forge,Serenity Forge,Plus 扩展版,无,增加六段友情支线、高清画面、画廊和音乐播放器。,https://www.serenityforge.com/games/doki-doki-literature-club-plus
+g056,g056-v5,心跳文学部！,Doki Doki Literature Club!,视觉小说,剧情分支／冒险,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2021,Windows / Steam,Serenity Forge,Serenity Forge,Plus 扩展版,无,增加六段友情支线、高清画面、画廊和音乐播放器。,https://www.serenityforge.com/games/doki-doki-literature-club-plus
+g046,g046-v3,同级生,同級生,Galgame,恋爱剧情冒险,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,2022,Windows / Steam,Shiravune,Shiravune,国际版重制,有,基于 2021 年重制，加入中英文文本；与 1992 年原版分开。,https://shiravune.com/archives/2502
+g055,g055-v5,极限脱出：9 小时 9 人 9 扇门,極限脱出 9時間9人9の扉,视觉小说,推理解谜融合,密室逃脱／悬疑,淳平、茜、四叶,2022,Xbox One / Windows 10,Spike Chunsoft,Spike Chunsoft,合集新平台,有,2017 年配音合集移植到 Xbox 与 Microsoft Store PC。,https://www.spike-chunsoft.co.jp/news/14736/
+g014,g014-v2,时间少女,タイムギャル,互动动画,激光影碟·动作选择,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,2023,Nintendo Switch,太东,TAITO（太东）,高清复刻,有,收录于太东LD游戏合集，升级画面并保留互动动画。,https://www.taito.co.jp/taitoldgamecollection
+g028,g028-v3,Kanon,Kanon,视觉小说,恋爱剧情,恋爱／奇幻,相泽祐一、月宫亚由、水濑名雪,2023,Nintendo Switch,PROTOTYPE,PROTOTYPE,高清移植,有（主角部分）,高清画面与日语角色配音；主角仅部分场景有声。,https://www.prot.co.jp/switch/kanon/spec.html
+g047,g047-v2,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,恋爱剧情,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,2023,Nintendo Switch,novamicus（NEXTON）,novamicus（NEXTON）,ONE. 重制,有,重绘立绘并加入角色配音；主人公仍不配音。,https://nexton-net.jp/nexton30th/nvm001/
+g047,g047-v3,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,恋爱剧情,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,2023,Windows,novamicus（NEXTON）,novamicus（NEXTON）,ONE. 重制,有,重绘立绘并加入角色配音；主人公仍不配音。,https://nexton-net.jp/nexton30th/nvm001/
+g047,g047-v4,ONE：辉之季节,ONE 〜輝く季節へ〜,视觉小说,恋爱剧情,校园恋爱／奇幻,折原浩平、长森瑞佳、七濑留美,2023,Steam,novamicus（NEXTON）,novamicus（NEXTON）,ONE. 数字版,有,重绘画面与角色配音；商店显示的跨区日期可能早于日版一天。,https://store.steampowered.com/app/2432100/ONE/
+g084,g084-v2,忍者疾风,忍者ハヤテ,互动动画,激光影碟·动作选择,激光影碟／动画动作选择,疾风（ハヤテ）、被掳走的公主,2023,Nintendo Switch,TAITO,TAITO（太东）,HD 复刻,未核实,《TAITO LD Game Collection》收录，以高清影像呈现。,https://www.taito.co.jp/mob/topics/26135
+g012,g012-v3,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／调查,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,2024,Nintendo Switch,G-MODE,G-MODE,重制,有,依据红白机版重制，新增后续故事与人物配音。,https://info.gmodecorp.com/cs/okhotsk/
+g012,g012-v4,北海道连锁杀人：鄂霍次克消失,北海道連鎖殺人 オホーツクに消ゆ,文字冒险,图文选项／调查,图文选项／推理,刑警（版本设定不同）、黑木五郎（早期PC版）、猿渡俊介（后续版）,2024,Windows / Steam,G-MODE,G-MODE,重制,有,与Switch同款重制版；按平台单独登记。,https://info.gmodecorp.com/cs/okhotsk/products/
+g031,g031-v4,Fate/stay night,Fate/stay night,视觉小说,剧情分支／冒险,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2024,Nintendo Switch,TYPE-MOON,TYPE-MOON,高清复刻,有,基于Vita版，画面高清化并增加多语言文本。,https://typemoon.com/products/f-sn/
+g031,g031-v5,Fate/stay night,Fate/stay night,视觉小说,剧情分支／冒险,奇幻／战斗,卫宫士郎、Saber、远坂凛、间桐樱,2024,Windows / Steam,TYPE-MOON,TYPE-MOON,高清复刻,有,与Switch版同期发布的《REMASTERED》。,https://typemoon.com/products/f-sn/
+g046,g046-v4,同级生,同級生,Galgame,恋爱剧情冒险,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,2024,Nintendo Switch,EXNOA（DG REMAKE）,EXNOA（DG REMAKE）,主机重制版,有,CSver 调整内容，保留重制的配音与画面，增加新场景。,https://dmmgames.co.jp/news/detail/id=1786
+g046,g046-v5,同级生,同級生,Galgame,恋爱剧情冒险,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,2024,PlayStation 4,EXNOA（DG REMAKE）,EXNOA（DG REMAKE）,主机重制版,有,CSver 调整内容，保留重制的配音与画面，增加新场景。,https://dmmgames.co.jp/news/detail/id=1786
+g052,g052-v3,Muv-Luv,マブラヴ,Galgame,恋爱剧情冒险,校园恋爱／平行世界,白银武、鉴纯夏、御剑冥夜,2024,Nintendo Switch,aNCHOR,aNCHOR,主机复刻,有,面向主机的调整版本，与 2003 年 PC 原版区分。,https://games.ancr.jp/games/muv-luv/
+g053,g053-v3,Muv-Luv Alternative,マブラヴ オルタネイティヴ,视觉小说,剧情分支／冒险,科幻战争／平行世界,白银武、鉴纯夏、御剑冥夜、香月夕呼,2024,Nintendo Switch,aNCHOR,aNCHOR,主机复刻,有,主机版以全年龄内容和重新调整的显示呈现。,https://games.ancr.jp/games/muv-luv-alternative/
+g014,g014-v3,时间少女,タイムギャル,互动动画,激光影碟·动作选择,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,2025,Windows / Steam,太东,TAITO（太东）,高清复刻移植,有,高清复刻版在Steam发行。,https://www.taito.co.jp/mob/topics/36776
+g023,g023-v3,心跳回忆,ときめきメモリアル,Galgame,恋爱模拟,恋爱模拟,藤崎诗织、虹野沙希、馆林见晴,2025,Nintendo Switch,Konami,Konami,复刻,有,《forever with you エモーショナル》加入EVS呼名功能与图像切换。,https://www.konami.com/games/corporate/ja/news/topics/20250508/
+g033,g033-v2,日在校园,School Days,互动动画,全动画·剧情分支,全动画／恋爱剧情,伊藤诚、桂言叶、西园寺世界,2025,Windows,Overflow（STACK）,Overflow（STACK）,高清复刻,有,《School Days REMASTERED》重做现代系统兼容性，保留动画式叙事。,https://0verflow.com/sdrm/
+g037,g037-v1,ToHeart（重制版）,ToHeart,视觉小说,恋爱剧情,校园恋爱／重制,藤田浩之、神岸明里、玛尔琪（Multi）,2025,Nintendo Switch,AQUAPLUS,AQUAPLUS,重制首发,有,1997 年原作的 2025 年重制版，单独列示；平台发行方有别。,https://aquaplus.jp/toheart/en.html
+g037,g037-v2,ToHeart（重制版）,ToHeart,视觉小说,恋爱剧情,校园恋爱／重制,藤田浩之、神岸明里、玛尔琪（Multi）,2025,Windows / Steam,DMM GAMES、Shiravune,DMM GAMES、Shiravune,同步首发,有,3D重制；可切换新旧配音，Steam平台发行方与日版不同。,https://aquaplus.jp/toheart/en.html
+g048,g048-v2,Never 7：无限终点,Never 7 - The End of Infinity,视觉小说,恋爱剧情,恋爱冒险／科幻悬疑,石原诚、川岛优夏、樋口遥,2025,Nintendo Switch,MAGES.,MAGES.,高清复刻,有,2025 年复刻版，保留恋爱冒险主线并更新显示。,https://game.mages.co.jp/infinity/never7/
+g048,g048-v3,Never 7：无限终点,Never 7 - The End of Infinity,视觉小说,恋爱剧情,恋爱冒险／科幻悬疑,石原诚、川岛优夏、樋口遥,2025,PlayStation 4,MAGES.,MAGES.,高清复刻,有,2025 年复刻版，保留恋爱冒险主线并更新显示。,https://game.mages.co.jp/infinity/never7/
+g048,g048-v4,Never 7：无限终点,Never 7 - The End of Infinity,视觉小说,恋爱剧情,恋爱冒险／科幻悬疑,石原诚、川岛优夏、樋口遥,2025,Steam,MAGES.,MAGES.,高清复刻,有,2025 年复刻版，保留恋爱冒险主线并更新显示。,https://game.mages.co.jp/infinity/never7/
+g050,g050-v3,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,剧情分支／冒险,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2025,Nintendo Switch,MAGES.,MAGES.,高清复刻,有,使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。,https://game.mages.co.jp/infinity/ever17/
+g050,g050-v4,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,剧情分支／冒险,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2025,PlayStation 4,MAGES.,MAGES.,高清复刻,有,使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。,https://game.mages.co.jp/infinity/ever17/
+g050,g050-v5,Ever17：无限之外,Ever 17 - The Out of Infinity,视觉小说,剧情分支／冒险,海底设施／科幻悬疑,仓成武、少年、田中优美清春香菜、小町鸫,2025,Steam,MAGES.,MAGES.,高清复刻,有,使用 2011 年版调整过的文本，将 3D 人物恢复为 2D 并更新画面。,https://game.mages.co.jp/infinity/ever17/
+g056,g056-v6,心跳文学部！,Doki Doki Literature Club!,视觉小说,剧情分支／冒险,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2025,Android,Team Salvato / Serenity Forge,Team Salvato、Serenity Forge,移动版,无,免费本篇升级高清；Plus 的支线和画廊作为付费扩展。,https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/
+g056,g056-v7,心跳文学部！,Doki Doki Literature Club!,视觉小说,剧情分支／冒险,心理恐怖／元叙事,Monika、Sayori、Yuri、Natsuki,2025,iOS,Team Salvato / Serenity Forge,Team Salvato、Serenity Forge,移动版,无,免费本篇升级高清；Plus 的支线和画廊作为付费扩展。,https://teamsalvato.com/news/ddlc-is-now-available-on-ios-and-android/
+g084,g084-v3,忍者疾风,忍者ハヤテ,互动动画,激光影碟·动作选择,激光影碟／动画动作选择,疾风（ハヤテ）、被掳走的公主,2025,Steam,TAITO,TAITO（太东）,HD 复刻数字版,未核实,单独发行的 HD 移植；商店与日本公告跨时区日期有一天差异。,https://www.taito.co.jp/mob/topics/36776
