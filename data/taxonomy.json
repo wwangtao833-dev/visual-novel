@@ -1,9 +1,30 @@
 {
   "subcategories": {
-    "文字冒险": ["纯文本指令", "图文指令", "图文选项／调查", "光盘图文冒险"],
-    "视觉小说": ["有声小说", "恋爱剧情", "剧情分支／冒险", "推理解谜融合", "单线视觉小说"],
-    "互动动画": ["激光影碟·动作选择", "激光影碟·射击／驾驶", "全动画·剧情分支"],
-    "Galgame": ["早期成人向互动", "成人向冒险", "美少女探索冒险", "恋爱剧情冒险", "恋爱模拟"]
+    "文字冒险": [
+      "纯文本指令",
+      "图文指令",
+      "图文选项／调查",
+      "光盘图文冒险"
+    ],
+    "视觉小说": [
+      "有声小说",
+      "恋爱剧情",
+      "剧情分支／冒险",
+      "推理解谜融合",
+      "单线视觉小说"
+    ],
+    "互动动画": [
+      "激光影碟·动作选择",
+      "激光影碟·射击／驾驶",
+      "全动画·剧情分支"
+    ],
+    "Galgame": [
+      "早期成人向互动",
+      "成人向冒险",
+      "美少女探索冒险",
+      "恋爱剧情冒险",
+      "恋爱模拟"
+    ]
   },
   "publisherAliases": {
     "エニックス": "Enix（艾尼克斯）",
@@ -14,7 +35,8 @@
     "ハドソンソフト": "Hudson Soft（哈德森）",
     "Sinclair Research Ltd": "Sinclair Research",
     "ASCII（杂志刊载）": "ASCII",
-    "ASCII（LOGIN SOFT）": "ASCII"
+    "ASCII（LOGIN SOFT）": "ASCII",
+    "VisualArts": "VisualArt’s"
   },
   "nonCompanyCredits": [
     "Will Crowther（作者传播）",
@@ -23,15 +45,43 @@
     "Scott Adams（初期自行销售）"
   ],
   "jointCredits": {
-    "Scott Adams／Adventure International": ["Adventure International"],
-    "On-Line Systems／Sierra On-Line": ["On-Line Systems", "Sierra On-Line"],
-    "VisualArt’s / Key": ["VisualArt’s", "Key"],
-    "Leaf / AQUAPLUS": ["Leaf", "AQUAPLUS"],
-    "5pb. / MAGES.": ["5pb.", "MAGES."],
-    "5pb. / Nitroplus": ["5pb.", "Nitroplus"],
-    "Spike Chunsoft / MAGES.": ["Spike Chunsoft", "MAGES."],
-    "Team Salvato / Serenity Forge": ["Team Salvato", "Serenity Forge"],
-    "DMM GAMES、Shiravune": ["DMM GAMES", "Shiravune"],
-    "世嘉（开发：Chunsoft）": ["世嘉"]
+    "Scott Adams／Adventure International": [
+      "Adventure International"
+    ],
+    "On-Line Systems／Sierra On-Line": [
+      "On-Line Systems",
+      "Sierra On-Line"
+    ],
+    "VisualArt’s / Key": [
+      "VisualArt’s",
+      "Key"
+    ],
+    "Leaf / AQUAPLUS": [
+      "Leaf",
+      "AQUAPLUS"
+    ],
+    "5pb. / MAGES.": [
+      "5pb.",
+      "MAGES."
+    ],
+    "5pb. / Nitroplus": [
+      "5pb.",
+      "Nitroplus"
+    ],
+    "Spike Chunsoft / MAGES.": [
+      "Spike Chunsoft",
+      "MAGES."
+    ],
+    "Team Salvato / Serenity Forge": [
+      "Team Salvato",
+      "Serenity Forge"
+    ],
+    "DMM GAMES、Shiravune": [
+      "DMM GAMES",
+      "Shiravune"
+    ],
+    "世嘉（开发：Chunsoft）": [
+      "世嘉"
+    ]
   }
 }

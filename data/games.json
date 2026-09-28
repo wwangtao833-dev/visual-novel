@@ -2301,6 +2301,225 @@
       "notes": "1997 年原作的 2025 年重制版，单独列示；平台发行方有别。",
       "source": "https://aquaplus.jp/toheart/en.html",
       "subcategory": "恋爱剧情"
+    },
+    {
+      "id": "g139",
+      "title": "桃太郎",
+      "originalTitle": "桃太郎（むかしむかしゲームシリーズ）",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "subcategory": "图文指令",
+      "genre": "图文冒险／童话",
+      "characters": [
+        "桃太郎"
+      ],
+      "charactersNote": "",
+      "synopsis": "以桃太郎传说为题材的童话冒险；具体事件顺序尚待核实。",
+      "notes": "最早发行机型与独立移植日期待核实。",
+      "source": "https://fm-7.com/museum/products/9dor4y34/"
+    },
+    {
+      "id": "g140",
+      "title": "浦岛太郎",
+      "originalTitle": "浦島太郎（むかしむかしゲームシリーズ）",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "subcategory": "图文指令",
+      "genre": "图文冒险／童话",
+      "characters": [
+        "浦岛太郎"
+      ],
+      "charactersNote": "",
+      "synopsis": "以浦岛太郎传说为题材的童话冒险；具体事件顺序尚待核实。",
+      "notes": "最早发行机型与独立移植日期待核实。",
+      "source": "https://fm-7.com/museum/products/vdeoigey/"
+    },
+    {
+      "id": "g141",
+      "title": "法老的诅咒",
+      "originalTitle": "ファラオの呪い",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "subcategory": "图文指令",
+      "genre": "图文冒险／奇幻探索",
+      "characters": [
+        "探险者（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "进入突然出现在沙漠中的金字塔，探索内部藏着的宝物。",
+      "notes": "最早发行机型与独立移植日期待核实。",
+      "source": "https://fm-7.com/museum/products/qssw5yp9/"
+    },
+    {
+      "id": "g142",
+      "title": "疯狂屋",
+      "originalTitle": "クレージーハウス",
+      "firstYear": 1983,
+      "category": "文字冒险",
+      "subcategory": "图文指令",
+      "genre": "图文冒险／奇幻探索",
+      "characters": [
+        "探险家（玩家）"
+      ],
+      "charactersNote": "",
+      "synopsis": "为取回宝壶走进偏僻村庄里传闻受到诅咒的房屋。",
+      "notes": "最早发行机型与独立移植日期待核实。",
+      "source": "https://fm-7.com/museum/products/y22rwd0b/"
+    },
+    {
+      "id": "g143",
+      "title": "鬼巌城",
+      "originalTitle": "鬼巌城",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "subcategory": "图文指令",
+      "genre": "图文冒险／奇幻探索",
+      "characters": [
+        "冒险者（玩家）",
+        "阎魔"
+      ],
+      "charactersNote": "",
+      "synopsis": "在地狱中冒险，以击败阎魔并成为统治者为目标。",
+      "notes": "最早发行机型与独立移植日期待核实。",
+      "source": "https://fm-7.com/museum/products/6csi44i0/"
+    },
+    {
+      "id": "g144",
+      "title": "白玫瑰连续杀人事件",
+      "originalTitle": "白バラ連続殺人事件",
+      "firstYear": 1984,
+      "category": "文字冒险",
+      "subcategory": "图文指令",
+      "genre": "图文冒险／推理",
+      "characters": [],
+      "charactersNote": "资料未列明主要角色",
+      "synopsis": "围绕白玫瑰连续杀人案展开调查；人物与详细案情待核实。",
+      "notes": "最早发行机型与独立移植日期待核实。",
+      "source": "https://fm-7.com/museum/products/i0l23t7t/"
+    },
+    {
+      "id": "g145",
+      "title": "Little Busters!",
+      "originalTitle": "リトルバスターズ！",
+      "firstYear": 2007,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱冒险／校园友情",
+      "characters": [
+        "直枝理树",
+        "枣恭介",
+        "枣铃"
+      ],
+      "charactersNote": "",
+      "synopsis": "理树与儿时伙伴组成棒球队，在共同度过的校园生活中面对朋友们各自的故事。",
+      "notes": "",
+      "source": "https://key.visualarts.gr.jp/product/little/site/products.htm"
+    },
+    {
+      "id": "g146",
+      "title": "Rewrite",
+      "originalTitle": "Rewrite",
+      "firstYear": 2011,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园恋爱／神秘冒险",
+      "characters": [
+        "天王寺瑚太朗",
+        "神户小鸟",
+        "千里朱音"
+      ],
+      "charactersNote": "",
+      "synopsis": "风祭市的学生瑚太朗加入超自然研究会，调查身边的怪异事件。",
+      "notes": "",
+      "source": "https://key.visualarts.gr.jp/product_all"
+    },
+    {
+      "id": "g147",
+      "title": "Summer Pockets",
+      "originalTitle": "Summer Pockets",
+      "firstYear": 2018,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱冒险／海岛夏日",
+      "characters": [
+        "鹰原羽依里",
+        "鸣濑白羽"
+      ],
+      "charactersNote": "",
+      "synopsis": "羽依里来到鸟白岛整理祖母遗物，在岛上结识新的朋友并度过一个夏天。",
+      "notes": "",
+      "source": "https://key.visualarts.gr.jp/summer/"
+    },
+    {
+      "id": "g148",
+      "title": "LOOPERS",
+      "originalTitle": "LOOPERS",
+      "firstYear": 2021,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "单线小说／时间循环",
+      "characters": [
+        "平良",
+        "米娅",
+        "西蒙"
+      ],
+      "charactersNote": "",
+      "synopsis": "热衷 GPS 寻宝的平良困在不断重演的一天，与其他循环者寻找出路。",
+      "notes": "",
+      "source": "https://key.visualarts.gr.jp/kinetic/loopers/"
+    },
+    {
+      "id": "g149",
+      "title": "终之星",
+      "originalTitle": "終のステラ",
+      "firstYear": 2022,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "单线小说／末日科幻",
+      "characters": [
+        "裘德·格雷",
+        "菲莉娅"
+      ],
+      "charactersNote": "",
+      "synopsis": "运货人裘德穿越被机器支配的世界，护送一名渴望成为人类的少女型机器人。",
+      "notes": "",
+      "source": "https://key.visualarts.gr.jp/kinetic/stella/"
+    },
+    {
+      "id": "g150",
+      "title": "白色相簿",
+      "originalTitle": "WHITE ALBUM",
+      "firstYear": 1998,
+      "category": "Galgame",
+      "subcategory": "恋爱模拟",
+      "genre": "恋爱模拟／偶像",
+      "characters": [
+        "藤井冬弥",
+        "森川由绮",
+        "绪方理奈"
+      ],
+      "charactersNote": "",
+      "synopsis": "歌手由绮工作渐忙，冬弥在与她渐生距离的日常中遇到偶像理奈。",
+      "notes": "",
+      "source": "https://leaf.aquaplus.jp/product/wa/"
+    },
+    {
+      "id": "g151",
+      "title": "传颂之物",
+      "originalTitle": "うたわれるもの",
+      "firstYear": 2002,
+      "category": "视觉小说",
+      "subcategory": "剧情分支／冒险",
+      "genre": "剧情阅读／战略角色扮演",
+      "characters": [
+        "哈克奥罗",
+        "艾露露",
+        "阿露露"
+      ],
+      "charactersNote": "",
+      "synopsis": "失去记忆的蒙面男子被艾露露救起，协助村民应对逐渐扩大的冲突。",
+      "notes": "阅读剧情与战术战斗并存，按以剧情为中心的交互形式归档。",
+      "source": "https://aquaplus.jp/uta20/"
     }
   ],
   "versions": [
@@ -5714,6 +5933,280 @@
       "publisherCompanies": [
         "TAITO（太东）"
       ]
+    },
+    {
+      "id": "g139-v1",
+      "workId": "g139",
+      "year": 1983,
+      "platform": "FM-8／FM-7",
+      "publisher": "チャンピオンソフト",
+      "publisherCompanies": [
+        "チャンピオンソフト"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "馆藏只确认 FM 系版本年份；兼容机型不拆为单独发行。",
+      "source": "https://fm-7.com/museum/products/9dor4y34/"
+    },
+    {
+      "id": "g140-v1",
+      "workId": "g140",
+      "year": 1983,
+      "platform": "FM-8／FM-7",
+      "publisher": "チャンピオンソフト",
+      "publisherCompanies": [
+        "チャンピオンソフト"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "馆藏只确认 FM 系版本年份；兼容机型不拆为单独发行。",
+      "source": "https://fm-7.com/museum/products/vdeoigey/"
+    },
+    {
+      "id": "g141-v1",
+      "workId": "g141",
+      "year": 1983,
+      "platform": "FM-8／FM-7",
+      "publisher": "チャンピオンソフト",
+      "publisherCompanies": [
+        "チャンピオンソフト"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "馆藏只确认 FM 系版本年份；兼容机型不拆为单独发行。",
+      "source": "https://fm-7.com/museum/products/qssw5yp9/"
+    },
+    {
+      "id": "g142-v1",
+      "workId": "g142",
+      "year": 1983,
+      "platform": "FM-8／FM-7",
+      "publisher": "チャンピオンソフト",
+      "publisherCompanies": [
+        "チャンピオンソフト"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "馆藏只确认 FM 系版本年份；兼容机型不拆为单独发行。",
+      "source": "https://fm-7.com/museum/products/y22rwd0b/"
+    },
+    {
+      "id": "g143-v1",
+      "workId": "g143",
+      "year": 1984,
+      "platform": "FM-8／FM-7",
+      "publisher": "チャンピオンソフト",
+      "publisherCompanies": [
+        "チャンピオンソフト"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "馆藏只确认 FM 系版本年份；兼容机型不拆为单独发行。",
+      "source": "https://fm-7.com/museum/products/6csi44i0/"
+    },
+    {
+      "id": "g144-v1",
+      "workId": "g144",
+      "year": 1984,
+      "platform": "FM-8／FM-7",
+      "publisher": "リバーヒルソフト",
+      "publisherCompanies": [
+        "リバーヒルソフト"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "馆藏只确认 FM 系版本年份；兼容机型不拆为单独发行。",
+      "source": "https://fm-7.com/museum/products/i0l23t7t/"
+    },
+    {
+      "id": "g145-v1",
+      "workId": "g145",
+      "year": 2007,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "2007 年初回版；官方产品表明确记载角色音声。",
+      "source": "https://key.visualarts.gr.jp/product/little/site/products.htm"
+    },
+    {
+      "id": "g145-v2",
+      "workId": "g145",
+      "year": 2012,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "PERFECT EDITION",
+      "voice": "有",
+      "differences": "以 EX 为基础的全年龄扩充版，加入 PSP／Vita 移植时的新增内容。",
+      "source": "https://key.visualarts.gr.jp/product/little/"
+    },
+    {
+      "id": "g146-v1",
+      "workId": "g146",
+      "year": 2011,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "官方目录记载 2011 年 6 月 24 日首发；角色音声有官方录制记录。",
+      "source": "https://key.visualarts.gr.jp/product_all"
+    },
+    {
+      "id": "g146-v2",
+      "workId": "g146",
+      "year": 2016,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "Rewrite＋",
+      "voice": "有",
+      "differences": "原作加笔修订、增加演出，并同捆另行发行的 Harvest festa!。",
+      "source": "https://key.visualarts.gr.jp/rewrite/"
+    },
+    {
+      "id": "g147-v1",
+      "workId": "g147",
+      "year": 2018,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "官方目录记载初回版 2018 年 6 月 29 日；角色页面列出配音。",
+      "source": "https://key.visualarts.gr.jp/summer/"
+    },
+    {
+      "id": "g147-v2",
+      "workId": "g147",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "REFLECTION BLUE",
+      "voice": "有",
+      "differences": "扩充角色故事的 REFLECTION BLUE 版；与 2018 年原版分列。",
+      "source": "https://key.visualarts.gr.jp/summer_rb/"
+    },
+    {
+      "id": "g148-v1",
+      "workId": "g148",
+      "year": 2021,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "官方公布 2021 年 5 月 28 日首发，并列有角色配音。",
+      "source": "https://key.visualarts.gr.jp/kinetic/loopers/"
+    },
+    {
+      "id": "g148-v2",
+      "workId": "g148",
+      "year": 2022,
+      "platform": "Nintendo Switch",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "主机移植",
+      "voice": "有",
+      "differences": "官方于 2022 年 6 月 2 日公告 Switch 版上市。",
+      "source": "https://www.prot.co.jp/switch/loopers/spec.html"
+    },
+    {
+      "id": "g148-v3",
+      "workId": "g148",
+      "year": 2023,
+      "platform": "PlayStation 4",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "主机移植",
+      "voice": "有",
+      "differences": "官方于 2023 年 2 月 16 日公告 PS4 版上市。",
+      "source": "https://www.prot.co.jp/ps4/loopers/spec.html"
+    },
+    {
+      "id": "g148-v4",
+      "workId": "g148",
+      "year": 2023,
+      "platform": "Steam",
+      "publisher": "VisualArts",
+      "publisherCompanies": [
+        "VisualArt’s"
+      ],
+      "kind": "数字版",
+      "voice": "有",
+      "differences": "官方于 2023 年 6 月 27 日公告 Steam 版上市。",
+      "source": "https://store.steampowered.com/app/1811500/LOOPERS/"
+    },
+    {
+      "id": "g149-v1",
+      "workId": "g149",
+      "year": 2022,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "官方目录记载 2022 年 9 月 30 日，角色页面标有声优。",
+      "source": "https://key.visualarts.gr.jp/kinetic/stella/"
+    },
+    {
+      "id": "g150-v1",
+      "workId": "g150",
+      "year": 1998,
+      "platform": "Windows",
+      "publisher": "Leaf",
+      "publisherCompanies": [
+        "Leaf"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "Leaf 官方产品页记载 1998 年 5 月 1 日；早期版本配音待核实。",
+      "source": "https://leaf.aquaplus.jp/product/wa/"
+    },
+    {
+      "id": "g151-v1",
+      "workId": "g151",
+      "year": 2002,
+      "platform": "Windows",
+      "publisher": "Leaf",
+      "publisherCompanies": [
+        "Leaf"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "AQUAPLUS 二十周年资料确定首作在 2002 年 4 月 26 日推出；原版角色配音待核实。",
+      "source": "https://aquaplus.jp/uta20/"
     }
   ]
 }

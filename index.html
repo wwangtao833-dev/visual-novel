@@ -7,7 +7,7 @@
   <meta name="description" content="按游戏细分类、发行厂商和平台版本检索文字冒险、视觉小说、互动动画与Galgame的年份、角色和剧情。">
   <title>叙事游戏年鉴 · 平台版本数据库</title>
   <link rel="stylesheet" href="styles.css">
-  <script type="module" src="app.mjs?v=20260928-1"></script>
+  <script type="module" src="app.mjs?v=20260928-2"></script>
 </head>
 <body>
   <div class="app-shell">
@@ -54,14 +54,14 @@
           <button id="clear" type="button">清除筛选</button>
         </div>
         <div class="company-quick" aria-label="常见发行厂商"><span>按厂商浏览</span><div id="company-quick-list"></div></div>
-        <div class="catalogue-toolbar"><p>厂商按发行版本归档；选择厂商后只显示该厂商参与发行的版本。展开作品可查看原始发行署名。</p><label>排序 <select id="sort"><option value="oldest">首发：从早到晚</option><option value="newest">首发：从近到远</option><option value="title">名称：拼音 / 字母</option></select></label></div>
+        <div class="catalogue-toolbar"><p>厂商数字按不同游戏计数；选择厂商后显示其实际参与发行的平台版本。展开作品可查看原始发行署名。</p><label>排序 <select id="sort"><option value="oldest">首发：从早到晚</option><option value="newest">首发：从近到远</option><option value="title">名称：拼音 / 字母</option></select></label></div>
         <div class="cards" id="cards"></div>
         <div id="empty" class="empty" hidden><strong>没有符合条件的记录</strong><span>可以缩小年份范围之外的筛选条件，或尝试其他名称。</span></div>
       </section>
 
       <section class="method" id="method">
         <p class="eyebrow">ABOUT THIS DATABASE</p><h2>这份目录如何记录版本？</h2>
-        <div class="method-grid"><article><span>01 / 作品</span><h3>主分类下还有细分类</h3><p>按主要玩法或呈现方式为每部作品标一项细分类，并保留原有类型和剧情。Galgame 与视觉小说可能交叉，主分类仍是检索入口。</p></article><article><span>02 / 厂商与版本</span><h3>一家厂商，对应实际发行版本</h3><p>同一作品可以由不同厂商移植或再版。厂商索引统一常见中日文写法；联名发行可归入多个厂商，版本详情保留原始署名。</p></article><article><span>03 / 证据</span><h3>来源随记录保留</h3><p>每部作品和每个版本附核查链接。作者传播且没有商业发行方的早期版本单列“非商业／未署商业厂商”。</p></article></div>
+        <div class="method-grid"><article><span>01 / 作品</span><h3>主分类下还有细分类</h3><p>按主要玩法或呈现方式为每部作品标一项细分类，并保留原有类型和剧情。Galgame 与视觉小说可能交叉，主分类仍是检索入口。</p></article><article><span>02 / 厂商与版本</span><h3>一家厂商，对应不同游戏数</h3><p>同一作品即使在多个平台发行，每家厂商只计一次；联名发行可分别计入参与厂商。筛选后仍可查看各平台版本与原始署名。</p></article><article><span>03 / 证据</span><h3>来源随记录保留</h3><p>每部作品和每个版本附核查链接。作者传播且没有商业发行方的早期版本单列“非商业／未署商业厂商”。</p></article></div>
         <p class="scope-note">此处为经核查的代表作品样本，<strong>不是各年份的完整目录</strong>。早期作品有时只能确认机种系列，无法列出每个同期移植版。资料更新至 2026-09-28。</p>
       </section>
     </main>

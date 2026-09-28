@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import test from 'node:test';
-import {filterCatalogue} from '../filter.mjs';
+import {filterCatalogue,publisherWorkCounts} from '../filter.mjs';
 
 const data=JSON.parse(readFileSync(new URL('../data/games.json',import.meta.url),'utf8'));
 
@@ -121,4 +121,13 @@ test('joint publisher filtering keeps only credited versions of each work',()=>{
   assert.ok(matches.every(({versions})=>versions.every(v=>v.publisherCompanies.includes('AQUAPLUS'))));
   const original=filterCatalogue(data,{query:'Colossal Cave Adventure',company:'__unattributed__',from:1976,to:1977});
   assert.deepEqual(original[0].versions.map(v=>v.year),[1976,1977]);
+});
+
+test('publisher index counts unique games across platforms and credits the actual port publisher',()=>{
+  const counts=publisherWorkCounts(data);
+  assert.equal(counts.get('Key'),filterCatalogue(data,{company:'Key'}).length);
+  assert.ok(data.versions.filter(v=>v.workId==='g148').length>1);
+  assert.equal(counts.get('PROTOTYPE'),filterCatalogue(data,{company:'PROTOTYPE'}).length);
+  assert.ok(counts.get('PROTOTYPE')>=1);
+  assert.equal(counts.get('__unattributed__'),filterCatalogue(data,{company:'__unattributed__'}).length);
 });

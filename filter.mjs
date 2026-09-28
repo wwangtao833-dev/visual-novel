@@ -1,5 +1,17 @@
 export const normalize = (value) => String(value ?? '').normalize('NFKC').toLocaleLowerCase().replace(/\s+/g, '');
 
+export function publisherWorkCounts(data) {
+  const counts=new Map();
+  for(const version of data.versions) {
+    const companies=version.publisherCompanies?.length ? version.publisherCompanies : ['__unattributed__'];
+    for(const company of companies) {
+      if(!counts.has(company)) counts.set(company,new Set());
+      counts.get(company).add(version.workId);
+    }
+  }
+  return new Map([...counts].map(([company,workIds])=>[company,workIds.size]));
+}
+
 export function filterCatalogue(data, filters={}) {
   const query=normalize(filters.query);
   const versionByWork=new Map(data.works.map(work=>[work.id, []]));

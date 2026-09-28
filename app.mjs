@@ -1,4 +1,4 @@
-import {filterCatalogue} from './filter.mjs';
+import {filterCatalogue,publisherWorkCounts} from './filter.mjs';
 
 const $=id=>document.getElementById(id);
 const fields={query:$('search'),category:$('category'),subcategory:$('subcategory'),company:$('company-select'),platform:$('platform'),from:$('from'),to:$('to'),voice:$('voice'),sort:$('sort')};
@@ -40,7 +40,7 @@ function readFilters(){return Object.fromEntries(Object.entries(fields).map(([ke
 
 async function main(){
   try {
-    const [response,taxonomyResponse]=await Promise.all([fetch('./data/games.json?v=20260928-1'),fetch('./data/taxonomy.json?v=20260928-1')]);
+    const [response,taxonomyResponse]=await Promise.all([fetch('./data/games.json?v=20260928-2'),fetch('./data/taxonomy.json?v=20260928-2')]);
     if(!response.ok||!taxonomyResponse.ok)throw Error('HTTP '+(response.ok?taxonomyResponse.status:response.status));
     const [data,taxonomy]=await Promise.all([response.json(),taxonomyResponse.json()]);
     $('stat-works').textContent=data.works.length;
@@ -48,16 +48,14 @@ async function main(){
     const years=data.versions.map(v=>v.year);$('stat-years').textContent=Math.min(...years)+'—'+Math.max(...years);
     const platforms=[...new Set(data.versions.map(v=>v.platform.trim()))].sort((a,b)=>a.localeCompare(b,'zh'));
     for(const p of platforms){const option=label('option','',p);option.value=p;fields.platform.append(option)}
-    const companyCounts=new Map();
-    for(const version of data.versions){
-      for(const company of version.publisherCompanies||[]){companyCounts.set(company,(companyCounts.get(company)||0)+1)}
-    }
+    const companyCounts=publisherWorkCounts(data);
+    const unattributed=companyCounts.get('__unattributed__')||0;
+    companyCounts.delete('__unattributed__');
     const orderedCompanies=[...companyCounts].sort((a,b)=>b[1]-a[1]||a[0].localeCompare(b[0],'zh'));
     for(const [company,count] of orderedCompanies){
-      const option=label('option','',`${company} · ${count} 个版本`);option.value=company;fields.company.append(option);
+      const option=label('option','',`${company} · ${count} 部游戏`);option.value=company;fields.company.append(option);
     }
-    const unattributed=data.versions.filter(v=>!v.publisherCompanies?.length).length;
-    if(unattributed){const option=label('option','',`非商业／未署商业厂商 · ${unattributed} 个版本`);option.value='__unattributed__';fields.company.append(option)}
+    if(unattributed){const option=label('option','',`非商业／未署商业厂商 · ${unattributed} 部游戏`);option.value='__unattributed__';fields.company.append(option)}
     const fillSubcategories=()=>{
       const previous=fields.subcategory.value;
       const allOption=label('option','','全部细分类');allOption.value='';
@@ -82,8 +80,8 @@ async function main(){
         button.setAttribute('aria-pressed',String(button.value===fields.company.value));
       }
     };
-    for(const [name,count] of [['',data.versions.length],...orderedCompanies.slice(0,8)]){
-      const button=label('button','',name?`${name} · ${count}`:'全部厂商');
+    for(const [name,count] of [['',data.works.length],...orderedCompanies.slice(0,8)]){
+      const button=label('button','',name?`${name} · ${count} 部游戏`:`全部厂商 · ${count} 部游戏`);
       button.type='button';button.value=name;
       button.addEventListener('click',()=>{fields.company.value=name;render()});
       $('company-quick-list').append(button);
