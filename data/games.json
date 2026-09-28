@@ -2733,6 +2733,202 @@
       "synopsis": "事故后郁纪的感官世界扭曲，只有神秘少女沙耶看起来依旧正常；两人的相遇改变了周围的人。",
       "notes": "原版属于成人向恐怖作品；角色配音有厂商公开声优名单。",
       "source": "https://www.nitroplus.co.jp/game/06-song-of-saya/saya.php"
+    },
+    {
+      "id": "g164",
+      "title": "库特之后",
+      "originalTitle": "クドわふたー",
+      "firstYear": 2010,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园恋爱／后日谈",
+      "characters": [
+        "直枝理树",
+        "能美库特莉亚芙卡"
+      ],
+      "charactersNote": "",
+      "synopsis": "以《Little Busters!》角色库特为中心，描写理树与她在宿舍生活中的暑假故事。",
+      "notes": "2010 年首发是成人版；2013 年另有全年龄 PC 版，不将后版限制倒填至原版。",
+      "source": "https://key.visualarts.gr.jp/kudo/ex/spec.html"
+    },
+    {
+      "id": "g165",
+      "title": "Rewrite Harvest festa!",
+      "originalTitle": "Rewrite Harvest festa!",
+      "firstYear": 2012,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "青春奇幻／番外篇",
+      "characters": [
+        "天王寺瑚太朗",
+        "神户小鸟",
+        "千里朱音"
+      ],
+      "charactersNote": "",
+      "synopsis": "回到《Rewrite》的风祭市，与瑚太朗和同伴们经历不同路线的后续与番外故事。",
+      "notes": "官方将其称为《Rewrite》的粉丝盘；单独发行，因此列为独立作品。",
+      "source": "https://key.visualarts.gr.jp/rewrite/"
+    },
+    {
+      "id": "g166",
+      "title": "同人志派对",
+      "originalTitle": "こみっくパーティー",
+      "firstYear": 1999,
+      "category": "Galgame",
+      "subcategory": "恋爱模拟",
+      "genre": "同人创作／恋爱模拟",
+      "characters": [
+        "千堂和树",
+        "高濑瑞希",
+        "九品佛大志"
+      ],
+      "charactersNote": "",
+      "synopsis": "千堂和树受朋友鼓励投身同人志创作，在截稿与即卖会之间安排时间，也与结识的女孩发展关系。",
+      "notes": "PC 首发为 Leaf 成人版；2001 年 Dreamcast 版新增剧情与画面并提供角色全配音。",
+      "source": "https://aquaplus.jp/cp/introduction.html"
+    },
+    {
+      "id": "g167",
+      "title": "秋之回忆：从今以后",
+      "originalTitle": "メモリーズオフ ～それから～",
+      "firstYear": 2004,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园恋爱／分手悬念",
+      "characters": [
+        "鹭泽一蹴",
+        "陵祈",
+        "藤原雅"
+      ],
+      "charactersNote": "",
+      "synopsis": "情人节当天，鹭泽一蹴突然被恋人陵祈提出分手；他寻找原因，也面对新的感情选择。",
+      "notes": "系列第四部；首发平台日期由实体 PS2 版本记录与系列官方年表核对。",
+      "source": "https://memoriesoff.jp/historia/titles/4/"
+    },
+    {
+      "id": "g168",
+      "title": "秋之回忆 #5：中断的胶片",
+      "originalTitle": "メモリーズオフ#5 とぎれたフィルム",
+      "firstYear": 2005,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "大学生活／电影创作",
+      "characters": [
+        "河合春人",
+        "仙堂麻寻",
+        "日名明日香"
+      ],
+      "charactersNote": "",
+      "synopsis": "大学生河合春人与朋友们一起拍摄电影；仙堂麻寻的出现改变了小型电影社团的人际关系。",
+      "notes": "系列第五部；PS2 首发日期按实体普通版及官方系列年表核对。",
+      "source": "https://memoriesoff.jp/historia/titles/5/"
+    },
+    {
+      "id": "g169",
+      "title": "装甲恶鬼村正",
+      "originalTitle": "装甲悪鬼村正",
+      "firstYear": 2009,
+      "category": "视觉小说",
+      "subcategory": "剧情分支／冒险",
+      "genre": "架空历史／暗黑武侠",
+      "characters": [
+        "凑斗景明",
+        "村正"
+      ],
+      "charactersNote": "",
+      "synopsis": "穿着名为村正的铠甲的凑斗景明追击杀人者与暴虐军人，却不得不承担这副铠甲的残酷代价。",
+      "notes": "原版为成人向作品；配音状态据 Nitroplus 原版规格记录。",
+      "source": "https://www.nitroplus.co.jp/game/18-muramasa/"
+    },
+    {
+      "id": "g170",
+      "title": "极限脱出ADV：善人死亡",
+      "originalTitle": "極限脱出ADV 善人シボウデス",
+      "firstYear": 2012,
+      "category": "视觉小说",
+      "subcategory": "推理解谜融合",
+      "genre": "密室逃脱／信任博弈",
+      "characters": [
+        "西格玛",
+        "菲",
+        "露娜"
+      ],
+      "charactersNote": "",
+      "synopsis": "西格玛与另外八名陌生人被关入封闭设施，必须在逃脱谜题和背叛或合作的投票中求生。",
+      "notes": "原版明确署名 CHUNSOFT，虽然原官网后来收归 Spike Chunsoft 域名。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/zendesu/mb/products/index.html"
+    },
+    {
+      "id": "g171",
+      "title": "极限脱出：零时困境",
+      "originalTitle": "ZERO ESCAPE 刻のジレンマ",
+      "firstYear": 2016,
+      "category": "视觉小说",
+      "subcategory": "推理解谜融合",
+      "genre": "多视角／密室逃脱",
+      "characters": [
+        "卡洛斯",
+        "茜",
+        "淳平"
+      ],
+      "charactersNote": "",
+      "synopsis": "九人在封闭设施中分成三组，轮流面临生死抉择与逃脱谜题，拼合事件全貌。",
+      "notes": "官方分别标注 2016 年 Vita／3DS／Steam 与 2017 年 PS4 日本版本。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/spec/"
+    },
+    {
+      "id": "g172",
+      "title": "逆转裁判 2",
+      "originalTitle": "逆転裁判２",
+      "firstYear": 2002,
+      "category": "文字冒险",
+      "subcategory": "图文选项／调查",
+      "genre": "法庭推理／调查与举证",
+      "characters": [
+        "成步堂龙一",
+        "绫里真宵",
+        "狩魔冥"
+      ],
+      "charactersNote": "",
+      "synopsis": "辩护律师成步堂龙一调查案件、收集证据，在法庭上指出证言矛盾；新增“心理锁”机制。",
+      "notes": "按游戏中调查、选项与法庭举证分类，非自由输入的图文指令玩法。",
+      "source": "https://www.nintendo.co.jp/n08/before/02_1011.html"
+    },
+    {
+      "id": "g173",
+      "title": "逆转裁判 3",
+      "originalTitle": "逆転裁判３",
+      "firstYear": 2004,
+      "category": "文字冒险",
+      "subcategory": "图文选项／调查",
+      "genre": "法庭推理／跨时间线叙事",
+      "characters": [
+        "成步堂龙一",
+        "绫里千寻",
+        "戈德"
+      ],
+      "charactersNote": "",
+      "synopsis": "从成步堂和年轻时的千寻两个视角追查彼此关联的案件，最终连接过去与现在的真相。",
+      "notes": "原 GBA 与后来的 DS 版本分列，避免将 DS 触屏操作写作 2004 年原版特性。",
+      "source": "https://www.nintendo.co.jp/n08/before/0312_0401.html"
+    },
+    {
+      "id": "g174",
+      "title": "海猫鸣泣之时",
+      "originalTitle": "うみねこのなく頃に",
+      "firstYear": 2007,
+      "category": "视觉小说",
+      "subcategory": "有声小说",
+      "genre": "孤岛推理／魔女谜题",
+      "characters": [
+        "右代宫战人",
+        "贝阿朵莉切",
+        "右代宫真里亚"
+      ],
+      "charactersNote": "",
+      "synopsis": "右代宫家族齐聚六轩岛，继承与黄金传说引发连续命案；战人尝试用推理挑战魔女说法。",
+      "notes": "首发年份指 2007 年原作的 Episode 1；随后篇章与合集未视作首发同时收录。",
+      "source": "https://07th-expansion.net/umi_saku/"
     }
   ],
   "versions": [
@@ -6718,6 +6914,289 @@
       "voice": "有",
       "differences": "官方记载 2003 年 12 月 26 日，并列出郁纪与沙耶等角色配音。",
       "source": "https://www.nitroplus.co.jp/game/06-song-of-saya/saya.php"
+    },
+    {
+      "id": "g164-v1",
+      "workId": "g164",
+      "year": 2010,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "首发成人版",
+      "voice": "未核实",
+      "differences": "Key 官方产品信息记载 2010 年 6 月 25 日、Windows、18 岁以下不可购买。",
+      "source": "https://key.visualarts.gr.jp/kudo/ex/spec.html"
+    },
+    {
+      "id": "g164-v2",
+      "workId": "g164",
+      "year": 2013,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "全年龄版",
+      "voice": "未核实",
+      "differences": "Key 官方公告 2013 年 6 月 28 日推出 PC 全年龄版。",
+      "source": "https://key.visualarts.gr.jp/kudo/"
+    },
+    {
+      "id": "g165-v1",
+      "workId": "g165",
+      "year": 2012,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "首发粉丝盘",
+      "voice": "未核实",
+      "differences": "Key 公告 2012 年 7 月 27 日推出《Rewrite Harvest festa!》。",
+      "source": "https://key.visualarts.gr.jp/info/2012/02/rewrite_harvest_festa.html"
+    },
+    {
+      "id": "g166-v1",
+      "workId": "g166",
+      "year": 1999,
+      "platform": "Windows",
+      "publisher": "Leaf",
+      "publisherCompanies": [
+        "Leaf"
+      ],
+      "kind": "首发成人版",
+      "voice": "未核实",
+      "differences": "原版实体游戏目录记载 1999 年 5 月 28 日，厂商 Leaf，型号 WIC6420。",
+      "source": "https://www.suruga-ya.jp/product/detail/145002307"
+    },
+    {
+      "id": "g166-v2",
+      "workId": "g166",
+      "year": 2001,
+      "platform": "Dreamcast",
+      "publisher": "AQUAPLUS",
+      "publisherCompanies": [
+        "AQUAPLUS"
+      ],
+      "kind": "主机扩充版",
+      "voice": "有",
+      "differences": "AQUAPLUS 官方记载 2001 年 8 月 9 日；增加原 PC 版没有的剧情与画面，台词全配音。",
+      "source": "https://aquaplus.jp/cp/product.html"
+    },
+    {
+      "id": "g167-v1",
+      "workId": "g167",
+      "year": 2004,
+      "platform": "PlayStation 2",
+      "publisher": "KID",
+      "publisherCompanies": [
+        "KID"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "实体普通版记载 2004 年 6 月 24 日、KID、型号 SLPM-65610。",
+      "source": "https://www.suruga-ya.jp/product/detail/144001946"
+    },
+    {
+      "id": "g168-v1",
+      "workId": "g168",
+      "year": 2005,
+      "platform": "PlayStation 2",
+      "publisher": "KID",
+      "publisherCompanies": [
+        "KID"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "实体普通版记载 2005 年 10 月 27 日、KID、型号 SLPM-66147。",
+      "source": "https://www.suruga-ya.jp/kaitori/kaitori_detail/144003118"
+    },
+    {
+      "id": "g169-v1",
+      "workId": "g169",
+      "year": 2009,
+      "platform": "Windows",
+      "publisher": "Nitroplus",
+      "publisherCompanies": [
+        "Nitroplus"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "Nitroplus 官方记载 2009 年 10 月 30 日及“フルボイス”。",
+      "source": "https://www.nitroplus.co.jp/game/18-muramasa/"
+    },
+    {
+      "id": "g170-v1",
+      "workId": "g170",
+      "year": 2012,
+      "platform": "Nintendo 3DS",
+      "publisher": "CHUNSOFT",
+      "publisherCompanies": [
+        "CHUNSOFT"
+      ],
+      "kind": "同期首发",
+      "voice": "有",
+      "differences": "官方原版商品信息记载 2012 年 2 月 16 日、发行／开发 CHUNSOFT，小说段落全配音。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/zendesu/mb/products/index.html"
+    },
+    {
+      "id": "g170-v2",
+      "workId": "g170",
+      "year": 2012,
+      "platform": "PS Vita",
+      "publisher": "CHUNSOFT",
+      "publisherCompanies": [
+        "CHUNSOFT"
+      ],
+      "kind": "同期首发",
+      "voice": "有",
+      "differences": "官方原版商品信息记载 2012 年 2 月 16 日、发行／开发 CHUNSOFT，小说段落全配音。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/zendesu/mb/products/index.html"
+    },
+    {
+      "id": "g171-v1",
+      "workId": "g171",
+      "year": 2016,
+      "platform": "PS Vita",
+      "publisher": "Spike Chunsoft",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ],
+      "kind": "同期首发",
+      "voice": "未核实",
+      "differences": "官方版本表：Vita／3DS／Steam 2016 年 6 月 30 日；PS4 2017 年 8 月 17 日。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/spec/"
+    },
+    {
+      "id": "g171-v2",
+      "workId": "g171",
+      "year": 2016,
+      "platform": "Nintendo 3DS",
+      "publisher": "Spike Chunsoft",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ],
+      "kind": "同期首发",
+      "voice": "未核实",
+      "differences": "官方版本表：Vita／3DS／Steam 2016 年 6 月 30 日；PS4 2017 年 8 月 17 日。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/spec/"
+    },
+    {
+      "id": "g171-v3",
+      "workId": "g171",
+      "year": 2016,
+      "platform": "Steam",
+      "publisher": "Spike Chunsoft",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ],
+      "kind": "PC 发行",
+      "voice": "未核实",
+      "differences": "官方版本表：Vita／3DS／Steam 2016 年 6 月 30 日；PS4 2017 年 8 月 17 日。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/spec/"
+    },
+    {
+      "id": "g171-v4",
+      "workId": "g171",
+      "year": 2017,
+      "platform": "PlayStation 4",
+      "publisher": "Spike Chunsoft",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ],
+      "kind": "主机移植",
+      "voice": "未核实",
+      "differences": "官方版本表：Vita／3DS／Steam 2016 年 6 月 30 日；PS4 2017 年 8 月 17 日。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/zeroescape/spec/"
+    },
+    {
+      "id": "g172-v1",
+      "workId": "g172",
+      "year": 2002,
+      "platform": "Game Boy Advance",
+      "publisher": "Capcom",
+      "publisherCompanies": [
+        "Capcom"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "任天堂 GBA 发行表记载 2002 年 10 月 18 日及厂商 Capcom。",
+      "source": "https://www.nintendo.co.jp/n08/before/02_1011.html"
+    },
+    {
+      "id": "g172-v2",
+      "workId": "g172",
+      "year": 2006,
+      "platform": "Nintendo DS",
+      "publisher": "Capcom",
+      "publisherCompanies": [
+        "Capcom"
+      ],
+      "kind": "Best Price! 移植",
+      "voice": "未核实",
+      "differences": "2006 年 10 月 26 日版本增加触屏／麦克风操作并附英语版本。",
+      "source": "https://www.nintendo.co.jp/ds/software/a2gj/index.html"
+    },
+    {
+      "id": "g173-v1",
+      "workId": "g173",
+      "year": 2004,
+      "platform": "Game Boy Advance",
+      "publisher": "Capcom",
+      "publisherCompanies": [
+        "Capcom"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "任天堂 GBA 发行表记载 2004 年 1 月 23 日及厂商 Capcom。",
+      "source": "https://www.nintendo.co.jp/n08/before/0312_0401.html"
+    },
+    {
+      "id": "g173-v2",
+      "workId": "g173",
+      "year": 2007,
+      "platform": "Nintendo DS",
+      "publisher": "Capcom",
+      "publisherCompanies": [
+        "Capcom"
+      ],
+      "kind": "Best Price! 移植",
+      "voice": "未核实",
+      "differences": "2007 年 8 月 23 日移植版加入触屏／麦克风操作及英语版本。",
+      "source": "https://www.nintendo.co.jp/ds/software/yg3j/index.html"
+    },
+    {
+      "id": "g174-v1",
+      "workId": "g174",
+      "year": 2007,
+      "platform": "Windows",
+      "publisher": "07th Expansion",
+      "publisherCompanies": [
+        "07th Expansion"
+      ],
+      "kind": "Episode 1 同人首发",
+      "voice": "未核实",
+      "differences": "07th Expansion 官方回顾确认 2007 年推出原作有声小说；此处仅标原版第一篇。",
+      "source": "https://07th-expansion.net/umi_saku/"
+    },
+    {
+      "id": "g150-v2",
+      "workId": "g150",
+      "year": 2010,
+      "platform": "PlayStation 3",
+      "publisher": "AQUAPLUS",
+      "publisherCompanies": [
+        "AQUAPLUS"
+      ],
+      "kind": "全新演出重制版",
+      "voice": "有",
+      "differences": "AQUAPLUS 官方产品表记载 2010 年 6 月 24 日的 PS3 初版；新角色声优示例见官方页面。",
+      "source": "https://aquaplus.jp/wa/product.html"
     }
   ]
 }

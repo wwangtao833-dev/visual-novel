@@ -131,3 +131,12 @@ test('publisher index counts unique games across platforms and credits the actua
   assert.ok(counts.get('PROTOTYPE')>=1);
   assert.equal(counts.get('__unattributed__'),filterCatalogue(data,{company:'__unattributed__'}).length);
 });
+
+test('publisher history keeps Chunsoft distinct and counts platform releases as one game',()=>{
+  const historical=filterCatalogue(data,{query:'善人シボウデス',company:'CHUNSOFT'});
+  assert.equal(historical.length,1);
+  assert.deepEqual(historical[0].versions.map(v=>v.platform),['Nintendo 3DS','PS Vita']);
+  assert.equal(filterCatalogue(data,{query:'善人シボウデス',company:'Spike Chunsoft'}).length,0);
+  const counts=publisherWorkCounts(data);
+  assert.equal(counts.get('CHUNSOFT'),filterCatalogue(data,{company:'CHUNSOFT'}).length);
+});
