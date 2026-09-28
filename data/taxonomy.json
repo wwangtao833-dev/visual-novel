@@ -41,7 +41,8 @@
     "CAPCOM": "Capcom",
     "CHUNSOFT": "Chunsoft",
     "VISUAL ARTS": "VisualArt’s",
-    "VisualArt’s（ビジュアルアーツ★Motto）": "VisualArt’s"
+    "VisualArt’s（ビジュアルアーツ★Motto）": "VisualArt’s",
+    "Novectacle": "NOVECT"
   },
   "nonCompanyCredits": [
     "Will Crowther（作者传播）",
@@ -87,6 +88,10 @@
     ],
     "世嘉（开发：Chunsoft）": [
       "世嘉"
+    ],
+    "MangaGamer / WhisperGames": [
+      "MangaGamer",
+      "WhisperGames"
     ]
   }
 }

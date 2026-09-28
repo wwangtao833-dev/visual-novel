@@ -2,7 +2,7 @@
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
     "updated": "2026-09-28",
-    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。",
+    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题已核对官方四作合集，独立叙事作品分别登记，合集计入版本；格斗动作小游戏等跨类型项目仅列核对说明。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
   "works": [
@@ -3209,6 +3209,80 @@
       "synopsis": "由本篇编剧撰写的外传，以不同人物为中心补充相识前的经历与结局后的生活。后来的 PSP 和 Switch 版将十六篇故事与插图、语音结合。",
       "notes": "游戏化最早核对至 2008 年手机连载；纸质短篇与广播剧不计游戏版本。Key 相关外传，版本发行方包括 VisualArt’s、PROTOTYPE 和 Sekai Project。",
       "source": "https://www.prot.co.jp/switch/clannadss/introduction.html"
+    },
+    {
+      "id": "g191",
+      "title": "雾上的伊拉斯谟",
+      "originalTitle": "霧上のエラスムス -The Erasmus two-faced stories-",
+      "firstYear": 2011,
+      "category": "视觉小说",
+      "subcategory": "推理解谜融合",
+      "genre": "密室悬疑／群像／平行世界",
+      "characters": [
+        "梅尔·罗兹",
+        "奈莉·罗兹",
+        "米歇尔·博林杰",
+        "白发少女"
+      ],
+      "charactersNote": "",
+      "synopsis": "六位旧友参加以“雾之魔女”名义召集的聚会，途中遭袭后在陌生洋馆醒来，记忆也变得残缺。众人试图厘清彼此身份和被隐瞒的往事；主篇与背面故事从不同角度重看同一谜局。",
+      "notes": "最早为 2011 年作品；主篇原先免费、背面故事另售，2014 年两篇合并免费公开。使用《海市蜃楼之馆》人物的不同世界观，并非本篇前传。",
+      "source": "https://novect.net/erasmus.html"
+    },
+    {
+      "id": "g192",
+      "title": "海市蜃楼之馆",
+      "originalTitle": "ファタモルガーナの館 / The House in Fata Morgana",
+      "firstYear": 2012,
+      "category": "视觉小说",
+      "subcategory": "剧情分支／冒险",
+      "genre": "哥特悬疑／悲剧／多结局",
+      "characters": [
+        "米歇尔·博林杰",
+        "吉赛尔",
+        "摩尔甘娜",
+        "白发少女"
+      ],
+      "charactersNote": "",
+      "synopsis": "失忆者在古老洋馆中由女仆引领，逐扇门目睹不同年代居民的悲剧。随着白发少女反复出现在叙事中，玩家逐渐追寻馆的诅咒以及自己与这些记忆的关系。",
+      "notes": "2012 年原版以 Windows 同人作品发行；歌曲不等于角色配音。主机合集另收外传和现代篇，只有新增现代篇有角色台词配音。 已另列 2016 年 FuRyu 发行的 3DS 移植；iOS 版发行年待进一步核查。",
+      "source": "https://novect.net/fatamorgana/"
+    },
+    {
+      "id": "g193",
+      "title": "第七境",
+      "originalTitle": "セブンスコート / Seventh Lair",
+      "firstYear": 2013,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "网络叙事／元幻想／平行世界",
+      "characters": [
+        "Dark†Knight",
+        "J.B",
+        "女性粉丝"
+      ],
+      "charactersNote": "",
+      "synopsis": "受挫的独立游戏作者 Dark†Knight 受一名女性粉丝鼓励，答应在愚人节公布新作。网站常客下载《第七境》后与作者一同被卷进游戏般的异世界，现实中的网络关系与各人的伤痛开始交错。",
+      "notes": "2013 年网页联动免费短篇，沿用《海市蜃楼之馆》人物形象但为平行世界；RPG 风格场景仍以视觉小说方式呈现。粉丝制作的配音视频不等于游戏角色配音。",
+      "source": "https://freegame-mugen.jp/adventure/game_2181.html"
+    },
+    {
+      "id": "g194",
+      "title": "海市蜃楼之馆：无罪者的安魂曲",
+      "originalTitle": "ファタモルガーナの館 -Another Episode- / A Requiem for Innocence",
+      "firstYear": 2015,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "哥特悲剧／前传／外传短篇集",
+      "characters": [
+        "雅各布·贝尔扎迪",
+        "摩尔甘娜",
+        "米歇尔·博林杰"
+      ],
+      "charactersNote": "",
+      "synopsis": "故事回到本篇悲剧形成以前：怀抱抱负的青年雅各布与曾被奉为圣女的摩尔甘娜相遇，他们的选择如何将彼此拖入绝望。另附本篇后的短篇与其他人物的故事。",
+      "notes": "2015 年 Windows 外传原名 Another Episode；英文主篇 A Requiem for Innocence 是其核心叙事。额外短篇视作同一商品的附篇，不逐篇计作独立游戏。",
+      "source": "https://booth.pm/ja/items/131480"
     }
   ],
   "versions": [
@@ -8119,6 +8193,287 @@
       "voice": "有",
       "differences": "2024 年 12 月 5 日；日英简中三种文本和日语全配音。",
       "source": "https://www.prot.co.jp/switch/stella/index.html"
+    },
+    {
+      "id": "g191-v1",
+      "workId": "g191",
+      "year": 2011,
+      "platform": "Windows",
+      "publisher": "Novectacle",
+      "publisherCompanies": [
+        "NOVECT"
+      ],
+      "kind": "主篇首发",
+      "voice": "无",
+      "differences": "2011 年作品；原版主篇免费、背面篇另售；以同一洋馆谜案展开两面叙事。原始具体发售日尚待核实。",
+      "source": "https://novect.net/erasmus.html"
+    },
+    {
+      "id": "g191-v2",
+      "workId": "g191",
+      "year": 2014,
+      "platform": "Windows",
+      "publisher": "Novectacle",
+      "publisherCompanies": [
+        "NOVECT"
+      ],
+      "kind": "完整版免费公开",
+      "voice": "无",
+      "differences": "2014 年 2 月 14 日起，原先单独销售的背面故事并入全篇免费版。",
+      "source": "https://novect.net/erasmus.html"
+    },
+    {
+      "id": "g191-v3",
+      "workId": "g191",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "NOVECT",
+      "publisherCompanies": [
+        "NOVECT"
+      ],
+      "kind": "Novectacle Collection 合集重制",
+      "voice": "未核实",
+      "differences": "2020 年合集收录主篇与背面篇；官方说明全四作均翻新并提供最高 4K 画质。",
+      "source": "https://booth.pm/ja/items/1956908"
+    },
+    {
+      "id": "g192-v1",
+      "workId": "g192",
+      "year": 2012,
+      "platform": "Windows",
+      "publisher": "Novectacle",
+      "publisherCompanies": [
+        "NOVECT"
+      ],
+      "kind": "同人版首发",
+      "voice": "无",
+      "differences": "2012 年末发行的日文原作；以音乐和歌曲烘托叙事，未将演唱计作角色对话配音。确切日暂待独立原始资料复核。",
+      "source": "https://www.cs.furyu.jp/kataruhito/fatamorgana/"
+    },
+    {
+      "id": "g192-v2",
+      "workId": "g192",
+      "year": 2016,
+      "platform": "Steam（Windows）",
+      "publisher": "MangaGamer",
+      "publisherCompanies": [
+        "MangaGamer"
+      ],
+      "kind": "英文数字版",
+      "voice": "无",
+      "differences": "2016 年 5 月 13 日上市，由 MangaGamer 在 Steam 发行英文版。",
+      "source": "https://store.steampowered.com/app/303310/The_House_in_Fata_Morgana/"
+    },
+    {
+      "id": "g192-v3",
+      "workId": "g192",
+      "year": 2017,
+      "platform": "PlayStation Vita",
+      "publisher": "dramatic create",
+      "publisherCompanies": [
+        "dramatic create"
+      ],
+      "kind": "Collected Edition 主机合集",
+      "voice": "有（部分）",
+      "differences": "2017 年 3 月 16 日日本版；包含本篇、外传及新增“现代篇”，仅新增现代篇的角色台词有配音。",
+      "source": "https://dramaticcreate.com/fatamorgana/product_vita.html"
+    },
+    {
+      "id": "g192-v4",
+      "workId": "g192",
+      "year": 2019,
+      "platform": "PlayStation 4",
+      "publisher": "dramatic create",
+      "publisherCompanies": [
+        "dramatic create"
+      ],
+      "kind": "Dreams of the Revenants Edition",
+      "voice": "有（部分）",
+      "differences": "2019 年 10 月 24 日日本版；合集收录本篇、外传和现代篇，角色台词配音仅在现代篇。",
+      "source": "https://dramaticcreate.com/fatamorgana/product.html"
+    },
+    {
+      "id": "g192-v5",
+      "workId": "g192",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "NOVECT",
+      "publisherCompanies": [
+        "NOVECT"
+      ],
+      "kind": "Novectacle Collection 合集重制",
+      "voice": "未核实",
+      "differences": "2020 年官方作品合集以翻新画面提供本篇，最高支持 4K；与 2017 年主机新增的现代篇并非同一合集。",
+      "source": "https://booth.pm/ja/items/1956908"
+    },
+    {
+      "id": "g192-v6",
+      "workId": "g192",
+      "year": 2021,
+      "platform": "Nintendo Switch",
+      "publisher": "dramatic create",
+      "publisherCompanies": [
+        "dramatic create"
+      ],
+      "kind": "Dreams of the Revenants Edition",
+      "voice": "有（部分）",
+      "differences": "2021 年 3 月 25 日日本版；内容与 PS4 版一致，角色台词配音仅限现代篇。",
+      "source": "https://dramaticcreate.com/fatamorgana/product.html"
+    },
+    {
+      "id": "g193-v1",
+      "workId": "g193",
+      "year": 2013,
+      "platform": "Windows／联动网站",
+      "publisher": "Novectacle",
+      "publisherCompanies": [
+        "NOVECT"
+      ],
+      "kind": "网页联动免费短篇首发",
+      "voice": "无",
+      "differences": "2013 年愚人节公开；无选项的视觉小说，配套虚构作者网站与论坛；投稿页 2013 年 4 月 21 日上线。",
+      "source": "https://freegame-mugen.jp/adventure/game_2181.html"
+    },
+    {
+      "id": "g193-v2",
+      "workId": "g193",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "NOVECT",
+      "publisherCompanies": [
+        "NOVECT"
+      ],
+      "kind": "Novectacle Collection 合集重制",
+      "voice": "未核实",
+      "differences": "2020 年四作合集收录《第七境》，官方称全部作品翻新并支持最高 4K。",
+      "source": "https://booth.pm/ja/items/1956908"
+    },
+    {
+      "id": "g193-v3",
+      "workId": "g193",
+      "year": 2022,
+      "platform": "Steam（Windows／macOS）",
+      "publisher": "MangaGamer / WhisperGames",
+      "publisherCompanies": [
+        "MangaGamer",
+        "WhisperGames"
+      ],
+      "kind": "Seventh Lair 英文商业版",
+      "voice": "无",
+      "differences": "2022 年 3 月 31 日发行；官方英语商品页明确为平行世界视觉小说。",
+      "source": "https://store.steampowered.com/app/1909810/Seventh_Lair/"
+    },
+    {
+      "id": "g193-v4",
+      "workId": "g193",
+      "year": 2023,
+      "platform": "Nintendo Switch",
+      "publisher": "MangaGamer",
+      "publisherCompanies": [
+        "MangaGamer"
+      ],
+      "kind": "Seventh Lair Remastered 主机版",
+      "voice": "未核实",
+      "differences": "2023 年 2 月 9 日上线；日英法中多语言文本，移植 2020 年重制版。",
+      "source": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Seventh-Lair-2331996.html"
+    },
+    {
+      "id": "g194-v1",
+      "workId": "g194",
+      "year": 2015,
+      "platform": "Windows",
+      "publisher": "Novectacle",
+      "publisherCompanies": [
+        "NOVECT"
+      ],
+      "kind": "Another Episode 外传首发",
+      "voice": "无",
+      "differences": "2015 年 8 月 31 日可核实的 Windows 数字版；核心前传并附后日谈、Ascent of the Deli 等短篇。",
+      "source": "https://dlsoft.dmm.com/detail/ihobe_0026/"
+    },
+    {
+      "id": "g194-v2",
+      "workId": "g194",
+      "year": 2017,
+      "platform": "PlayStation Vita",
+      "publisher": "dramatic create",
+      "publisherCompanies": [
+        "dramatic create"
+      ],
+      "kind": "Collected Edition 合集收录",
+      "voice": "无",
+      "differences": "2017 年 3 月 16 日日本版；收录外传，主机新增现代篇的配音不属于此前传外传内容。",
+      "source": "https://dramaticcreate.com/fatamorgana/product_vita.html"
+    },
+    {
+      "id": "g194-v3",
+      "workId": "g194",
+      "year": 2018,
+      "platform": "Steam（Windows）",
+      "publisher": "MangaGamer",
+      "publisherCompanies": [
+        "MangaGamer"
+      ],
+      "kind": "A Requiem for Innocence 英文版",
+      "voice": "无",
+      "differences": "2018 年 5 月 17 日上架，商品语言页的 Full Audio 栏均未标记。",
+      "source": "https://store.steampowered.com/app/804700/The_House_in_Fata_Morgana_A_Requiem_for_Innocence/"
+    },
+    {
+      "id": "g194-v4",
+      "workId": "g194",
+      "year": 2019,
+      "platform": "PlayStation 4",
+      "publisher": "dramatic create",
+      "publisherCompanies": [
+        "dramatic create"
+      ],
+      "kind": "Dreams of the Revenants Edition 合集收录",
+      "voice": "无",
+      "differences": "2019 年 10 月 24 日日本主机合集收录此前传；现代篇独有角色配音。",
+      "source": "https://dramaticcreate.com/fatamorgana/product.html"
+    },
+    {
+      "id": "g194-v5",
+      "workId": "g194",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "NOVECT",
+      "publisherCompanies": [
+        "NOVECT"
+      ],
+      "kind": "Novectacle Collection 合集重制",
+      "voice": "未核实",
+      "differences": "2020 年合集收录外传及 Ascent of the Deli、Happily Ever After 等附篇，最高支持 4K。",
+      "source": "https://booth.pm/ja/items/1956908"
+    },
+    {
+      "id": "g194-v6",
+      "workId": "g194",
+      "year": 2021,
+      "platform": "Nintendo Switch",
+      "publisher": "dramatic create",
+      "publisherCompanies": [
+        "dramatic create"
+      ],
+      "kind": "Dreams of the Revenants Edition 合集收录",
+      "voice": "无",
+      "differences": "2021 年 3 月 25 日日本版；承袭 PS4 合集内容，角色配音只在另附的现代篇。",
+      "source": "https://dramaticcreate.com/fatamorgana/product.html"
+    },
+    {
+      "id": "g192-v7",
+      "workId": "g192",
+      "year": 2016,
+      "platform": "Nintendo 3DS",
+      "publisher": "FuRyu",
+      "publisherCompanies": [
+        "FuRyu"
+      ],
+      "kind": "カタルヒト系列移植",
+      "voice": "无",
+      "differences": "2016 年 7 月 27 日在日本 3DS eShop 发布的独立作品移植；与后来收外传和现代篇的主机合集不同。",
+      "source": "https://www.cs.furyu.jp/kataruhito/fatamorgana/"
     }
   ]
 }

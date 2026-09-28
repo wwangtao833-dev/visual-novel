@@ -618,6 +618,101 @@
             }
           ]
         }
+      ],
+      "auditLabel": "官网目录 30 项，另补充外传与待发行项目。",
+      "auditNote": "“核对完成”指上述目录中每项内容都有处理记录。已发行的跨类型游戏在专题另列；未确认发售的项目和非游戏媒介不计入已发行游戏数。"
+    },
+    {
+      "id": "novect",
+      "name": "NOVECT（原 Novectacle）",
+      "checkedAt": "2026-09-28",
+      "status": "官方四作合集逐项核对完成",
+      "scope": "以 NOVECT 官方 Novectacle Collection 明列的四部独立视觉小说为厂商目录基准：2011 年《雾上的伊拉斯谟》、2012 年《海市蜃楼之馆》、2013 年《第七境》与 2015 年外传《无罪者的安魂曲》。增强版和收录篇章计作版本；已公布未发行项目及跨类型动作游戏见下方说明。",
+      "versionScope": "已整理官方原版、免费完整公开、2020 年合集和可核实的 Steam、PS Vita、PS4、Switch 主要版本；部分移动版、地区版本和具体首发日有待逐一核对，不以版本数声称覆盖全部发行。",
+      "publisherNote": "Novectacle 是团队旧称，现用 NOVECT。按作品开发归属建立专题；每个平台保留实际发行署名（Novectacle、MangaGamer、WhisperGames、dramatic create 等），主数据库的厂商筛选按这些署名归档。",
+      "workIds": [
+        "g191",
+        "g192",
+        "g193",
+        "g194"
+      ],
+      "catalogueEntryCount": 4,
+      "source": "https://booth.pm/ja/items/1956908",
+      "sectionTitle": "从雾上的伊拉斯谟到无罪者的安魂曲",
+      "auditLabel": "官方合集列出的四部独立游戏逐项登记，并补充版本与范围判定。",
+      "auditNote": "完整目录指官方四作合集所列的四部叙事游戏；不涵盖厂商的所有周边、动作小游戏、已公布企划及未经核实的衍生项目。",
+      "entries": [
+        {
+          "title": "霧上のエラスムス",
+          "status": "已收录",
+          "workIds": [
+            "g191"
+          ],
+          "reason": "2011 年视觉小说；2014 年主篇与背面篇免费整合，2020 年合集翻新。",
+          "source": "https://novect.net/erasmus.html"
+        },
+        {
+          "title": "ファタモルガーナの館",
+          "status": "已收录",
+          "workIds": [
+            "g192"
+          ],
+          "reason": "2012 年本篇；英语发行、主机合集和 2020 年重制均计平台版本。",
+          "source": "https://novect.net/fatamorgana/"
+        },
+        {
+          "title": "セブンスコート",
+          "status": "已收录",
+          "workIds": [
+            "g193"
+          ],
+          "reason": "2013 年网页联动视觉小说；2022 年 Steam、2023 年 Switch 版分列。",
+          "source": "https://freegame-mugen.jp/adventure/game_2181.html"
+        },
+        {
+          "title": "ファタモルガーナの館 -Another Episode-",
+          "status": "已收录",
+          "workIds": [
+            "g194"
+          ],
+          "reason": "2015 年独立外传；英文名 A Requiem for Innocence。内含短篇不另拆独立游戏。",
+          "source": "https://booth.pm/ja/items/131480"
+        },
+        {
+          "title": "Novectacle Collection（2020）",
+          "status": "计入平台版本",
+          "workIds": [],
+          "reason": "官方四作合集属于发行版本，不重复增加第五部作品；光盘附送的现场录像、画廊和纯文本短篇不是独立游戏。",
+          "source": "https://booth.pm/ja/items/1956908"
+        },
+        {
+          "title": "ファタモルガーナの館：現代編 / Reincarnation",
+          "status": "计入主机版本",
+          "workIds": [],
+          "reason": "2017 年主机合集新增篇章，仅该篇角色配音；未作为独立作品重复计数。",
+          "source": "https://dramaticcreate.com/fatamorgana/product_vita.html"
+        },
+        {
+          "title": "薔薇と椿とファタモルガーナ",
+          "status": "范围外：动作游戏",
+          "workIds": [],
+          "reason": "与 NIGORO 合作的扇耳光动作游戏；按照本数据库的四类叙事玩法范围不计入。",
+          "source": "https://novect.net/c86/"
+        },
+        {
+          "title": "NOVECT 新企划 M",
+          "status": "尚未发行",
+          "workIds": [],
+          "reason": "厂商公布的开发中企划，不把宣传或暂定名称当成已发行作品。",
+          "source": "https://novect.net/2022/05/13/novect-developer-of-the-house-in-fata-morgana-announces-a-brand-new-work-m/"
+        },
+        {
+          "title": "NarKarma EngineA",
+          "status": "范围外：RPG／企划",
+          "workIds": [],
+          "reason": "官方开发日志称该 RPG 企划已暂缓；尚无可核实的四类叙事游戏发售版本。",
+          "source": "https://novect.fanbox.cc/posts/7216925"
+        }
       ]
     }
   ]
