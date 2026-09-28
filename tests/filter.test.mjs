@@ -132,11 +132,17 @@ test('publisher index counts unique games across platforms and credits the actua
   assert.equal(counts.get('__unattributed__'),filterCatalogue(data,{company:'__unattributed__'}).length);
 });
 
-test('publisher history keeps Chunsoft distinct and counts platform releases as one game',()=>{
-  const historical=filterCatalogue(data,{query:'善人シボウデス',company:'CHUNSOFT'});
+test('publisher aliases preserve historical credit and count games across platform releases',()=>{
+  const historical=filterCatalogue(data,{query:'善人シボウデス',company:'Chunsoft'});
   assert.equal(historical.length,1);
   assert.deepEqual(historical[0].versions.map(v=>v.platform),['Nintendo 3DS','PS Vita']);
+  assert.ok(historical[0].versions.every(v=>v.publisher==='CHUNSOFT'));
   assert.equal(filterCatalogue(data,{query:'善人シボウデス',company:'Spike Chunsoft'}).length,0);
   const counts=publisherWorkCounts(data);
-  assert.equal(counts.get('CHUNSOFT'),filterCatalogue(data,{company:'CHUNSOFT'}).length);
+  assert.equal(counts.get('Chunsoft'),filterCatalogue(data,{company:'Chunsoft'}).length);
+  assert.equal(counts.get('Capcom'),filterCatalogue(data,{company:'Capcom'}).length);
+  assert.ok(filterCatalogue(data,{company:'Capcom'}).some(({work})=>work.id==='g049'));
+  assert.equal(counts.has('CAPCOM'),false);
+  assert.equal(counts.has('CHUNSOFT'),false);
+  assert.equal(filterCatalogue(data,{company:'Konami'}).filter(({work})=>work.originalTitle.startsWith('ときめきメモリアル')).length,4);
 });

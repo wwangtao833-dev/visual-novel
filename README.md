@@ -4,7 +4,7 @@
 
 ## 数据范围
 
-当前收录 **174 部代表作品、303 个平台版本**，覆盖 1976—2025 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、Leaf、AQUAPLUS、CHUNSOFT、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
+当前收录 **182 部代表作品、318 个平台版本**，覆盖 1976—2025 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、Leaf、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
 
 作品主分类是一种检索入口，并非互斥的学术分类：一部恋爱视觉小说也可能属于广义 Galgame。视觉小说的“有声小说”可能只有音乐和音效，配音字段专指游戏内角色人声。
 
@@ -42,6 +42,6 @@
 2. 新平台版本添加唯一 `id` 和 `workId`；记录**该版本**发行年份、平台、当时发行方、`publisherCompanies` 厂商归档列表、语音状态、版本差异和来源。多厂商联合发行依据来源标注；作者传播记 `[]`。不要把移植年份或新增配音套在原版上。
 3. 运行 `python3 scripts/sync_versions_csv.py` 更新 CSV，再运行 `python3 scripts/validate_data.py` 与 `node --test tests/filter.test.mjs`；检查页面筛选是否显示新版本。
 4. 后续按厂商扩充时，**不新增“图文指令”和“纯文本指令”作品**；既有历史条目继续保留供查询。“图文选项／调查”及其他符合范围的视觉小说、Galgame 与互动动画可继续核查收录。
-5. 历史发行厂商按作品当年的署名保留。例如《善人シボウデス》2012 年版本署名 **CHUNSOFT**，不因现今官网域名属于 Spike Chunsoft 而合并两家的旧版发行记录。
+5. 历史发行厂商按作品当年的署名保留。例如《善人シボウデス》2012 年版本署名 **CHUNSOFT**，筛选索引统一归入 **Chunsoft**；不得因现今官网域名属于 Spike Chunsoft 而合并两个不同历史厂商。
 
 作品资料只作索引与历史考证，不提供游戏内容下载。

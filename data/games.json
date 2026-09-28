@@ -2929,6 +2929,143 @@
       "synopsis": "右代宫家族齐聚六轩岛，继承与黄金传说引发连续命案；战人尝试用推理挑战魔女说法。",
       "notes": "首发年份指 2007 年原作的 Episode 1；随后篇章与合集未视作首发同时收录。",
       "source": "https://07th-expansion.net/umi_saku/"
+    },
+    {
+      "id": "g175",
+      "title": "心跳回忆 2",
+      "originalTitle": "ときめきメモリアル2",
+      "firstYear": 1999,
+      "category": "Galgame",
+      "subcategory": "恋爱模拟",
+      "genre": "校园恋爱／养成模拟",
+      "characters": [
+        "阳之下光",
+        "白雪美帆"
+      ],
+      "charactersNote": "",
+      "synopsis": "在响野市经历三年高中生活，通过课程、社团和约会与同学建立感情。",
+      "notes": "2009 年游戏档案版为初代 PlayStation 游戏的数字再发行，EVS 追加内容另行下载。",
+      "source": "https://www.konami.com/games/tokimeki/about/index.html"
+    },
+    {
+      "id": "g176",
+      "title": "心跳回忆 3：约定的那片地方",
+      "originalTitle": "ときめきメモリアル3～約束のあの場所で～",
+      "firstYear": 2001,
+      "category": "Galgame",
+      "subcategory": "恋爱模拟",
+      "genre": "校园恋爱／养成模拟",
+      "characters": [],
+      "charactersNote": "主要角色待官方资料核实",
+      "synopsis": "在萌木市度过高中生活，安排学习和约会，在毕业时达成恋爱结局。",
+      "notes": "角色名称待官方资料逐名核实。",
+      "source": "https://www.konami.com/games/tokimeki/about/index.html"
+    },
+    {
+      "id": "g177",
+      "title": "心跳回忆 4",
+      "originalTitle": "ときめきメモリアル4",
+      "firstYear": 2009,
+      "category": "Galgame",
+      "subcategory": "恋爱模拟",
+      "genre": "校园恋爱／养成模拟",
+      "characters": [
+        "星川真希",
+        "大仓都子"
+      ],
+      "charactersNote": "",
+      "synopsis": "重返闪耀市的高中，规划三年生活和约会，争取在毕业典礼建立恋人关系。",
+      "notes": "角色配音与呼名功能不等同；旧版联网语音合成服务已结束。",
+      "source": "https://www.konami.com/games/tokimeki/about/index.html"
+    },
+    {
+      "id": "g178",
+      "title": "恐怖惊魂夜 2：监狱岛童谣",
+      "originalTitle": "かまいたちの夜2 ～監獄島のわらべ唄～",
+      "firstYear": 2002,
+      "category": "视觉小说",
+      "subcategory": "有声小说",
+      "genre": "孤岛悬疑／多结局",
+      "characters": [
+        "矢岛透",
+        "小林真理",
+        "香山诚一"
+      ],
+      "charactersNote": "",
+      "synopsis": "透与真理收到邀请来到三日月岛，岛上的旧传说与童谣接连对应离奇命案。",
+      "notes": "有声小说指背景音乐与音效；角色配音依版本核查。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/games/kama2/info.html"
+    },
+    {
+      "id": "g179",
+      "title": "恐怖惊魂夜×3：三日月岛事件的真相",
+      "originalTitle": "かまいたちの夜×3 三日月島事件の真相",
+      "firstYear": 2006,
+      "category": "视觉小说",
+      "subcategory": "有声小说",
+      "genre": "多视点／悬疑推理",
+      "characters": [
+        "矢岛透",
+        "小林真理",
+        "香山诚一"
+      ],
+      "charactersNote": "",
+      "synopsis": "三日月岛事件一年后，幸存者再次相聚；不同主人公视角交织，逐步揭开新事件的真相。",
+      "notes": "收录前两作的主要篇章，但数据库仍将第三部的新剧情作为独立作品。原版由世嘉发行、Chunsoft 开发。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/games/segachun/kama3.html"
+    },
+    {
+      "id": "g180",
+      "title": "真恐怖惊魂夜：第11位来访者",
+      "originalTitle": "真かまいたちの夜 11人目の訪問者",
+      "firstYear": 2011,
+      "category": "视觉小说",
+      "subcategory": "有声小说",
+      "genre": "雪山旅馆／悬疑推理",
+      "characters": [
+        "坂卷快人",
+        "立花京香",
+        "白河雪乃"
+      ],
+      "charactersNote": "",
+      "synopsis": "志在成为作家的快人入住雪山旅馆，客人陷入连环命案，故事随选择走向不同结局。",
+      "notes": "独立的新人物与新案件；发行时署名 CHUNSOFT，规范厂商名称为 Chunsoft。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/shinkama/products/index.html"
+    },
+    {
+      "id": "g181",
+      "title": "忌火起草",
+      "originalTitle": "忌火起草",
+      "firstYear": 2007,
+      "category": "视觉小说",
+      "subcategory": "有声小说",
+      "genre": "怪谈恐怖／分支剧情",
+      "characters": [
+        "牧村弘树",
+        "爱美",
+        "正人"
+      ],
+      "charactersNote": "",
+      "synopsis": "大学生弘树接触到名叫忌火起草的神秘植物，和朋友卷入代代相传的诅咒。",
+      "notes": "官方说明原版全部对白有配音；世嘉负责发行、Chunsoft 负责开发。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/games/imabikiso/storycharacter.html"
+    },
+    {
+      "id": "g182",
+      "title": "逆转裁判 4",
+      "originalTitle": "逆転裁判４",
+      "firstYear": 2007,
+      "category": "文字冒险",
+      "subcategory": "图文选项／调查",
+      "genre": "法庭辩论／证据调查",
+      "characters": [
+        "王泥喜法介",
+        "成步堂龙一"
+      ],
+      "charactersNote": "",
+      "synopsis": "新人律师王泥喜法介走访案发现场、举证反驳证人，并以“看穿”能力识破证言漏洞。",
+      "notes": "以选项、调查与举证推进，不收录自由输入式指令游戏。",
+      "source": "https://www.nintendo.co.jp/ds/software/agcj/index.html"
     }
   ],
   "versions": [
@@ -5164,7 +5301,7 @@
       "differences": "系列首作。",
       "source": "https://www.nintendo.com/jp/topics/article/f141655c-c8da-11e7-8cda-063b7ac45a6d",
       "publisherCompanies": [
-        "CAPCOM"
+        "Capcom"
       ]
     },
     {
@@ -5320,7 +5457,7 @@
       "differences": "增收第五话与触屏科学调查；配音为少量法庭语音，非全程对话配音。",
       "source": "https://www.nintendo.com/jp/topics/article/f141655c-c8da-11e7-8cda-063b7ac45a6d",
       "publisherCompanies": [
-        "CAPCOM"
+        "Capcom"
       ]
     },
     {
@@ -5747,7 +5884,7 @@
       "differences": "《逆转裁判123》收录前三作；保留少量法庭语音，并提升显示效果。",
       "source": "https://www.nintendo.com/jp/topics/article/761e2356-2f26-11e9-b104-0a6d14145cb1",
       "publisherCompanies": [
-        "CAPCOM"
+        "Capcom"
       ]
     },
     {
@@ -5761,7 +5898,7 @@
       "differences": "三部曲合集中的初代，非单独重制；配音主要为法庭喊话。",
       "source": "https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/",
       "publisherCompanies": [
-        "CAPCOM"
+        "Capcom"
       ]
     },
     {
@@ -7037,7 +7174,7 @@
       "platform": "Nintendo 3DS",
       "publisher": "CHUNSOFT",
       "publisherCompanies": [
-        "CHUNSOFT"
+        "Chunsoft"
       ],
       "kind": "同期首发",
       "voice": "有",
@@ -7051,7 +7188,7 @@
       "platform": "PS Vita",
       "publisher": "CHUNSOFT",
       "publisherCompanies": [
-        "CHUNSOFT"
+        "Chunsoft"
       ],
       "kind": "同期首发",
       "voice": "有",
@@ -7197,6 +7334,216 @@
       "voice": "有",
       "differences": "AQUAPLUS 官方产品表记载 2010 年 6 月 24 日的 PS3 初版；新角色声优示例见官方页面。",
       "source": "https://aquaplus.jp/wa/product.html"
+    },
+    {
+      "id": "g175-v1",
+      "workId": "g175",
+      "year": 1999,
+      "platform": "PlayStation",
+      "publisher": "Konami",
+      "publisherCompanies": [
+        "Konami"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "1999 年 11 月 25 日原版，加入 EVS 角色呼名系统。",
+      "source": "https://www.konami.com/games/tokimeki/about/index.html"
+    },
+    {
+      "id": "g175-v2",
+      "workId": "g175",
+      "year": 2009,
+      "platform": "PSP（游戏档案）",
+      "publisher": "Konami",
+      "publisherCompanies": [
+        "Konami"
+      ],
+      "kind": "数字再发行",
+      "voice": "有",
+      "differences": "2009 年 11 月 25 日 PS 游戏档案版；EVS 附加盘另行提供。",
+      "source": "https://www.konami.com/games/jp/ja/products/dl_pspps3vita_tokimeki2_arch/"
+    },
+    {
+      "id": "g176-v1",
+      "workId": "g176",
+      "year": 2001,
+      "platform": "PlayStation 2",
+      "publisher": "Konami",
+      "publisherCompanies": [
+        "Konami"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "2001 年 12 月 20 日发行；系列第三部的 PS2 原版。",
+      "source": "https://www.konami.com/games/tokimeki/about/index.html"
+    },
+    {
+      "id": "g177-v1",
+      "workId": "g177",
+      "year": 2009,
+      "platform": "PSP",
+      "publisher": "Konami",
+      "publisherCompanies": [
+        "Konami"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "2009 年 12 月 3 日推出 UMD 版；恋爱模拟与 EVS 呼名功能。",
+      "source": "https://www.konami.com/games/tokimeki/4/"
+    },
+    {
+      "id": "g178-v1",
+      "workId": "g178",
+      "year": 2002,
+      "platform": "PlayStation 2",
+      "publisher": "Chunsoft",
+      "publisherCompanies": [
+        "Chunsoft"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "2002 年 7 月 18 日原版；分支选择与多结局，人物以 3D 剪影呈现。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/games/kama2/info.html"
+    },
+    {
+      "id": "g178-v2",
+      "workId": "g178",
+      "year": 2003,
+      "platform": "PlayStation 2",
+      "publisher": "Chunsoft",
+      "publisherCompanies": [
+        "Chunsoft"
+      ],
+      "kind": "PlayStation 2 the Best",
+      "voice": "未核实",
+      "differences": "2003 年 4 月 3 日再版，附赠此前限量版的制作花絮及采访影像光盘。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/games/kama2/info.html"
+    },
+    {
+      "id": "g179-v1",
+      "workId": "g179",
+      "year": 2006,
+      "platform": "PlayStation 2",
+      "publisher": "世嘉",
+      "publisherCompanies": [
+        "世嘉"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "2006 年 7 月 27 日发行；多主角时间表，并收录第一、二作主要篇章。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/games/segachun/kama3.html"
+    },
+    {
+      "id": "g179-v2",
+      "workId": "g179",
+      "year": 2024,
+      "platform": "Nintendo Switch",
+      "publisher": "Spike Chunsoft",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ],
+      "kind": "周年移植",
+      "voice": "未核实",
+      "differences": "2024 年 9 月 19 日；增添复古文字字体与原声播放功能。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/kama3/"
+    },
+    {
+      "id": "g179-v3",
+      "workId": "g179",
+      "year": 2024,
+      "platform": "PlayStation 4",
+      "publisher": "Spike Chunsoft",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ],
+      "kind": "周年数字移植",
+      "voice": "未核实",
+      "differences": "2024 年 9 月 19 日数字发行；收录三部曲主要篇章。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/kama3/"
+    },
+    {
+      "id": "g179-v4",
+      "workId": "g179",
+      "year": 2024,
+      "platform": "Steam",
+      "publisher": "Spike Chunsoft",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ],
+      "kind": "周年 PC 数字移植",
+      "voice": "未核实",
+      "differences": "2024 年 9 月 19 日数字发行；增添复古文字字体与原声播放功能。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/kama3/"
+    },
+    {
+      "id": "g180-v1",
+      "workId": "g180",
+      "year": 2011,
+      "platform": "PlayStation 3",
+      "publisher": "CHUNSOFT",
+      "publisherCompanies": [
+        "Chunsoft"
+      ],
+      "kind": "同期首发",
+      "voice": "未核实",
+      "differences": "2011 年 12 月 17 日发售，支持多人同时推理的在线模式。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/shinkama/products/index.html"
+    },
+    {
+      "id": "g180-v2",
+      "workId": "g180",
+      "year": 2011,
+      "platform": "PS Vita",
+      "publisher": "CHUNSOFT",
+      "publisherCompanies": [
+        "Chunsoft"
+      ],
+      "kind": "同期首发",
+      "voice": "未核实",
+      "differences": "2011 年 12 月 17 日发售，另有利用掌机触控的双人模式。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/shinkama/products/index.html"
+    },
+    {
+      "id": "g181-v1",
+      "workId": "g181",
+      "year": 2007,
+      "platform": "PlayStation 3",
+      "publisher": "世嘉",
+      "publisherCompanies": [
+        "世嘉"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "2007 年 10 月 25 日 BD-ROM 版；立体音效与对白配音。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/games/imabikiso/index.html"
+    },
+    {
+      "id": "g181-v2",
+      "workId": "g181",
+      "year": 2008,
+      "platform": "Wii",
+      "publisher": "世嘉",
+      "publisherCompanies": [
+        "世嘉"
+      ],
+      "kind": "《解明篇》改编移植",
+      "voice": "未核实",
+      "differences": "2008 年 8 月 7 日《忌火起草 解明篇》；Wii 平台的改编版本，具体新增剧情仍待核。",
+      "source": "https://www.spike-chunsoft.co.jp/pages/games/wii_imabikiso/index.html"
+    },
+    {
+      "id": "g182-v1",
+      "workId": "g182",
+      "year": 2007,
+      "platform": "Nintendo DS",
+      "publisher": "Capcom",
+      "publisherCompanies": [
+        "Capcom"
+      ],
+      "kind": "首发",
+      "voice": "有（部分）",
+      "differences": "2007 年 4 月 12 日；新增「看穿」证人动作、触屏与麦克风操作；少量喊话语音。",
+      "source": "https://www.nintendo.co.jp/ds/software/agcj/index.html"
     }
   ]
 }
