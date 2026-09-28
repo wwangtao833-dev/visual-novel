@@ -2,7 +2,7 @@
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
     "updated": "2026-09-28",
-    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题综合官方合集、旧站及短篇记录，已登记 9 部独立发布的叙事游戏；包括两部洋馆假日、两部人气投票短篇及胡萝卜蛋糕事件。合集和内含新增篇章另作版本与内容说明，未核实字段明确标记。 ANIPLEX.EXE 专题按其官网四部作品核对；品牌项目期数与独立游戏数不同。",
+    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题综合官方合集、旧站及短篇记录，已登记 9 部独立发布的叙事游戏；包括两部洋馆假日、两部人气投票短篇及胡萝卜蛋糕事件。合集和内含新增篇章另作版本与内容说明，未核实字段明确标记。 ANIPLEX.EXE 专题按其官网四部作品核对；品牌项目期数与独立游戏数不同。 sprite 专题核对三部主作品与两部独立 EXTRA 外传，并单列 Edia 授权卡牌游戏；按实际发行署名区分作品品牌与厂商。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
   "works": [
@@ -3453,6 +3453,107 @@
       "synopsis": "2023 年，十六岁的みすず遇见从 1996 年穿越而来的同龄母亲阳子；她们前往 2050 年接上みすず的女儿ツムギ，并与自称みすず弟弟的ヒルコ一同前往常世之国，协助神明完成新旧世代交接的“种拾仪式”。",
       "notes": "ANIPLEX.EXE 第三期企划；官网说明正篇没有选项和剧情分支。2024 年 12 月 20 日另有无需下载的 DMM GAMES 浏览器版；同一故事不另计作品。",
       "source": "https://tanetsumi.aniplex-exe.com/"
+    },
+    {
+      "id": "g204",
+      "title": "恋爱与选举与巧克力",
+      "originalTitle": "恋と選挙とチョコレート / Love, Election & Chocolate",
+      "firstYear": 2010,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园政治／恋爱／社团",
+      "characters": [
+        "大岛裕树",
+        "住吉千里",
+        "木场美冬",
+        "东云皐月",
+        "青海衣更",
+        "森下未散"
+      ],
+      "charactersNote": "",
+      "synopsis": "高藤学园的食品研究部面临废部危机。大岛裕树在青梅竹马住吉千里与伙伴的推动下参加学生会长选举，一边争取保住社团，一边与各候选人及同学逐渐拉近距离。",
+      "notes": "sprite 首部作品。PSP 版与 Steam 版归于同一作品；2012 年电视动画不计游戏。",
+      "source": "https://sprite.net/koichoco/"
+    },
+    {
+      "id": "g205",
+      "title": "苍之彼方的四重奏",
+      "originalTitle": "蒼の彼方のフォーリズム / Aokana - Four Rhythms Across the Blue",
+      "firstYear": 2014,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "飞行竞技／校园／恋爱",
+      "characters": [
+        "日向晶也",
+        "仓科明日香",
+        "鸢泽美咲",
+        "有坂真白",
+        "市之濑莉佳"
+      ],
+      "charactersNote": "",
+      "synopsis": "穿上反重力鞋即可飞行的时代，退役的 Flying Circus 选手日向晶也遇到初学飞行的转校生仓科明日香，重新投身飞行竞技，担任教练并与队友共同迎接大赛。",
+      "notes": "本篇与以真白、美咲路线为主的两部 EXTRA 分开计数；ZWEI 已取消制作。",
+      "source": "https://sprite.net/aokana/story"
+    },
+    {
+      "id": "g206",
+      "title": "苍之彼方的四重奏 EXTRA1",
+      "originalTitle": "蒼の彼方のフォーリズム EXTRA1 / Aokana EXTRA1",
+      "firstYear": 2017,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱后日谈／校园",
+      "characters": [
+        "有坂真白",
+        "日向晶也",
+        "有坂牡丹",
+        "仓科明日香",
+        "鸢泽美咲"
+      ],
+      "charactersNote": "",
+      "synopsis": "真白路线结束后，真白为了与晶也的约会准备便当与新造型，同时面对学业、家里的乌冬面店和两人的关系，在伙伴的帮助下努力成长。",
+      "notes": "独立发售的真白后日谈；EXTRA1S 与 EXTRA1P 为同一游戏的主机版本。2017 年首发日期与当年作品资料相符。",
+      "source": "https://sprite.net/aokana/extra1"
+    },
+    {
+      "id": "g207",
+      "title": "苍之彼方的四重奏 EXTRA2",
+      "originalTitle": "蒼の彼方のフォーリズム EXTRA2 / Aokana EXTRA2",
+      "firstYear": 2022,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "竞技后日谈／恋爱",
+      "characters": [
+        "鸢泽美咲",
+        "日向晶也",
+        "仓科明日香",
+        "有坂真白",
+        "市之濑莉佳"
+      ],
+      "charactersNote": "",
+      "synopsis": "美咲路线的后日谈。曾在 Flying Circus 赛场获胜的鸢泽美咲，开始困惑自己继续比赛的原因，与日向晶也一起重新面对竞技与彼此的未来。",
+      "notes": "独立发售的美咲后日谈；EXTRA2S 与 EXTRA2P 是主机版本，不另计游戏。",
+      "source": "https://sprite.net/aokana/extra2"
+    },
+    {
+      "id": "g208",
+      "title": "everlasting flowers",
+      "originalTitle": "everlasting flowers - Where there is a will, there is a way",
+      "firstYear": 2024,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "青春／治愈／成长",
+      "characters": [
+        "坂下深菜",
+        "星野兰",
+        "橘纱波",
+        "柳濑美智子",
+        "成濑阳毬"
+      ],
+      "charactersNote": "",
+      "synopsis": "因无法融入新学校而闭门不出的坂下深菜，与疏远家庭的星野兰来到海滨旅馆打工。两人度过一个夏天，在相互陪伴和与旅馆伙伴的交往中尝试直面过去。",
+      "notes": "sprite／flowers.studio 制作的 FILMIC NOVEL；2024 年 Steam 和主机版由 RIGHTWAY 发行。预告在 2026 年 11 月推出的 Windows 实体版尚未发售，不计版本。",
+      "source": "https://sprite.net/everlastingflowers"
     }
   ],
   "versions": [
@@ -8910,6 +9011,276 @@
       "voice": "有",
       "differences": "2025 年 5 月 1 日发行，剧情开头免费下载，后续章节需应用内购买解锁。移动商店发行账号为 Aniplex Inc.；iMel 负责程序开发。",
       "source": "https://play.google.com/store/apps/details?id=com.aniplex.tanetsumi"
+    },
+    {
+      "id": "g204-v1",
+      "workId": "g204",
+      "year": 2010,
+      "platform": "Windows",
+      "publisher": "sprite",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "原作首发",
+      "voice": "有",
+      "differences": "2010 年 10 月 29 日推出的 PC 恋爱冒险原版；食品研究部与学生会选举为主线。",
+      "source": "https://sprite.net/koichoco/"
+    },
+    {
+      "id": "g204-v2",
+      "workId": "g204",
+      "year": 2012,
+      "platform": "PlayStation Portable",
+      "publisher": "KADOKAWA",
+      "publisherCompanies": [
+        "KADOKAWA"
+      ],
+      "kind": "Portable 移植",
+      "voice": "有",
+      "differences": "2012 年 9 月 27 日发售；依据 PSP 发行方的产品页面登记，与原作共用作品记录。",
+      "source": "https://www.kadokawa.co.jp/product/game1624/"
+    },
+    {
+      "id": "g204-v3",
+      "workId": "g204",
+      "year": 2025,
+      "platform": "Windows（Steam）",
+      "publisher": "NekoNyan Ltd. / HIKARI FIELD",
+      "publisherCompanies": [
+        "NekoNyan Ltd.",
+        "HIKARI FIELD"
+      ],
+      "kind": "Steam 本地化发行",
+      "voice": "有",
+      "differences": "2025 年 3 月 28 日上架；多语言数字发行，Steam 发行署名为 NekoNyan Ltd. 与 HIKARI FIELD。",
+      "source": "https://store.steampowered.com/app/3027600/"
+    },
+    {
+      "id": "g205-v1",
+      "workId": "g205",
+      "year": 2014,
+      "platform": "Windows",
+      "publisher": "sprite",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "原作首发",
+      "voice": "有",
+      "differences": "2014 年 11 月 28 日发行的 PC 本篇；角色路线与 Flying Circus 比赛构成主线。",
+      "source": "https://sprite.net/aokana/10thanniversary"
+    },
+    {
+      "id": "g205-v2",
+      "workId": "g205",
+      "year": 2016,
+      "platform": "PlayStation Vita",
+      "publisher": "sprite",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "主机移植",
+      "voice": "有",
+      "differences": "2016 年 2 月 25 日发售；PS Vita 版增加四位女主角的事件 CG、主题曲与插入曲、片头影片及时钟模式。",
+      "source": "https://blog.ja.playstation.com/?p=6345"
+    },
+    {
+      "id": "g205-v3",
+      "workId": "g205",
+      "year": 2017,
+      "platform": "PlayStation 4",
+      "publisher": "RIGHTWAY",
+      "publisherCompanies": [
+        "RIGHTWAY"
+      ],
+      "kind": "HD EDITION",
+      "voice": "有",
+      "differences": "2017 年 1 月 25 日发售；官方标注 Full HD 画面与主机版事件内容。",
+      "source": "https://store.playstation.com/ja-jp/product/JP0549-CUSA06588_00-AOKANAHD00000001"
+    },
+    {
+      "id": "g205-v4",
+      "workId": "g205",
+      "year": 2018,
+      "platform": "Nintendo Switch",
+      "publisher": "sprite",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "主机移植",
+      "voice": "有",
+      "differences": "2018 年 3 月 29 日推出；保留主机版专用剧情场景，并支持 Switch 操作。",
+      "source": "https://www.geestore.com/geepress/pdf/geepress131.pdf"
+    },
+    {
+      "id": "g205-v5",
+      "workId": "g205",
+      "year": 2019,
+      "platform": "Windows（Steam）",
+      "publisher": "NekoNyan Ltd. / HIKARI FIELD",
+      "publisherCompanies": [
+        "NekoNyan Ltd.",
+        "HIKARI FIELD"
+      ],
+      "kind": "Steam 本地化发行",
+      "voice": "有",
+      "differences": "2019 年 9 月 27 日推出；商店标有日语完整角色语音，字幕有英语、简体及繁体中文。",
+      "source": "https://store.steampowered.com/app/1044620/"
+    },
+    {
+      "id": "g206-v1",
+      "workId": "g206",
+      "year": 2017,
+      "platform": "Windows",
+      "publisher": "sprite",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "EXTRA1 首发",
+      "voice": "有",
+      "differences": "2017 年 6 月 30 日发售的真白路线后日谈；日期待 sprite 原始发行公告复核。",
+      "source": "https://sprite.net/aokana/extra1"
+    },
+    {
+      "id": "g206-v2",
+      "workId": "g206",
+      "year": 2020,
+      "platform": "Windows（Steam）",
+      "publisher": "NekoNyan Ltd. / HIKARI FIELD",
+      "publisherCompanies": [
+        "NekoNyan Ltd.",
+        "HIKARI FIELD"
+      ],
+      "kind": "Steam 本地化发行",
+      "voice": "有",
+      "differences": "2020 年 11 月 6 日上架，作为独立游戏出售；保留日语角色配音。",
+      "source": "https://store.steampowered.com/app/1340130/"
+    },
+    {
+      "id": "g206-v3",
+      "workId": "g206",
+      "year": 2023,
+      "platform": "Nintendo Switch",
+      "publisher": "sprite",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "EXTRA1S 主机版",
+      "voice": "有",
+      "differences": "2023 年 5 月 25 日发售；增加主机版事件场景，可单独购买或与 EXTRA2S 合装；合装不另算游戏。",
+      "source": "https://store.sprite.net/products/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0-extra1-2s-filmic-edition"
+    },
+    {
+      "id": "g206-v4",
+      "workId": "g206",
+      "year": 2023,
+      "platform": "PlayStation 4",
+      "publisher": "RIGHTWAY",
+      "publisherCompanies": [
+        "RIGHTWAY"
+      ],
+      "kind": "EXTRA1P 主机版",
+      "voice": "有",
+      "differences": "2023 年 12 月 20 日推出；收录主机版新增事件场景，也有与 EXTRA2P 捆绑的商品。",
+      "source": "https://store.playstation.com/ja-jp/concept/10003892"
+    },
+    {
+      "id": "g207-v1",
+      "workId": "g207",
+      "year": 2022,
+      "platform": "Windows",
+      "publisher": "sprite",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "EXTRA2 首发",
+      "voice": "有",
+      "differences": "2022 年 5 月 27 日发售的美咲路线后日谈；具体日期待 sprite 原始发行公告复核。",
+      "source": "https://sprite.net/aokana/extra2"
+    },
+    {
+      "id": "g207-v2",
+      "workId": "g207",
+      "year": 2022,
+      "platform": "Windows（Steam）",
+      "publisher": "NekoNyan Ltd. / HIKARI FIELD",
+      "publisherCompanies": [
+        "NekoNyan Ltd.",
+        "HIKARI FIELD"
+      ],
+      "kind": "Steam 本地化发行",
+      "voice": "有",
+      "differences": "2022 年 12 月 16 日上架，英语及中文字幕版本由 NekoNyan Ltd. 与 HIKARI FIELD 联名发行。",
+      "source": "https://store.steampowered.com/app/2206340/"
+    },
+    {
+      "id": "g207-v3",
+      "workId": "g207",
+      "year": 2023,
+      "platform": "Nintendo Switch",
+      "publisher": "RIGHTWAY",
+      "publisherCompanies": [
+        "RIGHTWAY"
+      ],
+      "kind": "EXTRA2S 主机版",
+      "voice": "有",
+      "differences": "2023 年 5 月 25 日发售，新增主机版事件内容；RIGHTWAY 产品目录列有 EXTRA2S，Happinet 为实体流通。",
+      "source": "https://rightway.net/games"
+    },
+    {
+      "id": "g207-v4",
+      "workId": "g207",
+      "year": 2023,
+      "platform": "PlayStation 4",
+      "publisher": "RIGHTWAY",
+      "publisherCompanies": [
+        "RIGHTWAY"
+      ],
+      "kind": "EXTRA2P 主机版",
+      "voice": "有",
+      "differences": "2023 年 12 月 20 日推出，增加主机版剧情场景；可单独购买或与 EXTRA1P 合装。",
+      "source": "https://store.playstation.com/ja-jp/concept/10008872"
+    },
+    {
+      "id": "g208-v1",
+      "workId": "g208",
+      "year": 2024,
+      "platform": "Windows（Steam）",
+      "publisher": "RIGHTWAY",
+      "publisherCompanies": [
+        "RIGHTWAY"
+      ],
+      "kind": "Steam 首发",
+      "voice": "有",
+      "differences": "Steam 页面按时区显示 2024 年 8 月 28 日；提供英、日和简繁中文字幕，日语完整角色配音。",
+      "source": "https://store.steampowered.com/app/2795270/"
+    },
+    {
+      "id": "g208-v2",
+      "workId": "g208",
+      "year": 2024,
+      "platform": "PlayStation 4",
+      "publisher": "RIGHTWAY",
+      "publisherCompanies": [
+        "RIGHTWAY"
+      ],
+      "kind": "主机首发",
+      "voice": "有",
+      "differences": "数字版商店显示 2024 年 8 月 28 日；日本实体版发行日期为 8 月 29 日，具有中英日字幕。",
+      "source": "https://store.playstation.com/ja-jp/product/JP7504-CUSA47356_00-0841673131921991/"
+    },
+    {
+      "id": "g208-v3",
+      "workId": "g208",
+      "year": 2024,
+      "platform": "Nintendo Switch",
+      "publisher": "RIGHTWAY",
+      "publisherCompanies": [
+        "RIGHTWAY"
+      ],
+      "kind": "主机首发",
+      "voice": "有",
+      "differences": "2024 年 8 月 29 日日本实体版发售；同一故事另有下载版，实体限定版不另计游戏。",
+      "source": "https://rightway.net/games/4541624090849"
     }
   ]
 }

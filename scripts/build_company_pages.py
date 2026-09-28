@@ -50,7 +50,7 @@ def build(company):
     related_section = ''
     if related:
         related_section = f'''<section class="related-games" id="related-games"><div class="section-heading"><div><p class="eyebrow">OTHER GAMES</p><h2>跨类型合作游戏</h2></div><p>{len(related)} 部 · 按官方类型标注</p></div>
-<p class="related-intro">涵盖官方年表收录的手机游戏、WFS 合作 RPG，以及 Index 制作、Key 官网宣传的授权作品。每款游戏按实际类型、发行公司与平台标注；顶部总数包含本节。</p>
+<p class="related-intro">{escape(company.get('relatedIntro', '涵盖官方年表收录的手机游戏、WFS 合作 RPG，以及 Index 制作、Key 官网宣传的授权作品。每款游戏按实际类型、发行公司与平台标注；顶部总数包含本节。'))}</p>
 <div class="cards">{''.join(card(g, g['versions']) for g in related)}</div></section>'''
     section_title = company.get('sectionTitle', f"从 {selected[0]['title']} 到 {selected[-1]['title']}")
     audit_label = company.get('auditLabel', f"官方作品清单 {company['catalogueEntryCount']} 项及范围说明。")

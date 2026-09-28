@@ -823,6 +823,154 @@
         }
       ],
       "auditNote": "“四部”依据品牌官网现有四个作品栏目逐项核对，指独立已发行游戏，不代表 Aniplex 公司的全部电子游戏。第一期同时推出两部作品；零售商店不等于游戏平台。"
+    },
+    {
+      "id": "sprite",
+      "name": "sprite",
+      "checkedAt": "2026-09-28",
+      "status": "官网主作品与两部外传逐项核对",
+      "scope": "根据 sprite 官网页面核对三部截至核对日已发行的主作品、两部独立 EXTRA 外传，共五部四类叙事作品。授权卡牌游戏单列；fairys 关联作和预告未发售项目不算作 sprite 已发行作品。",
+      "versionScope": "收录已核实的各主要平台年份与发行方；同一平台的 Steam 本地化发行可有单独发行年份。不同地区发行日期与未证实的早期数字移植仍待复核。",
+      "publisherNote": "sprite 是作品品牌；五部独立叙事游戏中，前四部原始 PC 版由 sprite 发行，《everlasting flowers》2024 年版由 RIGHTWAY 发行。各移植版按商店实际署名另归 KADOKAWA、RIGHTWAY、NekoNyan Ltd. 与 HIKARI FIELD，因此主页“发行厂商”筛选 sprite 的作品数与本专题创作品牌的五部不同。",
+      "workIds": [
+        "g204",
+        "g205",
+        "g206",
+        "g207",
+        "g208"
+      ],
+      "catalogueEntryCount": 4,
+      "source": "https://sprite.net/games",
+      "sectionTitle": "从《恋选》到 everlasting flowers",
+      "entries": [
+        {
+          "title": "恋と選挙とチョコレート",
+          "status": "已收录",
+          "workIds": [
+            "g204"
+          ],
+          "reason": "已独立发售；剧情、角色、平台版本与各版本发行署名在作品记录中逐项列明。",
+          "source": "https://sprite.net/koichoco/"
+        },
+        {
+          "title": "蒼の彼方のフォーリズム",
+          "status": "已收录",
+          "workIds": [
+            "g205"
+          ],
+          "reason": "已独立发售；剧情、角色、平台版本与各版本发行署名在作品记录中逐项列明。",
+          "source": "https://sprite.net/aokana"
+        },
+        {
+          "title": "蒼の彼方のフォーリズム EXTRA1",
+          "status": "已收录",
+          "workIds": [
+            "g206"
+          ],
+          "reason": "已独立发售；剧情、角色、平台版本与各版本发行署名在作品记录中逐项列明。",
+          "source": "https://sprite.net/aokana/extra1"
+        },
+        {
+          "title": "蒼の彼方のフォーリズム EXTRA2",
+          "status": "已收录",
+          "workIds": [
+            "g207"
+          ],
+          "reason": "已独立发售；剧情、角色、平台版本与各版本发行署名在作品记录中逐项列明。",
+          "source": "https://sprite.net/aokana/extra2"
+        },
+        {
+          "title": "everlasting flowers",
+          "status": "已收录",
+          "workIds": [
+            "g208"
+          ],
+          "reason": "已独立发售；剧情、角色、平台版本与各版本发行署名在作品记录中逐项列明。",
+          "source": "https://sprite.net/everlastingflowers"
+        },
+        {
+          "title": "蒼の彼方のフォーリズム -ETERNAL SKY-",
+          "status": "另列跨类型授权作品",
+          "workIds": [],
+          "relatedIds": [
+            "sprite-eternal-sky"
+          ],
+          "reason": "Edia 公告的游戏类型是卡牌对战；独立运营，不当作本篇的视觉小说版本。",
+          "source": "https://prtimes.jp/main/html/rd/p/000000062.000021592.html"
+        },
+        {
+          "title": "小金井荘と金色の揚羽蝶",
+          "status": "尚未发行",
+          "workIds": [],
+          "reason": "截至 2026 年 9 月 28 日，sprite 官网标明 2026 年 11 月 26 日上市；发售前不列为已发行游戏。",
+          "source": "https://sprite.net/games"
+        },
+        {
+          "title": "いますぐお兄ちゃんに妹だっていいたい！",
+          "status": "其他品牌作品",
+          "workIds": [],
+          "reason": "sprite《恋选》站点说明为 fairys 的关联作品；不混入 sprite 独立作品计数。",
+          "source": "https://sprite.net/koichoco/"
+        },
+        {
+          "title": "蒼の彼方のフォーリズム -ZWEI- / EXTRA3",
+          "status": "取消／无企划",
+          "workIds": [],
+          "reason": "sprite 官方声明 ZWEI 制作中止；EXTRA3 从未立项，不计已发行。",
+          "source": "https://sprite.net/aokana"
+        },
+        {
+          "title": "HD EDITION、EXTRA1+2S／P 与动画等",
+          "status": "并入版本或排除媒介",
+          "workIds": [],
+          "reason": "增强版和双篇合装属于已有作品的版本／商品，动画和实体特典不是新游戏。",
+          "source": "https://sprite.net/aokana"
+        }
+      ],
+      "relatedGames": [
+        {
+          "id": "sprite-eternal-sky",
+          "title": "苍之彼方的四重奏 -ETERNAL SKY-",
+          "originalTitle": "蒼の彼方のフォーリズム -ETERNAL SKY-",
+          "firstYear": 2016,
+          "category": "跨类型游戏",
+          "subcategory": "卡牌对战／角色养成",
+          "genre": "飞行竞技衍生卡牌",
+          "characters": [
+            "仓科明日香",
+            "鸢泽美咲",
+            "有坂真白",
+            "市之濑莉佳",
+            "玩家（特训教练）"
+          ],
+          "synopsis": "玩家作为新设 Flying Circus 训练设施的教练，训练来自各地的选手，收集角色卡牌并带队争取比赛胜利。",
+          "notes": "Edia 发行的 sprite 授权衍生作品；官方类型为卡牌对战，故在专题单列，不进入四类叙事游戏主库。2017 年 10 月 2 日周年公告推算 2016 年上线；精确首发日待核实。",
+          "source": "https://prtimes.jp/main/html/rd/p/000000062.000021592.html",
+          "versions": [
+            {
+              "year": 2016,
+              "platform": "iOS",
+              "kind": "手机卡牌游戏",
+              "publisher": "Edia",
+              "voice": "未核实",
+              "differences": "按 Edia 的 2017 年一周年公告推定 2016 年首发；曾为持续运营的卡牌对战游戏，具体日期和语音待核实。",
+              "source": "https://prtimes.jp/main/html/rd/p/000000062.000021592.html"
+            },
+            {
+              "year": 2016,
+              "platform": "Android",
+              "kind": "手机卡牌游戏",
+              "publisher": "Edia",
+              "voice": "未核实",
+              "differences": "按 Edia 的 2017 年一周年公告推定 2016 年首发；曾为持续运营的卡牌对战游戏，具体日期和语音待核实。",
+              "source": "https://prtimes.jp/main/html/rd/p/000000062.000021592.html"
+            }
+          ]
+        }
+      ],
+      "relatedIntro": "Edia 官方将 ETERNAL SKY 标为卡牌对战游戏。这里记录授权衍生作的故事、角色和移动平台，专题顶部的相关游戏总数包含这部；主数据库仍仅收录四类叙事游戏。",
+      "auditLabel": "官网三部已发售主作品、两部外传与相关边界逐项核对。",
+      "auditNote": "“五部”指 sprite 品牌已独立发行的四类叙事游戏，并非公司所有授权游戏或包装商品。2026 年 11 月预定作品截至 9 月 28 日未发行；已确认取消的 ZWEI 不列入发售数。"
     }
   ]
 }
