@@ -7,7 +7,7 @@
   <meta name="description" content="按游戏细分类、发行厂商和平台版本检索文字冒险、视觉小说、互动动画与Galgame的年份、角色和剧情。">
   <title>叙事游戏年鉴 · 平台版本数据库</title>
   <link rel="stylesheet" href="styles.css">
-  <script type="module" src="app.mjs?v=20260928-5"></script>
+  <script type="module" src="app.mjs?v=20260928-6"></script>
 </head>
 <body>
   <div class="app-shell">
@@ -19,7 +19,7 @@
     <main id="top">
       <section class="hero">
         <div class="hero-text">
-          <p class="eyebrow">NARRATIVE GAMES INDEX · 1976—2025</p>
+          <p class="eyebrow">NARRATIVE GAMES INDEX · 1976—2026</p>
           <h1>从一行指令<br>走进<span>千种故事。</span></h1>
       <p class="lead">文字冒险、视觉小说、互动动画与 Galgame 的作品和平台版本资料。按游戏细分类与发行厂商检索，再对照移植、配音与重制的变化。</p>
           <div class="hero-links"><a class="primary-link" href="#catalogue">浏览作品 <span aria-hidden="true">↗</span></a><a class="secondary-link" href="data/games.json">获取 JSON 数据</a></div>
@@ -53,6 +53,7 @@
           <label><span>配音</span><select id="voice"><option value="">不限</option><option value="有">有配音</option><option value="无">无配音</option><option value="未核实">待核实</option></select></label>
           <button id="clear" type="button">清除筛选</button>
         </div>
+        <div class="company-quick" aria-label="厂商专题"><span>集中整理</span><div><a class="secondary-link" href="key.html">Key 品牌专题 · 21 部关联作品与目录核对清单 ↗</a></div></div>
         <div class="company-quick" aria-label="常见发行厂商"><span>按厂商浏览</span><div id="company-quick-list"></div></div>
         <div class="catalogue-toolbar"><p>厂商数字按不同游戏计数；选择厂商后显示其实际参与发行的平台版本。展开作品可查看原始发行署名。</p><label>排序 <select id="sort"><option value="oldest">首发：从早到晚</option><option value="newest">首发：从近到远</option><option value="title">名称：拼音 / 字母</option></select></label></div>
         <div class="cards" id="cards"></div>

@@ -55,4 +55,16 @@ for version, row in zip(versions, rows):
                        ('kind', '版本类型'), ('voice', '配音'),
                        ('differences', '版本差异'), ('source', '来源')]:
         assert version[key] == row[field], f"{version['id']} 的 {field} 与 JSON 不一致"
-print(f"校验通过：{len(works)} 部作品，{len(versions)} 个平台版本")
+coverage = json.loads((ROOT / 'data/company-coverage.json').read_text(encoding='utf-8'))
+for company in coverage['companies']:
+    ids = company['workIds']
+    assert len(ids) == len(set(ids)) and set(ids) <= work_ids, '厂商专题作品 ID 不正确'
+    assert company['catalogueEntryCount'] <= len(company['entries'])
+    covered = set()
+    for entry in company['entries']:
+        assert entry['source'].startswith('https://') and entry['reason']
+        assert set(entry['workIds']) <= set(ids), '核对清单与专题作品不一致'
+        covered.update(entry['workIds'])
+    assert covered == set(ids), '专题存在缺少核对来源的作品'
+    assert all(work['subcategory'] not in {'纯文本指令', '图文指令'} for work in works if work['id'] in ids)
+print(f"校验通过：{len(works)} 部作品，{len(versions)} 个平台版本；厂商专题引用一致")

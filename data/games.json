@@ -2,7 +2,7 @@
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
     "updated": "2026-09-28",
-    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。",
+    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
   "works": [
@@ -1951,7 +1951,7 @@
         "水濑名雪"
       ],
       "charactersNote": "",
-      "synopsis": "在冬季小镇重逢旧友，逐步找回记忆。",
+      "synopsis": "相泽祐一多年后回到积雪的小镇，与表妹名雪共同生活。他在重逢与新的邂逅中发现被遗忘的约定，各条路线连接少女们的愿望与记忆。",
       "notes": "兼属 Galgame；按 Windows 初版。",
       "source": "https://key.visualarts.gr.jp/product/kanon/",
       "subcategory": "恋爱剧情"
@@ -1969,7 +1969,7 @@
         "神尾晴子"
       ],
       "charactersNote": "",
-      "synopsis": "旅行中的青年在海边小镇追寻传说。",
+      "synopsis": "靠人偶表演谋生的国崎往人来到海边小镇，遇见神尾观铃等少女。他所追寻的天空少女传说，与眼前的夏日和更久远的命运逐渐交织。",
       "notes": "兼属 Galgame。",
       "source": "https://key.visualarts.gr.jp/key20th/history.html",
       "subcategory": "恋爱剧情"
@@ -2078,7 +2078,7 @@
         "坂上智代"
       ],
       "charactersNote": "",
-      "synopsis": "结识小镇上的人们，经历青春与家庭故事。",
+      "synopsis": "对学校和家庭感到疏离的冈崎朋也结识古河渚，帮助她重新建立戏剧部。在与同学和小镇居民的往来中，故事从校园延伸到工作、家庭与成长。",
       "notes": "2004 年 4 月 28 日首发；兼属广义 Galgame。",
       "source": "https://key.visualarts.gr.jp/key20th/history.html",
       "subcategory": "恋爱剧情"
@@ -2114,7 +2114,7 @@
         "废墟猎人（屑屋）"
       ],
       "charactersNote": "",
-      "synopsis": "在末日废墟与星象馆机器人相遇。",
+      "synopsis": "废墟猎人为躲避危险进入荒废的星象馆，遇见仍在等待观众的机器人梦美。一场迟来的星空演示，让两个孤独的存在建立短暂而深刻的联系。",
       "notes": "最初的在线版仅有部分语音；2006 年 PS2 版扩充为全配音。",
       "source": "https://www.prot.co.jp/ps2/planetarian/index.html",
       "subcategory": "单线视觉小说"
@@ -2411,8 +2411,8 @@
         "枣铃"
       ],
       "charactersNote": "",
-      "synopsis": "理树与儿时伙伴组成棒球队，在共同度过的校园生活中面对朋友们各自的故事。",
-      "notes": "",
+      "synopsis": "直枝理树与儿时伙伴组织棒球队，在招募成员和校园活动中走近同伴们的心事。看似热闹的日常逐步通向关于友情、失去与成长的核心故事。",
+      "notes": "EX、Converted Edition、Perfect Edition 等按原作的增强／移植版本登记，厂商游戏数不重复计算。",
       "source": "https://key.visualarts.gr.jp/product/little/site/products.htm"
     },
     {
@@ -2429,7 +2429,7 @@
         "千里朱音"
       ],
       "charactersNote": "",
-      "synopsis": "风祭市的学生瑚太朗加入超自然研究会，调查身边的怪异事件。",
+      "synopsis": "天王寺瑚太朗在绿化城市风祭加入超自然研究会，与少女们调查怪异现象。随着秘密浮现，个人的日常卷入不同势力对人与自然未来的争执。",
       "notes": "",
       "source": "https://key.visualarts.gr.jp/product_all"
     },
@@ -2446,8 +2446,8 @@
         "鸣濑白羽"
       ],
       "charactersNote": "",
-      "synopsis": "羽依里来到鸟白岛整理祖母遗物，在岛上结识新的朋友并度过一个夏天。",
-      "notes": "",
+      "synopsis": "鹰原羽依里来到鸟白岛整理祖母遗物，试着从原来的生活中抽身。他在海边、山林与岛上伙伴相遇，沿不同路线探寻夏日记忆与未尽的愿望。",
+      "notes": "REFLECTION BLUE 为原作增强版；各平台按实际发行年份分别记录。",
       "source": "https://key.visualarts.gr.jp/summer/"
     },
     {
@@ -2464,13 +2464,13 @@
         "西蒙"
       ],
       "charactersNote": "",
-      "synopsis": "热衷 GPS 寻宝的平良困在不断重演的一天，与其他循环者寻找出路。",
-      "notes": "",
+      "synopsis": "平良与朋友参加 GPS 寻宝后，被困在不断重复的一天。他们与其他循环者共同生活，调查循环规则，并尝试找回走向明天的办法。",
+      "notes": "2025 年 PLUS 含原作与追加情节，归入版本记录，不另计一部游戏。",
       "source": "https://key.visualarts.gr.jp/kinetic/loopers/"
     },
     {
       "id": "g149",
-      "title": "终之星",
+      "title": "星之终途",
       "originalTitle": "終のステラ",
       "firstYear": 2022,
       "category": "视觉小说",
@@ -2481,8 +2481,8 @@
         "菲莉娅"
       ],
       "charactersNote": "",
-      "synopsis": "运货人裘德穿越被机器支配的世界，护送一名渴望成为人类的少女型机器人。",
-      "notes": "",
+      "synopsis": "在机器主导的未来，运货人裘德接受任务，护送少女型机器人菲莉娅穿越危险地区。她相信旅途终点能让自己成为人类，两人逐渐建立信任。",
+      "notes": "日文名《終のステラ》，英文名 Stella of The End；库中曾译作“终之星”。",
       "source": "https://key.visualarts.gr.jp/kinetic/stella/"
     },
     {
@@ -2623,7 +2623,7 @@
         "坂上鹰文"
       ],
       "charactersNote": "",
-      "synopsis": "冈崎朋也与坂上智代交往后，一名需要照顾的小女孩来到身边，几人的暑假由此改变。",
+      "synopsis": "与智代交往的朋也开始工作，两人因照顾一名小女孩而与鹰文等人共同生活。围绕这个临时家庭的日常，故事讨论爱、责任和人生遭遇改变后的选择。",
       "notes": "PC 首发为成人版，2010 年纪念版为全年龄版本；2014 年 PerfectEdition 另列。",
       "source": "https://key.visualarts.gr.jp/product/tomoyo/"
     },
@@ -2641,7 +2641,7 @@
         "立华奏"
       ],
       "charactersNote": "",
-      "synopsis": "失去生前记忆的音无来到死后的学校，结识对抗天使的学生团队，寻找同伴们的过去。",
+      "synopsis": "失去记忆的音无来到死后的学校，被邀请加入反抗“天使”的战线。他在行动和校园日常中了解同伴生前的遗憾，也重新思考留在这里的理由。",
       "notes": "仅收录第一章；并未将未发行的续章当作独立发行作品。",
       "source": "https://key.visualarts.gr.jp/angelbeats/products.html"
     },
@@ -2747,7 +2747,7 @@
         "能美库特莉亚芙卡"
       ],
       "charactersNote": "",
-      "synopsis": "以《Little Busters!》角色库特为中心，描写理树与她在宿舍生活中的暑假故事。",
+      "synopsis": "暑假里，因宿舍设施故障而失去住处的理树与库特开始秘密同住。两人和周围朋友一同经历夏日活动，并面对库特的梦想与家庭牵挂。",
       "notes": "2010 年首发是成人版；2013 年另有全年龄 PC 版，不将后版限制倒填至原版。",
       "source": "https://key.visualarts.gr.jp/kudo/ex/spec.html"
     },
@@ -2765,7 +2765,7 @@
         "千里朱音"
       ],
       "charactersNote": "",
-      "synopsis": "回到《Rewrite》的风祭市，与瑚太朗和同伴们经历不同路线的后续与番外故事。",
+      "synopsis": "以《Rewrite》人物为中心的六篇扩展故事，描写原作路线之外及之后的日常与奇幻经历；另附地下城小游戏，适合读过本篇后了解更多角色侧面。",
       "notes": "官方将其称为《Rewrite》的粉丝盘；单独发行，因此列为独立作品。",
       "source": "https://key.visualarts.gr.jp/rewrite/"
     },
@@ -3066,6 +3066,149 @@
       "synopsis": "新人律师王泥喜法介走访案发现场、举证反驳证人，并以“看穿”能力识破证言漏洞。",
       "notes": "以选项、调查与举证推进，不收录自由输入式指令游戏。",
       "source": "https://www.nintendo.co.jp/ds/software/agcj/index.html"
+    },
+    {
+      "id": "g183",
+      "title": "Harmonia",
+      "originalTitle": "Harmonia",
+      "firstYear": 2016,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "末日科幻／人与机器的情感",
+      "characters": [
+        "雷（Rei）",
+        "希奥娜（Shiona）",
+        "缇皮（Tipi）"
+      ],
+      "charactersNote": "",
+      "synopsis": "在战争后的荒芜世界，自认缺少感情的机械少年雷离开工厂，遇见收留他的少女希奥娜。他在小镇生活中学习喜悦、悲伤与人与人的联系。",
+      "notes": "先发行英文数字版；2017 年为日文实体版的一般销售年份。Switch 与 Full HD 版补齐主人公和配角语音。",
+      "source": "https://store.steampowered.com/app/421660/Harmonia/"
+    },
+    {
+      "id": "g184",
+      "title": "LUNARiA：虚拟月之子",
+      "originalTitle": "LUNARiA -Virtualized Moonchild-",
+      "firstYear": 2021,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "近未来科幻／远距离恋爱",
+      "characters": [
+        "T-BIT",
+        "LUNAR-Q"
+      ],
+      "charactersNote": "",
+      "synopsis": "天才玩家 T-BIT 在虚拟竞速比赛中意外进入月面服务器，遇见希望亲眼看见地球的 AI 少女 LUNAR-Q。两人隔着地月距离建立联系。",
+      "notes": "故事中存在竞速游戏，但本作自身是无剧情分支的 Kinetic Novel。",
+      "source": "https://key.visualarts.gr.jp/kinetic/lunaria/"
+    },
+    {
+      "id": "g185",
+      "title": "星之梦：雪圈球",
+      "originalTitle": "planetarian ～雪圏球～",
+      "firstYear": 2021,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "科幻／机器人／前日谈",
+      "characters": [
+        "星野梦美",
+        "仓桥里美"
+      ],
+      "charactersNote": "",
+      "synopsis": "在《星之梦》约三十年前的和平时代，梦美来到百货商店的星象馆工作。认真守规的她突然开始擅离岗位，工作人员尝试理解她的变化。",
+      "notes": "独立前传；2021 年与本篇组成 Ultimate Edition，也有单独下载版。其动画和原著短篇不计作游戏首发。",
+      "source": "https://www.prot.co.jp/switch/planetarianlpsg/index.html"
+    },
+    {
+      "id": "g186",
+      "title": "天籁人偶：冬空花火／雪华文样",
+      "originalTitle": "プリマドール 冬空花火／雪華文様",
+      "firstYear": 2023,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "战争余波／自律人偶／双篇前传",
+      "characters": [
+        "灰樱",
+        "鸦羽",
+        "莉莉娅",
+        "远间凪"
+      ],
+      "charactersNote": "",
+      "synopsis": "两篇故事描写黑猫亭开业之前的人偶经历：灰樱帮助遭追捕的莉莉娅，鸦羽则在修复后尝试接受新的工作，战争的阴影逐渐迫近。",
+      "notes": "同一商品收录两篇，按一部作品计数；与动画和免费网页短篇分别说明。",
+      "source": "https://primadoll.jp/kineticnovel/01/index.html"
+    },
+    {
+      "id": "g187",
+      "title": "天籁人偶：无名典礼",
+      "originalTitle": "プリマドール 無名典礼",
+      "firstYear": 2024,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "战争／逃亡／人偶前传",
+      "characters": [
+        "箒星",
+        "无名皇军士兵"
+      ],
+      "charactersNote": "",
+      "synopsis": "樱花失控后，机械人偶占据战场。一名潜入废城的无名士兵遇见尚未暴走的支援人偶箒星，两人试图一同离开这片绝境。",
+      "notes": "系列游戏第二卷，以箒星为中心的新写前传。",
+      "source": "https://primadoll.jp/kineticnovel/02/index.html"
+    },
+    {
+      "id": "g188",
+      "title": "虹彩都市",
+      "originalTitle": "虹彩都市",
+      "firstYear": 2025,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "AR 科幻／网络犯罪／记忆",
+      "characters": [
+        "喰木紫苑",
+        "一华百花",
+        "乙原琉璃乃"
+      ],
+      "charactersNote": "",
+      "synopsis": "眼内设备让现实与 AR 重叠。调查员喰木紫苑因非法设备案件被调往故乡，在那里重遇据说早已去世、如今以虚拟形象出现的儿时伙伴百花。",
+      "notes": "Windows 已发行。Switch 官方日期为 2026 年 10 月 1 日，截至本次核对尚未到来，列入专题待发行项。",
+      "source": "https://key.visualarts.gr.jp/kinetic/augment_protocol/"
+    },
+    {
+      "id": "g189",
+      "title": "anemoi",
+      "originalTitle": "anemoi -アネモイ-",
+      "firstYear": 2026,
+      "category": "视觉小说",
+      "subcategory": "恋爱剧情",
+      "genre": "乡镇生活／约定／恋爱",
+      "characters": [
+        "速川麦",
+        "速川六花",
+        "辻仓朱比华"
+      ],
+      "charactersNote": "",
+      "synopsis": "为赴十年前埋下的时间胶囊之约，速川麦与妹妹六花来到北方的真澄町。他在风车与田野间结识居民，等待约定之日，也逐渐建立新的感情。",
+      "notes": "采用最终实际发售日 2026 年 4 月 24 日；不沿用曾公布的 1 月 30 日。",
+      "source": "https://key.visualarts.gr.jp/anemoi/story.html"
+    },
+    {
+      "id": "g190",
+      "title": "CLANNAD：光守护的坡道",
+      "originalTitle": "CLANNAD 光見守る坂道で",
+      "firstYear": 2008,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "校园／家庭／外传短篇集",
+      "characters": [
+        "古河渚",
+        "冈崎朋也",
+        "藤林杏",
+        "坂上智代"
+      ],
+      "charactersNote": "",
+      "synopsis": "由本篇编剧撰写的外传，以不同人物为中心补充相识前的经历与结局后的生活。后来的 PSP 和 Switch 版将十六篇故事与插图、语音结合。",
+      "notes": "游戏化最早核对至 2008 年手机连载；纸质短篇与广播剧不计游戏版本。Key 相关外传，版本发行方包括 VisualArt’s、PROTOTYPE 和 Sekai Project。",
+      "source": "https://www.prot.co.jp/switch/clannadss/introduction.html"
     }
   ],
   "versions": [
@@ -7544,6 +7687,438 @@
       "voice": "有（部分）",
       "differences": "2007 年 4 月 12 日；新增「看穿」证人动作、触屏与麦克风操作；少量喊话语音。",
       "source": "https://www.nintendo.co.jp/ds/software/agcj/index.html"
+    },
+    {
+      "id": "g183-v1",
+      "workId": "g183",
+      "year": 2016,
+      "platform": "Steam",
+      "publisher": "VisualArts",
+      "publisherCompanies": [
+        "VisualArt’s"
+      ],
+      "kind": "英文数字首发",
+      "voice": "有（部分）",
+      "differences": "2016 年英文版首发，主要角色有日语配音；日期显示存在时区差异，年份一致。",
+      "source": "https://store.steampowered.com/app/421660/Harmonia/"
+    },
+    {
+      "id": "g183-v2",
+      "workId": "g183",
+      "year": 2017,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "日文实体版",
+      "voice": "有（部分）",
+      "differences": "2017 年 5 月 26 日一般发售的日文实体版；官方此前已公告 C91 日文版。",
+      "source": "https://key.visualarts.gr.jp/harmonia/"
+    },
+    {
+      "id": "g183-v3",
+      "workId": "g183",
+      "year": 2022,
+      "platform": "Nintendo Switch",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "全角色配音移植",
+      "voice": "有",
+      "differences": "2022 年 10 月 20 日；新增雷及其他角色配音，支持日、英、简体中文。",
+      "source": "https://www.prot.co.jp/switch/harmonia/spec.html"
+    },
+    {
+      "id": "g183-v4",
+      "workId": "g183",
+      "year": 2024,
+      "platform": "Steam",
+      "publisher": "VISUAL ARTS",
+      "publisherCompanies": [
+        "VisualArt’s"
+      ],
+      "kind": "Full HD Edition",
+      "voice": "有",
+      "differences": "2024 年 4 月 24 日；1920×1080，新增主人公及 26 名配角语音，支持日英简中。",
+      "source": "https://store.steampowered.com/app/2699690/Harmonia_Full_HD_Edition/"
+    },
+    {
+      "id": "g184-v1",
+      "workId": "g184",
+      "year": 2021,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "日文首发",
+      "voice": "有",
+      "differences": "2021 年 12 月 24 日；日文 Windows 版。",
+      "source": "https://key.visualarts.gr.jp/kinetic/lunaria/"
+    },
+    {
+      "id": "g184-v2",
+      "workId": "g184",
+      "year": 2022,
+      "platform": "Android",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "移动移植",
+      "voice": "有",
+      "differences": "官方于 2022 年 2 月 24 日公告 Android 版配信，适配手机阅读。",
+      "source": "https://key.visualarts.gr.jp/kinetic/lunaria/"
+    },
+    {
+      "id": "g184-v3",
+      "workId": "g184",
+      "year": 2022,
+      "platform": "iOS",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "移动移植",
+      "voice": "有",
+      "differences": "官方于 2022 年 2 月 24 日公告 iOS 版配信；与 PC 原版分开记录。",
+      "source": "https://key.visualarts.gr.jp/kinetic/lunaria/"
+    },
+    {
+      "id": "g184-v4",
+      "workId": "g184",
+      "year": 2024,
+      "platform": "Nintendo Switch",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "多语言主机移植",
+      "voice": "有",
+      "differences": "2024 年 2 月 22 日；日英简中三种文本与日语全配音。",
+      "source": "https://www.prot.co.jp/switch/lunaria/index.html"
+    },
+    {
+      "id": "g184-v5",
+      "workId": "g184",
+      "year": 2024,
+      "platform": "Steam",
+      "publisher": "VISUAL ARTS",
+      "publisherCompanies": [
+        "VisualArt’s"
+      ],
+      "kind": "多语言数字版",
+      "voice": "有",
+      "differences": "2024 年 8 月 30 日；全高清，日英简中三种文本，支持触控操作。",
+      "source": "https://store.steampowered.com/app/2983260/LUNARiA_Virtualized_Moonchild/"
+    },
+    {
+      "id": "g185-v1",
+      "workId": "g185",
+      "year": 2021,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "前传首发／Ultimate Edition",
+      "voice": "有",
+      "differences": "2021 年 9 月 3 日；作为合集第二张游戏盘提供，也可单独下载购买。",
+      "source": "https://key.visualarts.gr.jp/product/planetarian/ul_edition/"
+    },
+    {
+      "id": "g185-v2",
+      "workId": "g185",
+      "year": 2024,
+      "platform": "Nintendo Switch",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "主机移植／双作合集",
+      "voice": "有",
+      "differences": "2024 年 6 月 27 日；单独数字版或与本篇同捆，日英法简繁五种文本。",
+      "source": "https://www.prot.co.jp/switch/planetarianlpsg/index.html"
+    },
+    {
+      "id": "g185-v3",
+      "workId": "g185",
+      "year": 2025,
+      "platform": "Steam",
+      "publisher": "VISUAL ARTS",
+      "publisherCompanies": [
+        "VisualArt’s"
+      ],
+      "kind": "多语言数字版",
+      "voice": "有",
+      "differences": "2025 年 4 月 30 日；日语全配音、五种文本，支持 Dolby Atmos 双耳音频音乐。",
+      "source": "https://store.steampowered.com/app/2983350/"
+    },
+    {
+      "id": "g186-v1",
+      "workId": "g186",
+      "year": 2023,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "2023 年 4 月 28 日；将灰樱、鸦羽前传改编为 Kinetic Novel。",
+      "source": "https://primadoll.jp/kineticnovel/01/index.html"
+    },
+    {
+      "id": "g187-v1",
+      "workId": "g187",
+      "year": 2024,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "2024 年 5 月 31 日；Windows 日文 Kinetic Novel，与第一卷剧情独立。",
+      "source": "https://primadoll.jp/kineticnovel/02/index.html"
+    },
+    {
+      "id": "g188-v1",
+      "workId": "g188",
+      "year": 2025,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "2025 年 11 月 28 日；日文全年龄 Kinetic Novel。",
+      "source": "https://key.visualarts.gr.jp/kinetic/augment_protocol/"
+    },
+    {
+      "id": "g189-v1",
+      "workId": "g189",
+      "year": 2026,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "2026 年 4 月 24 日；Windows 11 日文恋爱冒险，实体初回版与下载版。",
+      "source": "https://key.visualarts.gr.jp/anemoi/spec.html"
+    },
+    {
+      "id": "g190-v1",
+      "workId": "g190",
+      "year": 2008,
+      "platform": "功能手机（DoCoMo／SoftBank）",
+      "publisher": "VisualArt’s（ビジュアルアーツ★Motto）",
+      "publisherCompanies": [
+        "VisualArt’s"
+      ],
+      "kind": "手机小说连载",
+      "voice": "未核实",
+      "differences": "2008 年 1 月官方公告已配信至第二话；后续逐篇发布，不能视作 16 篇同时首发。",
+      "source": "https://key.visualarts.gr.jp/info/2008/01/post_4.html"
+    },
+    {
+      "id": "g190-v2",
+      "workId": "g190",
+      "year": 2010,
+      "platform": "PSP",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "上卷",
+      "voice": "有",
+      "differences": "2010 年 6 月 3 日；前八篇故事，以文本、插图及广播剧演出组成视觉有声小说。",
+      "source": "https://www.prot.co.jp/psp/clannad_hikari/"
+    },
+    {
+      "id": "g190-v3",
+      "workId": "g190",
+      "year": 2010,
+      "platform": "PSP",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "下卷",
+      "voice": "有",
+      "differences": "2010 年 7 月 15 日；后八篇故事，和上卷共同构成 16 篇外传。",
+      "source": "https://www.prot.co.jp/psp/clannad_hikari/"
+    },
+    {
+      "id": "g190-v4",
+      "workId": "g190",
+      "year": 2016,
+      "platform": "Steam",
+      "publisher": "Sekai Project",
+      "publisherCompanies": [
+        "Sekai Project"
+      ],
+      "kind": "英文数字版",
+      "voice": "有",
+      "differences": "2016 年 6 月 2 日；CLANNAD Side Stories，高清素材、英文文本与日语语音。",
+      "source": "https://store.steampowered.com/app/420100/CLANNAD_Side_Stories/"
+    },
+    {
+      "id": "g190-v5",
+      "workId": "g190",
+      "year": 2021,
+      "platform": "Nintendo Switch",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "双语主机版",
+      "voice": "有",
+      "differences": "2021 年 5 月 20 日；完整 16 篇，日英文本与日语全配音。",
+      "source": "https://www.prot.co.jp/switch/clannadss/spec.html"
+    },
+    {
+      "id": "g145-v3",
+      "workId": "g145",
+      "year": 2008,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "Ecstasy（EX）增强成人版",
+      "voice": "有",
+      "differences": "2008 年 7 月 25 日初回版；扩充角色路线的成人增强版，合并在原作作品下。",
+      "source": "https://key.visualarts.gr.jp/product/little_ex/"
+    },
+    {
+      "id": "g145-v4",
+      "workId": "g145",
+      "year": 2020,
+      "platform": "Nintendo Switch",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "Converted Edition",
+      "voice": "有（主角部分）",
+      "differences": "2020 年 4 月 23 日；日英双语，保留扩充路线与小游戏，调整为家用机内容。",
+      "source": "https://www.prot.co.jp/switch/lbc_en/index.html"
+    },
+    {
+      "id": "g148-v5",
+      "workId": "g148",
+      "year": 2025,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "LOOPERS PLUS",
+      "voice": "有",
+      "differences": "2025 年 10 月 24 日；新增人物故事、后日谈、十余张 CG 及新音乐，作为原作增强版。",
+      "source": "https://key.visualarts.gr.jp/kinetic/loopersplus/"
+    },
+    {
+      "id": "g032-v3",
+      "workId": "g032",
+      "year": 2021,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "Ultimate Edition 合集本篇",
+      "voice": "有",
+      "differences": "2021 年 9 月 3 日；合集包含本篇与《雪圈球》两张游戏盘，本条指本篇。",
+      "source": "https://key.visualarts.gr.jp/product/planetarian/ul_edition/"
+    },
+    {
+      "id": "g032-v4",
+      "workId": "g032",
+      "year": 2024,
+      "platform": "Nintendo Switch",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "本篇与《雪圈球》合集",
+      "voice": "有",
+      "differences": "2024 年 6 月 27 日；日英法简繁五种文本、全配音。本条对应合集内的本篇。",
+      "source": "https://www.prot.co.jp/switch/planetarianlpsg/index.html"
+    },
+    {
+      "id": "g147-v3",
+      "workId": "g147",
+      "year": 2019,
+      "platform": "Nintendo Switch",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "原版主机移植",
+      "voice": "有（主角部分）",
+      "differences": "2019 年 6 月 20 日；移植 2018 年原作，后来可通过追加内容扩充为 RB。",
+      "source": "https://www.prot.co.jp/switch/"
+    },
+    {
+      "id": "g147-v4",
+      "workId": "g147",
+      "year": 2021,
+      "platform": "Nintendo Switch",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "REFLECTION BLUE 增强移植",
+      "voice": "有（主角部分）",
+      "differences": "2021 年 7 月 1 日；扩充女主角路线，亦提供原版追加 RB 模式的 DLC。",
+      "source": "https://www.prot.co.jp/switch/summerpocketsrb/spec.html"
+    },
+    {
+      "id": "g147-v5",
+      "workId": "g147",
+      "year": 2022,
+      "platform": "PlayStation 4",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "REFLECTION BLUE 增强移植",
+      "voice": "有（主角部分）",
+      "differences": "2022 年 7 月 21 日；PS4 的 RB 版，角色全配音，主人公仅部分段落有声。",
+      "source": "https://www.prot.co.jp/ps4/summerpocketsrb/spec.html"
+    },
+    {
+      "id": "g149-v2",
+      "workId": "g149",
+      "year": 2024,
+      "platform": "Nintendo Switch",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "多语言主机移植",
+      "voice": "有",
+      "differences": "2024 年 12 月 5 日；日英简中三种文本和日语全配音。",
+      "source": "https://www.prot.co.jp/switch/stella/index.html"
     }
   ]
 }

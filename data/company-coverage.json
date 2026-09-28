@@ -1,0 +1,329 @@
+{
+  "companies": [
+    {
+      "id": "key",
+      "name": "Key",
+      "checkedAt": "2026-09-28",
+      "status": "官方目录作品层级核对完成",
+      "scope": "对照 Key 官网产品介绍页的 30 项内容，收录符合四类目录的已发行独立叙事作品；补充《CLANNAD 光守护的坡道》外传。增强版不重复计数，动画、RPG 和网页有声短篇在附录说明。",
+      "versionScope": "平台版本为已核实的首发及主要移植／增强版，尚未穷尽全部地区、语言、手机渠道及廉价再版。",
+      "publisherNote": "Key 是 VisualArt’s 旗下品牌。本专题按品牌关联作品整理，并显示各发行方的版本；主目录的“发行厂商”筛选仍严格依据该版本的发行署名。",
+      "workIds": [
+        "g028",
+        "g029",
+        "g030",
+        "g032",
+        "g145",
+        "g146",
+        "g147",
+        "g148",
+        "g149",
+        "g157",
+        "g158",
+        "g164",
+        "g165",
+        "g183",
+        "g184",
+        "g185",
+        "g186",
+        "g187",
+        "g188",
+        "g189",
+        "g190"
+      ],
+      "catalogueEntryCount": 30,
+      "source": "https://key.visualarts.gr.jp/product_all",
+      "entries": [
+        {
+          "title": "anemoi",
+          "status": "已收录",
+          "workIds": [
+            "g189"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/anemoi/story.html"
+        },
+        {
+          "title": "虹彩都市",
+          "status": "已收录",
+          "workIds": [
+            "g188"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/kinetic/augment_protocol/"
+        },
+        {
+          "title": "プリマドール 無名典礼",
+          "status": "已收录",
+          "workIds": [
+            "g187"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://primadoll.jp/kineticnovel/02/index.html"
+        },
+        {
+          "title": "プリマドール 冬空花火／雪華文様",
+          "status": "已收录",
+          "workIds": [
+            "g186"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://primadoll.jp/kineticnovel/01/index.html"
+        },
+        {
+          "title": "終のステラ",
+          "status": "已收录",
+          "workIds": [
+            "g149"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/kinetic/stella/"
+        },
+        {
+          "title": "LUNARiA -Virtualized Moonchild-",
+          "status": "已收录",
+          "workIds": [
+            "g184"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/kinetic/lunaria/"
+        },
+        {
+          "title": "LOOPERS",
+          "status": "已收录",
+          "workIds": [
+            "g148"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/kinetic/loopers/"
+        },
+        {
+          "title": "Summer Pockets",
+          "status": "已收录",
+          "workIds": [
+            "g147"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/summer/"
+        },
+        {
+          "title": "Harmonia",
+          "status": "已收录",
+          "workIds": [
+            "g183"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://store.steampowered.com/app/421660/Harmonia/"
+        },
+        {
+          "title": "Angel Beats! -1st beat-",
+          "status": "已收录",
+          "workIds": [
+            "g158"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/angelbeats/products.html"
+        },
+        {
+          "title": "Rewrite Harvest festa!",
+          "status": "已收录",
+          "workIds": [
+            "g165"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/rewrite/"
+        },
+        {
+          "title": "Rewrite",
+          "status": "已收录",
+          "workIds": [
+            "g146"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/product_all"
+        },
+        {
+          "title": "クドわふたー",
+          "status": "已收录",
+          "workIds": [
+            "g164"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/kudo/ex/spec.html"
+        },
+        {
+          "title": "リトルバスターズ！",
+          "status": "已收录",
+          "workIds": [
+            "g145"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/product/little/site/products.htm"
+        },
+        {
+          "title": "智代アフター",
+          "status": "已收录",
+          "workIds": [
+            "g157"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/product/tomoyo/"
+        },
+        {
+          "title": "planetarian ～ちいさなほしのゆめ～",
+          "status": "已收录",
+          "workIds": [
+            "g032"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://www.prot.co.jp/ps2/planetarian/index.html"
+        },
+        {
+          "title": "CLANNAD",
+          "status": "已收录",
+          "workIds": [
+            "g030"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/key20th/history.html"
+        },
+        {
+          "title": "AIR",
+          "status": "已收录",
+          "workIds": [
+            "g029"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/key20th/history.html"
+        },
+        {
+          "title": "Kanon",
+          "status": "已收录",
+          "workIds": [
+            "g028"
+          ],
+          "reason": "独立作品已有剧情、角色与版本记录。",
+          "source": "https://key.visualarts.gr.jp/product/kanon/"
+        },
+        {
+          "title": "LOOPERS PLUS",
+          "status": "版本／合集",
+          "workIds": [
+            "g148"
+          ],
+          "reason": "2025 年增强版，在原作内增加版本，不重复计算游戏数。",
+          "source": "https://key.visualarts.gr.jp/kinetic/loopersplus/"
+        },
+        {
+          "title": "planetarian Ultimate Edition",
+          "status": "版本／合集",
+          "workIds": [
+            "g032",
+            "g185"
+          ],
+          "reason": "2021 年合集，分别对应《星之梦》本篇和独立前传《雪圈球》。",
+          "source": "https://key.visualarts.gr.jp/product/planetarian/ul_edition/"
+        },
+        {
+          "title": "Summer Pockets REFLECTION BLUE",
+          "status": "版本／合集",
+          "workIds": [
+            "g147"
+          ],
+          "reason": "2020 年起推出的增强版，合并在 Summer Pockets 下。",
+          "source": "https://key.visualarts.gr.jp/summer_rb/"
+        },
+        {
+          "title": "リトルバスターズ！エクスタシー",
+          "status": "版本／合集",
+          "workIds": [
+            "g145"
+          ],
+          "reason": "2008 年成人增强版，合并在 Little Busters! 下。",
+          "source": "https://key.visualarts.gr.jp/product/little_ex/"
+        },
+        {
+          "title": "ヘブンバーンズレッド（绯染天空）",
+          "status": "范围说明",
+          "workIds": [],
+          "reason": "Key 参与的叙事 RPG，官方类型为 RPG；目前四类目录未单列 RPG，因此在专题说明而不计入游戏数。",
+          "source": "https://heaven-burns-red.com/"
+        },
+        {
+          "title": "かぎなど（键等）",
+          "status": "范围说明",
+          "workIds": [],
+          "reason": "角色跨作品的电视动画。",
+          "source": "https://kaginado.com/"
+        },
+        {
+          "title": "劇場版クドわふたー",
+          "status": "范围说明",
+          "workIds": [],
+          "reason": "2021 年动画电影；同名游戏另有 g164 条目。",
+          "source": "https://kud-wafter.jp/"
+        },
+        {
+          "title": "プリマドール（企划／Kinetic Novel Lite）",
+          "status": "范围说明",
+          "workIds": [],
+          "reason": "2020 年起的网页有声短篇描写黑猫亭人偶生活；原站明确称 WEB 小说。作为延伸阅读介绍，2023 年起的独立游戏另列。",
+          "source": "https://key.visualarts.gr.jp/primadoll/novel.html"
+        },
+        {
+          "title": "神様になった日（成神之日）",
+          "status": "范围说明",
+          "workIds": [],
+          "reason": "电视动画企划。",
+          "source": "https://kamisama-day.jp/"
+        },
+        {
+          "title": "配信・劇場アニメ planetarian",
+          "status": "范围说明",
+          "workIds": [],
+          "reason": "网络／剧场动画；与 2004 年游戏及 2021 年前传分别处理。",
+          "source": "https://planetarian-project.com/"
+        },
+        {
+          "title": "Charlotte（夏洛特）",
+          "status": "范围说明",
+          "workIds": [],
+          "reason": "电视动画企划。",
+          "source": "https://charlotte-anime.jp/"
+        },
+        {
+          "title": "CLANNAD 光見守る坂道で",
+          "status": "补充外传",
+          "workIds": [
+            "g190"
+          ],
+          "reason": "官网手机版公告和 PROTOTYPE、Steam 产品页共同核对；单独发行的外传。",
+          "source": "https://key.visualarts.gr.jp/info/2008/01/post_4.html"
+        },
+        {
+          "title": "プリマドール：皇都探偵",
+          "status": "待发行核实",
+          "workIds": [],
+          "reason": "官网列作第三卷、仅标“発売予定”；描写月下和蕾切尔处理皇都的人偶暴走事件。不填入已发行游戏数。",
+          "source": "https://primadoll.jp/kineticnovel.html"
+        },
+        {
+          "title": "プリマドール・アンコール",
+          "status": "待发行核实",
+          "workIds": [],
+          "reason": "官网列作第四卷、仅标“発売予定”；黑猫亭人偶试图帮助灰樱重新歌唱。不推测首发年。",
+          "source": "https://primadoll.jp/kineticnovel.html"
+        },
+        {
+          "title": "虹彩都市 Nintendo Switch 版",
+          "status": "待发行核实",
+          "workIds": [
+            "g188"
+          ],
+          "reason": "官方预计 2026 年 10 月 1 日发行，晚于本次核对日；待实际发售后再加入版本表。",
+          "source": "https://www.prot.co.jp/switch/augment_protocol/index.html"
+        }
+      ]
+    }
+  ]
+}
