@@ -2,7 +2,7 @@
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
     "updated": "2026-09-28",
-    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。",
+    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
   "works": [
@@ -2520,6 +2520,219 @@
       "synopsis": "失去记忆的蒙面男子被艾露露救起，协助村民应对逐渐扩大的冲突。",
       "notes": "阅读剧情与战术战斗并存，按以剧情为中心的交互形式归档。",
       "source": "https://aquaplus.jp/uta20/"
+    },
+    {
+      "id": "g152",
+      "title": "秋之回忆",
+      "originalTitle": "Memories Off",
+      "firstYear": 1999,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园恋爱／多线剧情",
+      "characters": [
+        "三上智也",
+        "今坂唯笑",
+        "桧月彩花"
+      ],
+      "charactersNote": "",
+      "synopsis": "高中生三上智也在秋季与同学重逢或相识，同时面对一段难以释怀的过去。",
+      "notes": "官方系列年表确认 1999 年 9 月；首发 PS 发行日另据实体商品记录核对。",
+      "source": "https://memoriesoff.jp/historia/titles/1/"
+    },
+    {
+      "id": "g153",
+      "title": "秋之回忆 2nd",
+      "originalTitle": "Memories Off 2nd",
+      "firstYear": 2001,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园恋爱／多线剧情",
+      "characters": [
+        "伊波健",
+        "白河萤"
+      ],
+      "charactersNote": "",
+      "synopsis": "伊波健与白河萤原本稳定的恋情因误会与另一段相遇而出现裂痕。",
+      "notes": "系列官方网站记为 2001 年 9 月；DC 与 PS 同日发行，平台以各版本来源核对。",
+      "source": "https://memoriesoff.jp/historia/titles/2/"
+    },
+    {
+      "id": "g154",
+      "title": "想起你：秋之回忆",
+      "originalTitle": "想い出にかわる君 ～Memories Off～",
+      "firstYear": 2002,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "大学生活／恋爱剧情",
+      "characters": [
+        "加贺正午",
+        "黑须彼方"
+      ],
+      "charactersNote": "",
+      "synopsis": "大学生加贺正午与多年前突然离开的恋人黑须彼方重逢，在旧情与新相遇之间摇摆。",
+      "notes": "系列官方网站记为 2002 年 11 月。",
+      "source": "https://memoriesoff.jp/historia/titles/3/"
+    },
+    {
+      "id": "g155",
+      "title": "命运／虚空明镜",
+      "originalTitle": "Fate/hollow ataraxia",
+      "firstYear": 2005,
+      "category": "视觉小说",
+      "subcategory": "剧情分支／冒险",
+      "genre": "传奇／循环悬疑",
+      "characters": [
+        "卫宫士郎",
+        "远坂凛",
+        "巴泽特"
+      ],
+      "charactersNote": "",
+      "synopsis": "圣杯战争结束后的冬木市陷入重复的四日；熟悉的从者再度现身，另一场圣杯战争在暗处延续。",
+      "notes": "原作含成人向内容；此处记录 2005 年 PC 首发，未混入后来的主机配音资料。",
+      "source": "https://www.typemoon.com/products/products.html"
+    },
+    {
+      "id": "g156",
+      "title": "魔法使之夜",
+      "originalTitle": "魔法使いの夜",
+      "firstYear": 2012,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "现代魔法／青春奇幻",
+      "characters": [
+        "苍崎青子",
+        "久远寺有珠",
+        "静希草十郎"
+      ],
+      "charactersNote": "",
+      "synopsis": "来自乡下的静希草十郎来到城市，与住在坡上洋馆的两位魔女开始共同生活。",
+      "notes": "2012 年原版与 2022 年全配音高清版分列；发行方按具体平台区分。",
+      "source": "https://www.typemoon.com/products/mahoyo/outline.html"
+    },
+    {
+      "id": "g157",
+      "title": "智代 After",
+      "originalTitle": "智代アフター ～It’s a Wonderful Life～",
+      "firstYear": 2005,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱／家庭生活",
+      "characters": [
+        "坂上智代",
+        "冈崎朋也",
+        "坂上鹰文"
+      ],
+      "charactersNote": "",
+      "synopsis": "冈崎朋也与坂上智代交往后，一名需要照顾的小女孩来到身边，几人的暑假由此改变。",
+      "notes": "PC 首发为成人版，2010 年纪念版为全年龄版本；2014 年 PerfectEdition 另列。",
+      "source": "https://key.visualarts.gr.jp/product/tomoyo/"
+    },
+    {
+      "id": "g158",
+      "title": "天使的心跳！第一章",
+      "originalTitle": "Angel Beats! -1st beat-",
+      "firstYear": 2015,
+      "category": "视觉小说",
+      "subcategory": "剧情分支／冒险",
+      "genre": "死后校园／群像剧情",
+      "characters": [
+        "音无结弦",
+        "仲村由理",
+        "立华奏"
+      ],
+      "charactersNote": "",
+      "synopsis": "失去生前记忆的音无来到死后的学校，结识对抗天使的学生团队，寻找同伴们的过去。",
+      "notes": "仅收录第一章；并未将未发行的续章当作独立发行作品。",
+      "source": "https://key.visualarts.gr.jp/angelbeats/products.html"
+    },
+    {
+      "id": "g159",
+      "title": "心之彼端 2",
+      "originalTitle": "ToHeart2",
+      "firstYear": 2004,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园恋爱／多线剧情",
+      "characters": [
+        "河野贵明",
+        "柚原此美",
+        "向坂环"
+      ],
+      "charactersNote": "",
+      "synopsis": "河野贵明升上高中后与青梅竹马和新结识的同学相处，依选择体验不同的校园恋爱故事。",
+      "notes": "以 PlayStation 2 首发版为作品起点，后来的 PC 成人版不得倒填至首发版本。",
+      "source": "https://aquaplus.jp/th2/html/products.html"
+    },
+    {
+      "id": "g160",
+      "title": "超级弹丸论破 2：再见绝望学园",
+      "originalTitle": "スーパーダンガンロンパ２ さよなら絶望学園",
+      "firstYear": 2012,
+      "category": "视觉小说",
+      "subcategory": "推理解谜融合",
+      "genre": "孤岛悬疑／学级裁判",
+      "characters": [
+        "日向创",
+        "七海千秋",
+        "狛枝凪斗"
+      ],
+      "charactersNote": "",
+      "synopsis": "希望峰学园的学生在南国小岛卷入互相残杀的事件，通过搜证和学级裁判寻找真相。",
+      "notes": "首发厂商按 2012 年的 Spike Chunsoft 归档；本次只记录来源明示日期的 PSP 版。",
+      "source": "https://www.spike-chunsoft.co.jp/news/45095/"
+    },
+    {
+      "id": "g161",
+      "title": "新弹丸论破 V3：大家互相残杀的新学期",
+      "originalTitle": "ニューダンガンロンパＶ３ みんなのコロシアイ新学期",
+      "firstYear": 2017,
+      "category": "视觉小说",
+      "subcategory": "推理解谜融合",
+      "genre": "校园悬疑／学级裁判",
+      "characters": [
+        "赤松枫",
+        "最原终一",
+        "王马小吉"
+      ],
+      "charactersNote": "",
+      "synopsis": "新的学生被困在封闭校园，调查同伴遇害事件，并在学级裁判中追查真凶。",
+      "notes": "PlayStation 4 与 PS Vita 的日本首发日相同，两平台分别列出。",
+      "source": "https://www.spike-chunsoft.co.jp/news/45095/"
+    },
+    {
+      "id": "g162",
+      "title": "鬼哭街",
+      "originalTitle": "The Cyber Slayer 鬼哭街",
+      "firstYear": 2002,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "赛博朋克／复仇武侠",
+      "characters": [
+        "孔涛罗",
+        "孔瑞丽"
+      ],
+      "charactersNote": "",
+      "synopsis": "孔涛罗回到犯罪组织控制的上海，追索妹妹遇害的真相并向昔日同伙复仇。",
+      "notes": "2002 年成人向原版官方注明无配音，2011 年新版本为全年龄附近的 15 岁以上推荐并加入全配音。",
+      "source": "https://www.nitroplus.co.jp/game/03-cyberslayer/"
+    },
+    {
+      "id": "g163",
+      "title": "沙耶之歌",
+      "originalTitle": "沙耶の唄",
+      "firstYear": 2003,
+      "category": "视觉小说",
+      "subcategory": "剧情分支／冒险",
+      "genre": "心理恐怖／悬疑",
+      "characters": [
+        "匂坂郁纪",
+        "沙耶",
+        "户尾耕司"
+      ],
+      "charactersNote": "",
+      "synopsis": "事故后郁纪的感官世界扭曲，只有神秘少女沙耶看起来依旧正常；两人的相遇改变了周围的人。",
+      "notes": "原版属于成人向恐怖作品；角色配音有厂商公开声优名单。",
+      "source": "https://www.nitroplus.co.jp/game/06-song-of-saya/saya.php"
     }
   ],
   "versions": [
@@ -6207,6 +6420,304 @@
       "voice": "未核实",
       "differences": "AQUAPLUS 二十周年资料确定首作在 2002 年 4 月 26 日推出；原版角色配音待核实。",
       "source": "https://aquaplus.jp/uta20/"
+    },
+    {
+      "id": "g152-v1",
+      "workId": "g152",
+      "year": 1999,
+      "platform": "PlayStation",
+      "publisher": "KID",
+      "publisherCompanies": [
+        "KID"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "1999 年 9 月 30 日 PS 版；实体商品页记载型号 SLPS-02296。",
+      "source": "https://www.suruga-ya.jp/product/detail/140005644"
+    },
+    {
+      "id": "g153-v1",
+      "workId": "g153",
+      "year": 2001,
+      "platform": "Dreamcast",
+      "publisher": "KID",
+      "publisherCompanies": [
+        "KID"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "世嘉主机软件目录记载 2001 年 9 月 27 日上市，发行署名“キッド”。",
+      "source": "https://www.sega.jp/history/hard/dreamcast/software_l.html"
+    },
+    {
+      "id": "g153-v2",
+      "workId": "g153",
+      "year": 2001,
+      "platform": "PlayStation",
+      "publisher": "KID",
+      "publisherCompanies": [
+        "KID"
+      ],
+      "kind": "同期平台版",
+      "voice": "未核实",
+      "differences": "商品目录记载 2001 年 9 月 27 日的 PlayStation 版；与 DC 版同日发行。",
+      "source": "https://www.gavas.jp/products/detail.php?product_id=9072"
+    },
+    {
+      "id": "g154-v1",
+      "workId": "g154",
+      "year": 2002,
+      "platform": "PlayStation 2",
+      "publisher": "KID",
+      "publisherCompanies": [
+        "KID"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "实体商品记录 2002 年 11 月 28 日上市，型号 SLPS-25173。",
+      "source": "https://www.suruga-ya.jp/product/detail/144000859"
+    },
+    {
+      "id": "g154-v2",
+      "workId": "g154",
+      "year": 2002,
+      "platform": "Dreamcast",
+      "publisher": "KID",
+      "publisherCompanies": [
+        "KID"
+      ],
+      "kind": "同期平台版",
+      "voice": "未核实",
+      "differences": "世嘉软件目录记录 2002 年 11 月 28 日的 Dreamcast 版本。",
+      "source": "https://www.sega.jp/history/hard/dreamcast/software_l.html"
+    },
+    {
+      "id": "g155-v1",
+      "workId": "g155",
+      "year": 2005,
+      "platform": "Windows",
+      "publisher": "TYPE-MOON",
+      "publisherCompanies": [
+        "TYPE-MOON"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "TYPE-MOON 官方目录记载 2005 年 10 月 28 日及 Windows 平台。",
+      "source": "https://www.typemoon.com/products/products.html"
+    },
+    {
+      "id": "g156-v1",
+      "workId": "g156",
+      "year": 2012,
+      "platform": "Windows",
+      "publisher": "TYPE-MOON",
+      "publisherCompanies": [
+        "TYPE-MOON"
+      ],
+      "kind": "首发",
+      "voice": "无",
+      "differences": "2012 年 4 月 12 日 PC 原版；后续高清版本才增加角色全配音。",
+      "source": "https://www.typemoon.com/products/mahoyo/outline.html"
+    },
+    {
+      "id": "g156-v2",
+      "workId": "g156",
+      "year": 2022,
+      "platform": "Nintendo Switch",
+      "publisher": "Aniplex",
+      "publisherCompanies": [
+        "Aniplex"
+      ],
+      "kind": "高清全配音版",
+      "voice": "有",
+      "differences": "任天堂公告 2022 年 12 月 8 日，由 Aniplex 发行；加入全配音及全高清画面。",
+      "source": "https://www.nintendo.com/jp/topics/article/1737ab04-f329-40c6-b23d-ec364bc75ec4"
+    },
+    {
+      "id": "g156-v3",
+      "workId": "g156",
+      "year": 2022,
+      "platform": "PlayStation 4",
+      "publisher": "Aniplex",
+      "publisherCompanies": [
+        "Aniplex"
+      ],
+      "kind": "高清全配音版",
+      "voice": "有",
+      "differences": "官方产品页列 2022 年 12 月 8 日实体版；PS 商店列数字版上线日 12 月 7 日（时区／商店口径不同）。",
+      "source": "https://store.playstation.com/ja-jp/product/JP3372-CUSA32284_00-GAME000000MAHOYO"
+    },
+    {
+      "id": "g156-v4",
+      "workId": "g156",
+      "year": 2023,
+      "platform": "Steam",
+      "publisher": "Aniplex Inc.",
+      "publisherCompanies": [
+        "Aniplex"
+      ],
+      "kind": "PC 高清版",
+      "voice": "有",
+      "differences": "Steam 平台 2023 年 12 月 14 日推出全配音高清版本。",
+      "source": "https://store.steampowered.com/app/2052410/"
+    },
+    {
+      "id": "g157-v1",
+      "workId": "g157",
+      "year": 2005,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "首发成人版",
+      "voice": "未核实",
+      "differences": "Key 官方目录记载 2005 年 11 月 25 日 R-18 初回限定版。",
+      "source": "https://key.visualarts.gr.jp/product/tomoyo/"
+    },
+    {
+      "id": "g157-v2",
+      "workId": "g157",
+      "year": 2010,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "全年龄纪念版",
+      "voice": "未核实",
+      "differences": "2010 年 4 月 30 日的 Memorial Edition；官方明确标示全年龄。",
+      "source": "https://key.visualarts.gr.jp/product/tomoyo/"
+    },
+    {
+      "id": "g157-v3",
+      "workId": "g157",
+      "year": 2014,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "PerfectEdition",
+      "voice": "未核实",
+      "differences": "2014 年 9 月 26 日的 PerfectEdition，保留独立版本记录。",
+      "source": "https://key.visualarts.gr.jp/product/tomoyo/pe/contents.html"
+    },
+    {
+      "id": "g158-v1",
+      "workId": "g158",
+      "year": 2015,
+      "platform": "Windows",
+      "publisher": "VisualArt’s / Key",
+      "publisherCompanies": [
+        "VisualArt’s",
+        "Key"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "Key 官方产品页记载 2015 年 6 月 26 日、Windows、全年龄。",
+      "source": "https://key.visualarts.gr.jp/angelbeats/products.html"
+    },
+    {
+      "id": "g159-v1",
+      "workId": "g159",
+      "year": 2004,
+      "platform": "PlayStation 2",
+      "publisher": "AQUAPLUS",
+      "publisherCompanies": [
+        "AQUAPLUS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "AQUAPLUS 官方产品页记载 2004 年 12 月 28 日 PS2 恋爱 ADV。",
+      "source": "https://aquaplus.jp/th2/html/products.html"
+    },
+    {
+      "id": "g160-v1",
+      "workId": "g160",
+      "year": 2012,
+      "platform": "PSP",
+      "publisher": "Spike Chunsoft",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ],
+      "kind": "首发",
+      "voice": "有（部分）",
+      "differences": "厂商十五周年资料记载 2012 年 7 月 26 日 PSP 首发。",
+      "source": "https://www.spike-chunsoft.co.jp/news/45095/"
+    },
+    {
+      "id": "g161-v1",
+      "workId": "g161",
+      "year": 2017,
+      "platform": "PlayStation 4",
+      "publisher": "Spike Chunsoft",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ],
+      "kind": "同期首发",
+      "voice": "有（部分）",
+      "differences": "厂商十五周年资料记载 PS4 与 PS Vita 同于 2017 年 1 月 12 日推出。",
+      "source": "https://www.spike-chunsoft.co.jp/news/45095/"
+    },
+    {
+      "id": "g161-v2",
+      "workId": "g161",
+      "year": 2017,
+      "platform": "PS Vita",
+      "publisher": "Spike Chunsoft",
+      "publisherCompanies": [
+        "Spike Chunsoft"
+      ],
+      "kind": "同期首发",
+      "voice": "有（部分）",
+      "differences": "与 PS4 同期推出的掌机版，具体差异未核实。",
+      "source": "https://www.spike-chunsoft.co.jp/news/45095/"
+    },
+    {
+      "id": "g162-v1",
+      "workId": "g162",
+      "year": 2002,
+      "platform": "Windows",
+      "publisher": "Nitroplus",
+      "publisherCompanies": [
+        "Nitroplus"
+      ],
+      "kind": "首发成人版",
+      "voice": "无",
+      "differences": "官方资料记载 2002 年 3 月 29 日、Windows、配音“音声なし”。",
+      "source": "https://www.nitroplus.co.jp/game/03-cyberslayer/"
+    },
+    {
+      "id": "g162-v2",
+      "workId": "g162",
+      "year": 2011,
+      "platform": "Windows",
+      "publisher": "Nitroplus",
+      "publisherCompanies": [
+        "Nitroplus"
+      ],
+      "kind": "全配音新版",
+      "voice": "有",
+      "differences": "2011 年 5 月 27 日上市的全配音版，官方标示 15 岁以上推荐。",
+      "source": "https://www.nitroplus.co.jp/game/kikokugai/about/"
+    },
+    {
+      "id": "g163-v1",
+      "workId": "g163",
+      "year": 2003,
+      "platform": "Windows",
+      "publisher": "Nitroplus",
+      "publisherCompanies": [
+        "Nitroplus"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "官方记载 2003 年 12 月 26 日，并列出郁纪与沙耶等角色配音。",
+      "source": "https://www.nitroplus.co.jp/game/06-song-of-saya/saya.php"
     }
   ]
 }

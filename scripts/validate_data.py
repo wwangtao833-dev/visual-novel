@@ -14,6 +14,8 @@ assert len(work_ids) == len(works) and len(version_ids) == len(versions), '重�
 assert {work['category'] for work in works} == {'文字冒险', '视觉小说', '互动动画', 'Galgame'}
 assert set(taxonomy['subcategories']) == {work['category'] for work in works}
 assert all(work['subcategory'] in taxonomy['subcategories'][work['category']] for work in works)
+assert all(work['subcategory'] not in {'纯文本指令', '图文指令'}
+           for work in works if int(work['id'][1:]) >= 152), '厂商续补不再新增指令类游戏'
 assert all(any(work['subcategory'] == value for work in works) for category in taxonomy['subcategories']
            for value in taxonomy['subcategories'][category]), '存在空的细分类'
 assert all(1976 <= version['year'] <= 2026 and version['workId'] in work_ids for version in versions)

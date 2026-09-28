@@ -40,7 +40,7 @@ function readFilters(){return Object.fromEntries(Object.entries(fields).map(([ke
 
 async function main(){
   try {
-    const [response,taxonomyResponse]=await Promise.all([fetch('./data/games.json?v=20260928-2'),fetch('./data/taxonomy.json?v=20260928-2')]);
+    const [response,taxonomyResponse]=await Promise.all([fetch('./data/games.json?v=20260928-3'),fetch('./data/taxonomy.json?v=20260928-3')]);
     if(!response.ok||!taxonomyResponse.ok)throw Error('HTTP '+(response.ok?taxonomyResponse.status:response.status));
     const [data,taxonomy]=await Promise.all([response.json(),taxonomyResponse.json()]);
     $('stat-works').textContent=data.works.length;
