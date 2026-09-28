@@ -59,12 +59,24 @@ coverage = json.loads((ROOT / 'data/company-coverage.json').read_text(encoding='
 for company in coverage['companies']:
     ids = company['workIds']
     assert len(ids) == len(set(ids)) and set(ids) <= work_ids, '厂商专题作品 ID 不正确'
+    related = company.get('relatedGames', [])
+    related_ids = {game['id'] for game in related}
+    assert len(related_ids) == len(related) and not related_ids & work_ids, '跨类型作品 ID 冲突'
+    for game in related:
+        assert game['source'].startswith('https://') and game['genre'] and game['characters']
+        assert game['category'] not in taxonomy['subcategories'], '跨类型游戏应放在四类主目录之外'
+        assert game['versions'] and min(v['year'] for v in game['versions']) == game['firstYear']
+        assert all(v['platform'] and v['publisher'] and v['differences'] and
+                   v['source'].startswith('https://') and v['voice'] in {'有', '无', '未核实', '有（部分）'}
+                   for v in game['versions'])
     assert company['catalogueEntryCount'] <= len(company['entries'])
-    covered = set()
+    covered, related_covered = set(), set()
     for entry in company['entries']:
         assert entry['source'].startswith('https://') and entry['reason']
         assert set(entry['workIds']) <= set(ids), '核对清单与专题作品不一致'
+        assert set(entry.get('relatedIds', [])) <= related_ids, '核对清单的跨类型作品不存在'
         covered.update(entry['workIds'])
-    assert covered == set(ids), '专题存在缺少核对来源的作品'
+        related_covered.update(entry.get('relatedIds', []))
+    assert covered == set(ids) and related_covered == related_ids, '专题存在缺少核对来源的作品'
     assert all(work['subcategory'] not in {'纯文本指令', '图文指令'} for work in works if work['id'] in ids)
 print(f"校验通过：{len(works)} 部作品，{len(versions)} 个平台版本；厂商专题引用一致")

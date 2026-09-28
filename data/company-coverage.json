@@ -5,8 +5,8 @@
       "name": "Key",
       "checkedAt": "2026-09-28",
       "status": "官方目录作品层级核对完成",
-      "scope": "对照 Key 官网产品介绍页的 30 项内容，收录符合四类目录的已发行独立叙事作品；补充《CLANNAD 光守护的坡道》外传。增强版不重复计数，动画、RPG 和网页有声短篇在附录说明。",
-      "versionScope": "平台版本为已核实的首发及主要移植／增强版，尚未穷尽全部地区、语言、手机渠道及廉价再版。",
+      "scope": "收录已核实的 27 部 Key 相关游戏：四类叙事游戏及外传 21 部，Key 官方年表和产品目录中的跨类型游戏 5 部，另附官网宣传过的 Index 授权游戏《Key COLLECTION》1 部。现行产品目录的 30 项均逐项说明；增强版合并计数，动画、网页小说及未发行项目另作说明。",
+      "versionScope": "平台记录包括四类主目录已核实的主要版本，以及跨类型游戏的移动端和 PC 平台首发信息。旧手机网络游戏的服务可能已经结束；地区、语言、廉价再版和停服细节仍需逐项核实。",
       "publisherNote": "Key 是 VisualArt’s 旗下品牌。本专题按品牌关联作品整理，并显示各发行方的版本；主目录的“发行厂商”筛选仍严格依据该版本的发行署名。",
       "workIds": [
         "g028",
@@ -244,10 +244,13 @@
         },
         {
           "title": "ヘブンバーンズレッド（绯染天空）",
-          "status": "范围说明",
+          "status": "专题收录·RPG",
           "workIds": [],
-          "reason": "Key 参与的叙事 RPG，官方类型为 RPG；目前四类目录未单列 RPG，因此在专题说明而不计入游戏数。",
-          "source": "https://heaven-burns-red.com/"
+          "reason": "Wright Flyer Studios × Key 合作游戏，官方类型为 RPG。独立列入跨类型游戏章节，显示剧情、角色和三种平台版本；不纳入四类主目录。",
+          "source": "https://www.wfs.games/news/20220210_01.html",
+          "relatedIds": [
+            "key-rpg-hbr"
+          ]
         },
         {
           "title": "かぎなど（键等）",
@@ -322,6 +325,298 @@
           ],
           "reason": "官方预计 2026 年 10 月 1 日发行，晚于本次核对日；待实际发售后再加入版本表。",
           "source": "https://www.prot.co.jp/switch/augment_protocol/index.html"
+        },
+        {
+          "title": "リトルバスターズ！カードミッション",
+          "status": "历史作品补录",
+          "workIds": [],
+          "relatedIds": [
+            "key-card-mission"
+          ],
+          "reason": "Key 官方年表列出的历史手机游戏，主产品目录未逐项展示；单列跨类型条目，附玩法、角色与两个移动平台。",
+          "source": "https://key.visualarts.gr.jp/info/2013/04/post_168.html"
+        },
+        {
+          "title": "Key COLLECTION",
+          "status": "授权收录",
+          "workIds": [],
+          "relatedIds": [
+            "key-collection"
+          ],
+          "reason": "由 Index Corporation 制作和发行；Key 官网曾宣传，单列为授权的跨作品游戏。",
+          "source": "https://key.visualarts.gr.jp/info/2013/09/key_collction.html"
+        },
+        {
+          "title": "Angel Beats! -Operation Wars-",
+          "status": "历史作品补录",
+          "workIds": [],
+          "relatedIds": [
+            "key-operation-wars"
+          ],
+          "reason": "Key 官方年表列出的历史手机游戏，主产品目录未逐项展示；单列跨类型条目，附玩法、角色与两个移动平台。",
+          "source": "https://key.visualarts.gr.jp/info/2014/06/angelbeats_-operation_wars-.html"
+        },
+        {
+          "title": "Angel Beats! ゆりっぺのギルド大降下大作戦",
+          "status": "历史作品补录",
+          "workIds": [],
+          "relatedIds": [
+            "key-yurippe"
+          ],
+          "reason": "Key 官方年表列出的历史手机游戏，主产品目录未逐项展示；单列跨类型条目，附玩法、角色与两个移动平台。",
+          "source": "https://key.visualarts.gr.jp/info/2016/02/ab_1.html"
+        },
+        {
+          "title": "Rewrite IgnisMemoria",
+          "status": "历史作品补录",
+          "workIds": [],
+          "relatedIds": [
+            "key-ignis"
+          ],
+          "reason": "Key 官方年表列出的历史手机游戏，主产品目录未逐项展示；单列跨类型条目，附玩法、角色与两个移动平台。",
+          "source": "https://key.visualarts.gr.jp/info/2017/02/rewrite_ignismemoria_2.html"
+        }
+      ],
+      "relatedGames": [
+        {
+          "id": "key-rpg-hbr",
+          "title": "绯染天空",
+          "originalTitle": "ヘブンバーンズレッド / Heaven Burns Red",
+          "firstYear": 2022,
+          "category": "剧情 RPG",
+          "subcategory": "角色养成／回合制战斗",
+          "genre": "末日科幻、群像剧情",
+          "characters": [
+            "茅森月歌",
+            "和泉由希",
+            "逢川惠",
+            "东城司",
+            "朝仓可怜",
+            "国见玉"
+          ],
+          "synopsis": "地球受到神秘生命体“星癌体”侵袭，常规兵器无法阻止人类败退。拥有特殊才能的少女被编入能使用决战兵器“炽天使”的部队。前乐队主唱茅森月歌与第 31A 部队的同伴一同训练、相处并奔赴战场，在日常与牺牲之间寻找人类的希望。",
+          "notes": "Wright Flyer Studios 与 Key 合作企划、制作；官方将游戏类型标为 RPG，因此单独列于专题，不改变主数据库的四个分类。",
+          "source": "https://www.wfs.games/news/20220210_01.html",
+          "versions": [
+            {
+              "year": 2022,
+              "platform": "iOS",
+              "kind": "日本首发／持续运营",
+              "publisher": "WFS（WRIGHT FLYER STUDIOS）",
+              "voice": "有",
+              "differences": "2022 年 2 月 10 日移动端上线，主线剧情、角色养成与回合制战斗；2023 年起提供繁体中文、韩语等语言选项。",
+              "source": "https://www.wfs.games/news/20220210_01.html"
+            },
+            {
+              "year": 2022,
+              "platform": "Android",
+              "kind": "日本首发／持续运营",
+              "publisher": "WFS（WRIGHT FLYER STUDIOS）",
+              "voice": "有",
+              "differences": "2022 年 2 月 10 日与 iOS 同日上线，基本剧情和战斗内容对应移动端版本。",
+              "source": "https://www.wfs.games/news/20220210_01.html"
+            },
+            {
+              "year": 2022,
+              "platform": "Windows（Steam）",
+              "kind": "PC 平台发行",
+              "publisher": "WRIGHT FLYER STUDIOS",
+              "voice": "有",
+              "differences": "2022 年 8 月 10 日登陆 Steam，PC 可体验主线剧情、探索及战斗；发行方署名以 Steam 商店为准。",
+              "source": "https://store.steampowered.com/app/1973710/"
+            }
+          ]
+        },
+        {
+          "id": "key-card-mission",
+          "title": "Little Busters! Card Mission",
+          "originalTitle": "リトルバスターズ！カードミッション",
+          "firstYear": 2013,
+          "category": "跨类型游戏",
+          "subcategory": "角色卡牌／球队对战",
+          "genre": "卡牌社交游戏",
+          "characters": [
+            "直枝理树",
+            "枣铃",
+            "枣恭介",
+            "神北小毬"
+          ],
+          "synopsis": "玩家在《Little Busters!》的学园中召集角色组成棒球队，探索学园并参与玩家间的“比赛”；游戏以收集原作人物卡、专题活动和球队对战为核心，没有原版视觉小说的完整分支剧情。",
+          "notes": "Key 官方年表收录的 VisualArt’s 手机游戏；历史网络服务，不等同于 2007 年的本篇。",
+          "source": "https://key.visualarts.gr.jp/info/2013/04/post_168.html",
+          "versions": [
+            {
+              "year": 2013,
+              "platform": "iOS（Mobage）",
+              "kind": "移动端首发",
+              "publisher": "VisualArt’s",
+              "voice": "未核实",
+              "differences": "2013 年 4 月 24 日起通过 Mobage 提供；与另一移动系统的内容相通，属于同一网络卡牌游戏。",
+              "source": "https://ddo.4gamer.net/games/213/G021323/20130502036/"
+            },
+            {
+              "year": 2013,
+              "platform": "Android（Mobage）",
+              "kind": "移动端首发",
+              "publisher": "VisualArt’s",
+              "voice": "未核实",
+              "differences": "2013 年 4 月 24 日起通过 Mobage 提供；与另一移动系统的内容相通，属于同一网络卡牌游戏。",
+              "source": "https://ddo.4gamer.net/games/213/G021323/20130502036/"
+            }
+          ]
+        },
+        {
+          "id": "key-collection",
+          "title": "Key COLLECTION",
+          "originalTitle": "Key COLLECTION",
+          "firstYear": 2013,
+          "category": "跨类型游戏",
+          "subcategory": "跨作品角色收集",
+          "genre": "授权卡牌游戏",
+          "characters": [
+            "月宫亚由",
+            "神尾观铃",
+            "古河渚",
+            "坂上智代",
+            "能美库特莉亚芙卡"
+          ],
+          "synopsis": "《Kanon》至《Rewrite》的角色在同一款手机社交游戏中以卡牌登场。玩家收集系列角色与新绘卡图、参与手机游戏活动；这是跨作品收集游戏，不是一部新的统一主线故事。",
+          "notes": "Index Corporation 开发／运营的 Key 授权作品；Key 官网宣传过。2014 年 5 月停止运营，不计入 Key 自制游戏数。",
+          "source": "https://key.visualarts.gr.jp/info/2013/09/key_collction.html",
+          "versions": [
+            {
+              "year": 2013,
+              "platform": "iOS（Mobage）",
+              "kind": "移动端首发",
+              "publisher": "Index Corporation",
+              "voice": "未核实",
+              "differences": "2013 年 10 月 15 日经 Mobage 开始运营；两类手机系统访问同一在线卡牌游戏。",
+              "source": "https://www.gamer.ne.jp/news/201310150044/"
+            },
+            {
+              "year": 2013,
+              "platform": "Android（Mobage）",
+              "kind": "移动端首发",
+              "publisher": "Index Corporation",
+              "voice": "未核实",
+              "differences": "2013 年 10 月 15 日经 Mobage 开始运营；两类手机系统访问同一在线卡牌游戏。",
+              "source": "https://www.gamer.ne.jp/news/201310150044/"
+            }
+          ]
+        },
+        {
+          "id": "key-operation-wars",
+          "title": "Angel Beats! -Operation Wars-",
+          "originalTitle": "Angel Beats! -Operation Wars-",
+          "firstYear": 2014,
+          "category": "跨类型游戏",
+          "subcategory": "动作拼图／角色培养",
+          "genre": "动作拼图／卡牌游戏",
+          "characters": [
+            "音无结弦",
+            "仲村由理",
+            "立华奏",
+            "日向秀树",
+            "直井文人"
+          ],
+          "synopsis": "玩家率领死后世界战线与学生会成员组成的新队伍迎战“影子”，在学园生活、举办乐队演出与开发武器的同时，完成拼图关卡并培养角色。",
+          "notes": "VisualArt’s 发行的 Angel Beats! 衍生网络游戏；原生手机应用。",
+          "source": "https://key.visualarts.gr.jp/info/2014/06/angelbeats_-operation_wars-.html",
+          "versions": [
+            {
+              "year": 2014,
+              "platform": "iOS",
+              "kind": "移动端首发",
+              "publisher": "VisualArt’s",
+              "voice": "未核实",
+              "differences": "2014 年 6 月 30 日两系统上线原生应用，经 Mobage 提供服务；角色与玩法对应同一作品。",
+              "source": "https://document.4gamer.net/games/244/G024414/20140630065/"
+            },
+            {
+              "year": 2014,
+              "platform": "Android",
+              "kind": "移动端首发",
+              "publisher": "VisualArt’s",
+              "voice": "未核实",
+              "differences": "2014 年 6 月 30 日两系统上线原生应用，经 Mobage 提供服务；角色与玩法对应同一作品。",
+              "source": "https://document.4gamer.net/games/244/G024414/20140630065/"
+            }
+          ]
+        },
+        {
+          "id": "key-yurippe",
+          "title": "Angel Beats! ゆりっぺ的公会大降下作战",
+          "originalTitle": "Angel Beats! ゆりっぺのギルド大降下大作戦",
+          "firstYear": 2016,
+          "category": "跨类型游戏",
+          "subcategory": "弹射消除／动作解谜",
+          "genre": "动作解谜",
+          "characters": [
+            "仲村由理",
+            "查",
+            "音无结弦"
+          ],
+          "synopsis": "查告诉由理，他已重设公会陷阱，要战线成员闯过机关抵达基地。由理派去的同伴迟迟不归，于是亲自闯入陷阱区域，通过发射弹丸击破机关方块，解开一道道关卡。",
+          "notes": "Key 官网确认于 2016 年 2 月 22 日发行；情节与角色来自游戏官方预注册介绍。",
+          "source": "https://key.visualarts.gr.jp/info/2016/02/ab_1.html",
+          "versions": [
+            {
+              "year": 2016,
+              "platform": "iOS",
+              "kind": "移动端首发",
+              "publisher": "VisualArt’s",
+              "voice": "未核实",
+              "differences": "2016 年 2 月 22 日推出的原生手机动作解谜游戏；以角色技能、射击消除和陷阱关卡推进。",
+              "source": "https://yoyaku-top10.jp/apps/NTM4OA"
+            },
+            {
+              "year": 2016,
+              "platform": "Android",
+              "kind": "移动端首发",
+              "publisher": "VisualArt’s",
+              "voice": "未核实",
+              "differences": "2016 年 2 月 22 日推出的原生手机动作解谜游戏；以角色技能、射击消除和陷阱关卡推进。",
+              "source": "https://yoyaku-top10.jp/apps/NTM4OA"
+            }
+          ]
+        },
+        {
+          "id": "key-ignis",
+          "title": "Rewrite IgnisMemoria",
+          "originalTitle": "Rewrite IgnisMemoria",
+          "firstYear": 2017,
+          "category": "跨类型游戏",
+          "subcategory": "战斗养成／平行世界故事",
+          "genre": "战略 RPG",
+          "characters": [
+            "天王寺瑚太朗",
+            "神户小鸟",
+            "千里朱音",
+            "篝"
+          ],
+          "synopsis": "以《Rewrite》的风祭市为舞台，描写原作和动画未展示的多种“假如”世界；瑚太朗与超自然研究会的伙伴通过战斗、养成和探索，开启超过五十篇新故事。",
+          "notes": "Key 官网记载的 VisualArt’s team Aeca 作品；官方介绍确认加入新增配音。",
+          "source": "https://key.visualarts.gr.jp/info/2017/02/rewrite_ignismemoria_2.html",
+          "versions": [
+            {
+              "year": 2017,
+              "platform": "iOS",
+              "kind": "移动端首发",
+              "publisher": "VisualArt’s",
+              "voice": "有（部分）",
+              "differences": "2017 年 2 月 6 日上线；包含新写的平行世界故事和策略战斗，两个手机系统对应同一服务。",
+              "source": "https://www.4gamer.net/games/366/G036612/"
+            },
+            {
+              "year": 2017,
+              "platform": "Android",
+              "kind": "移动端首发",
+              "publisher": "VisualArt’s",
+              "voice": "有（部分）",
+              "differences": "2017 年 2 月 6 日上线；包含新写的平行世界故事和策略战斗，两个手机系统对应同一服务。",
+              "source": "https://www.4gamer.net/games/366/G036612/"
+            }
+          ]
         }
       ]
     }
