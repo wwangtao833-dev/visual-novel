@@ -56,6 +56,8 @@ def build(company):
     audit_label = company.get('auditLabel', f"官方作品清单 {company['catalogueEntryCount']} 项及范围说明。")
     audit_note = company.get('auditNote', '“核对完成”指上述清单中每项内容都有处理记录。未确认发售的项目和非游戏媒介不计入已发行游戏数。')
     overview_label = '已核实的相关游戏（含授权）' if related else '已核实的叙事作品'
+    publisher_count = (f'<p class="scope-note"><strong>按实际发行署名：{len(company["publisherWorkIds"])} 部；'
+                       f'按作品品牌：{len(selected)} 部。</strong></p>') if 'publisherWorkIds' in company else ''
     return f'''<!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="{escape(company['name'])} 叙事游戏作品专题：剧情、主要角色、首发年份、平台版本与官方目录核对清单。">
@@ -63,7 +65,7 @@ def build(company):
 <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="company.css"></head>
 <body><div class="app-shell"><header class="masthead"><a class="brand" href="index.html"><span class="brand-mark">N.</span><span>叙事游戏年鉴</span></a><nav aria-label="专题导航"><a href="#works">全部作品</a><a href="#coverage">核对清单</a><a href="index.html#catalogue">返回数据库</a></nav></header>
 <main><section class="company-hero"><p class="eyebrow">COMPANY DOSSIER · {escape(company['checkedAt'])}</p><h1>{escape(company['name'])} 作品专题</h1>
-<p class="lead">{escape(company['publisherNote'])}</p>
+<p class="lead">{escape(company['publisherNote'])}</p>{publisher_count}
 <div class="overview"><div><strong>{len(selected) + len(related)}</strong><span>{overview_label}</span></div><div><strong>{count_versions}</strong><span>已核实版本记录</span></div><div><strong>{selected[0]['firstYear']}—{max(w['firstYear'] for w in selected + related)}</strong><span>作品首发跨度</span></div></div>
 <p class="scope-note">{escape(company['scope'])}</p><p class="scope-note">{escape(company['versionScope'])}</p>
 <div class="hero-links"><a class="primary-link" href="#works">按年份阅读作品</a><a class="secondary-link" href="#coverage">查看目录核对说明</a></div></section>

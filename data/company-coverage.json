@@ -829,9 +829,9 @@
       "name": "sprite",
       "checkedAt": "2026-09-28",
       "status": "官网主作品与两部外传逐项核对",
-      "scope": "根据 sprite 官网页面核对三部截至核对日已发行的主作品、两部独立 EXTRA 外传，共五部四类叙事作品。授权卡牌游戏单列；fairys 关联作和预告未发售项目不算作 sprite 已发行作品。",
-      "versionScope": "收录已核实的各主要平台年份与发行方；同一平台的 Steam 本地化发行可有单独发行年份。不同地区发行日期与未证实的早期数字移植仍待复核。",
-      "publisherNote": "sprite 是作品品牌；五部独立叙事游戏中，前四部原始 PC 版由 sprite 发行，《everlasting flowers》2024 年版由 RIGHTWAY 发行。各移植版按商店实际署名另归 KADOKAWA、RIGHTWAY、NekoNyan Ltd. 与 HIKARI FIELD，因此主页“发行厂商”筛选 sprite 的作品数与本专题创作品牌的五部不同。",
+      "scope": "截至 2026 年 9 月 28 日，sprite 官网可核对已发行的三部主作品及两部单独发行的 EXTRA 外传，共五部品牌叙事作品；按版本的实际发行署名，sprite 对应四部。授权 Edia 卡牌游戏单列，HarvesT 益智手游不纳入叙事统计；待发售及取消项目不计。",
+      "versionScope": "已补记 2018 年 for Mobile、Perfect Edition，2020 年 High Resolution 与 2025 年三部 Ultimate Edition。版本数字涵盖主要可核的移植及内容增强，跨地区销售和旧应用的确切上架日仍有待核字段。",
+      "publisherNote": "依主数据库的版本发行署名统计：sprite（含 sprite games 移动账号）实际发行的独立叙事游戏为 4 部，《恋爱与选举与巧克力》《苍之彼方的四重奏》及其 EXTRA1、EXTRA2。品牌参与制作的《everlasting flowers》另由 RIGHTWAY 发行，因此品牌相关作品共 5 部，发行厂商筛选中的 sprite 为 4 部。",
       "workIds": [
         "g204",
         "g205",
@@ -896,7 +896,7 @@
             "sprite-eternal-sky"
           ],
           "reason": "Edia 公告的游戏类型是卡牌对战；独立运营，不当作本篇的视觉小说版本。",
-          "source": "https://prtimes.jp/main/html/rd/p/000000062.000021592.html"
+          "source": "https://prtimes.jp/main/html/rd/p/000000002.000021592.html"
         },
         {
           "title": "小金井荘と金色の揚羽蝶",
@@ -925,6 +925,60 @@
           "workIds": [],
           "reason": "增强版和双篇合装属于已有作品的版本／商品，动画和实体特典不是新游戏。",
           "source": "https://sprite.net/aokana"
+        },
+        {
+          "title": "蒼の彼方のフォーリズム フライングタッチ",
+          "status": "跨类型授权手游，未计叙事作品",
+          "workIds": [],
+          "reason": "动画官方资料明确标为三消益智游戏；玩法不符合四类叙事游戏主库，开发发行另由 HarvesT 负责。",
+          "source": "https://aokana-anime.com/news/products/477/"
+        },
+        {
+          "title": "2020 恋选 HIGH RESOLUTION",
+          "status": "补齐已发行版本",
+          "workIds": [
+            "g204"
+          ],
+          "reason": "2020 年发售，16:9 与最高 4K 支持；并入《恋选》的 Windows 版本。",
+          "source": "https://www.animate-onlineshop.jp/pn/%E3%80%90Win%E3%80%91%E6%81%8B%E3%81%A8%E9%81%B8%E6%8C%99%E3%81%A8%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%2BHIGH%2BRESOLUTION/pd/1848425/"
+        },
+        {
+          "title": "2018 苍彼 for Mobile",
+          "status": "补齐已发行版本",
+          "workIds": [
+            "g205"
+          ],
+          "reason": "iOS、Android 的原作叙事移植；旧应用发行年份已核，精确首发日存在资料异文。",
+          "source": "https://gamewith.jp/gamedb/4100"
+        },
+        {
+          "title": "2018 苍彼 Perfect Edition",
+          "status": "补齐已发行版本",
+          "workIds": [
+            "g205"
+          ],
+          "reason": "本篇加入主机版附加事件后再发行；四周年合集不另计作品。",
+          "source": "https://www.geestore.com/event/gallery/aokana3rd/"
+        },
+        {
+          "title": "2020 苍彼 High Resolution",
+          "status": "补齐已发行版本",
+          "workIds": [
+            "g205"
+          ],
+          "reason": "Windows 上的主机版高清移植，最高 4K；并入本篇版本。",
+          "source": "https://www.sofmap.com/product_detail.aspx?sku=21322309"
+        },
+        {
+          "title": "2025 苍彼／EXTRA1／EXTRA2 Ultimate Edition",
+          "status": "补齐已发行版本",
+          "workIds": [
+            "g205",
+            "g206",
+            "g207"
+          ],
+          "reason": "十周年盒装含三部旧作各自升级版和新增场景，分别归入本篇及两部外传，不新增作品 ID。",
+          "source": "https://sprite.net/aokana/10thanniversary"
         }
       ],
       "relatedGames": [
@@ -944,8 +998,8 @@
             "玩家（特训教练）"
           ],
           "synopsis": "玩家作为新设 Flying Circus 训练设施的教练，训练来自各地的选手，收集角色卡牌并带队争取比赛胜利。",
-          "notes": "Edia 发行的 sprite 授权衍生作品；官方类型为卡牌对战，故在专题单列，不进入四类叙事游戏主库。2017 年 10 月 2 日周年公告推算 2016 年上线；精确首发日待核实。",
-          "source": "https://prtimes.jp/main/html/rd/p/000000062.000021592.html",
+          "notes": "Edia 发行的 sprite 授权衍生作品；官方类型为卡牌对战，故在专题单列，不进入四类叙事游戏主库。Edia 原始上市公告记载 2016 年 10 月 5 日 iOS／Android 上线。",
+          "source": "https://prtimes.jp/main/html/rd/p/000000002.000021592.html",
           "versions": [
             {
               "year": 2016,
@@ -953,8 +1007,8 @@
               "kind": "手机卡牌游戏",
               "publisher": "Edia",
               "voice": "未核实",
-              "differences": "按 Edia 的 2017 年一周年公告推定 2016 年首发；曾为持续运营的卡牌对战游戏，具体日期和语音待核实。",
-              "source": "https://prtimes.jp/main/html/rd/p/000000062.000021592.html"
+              "differences": "Edia 确认 2016 年 10 月 5 日在 iOS、Android 发布；以人物收集和卡牌战斗为主，角色语音尚待核实。",
+              "source": "https://prtimes.jp/main/html/rd/p/000000002.000021592.html"
             },
             {
               "year": 2016,
@@ -962,15 +1016,21 @@
               "kind": "手机卡牌游戏",
               "publisher": "Edia",
               "voice": "未核实",
-              "differences": "按 Edia 的 2017 年一周年公告推定 2016 年首发；曾为持续运营的卡牌对战游戏，具体日期和语音待核实。",
-              "source": "https://prtimes.jp/main/html/rd/p/000000062.000021592.html"
+              "differences": "Edia 确认 2016 年 10 月 5 日在 iOS、Android 发布；以人物收集和卡牌战斗为主，角色语音尚待核实。",
+              "source": "https://prtimes.jp/main/html/rd/p/000000002.000021592.html"
             }
           ]
         }
       ],
       "relatedIntro": "Edia 官方将 ETERNAL SKY 标为卡牌对战游戏。这里记录授权衍生作的故事、角色和移动平台，专题顶部的相关游戏总数包含这部；主数据库仍仅收录四类叙事游戏。",
       "auditLabel": "官网三部已发售主作品、两部外传与相关边界逐项核对。",
-      "auditNote": "“五部”指 sprite 品牌已独立发行的四类叙事游戏，并非公司所有授权游戏或包装商品。2026 年 11 月预定作品截至 9 月 28 日未发行；已确认取消的 ZWEI 不列入发售数。"
+      "auditNote": "“五部”指 sprite 品牌参与制作的独立叙事游戏，实际由 sprite 署名发行的为四部；含 Edia 授权卡牌游戏时专题共列六部相关游戏。增强版和合集分配到既有作品的版本记录，不另增作品。",
+      "publisherWorkIds": [
+        "g204",
+        "g205",
+        "g206",
+        "g207"
+      ]
     }
   ]
 }

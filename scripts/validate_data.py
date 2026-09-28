@@ -59,6 +59,10 @@ coverage = json.loads((ROOT / 'data/company-coverage.json').read_text(encoding='
 for company in coverage['companies']:
     ids = company['workIds']
     assert len(ids) == len(set(ids)) and set(ids) <= work_ids, '厂商专题作品 ID 不正确'
+    if 'publisherWorkIds' in company:
+        credited = {version['workId'] for version in versions
+                    if company['name'] in version['publisherCompanies'] and version['workId'] in ids}
+        assert set(company['publisherWorkIds']) == credited, '厂商专题发行署名计数与版本记录不一致'
     related = company.get('relatedGames', [])
     related_ids = {game['id'] for game in related}
     assert len(related_ids) == len(related) and not related_ids & work_ids, '跨类型作品 ID 冲突'

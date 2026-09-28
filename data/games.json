@@ -2,7 +2,7 @@
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
     "updated": "2026-09-28",
-    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题综合官方合集、旧站及短篇记录，已登记 9 部独立发布的叙事游戏；包括两部洋馆假日、两部人气投票短篇及胡萝卜蛋糕事件。合集和内含新增篇章另作版本与内容说明，未核实字段明确标记。 ANIPLEX.EXE 专题按其官网四部作品核对；品牌项目期数与独立游戏数不同。 sprite 专题核对三部主作品与两部独立 EXTRA 外传，并单列 Edia 授权卡牌游戏；按实际发行署名区分作品品牌与厂商。",
+    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题综合官方合集、旧站及短篇记录，已登记 9 部独立发布的叙事游戏；包括两部洋馆假日、两部人气投票短篇及胡萝卜蛋糕事件。合集和内含新增篇章另作版本与内容说明，未核实字段明确标记。 ANIPLEX.EXE 专题按其官网四部作品核对；品牌项目期数与独立游戏数不同。 sprite 专题核对三部主作品与两部独立 EXTRA 外传，并单列 Edia 授权卡牌游戏；按实际发行署名区分作品品牌与厂商。 复核 sprite 发行署名后，补记《苍彼》移动版及 Perfect、High Resolution、Ultimate 增强版；sprite 品牌五部独立叙事游戏中，实际由 sprite 发行的为四部。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
   "works": [
@@ -3472,7 +3472,7 @@
       ],
       "charactersNote": "",
       "synopsis": "高藤学园的食品研究部面临废部危机。大岛裕树在青梅竹马住吉千里与伙伴的推动下参加学生会长选举，一边争取保住社团，一边与各候选人及同学逐渐拉近距离。",
-      "notes": "sprite 首部作品。PSP 版与 Steam 版归于同一作品；2012 年电视动画不计游戏。",
+      "notes": "sprite 首部作品。PSP 版与 Steam 版归于同一作品；2012 年电视动画不计游戏。 2020 年 HIGH RESOLUTION 为原作增强版。",
       "source": "https://sprite.net/koichoco/"
     },
     {
@@ -3492,7 +3492,7 @@
       ],
       "charactersNote": "",
       "synopsis": "穿上反重力鞋即可飞行的时代，退役的 Flying Circus 选手日向晶也遇到初学飞行的转校生仓科明日香，重新投身飞行竞技，担任教练并与队友共同迎接大赛。",
-      "notes": "本篇与以真白、美咲路线为主的两部 EXTRA 分开计数；ZWEI 已取消制作。",
+      "notes": "本篇与以真白、美咲路线为主的两部 EXTRA 分开计数；ZWEI 已取消制作。 2018 年 Perfect Edition、2020 年 High Resolution、2025 年 Ultimate Edition 与 2018 年 for Mobile 均按版本记录。",
       "source": "https://sprite.net/aokana/story"
     },
     {
@@ -9281,6 +9281,118 @@
       "voice": "有",
       "differences": "2024 年 8 月 29 日日本实体版发售；同一故事另有下载版，实体限定版不另计游戏。",
       "source": "https://rightway.net/games/4541624090849"
+    },
+    {
+      "id": "g204-v4",
+      "workId": "g204",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "sprite",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "HIGH RESOLUTION 高清版",
+      "voice": "有",
+      "differences": "2020 年 12 月 25 日推出的 PC 增强版：16:9 显示，最高支持 4K 分辨率。与 2010 原作共用作品 ID。",
+      "source": "https://www.animate-onlineshop.jp/pn/%E3%80%90Win%E3%80%91%E6%81%8B%E3%81%A8%E9%81%B8%E6%8C%99%E3%81%A8%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88%2BHIGH%2BRESOLUTION/pd/1848425/"
+    },
+    {
+      "id": "g205-v6",
+      "workId": "g205",
+      "year": 2018,
+      "platform": "iOS",
+      "publisher": "sprite games",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "for Mobile 移植版",
+      "voice": "有",
+      "differences": "2018 年 8 月已发行；原版叙事改为手机界面，可先免费阅读前段，后续章节在应用内解锁。旧应用已可能下架；具体首发日的资料不一致，仅登记年份。",
+      "source": "https://gamewith.jp/gamedb/4100"
+    },
+    {
+      "id": "g205-v7",
+      "workId": "g205",
+      "year": 2018,
+      "platform": "Android",
+      "publisher": "sprite games",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "for Mobile 移植版",
+      "voice": "有",
+      "differences": "2018 年 8 月已发行；玩家可先阅读前段、再解锁后续章节。与 Edia 2016 年的 ETERNAL SKY 卡牌游戏不同。具体首发日资料不一致，仅登记年份。",
+      "source": "https://gamewith.jp/gamedb/4100"
+    },
+    {
+      "id": "g205-v8",
+      "workId": "g205",
+      "year": 2018,
+      "platform": "Windows",
+      "publisher": "sprite",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "Perfect Edition",
+      "voice": "有",
+      "differences": "2018 年 11 月 30 日推出的本篇增强版，加入主机移植版的附加事件；4th Anniversary Box 同时包含本篇及其他作品，不另记独立游戏。",
+      "source": "https://www.geestore.com/event/gallery/aokana3rd/"
+    },
+    {
+      "id": "g205-v9",
+      "workId": "g205",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "sprite",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "High Resolution 全年龄版",
+      "voice": "有",
+      "differences": "2020 年 12 月 25 日推出；从主机版移植回 PC，采用 16:9 界面并最高支持 4K 画面。",
+      "source": "https://www.sofmap.com/product_detail.aspx?sku=21322309"
+    },
+    {
+      "id": "g205-v10",
+      "workId": "g205",
+      "year": 2025,
+      "platform": "Windows",
+      "publisher": "sprite",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "Ultimate Edition",
+      "voice": "有",
+      "differences": "2025 年 4 月 25 日作为十周年盒装内的本篇升级版发行：更高分辨率、主机版事件、两段新增美咲剧情与新片尾影片；还可单独购买数字版。",
+      "source": "https://sprite.net/aokana/10thanniversary"
+    },
+    {
+      "id": "g206-v5",
+      "workId": "g206",
+      "year": 2025,
+      "platform": "Windows",
+      "publisher": "sprite",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "EXTRA1 Ultimate Edition",
+      "voice": "有",
+      "differences": "2025 年 4 月 25 日十周年盒装所含的 EXTRA1 升级版：新增真白场景、收录主机版事件，最高支持 4K；亦有单独数字销售。",
+      "source": "https://sprite.net/aokana/10thanniversary"
+    },
+    {
+      "id": "g207-v5",
+      "workId": "g207",
+      "year": 2025,
+      "platform": "Windows",
+      "publisher": "sprite",
+      "publisherCompanies": [
+        "sprite"
+      ],
+      "kind": "EXTRA2 Ultimate Edition",
+      "voice": "有",
+      "differences": "2025 年 4 月 25 日十周年盒装所含的 EXTRA2 升级版：新增美咲场景、收录主机版事件，最高支持 4K；亦有单独数字销售。",
+      "source": "https://sprite.net/aokana/10thanniversary"
     }
   ]
 }

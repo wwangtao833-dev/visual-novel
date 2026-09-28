@@ -4,7 +4,7 @@
 
 ## 数据范围
 
-当前收录 **208 部代表作品、406 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、Leaf、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
+当前收录 **208 部代表作品、414 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、Leaf、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
 
 作品主分类是一种检索入口，并非互斥的学术分类：一部恋爱视觉小说也可能属于广义 Galgame。视觉小说的“有声小说”可能只有音乐和音效，配音字段专指游戏内角色人声。
 
@@ -57,4 +57,6 @@
 
 已新增 [ANIPLEX.EXE 品牌专题](aniplex_exe.html)：对照品牌官网四个作品栏目收录 **4 部独立视觉小说、14 条平台版本记录**，并说明开发团队、发行署名及移植差异。首期同时包含《ATRI》和《徒花异谭》，因此品牌“三期企划”对应四部作品；2024 年《播种之谣》DMM 网页版单列平台，手机端开头免费、后续章节需解锁。
 
-已新增 [sprite 品牌专题](sprite.html)：官方现有三部已发售的主作品，加上两部独立发售的《苍之彼方的四重奏》EXTRA 外传，共 **5 部叙事游戏、19 条平台版本记录**。另将 Edia 的授权卡牌对战游戏（iOS、Android 两平台）单列于专题；预定 2026 年 11 月发行的《小金井庄与金色凤蝶》与已取消的 ZWEI 不计入已发售作品。发行厂商索引依版本实际署名计数：作品由 sprite 制作，不代表每个平台均由 sprite 发行。
+已新增 [sprite 品牌专题](sprite.html)：官方现有三部已发售的主作品，加上两部独立发售的《苍之彼方的四重奏》EXTRA 外传，共 **5 部叙事游戏、27 条平台版本记录**。另将 Edia 的授权卡牌对战游戏（iOS、Android 两平台）单列于专题；预定 2026 年 11 月发行的《小金井庄与金色凤蝶》与已取消的 ZWEI 不计入已发售作品。发行厂商索引依版本实际署名计数：作品由 sprite 制作，不代表每个平台均由 sprite 发行。
+
+**sprite 厂商计数更正（2026-09-28）：**上述五部是按 sprite 品牌参与制作的游戏核对；按版本的发行方署名筛选，sprite／sprite games 的独立叙事作品是 **4 部**。`everlasting flowers` 的已发行版本署名 RIGHTWAY。此次补记《苍彼》2018 年 iOS、Android 手机版，以及本篇和外传的 2018 Perfect、2020 High Resolution、2025 Ultimate 等共 8 条版本；这类内容更新不新增作品 ID。
