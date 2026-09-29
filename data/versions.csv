@@ -147,7 +147,8 @@ g046,g046-v1,同级生,同級生,Galgame,恋爱剧情冒险,校园恋爱／地�
 g022,g022-v1,镰鼬之夜,かまいたちの夜,视觉小说,有声小说,有声小说／推理,透、真理,1994,超级任天堂,Chunsoft,Chunsoft,首发,无,作品最早确认的版本。,https://www.spike-chunsoft.co.jp/pages/games/kama/
 g023,g023-v1,心跳回忆,ときめきメモリアル,Galgame,恋爱模拟,恋爱模拟,藤崎诗织、虹野沙希、馆林见晴,1994,PC Engine SUPER CD-ROM²,Konami,Konami,首发,有,恋爱模拟，不属于狭义视觉小说。,https://www.konami.com/games/tokimeki/about/index.html
 g023,g023-v2,心跳回忆,ときめきメモリアル,Galgame,恋爱模拟,恋爱模拟,藤崎诗织、虹野沙希、馆林见晴,1995,PlayStation,Konami,Konami,增强移植,有,《forever with you》改良画面与音效。,https://www.konami.com/games/corporate/ja/news/topics/20250203/
-g024,g024-v1,雫,雫,视觉小说,剧情分支／冒险,悬疑／成人向,待核实,1996,Windows,Leaf,Leaf,首发,无,Leaf Visual Novel Series 第 1 作；兼属广义 Galgame。,https://pc98.info/pc-game-history-05-windows-and-the-end/
+g024,g024-v2,雫,雫,视觉小说,剧情分支／冒险,悬疑／成人向,待核实,1996,PC-9800,Leaf,Leaf,原版首发,无,1996 年 1 月 PC-98 原版；Windows 版晚约五个月。,https://www.gamepres.org/catalog/?id=8811007923009
+g024,g024-v1,雫,雫,视觉小说,剧情分支／冒险,悬疑／成人向,待核实,1996,Windows,Leaf,Leaf,1996 年 Windows 移植,无,PC-9800 版之后同年推出的 Windows 版；不是最初发行平台。,https://www.suruga-ya.jp/product/detail/145003226
 g025,g025-v1,痕,痕,视觉小说,剧情分支／冒险,悬疑／成人向,待核实,1996,Windows,Leaf,Leaf,首发,无,兼属广义 Galgame。,https://pc98.info/pc-game-history-05-windows-and-the-end/
 g038,g038-v1,YU-NO,この世の果てで恋を唄う少女YU-NO,视觉小说,剧情分支／冒险,科幻／多线冒险,有马拓哉、波多野神奈、岛津澪、尤诺,1996,PC-9800,ELF,ELF,首发,未核实,原版多线剧情与宝玉系统；当年配音情况需逐版核对。,https://yu-no.jp/spec/ps/
 g026,g026-v1,ToHeart,ToHeart,视觉小说,恋爱剧情,校园恋爱,藤田浩之、神岸明里、来栖川芹香、玛尔琪（Multi）,1997,Windows,Leaf,Leaf,首发,无,兼属 Galgame；1999 年 PlayStation 版加入角色配音。,https://aquaplus.jp/toheart/en.html
@@ -653,3 +654,27 @@ g306,g306-v4,野野村医院的人们,野々村病院の人々,Galgame,成人向
 g308,g308-v3,遗作,遺作,Galgame,成人向冒险,旧校舍／惊悚逃脱,伊头遗作,1999,Windows,ELF,ELF,更新版,未核实,更新版；归入同一作品，不重复统计。,https://archive.is/taUch
 g046,g046-v6,同级生,同級生,Galgame,恋爱剧情冒险,校园恋爱／地图探索,樱木舞、田中美沙、黑川里美,1999,Windows,ELF,ELF,移植,未核实,移植；与 PC-9800 原版分列。,https://archive.is/taUch
 g332,g332-v1,鬼畜侦探秃作,鬼畜探偵 禿作,Galgame,成人向冒险,伊头家／侦探外传,秃作,2001,Windows,ELF,ELF,粉丝俱乐部 Fan Disc,未核实,独立短篇；后续作为《鬼作》DVD 版的追加内容收录。,https://www.gameiroiro.com/2001/0829-1.htm
+g333,g333-v1,谁彼,誰彼 〜たそがれ〜,视觉小说,剧情分支／冒险,传奇／悬疑,坂神蝉丸、三井寺月代、桑嶋高子,2001,Windows,Leaf,Leaf,首发,未核实,原作于 2001 年 2 月发行。,https://leaf.aquaplus.jp/product/tas/
+g334,g334-v1,Routes,Routes -ルーツ-,视觉小说,剧情分支／冒险,间谍／传奇,那须宗一、汤浅皋月、伏见由香里,2003,Windows,Leaf,Leaf,首发 CD-ROM 版,无,2003 年 2 月发行，原 PC 版没有主机版新增的全角色配音。,https://leaf.aquaplus.jp/product/rts/
+g334,g334-v2,Routes,Routes -ルーツ-,视觉小说,剧情分支／冒险,间谍／传奇,那须宗一、汤浅皋月、伏见由香里,2003,Windows,Leaf,Leaf,DVD-ROM 增补版,无,同年发行的 DVD-ROM 版新增部分 CG；仍属同一原作。,https://ja.wikipedia.org/wiki/Leaf
+g334,g334-v3,Routes,Routes -ルーツ-,视觉小说,剧情分支／冒险,间谍／传奇,那须宗一、汤浅皋月、伏见由香里,2007,PlayStation 2,AQUAPLUS,AQUAPLUS,Routes PE 全年龄移植,有,新增全角色配音、剧情、新人物及开场动画。,https://aquaplus.jp/routes/product.html
+g334,g334-v4,Routes,Routes -ルーツ-,视觉小说,剧情分支／冒险,间谍／传奇,那须宗一、汤浅皋月、伏见由香里,2007,PlayStation Portable,AQUAPLUS,AQUAPLUS,Routes PORTABLE 全年龄移植,有,与 PS2 版同日发售，增加配音和剧情，双方存档可互通。,https://aquaplus.jp/routes/product.html
+g335,g335-v1,没有天使的十二月,天使のいない12月,Galgame,恋爱剧情冒险,校园／人际关系,木田惠美梨、栗原透子、榊忍,2003,Windows,Leaf,Leaf,首发,未核实,2003 年 9 月推出的 PC 原作。,https://leaf.aquaplus.jp/product/ten/
+g336,g336-v1,锁,鎖 -クサリ-,Galgame,恋爱剧情冒险,密闭空间／悬疑,香月恭介、折原明乃、香月千早,2005,Windows,Leaf,Leaf,首发,未核实,2005 年 9 月推出的悬疑 ADV。,https://ja.wikipedia.org/wiki/Leaf
+g337,g337-v1,心之彼端 2 AnotherDays,ToHeart2 AnotherDays,Galgame,恋爱剧情冒险,校园恋爱／外传,河野贵明、河野春美、希露法、小牧郁乃,2008,Windows,Leaf,Leaf,外传首发,未核实,2008 年 2 月独立推出的 PC 外传。,https://leaf.aquaplus.jp/product/th2ad/
+g337,g337-v2,心之彼端 2 AnotherDays,ToHeart2 AnotherDays,Galgame,恋爱剧情冒险,校园恋爱／外传,河野贵明、河野春美、希露法、小牧郁乃,2011,PlayStation 3,AQUAPLUS,AQUAPLUS,DX PLUS 合集内的全年龄版,有,首次主机化，随《ToHeart2 DX PLUS》同捆；剧情和 CG 作调整。,https://aquaplus.jp/th2dxp/product.html
+g338,g338-v1,星之王子君,星の王子くん,Galgame,恋爱剧情冒险,校园恋爱喜剧,星野王子、甘夏布丁、葵苹果,2011,Windows,Leaf,Leaf,首发,未核实,2011 年 1 月发售。,https://leaf.aquaplus.jp/product/prince/
+g024,g024-v3,雫,雫,视觉小说,剧情分支／冒险,悬疑／成人向,待核实,2004,Windows,Leaf,Leaf,Renewal 重绘版,有,2004 年重绘并为主人公以外的人物增加配音。,https://ja.wikipedia.org/wiki/Leaf
+g025,g025-v2,痕,痕,视觉小说,剧情分支／冒险,悬疑／成人向,待核实,1996,PC-9800,Leaf,Leaf,同期原版,无,与 Windows 版于 1996 年同期推出。,https://www.gamepres.org/catalog/?cat=1&id=8811007924006&nav=brand
+g025,g025-v3,痕,痕,视觉小说,剧情分支／冒险,悬疑／成人向,待核实,2002,Windows,Leaf,Leaf,Renewal 重绘版,无,重绘和扩展的 2002 年更新版。,https://ja.wikipedia.org/wiki/Leaf
+g025,g025-v4,痕,痕,视觉小说,剧情分支／冒险,悬疑／成人向,待核实,2009,Windows,Leaf,Leaf,再次重制版,未核实,2009 年新版重新绘制人物，并加入新角色。,https://ja.wikipedia.org/wiki/Leaf
+g026,g026-v3,ToHeart,ToHeart,视觉小说,恋爱剧情,校园恋爱,藤田浩之、神岸明里、来栖川芹香、玛尔琪（Multi）,2003,Windows,AQUAPLUS,AQUAPLUS,ToHeart PSE 全年龄逆移植,有,以 PlayStation 版为基础回到 Windows，保留该版人物配音。,https://aquaplus.jp/products/eol.html
+g026,g026-v4,ToHeart,ToHeart,视觉小说,恋爱剧情,校园恋爱,藤田浩之、神岸明里、来栖川芹香、玛尔琪（Multi）,2009,PlayStation Portable,AQUAPLUS,AQUAPLUS,ToHeart PORTABLE 同捆版,有,与《ToHeart2 PORTABLE》双游戏包装同捆。,https://aquaplus.jp/psp_th2/product.html
+g151,g151-v2,传颂之物,うたわれるもの,视觉小说,剧情分支／冒险,剧情阅读／战略角色扮演,哈克奥罗、艾露露、阿露露,2006,PlayStation 2,AQUAPLUS,AQUAPLUS,散りゆく者への子守唄 全年龄移植,有,剧情与战斗系统更新；主机版配音。,https://aquaplus.jp/products/eol.html
+g151,g151-v3,传颂之物,うたわれるもの,视觉小说,剧情分支／冒险,剧情阅读／战略角色扮演,哈克奥罗、艾露露、阿露露,2009,PlayStation Portable,AQUAPLUS,AQUAPLUS,PORTABLE 移植,有,以主机版为基础移植掌机。,https://aquaplus.jp/products/eol.html
+g159,g159-v2,心之彼端 2,ToHeart2,Galgame,恋爱剧情冒险,校园恋爱／多线剧情,河野贵明、柚原此美、向坂环,2005,Windows,Leaf,Leaf,XRATED 成人版,有,Leaf PC 版加入久寿川纱纱拉故事线及成人内容；原 PS2 首发仍署 AQUAPLUS。,https://leaf.aquaplus.jp/product/th2x/
+g159,g159-v3,心之彼端 2,ToHeart2,Galgame,恋爱剧情冒险,校园恋爱／多线剧情,河野贵明、柚原此美、向坂环,2009,PlayStation Portable,AQUAPLUS,AQUAPLUS,PORTABLE 全年龄移植,有,纳入 PC 版新增的久寿川纱纱拉路线。,https://aquaplus.jp/psp_th2/product.html
+g159,g159-v4,心之彼端 2,ToHeart2,Galgame,恋爱剧情冒险,校园恋爱／多线剧情,河野贵明、柚原此美、向坂环,2011,PlayStation 3,AQUAPLUS,AQUAPLUS,DX PLUS 增补合集,有,本篇增加羽根崎美绪；同捆《AnotherDays》，另作外传作品关联。,https://aquaplus.jp/th2dxp/product.html
+g166,g166-v3,同人志派对,こみっくパーティー,Galgame,恋爱模拟,同人创作／恋爱模拟,千堂和树、高濑瑞希、九品佛大志,2003,Windows,AQUAPLUS,AQUAPLUS,DCE 全年龄扩充版,有,Dreamcast 版回移 PC，并将原稿绘制部分改为可关闭的打字环节。,https://aquaplus.jp/cp/dce.html
+g166,g166-v4,同人志派对,こみっくパーティー,Galgame,恋爱模拟,同人创作／恋爱模拟,千堂和树、高濑瑞希、九品佛大志,2005,PlayStation Portable,AQUAPLUS,AQUAPLUS,PORTABLE 全年龄移植,有,以扩充版为基础推出掌机版。,https://aquaplus.jp/psp_cp/
+g039,g039-v5,WHITE ALBUM2,WHITE ALBUM2 -introductory chapter-,视觉小说,恋爱剧情,恋爱／群像,北原春希、小木曾雪菜、冬马和纱,2018,Windows,Leaf,Leaf,EXTENDED EDITION 整合版,有,整合此前发布的游戏本篇和相关广播剧／小说特典盘，适配更新的 Windows 系统。,https://leaf.aquaplus.jp/product/wa2cc/product.html

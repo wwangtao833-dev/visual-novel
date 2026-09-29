@@ -3889,6 +3889,678 @@
       "publisherWorkText": "<p class=\"scope-note\"><strong>叙事作品 31 部，其中 ELF 原创 26 部、ELF 发行的 Silky’s 原作 5 部。</strong></p>",
       "relatedCountLabel": "按实际类型标注",
       "description": "日本 ELF 历史作品专题：31 部叙事作品、22 部跨类型作品、版本资料和指令类作品排除说明。"
+    },
+    {
+      "id": "leaf",
+      "name": "Leaf",
+      "checkedAt": "2026-09-29",
+      "status": "历史主品牌独立作品逐项核对",
+      "scope": "以 Leaf 历史品牌独立发行游戏为边界：14 部符合四类检索的叙事作品（含 AQUAPLUS 首发但由 Leaf 推出 XRATED 版的《ToHeart2》），11 部麻将、RPG、经营及独立 Fan Disc 在专题单列。原作移植、重制、整合版和盘内小游戏不重复算作品。新录入没有图文指令或纯文本指令游戏。",
+      "versionScope": "四类主库列主要原版、更新版和经官方资料核实的主要主机移植；不追求各地区所有廉价版／数字版。杂集和跨类型游戏只列首发版本，其移植在卡片及核对表中交代。Leaf 成人站目前有年龄确认页，历史首发年份另与发行目录交叉核对。",
+      "publisherNote": "Leaf 是 AQUAPLUS 的成人游戏品牌。专题按作品与版本区分历史 Leaf PC 发行和 AQUAPLUS 全年龄主机发行；《ToHeart2》的 2004 年首版署名 AQUAPLUS，Leaf 版为 2005 年 XRATED。",
+      "workIds": [
+        "g024",
+        "g025",
+        "g026",
+        "g150",
+        "g166",
+        "g333",
+        "g151",
+        "g334",
+        "g335",
+        "g159",
+        "g336",
+        "g337",
+        "g039",
+        "g338"
+      ],
+      "publisherWorkIds": [
+        "g024",
+        "g025",
+        "g026",
+        "g150",
+        "g166",
+        "g333",
+        "g151",
+        "g334",
+        "g335",
+        "g159",
+        "g336",
+        "g337",
+        "g039",
+        "g338"
+      ],
+      "catalogueEntryCount": 31,
+      "source": "https://leaf.aquaplus.jp/product/index.html",
+      "sectionTitle": "1996—2011 年独立叙事游戏",
+      "auditLabel": "31 项历史产品与版本范围核查。",
+      "auditNote": "历史发行表与 Leaf／AQUAPLUS 产品页交叉核对。每张 Amusement Soft 光盘计一款杂集，盘内小说、小游戏不作独立发行；AQUAPLUS 品牌的后续续作及 2025 年重制版不混计 Leaf 原作。个别老作品详情与配音仍待更直接资料核实。",
+      "relatedGames": [
+        {
+          "id": "leaf-r01",
+          "title": "DR² Night Janki",
+          "originalTitle": "DR²ナイト雀鬼",
+          "firstYear": 1995,
+          "category": "麻将",
+          "subcategory": "麻将",
+          "genre": "脱衣麻将",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "人物姓名待核实。",
+          "synopsis": "Leaf 最初发行的麻将游戏，玩家通过对局推进角色事件。",
+          "notes": "麻将玩法单列；不是纯文本指令或图文指令条目。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf",
+          "versions": [
+            {
+              "id": "leaf-r01-v1",
+              "workId": "leaf-r01",
+              "year": 1995,
+              "platform": "PC-9800",
+              "publisher": "Leaf",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
+              "source": "https://ja.wikipedia.org/wiki/Leaf"
+            }
+          ]
+        },
+        {
+          "id": "leaf-r02",
+          "title": "Filsnown 光与刻",
+          "originalTitle": "Filsnown -光と刻-",
+          "firstYear": 1995,
+          "category": "角色扮演",
+          "subcategory": "角色扮演",
+          "genre": "奇幻 RPG",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "人物姓名待核实。",
+          "synopsis": "奇幻世界的探索与战斗 RPG；后来随《猪名川でいこう!!》附上 Windows 移植。",
+          "notes": "附盘移植不重复算作新游戏。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf",
+          "versions": [
+            {
+              "id": "leaf-r02-v1",
+              "workId": "leaf-r02",
+              "year": 1995,
+              "platform": "PC-9800",
+              "publisher": "Leaf",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
+              "source": "https://ja.wikipedia.org/wiki/Leaf"
+            }
+          ]
+        },
+        {
+          "id": "leaf-r03",
+          "title": "和沙织在一起!!",
+          "originalTitle": "さおりんといっしょ!!",
+          "firstYear": 1996,
+          "category": "杂集／Fan Disc",
+          "subcategory": "杂集／Fan Disc",
+          "genre": "短篇附录／小游戏",
+          "characters": [
+            "新城沙织"
+          ],
+          "charactersNote": "",
+          "synopsis": "Leaf Amusement Soft 第 1 张：收录《痕》番外短篇、小游戏、原声与旧作资料。",
+          "notes": "以整张独立发行的 Fan Disc 计数；内含短篇不另计独立作品。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf",
+          "versions": [
+            {
+              "id": "leaf-r03-v1",
+              "workId": "leaf-r03",
+              "year": 1996,
+              "platform": "Windows",
+              "publisher": "Leaf",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
+              "source": "https://ja.wikipedia.org/wiki/Leaf"
+            }
+          ]
+        },
+        {
+          "id": "leaf-r04",
+          "title": "初音的秘密!!",
+          "originalTitle": "初音のないしょ!!",
+          "firstYear": 1997,
+          "category": "杂集／Fan Disc",
+          "subcategory": "杂集／Fan Disc",
+          "genre": "短篇附录／动作／RPG",
+          "characters": [
+            "柏木初音"
+          ],
+          "charactersNote": "",
+          "synopsis": "第 2 张杂集：含《ToHeart》番外短篇、《Heart by Heart》动作小游戏及《LEAF FIGHT 97》。",
+          "notes": "杂集与收录的小游戏不重复计数。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf",
+          "versions": [
+            {
+              "id": "leaf-r04-v1",
+              "workId": "leaf-r04",
+              "year": 1997,
+              "platform": "Windows",
+              "publisher": "Leaf",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
+              "source": "https://ja.wikipedia.org/wiki/Leaf"
+            }
+          ]
+        },
+        {
+          "id": "leaf-r05",
+          "title": "去猪名川吧!!",
+          "originalTitle": "猪名川でいこう!!",
+          "firstYear": 2000,
+          "category": "杂集／Fan Disc",
+          "subcategory": "杂集／Fan Disc",
+          "genre": "短篇／问答／打字",
+          "characters": [
+            "猪名川由宇"
+          ],
+          "charactersNote": "",
+          "synopsis": "第 3 张杂集：收录《同人志派对》番外篇、问答、打字游戏和《Filsnown》Windows 版。",
+          "notes": "内含《Filsnown》是原作移植。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf",
+          "versions": [
+            {
+              "id": "leaf-r05-v1",
+              "workId": "leaf-r05",
+              "year": 2000,
+              "platform": "Windows",
+              "publisher": "Leaf",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
+              "source": "https://ja.wikipedia.org/wiki/Leaf"
+            }
+          ]
+        },
+        {
+          "id": "leaf-r06",
+          "title": "魔法古董",
+          "originalTitle": "まじかる☆アンティーク",
+          "firstYear": 2000,
+          "category": "经营模拟",
+          "subcategory": "经营模拟",
+          "genre": "店铺经营／恋爱",
+          "characters": [
+            "宫田健太郎",
+            "斯菲",
+            "莉安"
+          ],
+          "charactersNote": "",
+          "synopsis": "主人公与来自异世界的少女经营古董店，通过安排店务推动相遇和事件。",
+          "notes": "以经营模拟为主要玩法，单列专题。",
+          "source": "https://leaf.aquaplus.jp/product/ma/",
+          "versions": [
+            {
+              "id": "leaf-r06-v1",
+              "workId": "leaf-r06",
+              "year": 2000,
+              "platform": "Windows",
+              "publisher": "Leaf",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
+              "source": "https://leaf.aquaplus.jp/product/ma/"
+            }
+          ]
+        },
+        {
+          "id": "leaf-r07",
+          "title": "和阿露露玩!!",
+          "originalTitle": "アルルゥとあそぼ!!",
+          "firstYear": 2004,
+          "category": "杂集／Fan Disc",
+          "subcategory": "杂集／Fan Disc",
+          "genre": "RPG／动作／番外篇",
+          "characters": [
+            "阿露露",
+            "哈克奥罗"
+          ],
+          "charactersNote": "",
+          "synopsis": "第 4 张杂集：集合《传颂之物》等角色的动作、RPG 和《Routes》番外剧情。",
+          "notes": "《Routes EXTRA MISSION》只是盘中附录，不重复计独立发行。",
+          "source": "https://leaf.aquaplus.jp/product/aru/",
+          "versions": [
+            {
+              "id": "leaf-r07-v1",
+              "workId": "leaf-r07",
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "Leaf",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
+              "source": "https://leaf.aquaplus.jp/product/aru/"
+            }
+          ]
+        },
+        {
+          "id": "leaf-r08",
+          "title": "提亚拉之泪",
+          "originalTitle": "Tears to Tiara",
+          "firstYear": 2005,
+          "category": "战略角色扮演",
+          "subcategory": "战略角色扮演",
+          "genre": "奇幻／战术 RPG",
+          "characters": [
+            "阿隆",
+            "莉安珑"
+          ],
+          "charactersNote": "",
+          "synopsis": "奇幻冒险结合长篇剧情和战术战斗；AQUAPLUS 后来以《花冠的大地》重制。",
+          "notes": "原作 Leaf PC 版；主机重制属于 AQUAPLUS。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf",
+          "versions": [
+            {
+              "id": "leaf-r08-v1",
+              "workId": "leaf-r08",
+              "year": 2005,
+              "platform": "Windows",
+              "publisher": "Leaf",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
+              "source": "https://ja.wikipedia.org/wiki/Leaf"
+            }
+          ]
+        },
+        {
+          "id": "leaf-r09",
+          "title": "Fullani",
+          "originalTitle": "フルアニ",
+          "firstYear": 2006,
+          "category": "麻将",
+          "subcategory": "麻将",
+          "genre": "全动画麻将",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "人物姓名待核实。",
+          "synopsis": "全程以动画表现人物事件的麻将游戏，核心交互仍为麻将对局。",
+          "notes": "动画演出不等于互动动画分支游戏。",
+          "source": "https://leaf.aquaplus.jp/product/fullani/",
+          "versions": [
+            {
+              "id": "leaf-r09-v1",
+              "workId": "leaf-r09",
+              "year": 2006,
+              "platform": "Windows",
+              "publisher": "Leaf",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
+              "source": "https://leaf.aquaplus.jp/product/fullani/"
+            }
+          ]
+        },
+        {
+          "id": "leaf-r10",
+          "title": "你呼唤的梅吉多之丘",
+          "originalTitle": "君が呼ぶ、メギドの丘で",
+          "firstYear": 2008,
+          "category": "角色扮演",
+          "subcategory": "角色扮演",
+          "genre": "奇幻 RPG",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "人物姓名待核实。",
+          "synopsis": "围绕奇幻世界的旅程展开探索、战斗及角色剧情。",
+          "notes": "以 RPG 玩法为主，单列专题。",
+          "source": "https://leaf.aquaplus.jp/product/megiddo/",
+          "versions": [
+            {
+              "id": "leaf-r10-v1",
+              "workId": "leaf-r10",
+              "year": 2008,
+              "platform": "Windows",
+              "publisher": "Leaf",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
+              "source": "https://leaf.aquaplus.jp/product/megiddo/"
+            }
+          ]
+        },
+        {
+          "id": "leaf-r11",
+          "title": "和爱佳一起!!",
+          "originalTitle": "愛佳でいくの!!",
+          "firstYear": 2009,
+          "category": "杂集／Fan Disc",
+          "subcategory": "杂集／Fan Disc",
+          "genre": "地牢 RPG／动作／卡牌",
+          "characters": [
+            "小牧爱佳",
+            "小牧郁乃"
+          ],
+          "charactersNote": "",
+          "synopsis": "第 5 张杂集：包含地牢 RPG《FINAL DRAGON CHRONICLE》、动作和卡牌小游戏。",
+          "notes": "地牢 RPG 后来的 AQUAPLUS 独立移植《ToHeart2 ダンジョントラベラーズ》不算 Leaf 新作。",
+          "source": "https://leaf.aquaplus.jp/product/manaka/",
+          "versions": [
+            {
+              "id": "leaf-r11-v1",
+              "workId": "leaf-r11",
+              "year": 2009,
+              "platform": "Windows",
+              "publisher": "Leaf",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
+              "source": "https://leaf.aquaplus.jp/product/manaka/"
+            }
+          ]
+        }
+      ],
+      "relatedIntro": "首发即以麻将、经营、RPG 或杂集为主要形式的 11 部 Leaf 游戏与 Fan Disc。保留剧情简介、首发年份和平台，但不进入四类叙事检索。",
+      "relatedSectionTitle": "麻将、RPG、经营与五张杂集",
+      "relatedCountLabel": "跨类型及独立杂集",
+      "entries": [
+        {
+          "title": "雫",
+          "status": "主数据库",
+          "workIds": [
+            "g024"
+          ],
+          "reason": "独立叙事游戏；主要版本在作品卡片中分开记录。",
+          "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/"
+        },
+        {
+          "title": "痕",
+          "status": "主数据库",
+          "workIds": [
+            "g025"
+          ],
+          "reason": "独立叙事游戏；主要版本在作品卡片中分开记录。",
+          "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/"
+        },
+        {
+          "title": "ToHeart",
+          "status": "主数据库",
+          "workIds": [
+            "g026"
+          ],
+          "reason": "独立叙事游戏；主要版本在作品卡片中分开记录。",
+          "source": "https://aquaplus.jp/toheart/en.html"
+        },
+        {
+          "title": "WHITE ALBUM",
+          "status": "主数据库",
+          "workIds": [
+            "g150"
+          ],
+          "reason": "独立叙事游戏；主要版本在作品卡片中分开记录。",
+          "source": "https://leaf.aquaplus.jp/product/wa/"
+        },
+        {
+          "title": "こみっくパーティー",
+          "status": "主数据库",
+          "workIds": [
+            "g166"
+          ],
+          "reason": "独立叙事游戏；主要版本在作品卡片中分开记录。",
+          "source": "https://aquaplus.jp/cp/introduction.html"
+        },
+        {
+          "title": "誰彼 〜たそがれ〜",
+          "status": "主数据库",
+          "workIds": [
+            "g333"
+          ],
+          "reason": "独立叙事游戏；主要版本在作品卡片中分开记录。",
+          "source": "https://leaf.aquaplus.jp/product/tas/"
+        },
+        {
+          "title": "うたわれるもの",
+          "status": "主数据库",
+          "workIds": [
+            "g151"
+          ],
+          "reason": "独立叙事游戏；主要版本在作品卡片中分开记录。",
+          "source": "https://aquaplus.jp/uta20/"
+        },
+        {
+          "title": "Routes -ルーツ-",
+          "status": "主数据库",
+          "workIds": [
+            "g334"
+          ],
+          "reason": "独立叙事游戏；主要版本在作品卡片中分开记录。",
+          "source": "https://leaf.aquaplus.jp/product/rts/"
+        },
+        {
+          "title": "天使のいない12月",
+          "status": "主数据库",
+          "workIds": [
+            "g335"
+          ],
+          "reason": "独立叙事游戏；主要版本在作品卡片中分开记录。",
+          "source": "https://leaf.aquaplus.jp/product/ten/"
+        },
+        {
+          "title": "ToHeart2",
+          "status": "主数据库",
+          "workIds": [
+            "g159"
+          ],
+          "reason": "独立叙事游戏；主要版本在作品卡片中分开记录。",
+          "source": "https://aquaplus.jp/th2/html/products.html"
+        },
+        {
+          "title": "鎖 -クサリ-",
+          "status": "主数据库",
+          "workIds": [
+            "g336"
+          ],
+          "reason": "独立叙事游戏；主要版本在作品卡片中分开记录。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf"
+        },
+        {
+          "title": "ToHeart2 AnotherDays",
+          "status": "主数据库",
+          "workIds": [
+            "g337"
+          ],
+          "reason": "独立叙事游戏；主要版本在作品卡片中分开记录。",
+          "source": "https://leaf.aquaplus.jp/product/th2ad/"
+        },
+        {
+          "title": "WHITE ALBUM2 -introductory chapter-",
+          "status": "主数据库",
+          "workIds": [
+            "g039"
+          ],
+          "reason": "独立叙事游戏；主要版本在作品卡片中分开记录。",
+          "source": "https://blog.aquaplus.jp/archives/2352"
+        },
+        {
+          "title": "星の王子くん",
+          "status": "主数据库",
+          "workIds": [
+            "g338"
+          ],
+          "reason": "独立叙事游戏；主要版本在作品卡片中分开记录。",
+          "source": "https://leaf.aquaplus.jp/product/prince/"
+        },
+        {
+          "title": "DR²ナイト雀鬼",
+          "status": "专题跨类型",
+          "workIds": [],
+          "relatedIds": [
+            "leaf-r01"
+          ],
+          "reason": "独立发行的麻将、RPG、经营作品或杂集；按整张产品介绍，不将其中小游戏拆成独立发行作品。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf"
+        },
+        {
+          "title": "Filsnown -光と刻-",
+          "status": "专题跨类型",
+          "workIds": [],
+          "relatedIds": [
+            "leaf-r02"
+          ],
+          "reason": "独立发行的麻将、RPG、经营作品或杂集；按整张产品介绍，不将其中小游戏拆成独立发行作品。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf"
+        },
+        {
+          "title": "さおりんといっしょ!!",
+          "status": "专题跨类型",
+          "workIds": [],
+          "relatedIds": [
+            "leaf-r03"
+          ],
+          "reason": "独立发行的麻将、RPG、经营作品或杂集；按整张产品介绍，不将其中小游戏拆成独立发行作品。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf"
+        },
+        {
+          "title": "初音のないしょ!!",
+          "status": "专题跨类型",
+          "workIds": [],
+          "relatedIds": [
+            "leaf-r04"
+          ],
+          "reason": "独立发行的麻将、RPG、经营作品或杂集；按整张产品介绍，不将其中小游戏拆成独立发行作品。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf"
+        },
+        {
+          "title": "猪名川でいこう!!",
+          "status": "专题跨类型",
+          "workIds": [],
+          "relatedIds": [
+            "leaf-r05"
+          ],
+          "reason": "独立发行的麻将、RPG、经营作品或杂集；按整张产品介绍，不将其中小游戏拆成独立发行作品。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf"
+        },
+        {
+          "title": "まじかる☆アンティーク",
+          "status": "专题跨类型",
+          "workIds": [],
+          "relatedIds": [
+            "leaf-r06"
+          ],
+          "reason": "独立发行的麻将、RPG、经营作品或杂集；按整张产品介绍，不将其中小游戏拆成独立发行作品。",
+          "source": "https://leaf.aquaplus.jp/product/ma/"
+        },
+        {
+          "title": "アルルゥとあそぼ!!",
+          "status": "专题跨类型",
+          "workIds": [],
+          "relatedIds": [
+            "leaf-r07"
+          ],
+          "reason": "独立发行的麻将、RPG、经营作品或杂集；按整张产品介绍，不将其中小游戏拆成独立发行作品。",
+          "source": "https://leaf.aquaplus.jp/product/aru/"
+        },
+        {
+          "title": "Tears to Tiara",
+          "status": "专题跨类型",
+          "workIds": [],
+          "relatedIds": [
+            "leaf-r08"
+          ],
+          "reason": "独立发行的麻将、RPG、经营作品或杂集；按整张产品介绍，不将其中小游戏拆成独立发行作品。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf"
+        },
+        {
+          "title": "フルアニ",
+          "status": "专题跨类型",
+          "workIds": [],
+          "relatedIds": [
+            "leaf-r09"
+          ],
+          "reason": "独立发行的麻将、RPG、经营作品或杂集；按整张产品介绍，不将其中小游戏拆成独立发行作品。",
+          "source": "https://leaf.aquaplus.jp/product/fullani/"
+        },
+        {
+          "title": "君が呼ぶ、メギドの丘で",
+          "status": "专题跨类型",
+          "workIds": [],
+          "relatedIds": [
+            "leaf-r10"
+          ],
+          "reason": "独立发行的麻将、RPG、经营作品或杂集；按整张产品介绍，不将其中小游戏拆成独立发行作品。",
+          "source": "https://leaf.aquaplus.jp/product/megiddo/"
+        },
+        {
+          "title": "愛佳でいくの!!",
+          "status": "专题跨类型",
+          "workIds": [],
+          "relatedIds": [
+            "leaf-r11"
+          ],
+          "reason": "独立发行的麻将、RPG、经营作品或杂集；按整张产品介绍，不将其中小游戏拆成独立发行作品。",
+          "source": "https://leaf.aquaplus.jp/product/manaka/"
+        },
+        {
+          "title": "雫 Renewal（2004）",
+          "status": "版本／范围说明",
+          "workIds": [
+            "g024"
+          ],
+          "reason": "重绘及有声化，按《雫》版本归档。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf"
+        },
+        {
+          "title": "痕 Renewal／2009 重制",
+          "status": "版本／范围说明",
+          "workIds": [
+            "g025"
+          ],
+          "reason": "两次重绘版分别归档到《痕》。",
+          "source": "https://ja.wikipedia.org/wiki/Leaf"
+        },
+        {
+          "title": "ToHeart2 XRATED",
+          "status": "版本／范围说明",
+          "workIds": [
+            "g159"
+          ],
+          "reason": "2004 年 AQUAPLUS PS2 原作的 2005 年 Leaf 成人 PC 版。",
+          "source": "https://leaf.aquaplus.jp/product/th2x/"
+        },
+        {
+          "title": "WHITE ALBUM2 -closing chapter-／EXTENDED EDITION",
+          "status": "版本／范围说明",
+          "workIds": [
+            "g039"
+          ],
+          "reason": "分期章节与整合版归档到同一《WHITE ALBUM2》作品。",
+          "source": "https://leaf.aquaplus.jp/product/wa2cc/"
+        },
+        {
+          "title": "ToHeart（2025 重制）",
+          "status": "版本／范围说明",
+          "workIds": [
+            "g026"
+          ],
+          "reason": "现有主库另有 AQUAPLUS 重制条目 g037，不计为 Leaf 品牌独立原作。",
+          "source": "https://aquaplus.jp/toheart/en.html"
+        },
+        {
+          "title": "AQUAPLUS 后续传颂之物／提亚拉之泪续作",
+          "status": "版本／范围说明",
+          "workIds": [
+            "g151"
+          ],
+          "reason": "非 Leaf 名义首发作品；请以 AQUAPLUS 作品目录为准。",
+          "source": "https://aquaplus.jp/products/"
+        }
+      ],
+      "auditTitle": "Leaf 历史作品逐项核对",
+      "auditSourceLabel": "Leaf 官方产品目录（需年龄确认）",
+      "overviewLabel": "Leaf 历史游戏与杂集",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>叙事游戏 14 部；跨类型及独立 Fan Disc 11 部。主机移植署 AQUAPLUS，不改写原作发行方。</strong></p>",
+      "description": "Leaf 历史作品专题：14 部独立叙事游戏与 11 部麻将、RPG、经营和 Fan Disc；提供剧情、人物、版本及产品核对说明。"
     }
   ]
 }

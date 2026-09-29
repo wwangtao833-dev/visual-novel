@@ -4,11 +4,13 @@
 
 ## 数据范围
 
-当前收录 **332 部代表作品、654 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、ゆずソフト、Innocent Grey、minori、AUGUST、tone work’s、ASa Project、ELF、Leaf、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
+当前收录 **338 部代表作品、679 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、ゆずソフト、Innocent Grey、minori、AUGUST、tone work’s、ASa Project、ELF、Leaf、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
 
 作品主分类是一种检索入口，并非互斥的学术分类：一部恋爱视觉小说也可能属于广义 Galgame。视觉小说的“有声小说”可能只有音乐和音效，配音字段专指游戏内角色人声。
 
 ## 厂商集中整理
+
+已新增 [Leaf 专题](leaf.html)：核对历史品牌独立作品，**14 部叙事游戏**进入主数据库（其中 6 部为本次新增），**11 部麻将、RPG、经营或独立 Fan Disc**在专题单列，合计 **25 部游戏与杂集**。主数据库对这 14 部作品列出 **39 条主要平台版本**；原作、重绘版、全龄移植和《ToHeart2 XRATED》分别署实际发行方。五张 Amusement Soft 按整张杂集计数，盘内小说或小游戏不重复算独立作品；不新增图文指令、纯文本指令游戏。
 
 已新增 [ELF 专题](elf.html)：主数据库收录 **31 部叙事作品**（其中 29 部为本次新增）、整理 **22 部 RPG／模拟／麻将／动作游戏**于专题跨类型区，合计 **53 部、77 条已列版本记录**。Silky’s 原作与 ELF 后续发行版分别署名；早期图文指令和纯文本指令作品没有新增。核对清单标注合集、Fan Disc、其他品牌以及资料不足的两个《エルフ イン ワンダーランド》项目。原官网已关闭，专题注明了历史资料的局限。
 
