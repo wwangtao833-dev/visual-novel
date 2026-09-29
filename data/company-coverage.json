@@ -2595,6 +2595,1300 @@
           "source": "https://www.asa-pro.com/ousama/"
         }
       ]
+    },
+    {
+      "id": "elf",
+      "name": "ELF",
+      "checkedAt": "2026-09-29",
+      "status": "已核对主要叙事与跨类型产品，早期细节待补查",
+      "scope": "按原 ELF 主品牌及 ELF 实际发行的 Silky’s 改编版整理；四类主数据库不再新增图文指令和纯文本指令游戏。RPG、模拟与麻将作品仅在下方跨类型区介绍；特典盘、合集和现代其他厂商重制不重复计作 ELF 新作。",
+      "versionScope": "首发平台和已核实的重要移植单列；早期多机种版本、廉价版及语音信息仍需继续查证。1996 年后 Windows 产品可对照 ELF 留存的官方兼容表；老版本发行年与机种还参考历史资料。",
+      "publisherNote": "ELF 指日本株式会社エルフ。Silky’s 原创游戏只在 ELF 确有发行移植／重制版时收入本专题，并明确原作发行品牌；FANZA 等后续权利方重制版仍按实际发行署名归档。",
+      "workIds": [
+        "g046",
+        "g038",
+        "g304",
+        "g305",
+        "g306",
+        "g307",
+        "g308",
+        "g309",
+        "g310",
+        "g311",
+        "g312",
+        "g313",
+        "g314",
+        "g315",
+        "g316",
+        "g317",
+        "g318",
+        "g319",
+        "g320",
+        "g321",
+        "g322",
+        "g323",
+        "g324",
+        "g325",
+        "g326",
+        "g327",
+        "g328",
+        "g329",
+        "g330",
+        "g331",
+        "g332"
+      ],
+      "publisherWorkIds": [
+        "g038",
+        "g046",
+        "g304",
+        "g305",
+        "g306",
+        "g307",
+        "g308",
+        "g309",
+        "g310",
+        "g311",
+        "g312",
+        "g313",
+        "g314",
+        "g315",
+        "g316",
+        "g317",
+        "g318",
+        "g319",
+        "g320",
+        "g321",
+        "g322",
+        "g323",
+        "g324",
+        "g325",
+        "g326",
+        "g327",
+        "g328",
+        "g329",
+        "g330",
+        "g331",
+        "g332"
+      ],
+      "catalogueEntryCount": 62,
+      "source": "https://archive.is/taUch",
+      "sectionTitle": "ELF 叙事作品与其实际发行版本",
+      "auditLabel": "62 项历史作品与范围核查。",
+      "auditNote": "官方原站已经关闭。此表综合 ELF 留存的官方 Windows 兼容表、历史发行目录与作品资料整理；“核对”表示本专题列出的项目有处理记录，不保证失传或未列出产品均已穷尽。纯文本指令和图文指令游戏没有新增条目。",
+      "relatedGames": [
+        {
+          "id": "elf-r01",
+          "title": "Angel Hearts",
+          "originalTitle": "Angel Hearts",
+          "firstYear": 1989,
+          "category": "角色扮演",
+          "subcategory": "角色扮演",
+          "genre": "角色扮演",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "奇幻 RPG；探索和战斗推进故事。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r01-v1",
+              "workId": "elf-r01",
+              "year": 1989,
+              "platform": "PC-8800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r02",
+          "title": "Dragon Knight",
+          "originalTitle": "Dragon Knight",
+          "firstYear": 1989,
+          "category": "角色扮演",
+          "subcategory": "角色扮演",
+          "genre": "角色扮演",
+          "characters": [
+            "大和武尊"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "战斗与迷宫探索构成的奇幻系列首作。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r02-v1",
+              "workId": "elf-r02",
+              "year": 1989,
+              "platform": "PC-9800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r03",
+          "title": "FOXY",
+          "originalTitle": "FOXY",
+          "firstYear": 1990,
+          "category": "策略模拟",
+          "subcategory": "策略模拟",
+          "genre": "策略模拟",
+          "characters": [
+            "玩家（指挥官）"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "在 NEO-TOKYO 调度队伍，搜集情报并使失控的电脑 FOXY 恢复正常。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://www.gamingalexandria.com/pc98/Foxy/Manual.pdf",
+          "versions": [
+            {
+              "id": "elf-r03-v1",
+              "workId": "elf-r03",
+              "year": 1990,
+              "platform": "PC-9800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://www.gamingalexandria.com/pc98/Foxy/Manual.pdf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r04",
+          "title": "Dragon Knight II",
+          "originalTitle": "Dragon Knight II",
+          "firstYear": 1990,
+          "category": "角色扮演",
+          "subcategory": "角色扮演",
+          "genre": "角色扮演",
+          "characters": [
+            "大和武尊"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "《Dragon Knight》的独立续作，延续奇幻冒险与战斗。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r04-v1",
+              "workId": "elf-r04",
+              "year": 1990,
+              "platform": "PC-8800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r05",
+          "title": "RAY-GUN",
+          "originalTitle": "RAY-GUN",
+          "firstYear": 1990,
+          "category": "角色扮演",
+          "subcategory": "角色扮演",
+          "genre": "角色扮演",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "科幻设定的探索与战斗 RPG。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r05-v1",
+              "workId": "elf-r05",
+              "year": 1990,
+              "platform": "PC-8800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r06",
+          "title": "FOXY2",
+          "originalTitle": "FOXY2",
+          "firstYear": 1991,
+          "category": "策略模拟",
+          "subcategory": "策略模拟",
+          "genre": "策略模拟",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "《FOXY》的战术模拟续篇。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r06-v1",
+              "workId": "elf-r06",
+              "year": 1991,
+              "platform": "PC-9800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r07",
+          "title": "SHANGRLIA",
+          "originalTitle": "SHANGRLIA",
+          "firstYear": 1991,
+          "category": "策略模拟",
+          "subcategory": "策略模拟",
+          "genre": "策略模拟",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "以地图部署和战斗推进的模拟游戏。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r07-v1",
+              "workId": "elf-r07",
+              "year": 1991,
+              "platform": "PC-9800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r08",
+          "title": "Dragon Knight III",
+          "originalTitle": "Dragon Knight III",
+          "firstYear": 1991,
+          "category": "角色扮演",
+          "subcategory": "角色扮演",
+          "genre": "角色扮演",
+          "characters": [
+            "大和武尊"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "《Dragon Knight》的第三部奇幻 RPG。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r08-v1",
+              "workId": "elf-r08",
+              "year": 1991,
+              "platform": "PC-9800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r09",
+          "title": "天神乱魔",
+          "originalTitle": "天神乱魔",
+          "firstYear": 1992,
+          "category": "角色扮演",
+          "subcategory": "角色扮演",
+          "genre": "角色扮演",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "以角色成长和战斗为核心的奇幻 RPG。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r09-v1",
+              "workId": "elf-r09",
+              "year": 1992,
+              "platform": "PC-9800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r10",
+          "title": "雀JAKA雀",
+          "originalTitle": "雀JAKA雀",
+          "firstYear": 1992,
+          "category": "麻将",
+          "subcategory": "麻将",
+          "genre": "麻将",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "以麻将对战为中心的独立游戏。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r10-v1",
+              "workId": "elf-r10",
+              "year": 1992,
+              "platform": "PC-9800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r11",
+          "title": "METAL EYE",
+          "originalTitle": "METAL EYE",
+          "firstYear": 1993,
+          "category": "角色扮演",
+          "subcategory": "角色扮演",
+          "genre": "角色扮演",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "科幻题材的角色扮演系列首作。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r11-v1",
+              "workId": "elf-r11",
+              "year": 1993,
+              "platform": "PC-9800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r12",
+          "title": "WORDS WORTH",
+          "originalTitle": "WORDS WORTH",
+          "firstYear": 1993,
+          "category": "角色扮演",
+          "subcategory": "角色扮演",
+          "genre": "角色扮演",
+          "characters": [
+            "阿斯特拉尔",
+            "莎伦"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "地上的光之一族和地下的影之一族发生冲突，阿斯特拉尔深入两族的纠葛与石板之谜。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r12-v1",
+              "workId": "elf-r12",
+              "year": 1993,
+              "platform": "PC-9800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r13",
+          "title": "SHANGRLIA2",
+          "originalTitle": "SHANGRLIA2",
+          "firstYear": 1993,
+          "category": "策略模拟",
+          "subcategory": "策略模拟",
+          "genre": "策略模拟",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "《SHANGRLIA》的独立战术模拟续作。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r13-v1",
+              "workId": "elf-r13",
+              "year": 1993,
+              "platform": "PC-9800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r14",
+          "title": "Dragon Knight 4",
+          "originalTitle": "Dragon Knight 4",
+          "firstYear": 1994,
+          "category": "策略角色扮演",
+          "subcategory": "策略角色扮演",
+          "genre": "策略角色扮演",
+          "characters": [
+            "翔",
+            "大和武尊"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "大和武尊与露娜之子翔成为新主人公，在战术地图上率领伙伴前进。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r14-v1",
+              "workId": "elf-r14",
+              "year": 1994,
+              "platform": "PC-9800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r15",
+          "title": "METAL EYE2",
+          "originalTitle": "METAL EYE2",
+          "firstYear": 1994,
+          "category": "角色扮演",
+          "subcategory": "角色扮演",
+          "genre": "角色扮演",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "《METAL EYE》的独立科幻 RPG 续篇。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r15-v1",
+              "workId": "elf-r15",
+              "year": 1994,
+              "platform": "PC-9800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r16",
+          "title": "エルフオールスターズ脱衣雀",
+          "originalTitle": "エルフオールスターズ脱衣雀",
+          "firstYear": 2000,
+          "category": "麻将",
+          "subcategory": "麻将",
+          "genre": "麻将",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "以品牌角色为阵容的麻将对战游戏。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://archive.is/taUch",
+          "versions": [
+            {
+              "id": "elf-r16-v1",
+              "workId": "elf-r16",
+              "year": 2000,
+              "platform": "Windows",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://archive.is/taUch"
+            }
+          ]
+        },
+        {
+          "id": "elf-r17",
+          "title": "エルフオールスターズ脱衣雀2",
+          "originalTitle": "エルフオールスターズ脱衣雀2",
+          "firstYear": 2001,
+          "category": "麻将",
+          "subcategory": "麻将",
+          "genre": "麻将",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "加入系列角色的第二部麻将对战游戏。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://archive.is/taUch",
+          "versions": [
+            {
+              "id": "elf-r17-v1",
+              "workId": "elf-r17",
+              "year": 2001,
+              "platform": "Windows",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://archive.is/taUch"
+            }
+          ]
+        },
+        {
+          "id": "elf-r18",
+          "title": "雀級生 〜コスプレ★パラダイス〜",
+          "originalTitle": "雀級生 〜コスプレ★パラダイス〜",
+          "firstYear": 2001,
+          "category": "麻将",
+          "subcategory": "麻将",
+          "genre": "麻将",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "在 Game Boy Color 上以同级生／下级生角色进行麻将对战。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf",
+          "versions": [
+            {
+              "id": "elf-r18-v1",
+              "workId": "elf-r18",
+              "year": 2001,
+              "platform": "Game Boy Color",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+            }
+          ]
+        },
+        {
+          "id": "elf-r19",
+          "title": "らいむいろ雀奇譚 〜明治日本、乙女 先ヅモス。〜",
+          "originalTitle": "らいむいろ雀奇譚 〜明治日本、乙女 先ヅモス。〜",
+          "firstYear": 2003,
+          "category": "麻将",
+          "subcategory": "麻将",
+          "genre": "麻将",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "礼武色系列角色参加麻将对战的独立作品。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://archive.is/taUch",
+          "versions": [
+            {
+              "id": "elf-r19-v1",
+              "workId": "elf-r19",
+              "year": 2003,
+              "platform": "Windows",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://archive.is/taUch"
+            }
+          ]
+        },
+        {
+          "id": "elf-r20",
+          "title": "エルフオールスターズ脱衣雀3",
+          "originalTitle": "エルフオールスターズ脱衣雀3",
+          "firstYear": 2006,
+          "category": "麻将",
+          "subcategory": "麻将",
+          "genre": "麻将",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "品牌角色麻将系列的第三部独立作品。",
+          "notes": "跨类型游戏，未纳入四类主数据库。",
+          "source": "https://archive.is/taUch",
+          "versions": [
+            {
+              "id": "elf-r20-v1",
+              "workId": "elf-r20",
+              "year": 2006,
+              "platform": "Windows",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "主要首发平台；移植及配音差异待进一步核对。",
+              "source": "https://archive.is/taUch"
+            }
+          ]
+        },
+        {
+          "id": "elf-r21",
+          "title": "ドキドキ!シャッターチャンス!!",
+          "originalTitle": "ドキドキ!シャッターチャンス!!",
+          "firstYear": 1988,
+          "category": "动作",
+          "subcategory": "动作",
+          "genre": "动作",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "以拍照为核心的早期动作游戏；三份追加数据盘归入同作。",
+          "notes": "跨类型游戏；未纳入四类主数据库。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_EKgvkSjXJbgqEyeI.php",
+          "versions": [
+            {
+              "id": "elf-r21-v1",
+              "workId": "elf-r21",
+              "year": 1988,
+              "platform": "PC-8800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "机种和早期发行年份依据存档；其他发行信息待核实。",
+              "source": "https://www.8-bits.info/gamelist/PC88/info/info_EKgvkSjXJbgqEyeI.php"
+            }
+          ]
+        },
+        {
+          "id": "elf-r22",
+          "title": "RUNRUN狂走曲",
+          "originalTitle": "RUNRUN狂走曲",
+          "firstYear": 1989,
+          "category": "动作",
+          "subcategory": "动作",
+          "genre": "动作",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "姓名待核实。",
+          "synopsis": "指挥队伍参加赛跑的动作游戏。",
+          "notes": "跨类型游戏；未纳入四类主数据库。",
+          "source": "https://www.gamepres.org/pc88/library/1989/1989_10.htm",
+          "versions": [
+            {
+              "id": "elf-r22-v1",
+              "workId": "elf-r22",
+              "year": 1989,
+              "platform": "PC-9800",
+              "publisher": "ELF",
+              "kind": "首发版本",
+              "voice": "未核实",
+              "differences": "1989 年 PC-9800 首发记录；PC-8800 机种另见当期软件目录。",
+              "source": "https://www.ymgal.games/ga25043"
+            }
+          ]
+        }
+      ],
+      "relatedIntro": "RPG、战术模拟、麻将与动作游戏属于 ELF 历史产品，本页单列简介及首发记录；它们不进入四类主数据库。人物姓名、配音及部分机种细节未能核实的，明确保留待核。",
+      "relatedSectionTitle": "其他类型的 ELF 游戏",
+      "entries": [
+        {
+          "title": "同級生",
+          "status": "已收录",
+          "workIds": [
+            "g046"
+          ],
+          "reason": "现有条目补入专题，平台版本继续核查。",
+          "source": "https://shiravune.com/archives/2502"
+        },
+        {
+          "title": "この世の果てで恋を唄う少女YU-NO",
+          "status": "已收录",
+          "workIds": [
+            "g038"
+          ],
+          "reason": "现有条目补入专题，平台版本继续核查。",
+          "source": "https://yu-no.jp/spec/ps/"
+        },
+        {
+          "title": "同級生2",
+          "status": "已收录",
+          "workIds": [
+            "g304"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "河原崎家の一族",
+          "status": "已收录",
+          "workIds": [
+            "g305"
+          ],
+          "reason": "原作属于 Silky’s；仅 ELF 后续发行版本归入 ELF 发行统计。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "野々村病院の人々",
+          "status": "已收录",
+          "workIds": [
+            "g306"
+          ],
+          "reason": "原作属于 Silky’s；仅 ELF 后续发行版本归入 ELF 发行统计。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "愛姉妹 二人の果実",
+          "status": "已收录",
+          "workIds": [
+            "g307"
+          ],
+          "reason": "原作属于 Silky’s；仅 ELF 后续发行版本归入 ELF 发行统计。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "遺作",
+          "status": "已收录",
+          "workIds": [
+            "g308"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "恋姫 〜Mystic Princess〜",
+          "status": "已收录",
+          "workIds": [
+            "g309"
+          ],
+          "reason": "原作属于 Silky’s；仅 ELF 后续发行版本归入 ELF 发行统计。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "下級生",
+          "status": "已收录",
+          "workIds": [
+            "g310"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "ビ・ヨンド 〜黒大将に見られてる〜",
+          "status": "已收录",
+          "workIds": [
+            "g311"
+          ],
+          "reason": "原作属于 Silky’s；仅 ELF 后续发行版本归入 ELF 发行统计。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "臭作",
+          "status": "已收录",
+          "workIds": [
+            "g312"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "リフレインブルー",
+          "status": "已收录",
+          "workIds": [
+            "g313"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "鬼作",
+          "status": "已收录",
+          "workIds": [
+            "g314"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "あしたの雪之丞",
+          "status": "已收录",
+          "workIds": [
+            "g315"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "百鬼 〜淫黙された廃墟〜",
+          "status": "已收录",
+          "workIds": [
+            "g316"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "勝 あしたの雪之丞2",
+          "status": "已收录",
+          "workIds": [
+            "g317"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "らいむいろ戦奇譚 〜明治日本、乙女 防人ス。〜",
+          "status": "已收录",
+          "workIds": [
+            "g318"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "河原崎家の一族2",
+          "status": "已收录",
+          "workIds": [
+            "g319"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "新・御神楽少女探偵団",
+          "status": "已收录",
+          "workIds": [
+            "g320"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "下級生2",
+          "status": "已收录",
+          "workIds": [
+            "g321"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "らいむいろ流奇譚X CROSS 〜恋、教ヘテクダサイ。〜",
+          "status": "已收录",
+          "workIds": [
+            "g322"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "花と蛇",
+          "status": "已收录",
+          "workIds": [
+            "g323"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "AVキング ADULT VIDEO KING",
+          "status": "已收录",
+          "workIds": [
+            "g324"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "媚肉の香り 〜ネトリネトラレヤリヤラレ〜",
+          "status": "已收录",
+          "workIds": [
+            "g325"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "媚肉の香り 番外編 由紀の香り・律子の溜息",
+          "status": "已收录",
+          "workIds": [
+            "g326"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://bangumi.tv/person/1254/works/game"
+        },
+        {
+          "title": "人間デブリ コンナジブンニダレガシタ?",
+          "status": "已收录",
+          "workIds": [
+            "g327"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://bangumi.tv/person/1254/works/game"
+        },
+        {
+          "title": "ボクの彼女はガテン系/彼女がした事、僕がされた事/巨乳妻完全捕獲計画/ボクの妻がアイツに寝取られました。",
+          "status": "已收录",
+          "workIds": [
+            "g328"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://bangumi.tv/person/1254/works/game"
+        },
+        {
+          "title": "麻呂の患者はガテン系",
+          "status": "已收录",
+          "workIds": [
+            "g329"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://bangumi.tv/person/1254/works/game"
+        },
+        {
+          "title": "麻呂の患者はガテン系2",
+          "status": "已收录",
+          "workIds": [
+            "g330"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://bangumi.tv/person/1254/works/game"
+        },
+        {
+          "title": "麻呂の患者はガテン系3 完結編",
+          "status": "已收录",
+          "workIds": [
+            "g331"
+          ],
+          "reason": "独立叙事作品；主要首发版本已建档。",
+          "source": "https://bangumi.tv/person/1254/works/game"
+        },
+        {
+          "title": "Angel Hearts",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r01"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "Dragon Knight",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r02"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "FOXY",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r03"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://www.gamingalexandria.com/pc98/Foxy/Manual.pdf"
+        },
+        {
+          "title": "Dragon Knight II",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r04"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "RAY-GUN",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r05"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "FOXY2",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r06"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "SHANGRLIA",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r07"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "Dragon Knight III",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r08"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "天神乱魔",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r09"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "雀JAKA雀",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r10"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "METAL EYE",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r11"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "WORDS WORTH",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r12"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "SHANGRLIA2",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r13"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "Dragon Knight 4",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r14"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "METAL EYE2",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r15"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "エルフオールスターズ脱衣雀",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r16"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "エルフオールスターズ脱衣雀2",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r17"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "雀級生 〜コスプレ★パラダイス〜",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r18"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
+        },
+        {
+          "title": "らいむいろ雀奇譚 〜明治日本、乙女 先ヅモス。〜",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r19"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "エルフオールスターズ脱衣雀3",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r20"
+          ],
+          "reason": "RPG、战术模拟或麻将作品，在专题单列；不冒充视觉小说。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "PRIVATE SCHOOL",
+          "status": "按范围排除／合并",
+          "workIds": [],
+          "reason": "早期图文指令式冒险；依用户要求不新增。",
+          "source": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%95_(%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89)"
+        },
+        {
+          "title": "PINKY・PONKY 三部曲",
+          "status": "按范围排除／合并",
+          "workIds": [],
+          "reason": "早期图文指令式冒险；三部均不新增。",
+          "source": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%95_(%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89)"
+        },
+        {
+          "title": "DE・JA／DE・JA2",
+          "status": "按范围排除／合并",
+          "workIds": [],
+          "reason": "以图文指令／命令选择推进；含后续合集，不新增。",
+          "source": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%95_(%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89)"
+        },
+        {
+          "title": "ELLE／〔él〕",
+          "status": "按范围排除／合并",
+          "workIds": [],
+          "reason": "以图像指示与点击命令推进；重制版不另开条目。",
+          "source": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%95_(%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89)"
+        },
+        {
+          "title": "早期特殊磁盘与音画合集",
+          "status": "按范围排除／合并",
+          "workIds": [],
+          "reason": "特典盘、屏保、现有作品合集与廉价再版在相关作品版本或本清单说明，不另算独立剧情游戏。",
+          "source": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%95_(%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89)"
+        },
+        {
+          "title": "Silky’s／YELLOW PIG／BANANA Shu-Shu 其余原创作品",
+          "status": "按范围排除／合并",
+          "workIds": [],
+          "reason": "姐妹品牌原创项目未直接并入 ELF 主品牌目录；ELF 自行发行的五部 Silky’s 移植已在正文区分。",
+          "source": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%83%95_(%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89)"
+        },
+        {
+          "title": "鬼畜探偵 禿作",
+          "status": "已收录",
+          "workIds": [
+            "g332"
+          ],
+          "reason": "ELF 粉丝俱乐部独立发行的戏仿短篇，后续合辑不重复计数。",
+          "source": "https://www.gameiroiro.com/2001/0829-1.htm"
+        },
+        {
+          "title": "ドキドキ!シャッターチャンス!!",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r21"
+          ],
+          "reason": "动作游戏，在专题单列。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_EKgvkSjXJbgqEyeI.php"
+        },
+        {
+          "title": "RUNRUN狂走曲",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "elf-r22"
+          ],
+          "reason": "动作游戏，在专题单列。",
+          "source": "https://www.gamepres.org/pc88/library/1989/1989_10.htm"
+        },
+        {
+          "title": "エルフ イン ワンダーランド／2",
+          "status": "未入库／合并",
+          "workIds": [],
+          "reason": "两项仅见二手目录，独立游戏内容、原发行渠道及玩法仍待核实；暂不把它们计作已验证的叙事作品。",
+          "source": "https://bangumi.tv/person/1254/works/game"
+        },
+        {
+          "title": "若妻万華鏡／夫の前で犯されて…及 2009 合辑",
+          "status": "未入库／合并",
+          "workIds": [],
+          "reason": "原作属 YELLOW PIG；2009 年 ELF 发行的动画追加合集为既有两作捆绑，不当作 ELF 新剧情作品。",
+          "source": "https://archive.is/taUch"
+        },
+        {
+          "title": "现代其他厂商重制",
+          "status": "未入库／合并",
+          "workIds": [],
+          "reason": "《同級生》《下級生》《同級生2》《遺作》近年重制归原作品版本，发行署名按新厂商；不作为 ELF 2015 年后的新作。",
+          "source": "https://bangumi.tv/person/1254/works/game"
+        }
+      ],
+      "auditTitle": "历史作品范围核对清单",
+      "auditSourceLabel": "ELF 官方兼容表存档",
+      "overviewLabel": "已整理的 ELF 相关游戏",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>叙事作品 31 部，其中 ELF 原创 26 部、ELF 发行的 Silky’s 原作 5 部。</strong></p>",
+      "relatedCountLabel": "按实际类型标注",
+      "description": "日本 ELF 历史作品专题：31 部叙事作品、22 部跨类型作品、版本资料和指令类作品排除说明。"
     }
   ]
 }

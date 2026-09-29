@@ -49,31 +49,35 @@ def build(company):
         audit_rows.append(f'<tr><th scope="row">{escape(item["title"])}</th><td>{escape(item["status"])}</td><td>{escape(item["reason"])}<div>{references}</div></td><td>{link(item["source"], "来源")}</td></tr>')
     related_section = ''
     if related:
-        related_section = f'''<section class="related-games" id="related-games"><div class="section-heading"><div><p class="eyebrow">OTHER GAMES</p><h2>跨类型合作游戏</h2></div><p>{len(related)} 部 · 按官方类型标注</p></div>
+        related_section = f'''<section class="related-games" id="related-games"><div class="section-heading"><div><p class="eyebrow">OTHER GAMES</p><h2>{escape(company.get('relatedSectionTitle', '跨类型合作游戏'))}</h2></div><p>{len(related)} 部 · {escape(company.get('relatedCountLabel', '按官方类型标注'))}</p></div>
 <p class="related-intro">{escape(company.get('relatedIntro', '涵盖官方年表收录的手机游戏、WFS 合作 RPG，以及 Index 制作、Key 官网宣传的授权作品。每款游戏按实际类型、发行公司与平台标注；顶部总数包含本节。'))}</p>
 <div class="cards">{''.join(card(g, g['versions']) for g in related)}</div></section>'''
     section_title = company.get('sectionTitle', f"从 {selected[0]['title']} 到 {selected[-1]['title']}")
     audit_label = company.get('auditLabel', f"官方作品清单 {company['catalogueEntryCount']} 项及范围说明。")
     audit_note = company.get('auditNote', '“核对完成”指上述清单中每项内容都有处理记录。未确认发售的项目和非游戏媒介不计入已发行游戏数。')
-    overview_label = '已核实的相关游戏（含授权）' if related else '已核实的叙事作品'
+    audit_title = company.get('auditTitle', '官网目录核对清单')
+    audit_source_label = company.get('auditSourceLabel', '官方产品目录')
+    overview_label = company.get('overviewLabel', '已核实的相关游戏（含授权）' if related else '已核实的叙事作品')
     publisher_count = (f'<p class="scope-note"><strong>按实际发行署名：{len(company["publisherWorkIds"])} 部；'
                        f'按作品品牌：{len(selected)} 部。</strong></p>') if 'publisherWorkIds' in company else ''
+    publisher_count = company.get('publisherWorkText', publisher_count)
+    description = company.get('description', f"{company['name']} 叙事游戏作品专题：剧情、主要角色、首发年份、平台版本与官方目录核对清单。")
     return f'''<!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="{escape(company['name'])} 叙事游戏作品专题：剧情、主要角色、首发年份、平台版本与官方目录核对清单。">
+<meta name="description" content="{escape(description)}">
 <title>{escape(company['name'])} 作品专题 · 叙事游戏年鉴</title>
 <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="company.css"></head>
 <body><div class="app-shell"><header class="masthead"><a class="brand" href="index.html"><span class="brand-mark">N.</span><span>叙事游戏年鉴</span></a><nav aria-label="专题导航"><a href="#works">全部作品</a><a href="#coverage">核对清单</a><a href="index.html#catalogue">返回数据库</a></nav></header>
 <main><section class="company-hero"><p class="eyebrow">COMPANY DOSSIER · {escape(company['checkedAt'])}</p><h1>{escape(company['name'])} 作品专题</h1>
 <p class="lead">{escape(company['publisherNote'])}</p>{publisher_count}
-<div class="overview"><div><strong>{len(selected) + len(related)}</strong><span>{overview_label}</span></div><div><strong>{count_versions}</strong><span>已核实版本记录</span></div><div><strong>{selected[0]['firstYear']}—{max(w['firstYear'] for w in selected + related)}</strong><span>作品首发跨度</span></div></div>
+<div class="overview"><div><strong>{len(selected) + len(related)}</strong><span>{overview_label}</span></div><div><strong>{count_versions}</strong><span>已核实版本记录</span></div><div><strong>{min(w['firstYear'] for w in selected + related)}—{max(w['firstYear'] for w in selected + related)}</strong><span>作品首发跨度</span></div></div>
 <p class="scope-note">{escape(company['scope'])}</p><p class="scope-note">{escape(company['versionScope'])}</p>
 <div class="hero-links"><a class="primary-link" href="#works">按年份阅读作品</a><a class="secondary-link" href="#coverage">查看目录核对说明</a></div></section>
 <section id="works"><div class="section-heading"><div><p class="eyebrow">GAME CATALOGUE</p><h2>{escape(section_title)}</h2></div><p>{len(selected)} 部四类作品 · 增强版合并计数</p></div>
 <nav class="work-index" aria-label="按年份跳转作品">{toc}</nav><div class="cards">{''.join(card(w) for w in selected)}</div></section>
 {related_section}
-<section class="company-audit" id="coverage"><p class="eyebrow">CATALOGUE AUDIT</p><h2>官网目录核对清单</h2>
-<p>核对日期：{escape(company['checkedAt'])} · {escape(audit_label)} {link(company['source'], '官方产品目录')}</p>
+<section class="company-audit" id="coverage"><p class="eyebrow">CATALOGUE AUDIT</p><h2>{escape(audit_title)}</h2>
+<p>核对日期：{escape(company['checkedAt'])} · {escape(audit_label)} {link(company['source'], audit_source_label)}</p>
 <p class="scope-note">{escape(audit_note)}</p>
 <div class="audit-scroll"><table><thead><tr><th>官网项目／补充项目</th><th>处理</th><th>说明与对应作品</th><th>证据</th></tr></thead><tbody>{''.join(audit_rows)}</tbody></table></div></section>
 </main><footer><span>{escape(company['name'])} 专题 · 与主数据库共用作品和版本记录</span><a href="index.html#catalogue">返回数据库 ↑</a></footer></div></body></html>
