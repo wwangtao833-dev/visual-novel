@@ -4561,6 +4561,405 @@
       "overviewLabel": "Leaf 历史游戏与杂集",
       "publisherWorkText": "<p class=\"scope-note\"><strong>叙事游戏 14 部；跨类型及独立 Fan Disc 11 部。主机移植署 AQUAPLUS，不改写原作发行方。</strong></p>",
       "description": "Leaf 历史作品专题：14 部独立叙事游戏与 11 部麻将、RPG、经营和 Fan Disc；提供剧情、人物、版本及产品核对说明。"
+    },
+    {
+      "id": "sagaplanets",
+      "name": "SAGA PLANETS",
+      "checkedAt": "2026-09-29",
+      "status": "历史独立作品逐项核对",
+      "scope": "核对 1998—2023 年独立发售的 26 部游戏：24 部叙事作品进入四类主目录（包括 2001 年含独立短篇的 Fan Disc、2006 年两部单线视觉小说，以及 2023 年两部独立售卖的后日谈），2 部官方标为 AVG＋SLG 的游戏在专题单列。廉价版、周年版与追加补丁不重复计作品；没有新增纯文本指令或图文指令游戏。",
+      "versionScope": "先录入 24 部主目录作品和 2 部跨类型作品的 Windows 首发记录；主机、移动端、数字重发与各地区发售资料尚未全面核对，页面不宣称平台版本穷尽。早期成人向作品的人物姓名和配音信息缺少可靠官方资料时保持待核实。",
+      "publisherNote": "SAGA PLANETS 品牌作品按官网产品目录及早期旧目录整理；主目录中的每条版本以实际首发署名 SAGA PLANETS 登记。后续主机移植如由其他公司发行，应单列发行方。",
+      "workIds": [
+        "g339",
+        "g340",
+        "g341",
+        "g342",
+        "g343",
+        "g344",
+        "g345",
+        "g346",
+        "g347",
+        "g348",
+        "g349",
+        "g350",
+        "g351",
+        "g352",
+        "g353",
+        "g354",
+        "g355",
+        "g356",
+        "g357",
+        "g358",
+        "g359",
+        "g360",
+        "g361",
+        "g362"
+      ],
+      "publisherWorkIds": [
+        "g339",
+        "g340",
+        "g341",
+        "g342",
+        "g343",
+        "g344",
+        "g345",
+        "g346",
+        "g347",
+        "g348",
+        "g349",
+        "g350",
+        "g351",
+        "g352",
+        "g353",
+        "g354",
+        "g355",
+        "g356",
+        "g357",
+        "g358",
+        "g359",
+        "g360",
+        "g361",
+        "g362"
+      ],
+      "catalogueEntryCount": 26,
+      "source": "https://sagapla.net/product.html",
+      "sectionTitle": "1998—2023 年独立叙事作品",
+      "auditLabel": "26 部独立游戏及 3 条版本／范围说明。",
+      "auditNote": "官网 2008 年及之前旧作品目录、2008—2022 年现行目录与 2023 年 AfterEpisode 官网交叉核对。旧页虽可查询，部分单作详情发生跳转，相关条目以官网目录为证。这里的“全部”限定为上述已发行的独立游戏产品，不涵盖声剧、音乐与周边；主机移植仍待扩充。",
+      "relatedGames": [
+        {
+          "id": "sagaplanets-r01",
+          "title": "PureHeart ～世界上最喜欢你～",
+          "originalTitle": "PureHeart ～世界で一番アナタが好き～",
+          "firstYear": 2000,
+          "category": "养成模拟",
+          "subcategory": "养成模拟＋剧情冒险",
+          "genre": "交流养成／恋爱",
+          "characters": [
+            "アルファ"
+          ],
+          "charactersNote": "",
+          "synopsis": "主人公从旧货商处买下有特殊标记的人形机器女孩阿尔法，通过交流逐渐了解她。",
+          "notes": "官网标为 AVG＋SLG，因养成为主要玩法之一在专题单列。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm",
+          "versions": [
+            {
+              "id": "sagaplanets-r01-v1",
+              "workId": "sagaplanets-r01",
+              "year": 2000,
+              "platform": "Windows",
+              "publisher": "SAGA PLANETS",
+              "kind": "首发",
+              "voice": "有（部分）",
+              "differences": "官网列为 AVG＋SLG，跨类型单列，未穷举后续版本。",
+              "source": "https://sagaplanets.product.co.jp/works/works.htm"
+            }
+          ]
+        },
+        {
+          "id": "sagaplanets-r02",
+          "title": "紧拥! 宠物女仆",
+          "originalTitle": "ムギュ～っと！ペットめいど",
+          "firstYear": 2003,
+          "category": "养成模拟",
+          "subcategory": "养成模拟＋剧情冒险",
+          "genre": "养成模拟／剧情冒险",
+          "characters": [
+            "待核实"
+          ],
+          "charactersNote": "人物姓名待核实。",
+          "synopsis": "主人公受托训练问题少女，并设法偿还家人留下的债务。",
+          "notes": "官网标为 AVG＋SLG，因养成为主要玩法之一在专题单列。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm",
+          "versions": [
+            {
+              "id": "sagaplanets-r02-v1",
+              "workId": "sagaplanets-r02",
+              "year": 2003,
+              "platform": "Windows",
+              "publisher": "SAGA PLANETS",
+              "kind": "首发",
+              "voice": "有（部分）",
+              "differences": "官网列为 AVG＋SLG，跨类型单列，未穷举后续版本。",
+              "source": "https://sagaplanets.product.co.jp/works/works.htm"
+            }
+          ]
+        }
+      ],
+      "relatedIntro": "官网标为 AVG＋SLG 的两部跨类型作品。保留首发年份、剧情概要与角色，养成玩法与叙事并存；不进入四类主目录。",
+      "relatedSectionTitle": "养成模拟与剧情冒险",
+      "relatedCountLabel": "跨类型作品",
+      "entries": [
+        {
+          "title": "骸～メスを狙う顎～",
+          "status": "主数据库",
+          "workIds": [
+            "g339"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm"
+        },
+        {
+          "title": "マリオネット～傀儡～",
+          "status": "主数据库",
+          "workIds": [
+            "g340"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm"
+        },
+        {
+          "title": "罪と罰",
+          "status": "主数据库",
+          "workIds": [
+            "g341"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm"
+        },
+        {
+          "title": "恋愛ＣＨＵ！～彼女の秘密はオトコのコ？～",
+          "status": "主数据库",
+          "workIds": [
+            "g342"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm"
+        },
+        {
+          "title": "もっとLOVEちゅ！～恋愛ＣＨＵ！ＦａｎＤｉｓｃ～",
+          "status": "主数据库",
+          "workIds": [
+            "g343"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagapla.net/works/lovechu/fandisc.htm"
+        },
+        {
+          "title": "鬼医者",
+          "status": "主数据库",
+          "workIds": [
+            "g344"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm"
+        },
+        {
+          "title": "はぁ・はぁ・テレパス ～はじめてなのに超BINKAN～",
+          "status": "主数据库",
+          "workIds": [
+            "g345"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm"
+        },
+        {
+          "title": "ウソツキは天使のはじまり",
+          "status": "主数据库",
+          "workIds": [
+            "g346"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm"
+        },
+        {
+          "title": "不思議の国のカノジョ",
+          "status": "主数据库",
+          "workIds": [
+            "g347"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm"
+        },
+        {
+          "title": "紅姫 －Kou Ki－",
+          "status": "主数据库",
+          "workIds": [
+            "g348"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm"
+        },
+        {
+          "title": "聖炎天使 エレアノール",
+          "status": "主数据库",
+          "workIds": [
+            "g349"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm"
+        },
+        {
+          "title": "Coming×Humming!!-カミング×ハミング-",
+          "status": "主数据库",
+          "workIds": [
+            "g350"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagapla.net/product.html"
+        },
+        {
+          "title": "ナツユメナギサ",
+          "status": "主数据库",
+          "workIds": [
+            "g351"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagapla.net/product.html"
+        },
+        {
+          "title": "キサラギGOLD★STAR",
+          "status": "主数据库",
+          "workIds": [
+            "g352"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagapla.net/product.html"
+        },
+        {
+          "title": "はつゆきさくら",
+          "status": "主数据库",
+          "workIds": [
+            "g353"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagapla.net/product.html"
+        },
+        {
+          "title": "カルマルカ＊サークル",
+          "status": "主数据库",
+          "workIds": [
+            "g354"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagapla.net/product.html"
+        },
+        {
+          "title": "花咲ワークスプリング！",
+          "status": "主数据库",
+          "workIds": [
+            "g355"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagapla.net/product.html"
+        },
+        {
+          "title": "フローラル・フローラブ",
+          "status": "主数据库",
+          "workIds": [
+            "g356"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagapla.net/product.html"
+        },
+        {
+          "title": "金色ラブリッチェ",
+          "status": "主数据库",
+          "workIds": [
+            "g357"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagapla.net/product.html"
+        },
+        {
+          "title": "金色ラブリッチェ -Golden Time-",
+          "status": "主数据库",
+          "workIds": [
+            "g358"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagapla.net/works/kinkoigt/index.html"
+        },
+        {
+          "title": "かけぬけ★青春スパーキング！",
+          "status": "主数据库",
+          "workIds": [
+            "g359"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagapla.net/product.html"
+        },
+        {
+          "title": "AMBITIOUS MISSION",
+          "status": "主数据库",
+          "workIds": [
+            "g360"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagapla.net/product.html"
+        },
+        {
+          "title": "AMBITIOUS MISSION アフターエピソード1",
+          "status": "主数据库",
+          "workIds": [
+            "g361"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagapla.net/works/ambitious_after/"
+        },
+        {
+          "title": "AMBITIOUS MISSION アフターエピソード2",
+          "status": "主数据库",
+          "workIds": [
+            "g362"
+          ],
+          "reason": "独立发售的叙事游戏；首发资料已录入，其他平台待逐项核实。",
+          "source": "https://sagapla.net/works/ambitious_after/"
+        },
+        {
+          "title": "PureHeart ～世界で一番アナタが好き～",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "sagaplanets-r01"
+          ],
+          "reason": "官方标为 AVG＋SLG，列在专题的养成模拟区，不并入四类主目录。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm"
+        },
+        {
+          "title": "ムギュ～っと！ペットめいど",
+          "status": "跨类型单列",
+          "workIds": [],
+          "relatedIds": [
+            "sagaplanets-r02"
+          ],
+          "reason": "官方标为 AVG＋SLG，列在专题的养成模拟区，不并入四类主目录。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm"
+        },
+        {
+          "title": "鬼医者 ～Standard Edition～（2005）",
+          "status": "版本合并",
+          "workIds": [
+            "g344"
+          ],
+          "reason": "2002 年原作的廉价再发行，不作为第二款独立游戏。",
+          "source": "https://sagaplanets.product.co.jp/works/works.htm"
+        },
+        {
+          "title": "はつゆきさくら 10 周年 Anniversary Edition（2022）",
+          "status": "版本合并",
+          "workIds": [
+            "g353"
+          ],
+          "reason": "官方现行目录中的十周年版按原作附属产品说明，不重复计一部新作。",
+          "source": "https://sagapla.net/product.html"
+        },
+        {
+          "title": "AMBITIOUS MISSION つばめエッチ追加パッチ（2023）",
+          "status": "补丁，不另计作品",
+          "workIds": [
+            "g360"
+          ],
+          "reason": "原作追加补丁，不是单独售卖的完整游戏。",
+          "source": "https://sagapla.net/works/ambitious/"
+        }
+      ],
+      "auditTitle": "SAGA PLANETS 独立作品逐项核对",
+      "auditSourceLabel": "SAGA PLANETS 官方产品目录",
+      "overviewLabel": "已核对的独立游戏",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>叙事作品 24 部；AVG＋SLG 2 部。当前版本记录均为首发 PC 版。</strong></p>",
+      "description": "SAGA PLANETS 历史作品专题：24 部独立叙事游戏与 2 部 AVG＋SLG；提供剧情、人物、首发记录和逐项目录核查。"
     }
   ]
 }

@@ -5795,6 +5795,387 @@
       "synopsis": "温柔的少年星野王子受到身边少女们追求，在校园生活中经历热闹的恋爱事件。",
       "notes": "Leaf 2011 年独立发行的恋爱 ADV；角色配音待核实。",
       "source": "https://leaf.aquaplus.jp/product/prince/"
+    },
+    {
+      "id": "g339",
+      "title": "骸 ～メスを狙う顎～",
+      "originalTitle": "骸～メスを狙う顎～",
+      "firstYear": 1998,
+      "category": "Galgame",
+      "subcategory": "成人向冒险",
+      "genre": "记忆／成人向悬疑",
+      "characters": [],
+      "charactersNote": "官网目录未列人物姓名，待逐一核实。",
+      "synopsis": "失去记忆的男子在学校追寻自己的身份，过去的真相逐渐浮现。",
+      "notes": "独立发售；成人向作品仅概括一般剧情。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g340",
+      "title": "傀儡",
+      "originalTitle": "マリオネット～傀儡～",
+      "firstYear": 1999,
+      "category": "Galgame",
+      "subcategory": "成人向冒险",
+      "genre": "超自然／成人向悬疑",
+      "characters": [
+        "月城慎二",
+        "月城裕一"
+      ],
+      "charactersNote": "",
+      "synopsis": "只有精神存在的慎二意外获得控制双胞胎兄长身体的机会，故事发生在女子学院宿舍。",
+      "notes": "独立发售；成人向作品仅概括一般剧情。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g341",
+      "title": "罪与罚",
+      "originalTitle": "罪と罰",
+      "firstYear": 1999,
+      "category": "Galgame",
+      "subcategory": "成人向冒险",
+      "genre": "成人向悬疑",
+      "characters": [],
+      "charactersNote": "官网目录未列人物姓名，待逐一核实。",
+      "synopsis": "主人公在法院地下室目睹的事件改变了人生，随后被卷入黑暗的事件。",
+      "notes": "独立发售；成人向作品仅概括一般剧情。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g342",
+      "title": "恋爱 CHU!",
+      "originalTitle": "恋愛ＣＨＵ！～彼女の秘密はオトコのコ？～",
+      "firstYear": 2001,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园恋爱／身份伪装",
+      "characters": [
+        "NANA"
+      ],
+      "charactersNote": "",
+      "synopsis": "禁止男女交往的寄宿学校里，主人公发现通信好友 NANA 竟以男学生身份住进同一间宿舍。",
+      "notes": "独立发售；成人向作品仅概括一般剧情。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g343",
+      "title": "更多 LOVE CHU!",
+      "originalTitle": "もっとLOVEちゅ！～恋愛ＣＨＵ！ＦａｎＤｉｓｃ～",
+      "firstYear": 2001,
+      "category": "视觉小说",
+      "subcategory": "恋爱剧情",
+      "genre": "恋爱后日谈／短篇集",
+      "characters": [
+        "NANA",
+        "美月",
+        "七海",
+        "澪",
+        "花梨"
+      ],
+      "charactersNote": "",
+      "synopsis": "以原作恋人成立后的不同季节为舞台，收录数篇角色短篇与一段幼时回忆。",
+      "notes": "全年龄 Fan Disc：独立发售的角色短篇与附加内容合集，盘内小游戏不另计。",
+      "source": "https://sagapla.net/works/lovechu/fandisc.htm"
+    },
+    {
+      "id": "g344",
+      "title": "鬼医者",
+      "originalTitle": "鬼医者",
+      "firstYear": 2002,
+      "category": "Galgame",
+      "subcategory": "成人向冒险",
+      "genre": "医院／成人向悬疑",
+      "characters": [],
+      "charactersNote": "官网目录未列人物姓名，待逐一核实。",
+      "synopsis": "以地方医院为舞台的成人向剧情冒险，围绕一名医师与院内人物展开。",
+      "notes": "独立发售；成人向作品仅概括一般剧情。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g345",
+      "title": "心跳心跳心灵感应",
+      "originalTitle": "はぁ・はぁ・テレパス ～はじめてなのに超BINKAN～",
+      "firstYear": 2004,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园恋爱／读心",
+      "characters": [
+        "藤本美羽"
+      ],
+      "charactersNote": "",
+      "synopsis": "主人公与转学生美羽相撞后突然能听见她的心声，两人的交往由此开始。",
+      "notes": "独立发售；成人向作品仅概括一般剧情。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g346",
+      "title": "谎言是天使的开始",
+      "originalTitle": "ウソツキは天使のはじまり",
+      "firstYear": 2005,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "天使与恶魔／恋爱喜剧",
+      "characters": [
+        "東海林亘"
+      ],
+      "charactersNote": "",
+      "synopsis": "总在危险中奇迹般生还的亘，某天看见天使与恶魔交战，被卷入超自然事件。",
+      "notes": "独立发售；成人向作品仅概括一般剧情。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g347",
+      "title": "不可思议之国的女友",
+      "originalTitle": "不思議の国のカノジョ",
+      "firstYear": 2006,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "奇幻／恋爱短篇",
+      "characters": [
+        "悟郎",
+        "ねがい"
+      ],
+      "charactersNote": "",
+      "synopsis": "名叫“ねがい”的少女突然来到悟郎面前，自称能实现他的梦想，带来接连不断的意外。",
+      "notes": "全年龄下载型 kinetic novel，按独立视觉小说收录。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g348",
+      "title": "红姬 -Kou Ki-",
+      "originalTitle": "紅姫 －Kou Ki－",
+      "firstYear": 2006,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "历史幻想／爱情",
+      "characters": [
+        "陰麗華",
+        "劉秀"
+      ],
+      "charactersNote": "",
+      "synopsis": "阴丽华隐藏身份走进白水乡，在婚事临近之际与刘秀相遇。",
+      "notes": "全年龄下载型 kinetic novel，按独立视觉小说收录。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g349",
+      "title": "圣炎天使艾蕾诺亚",
+      "originalTitle": "聖炎天使 エレアノール",
+      "firstYear": 2007,
+      "category": "Galgame",
+      "subcategory": "成人向冒险",
+      "genre": "魔法少女／学园奇幻",
+      "characters": [
+        "ラン・ファンテール",
+        "ネオン"
+      ],
+      "charactersNote": "",
+      "synopsis": "见习修女兰与神父尼昂借助神秘红灯笼对抗威胁学园都市的势力。",
+      "notes": "独立发售；成人向作品仅概括一般剧情。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g350",
+      "title": "Coming×Humming!!",
+      "originalTitle": "Coming×Humming!!-カミング×ハミング-",
+      "firstYear": 2008,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园恋爱／神社传说",
+      "characters": [
+        "桐ヶ谷陽斗",
+        "吉乃姫"
+      ],
+      "charactersNote": "",
+      "synopsis": "寄住在小旅馆的学园少年阳斗，在天吉神社遇见自称吉乃姬的少女。",
+      "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g351",
+      "title": "夏梦渚",
+      "originalTitle": "ナツユメナギサ",
+      "firstYear": 2009,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "夏日／失忆／校园",
+      "characters": [
+        "渚"
+      ],
+      "charactersNote": "",
+      "synopsis": "失去记忆的少年渚过着悠闲的学园生活，在盛夏圣诞节前与几名少女相遇。",
+      "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g352",
+      "title": "如月 GOLD★STAR",
+      "originalTitle": "キサラギGOLD★STAR",
+      "firstYear": 2010,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "下町／青梅竹马／恋爱",
+      "characters": [],
+      "charactersNote": "官网目录未列人物姓名，待逐一核实。",
+      "synopsis": "六名从小一起长大的少年少女，在下町与更衣学院的日常中追逐梦想和爱情。",
+      "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g353",
+      "title": "初雪樱",
+      "originalTitle": "はつゆきさくら",
+      "firstYear": 2012,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "冬日／校园／奇幻",
+      "characters": [
+        "河野初雪"
+      ],
+      "charactersNote": "",
+      "synopsis": "初雪在旧城区邂逅穿白色礼服的少女，数日后她又转入自己的学校。",
+      "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g354",
+      "title": "卡尔玛露卡＊圆环",
+      "originalTitle": "カルマルカ＊サークル",
+      "firstYear": 2013,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "七夕／校园／星空",
+      "characters": [
+        "御影海人"
+      ],
+      "charactersNote": "",
+      "synopsis": "为了摆脱某种困扰，海人加入每逢七夕试图接触“卡尔玛露卡”的星渡同好会。",
+      "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g355",
+      "title": "花咲 Work Spring!",
+      "originalTitle": "花咲ワークスプリング！",
+      "firstYear": 2015,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园恋爱喜剧／社团",
+      "characters": [
+        "花咲遊真"
+      ],
+      "charactersNote": "",
+      "synopsis": "一心享受懒散生活的游真，莫名其妙当上社团部长，日常从此变得热闹。",
+      "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g356",
+      "title": "Floral Flowlove",
+      "originalTitle": "フローラル・フローラブ",
+      "firstYear": 2016,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "天使／校园恋爱",
+      "characters": [
+        "斉須柾鷹"
+      ],
+      "charactersNote": "",
+      "synopsis": "柾鹰能看见与人心善恶相连的天使或恶魔羽翼，儿时的相遇牵动现在的恋爱。",
+      "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g357",
+      "title": "金色 Loveriche",
+      "originalTitle": "金色ラブリッチェ",
+      "firstYear": 2017,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "贵族学园／恋爱",
+      "characters": [
+        "市松央路"
+      ],
+      "charactersNote": "",
+      "synopsis": "央路因偶然事件获得公主青睐，进入培养绅士淑女的诺布尔学园。",
+      "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g358",
+      "title": "金色 Loveriche -Golden Time-",
+      "originalTitle": "金色ラブリッチェ -Golden Time-",
+      "firstYear": 2019,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "后日谈／学园恋爱",
+      "characters": [
+        "市松央路"
+      ],
+      "charactersNote": "",
+      "synopsis": "央路来到诺布尔学园三个月后，与伙伴们迎来圣诞和新年，各人的故事继续。",
+      "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
+      "source": "https://sagapla.net/works/kinkoigt/index.html"
+    },
+    {
+      "id": "g359",
+      "title": "奔跑吧★青春 Sparking!",
+      "originalTitle": "かけぬけ★青春スパーキング！",
+      "firstYear": 2020,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园社团／青春",
+      "characters": [
+        "遠野遊",
+        "響",
+        "理々"
+      ],
+      "charactersNote": "",
+      "synopsis": "把青春全投入打工的现实主义者远野游，同时受到两位熟人所属社团的邀请。",
+      "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g360",
+      "title": "AMBITIOUS MISSION",
+      "originalTitle": "AMBITIOUS MISSION",
+      "firstYear": 2022,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "怪盗／谜题／恋爱",
+      "characters": [],
+      "charactersNote": "官网目录未列人物姓名，待逐一核实。",
+      "synopsis": "围绕传说中的十二颗“野心之星”，两名怪盗结盟，追查笼罩沙幌夜晚的秘密。",
+      "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g361",
+      "title": "AMBITIOUS MISSION 后日谈 1",
+      "originalTitle": "AMBITIOUS MISSION アフターエピソード1",
+      "firstYear": 2023,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "怪盗／恋爱后日谈",
+      "characters": [],
+      "charactersNote": "官网目录未列人物姓名，待逐一核实。",
+      "synopsis": "单独发售的第一部后日谈，延续原作怪盗们与伙伴的相处故事。",
+      "notes": "独立发售的《AMBITIOUS MISSION》后日谈，分别计为游戏作品。",
+      "source": "https://sagapla.net/works/ambitious_after/"
+    },
+    {
+      "id": "g362",
+      "title": "AMBITIOUS MISSION 后日谈 2",
+      "originalTitle": "AMBITIOUS MISSION アフターエピソード2",
+      "firstYear": 2023,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "怪盗／恋爱后日谈",
+      "characters": [],
+      "charactersNote": "官网目录未列人物姓名，待逐一核实。",
+      "synopsis": "单独发售的第二部后日谈，继续描绘原作人物的恋爱与日常。",
+      "notes": "独立发售的《AMBITIOUS MISSION》后日谈，分别计为游戏作品。",
+      "source": "https://sagapla.net/works/ambitious_after/"
     }
   ],
   "versions": [
@@ -15353,6 +15734,342 @@
       "voice": "有",
       "differences": "整合 IC、CC 与 coda 三段游戏本篇，并附相关广播剧／小说等特典内容，适配更新的 Windows 系统。",
       "source": "https://leaf.aquaplus.jp/product/wa2cc/product.html"
+    },
+    {
+      "id": "g339-v1",
+      "workId": "g339",
+      "year": 1998,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g340-v1",
+      "workId": "g340",
+      "year": 1999,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g341-v1",
+      "workId": "g341",
+      "year": 1999,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g342-v1",
+      "workId": "g342",
+      "year": 2001,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "有（部分）",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g343-v1",
+      "workId": "g343",
+      "year": 2001,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "有（部分）",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagapla.net/works/lovechu/fandisc.htm"
+    },
+    {
+      "id": "g344-v1",
+      "workId": "g344",
+      "year": 2002,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "有（部分）",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g345-v1",
+      "workId": "g345",
+      "year": 2004,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "有（部分）",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g346-v1",
+      "workId": "g346",
+      "year": 2005,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "有（部分）",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g347-v1",
+      "workId": "g347",
+      "year": 2006,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发（下载）",
+      "voice": "未核实",
+      "differences": "官方目录列为全年龄下载型 kinetic novel。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g348-v1",
+      "workId": "g348",
+      "year": 2006,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发（下载）",
+      "voice": "未核实",
+      "differences": "官方目录列为全年龄下载型 kinetic novel。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g349-v1",
+      "workId": "g349",
+      "year": 2007,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "有（部分）",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+    },
+    {
+      "id": "g350-v1",
+      "workId": "g350",
+      "year": 2008,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g351-v1",
+      "workId": "g351",
+      "year": 2009,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g352-v1",
+      "workId": "g352",
+      "year": 2010,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g353-v1",
+      "workId": "g353",
+      "year": 2012,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g354-v1",
+      "workId": "g354",
+      "year": 2013,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g355-v1",
+      "workId": "g355",
+      "year": 2015,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g356-v1",
+      "workId": "g356",
+      "year": 2016,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g357-v1",
+      "workId": "g357",
+      "year": 2017,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g358-v1",
+      "workId": "g358",
+      "year": 2019,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagapla.net/works/kinkoigt/index.html"
+    },
+    {
+      "id": "g359-v1",
+      "workId": "g359",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g360-v1",
+      "workId": "g360",
+      "year": 2022,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "首发 PC 版；未将不同包装或特典重复计为独立作品。",
+      "source": "https://sagapla.net/product.html"
+    },
+    {
+      "id": "g361-v1",
+      "workId": "g361",
+      "year": 2023,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "独立售卖的后日谈，分为两款产品。",
+      "source": "https://sagapla.net/works/ambitious_after/"
+    },
+    {
+      "id": "g362-v1",
+      "workId": "g362",
+      "year": 2023,
+      "platform": "Windows",
+      "publisher": "SAGA PLANETS",
+      "publisherCompanies": [
+        "SAGA PLANETS"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "独立售卖的后日谈，分为两款产品。",
+      "source": "https://sagapla.net/works/ambitious_after/"
     }
   ]
 }
