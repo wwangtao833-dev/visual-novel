@@ -4,11 +4,13 @@
 
 ## 数据范围
 
-当前收录 **262 部代表作品、532 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、ゆずソフト、Innocent Grey、minori、Leaf、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
+当前收录 **275 部代表作品、566 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、ゆずソフト、Innocent Grey、minori、AUGUST、Leaf、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
 
 作品主分类是一种检索入口，并非互斥的学术分类：一部恋爱视觉小说也可能属于广义 Galgame。视觉小说的“有声小说”可能只有音乐和音效，配音字段专指游戏内角色人声。
 
 ## 厂商集中整理
+
+已更新 [AUGUST 专题](august.html)：13 部独立 ADV／Fan Disc，34 条版本记录，并在跨类型栏目介绍官方定义为学园 RPG 的《あいりすミスティリア！》。扩展版与合集按作品版本归档；未新增图文指令、纯文本指令游戏。
 
 已更新 [Key 品牌专题](key.html)：**27 部已核实的相关游戏**，其中 21 部属于主数据库四类作品及外传，5 部为 Key 官方年表／产品目录中的跨类型游戏（《绯染天空》、两款《Angel Beats!》手机游戏、《Little Busters! Card Mission》和《Rewrite IgnisMemoria》），1 部为官网宣传、由 Index 制作的授权游戏《Key COLLECTION》。跨类型及授权作品另存于专题数据中，分别标注实际发行公司和平台，不混入主数据库的四类筛选。已逐项核对现行产品目录 30 项，并依据 Key 官方年表补查旧手机游戏、补入《CLANNAD 光守护的坡道》。动画、网页小说、增强版和待发行项目均有对应说明。作品层级的核查范围限于这些官方资料；各地区版本及其他授权衍生游戏仍可继续核实。
 

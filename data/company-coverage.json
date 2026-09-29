@@ -1932,6 +1932,254 @@
           "source": "https://store.steampowered.com/publisher/minori"
         }
       ]
+    },
+    {
+      "id": "august",
+      "name": "AUGUST",
+      "checkedAt": "2026-09-29",
+      "status": "官网产品目录与官方年表核对完成",
+      "scope": "收录 2002—2019 年 13 部独立发行的 ADV／视觉小说，包含多部后日谈与跨作品 Fan Disc；另在跨类型栏目介绍 1 部学园 RPG。未新增纯文本指令和图文指令游戏。",
+      "versionScope": "13 条日文 Windows 首发及 21 条已核平台／再版记录；系列合集只挂一条版本并在核对表说明覆盖的作品。未穷尽所有地区、移动版本及廉价再版，缺少可核证据的配音字段保留未核实。",
+      "publisherNote": "AUGUST 原作与 PC 版为主；早期主机版由 Alchemist、后续 ARIA／dramatic create／ENTERGRAM 等品牌发行。主数据库依据各版本发行署名筛选，专题按作品品牌汇总。",
+      "workIds": [
+        "g263",
+        "g264",
+        "g265",
+        "g266",
+        "g267",
+        "g268",
+        "g269",
+        "g270",
+        "g271",
+        "g272",
+        "g273",
+        "g274",
+        "g275"
+      ],
+      "publisherWorkIds": [
+        "g263",
+        "g264",
+        "g265",
+        "g266",
+        "g267",
+        "g268",
+        "g269",
+        "g270",
+        "g271",
+        "g272",
+        "g273",
+        "g274",
+        "g275"
+      ],
+      "catalogueEntryCount": 17,
+      "source": "https://august-soft.com/product",
+      "sectionTitle": "从《バイナリィ・ポット》到《花あかり》",
+      "auditLabel": "官方目录中的独立 ADV、扩展版、合辑与 RPG 逐项对应。",
+      "auditNote": "13 部指独立可玩的 ADV 作品，包括单独发行且含新故事的 Fan Disc。Brighter than dawning blue 与两个合集在版本层级说明；爱丽丝秘迹独立列入跨类型栏目。",
+      "relatedIntro": "AUGUST 官网明确标为学园 RPG；本节记录其剧情与首发及移动端，不混入主数据库的视觉小说筛选。",
+      "relatedGames": [
+        {
+          "id": "august-rpg-imys",
+          "title": "爱丽丝秘迹",
+          "originalTitle": "あいりすミスティリア！ 〜少女のつむぐ夢の秘跡〜",
+          "firstYear": 2017,
+          "category": "角色扮演游戏",
+          "subcategory": "学园 RPG",
+          "genre": "奇幻学园／角色养成／长期连载剧情",
+          "characters": [
+            "冥王",
+            "アイリス",
+            "ベアトリーチェ"
+          ],
+          "charactersNote": "",
+          "synopsis": "身为冥王的玩家与被称为「アイリス」的少女们一起在学园生活、战斗，推进持续更新的奇幻故事。",
+          "notes": "AUGUST 与 DMM GAMES 合作；官方归类为免费学园 RPG。2017 年初上线，2018 年结束长期维护后恢复 β，2019 年转正式运营。",
+          "source": "https://august-soft.com/product",
+          "versions": [
+            {
+              "id": "august-rpg-imys-v1",
+              "workId": "august-rpg-imys",
+              "year": 2017,
+              "platform": "PC 浏览器",
+              "publisher": "DMM GAMES／AUGUST",
+              "kind": "免费运营／初次上线",
+              "voice": "有",
+              "differences": "2017-12-19 开始；2018 年经过长期维护，2019 年转正式服务。",
+              "source": "https://august-soft.com/20th/history/"
+            },
+            {
+              "id": "august-rpg-imys-v2",
+              "workId": "august-rpg-imys",
+              "year": 2019,
+              "platform": "iOS／Android",
+              "publisher": "DMM GAMES／AUGUST",
+              "kind": "移动端发行",
+              "voice": "有",
+              "differences": "官方年表记载 2019-04-17 iOS 与 Google Play 版上线。",
+              "source": "https://august-soft.com/20th/history/"
+            }
+          ]
+        }
+      ],
+      "entries": [
+        {
+          "title": "バイナリィ・ポット",
+          "status": "已收录",
+          "workIds": [
+            "g263"
+          ],
+          "reason": "独立发行的叙事游戏或包含新 ADV 剧情的 Fan Disc；重制、移植与再版按版本归入原作品。",
+          "source": "https://august-soft.com/product"
+        },
+        {
+          "title": "Princess Holiday ～転がるりんご亭千夜一夜～",
+          "status": "已收录",
+          "workIds": [
+            "g264"
+          ],
+          "reason": "独立发行的叙事游戏或包含新 ADV 剧情的 Fan Disc；重制、移植与再版按版本归入原作品。",
+          "source": "https://august-soft.com/product"
+        },
+        {
+          "title": "月は東に日は西に ～Operation Sanctuary～",
+          "status": "已收录",
+          "workIds": [
+            "g265"
+          ],
+          "reason": "独立发行的叙事游戏或包含新 ADV 剧情的 Fan Disc；重制、移植与再版按版本归入原作品。",
+          "source": "https://august-soft.com/product"
+        },
+        {
+          "title": "オーガストファンBOX",
+          "status": "已收录",
+          "workIds": [
+            "g266"
+          ],
+          "reason": "独立发行的叙事游戏或包含新 ADV 剧情的 Fan Disc；重制、移植与再版按版本归入原作品。",
+          "source": "https://august-soft.com/product"
+        },
+        {
+          "title": "夜明け前より瑠璃色な",
+          "status": "已收录",
+          "workIds": [
+            "g267"
+          ],
+          "reason": "独立发行的叙事游戏或包含新 ADV 剧情的 Fan Disc；重制、移植与再版按版本归入原作品。",
+          "source": "https://august-soft.com/product"
+        },
+        {
+          "title": "FORTUNE ARTERIAL",
+          "status": "已收录",
+          "workIds": [
+            "g268"
+          ],
+          "reason": "独立发行的叙事游戏或包含新 ADV 剧情的 Fan Disc；重制、移植与再版按版本归入原作品。",
+          "source": "https://august-soft.com/product"
+        },
+        {
+          "title": "夜明け前より瑠璃色な -Moonlight Cradle-",
+          "status": "已收录",
+          "workIds": [
+            "g269"
+          ],
+          "reason": "独立发行的叙事游戏或包含新 ADV 剧情的 Fan Disc；重制、移植与再版按版本归入原作品。",
+          "source": "https://august-soft.com/product"
+        },
+        {
+          "title": "夜明け前より瑠璃色な -Brighter than dawning blue-",
+          "status": "归入原作版本",
+          "workIds": [
+            "g267"
+          ],
+          "reason": "PS2 扩展版及 PC 逆移植；新增路线但沿用本篇主体，版本独立列示。",
+          "source": "https://aria-soft.com/product"
+        },
+        {
+          "title": "夜明け前より瑠璃色な コンプリートパック",
+          "status": "合集",
+          "workIds": [
+            "g267",
+            "g269"
+          ],
+          "reason": "2020 年三作合集；官网注明旧作内容不变且无新要素。",
+          "source": "https://august-soft.com/yoake_cp/"
+        },
+        {
+          "title": "穢翼のユースティア",
+          "status": "已收录",
+          "workIds": [
+            "g270"
+          ],
+          "reason": "独立发行的叙事游戏或包含新 ADV 剧情的 Fan Disc；重制、移植与再版按版本归入原作品。",
+          "source": "https://august-soft.com/product"
+        },
+        {
+          "title": "大図書館の羊飼い",
+          "status": "已收录",
+          "workIds": [
+            "g271"
+          ],
+          "reason": "独立发行的叙事游戏或包含新 ADV 剧情的 Fan Disc；重制、移植与再版按版本归入原作品。",
+          "source": "https://august-soft.com/product"
+        },
+        {
+          "title": "大図書館の羊飼い 放課後しっぽデイズ",
+          "status": "已收录",
+          "workIds": [
+            "g272"
+          ],
+          "reason": "独立发行的叙事游戏或包含新 ADV 剧情的 Fan Disc；重制、移植与再版按版本归入原作品。",
+          "source": "https://august-soft.com/product"
+        },
+        {
+          "title": "大図書館の羊飼い -Dreaming Sheep-",
+          "status": "已收录",
+          "workIds": [
+            "g273"
+          ],
+          "reason": "独立发行的叙事游戏或包含新 ADV 剧情的 Fan Disc；重制、移植与再版按版本归入原作品。",
+          "source": "https://august-soft.com/product"
+        },
+        {
+          "title": "千の刃濤、桃花染の皇姫",
+          "status": "已收录",
+          "workIds": [
+            "g274"
+          ],
+          "reason": "独立发行的叙事游戏或包含新 ADV 剧情的 Fan Disc；重制、移植与再版按版本归入原作品。",
+          "source": "https://august-soft.com/product"
+        },
+        {
+          "title": "千の刃濤、桃花染の皇姫 -花あかり-",
+          "status": "已收录",
+          "workIds": [
+            "g275"
+          ],
+          "reason": "独立发行的叙事游戏或包含新 ADV 剧情的 Fan Disc；重制、移植与再版按版本归入原作品。",
+          "source": "https://august-soft.com/product"
+        },
+        {
+          "title": "大図書館の羊飼い -Library Party-",
+          "status": "三作合集",
+          "workIds": [
+            "g271",
+            "g272",
+            "g273"
+          ],
+          "reason": "PS Vita、Switch、PS4 版合辑：三作加新角色路线；版本挂本篇，各独立作品在专题分别介绍。",
+          "source": "https://aria-soft.com/product"
+        },
+        {
+          "title": "あいりすミスティリア！ 〜少女のつむぐ夢の秘跡〜",
+          "status": "跨类型作品",
+          "workIds": [],
+          "relatedIds": [
+            "august-rpg-imys"
+          ],
+          "reason": "官方定义为免费学园 RPG，含全语音剧情；在专题另列，不计入四类叙事作品的厂商筛选。",
+          "source": "https://august-soft.com/product"
+        }
+      ]
     }
   ]
 }
