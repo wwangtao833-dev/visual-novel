@@ -5287,6 +5287,282 @@
       "overviewLabel": "独立发行的相关游戏",
       "publisherWorkText": "<p class=\"scope-note\"><strong>13 部原作、11 部独立后日谈／Fan Disc、1 部联合作品；纪念合集与高清重制合并说明。</strong></p>",
       "description": "SMEE 厂商专题：2007—2024 年 25 部已发行恋爱冒险、独立续篇和联合作品，含剧情、人物、首发版本与核对清单。"
+    },
+    {
+      "id": "favorite",
+      "name": "FAVORITE",
+      "checkedAt": "2026-09-29",
+      "status": "官方 24 项产品目录逐项核对",
+      "scope": "核对官网 24 项产品：14 部独立发售的本篇、续篇与 Fan Disc 进入主数据库；其余 10 项为合集、移植或高清重制，在版本记录与核对表中说明。没有补充纯文本指令或图文指令游戏。",
+      "versionScope": "已录入 14 条 Windows 首发与 21 条合集、高清重制和主机移植版本记录；廉价再版、其他地区和 Steam 版仍待逐一查证。2004—2009 年五部旧作的配音字段保留未核实；2021 年作品的发售日以单作页的 5 月 28 日为准。",
+      "publisherNote": "FAVORITE 品牌作品按官方产品目录汇总；早期五部作品首发沿用 CROSSNET 发行／销售署名，后来的 FAVORITE 自行发行与 dramatic create、ENTERGRAM 主机移植分别列明。",
+      "workIds": [
+        "g388",
+        "g389",
+        "g390",
+        "g391",
+        "g392",
+        "g393",
+        "g394",
+        "g395",
+        "g396",
+        "g397",
+        "g398",
+        "g399",
+        "g400",
+        "g401"
+      ],
+      "publisherWorkIds": [
+        "g389",
+        "g390",
+        "g392",
+        "g393",
+        "g394",
+        "g395",
+        "g396",
+        "g397",
+        "g398",
+        "g399",
+        "g400",
+        "g401"
+      ],
+      "catalogueEntryCount": 24,
+      "source": "https://www.favo-soft.jp/soft/product.html",
+      "sectionTitle": "2004—2023 年独立游戏与 Fan Disc",
+      "auditLabel": "官网 24 项产品均有处理记录。",
+      "auditNote": "早期网站部分为图片和框架内容；人物或配音不能可靠核对时明确留空。官网索引里《ハッピーライヴ ショウアップ！》的旧发售日和 Vita 版《WORLD’S END》日期，与单作及主机发行官网不同；以发售公告为准。",
+      "entries": [
+        {
+          "title": "AngelWish～放課後の召使いにチュッ！～",
+          "status": "主数据库",
+          "workIds": [
+            "g388"
+          ],
+          "reason": "独立发售的叙事作品；首发版本已登记。",
+          "source": "https://www.favo-soft.jp/soft/product/angelwish/index.html"
+        },
+        {
+          "title": "ウィズ アニバーサリィー",
+          "status": "主数据库",
+          "workIds": [
+            "g389"
+          ],
+          "reason": "独立发售的叙事作品；首发版本已登记。",
+          "source": "https://www.favo-soft.jp/soft/product/wiz/index.html"
+        },
+        {
+          "title": "ウィズ アニバーサリィー☆FUNTA！ feat.RURU",
+          "status": "主数据库",
+          "workIds": [
+            "g390"
+          ],
+          "reason": "独立发售的叙事作品；首发版本已登记。",
+          "source": "https://www.favo-soft.jp/soft/product/wiz_funta/index.html"
+        },
+        {
+          "title": "はっぴぃ☆マーガレット！",
+          "status": "主数据库",
+          "workIds": [
+            "g391"
+          ],
+          "reason": "独立发售的叙事作品；首发版本已登记。",
+          "source": "https://www.favo-soft.jp/soft/product/happy/index.html"
+        },
+        {
+          "title": "星空のメモリア -Wish upon a shooting star-",
+          "status": "主数据库",
+          "workIds": [
+            "g392"
+          ],
+          "reason": "独立发售的叙事作品；首发版本已登记。",
+          "source": "https://www.favo-soft.jp/soft/product/hoshimemo/index.html"
+        },
+        {
+          "title": "星空のメモリア Eternal Heart",
+          "status": "主数据库",
+          "workIds": [
+            "g393"
+          ],
+          "reason": "独立发售的叙事作品；首发版本已登记。",
+          "source": "https://www.favo-soft.jp/soft/product/EternalHeart/index.htm"
+        },
+        {
+          "title": "いろとりどりのセカイ",
+          "status": "主数据库",
+          "workIds": [
+            "g394"
+          ],
+          "reason": "独立发售的叙事作品；首发版本已登记。",
+          "source": "https://www.favo-soft.jp/soft/product/world/index.htm"
+        },
+        {
+          "title": "いろとりどりのヒカリ",
+          "status": "主数据库",
+          "workIds": [
+            "g395"
+          ],
+          "reason": "独立发售的叙事作品；首发版本已登记。",
+          "source": "https://www.favo-soft.jp/soft/product/Hikari/index.htm"
+        },
+        {
+          "title": "アストラエアの白き永遠",
+          "status": "主数据库",
+          "workIds": [
+            "g396"
+          ],
+          "reason": "独立发售的叙事作品；首发版本已登记。",
+          "source": "https://www.favo-soft.jp/soft/product/WhiteEternity/index.html"
+        },
+        {
+          "title": "紅い瞳に映るセカイ",
+          "status": "主数据库",
+          "workIds": [
+            "g397"
+          ],
+          "reason": "独立发售的叙事作品；首发版本已登记。",
+          "source": "https://www.favo-soft.jp/soft/product/WorldsEndLove/index.html"
+        },
+        {
+          "title": "アストラエアの白き永遠 Finale -白き星の夢-",
+          "status": "主数据库",
+          "workIds": [
+            "g398"
+          ],
+          "reason": "独立发售的叙事作品；首发版本已登记。",
+          "source": "https://www.favo-soft.jp/soft/product/AstralAirFinale/index.html"
+        },
+        {
+          "title": "さくら、もゆ。-as the Night's, Reincarnation-",
+          "status": "主数据库",
+          "workIds": [
+            "g399"
+          ],
+          "reason": "独立发售的叙事作品；首发版本已登记。",
+          "source": "https://www.favo-soft.jp/soft/product/sakura/index.html"
+        },
+        {
+          "title": "ハッピーライヴ ショウアップ！",
+          "status": "主数据库",
+          "workIds": [
+            "g400"
+          ],
+          "reason": "独立发售的叙事作品；首发版本已登记。",
+          "source": "https://www.favo-soft.jp/soft/product/happylive_showup/index.html"
+        },
+        {
+          "title": "ハッピーライヴ ショウアップ アンコール！！",
+          "status": "主数据库",
+          "workIds": [
+            "g401"
+          ],
+          "reason": "独立发售的叙事作品；首发版本已登记。",
+          "source": "https://www.favo-soft.jp/soft/product/happylive_showup_encore/index.html"
+        },
+        {
+          "title": "ウィズ アニバーサリィー☆COMPLETE！",
+          "status": "版本归档",
+          "workIds": [
+            "g389",
+            "g390"
+          ],
+          "reason": "与本篇和 FUNTA！ 对应，不另算独立作品。",
+          "source": "https://www.favo-soft.jp/soft/product/product.html"
+        },
+        {
+          "title": "星空のメモリアCOMPLETE",
+          "status": "版本归档",
+          "workIds": [
+            "g392",
+            "g393"
+          ],
+          "reason": "2009 本篇与 2010 年 Eternal Heart 的整合。",
+          "source": "https://www.favo-soft.jp/soft/product/product.html"
+        },
+        {
+          "title": "いろとりどりのセカイ WORLD’S END COMPLETE",
+          "status": "版本归档",
+          "workIds": [
+            "g394",
+            "g395"
+          ],
+          "reason": "本篇与《ヒカリ》的整合。",
+          "source": "https://www.favo-soft.jp/soft/product/product.html"
+        },
+        {
+          "title": "いろとりどりのセカイ WORLD’S END -RE:BIRTH- [PS Vita]",
+          "status": "版本归档",
+          "workIds": [
+            "g394",
+            "g395"
+          ],
+          "reason": "dramatic create 发行，整合本篇、《ヒカリ》与新编特典章节；2015 年 3 月 19 日发售，官网产品索引的 9 月日期不作为首发日。",
+          "source": "https://dramaticcreate.com/world_re/special.html"
+        },
+        {
+          "title": "アストラエアの白き永遠 [PS Vita]",
+          "status": "版本归档",
+          "workIds": [
+            "g396"
+          ],
+          "reason": "dramatic create 主机移植，不另计作品。",
+          "source": "https://dramaticcreate.com/WhiteEternity/"
+        },
+        {
+          "title": "いろとりどりのセカイ ワールズエンド・トリロジーBOX",
+          "status": "版本归档",
+          "workIds": [
+            "g394",
+            "g395",
+            "g397"
+          ],
+          "reason": "系列三部整合包，不另计作品。",
+          "source": "https://www.favo-soft.jp/soft/product/worldsEndTbox/index.html"
+        },
+        {
+          "title": "星空のメモリアHD-Shooting Star＆Eternal Heart アニバーサリーBOX-",
+          "status": "版本归档",
+          "workIds": [
+            "g392",
+            "g393"
+          ],
+          "reason": "本篇与独立后日谈的高清纪念整合包。",
+          "source": "https://www.favo-soft.jp/soft/product/hoshimemo_hd/index.html"
+        },
+        {
+          "title": "いろとりどりのセカイ HD Re:GENERATION",
+          "status": "版本归档",
+          "workIds": [
+            "g394",
+            "g395",
+            "g397"
+          ],
+          "reason": "三部曲完整高清重制；各原作单独保留作品身份。",
+          "source": "https://www.favo-soft.jp/soft/product/WorldsEndHD/index.html"
+        },
+        {
+          "title": "さくら、もゆ。 [PS4/Switch]",
+          "status": "版本归档",
+          "workIds": [
+            "g399"
+          ],
+          "reason": "ENTERGRAM 发行的两个主机平台版本。",
+          "source": "https://www.entergram.co.jp/sakuramoyu/"
+        },
+        {
+          "title": "アストラエアの白き永遠 FHD Re:Eternity",
+          "status": "版本归档",
+          "workIds": [
+            "g396",
+            "g398"
+          ],
+          "reason": "本篇与独立发售的《Finale》同包高清重制。",
+          "source": "https://www.favo-soft.jp/soft/product/astralair_fhd/index.html"
+        }
+      ],
+      "auditTitle": "FAVORITE 官方产品目录逐项核对",
+      "auditSourceLabel": "FAVORITE 产品目录",
+      "overviewLabel": "独立发售的叙事游戏",
+      "description": "FAVORITE 厂商专题：14 部独立游戏及 Fan Disc，35 条首发、合集、重制与主机版本记录。"
     }
   ]
 }
