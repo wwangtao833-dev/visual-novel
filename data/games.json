@@ -6176,6 +6176,394 @@
       "synopsis": "单独发售的第二部后日谈，继续描绘原作人物的恋爱与日常。",
       "notes": "独立发售的《AMBITIOUS MISSION》后日谈，分别计为游戏作品。",
       "source": "https://sagapla.net/works/ambitious_after/"
+    },
+    {
+      "id": "g363",
+      "title": "リリミエスタ",
+      "originalTitle": "リリミエスタ",
+      "firstYear": 2007,
+      "category": "Galgame",
+      "subcategory": "成人向冒险",
+      "genre": "奇幻学园／恋爱",
+      "characters": [
+        "守島友春",
+        "逢坂菜桜子",
+        "東雲藍里"
+      ],
+      "charactersNote": "",
+      "synopsis": "友春与青梅竹马菜樱子、同学蓝里进入明风学园实习，收集由感谢之情产生的“Felicita”。",
+      "notes": "首部作品，带有剧情推进判定。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g364",
+      "title": "晴れハレはーれむ",
+      "originalTitle": "晴れハレはーれむ",
+      "firstYear": 2008,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱剧情／校园与日常",
+      "characters": [
+        "杉原明広",
+        "秋山琴子"
+      ],
+      "charactersNote": "",
+      "synopsis": "明广突然收到三名少女的告白，又与青梅竹马琴子共同生活，展开四人围绕他的恋爱喜剧。",
+      "notes": "SMEE 独立发售的恋爱冒险。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g365",
+      "title": "らぶでれーしょん！",
+      "originalTitle": "らぶでれーしょん！",
+      "firstYear": 2009,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱剧情／校园与日常",
+      "characters": [],
+      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "synopsis": "男子生徒进入原本的女子学园，却被编入唯一的男生班；主人公寻找校园里的邂逅。",
+      "notes": "SMEE 独立发售的恋爱冒险。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g366",
+      "title": "ラブラブル ～lover able～",
+      "originalTitle": "ラブラブル ～lover able～",
+      "firstYear": 2011,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱剧情／校园与日常",
+      "characters": [
+        "愛沢晴樹",
+        "愛沢花穂"
+      ],
+      "charactersNote": "",
+      "synopsis": "晴树和妹妹花穗寄住在叔父身边，边上学边在海边咖啡馆打工，与新同学和店员逐渐亲近。",
+      "notes": "SMEE 独立发售的恋爱冒险。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g367",
+      "title": "同棲ラブラブル",
+      "originalTitle": "同棲ラブラブル",
+      "firstYear": 2012,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱后日谈／独立 Fan Disc",
+      "characters": [
+        "愛沢晴樹"
+      ],
+      "charactersNote": "",
+      "synopsis": "承接《ラブラブル》各路线结局，晴树与选择的恋人开始共同生活。",
+      "notes": "独立发售的续作。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g368",
+      "title": "フレラバ ～Friend to Lover～",
+      "originalTitle": "フレラバ ～Friend to Lover～",
+      "firstYear": 2013,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱剧情／校园与日常",
+      "characters": [],
+      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "synopsis": "主人公不满足于平静的学园生活，尝试从相识、交友走向恋爱。",
+      "notes": "SMEE 独立发售的恋爱冒险。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g369",
+      "title": "フレラバ ミニファンディスク＆フルサウンドトラック",
+      "originalTitle": "フレラバ ミニファンディスク＆フルサウンドトラック",
+      "firstYear": 2014,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱后日谈／短篇与原声",
+      "characters": [],
+      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "synopsis": "收录《フレラバ》女主角的追加短篇，并与游戏配乐一同作为独立光盘产品发售。",
+      "notes": "2014 年 C86 先行销售；与原作分别登记。",
+      "source": "https://www.hook-net.jp/htm/old_news/old_news_2014.htm"
+    },
+    {
+      "id": "g370",
+      "title": "ピュア×コネクト",
+      "originalTitle": "ピュア×コネクト",
+      "firstYear": 2015,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱剧情／校园与日常",
+      "characters": [],
+      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "synopsis": "渴望恋爱的主人公开始在面包店餐厅打工，借新的工作和人际关系接近心仪的对象。",
+      "notes": "SMEE 独立发售的恋爱冒险。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g371",
+      "title": "カノジョ＊ステップ",
+      "originalTitle": "カノジョ＊ステップ",
+      "firstYear": 2016,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱剧情／校园与日常",
+      "characters": [],
+      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "synopsis": "跟随家人最后一次搬迁，主人公住进祖母经营的乡间民宿，决定主动寻找自己的初恋。",
+      "notes": "SMEE 独立发售的恋爱冒险。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g372",
+      "title": "Making*Lovers",
+      "originalTitle": "Making*Lovers",
+      "firstYear": 2017,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱剧情／校园与日常",
+      "characters": [],
+      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "synopsis": "坚持恋爱需要浪漫相识过程的主人公，因为一位少女的话而改变想法，开始尝试交往。",
+      "notes": "SMEE 独立发售的恋爱冒险。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g373",
+      "title": "Making*Lovers 激イチャアフターストーリー Vol.01",
+      "originalTitle": "Making*Lovers 激イチャアフターストーリー Vol.01",
+      "firstYear": 2018,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱后日谈／独立 Fan Disc",
+      "characters": [
+        "亜子",
+        "可憐",
+        "咲"
+      ],
+      "charactersNote": "",
+      "synopsis": "分别描绘亜子、可憐、咲与主人公交往一年后的恋爱生活。",
+      "notes": "第一卷独立发售。",
+      "source": "https://www.hook-net.jp/smee/makinglovers/fd/index.html"
+    },
+    {
+      "id": "g374",
+      "title": "Making*Lovers 激イチャアフターストーリー Vol.02",
+      "originalTitle": "Making*Lovers 激イチャアフターストーリー Vol.02",
+      "firstYear": 2018,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱后日谈／独立 Fan Disc",
+      "characters": [
+        "レイナ",
+        "ましろ"
+      ],
+      "charactersNote": "",
+      "synopsis": "分别描绘レイナ、ましろ与主人公交往一年后的恋爱生活。",
+      "notes": "第二卷独立发售。",
+      "source": "https://www.hook-net.jp/smee/makinglovers/fd/index.html"
+    },
+    {
+      "id": "g375",
+      "title": "Sugar*Style",
+      "originalTitle": "Sugar*Style",
+      "firstYear": 2019,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱剧情／校园与日常",
+      "characters": [],
+      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "synopsis": "经历一连串挫折后，主人公进入地方专门学校，入住女生居多的“ひだまり寮”。",
+      "notes": "SMEE 独立发售的恋爱冒险。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g376",
+      "title": "Sugar*Style Music and Happiness Pack",
+      "originalTitle": "Sugar*Style Music and Happiness Pack",
+      "firstYear": 2019,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱后日谈／独立 Fan Disc",
+      "characters": [],
+      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "synopsis": "将原作恋人的后日谈与原声配乐、新曲打包成独立售卖的 Fan Disc。",
+      "notes": "含游戏后日谈和两张原声配乐 CD。",
+      "source": "https://www.hook-net.jp/smee/sugarstyle/fd/"
+    },
+    {
+      "id": "g377",
+      "title": "あざスミ ～あざとくてスミに置けない彼女～",
+      "originalTitle": "あざスミ ～あざとくてスミに置けない彼女～",
+      "firstYear": 2019,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱剧情／校园与日常",
+      "characters": [
+        "麻布真澄"
+      ],
+      "charactersNote": "",
+      "synopsis": "あざらしそふと与 SMEE 联合制作的短篇恋爱 ADV，围绕麻布真澄展开。",
+      "notes": "联合作品；不是 SMEE 主品牌编号作品。",
+      "source": "https://www.hook-net.jp/htm/old_news/old_news_2019.htm"
+    },
+    {
+      "id": "g378",
+      "title": "HaremKingdom -ハーレムキングダム-",
+      "originalTitle": "HaremKingdom -ハーレムキングダム-",
+      "firstYear": 2020,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱剧情／校园与日常",
+      "characters": [
+        "光"
+      ],
+      "charactersNote": "",
+      "synopsis": "主人公与青梅竹马光被带到异世界，受命担任新国王，并面对陌生国度的恋爱与生活。",
+      "notes": "SMEE 独立发售的恋爱冒险。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g379",
+      "title": "HaremじゃないよKingdom 光＆ソフィーヤ＆キキ編",
+      "originalTitle": "HaremじゃないよKingdom 光＆ソフィーヤ＆キキ編",
+      "firstYear": 2020,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱后日谈／独立 Fan Disc",
+      "characters": [
+        "光",
+        "ソフィーヤ",
+        "キキ"
+      ],
+      "charactersNote": "",
+      "synopsis": "主角与光、ソフィーヤ、キキ回到现代，继续各自婚后的恋爱生活。",
+      "notes": "第一卷单独发售。",
+      "source": "https://www.hook-net.jp/smee/haremkingdom/fd/"
+    },
+    {
+      "id": "g380",
+      "title": "HaremじゃないよKingdom シャルローネ＆マルー編",
+      "originalTitle": "HaremじゃないよKingdom シャルローネ＆マルー編",
+      "firstYear": 2020,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱后日谈／独立 Fan Disc",
+      "characters": [
+        "シャルローネ",
+        "マルー"
+      ],
+      "charactersNote": "",
+      "synopsis": "主角与シャルローネ、マルー回到现代，续写异世界故事之后的日常。",
+      "notes": "第二卷单独发售。",
+      "source": "https://www.hook-net.jp/smee/haremkingdom/fd/"
+    },
+    {
+      "id": "g381",
+      "title": "ハジラブ -Making*Lovers-",
+      "originalTitle": "ハジラブ -Making*Lovers-",
+      "firstYear": 2021,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱剧情／校园与日常",
+      "characters": [],
+      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "synopsis": "坚持“一生一次理想恋爱”的主人公，在学园的第二个夏天决定主动面对身边的缘分。",
+      "notes": "SMEE 独立发售的恋爱冒险。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g382",
+      "title": "１／１彼氏彼女",
+      "originalTitle": "１／１彼氏彼女",
+      "firstYear": 2022,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱剧情／校园与日常",
+      "characters": [],
+      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "synopsis": "主人公思考相遇与告白的时机，希望以自己的努力建立一段完整的恋爱关系。",
+      "notes": "SMEE 独立发售的恋爱冒险。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g383",
+      "title": "ハジラブ -Making*Lovers- ミニファンディスク Vol.01 桜子＆結衣編",
+      "originalTitle": "ハジラブ -Making*Lovers- ミニファンディスク Vol.01 桜子＆結衣編",
+      "firstYear": 2022,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱后日谈／独立 Fan Disc",
+      "characters": [
+        "桜子",
+        "結衣"
+      ],
+      "charactersNote": "",
+      "synopsis": "《ハジラブ》中桜子与結衣两条路线的独立售卖后日谈。",
+      "notes": "第一卷单独发售。",
+      "source": "https://www.hook-net.jp/smee/hajilovefd/"
+    },
+    {
+      "id": "g384",
+      "title": "ハジラブ -Making*Lovers- ミニファンディスク Vol.02 小唄＆初穂編",
+      "originalTitle": "ハジラブ -Making*Lovers- ミニファンディスク Vol.02 小唄＆初穂編",
+      "firstYear": 2022,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱后日谈／独立 Fan Disc",
+      "characters": [
+        "小唄",
+        "初穂"
+      ],
+      "charactersNote": "",
+      "synopsis": "《ハジラブ》中小唄与初穂两条路线的独立售卖后日谈。",
+      "notes": "第二卷单独发售。",
+      "source": "https://www.hook-net.jp/smee/hajilovefd/"
+    },
+    {
+      "id": "g385",
+      "title": "１／１彼氏彼女 MINI FAN DISC",
+      "originalTitle": "１／１彼氏彼女 MINI FAN DISC",
+      "firstYear": 2023,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱后日谈／独立 Fan Disc",
+      "characters": [],
+      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "synopsis": "在《１／１彼氏彼女》已有恋爱路线之后继续描绘角色的相处生活。",
+      "notes": "独立发售的迷你 Fan Disc。",
+      "source": "https://www.hook-net.jp/htm/product.htm"
+    },
+    {
+      "id": "g386",
+      "title": "ラブピカルポッピー！",
+      "originalTitle": "ラブピカルポッピー！",
+      "firstYear": 2024,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱剧情／校园与日常",
+      "characters": [
+        "涼花"
+      ],
+      "charactersNote": "",
+      "synopsis": "家遭火灾的主人公为照顾妹妹，接受女子宿舍住院管理工作，并在旁边的可丽饼咖啡馆帮忙。",
+      "notes": "SMEE 独立发售的恋爱冒险。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g387",
+      "title": "ドカイチャ!!ラブピカルポッピー！",
+      "originalTitle": "ドカイチャ!!ラブピカルポッピー！",
+      "firstYear": 2024,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "恋爱后日谈／独立 Fan Disc",
+      "characters": [],
+      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "synopsis": "以原作六位女主角为中心，补写本篇故事到结尾之间的恋爱片段。",
+      "notes": "独立发售的 Fan Disc。",
+      "source": "https://www.hook-net.jp/htm/product.htm"
     }
   ],
   "versions": [
@@ -16070,6 +16458,399 @@
       "voice": "未核实",
       "differences": "独立售卖的后日谈，分为两款产品。",
       "source": "https://sagapla.net/works/ambitious_after/"
+    },
+    {
+      "id": "g363-v1",
+      "workId": "g363",
+      "year": 2007,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "首发 PC 版；不同包装、移植与整合版不重复计作品。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g364-v1",
+      "workId": "g364",
+      "year": 2008,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "首发 PC 版；不同包装、移植与整合版不重复计作品。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g365-v1",
+      "workId": "g365",
+      "year": 2009,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "首发 PC 版；不同包装、移植与整合版不重复计作品。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g366-v1",
+      "workId": "g366",
+      "year": 2011,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "首发 PC 版；不同包装、移植与整合版不重复计作品。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g367-v1",
+      "workId": "g367",
+      "year": 2012,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "独立发售的补充故事；不是原作的系统补丁。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g368-v1",
+      "workId": "g368",
+      "year": 2013,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "首发 PC 版；不同包装、移植与整合版不重复计作品。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g369-v1",
+      "workId": "g369",
+      "year": 2014,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发（C86 活动）",
+      "voice": "未核实",
+      "differences": "独立发售的补充故事；不是原作的系统补丁。",
+      "source": "https://www.hook-net.jp/htm/old_news/old_news_2014.htm"
+    },
+    {
+      "id": "g370-v1",
+      "workId": "g370",
+      "year": 2015,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "首发 PC 版；不同包装、移植与整合版不重复计作品。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g371-v1",
+      "workId": "g371",
+      "year": 2016,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "首发 PC 版；不同包装、移植与整合版不重复计作品。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g372-v1",
+      "workId": "g372",
+      "year": 2017,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "首发 PC 版；不同包装、移植与整合版不重复计作品。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g373-v1",
+      "workId": "g373",
+      "year": 2018,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "独立发售的补充故事；不是原作的系统补丁。",
+      "source": "https://www.hook-net.jp/smee/makinglovers/fd/index.html"
+    },
+    {
+      "id": "g374-v1",
+      "workId": "g374",
+      "year": 2018,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "独立发售的补充故事；不是原作的系统补丁。",
+      "source": "https://www.hook-net.jp/smee/makinglovers/fd/index.html"
+    },
+    {
+      "id": "g375-v1",
+      "workId": "g375",
+      "year": 2019,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "首发 PC 版；不同包装、移植与整合版不重复计作品。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g376-v1",
+      "workId": "g376",
+      "year": 2019,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "独立发售的补充故事；不是原作的系统补丁。",
+      "source": "https://www.hook-net.jp/smee/sugarstyle/fd/"
+    },
+    {
+      "id": "g377-v1",
+      "workId": "g377",
+      "year": 2019,
+      "platform": "Windows",
+      "publisher": "あざらしそふと / SMEE",
+      "publisherCompanies": [
+        "あざらしそふと",
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "未核实",
+      "differences": "あざらしそふと与 SMEE 联合制作，数字发行。",
+      "source": "https://www.hook-net.jp/htm/old_news/old_news_2019.htm"
+    },
+    {
+      "id": "g378-v1",
+      "workId": "g378",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "首发 PC 版；不同包装、移植与整合版不重复计作品。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g379-v1",
+      "workId": "g379",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "独立发售的补充故事；不是原作的系统补丁。",
+      "source": "https://www.hook-net.jp/smee/haremkingdom/fd/"
+    },
+    {
+      "id": "g380-v1",
+      "workId": "g380",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "独立发售的补充故事；不是原作的系统补丁。",
+      "source": "https://www.hook-net.jp/smee/haremkingdom/fd/"
+    },
+    {
+      "id": "g381-v1",
+      "workId": "g381",
+      "year": 2021,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "首发 PC 版；不同包装、移植与整合版不重复计作品。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g382-v1",
+      "workId": "g382",
+      "year": 2022,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "首发 PC 版；不同包装、移植与整合版不重复计作品。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g383-v1",
+      "workId": "g383",
+      "year": 2022,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "独立发售的补充故事；不是原作的系统补丁。",
+      "source": "https://www.hook-net.jp/smee/hajilovefd/"
+    },
+    {
+      "id": "g384-v1",
+      "workId": "g384",
+      "year": 2022,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "独立发售的补充故事；不是原作的系统补丁。",
+      "source": "https://www.hook-net.jp/smee/hajilovefd/"
+    },
+    {
+      "id": "g385-v1",
+      "workId": "g385",
+      "year": 2023,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "独立发售的补充故事；不是原作的系统补丁。",
+      "source": "https://www.hook-net.jp/htm/product.htm"
+    },
+    {
+      "id": "g386-v1",
+      "workId": "g386",
+      "year": 2024,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "首发 PC 版；不同包装、移植与整合版不重复计作品。",
+      "source": "https://www.hook-net.jp/smee/product.html"
+    },
+    {
+      "id": "g387-v1",
+      "workId": "g387",
+      "year": 2024,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "首发",
+      "voice": "有",
+      "differences": "独立发售的补充故事；不是原作的系统补丁。",
+      "source": "https://www.hook-net.jp/htm/product.htm"
+    },
+    {
+      "id": "g378-v2",
+      "workId": "g378",
+      "year": 2025,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "Full HD 重制整合版",
+      "voice": "有",
+      "differences": "重制画面并整合本篇及相关后日谈；不作为新作品重复计数。",
+      "source": "https://www.hook-net.jp/htm/product.htm"
+    },
+    {
+      "id": "g379-v2",
+      "workId": "g379",
+      "year": 2025,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "Full HD 重制整合版",
+      "voice": "有",
+      "differences": "2025 年与 HaremKingdom 本篇、另一卷后日谈一起重制并整合发售。",
+      "source": "https://www.hook-net.jp/htm/product.htm"
+    },
+    {
+      "id": "g380-v2",
+      "workId": "g380",
+      "year": 2025,
+      "platform": "Windows",
+      "publisher": "SMEE",
+      "publisherCompanies": [
+        "SMEE"
+      ],
+      "kind": "Full HD 重制整合版",
+      "voice": "有",
+      "differences": "2025 年与 HaremKingdom 本篇、另一卷后日谈一起重制并整合发售。",
+      "source": "https://www.hook-net.jp/htm/product.htm"
     }
   ]
 }

@@ -4960,6 +4960,333 @@
       "overviewLabel": "已核对的独立游戏",
       "publisherWorkText": "<p class=\"scope-note\"><strong>叙事作品 24 部；AVG＋SLG 2 部。当前版本记录均为首发 PC 版。</strong></p>",
       "description": "SAGA PLANETS 历史作品专题：24 部独立叙事游戏与 2 部 AVG＋SLG；提供剧情、人物、首发记录和逐项目录核查。"
+    },
+    {
+      "id": "smee",
+      "name": "SMEE",
+      "checkedAt": "2026-09-29",
+      "status": "已发行独立产品逐项核对",
+      "scope": "核对 2007—2024 年 SMEE 已发行的 25 部独立游戏：13 部原作、11 部独立发售的续篇／Fan Disc，以及与あざらしそふと联合制作的 1 部短篇。无纯文本指令或图文指令新作。预定 2026 年 11 月发售的新作未列入已发行数；2023 年纪念合集与 2025 年高清重制不另算原作。",
+      "versionScope": "主库先收录每部独立作品的 Windows 首发，并另列 2025 年 HaremKingdom 本篇与两卷后日谈的高清重制整合版本。主机、移动端、Steam 与地区发行尚未逐项核对；官网未明确列出配音或人物的条目保留待核实。",
+      "publisherNote": "SMEE 是 HOOKSOFT 的姐妹品牌。本页按 SMEE 名义的独立产品与 2019 年联名游戏汇总；联名作品同时记入あざらしそふと与 SMEE，不将 HOOKSOFT 本品牌作品混入。",
+      "workIds": [
+        "g363",
+        "g364",
+        "g365",
+        "g366",
+        "g367",
+        "g368",
+        "g369",
+        "g370",
+        "g371",
+        "g372",
+        "g373",
+        "g374",
+        "g375",
+        "g376",
+        "g377",
+        "g378",
+        "g379",
+        "g380",
+        "g381",
+        "g382",
+        "g383",
+        "g384",
+        "g385",
+        "g386",
+        "g387"
+      ],
+      "publisherWorkIds": [
+        "g363",
+        "g364",
+        "g365",
+        "g366",
+        "g367",
+        "g368",
+        "g369",
+        "g370",
+        "g371",
+        "g372",
+        "g373",
+        "g374",
+        "g375",
+        "g376",
+        "g377",
+        "g378",
+        "g379",
+        "g380",
+        "g381",
+        "g382",
+        "g383",
+        "g384",
+        "g385",
+        "g386",
+        "g387"
+      ],
+      "catalogueEntryCount": 25,
+      "source": "https://www.hook-net.jp/htm/product.htm",
+      "sectionTitle": "2007—2024 年 SMEE 独立游戏",
+      "auditLabel": "25 部已发行作品及 3 条合集、重制、预定项目说明。",
+      "auditNote": "HOOKSOFT／SMEE 官方产品目录与 Fan Disc 单作官网、历史公告交叉核对。2014 年《フレラバ》迷你 Fan Disc 属活动首发的独立光盘；预售和合集不重复计作品。部分单作页面是图片式旧网页，年份以官方发布消息和综合产品表核验。",
+      "entries": [
+        {
+          "title": "リリミエスタ",
+          "status": "主数据库",
+          "workIds": [
+            "g363"
+          ],
+          "reason": "独立发售的叙事作品。",
+          "source": "https://www.hook-net.jp/smee/product.html"
+        },
+        {
+          "title": "晴れハレはーれむ",
+          "status": "主数据库",
+          "workIds": [
+            "g364"
+          ],
+          "reason": "独立发售的叙事作品。",
+          "source": "https://www.hook-net.jp/smee/product.html"
+        },
+        {
+          "title": "らぶでれーしょん！",
+          "status": "主数据库",
+          "workIds": [
+            "g365"
+          ],
+          "reason": "独立发售的叙事作品。",
+          "source": "https://www.hook-net.jp/smee/product.html"
+        },
+        {
+          "title": "ラブラブル ～lover able～",
+          "status": "主数据库",
+          "workIds": [
+            "g366"
+          ],
+          "reason": "独立发售的叙事作品。",
+          "source": "https://www.hook-net.jp/smee/product.html"
+        },
+        {
+          "title": "同棲ラブラブル",
+          "status": "主数据库",
+          "workIds": [
+            "g367"
+          ],
+          "reason": "独立售卖的续作／后日谈。",
+          "source": "https://www.hook-net.jp/smee/product.html"
+        },
+        {
+          "title": "フレラバ ～Friend to Lover～",
+          "status": "主数据库",
+          "workIds": [
+            "g368"
+          ],
+          "reason": "独立发售的叙事作品。",
+          "source": "https://www.hook-net.jp/smee/product.html"
+        },
+        {
+          "title": "フレラバ ミニファンディスク＆フルサウンドトラック",
+          "status": "主数据库",
+          "workIds": [
+            "g369"
+          ],
+          "reason": "独立售卖的续作／后日谈。",
+          "source": "https://www.hook-net.jp/htm/old_news/old_news_2014.htm"
+        },
+        {
+          "title": "ピュア×コネクト",
+          "status": "主数据库",
+          "workIds": [
+            "g370"
+          ],
+          "reason": "独立发售的叙事作品。",
+          "source": "https://www.hook-net.jp/smee/product.html"
+        },
+        {
+          "title": "カノジョ＊ステップ",
+          "status": "主数据库",
+          "workIds": [
+            "g371"
+          ],
+          "reason": "独立发售的叙事作品。",
+          "source": "https://www.hook-net.jp/smee/product.html"
+        },
+        {
+          "title": "Making*Lovers",
+          "status": "主数据库",
+          "workIds": [
+            "g372"
+          ],
+          "reason": "独立发售的叙事作品。",
+          "source": "https://www.hook-net.jp/smee/product.html"
+        },
+        {
+          "title": "Making*Lovers 激イチャアフターストーリー Vol.01",
+          "status": "主数据库",
+          "workIds": [
+            "g373"
+          ],
+          "reason": "独立售卖的续作／后日谈。",
+          "source": "https://www.hook-net.jp/smee/makinglovers/fd/index.html"
+        },
+        {
+          "title": "Making*Lovers 激イチャアフターストーリー Vol.02",
+          "status": "主数据库",
+          "workIds": [
+            "g374"
+          ],
+          "reason": "独立售卖的续作／后日谈。",
+          "source": "https://www.hook-net.jp/smee/makinglovers/fd/index.html"
+        },
+        {
+          "title": "Sugar*Style",
+          "status": "主数据库",
+          "workIds": [
+            "g375"
+          ],
+          "reason": "独立发售的叙事作品。",
+          "source": "https://www.hook-net.jp/smee/product.html"
+        },
+        {
+          "title": "Sugar*Style Music and Happiness Pack",
+          "status": "主数据库",
+          "workIds": [
+            "g376"
+          ],
+          "reason": "独立售卖的续作／后日谈。",
+          "source": "https://www.hook-net.jp/smee/sugarstyle/fd/"
+        },
+        {
+          "title": "あざスミ ～あざとくてスミに置けない彼女～",
+          "status": "主数据库",
+          "workIds": [
+            "g377"
+          ],
+          "reason": "独立发售的叙事作品。 联合作品，双品牌署名。",
+          "source": "https://www.hook-net.jp/htm/old_news/old_news_2019.htm"
+        },
+        {
+          "title": "HaremKingdom -ハーレムキングダム-",
+          "status": "主数据库",
+          "workIds": [
+            "g378"
+          ],
+          "reason": "独立发售的叙事作品。",
+          "source": "https://www.hook-net.jp/smee/product.html"
+        },
+        {
+          "title": "HaremじゃないよKingdom 光＆ソフィーヤ＆キキ編",
+          "status": "主数据库",
+          "workIds": [
+            "g379"
+          ],
+          "reason": "独立售卖的续作／后日谈。",
+          "source": "https://www.hook-net.jp/smee/haremkingdom/fd/"
+        },
+        {
+          "title": "HaremじゃないよKingdom シャルローネ＆マルー編",
+          "status": "主数据库",
+          "workIds": [
+            "g380"
+          ],
+          "reason": "独立售卖的续作／后日谈。",
+          "source": "https://www.hook-net.jp/smee/haremkingdom/fd/"
+        },
+        {
+          "title": "ハジラブ -Making*Lovers-",
+          "status": "主数据库",
+          "workIds": [
+            "g381"
+          ],
+          "reason": "独立发售的叙事作品。",
+          "source": "https://www.hook-net.jp/smee/product.html"
+        },
+        {
+          "title": "１／１彼氏彼女",
+          "status": "主数据库",
+          "workIds": [
+            "g382"
+          ],
+          "reason": "独立发售的叙事作品。",
+          "source": "https://www.hook-net.jp/smee/product.html"
+        },
+        {
+          "title": "ハジラブ -Making*Lovers- ミニファンディスク Vol.01 桜子＆結衣編",
+          "status": "主数据库",
+          "workIds": [
+            "g383"
+          ],
+          "reason": "独立售卖的续作／后日谈。",
+          "source": "https://www.hook-net.jp/smee/hajilovefd/"
+        },
+        {
+          "title": "ハジラブ -Making*Lovers- ミニファンディスク Vol.02 小唄＆初穂編",
+          "status": "主数据库",
+          "workIds": [
+            "g384"
+          ],
+          "reason": "独立售卖的续作／后日谈。",
+          "source": "https://www.hook-net.jp/smee/hajilovefd/"
+        },
+        {
+          "title": "１／１彼氏彼女 MINI FAN DISC",
+          "status": "主数据库",
+          "workIds": [
+            "g385"
+          ],
+          "reason": "独立售卖的续作／后日谈。",
+          "source": "https://www.hook-net.jp/htm/product.htm"
+        },
+        {
+          "title": "ラブピカルポッピー！",
+          "status": "主数据库",
+          "workIds": [
+            "g386"
+          ],
+          "reason": "独立发售的叙事作品。",
+          "source": "https://www.hook-net.jp/smee/product.html"
+        },
+        {
+          "title": "ドカイチャ!!ラブピカルポッピー！",
+          "status": "主数据库",
+          "workIds": [
+            "g387"
+          ],
+          "reason": "独立售卖的续作／后日谈。",
+          "source": "https://www.hook-net.jp/htm/product.htm"
+        },
+        {
+          "title": "HaremKingdom Full HD Remaster（2025）",
+          "status": "版本合并",
+          "workIds": [
+            "g378"
+          ],
+          "reason": "本篇高清重制与整合内容，作为 2020 年原作的版本记录。",
+          "source": "https://www.hook-net.jp/htm/product.htm"
+        },
+        {
+          "title": "SMEE 15th Anniversary Box 2009–2020（2023）",
+          "status": "合集，不另计",
+          "workIds": [
+            "g365",
+            "g366",
+            "g368"
+          ],
+          "reason": "既有游戏、原声与广播剧的纪念合集，不创造新的原作。",
+          "source": "https://www.hook-net.jp/smee/smee15th/"
+        },
+        {
+          "title": "ワンナイトアフター（2026 年 11 月预定）",
+          "status": "未发售",
+          "workIds": [],
+          "reason": "截至 2026 年 9 月仍为预定商品；发售后再按实际发行资料录入。",
+          "source": "https://www.hook-net.jp/smee/one/"
+        }
+      ],
+      "auditTitle": "SMEE 已发行作品逐项核对",
+      "auditSourceLabel": "HOOKSOFT 官方产品总目录",
+      "overviewLabel": "独立发行的相关游戏",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>13 部原作、11 部独立后日谈／Fan Disc、1 部联合作品；纪念合集与高清重制合并说明。</strong></p>",
+      "description": "SMEE 厂商专题：2007—2024 年 25 部已发行恋爱冒险、独立续篇和联合作品，含剧情、人物、首发版本与核对清单。"
     }
   ]
 }
