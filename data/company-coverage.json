@@ -2294,6 +2294,307 @@
           "source": "https://toneworks.product.co.jp/tsukikana_vfb/"
         }
       ]
+    },
+    {
+      "id": "asaproject",
+      "name": "ASa Project",
+      "checkedAt": "2026-09-29",
+      "status": "官方产品页 20 个栏目与 14 作编号已核对",
+      "scope": "收录 2007—2026 年 14 部编号本篇与 8 部独立发行的 Fan Disc／迷你后日谈，共 22 部恋爱 ADV／AVG；不新增纯文本指令和图文指令游戏。",
+      "versionScope": "22 条日文 PC 首发及 10 条已核实的 PSP、PS Vita、PS4、Switch 主机记录；未穷尽地区版、下载再版及所有语音差异。",
+      "publisherNote": "ASa Project 原作及 PC 版为主。2013 年 PSP 版署 Alchemist，2014—2015 年 Vita 版署加賀クリエイト，后来主机版本由 ENTERGRAM 发行；筛选依各平台历史署名。",
+      "workIds": [
+        "g282",
+        "g283",
+        "g284",
+        "g285",
+        "g286",
+        "g287",
+        "g288",
+        "g289",
+        "g290",
+        "g291",
+        "g292",
+        "g293",
+        "g294",
+        "g295",
+        "g296",
+        "g297",
+        "g298",
+        "g299",
+        "g300",
+        "g301",
+        "g302",
+        "g303"
+      ],
+      "publisherWorkIds": [
+        "g282",
+        "g283",
+        "g284",
+        "g285",
+        "g286",
+        "g287",
+        "g288",
+        "g289",
+        "g290",
+        "g291",
+        "g292",
+        "g293",
+        "g294",
+        "g295",
+        "g296",
+        "g297",
+        "g298",
+        "g299",
+        "g300",
+        "g301",
+        "g302",
+        "g303"
+      ],
+      "catalogueEntryCount": 20,
+      "source": "https://www.asa-pro.com/products.html",
+      "sectionTitle": "从《めいくるっ！》到《王様恋愛》",
+      "auditLabel": "14 部编号本篇、5 个 0.5 番后续栏目、1 个纪念合集；部分栏目分拆发售。",
+      "auditNote": "官网产品页现有 20 个栏目：14 部编号本篇、5 个后续栏目及 1 个合集。9.5、10.5、11.5 各为两款分开销售的游戏，因此实际独立发售作品为 22 部。",
+      "entries": [
+        {
+          "title": "めいくるっ！",
+          "status": "已收录",
+          "workIds": [
+            "g282"
+          ],
+          "reason": "官方第 1—14 部本篇中的独立 ADV／AVG，依单作官网和产品页核对。",
+          "source": "https://www.asa-pro.com/mai/meikuru.html"
+        },
+        {
+          "title": "HimeのちHoney",
+          "status": "已收录",
+          "workIds": [
+            "g283"
+          ],
+          "reason": "官方第 1—14 部本篇中的独立 ADV／AVG，依单作官网和产品页核对。",
+          "source": "https://www.asa-pro.com/top/hime/index.html"
+        },
+        {
+          "title": "アッチむいて恋",
+          "status": "已收录",
+          "workIds": [
+            "g284"
+          ],
+          "reason": "官方第 1—14 部本篇中的独立 ADV／AVG，依单作官网和产品页核对。",
+          "source": "https://www.asa-pro.com/top/new/index.html"
+        },
+        {
+          "title": "恋愛０キロメートル",
+          "status": "已收录",
+          "workIds": [
+            "g285"
+          ],
+          "reason": "官方第 1—14 部本篇中的独立 ADV／AVG，依单作官网和产品页核对。",
+          "source": "https://www.asa-pro.com/top/zero/index.html"
+        },
+        {
+          "title": "ひとつ飛ばし恋愛",
+          "status": "已收录",
+          "workIds": [
+            "g286"
+          ],
+          "reason": "官方第 1—14 部本篇中的独立 ADV／AVG，依单作官网和产品页核对。",
+          "source": "https://www.asa-pro.com/hitotsutobashi/index.html"
+        },
+        {
+          "title": "プラマイウォーズ",
+          "status": "已收录",
+          "workIds": [
+            "g287"
+          ],
+          "reason": "官方第 1—14 部本篇中的独立 ADV／AVG，依单作官网和产品页核对。",
+          "source": "https://www.asa-pro.com/puramaiwars/index.html"
+        },
+        {
+          "title": "スキとスキとでサンカク恋愛",
+          "status": "已收录",
+          "workIds": [
+            "g288"
+          ],
+          "reason": "官方第 1—14 部本篇中的独立 ADV／AVG，依单作官网和产品页核对。",
+          "source": "https://www.asa-pro.com/sankakurenai/story.html"
+        },
+        {
+          "title": "かりぐらし恋愛",
+          "status": "已收录",
+          "workIds": [
+            "g289"
+          ],
+          "reason": "官方第 1—14 部本篇中的独立 ADV／AVG，依单作官网和产品页核对。",
+          "source": "https://www.asa-pro.com/karigurashi/index.html"
+        },
+        {
+          "title": "恋愛、借りちゃいました",
+          "status": "已收录",
+          "workIds": [
+            "g290"
+          ],
+          "reason": "官方第 1—14 部本篇中的独立 ADV／AVG，依单作官网和产品页核对。",
+          "source": "https://www.asa-pro.com/koikari/"
+        },
+        {
+          "title": "恋愛、借りちゃいました 椿＆ちなつ＆こなつ ミニアフターストーリー",
+          "status": "分拆发行的迷你后日谈",
+          "workIds": [
+            "g291"
+          ],
+          "reason": "官网同一 0.5 目录栏目下分别发售的独立游戏，按各自标题和日期分别建档。",
+          "source": "https://www.asa-pro.com/koikari/fd/"
+        },
+        {
+          "title": "恋愛、借りちゃいました 絵未＆八純 ミニアフターストーリー",
+          "status": "分拆发行的迷你后日谈",
+          "workIds": [
+            "g292"
+          ],
+          "reason": "官网同一 0.5 目录栏目下分别发售的独立游戏，按各自标题和日期分别建档。",
+          "source": "https://www.asa-pro.com/koikari/fd/"
+        },
+        {
+          "title": "恋愛×ロワイアル",
+          "status": "已收录",
+          "workIds": [
+            "g293"
+          ],
+          "reason": "官方第 1—14 部本篇中的独立 ADV／AVG，依单作官网和产品页核对。",
+          "source": "https://www.asa-pro.com/koirowa/"
+        },
+        {
+          "title": "恋愛×ロワイアル 乃々香＆蓮菜＆由奈 ミニアフターストーリー",
+          "status": "分拆发行的迷你后日谈",
+          "workIds": [
+            "g294"
+          ],
+          "reason": "官网同一 0.5 目录栏目下分别发售的独立游戏，按各自标题和日期分别建档。",
+          "source": "https://www.asa-pro.com/koirowa/af/"
+        },
+        {
+          "title": "恋愛×ロワイアル まり＆汐音＆蒼 ミニアフターストーリー",
+          "status": "分拆发行的迷你后日谈",
+          "workIds": [
+            "g295"
+          ],
+          "reason": "官网同一 0.5 目录栏目下分别发售的独立游戏，按各自标题和日期分别建档。",
+          "source": "https://www.asa-pro.com/koirowa/af/"
+        },
+        {
+          "title": "フタマタ恋愛",
+          "status": "已收录",
+          "workIds": [
+            "g296"
+          ],
+          "reason": "官方第 1—14 部本篇中的独立 ADV／AVG，依单作官网和产品页核对。",
+          "source": "https://www.asa-pro.com/futakoi/"
+        },
+        {
+          "title": "フタマタ恋愛 瑠衣＆宮子 ミニアフターストーリー",
+          "status": "分拆发行的迷你后日谈",
+          "workIds": [
+            "g297"
+          ],
+          "reason": "官网同一 0.5 目录栏目下分别发售的独立游戏，按各自标题和日期分别建档。",
+          "source": "https://www.asa-pro.com/futakoi/af/"
+        },
+        {
+          "title": "フタマタ恋愛 結愛＆煌 ミニアフターストーリー",
+          "status": "分拆发行的迷你后日谈",
+          "workIds": [
+            "g298"
+          ],
+          "reason": "官网同一 0.5 目录栏目下分别发售的独立游戏，按各自标题和日期分别建档。",
+          "source": "https://www.asa-pro.com/futakoi/af/"
+        },
+        {
+          "title": "コイバナ恋愛",
+          "status": "已收录",
+          "workIds": [
+            "g299"
+          ],
+          "reason": "官方第 1—14 部本篇中的独立 ADV／AVG，依单作官网和产品页核对。",
+          "source": "https://www.asa-pro.com/koibana/"
+        },
+        {
+          "title": "コイバナ恋愛 ミニファンディスク アフターフェスティバル",
+          "status": "独立 Fan Disc",
+          "workIds": [
+            "g300"
+          ],
+          "reason": "官网单列、独立发行，内含多条短篇但按一款游戏计数。",
+          "source": "https://www.asa-pro.com/koibana/af/"
+        },
+        {
+          "title": "恋愛、はじめまして",
+          "status": "已收录",
+          "workIds": [
+            "g301"
+          ],
+          "reason": "官方第 1—14 部本篇中的独立 ADV／AVG，依单作官网和产品页核对。",
+          "source": "https://www.asa-pro.com/koihaji/"
+        },
+        {
+          "title": "恋愛、はじめまして ミニファンディスク サマーバケーション",
+          "status": "独立 Fan Disc",
+          "workIds": [
+            "g302"
+          ],
+          "reason": "官网单列、独立发行，内含多条短篇但按一款游戏计数。",
+          "source": "https://www.asa-pro.com/koihaji/sv/"
+        },
+        {
+          "title": "王様恋愛",
+          "status": "已收录",
+          "workIds": [
+            "g303"
+          ],
+          "reason": "官方第 1—14 部本篇中的独立 ADV／AVG，依单作官网和产品页核对。",
+          "source": "https://www.asa-pro.com/ousama/"
+        },
+        {
+          "title": "ASaProject 15th Anniversary Box 2011-2020",
+          "status": "合集／未新增作品",
+          "workIds": [
+            "g285",
+            "g286",
+            "g287",
+            "g288",
+            "g289",
+            "g290",
+            "g291",
+            "g292"
+          ],
+          "reason": "2022 年纪念合集收录《恋愛０キロメートル》至《恋愛、借りちゃいました》及其两款迷你后日谈共八款；前三款旧作未收录，另有三作打包下载。套装不计为全新剧情作品。",
+          "source": "https://www.asa-pro.com/asa15th/"
+        },
+        {
+          "title": "恋愛０キロメートル Portable／V 等主机版",
+          "status": "归入原作版本",
+          "workIds": [
+            "g285",
+            "g286",
+            "g287",
+            "g288",
+            "g289",
+            "g290"
+          ],
+          "reason": "官方目录以 PC 原作为独立作品；主机移植依各平台原始发行署名和年份列于版本。",
+          "source": "https://www.entergram.co.jp/product.html"
+        },
+        {
+          "title": "王様恋愛官网总产品页预定文案",
+          "status": "已按发售实况更新",
+          "workIds": [
+            "g303"
+          ],
+          "reason": "总产品页仍称“2026 年秋预定”，单作官网及品牌首页已宣布 2026-09-25 正式发售。",
+          "source": "https://www.asa-pro.com/ousama/"
+        }
+      ]
     }
   ]
 }
