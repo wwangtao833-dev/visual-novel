@@ -2,7 +2,7 @@
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
     "updated": "2026-09-29",
-    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题综合官方合集、旧站及短篇记录，已登记 9 部独立发布的叙事游戏；包括两部洋馆假日、两部人气投票短篇及胡萝卜蛋糕事件。合集和内含新增篇章另作版本与内容说明，未核实字段明确标记。 ANIPLEX.EXE 专题按其官网四部作品核对；品牌项目期数与独立游戏数不同。 sprite 专题核对三部主作品与两部独立 EXTRA 外传，并单列 Edia 授权卡牌游戏；按实际发行署名区分作品品牌与厂商。 复核 sprite 发行署名后，补记《苍彼》移动版及 Perfect、High Resolution、Ultimate 增强版；sprite 品牌五部独立叙事游戏中，实际由 sprite 发行的为四部。 まどそふと专题对照官方 PC 产品目录，已收录 9 部已发行叙事游戏，另为四部作品登记五个主机平台版本；主机发行署名记为 iMel。 2026 年 9 月 29 日补查动画 Blu-ray 特典有声 ADV（单独作品条目）、Mobage／GREE 及七条 Steam 国际发行版本；官方九部独立零售作品口径不变。 柚子社主品牌已按官网收录 13 部独立本篇，另单列全年龄姐妹品牌《PARQUET》；同一作品的廉价版、PSP 移植和 Steam 国际版按版本归档。 Innocent Grey 专题核对 11 部已发行独立叙事游戏；FLOWERS 四季合集、壳之少女三部曲重制与国际版分作品和版本层级整理。 AUGUST 专题已核对 13 部独立 ADV 与 1 部跨类型学园 RPG；增强版、合集和主机移植按版本归档。",
+    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题综合官方合集、旧站及短篇记录，已登记 9 部独立发布的叙事游戏；包括两部洋馆假日、两部人气投票短篇及胡萝卜蛋糕事件。合集和内含新增篇章另作版本与内容说明，未核实字段明确标记。 ANIPLEX.EXE 专题按其官网四部作品核对；品牌项目期数与独立游戏数不同。 sprite 专题核对三部主作品与两部独立 EXTRA 外传，并单列 Edia 授权卡牌游戏；按实际发行署名区分作品品牌与厂商。 复核 sprite 发行署名后，补记《苍彼》移动版及 Perfect、High Resolution、Ultimate 增强版；sprite 品牌五部独立叙事游戏中，实际由 sprite 发行的为四部。 まどそふと专题对照官方 PC 产品目录，已收录 9 部已发行叙事游戏，另为四部作品登记五个主机平台版本；主机发行署名记为 iMel。 2026 年 9 月 29 日补查动画 Blu-ray 特典有声 ADV（单独作品条目）、Mobage／GREE 及七条 Steam 国际发行版本；官方九部独立零售作品口径不变。 柚子社主品牌已按官网收录 13 部独立本篇，另单列全年龄姐妹品牌《PARQUET》；同一作品的廉价版、PSP 移植和 Steam 国际版按版本归档。 Innocent Grey 专题核对 11 部已发行独立叙事游戏；FLOWERS 四季合集、壳之少女三部曲重制与国际版分作品和版本层级整理。 AUGUST 专题已核对 13 部独立 ADV 与 1 部跨类型学园 RPG；增强版、合集和主机移植按版本归档。 tone work’s 专题已逐项核查官网五部商业作品，另登记一部独立下载的免费纪念短篇；增强版和追加剧情分别处理。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
   "works": [
@@ -4761,6 +4761,113 @@
       "synopsis": "战乱结束后，宗仁和一同走过战场的少女们在桃花重新盛开的都城迎接春天。",
       "notes": "AUGUST 原作；独立发行的后日谈 Fan Disc。",
       "source": "https://august-soft.com/hatou_fd/"
+    },
+    {
+      "id": "g276",
+      "title": "初恋1/1",
+      "originalTitle": "初恋1/1",
+      "firstYear": 2012,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园／初恋／恋爱",
+      "characters": [
+        "森野雪乃",
+        "月島叶",
+        "鴇崎摩耶"
+      ],
+      "charactersNote": "",
+      "synopsis": "以校园中不同少女的初恋为轴，沿各自路线描绘相识、告白与交往后的关系。",
+      "notes": "tone work’s 首部作品；雪乃、叶、摩耶追加剧情为原作免费扩展内容。",
+      "source": "https://toneworks.product.co.jp/hatsukoi/index.html"
+    },
+    {
+      "id": "g277",
+      "title": "星织梦未来",
+      "originalTitle": "星織ユメミライ",
+      "firstYear": 2014,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "学园／七夕／未来",
+      "characters": [
+        "日野涼介",
+        "逢坂そら",
+        "篠崎真里花",
+        "鳴沢律佳"
+      ],
+      "charactersNote": "",
+      "synopsis": "转校回到故乡汐凪市的涼介参加行事运营委员会，与天文部的そら和旧友真里花等人筹办七夕祭；校园篇与日后篇写下各人的梦想和恋爱。",
+      "notes": "PS Vita、PS4 的 Converted Edition 及 Windows Perfect Edition 归入同一作品；免费的一周年短篇单列。",
+      "source": "https://toneworks.product.co.jp/hoshiori_pe/"
+    },
+    {
+      "id": "g278",
+      "title": "律佳与你的一周年纪念甜蜜生日",
+      "originalTitle": "律佳とあなたの１周年記念、いちゃらぶバースデー",
+      "firstYear": 2015,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "星织梦未来／免费短篇／纪念 Fan Disc",
+      "characters": [
+        "鳴沢律佳"
+      ],
+      "charactersNote": "",
+      "synopsis": "《星織ユメミライ》发行一周年时公开，以律佳的生日为主题的短篇后日谈。",
+      "notes": "官网称为“プチファンディスク”；独立提供下载，官网注明无角色语音。",
+      "source": "https://toneworks.product.co.jp/hoshiori/index.html"
+    },
+    {
+      "id": "g279",
+      "title": "银色、遥远",
+      "originalTitle": "銀色、遥か",
+      "firstYear": 2016,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "青春／成长／恋爱",
+      "characters": [
+        "ベスリー",
+        "雛多",
+        "椛",
+        "瑞羽",
+        "雪月"
+      ],
+      "charactersNote": "官网角色页以这些名字列出五位女主角；全名待核。",
+      "synopsis": "以从少年时期走向成年的人生阶段为跨度，描绘少女们与主人公逐步变化的关系和未来。",
+      "notes": "tone work’s 官网独立发行的第三部商业作品；按中学、学园与成人阶段描绘长期恋爱。",
+      "source": "https://toneworks.product.co.jp/ginharu/character.html"
+    },
+    {
+      "id": "g280",
+      "title": "在月之彼岸相逢",
+      "originalTitle": "月の彼方で逢いましょう",
+      "firstYear": 2019,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "青春／时间／恋爱",
+      "characters": [
+        "佐倉雨音",
+        "倉橋聖衣良",
+        "岬栞菜"
+      ],
+      "charactersNote": "",
+      "synopsis": "围绕学生时代与多年之后的相逢，讲述主人公与雨音等人在不同人生阶段的恋情。",
+      "notes": "2022 年 PS4 和 Switch 版由 ENTERGRAM 发行；独立后续作 SweetSummerRainbow 另列。",
+      "source": "https://toneworks.product.co.jp/tsukikana/index.html"
+    },
+    {
+      "id": "g281",
+      "title": "在月之彼岸相逢：SweetSummerRainbow",
+      "originalTitle": "月の彼方で逢いましょう SweetSummerRainbow",
+      "firstYear": 2020,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "后日谈／夏日／Fan Disc",
+      "characters": [
+        "佐倉雨音"
+      ],
+      "charactersNote": "",
+      "synopsis": "继续《月の彼方で逢いましょう》中佐仓雨音与主人公的恋爱，以新的夏日故事描绘两人的后续。",
+      "notes": "官网产品目录独立列出的恋爱 ADV，非本篇主机版或语音剧特典。",
+      "source": "https://toneworks.product.co.jp/ssr/index.html"
     }
   ],
   "versions": [
@@ -12737,6 +12844,160 @@
       "voice": "未核实",
       "differences": "Switch 版；原作仍按 2016 年日文 PC 首发。",
       "source": "https://www.entergram.co.jp/senmomo/"
+    },
+    {
+      "id": "g276-v1",
+      "workId": "g276",
+      "year": 2012,
+      "platform": "Windows",
+      "publisher": "tone work’s",
+      "publisherCompanies": [
+        "tone work’s"
+      ],
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "2012-06-29 首发；后续三条角色追加剧情为下载扩展，不重复计游戏版本。",
+      "source": "https://toneworks.product.co.jp/product.html"
+    },
+    {
+      "id": "g277-v1",
+      "workId": "g277",
+      "year": 2014,
+      "platform": "Windows",
+      "publisher": "tone work’s",
+      "publisherCompanies": [
+        "tone work’s"
+      ],
+      "kind": "原版",
+      "voice": "有",
+      "differences": "2014-07-25 首发；校园篇与日后篇。",
+      "source": "https://toneworks.product.co.jp/product.html"
+    },
+    {
+      "id": "g277-v2",
+      "workId": "g277",
+      "year": 2016,
+      "platform": "PlayStation Vita",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "Converted Edition／全年龄移植",
+      "voice": "有",
+      "differences": "2016-08-10 发售；追加剧情及事件图，主人公以外角色全语音。",
+      "source": "https://www.prot.co.jp/psv/hoshiori/spec.html"
+    },
+    {
+      "id": "g277-v3",
+      "workId": "g277",
+      "year": 2017,
+      "platform": "PlayStation 4",
+      "publisher": "PROTOTYPE",
+      "publisherCompanies": [
+        "PROTOTYPE"
+      ],
+      "kind": "Converted Edition／全年龄移植",
+      "voice": "有",
+      "differences": "2017-09-14 发售；主人公以外角色全语音。",
+      "source": "https://www.prot.co.jp/ps4/hoshiori/spec.html"
+    },
+    {
+      "id": "g277-v4",
+      "workId": "g277",
+      "year": 2021,
+      "platform": "Windows",
+      "publisher": "tone work’s",
+      "publisherCompanies": [
+        "tone work’s"
+      ],
+      "kind": "Perfect Edition",
+      "voice": "有",
+      "differences": "2021-06-25 发售；移植主机版新增剧情与事件图，并改为 1920×1080 全高清。",
+      "source": "https://toneworks.product.co.jp/hoshiori_pe/"
+    },
+    {
+      "id": "g278-v1",
+      "workId": "g278",
+      "year": 2015,
+      "platform": "Windows（免费下载）",
+      "publisher": "tone work’s",
+      "publisherCompanies": [
+        "tone work’s"
+      ],
+      "kind": "免费短篇 Fan Disc",
+      "voice": "无",
+      "differences": "2015-06-29 公开；官网说明该小型 Fan Disc 无语音。",
+      "source": "https://toneworks.product.co.jp/hoshiori/index.html"
+    },
+    {
+      "id": "g279-v1",
+      "workId": "g279",
+      "year": 2016,
+      "platform": "Windows",
+      "publisher": "tone work’s",
+      "publisherCompanies": [
+        "tone work’s"
+      ],
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "2016-08-26 首发。",
+      "source": "https://toneworks.product.co.jp/product.html"
+    },
+    {
+      "id": "g280-v1",
+      "workId": "g280",
+      "year": 2019,
+      "platform": "Windows",
+      "publisher": "tone work’s",
+      "publisherCompanies": [
+        "tone work’s"
+      ],
+      "kind": "原版",
+      "voice": "未核实",
+      "differences": "2019-06-28 首发。",
+      "source": "https://toneworks.product.co.jp/product.html"
+    },
+    {
+      "id": "g280-v2",
+      "workId": "g280",
+      "year": 2022,
+      "platform": "PlayStation 4",
+      "publisher": "ENTERGRAM",
+      "publisherCompanies": [
+        "ENTERGRAM"
+      ],
+      "kind": "全年龄主机移植",
+      "voice": "未核实",
+      "differences": "2022-02-24 发售；按主机版实际发行署名记录。",
+      "source": "https://www.entergram.co.jp/tsukikana/"
+    },
+    {
+      "id": "g280-v3",
+      "workId": "g280",
+      "year": 2022,
+      "platform": "Nintendo Switch",
+      "publisher": "ENTERGRAM",
+      "publisherCompanies": [
+        "ENTERGRAM"
+      ],
+      "kind": "全年龄主机移植",
+      "voice": "未核实",
+      "differences": "2022-02-24 与 PS4 版同日发售。",
+      "source": "https://www.entergram.co.jp/tsukikana/"
+    },
+    {
+      "id": "g281-v1",
+      "workId": "g281",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "tone work’s",
+      "publisherCompanies": [
+        "tone work’s"
+      ],
+      "kind": "独立后续作",
+      "voice": "未核实",
+      "differences": "2020-05-29 首发。",
+      "source": "https://toneworks.product.co.jp/product.html"
     }
   ]
 }

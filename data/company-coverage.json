@@ -2180,6 +2180,120 @@
           "source": "https://august-soft.com/product"
         }
       ]
+    },
+    {
+      "id": "toneworks",
+      "name": "tone work’s",
+      "checkedAt": "2026-09-29",
+      "status": "官网商业产品目录与下载档案核对完成",
+      "scope": "官方产品目录 5 部独立发售的恋爱 ADV 全部收录，另将官网独立下载的一部免费短篇 Fan Disc 列为作品，共 6 部；不新增图文指令、纯文本指令游戏。",
+      "versionScope": "11 条已核实的主要版本，包括 6 部作品首发、星织两款主机版与 PC 增强版，以及月之彼方两款主机版。仅记录已核实的平台与首发年份，未穷尽地区再版。",
+      "publisherNote": "tone work’s 原作与 PC 发行署名；《星織ユメミライ》主机版由 PROTOTYPE 发行，《月の彼方で逢いましょう》主机版由 ENTERGRAM 发行。发行厂商筛选依每条版本的署名。",
+      "workIds": [
+        "g276",
+        "g277",
+        "g278",
+        "g279",
+        "g280",
+        "g281"
+      ],
+      "publisherWorkIds": [
+        "g276",
+        "g277",
+        "g278",
+        "g279",
+        "g280",
+        "g281"
+      ],
+      "catalogueEntryCount": 5,
+      "source": "https://toneworks.product.co.jp/product.html",
+      "sectionTitle": "从《初恋1/1》到《SweetSummerRainbow》",
+      "auditLabel": "五部商业产品，以及官网独立下载短篇、增强版和追加剧情。",
+      "auditNote": "作品数含官网标记为“プチファンディスク”的一周年独立下载短篇；商业产品目录只有五项。追加补丁、扩展版、画集和语音剧不重复计独立作品。",
+      "entries": [
+        {
+          "title": "初恋1/1",
+          "status": "已收录",
+          "workIds": [
+            "g276"
+          ],
+          "reason": "官网产品目录独立列出的恋爱 ADV；本篇、后续作分别计数。",
+          "source": "https://toneworks.product.co.jp/product.html"
+        },
+        {
+          "title": "星織ユメミライ",
+          "status": "已收录",
+          "workIds": [
+            "g277"
+          ],
+          "reason": "官网产品目录独立列出的恋爱 ADV；本篇、后续作分别计数。",
+          "source": "https://toneworks.product.co.jp/product.html"
+        },
+        {
+          "title": "銀色、遥か",
+          "status": "已收录",
+          "workIds": [
+            "g279"
+          ],
+          "reason": "官网产品目录独立列出的恋爱 ADV；本篇、后续作分别计数。",
+          "source": "https://toneworks.product.co.jp/product.html"
+        },
+        {
+          "title": "月の彼方で逢いましょう",
+          "status": "已收录",
+          "workIds": [
+            "g280"
+          ],
+          "reason": "官网产品目录独立列出的恋爱 ADV；本篇、后续作分别计数。",
+          "source": "https://toneworks.product.co.jp/product.html"
+        },
+        {
+          "title": "月の彼方で逢いましょう SweetSummerRainbow",
+          "status": "已收录",
+          "workIds": [
+            "g281"
+          ],
+          "reason": "官网产品目录独立列出的恋爱 ADV；本篇、后续作分别计数。",
+          "source": "https://toneworks.product.co.jp/product.html"
+        },
+        {
+          "title": "律佳とあなたの１周年記念、いちゃらぶバースデー",
+          "status": "免费短篇已收录",
+          "workIds": [
+            "g278"
+          ],
+          "reason": "2015 年官网作为可下载的无语音小型 Fan Disc 公开；不在五部商业产品目录中。",
+          "source": "https://toneworks.product.co.jp/hoshiori/index.html"
+        },
+        {
+          "title": "星織ユメミライ Converted Edition／Perfect Edition",
+          "status": "归入本篇版本",
+          "workIds": [
+            "g277"
+          ],
+          "reason": "PS Vita、PS4 移植和 2021 年全高清 PC 增强版，有新增剧情与画面；不重复计作品。",
+          "source": "https://toneworks.product.co.jp/hoshiori_pe/"
+        },
+        {
+          "title": "初恋1/1 雪乃／叶／摩耶追加剧情",
+          "status": "原作下载内容",
+          "workIds": [
+            "g276"
+          ],
+          "reason": "官网提供三条角色的追加剧情下载；不作为独立游戏。",
+          "source": "https://toneworks.product.co.jp/hatsukoi/yukino_append_dl.html"
+        },
+        {
+          "title": "月の彼方で逢いましょう＆SweetSummerRainbow 视觉 Fanbook／特典语音剧",
+          "status": "非游戏",
+          "workIds": [
+            "g280",
+            "g281"
+          ],
+          "reason": "画集及附属语音剧按媒介区分，不计游戏作品。",
+          "source": "https://toneworks.product.co.jp/tsukikana_vfb/"
+        }
+      ]
     }
   ]
 }

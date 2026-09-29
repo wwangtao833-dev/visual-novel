@@ -4,11 +4,13 @@
 
 ## 数据范围
 
-当前收录 **275 部代表作品、566 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、ゆずソフト、Innocent Grey、minori、AUGUST、Leaf、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
+当前收录 **281 部代表作品、577 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、ゆずソフト、Innocent Grey、minori、AUGUST、tone work’s、Leaf、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
 
 作品主分类是一种检索入口，并非互斥的学术分类：一部恋爱视觉小说也可能属于广义 Galgame。视觉小说的“有声小说”可能只有音乐和音效，配音字段专指游戏内角色人声。
 
 ## 厂商集中整理
+
+已新增 [tone work’s 专题](toneworks.html)：官网 5 部商业恋爱 ADV 全数介绍，另收录 2015 年独立免费下载的无语音纪念短篇 Fan Disc，合计 **6 部作品、11 条主要平台版本**。星织的 Converted／Perfect Edition 和初恋追加剧情在版本或扩展内容层级说明；主机移植按 PROTOTYPE／ENTERGRAM 实际发行署名记录。新录入作品均非图文指令或纯文本指令游戏。
 
 已更新 [AUGUST 专题](august.html)：13 部独立 ADV／Fan Disc，34 条版本记录，并在跨类型栏目介绍官方定义为学园 RPG 的《あいりすミスティリア！》。扩展版与合集按作品版本归档；未新增图文指令、纯文本指令游戏。
 
