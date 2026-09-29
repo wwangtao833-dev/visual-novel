@@ -2242,7 +2242,7 @@
       ],
       "charactersNote": "",
       "synopsis": "从学园祭的音乐合作开始，描绘三人的感情纠葛。",
-      "notes": "2010序章和2011终章属于分期发行，主机版合并章节。",
+      "notes": "剧情为 introductory chapter（序章）、closing chapter（大学篇）和 coda（社会人篇）三段；2010 年独立发售 IC，2011 年《closing chapter》商品内含 CC 与 coda，coda 不单独发售。",
       "source": "https://blog.aquaplus.jp/archives/2352",
       "subcategory": "恋爱剧情"
     },
@@ -8366,10 +8366,10 @@
       "year": 2011,
       "platform": "Windows",
       "publisher": "Leaf / AQUAPLUS",
-      "kind": "续篇及整合版",
+      "kind": "终章发行（含 CC／coda）",
       "voice": "有",
-      "differences": "《closing chapter》发行，部分商品附《introductory chapter》内容。",
-      "source": "https://blog.aquaplus.jp/archives/2352",
+      "differences": "2011 年《closing chapter》产品收录大学篇 CC 及后续社会人篇 coda；coda 属于故事第三段，并非独立发行的第三款产品。套装版另附 IC。",
+      "source": "https://leaf.aquaplus.jp/product/wa2cc/",
       "publisherCompanies": [
         "Leaf",
         "AQUAPLUS"
@@ -8397,7 +8397,7 @@
       "publisher": "AQUAPLUS",
       "kind": "合集与全年龄修订",
       "voice": "有",
-      "differences": "《幸せの向こう側》合并章节，新增剧情、CG及动态立绘。",
+      "differences": "《幸せの向こう側》整合 IC、CC 与 coda 三段剧情，并新增剧情、CG 及动态立绘。",
       "source": "https://aquaplus.jp/wa2/product.html",
       "publisherCompanies": [
         "AQUAPLUS"
@@ -15351,7 +15351,7 @@
       ],
       "kind": "EXTENDED EDITION 整合版",
       "voice": "有",
-      "differences": "整合此前发布的游戏本篇和相关广播剧／小说特典盘，适配更新的 Windows 系统。",
+      "differences": "整合 IC、CC 与 coda 三段游戏本篇，并附相关广播剧／小说等特典内容，适配更新的 Windows 系统。",
       "source": "https://leaf.aquaplus.jp/product/wa2cc/product.html"
     }
   ]
