@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
-    "updated": "2026-09-28",
-    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题综合官方合集、旧站及短篇记录，已登记 9 部独立发布的叙事游戏；包括两部洋馆假日、两部人气投票短篇及胡萝卜蛋糕事件。合集和内含新增篇章另作版本与内容说明，未核实字段明确标记。 ANIPLEX.EXE 专题按其官网四部作品核对；品牌项目期数与独立游戏数不同。 sprite 专题核对三部主作品与两部独立 EXTRA 外传，并单列 Edia 授权卡牌游戏；按实际发行署名区分作品品牌与厂商。 复核 sprite 发行署名后，补记《苍彼》移动版及 Perfect、High Resolution、Ultimate 增强版；sprite 品牌五部独立叙事游戏中，实际由 sprite 发行的为四部。",
+    "updated": "2026-09-29",
+    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题综合官方合集、旧站及短篇记录，已登记 9 部独立发布的叙事游戏；包括两部洋馆假日、两部人气投票短篇及胡萝卜蛋糕事件。合集和内含新增篇章另作版本与内容说明，未核实字段明确标记。 ANIPLEX.EXE 专题按其官网四部作品核对；品牌项目期数与独立游戏数不同。 sprite 专题核对三部主作品与两部独立 EXTRA 外传，并单列 Edia 授权卡牌游戏；按实际发行署名区分作品品牌与厂商。 复核 sprite 发行署名后，补记《苍彼》移动版及 Perfect、High Resolution、Ultimate 增强版；sprite 品牌五部独立叙事游戏中，实际由 sprite 发行的为四部。 まどそふと专题对照官方 PC 产品目录，已收录 9 部已发行叙事游戏，另为四部作品登记五个主机平台版本；主机发行署名记为 iMel。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
   "works": [
@@ -3554,6 +3554,183 @@
       "synopsis": "因无法融入新学校而闭门不出的坂下深菜，与疏远家庭的星野兰来到海滨旅馆打工。两人度过一个夏天，在相互陪伴和与旅馆伙伴的交往中尝试直面过去。",
       "notes": "sprite／flowers.studio 制作的 FILMIC NOVEL；2024 年 Steam 和主机版由 RIGHTWAY 发行。预告在 2026 年 11 月推出的 Windows 实体版尚未发售，不计版本。",
       "source": "https://sprite.net/everlastingflowers"
+    },
+    {
+      "id": "g209",
+      "title": "任性娇羞的恋爱",
+      "originalTitle": "ナマイキデレーション",
+      "firstYear": 2013,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园／文化祭／恋爱喜剧",
+      "characters": [
+        "夏岛新十郎",
+        "西村汐里",
+        "夏岛美咲",
+        "新开渚",
+        "梅"
+      ],
+      "charactersNote": "",
+      "synopsis": "夏岛新十郎勉强通过补考，却被老师指派筹办文化祭。他必须自行招募执行委员，与外表强势却各怀好感的少女们一起筹备活动。",
+      "notes": "官网单独发行的 PC 叙事游戏；未将试玩版、礼包或音声作品另计作品。",
+      "source": "https://madosoft.net/namaiki/whatsnamaiki.php"
+    },
+    {
+      "id": "g210",
+      "title": "嫉妒的恋爱风暴",
+      "originalTitle": "ヤキモチストリーム",
+      "firstYear": 2014,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园／恋爱喜剧",
+      "characters": [
+        "雾岛沙那",
+        "塔妮娅",
+        "伊吹恋羽",
+        "雪仓睦月"
+      ],
+      "charactersNote": "",
+      "synopsis": "留英一年的主人公收到妹妹状态不佳的急电，暂停留学返回日本并转入妹妹的学校。妹妹、儿时玩伴、学姐与从英国追来的少女相继重逢，围绕他展开吃醋的校园恋爱喜剧。",
+      "notes": "官网单独发行的 PC 叙事游戏；未将试玩版、礼包或音声作品另计作品。",
+      "source": "https://madosoft.net/yakimochi/point.php"
+    },
+    {
+      "id": "g211",
+      "title": "任性High Spec",
+      "originalTitle": "ワガママハイスペック",
+      "firstYear": 2016,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园／学生会／恋爱喜剧",
+      "characters": [
+        "鸣海幸树",
+        "鹿苑寺薰子",
+        "樱木·R·亚谢",
+        "鸣海兔亚",
+        "宫濑未寻"
+      ],
+      "charactersNote": "",
+      "synopsis": "身兼学生与漫画创作者的鸣海幸树，在樱翠学园的学生会结识各有才能的少女；秘密工作与学生会的日常交织成恋爱喜剧。",
+      "notes": "2013—2025 年官网 PC 产品目录的独立叙事游戏；主机移植合并在同一作品下。",
+      "source": "https://imel.co.jp/wagahigh/story.php"
+    },
+    {
+      "id": "g212",
+      "title": "任性High Spec OC",
+      "originalTitle": "ワガママハイスペックOC",
+      "firstYear": 2017,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园／续篇／恋爱喜剧",
+      "characters": [
+        "鸣海幸树",
+        "鹿苑寺薰子",
+        "樱木·R·亚谢",
+        "鸣海兔亚",
+        "宫濑未寻"
+      ],
+      "charactersNote": "",
+      "synopsis": "《任性High Spec》的正式续篇，延续樱翠学园学生会与几位女主角的日常和恋爱故事，并为原作世界补充后续剧情。",
+      "notes": "官网单独发行的 PC 叙事游戏；未将试玩版、礼包或音声作品另计作品。",
+      "source": "https://madosoft.net/news/361"
+    },
+    {
+      "id": "g213",
+      "title": "树莓立方体",
+      "originalTitle": "ラズベリーキューブ",
+      "firstYear": 2018,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园／日常／恋爱",
+      "characters": [
+        "吾妻悟",
+        "海堂美琴",
+        "狩野港",
+        "结月悠",
+        "樱庭·维多利亚·瑠莉"
+      ],
+      "charactersNote": "",
+      "synopsis": "决心每天做一件善事的吾妻悟回到河江独居，帮公寓房东的女儿解围、协助园艺部耕作，又在军品店打工；他与学生会长的相遇却引出意想不到的误会。",
+      "notes": "2013—2025 年官网 PC 产品目录的独立叙事游戏；主机移植合并在同一作品下。",
+      "source": "https://madosoft.net/raspberry/story.html"
+    },
+    {
+      "id": "g214",
+      "title": "超常规创意",
+      "originalTitle": "ハミダシクリエイティブ",
+      "firstYear": 2020,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园／学生会／恋爱",
+      "characters": [
+        "和泉智宏",
+        "和泉妃爱",
+        "常磐华乃",
+        "锦明日美",
+        "镰仓诗樱"
+      ],
+      "charactersNote": "",
+      "synopsis": "性格内向的和泉智宏意外在抽签中成为学生会长，只好筹组干部；候选的同学、学妹和妹妹却鲜少到校，失联的前任会长也忽然出现。",
+      "notes": "2013—2025 年官网 PC 产品目录的独立叙事游戏；主机移植合并在同一作品下。",
+      "source": "https://madosoft.net/hamidashi/story"
+    },
+    {
+      "id": "g215",
+      "title": "超常规创意 凸",
+      "originalTitle": "ハミダシクリエイティブ凸",
+      "firstYear": 2022,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园／续篇／恋爱",
+      "characters": [
+        "和泉智宏",
+        "和泉妃爱",
+        "常磐华乃",
+        "锦明日美",
+        "镰仓诗樱",
+        "龙闲天梨"
+      ],
+      "charactersNote": "",
+      "synopsis": "抽签担任会长的智宏逐渐能够带领学生会。本独立发售的续篇延展各女主角交往后的生活，也加入龙闲天梨的故事。",
+      "notes": "官网单独发行的 PC 叙事游戏；未将试玩版、礼包或音声作品另计作品。",
+      "source": "https://madosoft.net/totsu/story"
+    },
+    {
+      "id": "g216",
+      "title": "Select Oblige",
+      "originalTitle": "セレクトオブリージュ",
+      "firstYear": 2024,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "阶层／校园／恋爱",
+      "characters": [
+        "布波脑凪",
+        "一色奏命",
+        "蓼科伊芙",
+        "夜刀久久留",
+        "托乌莉"
+      ],
+      "charactersNote": "",
+      "synopsis": "贫民区出身的布波脑凪获得每年仅有一人的精英学校入学资格，为改变命运进入樱元学园；他与同乡的托乌莉面对学生会精英和阶层偏见。",
+      "notes": "2013—2025 年官网 PC 产品目录的独立叙事游戏；主机移植合并在同一作品下。",
+      "source": "https://imel.co.jp/selectoblige/story"
+    },
+    {
+      "id": "g217",
+      "title": "超常规创意 Re:Re:call",
+      "originalTitle": "ハミダシクリエイティブRe:Re:call",
+      "firstYear": 2025,
+      "category": "Galgame",
+      "subcategory": "恋爱剧情冒险",
+      "genre": "校园／外传／恋爱",
+      "characters": [
+        "和泉智宏",
+        "圣莉莉子"
+      ],
+      "charactersNote": "",
+      "synopsis": "智宏在同人展担任工作人员时，遇到原作中的对手、另一所学校的学生会长圣莉莉子；独立发行的短篇将她作为主角展开新恋爱故事。",
+      "notes": "官网单独发行的 PC 叙事游戏；未将试玩版、礼包或音声作品另计作品。",
+      "source": "https://madosoft.net/rerecall/story"
     }
   ],
   "versions": [
@@ -9393,6 +9570,230 @@
       "voice": "有",
       "differences": "2025 年 4 月 25 日十周年盒装所含的 EXTRA2 升级版：新增美咲场景、收录主机版事件，最高支持 4K；亦有单独数字销售。",
       "source": "https://sprite.net/aokana/10thanniversary"
+    },
+    {
+      "id": "g209-v1",
+      "workId": "g209",
+      "year": 2013,
+      "platform": "Windows",
+      "publisher": "まどそふと",
+      "publisherCompanies": [
+        "まどそふと"
+      ],
+      "kind": "成人向 PC 首发",
+      "voice": "有",
+      "differences": "官网记载的独立 PC 首发；成人向内容。官网注明主人公以外全程配音。",
+      "source": "https://madosoft.net/namaiki/whatsnamaiki.php"
+    },
+    {
+      "id": "g210-v1",
+      "workId": "g210",
+      "year": 2014,
+      "platform": "Windows",
+      "publisher": "まどそふと",
+      "publisherCompanies": [
+        "まどそふと"
+      ],
+      "kind": "成人向 PC 首发",
+      "voice": "未核实",
+      "differences": "官网记载的独立 PC 首发；成人向内容。角色配音覆盖范围待逐项核实。",
+      "source": "https://www.madosoft.net/products"
+    },
+    {
+      "id": "g211-v1",
+      "workId": "g211",
+      "year": 2016,
+      "platform": "Windows",
+      "publisher": "まどそふと",
+      "publisherCompanies": [
+        "まどそふと"
+      ],
+      "kind": "成人向 PC 首发",
+      "voice": "未核实",
+      "differences": "官网记载的独立 PC 首发；成人向内容。角色配音覆盖范围待逐项核实。",
+      "source": "https://www.madosoft.net/products"
+    },
+    {
+      "id": "g211-v2",
+      "workId": "g211",
+      "year": 2017,
+      "platform": "PS Vita",
+      "publisher": "iMel",
+      "publisherCompanies": [
+        "iMel"
+      ],
+      "kind": "全年龄主机移植",
+      "voice": "未核实",
+      "differences": "iMel 销售／移植的主机版；与原成人 PC 版的分级不同。新增剧本和配音范围尚未核实。",
+      "source": "https://imel.co.jp/wagahigh/product%20_2.php"
+    },
+    {
+      "id": "g211-v3",
+      "workId": "g211",
+      "year": 2020,
+      "platform": "Nintendo Switch",
+      "publisher": "iMel",
+      "publisherCompanies": [
+        "iMel"
+      ],
+      "kind": "全年龄主机移植",
+      "voice": "未核实",
+      "differences": "iMel 销售／移植的主机版；与原成人 PC 版的分级不同。新增剧本和配音范围尚未核实。",
+      "source": "https://imel.co.jp/wagahigh/product.php"
+    },
+    {
+      "id": "g212-v1",
+      "workId": "g212",
+      "year": 2017,
+      "platform": "Windows",
+      "publisher": "まどそふと",
+      "publisherCompanies": [
+        "まどそふと"
+      ],
+      "kind": "成人向 PC 首发",
+      "voice": "未核实",
+      "differences": "官网记载的独立 PC 首发；成人向内容。角色配音覆盖范围待逐项核实。",
+      "source": "https://www.madosoft.net/products"
+    },
+    {
+      "id": "g213-v1",
+      "workId": "g213",
+      "year": 2018,
+      "platform": "Windows",
+      "publisher": "まどそふと",
+      "publisherCompanies": [
+        "まどそふと"
+      ],
+      "kind": "成人向 PC 首发",
+      "voice": "未核实",
+      "differences": "官网记载的独立 PC 首发；成人向内容。角色配音覆盖范围待逐项核实。",
+      "source": "https://www.madosoft.net/products"
+    },
+    {
+      "id": "g213-v2",
+      "workId": "g213",
+      "year": 2019,
+      "platform": "PS4",
+      "publisher": "iMel",
+      "publisherCompanies": [
+        "iMel"
+      ],
+      "kind": "全年龄主机移植",
+      "voice": "未核实",
+      "differences": "iMel 销售／移植的主机版；与原成人 PC 版的分级不同。新增剧本和配音范围尚未核实。",
+      "source": "https://imel.co.jp/raspberry/"
+    },
+    {
+      "id": "g213-v3",
+      "workId": "g213",
+      "year": 2019,
+      "platform": "Nintendo Switch",
+      "publisher": "iMel",
+      "publisherCompanies": [
+        "iMel"
+      ],
+      "kind": "全年龄主机移植",
+      "voice": "未核实",
+      "differences": "iMel 销售／移植的主机版；与原成人 PC 版的分级不同。新增剧本和配音范围尚未核实。",
+      "source": "https://imel.co.jp/raspberry/"
+    },
+    {
+      "id": "g214-v1",
+      "workId": "g214",
+      "year": 2020,
+      "platform": "Windows",
+      "publisher": "まどそふと",
+      "publisherCompanies": [
+        "まどそふと"
+      ],
+      "kind": "成人向 PC 首发",
+      "voice": "未核实",
+      "differences": "官网记载的独立 PC 首发；成人向内容。角色配音覆盖范围待逐项核实。",
+      "source": "https://www.madosoft.net/products"
+    },
+    {
+      "id": "g214-v2",
+      "workId": "g214",
+      "year": 2021,
+      "platform": "PS4",
+      "publisher": "iMel",
+      "publisherCompanies": [
+        "iMel"
+      ],
+      "kind": "全年龄主机移植",
+      "voice": "未核实",
+      "differences": "iMel 销售／移植的主机版；与原成人 PC 版的分级不同。新增剧本和配音范围尚未核实。",
+      "source": "https://imel.co.jp/hamidashi/product"
+    },
+    {
+      "id": "g214-v3",
+      "workId": "g214",
+      "year": 2021,
+      "platform": "Nintendo Switch",
+      "publisher": "iMel",
+      "publisherCompanies": [
+        "iMel"
+      ],
+      "kind": "全年龄主机移植",
+      "voice": "未核实",
+      "differences": "iMel 销售／移植的主机版；与原成人 PC 版的分级不同。新增剧本和配音范围尚未核实。",
+      "source": "https://imel.co.jp/hamidashi/product"
+    },
+    {
+      "id": "g215-v1",
+      "workId": "g215",
+      "year": 2022,
+      "platform": "Windows",
+      "publisher": "まどそふと",
+      "publisherCompanies": [
+        "まどそふと"
+      ],
+      "kind": "成人向 PC 首发",
+      "voice": "未核实",
+      "differences": "官网记载的独立 PC 首发；成人向内容。角色配音覆盖范围待逐项核实。",
+      "source": "https://www.madosoft.net/products"
+    },
+    {
+      "id": "g216-v1",
+      "workId": "g216",
+      "year": 2024,
+      "platform": "Windows",
+      "publisher": "まどそふと",
+      "publisherCompanies": [
+        "まどそふと"
+      ],
+      "kind": "成人向 PC 首发",
+      "voice": "未核实",
+      "differences": "官网记载的独立 PC 首发；成人向内容。角色配音覆盖范围待逐项核实。",
+      "source": "https://www.madosoft.net/products"
+    },
+    {
+      "id": "g216-v2",
+      "workId": "g216",
+      "year": 2026,
+      "platform": "Nintendo Switch",
+      "publisher": "iMel",
+      "publisherCompanies": [
+        "iMel"
+      ],
+      "kind": "全年龄主机移植",
+      "voice": "未核实",
+      "differences": "iMel 销售／移植的主机版；与原成人 PC 版的分级不同。新增剧本和配音范围尚未核实。",
+      "source": "https://imel.co.jp/selectoblige/product"
+    },
+    {
+      "id": "g217-v1",
+      "workId": "g217",
+      "year": 2025,
+      "platform": "Windows",
+      "publisher": "まどそふと",
+      "publisherCompanies": [
+        "まどそふと"
+      ],
+      "kind": "成人向 PC 首发",
+      "voice": "未核实",
+      "differences": "官网记载的独立 PC 首发；成人向内容。角色配音覆盖范围待逐项核实。",
+      "source": "https://www.madosoft.net/products"
     }
   ]
 }

@@ -1031,6 +1031,177 @@
         "g206",
         "g207"
       ]
+    },
+    {
+      "id": "madosoft",
+      "name": "まどそふと",
+      "checkedAt": "2026-09-29",
+      "status": "官方 PC 游戏目录逐项核对",
+      "scope": "截至 2026 年 9 月 29 日，官方产品目录的成人 PC 游戏 10 项中，9 部已发行并独立销售，2027 年预定新作尚未计入；现有全年龄主机版并入对应原作。试听、ASMR、轻小说、合集及恶搞页面逐项说明。",
+      "versionScope": "登记 9 个 PC 首发记录，以及官网和 iMel 确认的 7 条 PS Vita、PS4、Nintendo Switch 平台移植；其他地区与数字版的独立上架日期尚未逐项确认，配音覆盖范围仅对官网明确记载的版本填“有”。",
+      "publisherNote": "按实际发行署名，まどそふと发行 9 部 PC 叙事游戏；四部作品的主机移植由 iMel 销售。厂商筛选按不同游戏数量统计，同一部作品的不同平台只计一次。",
+      "workIds": [
+        "g209",
+        "g210",
+        "g211",
+        "g212",
+        "g213",
+        "g214",
+        "g215",
+        "g216",
+        "g217"
+      ],
+      "publisherWorkIds": [
+        "g209",
+        "g210",
+        "g211",
+        "g212",
+        "g213",
+        "g214",
+        "g215",
+        "g216",
+        "g217"
+      ],
+      "catalogueEntryCount": 10,
+      "source": "https://www.madosoft.net/products",
+      "sectionTitle": "2013—2025：九部已发行独立作品",
+      "entries": [
+        {
+          "title": "ナマイキデレーション",
+          "status": "已收录",
+          "workIds": [
+            "g209"
+          ],
+          "reason": "单独发行的 PC 叙事游戏；剧情、角色和已核平台版本列在作品记录中。",
+          "source": "https://madosoft.net/namaiki/whatsnamaiki.php"
+        },
+        {
+          "title": "ヤキモチストリーム",
+          "status": "已收录",
+          "workIds": [
+            "g210"
+          ],
+          "reason": "单独发行的 PC 叙事游戏；剧情、角色和已核平台版本列在作品记录中。",
+          "source": "https://madosoft.net/yakimochi/point.php"
+        },
+        {
+          "title": "ワガママハイスペック",
+          "status": "已收录",
+          "workIds": [
+            "g211"
+          ],
+          "reason": "单独发行的 PC 叙事游戏；剧情、角色和已核平台版本列在作品记录中。",
+          "source": "https://imel.co.jp/wagahigh/story.php"
+        },
+        {
+          "title": "ワガママハイスペックOC",
+          "status": "已收录",
+          "workIds": [
+            "g212"
+          ],
+          "reason": "单独发行的 PC 叙事游戏；剧情、角色和已核平台版本列在作品记录中。",
+          "source": "https://madosoft.net/news/361"
+        },
+        {
+          "title": "ラズベリーキューブ",
+          "status": "已收录",
+          "workIds": [
+            "g213"
+          ],
+          "reason": "单独发行的 PC 叙事游戏；剧情、角色和已核平台版本列在作品记录中。",
+          "source": "https://madosoft.net/raspberry/story.html"
+        },
+        {
+          "title": "ハミダシクリエイティブ",
+          "status": "已收录",
+          "workIds": [
+            "g214"
+          ],
+          "reason": "单独发行的 PC 叙事游戏；剧情、角色和已核平台版本列在作品记录中。",
+          "source": "https://madosoft.net/hamidashi/story"
+        },
+        {
+          "title": "ハミダシクリエイティブ凸",
+          "status": "已收录",
+          "workIds": [
+            "g215"
+          ],
+          "reason": "单独发行的 PC 叙事游戏；剧情、角色和已核平台版本列在作品记录中。",
+          "source": "https://madosoft.net/totsu/story"
+        },
+        {
+          "title": "セレクトオブリージュ",
+          "status": "已收录",
+          "workIds": [
+            "g216"
+          ],
+          "reason": "单独发行的 PC 叙事游戏；剧情、角色和已核平台版本列在作品记录中。",
+          "source": "https://imel.co.jp/selectoblige/story"
+        },
+        {
+          "title": "ハミダシクリエイティブRe:Re:call",
+          "status": "已收录",
+          "workIds": [
+            "g217"
+          ],
+          "reason": "单独发行的 PC 叙事游戏；剧情、角色和已核平台版本列在作品记录中。",
+          "source": "https://madosoft.net/rerecall/story"
+        },
+        {
+          "title": "カフェトリカルカフェ",
+          "status": "未发行",
+          "workIds": [],
+          "reason": "官网标明 2027 年发售；截至核对日期未计已发行作品。",
+          "source": "https://www.madosoft.net/products"
+        },
+        {
+          "title": "四部作品的全年龄主机移植",
+          "status": "已归入版本",
+          "workIds": [
+            "g211",
+            "g213",
+            "g214",
+            "g216"
+          ],
+          "reason": "PS Vita、PS4、Nintendo Switch 共七条平台版本；由 iMel 发行，同一游戏在新平台上不再计作新作。",
+          "source": "https://imel.co.jp/activity/"
+        },
+        {
+          "title": "ヤキモチストリーム「プロローグ」Android",
+          "status": "试玩／序章",
+          "workIds": [
+            "g210"
+          ],
+          "reason": "iMel 的制作清单说明其为 PC 体验版的 Android 移植；不据此把完整游戏计作 Android 发售。",
+          "source": "https://imel.co.jp/activity/"
+        },
+        {
+          "title": "ワガママハイスペック ANOTHER WORLD",
+          "status": "愚人节页面",
+          "workIds": [],
+          "reason": "网页模仿商店，写有 madows Z、3017 年 4 月 1 日等戏仿信息；未核实正式发售，故不计作品。",
+          "source": "https://madosoft.net/wagahighaw/"
+        },
+        {
+          "title": "ハミダシクリエイティブ＆凸 Wパック",
+          "status": "合集",
+          "workIds": [
+            "g214",
+            "g215"
+          ],
+          "reason": "2024 年包含两部既有游戏的组合包，不另算一款剧情游戏。",
+          "source": "https://madosoft.net/hamidashi/news/1839"
+        },
+        {
+          "title": "ASMR／轻小说／LINE 贴图",
+          "status": "其他媒介",
+          "workIds": [],
+          "reason": "官方产品页另设音声、小说和表情贴纸栏目，不属于可操作的四类叙事游戏。",
+          "source": "https://www.madosoft.net/products"
+        }
+      ],
+      "auditLabel": "PC 游戏目录十项（九部已发行、一部预定）及主机移植与边界核查。",
+      "auditNote": "统计对象是已发行且单独销售的叙事游戏；移植平台另列版本，演示版、组合包和音声作品不重复计数。"
     }
   ]
 }
