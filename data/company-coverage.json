@@ -1444,6 +1444,220 @@
           "source": "https://store.steampowered.com/app/1662840/PARQUET/"
         }
       ]
+    },
+    {
+      "id": "innocent_grey",
+      "name": "Innocent Grey",
+      "checkedAt": "2026-09-29",
+      "status": "已发行独立叙事游戏逐项核对",
+      "scope": "收录 2005—2020 年 11 部已发行独立叙事游戏：包含一部独立发售的《和み匣》粉丝盘与四部 FLOWERS 季节篇。作品档案与 PROTOTYPE 主机目录、官方商店、国际发行商资料交叉核对。高清重制、主机合集、音乐音声和预定 2027 年合集不新计作品。",
+      "versionScope": "登记日文 Windows 首发、《カルタグラ》PS2／Switch 及重制、壳之少女三部曲高清或国际 PC 版，以及 FLOWERS 四季的 PSP、PS Vita、PS4、Switch、Steam 记录。地区与特别包装版本仍需逐项补查。",
+      "publisherNote": "Innocent Grey 为 Gungnir 的游戏品牌。本专题按该品牌开发的独立叙事游戏统计；实际平台发行方包含 KID、PROTOTYPE、JAST、MangaGamer 与 Shiravune，主数据库按版本署名分别筛选。",
+      "workIds": [
+        "g233",
+        "g234",
+        "g235",
+        "g236",
+        "g237",
+        "g238",
+        "g239",
+        "g240",
+        "g241",
+        "g242",
+        "g243"
+      ],
+      "publisherWorkIds": [
+        "g233",
+        "g234",
+        "g235",
+        "g236",
+        "g237",
+        "g238",
+        "g239",
+        "g240",
+        "g241",
+        "g242",
+        "g243"
+      ],
+      "catalogueEntryCount": 11,
+      "source": "https://ec.e-mart.jp/gungnir/products/list?category_id=2",
+      "sectionTitle": "从《カルタグラ》到《天ノ少女》",
+      "auditLabel": "11 部独立叙事游戏与重制、合集、非游戏商品处理记录。",
+      "auditNote": "官方旧版产品主页在核查时响应不稳定，因此旧作年份部分另结合官方合作发行商、旧版零售目录核对；此处的完整性限定为列明的品牌独立游戏，不声称涵盖每一种授权衍生或地区版本。",
+      "entries": [
+        {
+          "title": "カルタグラ ～ツキ狂イノ病～",
+          "status": "已收录",
+          "workIds": [
+            "g233"
+          ],
+          "reason": "独立发售的叙事游戏；有单独的作品 ID、剧情与首发记录。",
+          "source": "https://www.prot.co.jp/switch/cartagra/index.html"
+        },
+        {
+          "title": "PP -ピアニッシモ- 操リ人形ノ輪舞",
+          "status": "已收录",
+          "workIds": [
+            "g234"
+          ],
+          "reason": "独立发售的叙事游戏；有单独的作品 ID、剧情与首发记录。",
+          "source": "https://www.gungnir.co.jp/innocentgrey/products/pro_pianissimo/pp_index.html"
+        },
+        {
+          "title": "和み匣 Innocent Greyファンディスク",
+          "status": "已收录",
+          "workIds": [
+            "g235"
+          ],
+          "reason": "独立发售的叙事游戏；有单独的作品 ID、剧情与首发记录。",
+          "source": "https://www.prot.co.jp/switch/cartagra/index.html"
+        },
+        {
+          "title": "殻ノ少女",
+          "status": "已收录",
+          "workIds": [
+            "g236"
+          ],
+          "reason": "独立发售的叙事游戏；有单独的作品 ID、剧情与首发记录。",
+          "source": "https://ec.e-mart.jp/gungnir/products/detail/23"
+        },
+        {
+          "title": "クロウカシス 七憑キノ贄",
+          "status": "已收录",
+          "workIds": [
+            "g237"
+          ],
+          "reason": "独立发售的叙事游戏；有单独的作品 ID、剧情与首发记录。",
+          "source": "https://www.suruga-ya.jp/product/detail/145022276"
+        },
+        {
+          "title": "虚ノ少女",
+          "status": "已收录",
+          "workIds": [
+            "g238"
+          ],
+          "reason": "独立发售的叙事游戏；有单独的作品 ID、剧情与首发记录。",
+          "source": "https://www.gungnir.co.jp/innocentgrey/products/pro_vacant/"
+        },
+        {
+          "title": "FLOWERS -Le volume sur printemps-",
+          "status": "已收录",
+          "workIds": [
+            "g239"
+          ],
+          "reason": "独立发售的叙事游戏；有单独的作品 ID、剧情与首发记录。",
+          "source": "https://www.prot.co.jp/psv/flowers/introduction.html"
+        },
+        {
+          "title": "FLOWERS -Le volume sur été-",
+          "status": "已收录",
+          "workIds": [
+            "g240"
+          ],
+          "reason": "独立发售的叙事游戏；有单独的作品 ID、剧情与首发记录。",
+          "source": "https://www.prot.co.jp/psv/flowers2/introduction.html"
+        },
+        {
+          "title": "FLOWERS -Le volume sur automne-",
+          "status": "已收录",
+          "workIds": [
+            "g241"
+          ],
+          "reason": "独立发售的叙事游戏；有单独的作品 ID、剧情与首发记录。",
+          "source": "https://www.prot.co.jp/psv/flowers3/introduction.html"
+        },
+        {
+          "title": "FLOWERS -Le volume sur hiver-",
+          "status": "已收录",
+          "workIds": [
+            "g242"
+          ],
+          "reason": "独立发售的叙事游戏；有单独的作品 ID、剧情与首发记录。",
+          "source": "https://www.prot.co.jp/psv/flowers4/introduction.html"
+        },
+        {
+          "title": "天ノ少女",
+          "status": "已收录",
+          "workIds": [
+            "g243"
+          ],
+          "reason": "独立发售的叙事游戏；有单独的作品 ID、剧情与首发记录。",
+          "source": "https://ec.e-mart.jp/gungnir/products/detail/25"
+        },
+        {
+          "title": "カルタグラ ～魂ノ苦悩～／REBIRTH／Switch／CARTAGRA",
+          "status": "并入同一作品",
+          "workIds": [
+            "g233"
+          ],
+          "reason": "PS2 增补、2023 高清重制与 2026 主机及 Steam 版逐版本登记。",
+          "source": "https://www.prot.co.jp/switch/cartagra/index.html"
+        },
+        {
+          "title": "殻ノ少女 HD／The Shell Part I",
+          "status": "并入同一作品",
+          "workIds": [
+            "g236"
+          ],
+          "reason": "HD 主人公配音版与国际版分别登记，作品数不重复。",
+          "source": "https://ec.e-mart.jp/gungnir/products/detail/23"
+        },
+        {
+          "title": "虚ノ少女 NEW CAST／The Shell Part II",
+          "status": "并入同一作品",
+          "workIds": [
+            "g238"
+          ],
+          "reason": "新配音重制和国际版合并计作品。",
+          "source": "https://store.steampowered.com/app/2712550/The_Shell_Part_II_Purgatorio/"
+        },
+        {
+          "title": "The Shell Part III",
+          "status": "并入同一作品",
+          "workIds": [
+            "g243"
+          ],
+          "reason": "《天ノ少女》的国际版本，不另建作品。",
+          "source": "https://store.steampowered.com/app/3296790/The_Shell_Part_III_Paradiso/"
+        },
+        {
+          "title": "FLOWERS 四季（PS4／Switch）",
+          "status": "合集不另计",
+          "workIds": [
+            "g239",
+            "g240",
+            "g241",
+            "g242"
+          ],
+          "reason": "四篇的合集平台发行，分别登记为各季版本，不新增第五部 FLOWERS 游戏。",
+          "source": "https://www.prot.co.jp/switch/flowersq/introduction.html"
+        },
+        {
+          "title": "パラノイア Innocent Grey premium box",
+          "status": "合集不另计",
+          "workIds": [],
+          "reason": "五周年既有作品合辑，不是新叙事游戏。",
+          "source": "https://www.gungnir.co.jp/innocentgrey/products.html"
+        },
+        {
+          "title": "2027 年 Karanoshojo Complete Box",
+          "status": "未发行且为合集",
+          "workIds": [
+            "g236",
+            "g238",
+            "g243"
+          ],
+          "reason": "截至核查日为预定 2027 年发行的三部曲合集，不计入已发行作品或平台版本。",
+          "source": "https://ec.e-mart.jp/gungnir/products/list?category_id=2"
+        },
+        {
+          "title": "FLOWERS 声音剧／音乐／画集",
+          "status": "非可游玩游戏",
+          "workIds": [],
+          "reason": "官方商店分类中另有音声 CD、配乐、日历与画集；不混入游戏作品数。",
+          "source": "https://ec.e-mart.jp/gungnir/products/list?category_id=2"
+        }
+      ]
     }
   ]
 }
