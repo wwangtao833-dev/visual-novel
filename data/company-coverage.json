@@ -1658,6 +1658,280 @@
           "source": "https://ec.e-mart.jp/gungnir/products/list?category_id=2"
         }
       ]
+    },
+    {
+      "id": "minori",
+      "name": "minori",
+      "checkedAt": "2026-09-29",
+      "status": "已发行叙事作品与相关预览盘逐项核对",
+      "scope": "收录 minori 2001—2019 年独立发行的 19 部可游玩叙事作品：14 部主要作品（《ef》前后篇分列）及 5 部独立发行的前传或 Fan Disc。未新增纯文本指令、图文指令游戏。预览盘、增强版、合集与动作平台游戏分别说明。",
+      "versionScope": "19 条日文 PC 首发记录，另登记已核实的 9 条 Steam 或 ENTERGRAM 主机发行记录。并非穷尽各地区、各种廉价版及所有历史移植；原版角色配音缺少可核实资料时保持未核实。",
+      "publisherNote": "minori 为原版发行品牌；后来的 Steam 英文版由 MangaGamer 发行，部分主机移植由 ENTERGRAM 发行。主数据库按平台版本实际发行署名筛选，专题按原作品牌汇总。",
+      "workIds": [
+        "g244",
+        "g245",
+        "g246",
+        "g247",
+        "g248",
+        "g249",
+        "g250",
+        "g251",
+        "g252",
+        "g253",
+        "g254",
+        "g255",
+        "g256",
+        "g257",
+        "g258",
+        "g259",
+        "g260",
+        "g261",
+        "g262"
+      ],
+      "publisherWorkIds": [
+        "g244",
+        "g245",
+        "g246",
+        "g247",
+        "g248",
+        "g249",
+        "g250",
+        "g251",
+        "g252",
+        "g253",
+        "g254",
+        "g255",
+        "g256",
+        "g257",
+        "g258",
+        "g259",
+        "g260",
+        "g261",
+        "g262"
+      ],
+      "catalogueEntryCount": 15,
+      "source": "https://www.minori.ph/lineup/",
+      "sectionTitle": "从《BITTERSWEET FOOLS》到《その日の獣には、》",
+      "auditLabel": "官网主目录 15 个栏目（《ef》前后篇分列），另补核独立前传和 Fan Disc。",
+      "auditNote": "“19 部”指上述独立发行的可玩叙事作品，含五部前传或 Fan Disc；不等同于官网主目录 15 个栏目数。预览光盘及版本合辑的收录边界在下表逐项说明。",
+      "entries": [
+        {
+          "title": "BITTERSWEET FOOLS",
+          "status": "已收录",
+          "workIds": [
+            "g244"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/bsf/index.html"
+        },
+        {
+          "title": "Wind -a breath of heart-",
+          "status": "已收录",
+          "workIds": [
+            "g245"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/wind/index.html"
+        },
+        {
+          "title": "そよかぜのおくりもの -Wind Pleasurable Box-",
+          "status": "已收录",
+          "workIds": [
+            "g246"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/soyokaze/index.html"
+        },
+        {
+          "title": "はるのあしおと",
+          "status": "已收录",
+          "workIds": [
+            "g247"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/haru/index.html"
+        },
+        {
+          "title": "ANGEL TYPE",
+          "status": "已收录",
+          "workIds": [
+            "g248"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/at/index.html"
+        },
+        {
+          "title": "さくらのさくころ -はるのあしおと Pleasurable Box-",
+          "status": "已收录",
+          "workIds": [
+            "g249"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/sakura/index.html"
+        },
+        {
+          "title": "ef - the first tale.",
+          "status": "已收录",
+          "workIds": [
+            "g250"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/ef/index.html"
+        },
+        {
+          "title": "ef - the latter tale.",
+          "status": "已收录",
+          "workIds": [
+            "g251"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/ef/index.html"
+        },
+        {
+          "title": "eden* They were only two, on the planet.",
+          "status": "已收录",
+          "workIds": [
+            "g252"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/eden_/"
+        },
+        {
+          "title": "天使の日曜日 “ef - a fairy tale of the two.” Pleasurable Box.",
+          "status": "已收录",
+          "workIds": [
+            "g253"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.suruga-ya.jp/product/detail/145024850"
+        },
+        {
+          "title": "すぴぱら NICE TO MEET YOU!",
+          "status": "已收录",
+          "workIds": [
+            "g254"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.suruga-ya.jp/product/detail/145031086"
+        },
+        {
+          "title": "すぴぱら - Alice the magical conductor. STORY #01 - Spring Has Come!",
+          "status": "已收录",
+          "workIds": [
+            "g255"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/sppl/"
+        },
+        {
+          "title": "夏空のペルセウス",
+          "status": "已收录",
+          "workIds": [
+            "g256"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/perseus/"
+        },
+        {
+          "title": "12の月のイヴ",
+          "status": "已收录",
+          "workIds": [
+            "g257"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/12mooneve/"
+        },
+        {
+          "title": "ソレヨリノ前奏詩",
+          "status": "已收录",
+          "workIds": [
+            "g258"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/_yorino/"
+        },
+        {
+          "title": "罪ノ光ランデヴー",
+          "status": "已收录",
+          "workIds": [
+            "g259"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/_tsuminohi/"
+        },
+        {
+          "title": "トリノライン",
+          "status": "已收录",
+          "workIds": [
+            "g260"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/trinoline/"
+        },
+        {
+          "title": "トリノライン：ジェネシス",
+          "status": "已收录",
+          "workIds": [
+            "g261"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/trinoline/_index01_.html"
+        },
+        {
+          "title": "その日の獣には、",
+          "status": "已收录",
+          "workIds": [
+            "g262"
+          ],
+          "reason": "独立发行的可游玩叙事作品；原版作为作品与版本记录。",
+          "source": "https://www.minori.ph/lineup/sonokemo/"
+        },
+        {
+          "title": "ef - First Fan Disc／ef - Second Fan Mix",
+          "status": "预览盘不另计",
+          "workIds": [
+            "g250",
+            "g251"
+          ],
+          "reason": "两张前后篇发行前的预览／宣传光盘，不当作另两部完整的叙事作品。",
+          "source": "https://www.suruga-ya.jp/product/detail/145014665"
+        },
+        {
+          "title": "Wind -a breath of heart- Re:gratitude",
+          "status": "增强版并入原作",
+          "workIds": [
+            "g245"
+          ],
+          "reason": "追加或调整内容的版本，不是全新的故事本篇。",
+          "source": "https://www.minori.ph/lineup/wind/index.html"
+        },
+        {
+          "title": "eden* PLUS+MOSAIC",
+          "status": "追加版并入原作",
+          "workIds": [
+            "g252"
+          ],
+          "reason": "附加内容版本；原作不因此重复计数。",
+          "source": "https://store.steampowered.com/publisher/minori"
+        },
+        {
+          "title": "Killjoy Hunter Yuuko",
+          "status": "跨类型游戏不进入四类目录",
+          "workIds": [],
+          "reason": "《ef》衍生的横版动作平台游戏，尽管 2019 年在 Steam 独立发行，主要玩法不属于本数据库四类叙事游戏。",
+          "source": "https://store.steampowered.com/app/1148470/Killjoy_Hunter_Yuuko/"
+        },
+        {
+          "title": "《ef》PS2 合集／其他主机和 Steam 移植",
+          "status": "移植与合集不另计",
+          "workIds": [
+            "g250",
+            "g251"
+          ],
+          "reason": "前后篇的合辑和本地化按原作品归档；专题仅列已逐项核实的版本。",
+          "source": "https://store.steampowered.com/publisher/minori"
+        }
+      ]
     }
   ]
 }
