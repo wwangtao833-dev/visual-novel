@@ -2,7 +2,7 @@
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
     "updated": "2026-09-29",
-    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题综合官方合集、旧站及短篇记录，已登记 9 部独立发布的叙事游戏；包括两部洋馆假日、两部人气投票短篇及胡萝卜蛋糕事件。合集和内含新增篇章另作版本与内容说明，未核实字段明确标记。 ANIPLEX.EXE 专题按其官网四部作品核对；品牌项目期数与独立游戏数不同。 sprite 专题核对三部主作品与两部独立 EXTRA 外传，并单列 Edia 授权卡牌游戏；按实际发行署名区分作品品牌与厂商。 复核 sprite 发行署名后，补记《苍彼》移动版及 Perfect、High Resolution、Ultimate 增强版；sprite 品牌五部独立叙事游戏中，实际由 sprite 发行的为四部。 まどそふと专题对照官方 PC 产品目录，已收录 9 部已发行叙事游戏，另为四部作品登记五个主机平台版本；主机发行署名记为 iMel。",
+    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题综合官方合集、旧站及短篇记录，已登记 9 部独立发布的叙事游戏；包括两部洋馆假日、两部人气投票短篇及胡萝卜蛋糕事件。合集和内含新增篇章另作版本与内容说明，未核实字段明确标记。 ANIPLEX.EXE 专题按其官网四部作品核对；品牌项目期数与独立游戏数不同。 sprite 专题核对三部主作品与两部独立 EXTRA 外传，并单列 Edia 授权卡牌游戏；按实际发行署名区分作品品牌与厂商。 复核 sprite 发行署名后，补记《苍彼》移动版及 Perfect、High Resolution、Ultimate 增强版；sprite 品牌五部独立叙事游戏中，实际由 sprite 发行的为四部。 まどそふと专题对照官方 PC 产品目录，已收录 9 部已发行叙事游戏，另为四部作品登记五个主机平台版本；主机发行署名记为 iMel。 2026 年 9 月 29 日补查动画 Blu-ray 特典有声 ADV（单独作品条目）、Mobage／GREE 及七条 Steam 国际发行版本；官方九部独立零售作品口径不变。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
   "works": [
@@ -3731,6 +3731,26 @@
       "synopsis": "智宏在同人展担任工作人员时，遇到原作中的对手、另一所学校的学生会长圣莉莉子；独立发行的短篇将她作为主角展开新恋爱故事。",
       "notes": "官网单独发行的 PC 叙事游戏；未将试玩版、礼包或音声作品另计作品。",
       "source": "https://madosoft.net/rerecall/story"
+    },
+    {
+      "id": "g218",
+      "title": "任性 High Spec：特典有声短篇 ADV",
+      "originalTitle": "ワガママハイスペック Blu-ray 初回限定特装版 特典オリジナルショートストーリーADV",
+      "firstYear": 2016,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "校园／喜剧／五篇短篇",
+      "characters": [
+        "鸣海幸树",
+        "鹿苑寺薰子",
+        "樱木·R·亚谢",
+        "鸣海兔亚",
+        "宫濑未寻"
+      ],
+      "charactersNote": "",
+      "synopsis": "动画版五篇番外故事：薰子为绘图灵感发愁，亚谢在忙碌中收到意外的浴盐，兔亚因事故失忆，未寻烹调神秘食材；另一篇描写学生会女生到兔亚家开睡衣派对。",
+      "notes": "2016 年动画 Blu-ray 初回限定特装版的下载卡附赠 PC 短篇 ADV，动画声优出演；五篇合为一款特典游戏，不按篇数计作五部，也不属于独立零售的九部 PC 本篇。",
+      "source": "https://whanime.com/blu-ray.php"
     }
   ],
   "versions": [
@@ -9794,6 +9814,149 @@
       "voice": "未核实",
       "differences": "官网记载的独立 PC 首发；成人向内容。角色配音覆盖范围待逐项核实。",
       "source": "https://www.madosoft.net/products"
+    },
+    {
+      "id": "g218-v1",
+      "workId": "g218",
+      "year": 2016,
+      "platform": "Windows",
+      "publisher": "まどそふと",
+      "publisherCompanies": [
+        "まどそふと"
+      ],
+      "kind": "Blu-ray 特装版附赠下载卡",
+      "voice": "有",
+      "differences": "2016 年 8 月 26 日上市的动画 Blu-ray 初回限定特装版附赠；PC 可游玩的五篇新故事，以动画版声优配音。并非另行零售的 PC 游戏。",
+      "source": "https://whanime.com/blu-ray.php"
+    },
+    {
+      "id": "g209-v2",
+      "workId": "g209",
+      "year": 2016,
+      "platform": "Mobage（移动服务）",
+      "publisher": "发行方待核实（Mobage）",
+      "publisherCompanies": [
+        "发行方待核实"
+      ],
+      "kind": "移动服务版",
+      "voice": "未核实",
+      "differences": "官网于 2016 年 8 月 4 日宣布 Mobage 版公开；确切上线日、实际发行署名与版本内容差异仍待核实。",
+      "source": "https://madosoft.net/news/303"
+    },
+    {
+      "id": "g209-v3",
+      "workId": "g209",
+      "year": 2016,
+      "platform": "GREE（移动服务）",
+      "publisher": "发行方待核实（GREE）",
+      "publisherCompanies": [
+        "发行方待核实"
+      ],
+      "kind": "移动服务版",
+      "voice": "未核实",
+      "differences": "官网于 2016 年 8 月 4 日宣布 GREE 版公开；确切上线日、实际发行署名与版本内容差异仍待核实。",
+      "source": "https://madosoft.net/news/303"
+    },
+    {
+      "id": "g210-v2",
+      "workId": "g210",
+      "year": 2022,
+      "platform": "Windows（Steam）",
+      "publisher": "mirai works / OTAKU Plan",
+      "publisherCompanies": [
+        "mirai works",
+        "OTAKU Plan"
+      ],
+      "kind": "Steam 数字版",
+      "voice": "有",
+      "differences": "2022 年 1 月 21 日由 mirai works 与 OTAKU Plan 署名发行；商店标示简体中文界面、日文角色语音。",
+      "source": "https://store.steampowered.com/app/1346770/YAKIMOCHI_STREAM/"
+    },
+    {
+      "id": "g211-v4",
+      "workId": "g211",
+      "year": 2017,
+      "platform": "Windows（Steam）",
+      "publisher": "Sekai Project",
+      "publisherCompanies": [
+        "Sekai Project"
+      ],
+      "kind": "Steam 国际版",
+      "voice": "未核实",
+      "differences": "2017 年 7 月 26 日上架，发行署名 Sekai Project；同年 PS Vita 日本版是另一平台，由 iMel 发行。",
+      "source": "https://store.steampowered.com/app/575480/WAGAMAMA_HIGH_SPEC/"
+    },
+    {
+      "id": "g212-v2",
+      "workId": "g212",
+      "year": 2025,
+      "platform": "Windows（Steam）",
+      "publisher": "Sekai Project",
+      "publisherCompanies": [
+        "Sekai Project"
+      ],
+      "kind": "Steam 国际版",
+      "voice": "有",
+      "differences": "2025 年 12 月 15 日独立上架；七篇女主角后日谈与配角新故事，可任意选读。日文角色配音（男主角除外），英语文本在 2026 年更新。",
+      "source": "https://store.steampowered.com/app/3943440/WAGAMAMA_HIGH_SPEC_OC/"
+    },
+    {
+      "id": "g213-v4",
+      "workId": "g213",
+      "year": 2022,
+      "platform": "Windows（Steam）",
+      "publisher": "Sekai Project",
+      "publisherCompanies": [
+        "Sekai Project"
+      ],
+      "kind": "Steam 数字版",
+      "voice": "有",
+      "differences": "2022 年 11 月 4 日由 Sekai Project 发行；商店标示简体中文文本及日文语音（男主角除外）。",
+      "source": "https://store.steampowered.com/app/2001970/Raspberry_Cube/"
+    },
+    {
+      "id": "g214-v4",
+      "workId": "g214",
+      "year": 2022,
+      "platform": "Windows（Steam）",
+      "publisher": "TamaMako gaming / Sekai Project",
+      "publisherCompanies": [
+        "TamaMako gaming",
+        "Sekai Project"
+      ],
+      "kind": "Steam 数字版",
+      "voice": "未核实",
+      "differences": "2022 年 9 月 30 日由 TamaMako gaming 与 Sekai Project 联名发行；商店说明该版本省略成人情节。",
+      "source": "https://store.steampowered.com/app/1604380/Hamidashi_Creative/"
+    },
+    {
+      "id": "g215-v2",
+      "workId": "g215",
+      "year": 2025,
+      "platform": "Windows（Steam）",
+      "publisher": "TamaMako gaming / Sekai Project",
+      "publisherCompanies": [
+        "TamaMako gaming",
+        "Sekai Project"
+      ],
+      "kind": "Steam DLC",
+      "voice": "未核实",
+      "differences": "2025 年 3 月 27 日由 TamaMako gaming 与 Sekai Project 联名发行；此 Steam 形式须先拥有《超常规创意》本篇，与可单独购买的 2022 年 PC 版发行方式不同。",
+      "source": "https://store.steampowered.com/app/3407830/Hamidashi_Creative_Totsu/"
+    },
+    {
+      "id": "g216-v3",
+      "workId": "g216",
+      "year": 2024,
+      "platform": "Windows（Steam）",
+      "publisher": "HIKARI FIELD",
+      "publisherCompanies": [
+        "HIKARI FIELD"
+      ],
+      "kind": "Steam 多语言版",
+      "voice": "有",
+      "differences": "2024 年 11 月 8 日上架；含中、英、日文界面与日文语音；Steam 发行署名 HIKARI FIELD。",
+      "source": "https://store.steampowered.com/app/2947250/Select_Oblige/"
     }
   ]
 }

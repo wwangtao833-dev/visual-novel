@@ -1037,9 +1037,9 @@
       "name": "まどそふと",
       "checkedAt": "2026-09-29",
       "status": "官方 PC 游戏目录逐项核对",
-      "scope": "截至 2026 年 9 月 29 日，官方产品目录的成人 PC 游戏 10 项中，9 部已发行并独立销售，2027 年预定新作尚未计入；现有全年龄主机版并入对应原作。试听、ASMR、轻小说、合集及恶搞页面逐项说明。",
-      "versionScope": "登记 9 个 PC 首发记录，以及官网和 iMel 确认的 7 条 PS Vita、PS4、Nintendo Switch 平台移植；其他地区与数字版的独立上架日期尚未逐项确认，配音覆盖范围仅对官网明确记载的版本填“有”。",
-      "publisherNote": "按实际发行署名，まどそふと发行 9 部 PC 叙事游戏；四部作品的主机移植由 iMel 销售。厂商筛选按不同游戏数量统计，同一部作品的不同平台只计一次。",
+      "scope": "官网成人 PC 游戏目录的 10 项中，9 部是已发行并独立销售的叙事作品，另 1 部标为 2027 年预定。本专题另补记 2016 年动画 Blu-ray 特装版附赠、可以在 PC 游玩的五篇有声短篇 ADV，按一部特典游戏单列：共 10 部可游玩的相关叙事作品，其中独立零售的仍为 9 部。",
+      "versionScope": "记录九部 PC 本篇首发、一部 Blu-ray 特典游戏、七条全年龄主机移植、两条 Mobage／GREE 移动服务及七条不同发行方的 Steam 版本，共 26 条平台记录；在线平台实际发行方无法确认时明确标注待核实。",
+      "publisherNote": "按单独发售的本篇计，まどそふと有 9 部叙事游戏；把其发行的动画 Blu-ray 附赠 PC 短篇 ADV 也作为可游玩作品收录时，共 10 部。主机、Steam 与移动服务另按各版本实际或待核实的发行署名分别记录。",
       "workIds": [
         "g209",
         "g210",
@@ -1049,7 +1049,8 @@
         "g214",
         "g215",
         "g216",
-        "g217"
+        "g217",
+        "g218"
       ],
       "publisherWorkIds": [
         "g209",
@@ -1060,11 +1061,12 @@
         "g214",
         "g215",
         "g216",
-        "g217"
+        "g217",
+        "g218"
       ],
       "catalogueEntryCount": 10,
       "source": "https://www.madosoft.net/products",
-      "sectionTitle": "2013—2025：九部已发行独立作品",
+      "sectionTitle": "九部独立游戏与一部可游玩的特典短篇",
       "entries": [
         {
           "title": "ナマイキデレーション",
@@ -1198,10 +1200,52 @@
           "workIds": [],
           "reason": "官方产品页另设音声、小说和表情贴纸栏目，不属于可操作的四类叙事游戏。",
           "source": "https://www.madosoft.net/products"
+        },
+        {
+          "title": "ワガママハイスペック Blu-ray 特装版特典短篇 ADV",
+          "status": "补充特典游戏",
+          "workIds": [
+            "g218"
+          ],
+          "reason": "2016 年随动画 Blu-ray 特装版的下载卡附赠；五篇动画声优配音短篇，在 Windows 可游玩，合计一款附赠游戏而非独立零售本篇。",
+          "source": "https://whanime.com/blu-ray.php"
+        },
+        {
+          "title": "ナマイキデレーション Mobage／GREE 版",
+          "status": "补充已公开版本",
+          "workIds": [
+            "g209"
+          ],
+          "reason": "官网 2016 年公告确认两个移动服务版；该平台运营方不等于游戏发行公司，实际发行署名保留待核实。",
+          "source": "https://madosoft.net/news/303"
+        },
+        {
+          "title": "七条 Steam 国际发行版本",
+          "status": "补充已发行版本",
+          "workIds": [
+            "g210",
+            "g211",
+            "g212",
+            "g213",
+            "g214",
+            "g215",
+            "g216"
+          ],
+          "reason": "按各 Steam 商店页单列平台、年份与发行商；Steam 的《超常规创意 凸》以需本篇的 DLC 形式发布。",
+          "source": "https://store.steampowered.com/bundle/48845/Madosoft_Collection/"
+        },
+        {
+          "title": "ナマデレ「プロローグ」Android",
+          "status": "试玩版，不另计",
+          "workIds": [
+            "g209"
+          ],
+          "reason": "官网明确写为从原作体验版截取的序章、没有新增内容；与 2016 年 Mobage／GREE 版区分。",
+          "source": "https://madosoft.net/namaiki/"
         }
       ],
       "auditLabel": "PC 游戏目录十项（九部已发行、一部预定）及主机移植与边界核查。",
-      "auditNote": "统计对象是已发行且单独销售的叙事游戏；移植平台另列版本，演示版、组合包和音声作品不重复计数。"
+      "auditNote": "九部指独立零售的游戏；十部包括 2016 年 Blu-ray 特典的可游玩短篇 ADV。五篇短篇合计一条作品记录；2027 年预定新作、试玩版、单纯音声作品和合集不计。"
     }
   ]
 }

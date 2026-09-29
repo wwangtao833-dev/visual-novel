@@ -4,7 +4,7 @@
 
 ## 数据范围
 
-当前收录 **217 部代表作品、430 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、Leaf、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
+当前收录 **218 部代表作品、440 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、Leaf、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
 
 作品主分类是一种检索入口，并非互斥的学术分类：一部恋爱视觉小说也可能属于广义 Galgame。视觉小说的“有声小说”可能只有音乐和音效，配音字段专指游戏内角色人声。
 
@@ -61,4 +61,6 @@
 
 **sprite 厂商计数更正（2026-09-28）：**上述五部是按 sprite 品牌参与制作的游戏核对；按版本的发行方署名筛选，sprite／sprite games 的独立叙事作品是 **4 部**。`everlasting flowers` 的已发行版本署名 RIGHTWAY。此次补记《苍彼》2018 年 iOS、Android 手机版，以及本篇和外传的 2018 Perfect、2020 High Resolution、2025 Ultimate 等共 8 条版本；这类内容更新不新增作品 ID。
 
-已新增 [まどそふと厂商专题](madosoft.html)：对照官网 PC 游戏目录，收录 **9 部已发行叙事游戏、16 条主要平台版本记录**，其中七条为 iMel 发行的 PS Vita、PS4、Nintendo Switch 移植。2027 年新作、安卓试玩序章、2024 双作合集、愚人节商品页与 ASMR 音声均在核对清单中说明，不混入游戏数。
+已新增 [まどそふと厂商专题](madosoft.html)：对照官网 PC 游戏目录，收录 **9 部独立零售叙事游戏**，另单列一部随动画 Blu-ray 特装版附赠的可游玩有声短篇 ADV；两者合计 **10 部叙事作品、26 条主要平台版本记录**。记录包含 iMel 的七条主机移植、Mobage／GREE 两条移动服务和另由不同厂商发行的七条 Steam 版本。2027 年新作、安卓试玩序章、2024 双作合集、愚人节商品页与 ASMR 音声均在核对清单中说明，不混入游戏数。
+
+**まどそふと二次核对（2026-09-29）：** 独立销售的九部本篇数不变；官方动画 Blu-ray 特装版有五篇可在 Windows 游玩的配音短篇 ADV，作为一款附赠游戏记 `g218`，不误计为五部作品。补录官方公告确认的《ナマイキデレーション》Mobage 与 GREE 版，以及 Steam 已发行的七款不同作品版本。其余手机序章、附赠动画本体与组合销售均在专题核对清单说明。

@@ -43,7 +43,9 @@
     "VISUAL ARTS": "VisualArt’s",
     "VisualArt’s（ビジュアルアーツ★Motto）": "VisualArt’s",
     "Novectacle": "NOVECT",
-    "sprite games": "sprite"
+    "sprite games": "sprite",
+    "发行方待核实（Mobage）": "发行方待核实",
+    "发行方待核实（GREE）": "发行方待核实"
   },
   "nonCompanyCredits": [
     "Will Crowther（作者传播）",
@@ -97,6 +99,14 @@
     "NekoNyan Ltd. / HIKARI FIELD": [
       "NekoNyan Ltd.",
       "HIKARI FIELD"
+    ],
+    "mirai works / OTAKU Plan": [
+      "mirai works",
+      "OTAKU Plan"
+    ],
+    "TamaMako gaming / Sekai Project": [
+      "TamaMako gaming",
+      "Sekai Project"
     ]
   }
 }
