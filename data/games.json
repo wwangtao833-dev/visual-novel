@@ -2,7 +2,7 @@
   "meta": {
     "title": "文字冒险、视觉小说、互动动画与Galgame作品库",
     "updated": "2026-09-29",
-    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题综合官方合集、旧站及短篇记录，已登记 9 部独立发布的叙事游戏；包括两部洋馆假日、两部人气投票短篇及胡萝卜蛋糕事件。合集和内含新增篇章另作版本与内容说明，未核实字段明确标记。 ANIPLEX.EXE 专题按其官网四部作品核对；品牌项目期数与独立游戏数不同。 sprite 专题核对三部主作品与两部独立 EXTRA 外传，并单列 Edia 授权卡牌游戏；按实际发行署名区分作品品牌与厂商。 复核 sprite 发行署名后，补记《苍彼》移动版及 Perfect、High Resolution、Ultimate 增强版；sprite 品牌五部独立叙事游戏中，实际由 sprite 发行的为四部。 まどそふと专题对照官方 PC 产品目录，已收录 9 部已发行叙事游戏，另为四部作品登记五个主机平台版本；主机发行署名记为 iMel。 2026 年 9 月 29 日补查动画 Blu-ray 特典有声 ADV（单独作品条目）、Mobage／GREE 及七条 Steam 国际发行版本；官方九部独立零售作品口径不变。",
+    "scope": "精选可核查作品，非全量目录。重点补充 1976—1985 年大型机、英日文字与图文冒险、互动动画及早期成人向冒险；年份异文和平台待核项见作品备注。 后续按发行厂商补充选择式文字冒险、视觉小说与 Galgame；新补作品不收录纯文本指令和图文指令玩法。 Key 厂商专题已对照官方产品目录逐项核对，包含独立叙事作品与外传；平台版本仍按可核来源逐步补齐。 NOVECT（旧 Novectacle）专题综合官方合集、旧站及短篇记录，已登记 9 部独立发布的叙事游戏；包括两部洋馆假日、两部人气投票短篇及胡萝卜蛋糕事件。合集和内含新增篇章另作版本与内容说明，未核实字段明确标记。 ANIPLEX.EXE 专题按其官网四部作品核对；品牌项目期数与独立游戏数不同。 sprite 专题核对三部主作品与两部独立 EXTRA 外传，并单列 Edia 授权卡牌游戏；按实际发行署名区分作品品牌与厂商。 复核 sprite 发行署名后，补记《苍彼》移动版及 Perfect、High Resolution、Ultimate 增强版；sprite 品牌五部独立叙事游戏中，实际由 sprite 发行的为四部。 まどそふと专题对照官方 PC 产品目录，已收录 9 部已发行叙事游戏，另为四部作品登记五个主机平台版本；主机发行署名记为 iMel。 2026 年 9 月 29 日补查动画 Blu-ray 特典有声 ADV（单独作品条目）、Mobage／GREE 及七条 Steam 国际发行版本；官方九部独立零售作品口径不变。 柚子社主品牌已按官网收录 13 部独立本篇，另单列全年龄姐妹品牌《PARQUET》；同一作品的廉价版、PSP 移植和 Steam 国际版按版本归档。",
     "voiceDefinition": "角色在游戏中的人声；背景音乐或磁带宣传语音不自动计入。"
   },
   "works": [
@@ -3751,6 +3751,256 @@
       "synopsis": "动画版五篇番外故事：薰子为绘图灵感发愁，亚谢在忙碌中收到意外的浴盐，兔亚因事故失忆，未寻烹调神秘食材；另一篇描写学生会女生到兔亚家开睡衣派对。",
       "notes": "2016 年动画 Blu-ray 初回限定特装版的下载卡附赠 PC 短篇 ADV，动画声优出演；五篇合为一款特典游戏，不按篇数计作五部，也不属于独立零售的九部 PC 本篇。",
       "source": "https://whanime.com/blu-ray.php"
+    },
+    {
+      "id": "g219",
+      "title": "管乐恋曲",
+      "originalTitle": "ぶらばん！ -The bonds of melody-",
+      "firstYear": 2006,
+      "category": "Galgame",
+      "genre": "校园管乐／社团恋爱",
+      "characters": [
+        "中ノ島妙",
+        "雲雀丘由貴"
+      ],
+      "charactersNote": "",
+      "synopsis": "旧校停办后，主人公带领原校管乐社，与新学校的强队进行决定社团存续的校内竞演。",
+      "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
+      "source": "https://legacy.yuzu-soft.com/buraban/",
+      "subcategory": "恋爱剧情冒险"
+    },
+    {
+      "id": "g220",
+      "title": "E×E",
+      "originalTitle": "E×E",
+      "firstYear": 2007,
+      "category": "Galgame",
+      "genre": "校园异能／悬疑战斗",
+      "characters": [
+        "伏見籐矢",
+        "伏見真姫奈",
+        "白峯沙耶"
+      ],
+      "charactersNote": "",
+      "synopsis": "医院大火夺走母亲十年后，籐矢遇见看似亡母的人并遭袭，追查火灾与医院研究的真相。",
+      "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
+      "source": "https://legacy.yuzu-soft.com/exe/",
+      "subcategory": "恋爱剧情冒险"
+    },
+    {
+      "id": "g221",
+      "title": "夏空彼方",
+      "originalTitle": "夏空カナタ",
+      "firstYear": 2008,
+      "category": "Galgame",
+      "genre": "海岛／记忆／恋爱",
+      "characters": [
+        "朝倉壮太",
+        "上坂茅羽耶",
+        "三好由比子"
+      ],
+      "charactersNote": "",
+      "synopsis": "壮太在常夏的塔弦岛与茅羽耶相恋，却发现她因事故只能保有三天记忆，于是追寻少女与岛的秘密。",
+      "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
+      "source": "https://legacy.yuzu-soft.com/natsu/",
+      "subcategory": "恋爱剧情冒险"
+    },
+    {
+      "id": "g222",
+      "title": "天神乱漫",
+      "originalTitle": "天神乱漫 -LUCKY or UNLUCKY!?-",
+      "firstYear": 2009,
+      "category": "Galgame",
+      "genre": "校园／神明／恋爱",
+      "characters": [
+        "千歳春樹",
+        "卯花之佐久夜姫",
+        "千歳佐奈"
+      ],
+      "charactersNote": "",
+      "synopsis": "总是倒霉的春樹收到装着自称神明少女的包裹；她为了消除他的不幸住进家中，掀起接连不断的风波。",
+      "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
+      "source": "https://legacy.yuzu-soft.com/tenshin/",
+      "subcategory": "恋爱剧情冒险"
+    },
+    {
+      "id": "g223",
+      "title": "贵族工作",
+      "originalTitle": "のーぶる☆わーくす",
+      "firstYear": 2010,
+      "category": "Galgame",
+      "genre": "替身／名门学园／恋爱",
+      "characters": [
+        "藤島匠",
+        "兼元灯里",
+        "月山瀬奈"
+      ],
+      "charactersNote": "",
+      "synopsis": "贫困学生藤島匠受雇冒充一名富家子弟，在精英学院学习融入上流生活并与同学们相遇。",
+      "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
+      "source": "https://legacy.yuzu-soft.com/nw/",
+      "subcategory": "恋爱剧情冒险"
+    },
+    {
+      "id": "g224",
+      "title": "DRACU-RIOT!",
+      "originalTitle": "DRACU-RIOT!",
+      "firstYear": 2012,
+      "category": "Galgame",
+      "genre": "吸血鬼／人工岛／恋爱",
+      "characters": [
+        "六連佑斗",
+        "矢来美羽",
+        "布良梓"
+      ],
+      "charactersNote": "",
+      "synopsis": "到访特区人工岛的佑斗目击绑架后被卷入事件、变成吸血鬼，被迫留在岛上与当地少女们相处。",
+      "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
+      "source": "https://www.yuzu-soft.com/ja/dracuriot.html",
+      "subcategory": "恋爱剧情冒险"
+    },
+    {
+      "id": "g225",
+      "title": "天色＊航迹",
+      "originalTitle": "天色＊アイルノーツ",
+      "firstYear": 2013,
+      "category": "Galgame",
+      "genre": "浮空岛／教师／恋爱",
+      "characters": [
+        "鷺ノ森透",
+        "シャーリィ・ウォリック"
+      ],
+      "charactersNote": "",
+      "synopsis": "来到漂浮在空中的岛屿任教的主人公，与当地的学生和居民共同展开校园生活。",
+      "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
+      "source": "https://www.yuzu-soft.com/ja/amairo.html",
+      "subcategory": "恋爱剧情冒险"
+    },
+    {
+      "id": "g226",
+      "title": "魔女的夜宴",
+      "originalTitle": "サノバウィッチ",
+      "firstYear": 2015,
+      "category": "Galgame",
+      "genre": "魔女／校园／恋爱",
+      "characters": [
+        "保科柊史",
+        "綾地寧々",
+        "因幡めぐる"
+      ],
+      "charactersNote": "",
+      "synopsis": "能够感知他人情绪的男生卷入少女们的魔女秘密，在帮助她们面对烦恼的过程中发展恋情。",
+      "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
+      "source": "https://www.yuzu-soft.com/products/sothewitch/character.html",
+      "subcategory": "恋爱剧情冒险"
+    },
+    {
+      "id": "g227",
+      "title": "千恋＊万花",
+      "originalTitle": "千恋＊万花",
+      "firstYear": 2016,
+      "category": "Galgame",
+      "genre": "温泉乡／神刀／和风恋爱",
+      "characters": [
+        "有地将臣",
+        "朝武芳乃",
+        "常陸茉子"
+      ],
+      "charactersNote": "",
+      "synopsis": "主人公在温泉乡拔出神刀却折断刀身，由此与神社巫女、护卫和神刀之灵一道面对当地诅咒。",
+      "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
+      "source": "https://www.yuzu-soft.com/products/senren/chara.html",
+      "subcategory": "恋爱剧情冒险"
+    },
+    {
+      "id": "g228",
+      "title": "RIDDLE JOKER",
+      "originalTitle": "RIDDLE JOKER",
+      "firstYear": 2018,
+      "category": "Galgame",
+      "genre": "超能力／卧底／校园恋爱",
+      "characters": [
+        "在原暁",
+        "三司あやせ",
+        "在原七海"
+      ],
+      "charactersNote": "",
+      "synopsis": "身为秘密组织特工的暁潜入异能者学院，调查能力相关事件，也渐渐走近同学们的真实一面。",
+      "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
+      "source": "https://www.yuzu-soft.com/products/riddle/character.html",
+      "subcategory": "恋爱剧情冒险"
+    },
+    {
+      "id": "g229",
+      "title": "星光咖啡馆与死神之蝶",
+      "originalTitle": "喫茶ステラと死神の蝶",
+      "firstYear": 2019,
+      "category": "Galgame",
+      "genre": "死神／咖啡馆／恋爱",
+      "characters": [
+        "高嶺昂晴",
+        "明月栞那",
+        "四季ナツメ"
+      ],
+      "charactersNote": "",
+      "synopsis": "经历濒死事故的大学生遇见死神，来到咖啡馆工作，并与同伴面对与生死有关的命运。",
+      "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
+      "source": "https://www.yuzu-soft.com/products/stella/character.html",
+      "subcategory": "恋爱剧情冒险"
+    },
+    {
+      "id": "g230",
+      "title": "天使☆纷扰 RE-BOOT!",
+      "originalTitle": "天使☆騒々 RE-BOOT!",
+      "firstYear": 2023,
+      "category": "Galgame",
+      "genre": "天使／前世／校园恋爱",
+      "characters": [
+        "谷風李空",
+        "白雪乃愛",
+        "谷風天音"
+      ],
+      "charactersNote": "",
+      "synopsis": "自称天使的少女找上李空，称他是异世界魔王转世；异世界访客接连出现，他的日常就此改变。",
+      "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
+      "source": "https://www.yuzu-soft.com/products/ten_sz/index.html",
+      "subcategory": "恋爱剧情冒险"
+    },
+    {
+      "id": "g231",
+      "title": "聚光灯与柠檬汽水",
+      "originalTitle": "ライムライト・レモネードジャム",
+      "firstYear": 2025,
+      "category": "Galgame",
+      "genre": "乐队／青春／恋爱",
+      "characters": [
+        "沖浪雪鷹",
+        "陽見恵凪",
+        "隠杏珠"
+      ],
+      "charactersNote": "",
+      "synopsis": "贝斯手雪鷹遇见独自街演的恵凪，开始与伙伴组建乐队，寻找音乐、友情与恋爱的方向。",
+      "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
+      "source": "https://www.yuzu-soft.com/products/lllj/index.html",
+      "subcategory": "恋爱剧情冒险"
+    },
+    {
+      "id": "g232",
+      "title": "PARQUET",
+      "originalTitle": "PARQUET",
+      "firstYear": 2021,
+      "category": "视觉小说",
+      "subcategory": "单线视觉小说",
+      "genre": "全年龄／科幻／自我认同",
+      "characters": [
+        "伊吹协人",
+        "茨木梨乃",
+        "城门翼"
+      ],
+      "charactersNote": "",
+      "synopsis": "非法记忆实验诞生的伊吹协人由众多他人的记忆构成；他在寻找自我时遇见梨乃与翼，三人的同居生活牵出实验的秘密。",
+      "notes": "YUZUSOFTSOUR 全年龄姐妹品牌作品，单独归档；不算柚子社主品牌 PC 本篇。",
+      "source": "https://hikarifield.co.jp/parquet/"
     }
   ],
   "versions": [
@@ -9957,6 +10207,375 @@
       "voice": "有",
       "differences": "2024 年 11 月 8 日上架；含中、英、日文界面与日文语音；Steam 发行署名 HIKARI FIELD。",
       "source": "https://store.steampowered.com/app/2947250/Select_Oblige/"
+    },
+    {
+      "id": "g219-v1",
+      "workId": "g219",
+      "year": 2006,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "PC 日文首发",
+      "voice": "有",
+      "differences": "原版；后续英文／中文版及再版按已核实记录另列。",
+      "source": "https://legacy.yuzu-soft.com/buraban/"
+    },
+    {
+      "id": "g220-v1",
+      "workId": "g220",
+      "year": 2007,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "PC 日文首发",
+      "voice": "有",
+      "differences": "原版；后续英文／中文版及再版按已核实记录另列。",
+      "source": "https://www.yuzu-soft.com/products/products.html"
+    },
+    {
+      "id": "g221-v1",
+      "workId": "g221",
+      "year": 2008,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "PC 日文首发",
+      "voice": "有",
+      "differences": "原版；后续英文／中文版及再版按已核实记录另列。",
+      "source": "https://www.yuzu-soft.com/products/products.html"
+    },
+    {
+      "id": "g222-v1",
+      "workId": "g222",
+      "year": 2009,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "PC 日文首发",
+      "voice": "有",
+      "differences": "原版；后续英文／中文版及再版按已核实记录另列。",
+      "source": "https://www.yuzu-soft.com/products/products.html"
+    },
+    {
+      "id": "g223-v1",
+      "workId": "g223",
+      "year": 2010,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "PC 日文首发",
+      "voice": "有",
+      "differences": "原版；后续英文／中文版及再版按已核实记录另列。",
+      "source": "https://www.yuzu-soft.com/products/products.html"
+    },
+    {
+      "id": "g224-v1",
+      "workId": "g224",
+      "year": 2012,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "PC 日文首发",
+      "voice": "有",
+      "differences": "原版；后续英文／中文版及再版按已核实记录另列。",
+      "source": "https://www.yuzu-soft.com/products/products.html"
+    },
+    {
+      "id": "g225-v1",
+      "workId": "g225",
+      "year": 2013,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "PC 日文首发",
+      "voice": "有",
+      "differences": "原版；后续英文／中文版及再版按已核实记录另列。",
+      "source": "https://www.yuzu-soft.com/products/products.html"
+    },
+    {
+      "id": "g226-v1",
+      "workId": "g226",
+      "year": 2015,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "PC 日文首发",
+      "voice": "有",
+      "differences": "原版；后续英文／中文版及再版按已核实记录另列。",
+      "source": "https://www.yuzu-soft.com/products/products.html"
+    },
+    {
+      "id": "g227-v1",
+      "workId": "g227",
+      "year": 2016,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "PC 日文首发",
+      "voice": "有",
+      "differences": "原版；后续英文／中文版及再版按已核实记录另列。",
+      "source": "https://www.yuzu-soft.com/products/products.html"
+    },
+    {
+      "id": "g228-v1",
+      "workId": "g228",
+      "year": 2018,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "PC 日文首发",
+      "voice": "有",
+      "differences": "原版；后续英文／中文版及再版按已核实记录另列。",
+      "source": "https://www.yuzu-soft.com/products/products.html"
+    },
+    {
+      "id": "g229-v1",
+      "workId": "g229",
+      "year": 2019,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "PC 日文首发",
+      "voice": "有",
+      "differences": "原版；后续英文／中文版及再版按已核实记录另列。",
+      "source": "https://www.yuzu-soft.com/products/products.html"
+    },
+    {
+      "id": "g230-v1",
+      "workId": "g230",
+      "year": 2023,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "PC 日文首发",
+      "voice": "有",
+      "differences": "原版；后续英文／中文版及再版按已核实记录另列。",
+      "source": "https://www.yuzu-soft.com/products/products.html"
+    },
+    {
+      "id": "g231-v1",
+      "workId": "g231",
+      "year": 2025,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "PC 日文首发",
+      "voice": "有",
+      "differences": "原版；后续英文／中文版及再版按已核实记录另列。",
+      "source": "https://www.yuzu-soft.com/products/products.html"
+    },
+    {
+      "id": "g219-v2",
+      "workId": "g219",
+      "year": 2008,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "Windows 廉价版",
+      "voice": "有",
+      "differences": "同一作品的廉价再版；旧版修正内容已整合。",
+      "source": "https://legacy.yuzu-soft.com/buraban/"
+    },
+    {
+      "id": "g219-v3",
+      "workId": "g219",
+      "year": 2011,
+      "platform": "Windows",
+      "publisher": "ゆずソフト",
+      "publisherCompanies": [
+        "ゆずソフト"
+      ],
+      "kind": "Windows 下载版",
+      "voice": "有",
+      "differences": "同一作品的数字发行；不是新游戏。",
+      "source": "https://legacy.yuzu-soft.com/buraban/"
+    },
+    {
+      "id": "g222-v2",
+      "workId": "g222",
+      "year": 2010,
+      "platform": "PSP",
+      "publisher": "ラッセル",
+      "publisherCompanies": [
+        "ラッセル"
+      ],
+      "kind": "Happy Go Lucky!! 移植",
+      "voice": "有",
+      "differences": "追加 PSP 原创角色市杵宍姫命、蘇芳及新剧情与图像；主机版内容与原 PC 版不同。",
+      "source": "https://books.rakuten.co.jp/rb/6264551/"
+    },
+    {
+      "id": "g226-v2",
+      "workId": "g226",
+      "year": 2018,
+      "platform": "Windows（Steam）",
+      "publisher": "NekoNyan Ltd.",
+      "publisherCompanies": [
+        "NekoNyan Ltd."
+      ],
+      "kind": "国际版／移植",
+      "voice": "有",
+      "differences": "英文文本与日文配音；国际发行。",
+      "source": "https://store.steampowered.com/app/888790/Sabbat_of_the_Witch/"
+    },
+    {
+      "id": "g227-v2",
+      "workId": "g227",
+      "year": 2020,
+      "platform": "Windows（Steam）",
+      "publisher": "HIKARI FIELD, NekoNyan Ltd.",
+      "publisherCompanies": [
+        "HIKARI FIELD",
+        "NekoNyan Ltd."
+      ],
+      "kind": "国际版／移植",
+      "voice": "有",
+      "differences": "英文、简繁中文与日文文本，日文配音；Steam 云存档。",
+      "source": "https://store.steampowered.com/app/1144400/SenrenBanka/"
+    },
+    {
+      "id": "g228-v2",
+      "workId": "g228",
+      "year": 2020,
+      "platform": "Windows（Steam）",
+      "publisher": "NekoNyan Ltd., HIKARI FIELD",
+      "publisherCompanies": [
+        "NekoNyan Ltd.",
+        "HIKARI FIELD"
+      ],
+      "kind": "国际版／移植",
+      "voice": "有",
+      "differences": "英文、简繁中文与日文文本，日文配音。",
+      "source": "https://store.steampowered.com/app/1277930/Riddle_Joker/"
+    },
+    {
+      "id": "g229-v2",
+      "workId": "g229",
+      "year": 2022,
+      "platform": "Windows（Steam）",
+      "publisher": "NekoNyan Ltd., HIKARI FIELD",
+      "publisherCompanies": [
+        "NekoNyan Ltd.",
+        "HIKARI FIELD"
+      ],
+      "kind": "国际版／移植",
+      "voice": "有",
+      "differences": "国际版文本支持英语与中文；日文配音。",
+      "source": "https://store.steampowered.com/app/1829980/Caf_Stella_and_the_Reapers_Butterflies/"
+    },
+    {
+      "id": "g224-v2",
+      "workId": "g224",
+      "year": 2026,
+      "platform": "Windows（Steam）",
+      "publisher": "NekoNyan Ltd., HIKARI FIELD",
+      "publisherCompanies": [
+        "NekoNyan Ltd.",
+        "HIKARI FIELD"
+      ],
+      "kind": "国际版／移植",
+      "voice": "有",
+      "differences": "QHD Edition：国际版分辨率提升，含英、简繁中文及日文文本与日文配音。",
+      "source": "https://store.steampowered.com/app/1340140/DRACU-RIOT/"
+    },
+    {
+      "id": "g232-v1",
+      "workId": "g232",
+      "year": 2021,
+      "platform": "Windows（DMM）",
+      "publisher": "ゆずソフトSOUR",
+      "publisherCompanies": [
+        "ゆずソフトSOUR"
+      ],
+      "kind": "日文首发",
+      "voice": "有",
+      "differences": "2021-07-31 下载首发；DMM GAMES 提供 PC 和手机浏览器版，同一购买权益。",
+      "source": "https://dmmgames.co.jp/news/detail/id=465"
+    },
+    {
+      "id": "g232-v2",
+      "workId": "g232",
+      "year": 2021,
+      "platform": "Windows（Steam）",
+      "publisher": "NekoNyan Ltd., HIKARI FIELD",
+      "publisherCompanies": [
+        "NekoNyan Ltd.",
+        "HIKARI FIELD"
+      ],
+      "kind": "国际版",
+      "voice": "有",
+      "differences": "2021-08-27 上架；英、简繁中文和日文文本，日文配音。",
+      "source": "https://store.steampowered.com/app/1662840/PARQUET/"
+    },
+    {
+      "id": "g232-v3",
+      "workId": "g232",
+      "year": 2021,
+      "platform": "macOS（DMM 浏览器）",
+      "publisher": "ゆずソフトSOUR",
+      "publisherCompanies": [
+        "ゆずソフトSOUR"
+      ],
+      "kind": "DMM 浏览器版",
+      "voice": "有",
+      "differences": "与 DMM PC 下载版同一购买权益；浏览器播放 beta，非原生安装版。",
+      "source": "https://dmmgames.co.jp/news/detail/id=465"
+    },
+    {
+      "id": "g232-v4",
+      "workId": "g232",
+      "year": 2021,
+      "platform": "Android（DMM 浏览器）",
+      "publisher": "ゆずソフトSOUR",
+      "publisherCompanies": [
+        "ゆずソフトSOUR"
+      ],
+      "kind": "DMM 浏览器版",
+      "voice": "有",
+      "differences": "与 DMM PC 下载版同一购买权益；浏览器播放 beta，非原生安装版。",
+      "source": "https://dmmgames.co.jp/news/detail/id=465"
+    },
+    {
+      "id": "g232-v5",
+      "workId": "g232",
+      "year": 2021,
+      "platform": "iOS（DMM 浏览器）",
+      "publisher": "ゆずソフトSOUR",
+      "publisherCompanies": [
+        "ゆずソフトSOUR"
+      ],
+      "kind": "DMM 浏览器版",
+      "voice": "有",
+      "differences": "与 DMM PC 下载版同一购买权益；浏览器播放 beta，非原生安装版。",
+      "source": "https://dmmgames.co.jp/news/detail/id=465"
     }
   ]
 }

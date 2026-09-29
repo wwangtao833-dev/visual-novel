@@ -1246,6 +1246,204 @@
       ],
       "auditLabel": "PC 游戏目录十项（九部已发行、一部预定）及主机移植与边界核查。",
       "auditNote": "九部指独立零售的游戏；十部包括 2016 年 Blu-ray 特典的可游玩短篇 ADV。五篇短篇合计一条作品记录；2027 年预定新作、试玩版、单纯音声作品和合集不计。"
+    },
+    {
+      "id": "yuzusoft",
+      "name": "ゆずソフト",
+      "checkedAt": "2026-09-29",
+      "status": "官方 PC 本篇目录与姐妹品牌补查完成",
+      "scope": "主品牌 2006—2025 年 13 部独立叙事游戏；另单列 YUZUSOFTSOUR 的全年龄游戏《PARQUET》1 部，共 14 部关联作品。现行官网 PC 目录以 2008 廉价版列出首作，已依据旧版官网补回 2006 首发。合集、配套应用、音乐和再版均不重复算作品。",
+      "versionScope": "各作 Windows 日文首发，以及已核实的《ぶらばん！》再版、天神乱漫 PSP 版、五款 Steam 国际发行和《PARQUET》的 DMM 下载／浏览器与 Steam 版本。其他地区与平台版本仍待逐一核实。",
+      "publisherNote": "本专题按作品品牌关联整理。ゆずソフト主品牌实际发行 13 部首发；《PARQUET》首发署名ゆずソフトSOUR，国际 Steam 版由 NekoNyan 与 HIKARI FIELD 发行。厂商筛选按各版本署名计数。",
+      "workIds": [
+        "g219",
+        "g220",
+        "g221",
+        "g222",
+        "g223",
+        "g224",
+        "g225",
+        "g226",
+        "g227",
+        "g228",
+        "g229",
+        "g230",
+        "g231",
+        "g232"
+      ],
+      "publisherWorkIds": [
+        "g219",
+        "g220",
+        "g221",
+        "g222",
+        "g223",
+        "g224",
+        "g225",
+        "g226",
+        "g227",
+        "g228",
+        "g229",
+        "g230",
+        "g231"
+      ],
+      "catalogueEntryCount": 13,
+      "source": "https://www.yuzu-soft.com/products.html",
+      "sectionTitle": "柚子社 13 部主品牌本篇与 1 部姐妹品牌游戏",
+      "auditLabel": "官网主品牌独立本篇 13 部，另有姐妹品牌、移植与再版处理记录。",
+      "auditNote": "2008 廉价版是 2006 首作再版；姐妹品牌及平台移植只按作品身份计数一次。此核对以官网现行 PC 目录和所列补充来源为准。",
+      "entries": [
+        {
+          "title": "ぶらばん！ -The bonds of melody-",
+          "status": "已收录",
+          "workIds": [
+            "g219"
+          ],
+          "reason": "独立叙事游戏，登记首发、剧情、主要角色和已核实平台版本。",
+          "source": "https://legacy.yuzu-soft.com/buraban/"
+        },
+        {
+          "title": "E×E",
+          "status": "已收录",
+          "workIds": [
+            "g220"
+          ],
+          "reason": "独立叙事游戏，登记首发、剧情、主要角色和已核实平台版本。",
+          "source": "https://legacy.yuzu-soft.com/exe/"
+        },
+        {
+          "title": "夏空カナタ",
+          "status": "已收录",
+          "workIds": [
+            "g221"
+          ],
+          "reason": "独立叙事游戏，登记首发、剧情、主要角色和已核实平台版本。",
+          "source": "https://legacy.yuzu-soft.com/natsu/"
+        },
+        {
+          "title": "天神乱漫 -LUCKY or UNLUCKY!?-",
+          "status": "已收录",
+          "workIds": [
+            "g222"
+          ],
+          "reason": "独立叙事游戏，登记首发、剧情、主要角色和已核实平台版本。",
+          "source": "https://legacy.yuzu-soft.com/tenshin/"
+        },
+        {
+          "title": "のーぶる☆わーくす",
+          "status": "已收录",
+          "workIds": [
+            "g223"
+          ],
+          "reason": "独立叙事游戏，登记首发、剧情、主要角色和已核实平台版本。",
+          "source": "https://legacy.yuzu-soft.com/nw/"
+        },
+        {
+          "title": "DRACU-RIOT!",
+          "status": "已收录",
+          "workIds": [
+            "g224"
+          ],
+          "reason": "独立叙事游戏，登记首发、剧情、主要角色和已核实平台版本。",
+          "source": "https://www.yuzu-soft.com/ja/dracuriot.html"
+        },
+        {
+          "title": "天色＊アイルノーツ",
+          "status": "已收录",
+          "workIds": [
+            "g225"
+          ],
+          "reason": "独立叙事游戏，登记首发、剧情、主要角色和已核实平台版本。",
+          "source": "https://www.yuzu-soft.com/ja/amairo.html"
+        },
+        {
+          "title": "サノバウィッチ",
+          "status": "已收录",
+          "workIds": [
+            "g226"
+          ],
+          "reason": "独立叙事游戏，登记首发、剧情、主要角色和已核实平台版本。",
+          "source": "https://www.yuzu-soft.com/products/sothewitch/character.html"
+        },
+        {
+          "title": "千恋＊万花",
+          "status": "已收录",
+          "workIds": [
+            "g227"
+          ],
+          "reason": "独立叙事游戏，登记首发、剧情、主要角色和已核实平台版本。",
+          "source": "https://www.yuzu-soft.com/products/senren/chara.html"
+        },
+        {
+          "title": "RIDDLE JOKER",
+          "status": "已收录",
+          "workIds": [
+            "g228"
+          ],
+          "reason": "独立叙事游戏，登记首发、剧情、主要角色和已核实平台版本。",
+          "source": "https://www.yuzu-soft.com/products/riddle/character.html"
+        },
+        {
+          "title": "喫茶ステラと死神の蝶",
+          "status": "已收录",
+          "workIds": [
+            "g229"
+          ],
+          "reason": "独立叙事游戏，登记首发、剧情、主要角色和已核实平台版本。",
+          "source": "https://www.yuzu-soft.com/products/stella/character.html"
+        },
+        {
+          "title": "天使☆騒々 RE-BOOT!",
+          "status": "已收录",
+          "workIds": [
+            "g230"
+          ],
+          "reason": "独立叙事游戏，登记首发、剧情、主要角色和已核实平台版本。",
+          "source": "https://www.yuzu-soft.com/products/ten_sz/index.html"
+        },
+        {
+          "title": "ライムライト・レモネードジャム",
+          "status": "已收录",
+          "workIds": [
+            "g231"
+          ],
+          "reason": "独立叙事游戏，登记首发、剧情、主要角色和已核实平台版本。",
+          "source": "https://www.yuzu-soft.com/products/lllj/index.html"
+        },
+        {
+          "title": "PARQUET（ゆずソフトSOUR）",
+          "status": "姐妹品牌另列",
+          "workIds": [
+            "g232"
+          ],
+          "reason": "全年龄姐妹品牌的独立视觉小说，不计入主品牌 13 部；日文 DMM 与国际 Steam 分别记录发行方。",
+          "source": "https://hikarifield.co.jp/parquet/"
+        },
+        {
+          "title": "ぶらばん！廉価版",
+          "status": "并入版本",
+          "workIds": [
+            "g219"
+          ],
+          "reason": "2008 年廉价版、2011 年下载版均为 2006 年首作的版本，不新增作品 ID。",
+          "source": "https://legacy.yuzu-soft.com/buraban/"
+        },
+        {
+          "title": "天神乱漫 Happy Go Lucky!!",
+          "status": "并入 PSP 版本",
+          "workIds": [
+            "g222"
+          ],
+          "reason": "拉塞尔发行的 PSP 扩充移植，新增角色、剧情与图像。",
+          "source": "https://books.rakuten.co.jp/rb/6264551/"
+        },
+        {
+          "title": "Yuzusoft Collection／PENTABOX",
+          "status": "合集不另计",
+          "workIds": [],
+          "reason": "收录已有独立游戏的打包发行，不构成新的本篇作品。",
+          "source": "https://store.steampowered.com/app/1662840/PARQUET/"
+        }
+      ]
     }
   ]
 }
