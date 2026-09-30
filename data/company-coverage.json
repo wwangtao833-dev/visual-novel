@@ -5563,6 +5563,130 @@
       "auditSourceLabel": "FAVORITE 产品目录",
       "overviewLabel": "独立发售的叙事游戏",
       "description": "FAVORITE 厂商专题：14 部独立游戏及 Fan Disc，35 条首发、合集、重制与主机版本记录。"
+    },
+    {
+      "id": "cuffs",
+      "name": "CUFFS",
+      "checkedAt": "2026-09-30",
+      "status": "主品牌六部作品逐项核对",
+      "scope": "以官网明确标为 CUFFS 第 1—6 作的主品牌游戏为范围，六部独立发售的叙事游戏全部录入；Sphere、CUBE、MintCUBE、Sonora、CloverGAME 等姐妹品牌按各自厂牌另行核对。本轮没有新增纯文本指令或图文指令游戏。",
+      "versionScope": "记录六部 Windows 首发与《ワンコとリリー》2018 年下载版，共七条。其余下载渠道和再版日期未逐一核对；免费更新补丁不重复算独立平台版本。",
+      "publisherNote": "本专题严格按官网“CUFFS 1st—6th Product”标记汇总主品牌作品；同一站点上的 Sphere、CUBE 等有各自作品序列，不混入这六部。",
+      "workIds": [
+        "g402",
+        "g403",
+        "g404",
+        "g405",
+        "g406",
+        "g407"
+      ],
+      "publisherWorkIds": [
+        "g402",
+        "g403",
+        "g404",
+        "g405",
+        "g406",
+        "g407"
+      ],
+      "catalogueEntryCount": 6,
+      "source": "https://www.cuffs.co.jp/main/products/",
+      "sectionTitle": "2005—2011 年 CUFFS 主品牌六部游戏",
+      "auditLabel": "六部官网主品牌作品及四条补充项目说明。",
+      "auditNote": "《さくらむすび》官网标注为用选项推进的小说式 AVG；《ワンコとリリー》下载页明确写明无角色声音。对《Garden》区分已发售的原作、后来免费添加的剧情与终止开发的瑠璃路线。姐妹品牌合集画集提及《アメサラサ》并不代表收录该游戏。",
+      "entries": [
+        {
+          "title": "さくらむすび",
+          "status": "主数据库",
+          "workIds": [
+            "g402"
+          ],
+          "reason": "官网标注为 CUFFS 主品牌独立游戏；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/products/sakuramusubi/story/index.html"
+        },
+        {
+          "title": "ワンコとリリー",
+          "status": "主数据库",
+          "workIds": [
+            "g403"
+          ],
+          "reason": "官网标注为 CUFFS 主品牌独立游戏；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/products/wanko/story/index.html"
+        },
+        {
+          "title": "アメサラサ ～雨と、不思議な君に、恋をする～",
+          "status": "主数据库",
+          "workIds": [
+            "g404"
+          ],
+          "reason": "官网标注为 CUFFS 主品牌独立游戏；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/products/amesarasa/"
+        },
+        {
+          "title": "おにいちゃん だぁいすき！～LOVE？or LIKE？～",
+          "status": "主数据库",
+          "workIds": [
+            "g405"
+          ],
+          "reason": "官网标注为 CUFFS 主品牌独立游戏；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/products/loveorlike/"
+        },
+        {
+          "title": "Garden",
+          "status": "主数据库",
+          "workIds": [
+            "g406"
+          ],
+          "reason": "官网标注为 CUFFS 主品牌独立游戏；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/products/garden/support/support.htm"
+        },
+        {
+          "title": "CAFE SOURIRE",
+          "status": "主数据库",
+          "workIds": [
+            "g407"
+          ],
+          "reason": "官网标注为 CUFFS 主品牌独立游戏；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/products/cafesourire/"
+        },
+        {
+          "title": "Garden Ver2.00／Ver3.00 追加剧情补丁",
+          "status": "原作更新",
+          "workIds": [
+            "g406"
+          ],
+          "reason": "2008 年添加竜胆愛剧情、2010 年添加星野絵里香路线；均须依附原作，不另计独立游戏。",
+          "source": "https://www.cuffs.co.jp/products/garden/support/support.htm"
+        },
+        {
+          "title": "Garden 姫宮瑠璃路线",
+          "status": "开发停止",
+          "workIds": [
+            "g406"
+          ],
+          "reason": "2013 年厂商宣布冻结该路线开发。原计划的无偿替代短篇未在这份六作主品牌目录中列为已发行作品。",
+          "source": "https://www.cuffs.co.jp/products/garden/support/support_5.htm"
+        },
+        {
+          "title": "ワンコとリリー 2018 年下载版",
+          "status": "版本归档",
+          "workIds": [
+            "g403"
+          ],
+          "reason": "同作的数字销售及较新 Windows 兼容版本，非新增剧情作品。",
+          "source": "https://www.cuffs.co.jp/main/online/game/"
+        },
+        {
+          "title": "CUBEコレクションボックス 兼清みわエディション",
+          "status": "姐妹品牌合集",
+          "workIds": [],
+          "reason": "收录的是 CUBE 三部游戏；《アメサラサ》仅作为画集插图来源，不是该合集的游戏内容。",
+          "source": "https://www.cuffs.co.jp/products/cube_collection02/"
+        }
+      ],
+      "auditTitle": "CUFFS 主品牌六作与补充事项",
+      "auditSourceLabel": "CUFFS 官方产品目录",
+      "overviewLabel": "主品牌独立叙事游戏",
+      "description": "CUFFS 主品牌作品专题：六部独立叙事游戏、七条已核实版本记录，以及 Garden 追加剧情与停止开发路线的说明。"
     }
   ]
 }
