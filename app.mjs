@@ -1,4 +1,4 @@
-import {filterCatalogue,publisherWorkCounts} from './filter.mjs';
+import {filterCatalogue,publisherWorkCounts,visibleVoiceNote} from './filter.mjs?v=20260930-zh';
 
 const $=id=>document.getElementById(id);
 const fields={query:$('search'),category:$('category'),subcategory:$('subcategory'),company:$('company-select'),platform:$('platform'),from:$('from'),to:$('to'),voice:$('voice'),sort:$('sort')};
@@ -9,8 +9,9 @@ function renderCard({work,versions}){
   const card=label('article','card','');
   const top=label('div','card-top','');
   top.append(label('span','year',String(work.firstYear)),label('span','category category-'+work.category,work.category));
-  const title=label('h3','',work.title);
-  const original=label('p','original',work.originalTitle);
+  const displayTitle=work.chineseTitle||work.title;
+  const title=label('h3','',displayTitle);
+  const original=label('p','original',displayTitle===work.originalTitle?'':`原名 · ${work.originalTitle}`);
   const intro=label('p','intro',work.synopsis);
   const meta=label('div','card-meta','');
   const companies=[...new Set(versions.flatMap(v=>v.publisherCompanies||[]))];
@@ -24,7 +25,8 @@ function renderCard({work,versions}){
     const v=label('div','version','');
     const line=label('div','version-line','');
     line.append(label('strong','',String(version.year)),label('span','platform-name',version.platform),label('span','version-kind',version.kind));
-    const publisher=label('p','publisher','发行／出版：'+version.publisher+'　·　角色配音：'+version.voice);
+    const voiceNote=visibleVoiceNote(version);
+    const publisher=label('p','publisher','发行／出版：'+version.publisher+(voiceNote?'　·　'+voiceNote:''));
     const changes=label('p','changes',version.differences);
     v.append(line,publisher,changes,safeLink(version.source,'版本来源 ↗'));
     container.append(v);
@@ -40,7 +42,7 @@ function readFilters(){return Object.fromEntries(Object.entries(fields).map(([ke
 
 async function main(){
   try {
-    const [response,taxonomyResponse]=await Promise.all([fetch('./data/games.json?v=20260929-4'),fetch('./data/taxonomy.json?v=20260929-4')]);
+    const [response,taxonomyResponse]=await Promise.all([fetch('./data/games.json?v=20260930-zh'),fetch('./data/taxonomy.json?v=20260930-zh')]);
     if(!response.ok||!taxonomyResponse.ok)throw Error('HTTP '+(response.ok?taxonomyResponse.status:response.status));
     const [data,taxonomy]=await Promise.all([response.json(),taxonomyResponse.json()]);
     $('stat-works').textContent=data.works.length;

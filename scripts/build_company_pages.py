@@ -22,13 +22,16 @@ def card(work, versions=None):
     versions = sorted(versions, key=lambda v: v['year'])
     release_rows = []
     for v in versions:
+        voice_note = ' · 无角色配音' if v['voice'] == '无' else ''
         release_rows.append(f'''<div class="version">
 <div class="version-line"><strong>{v['year']}</strong><span class="platform-name">{escape(v['platform'])}</span><span class="version-kind">{escape(v['kind'])}</span></div>
-<p class="publisher">发行／出版：{escape(v['publisher'])} · 角色配音：{escape(v['voice'])}</p>
+<p class="publisher">发行／出版：{escape(v['publisher'])}{voice_note}</p>
 <p class="changes">{escape(v['differences'])}</p>{link(v['source'], '版本来源')}</div>''')
+    display_title = work.get('chineseTitle') or work['title']
+    original_line = f'<p class="original">原名 · {escape(work["originalTitle"])}</p>' if display_title != work['originalTitle'] else ''
     return f'''<article class="card" id="{work['id']}">
 <div class="card-top"><span class="year">{work['firstYear']}</span><span class="category">{escape(work['category'])}</span></div>
-<h3>{escape(work['title'])}</h3><p class="original">{escape(work['originalTitle'])}</p>
+<h3>{escape(display_title)}</h3>{original_line}
 <p class="intro">{escape(work['synopsis'])}</p>
 <div class="card-meta"><span>{escape(work['subcategory'])} · {escape(work['genre'])}</span><span>主要角色 · {escape(' / '.join(work['characters']) or '待核实')}</span></div>
 <details class="version-panel"><summary>查看 {len(versions)} 个平台版本</summary><div class="version-list">{''.join(release_rows)}</div></details>
@@ -39,12 +42,12 @@ def build(company):
     selected = sorted((works[wid] for wid in company['workIds']), key=lambda w: (w['firstYear'], w['id']))
     related = sorted(company.get('relatedGames', []), key=lambda w: (w['firstYear'], w['id']))
     count_versions = sum(v['workId'] in company['workIds'] for v in data['versions']) + sum(len(g['versions']) for g in related)
-    toc = ''.join(f'<a href="#{w["id"]}"><span>{w["firstYear"]}</span>{escape(w["title"])}</a>'
+    toc = ''.join(f'<a href="#{w["id"]}"><span>{w["firstYear"]}</span>{escape(w.get("chineseTitle") or w["title"])}</a>'
                   for w in sorted(selected + related, key=lambda w: (w['firstYear'], w['id'])))
     related_by_id = {game['id']: game for game in related}
     audit_rows = []
     for item in company['entries']:
-        references = ' / '.join([*(f'<a href="#{wid}">{escape(works[wid]["title"])}</a>' for wid in item['workIds']),
+        references = ' / '.join([*(f'<a href="#{wid}">{escape(works[wid].get("chineseTitle") or works[wid]["title"])}</a>' for wid in item['workIds']),
                                 *(f'<a href="#{rid}">{escape(related_by_id[rid]["title"])}</a>' for rid in item.get('relatedIds', []))])
         audit_rows.append(f'<tr><th scope="row">{escape(item["title"])}</th><td>{escape(item["status"])}</td><td>{escape(item["reason"])}<div>{references}</div></td><td>{link(item["source"], "来源")}</td></tr>')
     related_section = ''

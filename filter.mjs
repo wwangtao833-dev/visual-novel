@@ -1,4 +1,5 @@
 export const normalize = (value) => String(value ?? '').normalize('NFKC').toLocaleLowerCase().replace(/\s+/g, '');
+export const visibleVoiceNote = (version) => version.voice === '无' ? '无角色配音' : '';
 
 export function publisherWorkCounts(data) {
   const counts=new Map();
@@ -20,7 +21,7 @@ export function filterCatalogue(data, filters={}) {
   for(const work of data.works) {
     if(filters.category && work.category!==filters.category) continue;
     if(filters.subcategory && work.subcategory!==filters.subcategory) continue;
-    const ownMatch=!query || normalize([work.title,work.originalTitle,work.genre,work.category,work.subcategory,work.synopsis,...work.characters].join(' ')).includes(query);
+    const ownMatch=!query || normalize([work.title,work.chineseTitle,work.originalTitle,...(work.titleAliases||[]),work.genre,work.category,work.subcategory,work.synopsis,...work.characters].join(' ')).includes(query);
     const versions=(versionByWork.get(work.id) || []).filter(v=>{
       if(filters.platform && !normalize(v.platform).includes(normalize(filters.platform))) return false;
       if(filters.from && v.year<Number(filters.from)) return false;
@@ -33,9 +34,11 @@ export function filterCatalogue(data, filters={}) {
     if(versions.length) results.push({work,versions});
   }
   results.sort((a,b)=>{
-    if(filters.sort==='newest') return b.work.firstYear-a.work.firstYear || a.work.title.localeCompare(b.work.title,'zh');
-    if(filters.sort==='title') return a.work.title.localeCompare(b.work.title,'zh');
-    return a.work.firstYear-b.work.firstYear || a.work.title.localeCompare(b.work.title,'zh');
+    const nameA=a.work.chineseTitle||a.work.title;
+    const nameB=b.work.chineseTitle||b.work.title;
+    if(filters.sort==='newest') return b.work.firstYear-a.work.firstYear || nameA.localeCompare(nameB,'zh');
+    if(filters.sort==='title') return nameA.localeCompare(nameB,'zh');
+    return a.work.firstYear-b.work.firstYear || nameA.localeCompare(nameB,'zh');
   });
   return results;
 }

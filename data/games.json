@@ -196,7 +196,8 @@
       "synopsis": "在限定时间内调查一宗可疑死亡事件。",
       "notes": "",
       "source": "https://infocom-if.org/games/games.html",
-      "subcategory": "纯文本指令"
+      "subcategory": "纯文本指令",
+      "chineseTitle": "最后期限"
     },
     {
       "id": "g004",
@@ -371,7 +372,8 @@
       "synopsis": "在陌生星球探索设施，并追查危机的原因。",
       "notes": "",
       "source": "https://www.infocom-if.org/authors/meretzky.html",
-      "subcategory": "纯文本指令"
+      "subcategory": "纯文本指令",
+      "chineseTitle": "行星坠落"
     },
     {
       "id": "g007",
@@ -1719,7 +1721,8 @@
       "synopsis": "与偶像小川范子进行情境互动，听到真人演出的声音。",
       "notes": "配音与歌曲来自偶像本人；并非 Leaf 式视觉小说。",
       "source": "https://pcefan.com/pcengine/entry15.html",
-      "subcategory": "光盘图文冒险"
+      "subcategory": "光盘图文冒险",
+      "chineseTitle": "纪子"
     },
     {
       "id": "g040",
@@ -1736,7 +1739,8 @@
       "synopsis": "在新神户市追查冒充人类的机器人。",
       "notes": "PC原版与1992年有声CD移植不可混为一谈。",
       "source": "https://www.konami.com/corporate/ja/history/product.html",
-      "subcategory": "图文选项／调查"
+      "subcategory": "图文选项／调查",
+      "chineseTitle": "掠夺者"
     },
     {
       "id": "g020",
@@ -1850,7 +1854,8 @@
       "synopsis": "在校园中追查奇异事件。",
       "notes": "Leaf Visual Novel Series 第 1 作；兼属广义 Galgame。",
       "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/",
-      "subcategory": "剧情分支／冒险"
+      "subcategory": "剧情分支／冒险",
+      "chineseTitle": "水滴"
     },
     {
       "id": "g025",
@@ -1883,7 +1888,8 @@
       "synopsis": "穿梭平行世界，调查父亲失踪与时空装置之谜。",
       "notes": "1996原版与2017完全重制分别记录。",
       "source": "https://yu-no.jp/spec/ps/",
-      "subcategory": "剧情分支／冒险"
+      "subcategory": "剧情分支／冒险",
+      "chineseTitle": "在世界尽头咏唱恋曲的少女"
     },
     {
       "id": "g026",
@@ -1902,7 +1908,8 @@
       "synopsis": "体验校园日常，发展不同人物的故事线。",
       "notes": "兼属 Galgame；1999 年 PlayStation 版加入角色配音。",
       "source": "https://aquaplus.jp/toheart/en.html",
-      "subcategory": "恋爱剧情"
+      "subcategory": "恋爱剧情",
+      "chineseTitle": "心之彼端"
     },
     {
       "id": "g027",
@@ -1954,7 +1961,8 @@
       "synopsis": "相泽祐一多年后回到积雪的小镇，与表妹名雪共同生活。他在重逢与新的邂逅中发现被遗忘的约定，各条路线连接少女们的愿望与记忆。",
       "notes": "兼属 Galgame；按 Windows 初版。",
       "source": "https://key.visualarts.gr.jp/product/kanon/",
-      "subcategory": "恋爱剧情"
+      "subcategory": "恋爱剧情",
+      "chineseTitle": "雪之少女"
     },
     {
       "id": "g029",
@@ -1972,7 +1980,8 @@
       "synopsis": "靠人偶表演谋生的国崎往人来到海边小镇，遇见神尾观铃等少女。他所追寻的天空少女传说，与眼前的夏日和更久远的命运逐渐交织。",
       "notes": "兼属 Galgame。",
       "source": "https://key.visualarts.gr.jp/key20th/history.html",
-      "subcategory": "恋爱剧情"
+      "subcategory": "恋爱剧情",
+      "chineseTitle": "青空"
     },
     {
       "id": "g048",
@@ -2063,7 +2072,8 @@
       "synopsis": "从校园恋爱走向平行世界，为续篇的科幻战争故事铺垫。",
       "notes": "与 2006 年续篇《Muv-Luv Alternative》分开记录。",
       "source": "https://muvluv.com/en/products/",
-      "subcategory": "恋爱剧情冒险"
+      "subcategory": "恋爱剧情冒险",
+      "chineseTitle": "爱与命运"
     },
     {
       "id": "g030",
@@ -2081,7 +2091,8 @@
       "synopsis": "对学校和家庭感到疏离的冈崎朋也结识古河渚，帮助她重新建立戏剧部。在与同学和小镇居民的往来中，故事从校园延伸到工作、家庭与成长。",
       "notes": "2004 年 4 月 28 日首发；兼属广义 Galgame。",
       "source": "https://key.visualarts.gr.jp/key20th/history.html",
-      "subcategory": "恋爱剧情"
+      "subcategory": "恋爱剧情",
+      "chineseTitle": "克兰娜德"
     },
     {
       "id": "g031",
@@ -2100,7 +2111,8 @@
       "synopsis": "卷入圣杯战争，与从者并肩求生。",
       "notes": "官网明确列出初版角色配音“无”；后续版本不同。",
       "source": "https://www.typemoon.com/products/fate/data/index.html",
-      "subcategory": "剧情分支／冒险"
+      "subcategory": "剧情分支／冒险",
+      "chineseTitle": "命运之夜"
     },
     {
       "id": "g032",
@@ -2154,7 +2166,8 @@
       "synopsis": "武在另一条时间线中参与对抗外星生命的作战，试图改变结局。",
       "notes": "与前作分开收录；不同地区的语言支持可能不同。",
       "source": "https://muvluv.com/alternative/spec.htm",
-      "subcategory": "剧情分支／冒险"
+      "subcategory": "剧情分支／冒险",
+      "chineseTitle": "爱与命运：替代篇"
     },
     {
       "id": "g034",
@@ -2244,7 +2257,12 @@
       "synopsis": "从学园祭的音乐合作开始，描绘三人的感情纠葛。",
       "notes": "剧情为 introductory chapter（序章）、closing chapter（大学篇）和 coda（社会人篇）三段；2010 年独立发售 IC，2011 年《closing chapter》商品内含 CC 与 coda，coda 不单独发售。",
       "source": "https://blog.aquaplus.jp/archives/2352",
-      "subcategory": "恋爱剧情"
+      "subcategory": "恋爱剧情",
+      "chineseTitle": "白色相簿2",
+      "titleAliases": [
+        "白色相册2",
+        "白色相册"
+      ]
     },
     {
       "id": "g056",
@@ -2413,7 +2431,8 @@
       "charactersNote": "",
       "synopsis": "直枝理树与儿时伙伴组织棒球队，在招募成员和校园活动中走近同伴们的心事。看似热闹的日常逐步通向关于友情、失去与成长的核心故事。",
       "notes": "EX、Converted Edition、Perfect Edition 等按原作的增强／移植版本登记，厂商游戏数不重复计算。",
-      "source": "https://key.visualarts.gr.jp/product/little/site/products.htm"
+      "source": "https://key.visualarts.gr.jp/product/little/site/products.htm",
+      "chineseTitle": "小小克星！"
     },
     {
       "id": "g146",
@@ -2431,7 +2450,8 @@
       "charactersNote": "",
       "synopsis": "天王寺瑚太朗在绿化城市风祭加入超自然研究会，与少女们调查怪异现象。随着秘密浮现，个人的日常卷入不同势力对人与自然未来的争执。",
       "notes": "",
-      "source": "https://key.visualarts.gr.jp/product_all"
+      "source": "https://key.visualarts.gr.jp/product_all",
+      "chineseTitle": "改写"
     },
     {
       "id": "g147",
@@ -2448,7 +2468,8 @@
       "charactersNote": "",
       "synopsis": "鹰原羽依里来到鸟白岛整理祖母遗物，试着从原来的生活中抽身。他在海边、山林与岛上伙伴相遇，沿不同路线探寻夏日记忆与未尽的愿望。",
       "notes": "REFLECTION BLUE 为原作增强版；各平台按实际发行年份分别记录。",
-      "source": "https://key.visualarts.gr.jp/summer/"
+      "source": "https://key.visualarts.gr.jp/summer/",
+      "chineseTitle": "夏日口袋"
     },
     {
       "id": "g148",
@@ -2466,7 +2487,8 @@
       "charactersNote": "",
       "synopsis": "平良与朋友参加 GPS 寻宝后，被困在不断重复的一天。他们与其他循环者共同生活，调查循环规则，并尝试找回走向明天的办法。",
       "notes": "2025 年 PLUS 含原作与追加情节，归入版本记录，不另计一部游戏。",
-      "source": "https://key.visualarts.gr.jp/kinetic/loopers/"
+      "source": "https://key.visualarts.gr.jp/kinetic/loopers/",
+      "chineseTitle": "轮回者"
     },
     {
       "id": "g149",
@@ -2767,7 +2789,8 @@
       "charactersNote": "",
       "synopsis": "以《Rewrite》人物为中心的六篇扩展故事，描写原作路线之外及之后的日常与奇幻经历；另附地下城小游戏，适合读过本篇后了解更多角色侧面。",
       "notes": "官方将其称为《Rewrite》的粉丝盘；单独发行，因此列为独立作品。",
-      "source": "https://key.visualarts.gr.jp/rewrite/"
+      "source": "https://key.visualarts.gr.jp/rewrite/",
+      "chineseTitle": "改写：丰收祭"
     },
     {
       "id": "g166",
@@ -3083,7 +3106,8 @@
       "charactersNote": "",
       "synopsis": "在战争后的荒芜世界，自认缺少感情的机械少年雷离开工厂，遇见收留他的少女希奥娜。他在小镇生活中学习喜悦、悲伤与人与人的联系。",
       "notes": "先发行英文数字版；2017 年为日文实体版的一般销售年份。Switch 与 Full HD 版补齐主人公和配角语音。",
-      "source": "https://store.steampowered.com/app/421660/Harmonia/"
+      "source": "https://store.steampowered.com/app/421660/Harmonia/",
+      "chineseTitle": "和声"
     },
     {
       "id": "g184",
@@ -3189,7 +3213,8 @@
       "charactersNote": "",
       "synopsis": "为赴十年前埋下的时间胶囊之约，速川麦与妹妹六花来到北方的真澄町。他在风车与田野间结识居民，等待约定之日，也逐渐建立新的感情。",
       "notes": "采用最终实际发售日 2026 年 4 月 24 日；不沿用曾公布的 1 月 30 日。",
-      "source": "https://key.visualarts.gr.jp/anemoi/story.html"
+      "source": "https://key.visualarts.gr.jp/anemoi/story.html",
+      "chineseTitle": "风神"
     },
     {
       "id": "g190",
@@ -3300,7 +3325,8 @@
       "charactersNote": "",
       "synopsis": "把《海市蜃楼之馆》第一章的人物与情节重新编排成暑假喜剧，角色以夸张对话和自我吐槽改写原本的悲剧气氛。官方建议先玩本篇第一章。",
       "notes": "官方定义为约 20 分钟的视觉有声小说，使用吉里吉里引擎。2014 年同期报道回溯前作于三年前公开，故登记 2011 年；精确日期待原始公告复核。",
-      "source": "https://novect.net/oyabake.html"
+      "source": "https://novect.net/oyabake.html",
+      "chineseTitle": "洋馆假日：小妖怪！"
     },
     {
       "id": "g196",
@@ -3336,7 +3362,8 @@
       "charactersNote": "",
       "synopsis": "续作让摩尔甘娜等角色参与本篇情节的自我戏仿，以夸张的互动重新演绎人物冲突。故事延续前作轻松的喜剧形式，涉及本篇重要剧情。",
       "notes": "官方标为约 30 分钟的视觉有声小说；2014 年 9 月 4 日同期报道已确认免费公开。独立续作，非第一作的平台移植。",
-      "source": "https://novect.net/oyabake2.html"
+      "source": "https://novect.net/oyabake2.html",
+      "chineseTitle": "洋馆假日2：小妖怪再来！"
     },
     {
       "id": "g198",
@@ -3394,7 +3421,8 @@
       "charactersNote": "",
       "synopsis": "海平面异常上升后的近未来，失去一条腿的少年斑鸠夏生返回海边小镇，潜入祖母留下的海底仓库寻找遗产。他在那里发现记忆不完整的人形机器人亚托莉，两人一起度过小镇逐渐沉入海中的夏天。",
       "notes": "ANIPLEX.EXE 第一弹之一；Frontwing 与枕开发，ANIPLEX.EXE 发行。首发按官方日本时间 2020 年 6 月 19 日登记；Steam 在部分时区显示 6 月 18 日。2024 年电视动画不计作游戏。",
-      "source": "https://atri-mdm.com/story/"
+      "source": "https://atri-mdm.com/story/",
+      "chineseTitle": "亚托莉：我最珍贵的时光"
     },
     {
       "id": "g201",
@@ -3433,7 +3461,8 @@
       "charactersNote": "",
       "synopsis": "架空大正时代，死者复苏后发生记忆衰退及肉体腐坏的现象被称为“风烂症”。医生千种正光参与加鸟周平的调查，学生天间武雄也因机缘卷入；故事从两人的视角讲述患者、医疗制度和周围人的处境。",
       "notes": "ANIPLEX.EXE 第二期企划，瀬戸口廉也编剧。官方仅列已核实的 Windows PC 版（Steam、DMM GAMES、DLsite），不将数字商店误记为不同平台。",
-      "source": "https://hirahirahihiru.com/"
+      "source": "https://hirahirahihiru.com/",
+      "chineseTitle": "风烂之舞"
     },
     {
       "id": "g203",
@@ -3553,7 +3582,8 @@
       "charactersNote": "",
       "synopsis": "因无法融入新学校而闭门不出的坂下深菜，与疏远家庭的星野兰来到海滨旅馆打工。两人度过一个夏天，在相互陪伴和与旅馆伙伴的交往中尝试直面过去。",
       "notes": "sprite／flowers.studio 制作的 FILMIC NOVEL；2024 年 Steam 和主机版由 RIGHTWAY 发行。预告在 2026 年 11 月推出的 Windows 实体版尚未发售，不计版本。",
-      "source": "https://sprite.net/everlastingflowers"
+      "source": "https://sprite.net/everlastingflowers",
+      "chineseTitle": "永恒之花"
     },
     {
       "id": "g209",
@@ -3713,7 +3743,8 @@
       "charactersNote": "",
       "synopsis": "贫民区出身的布波脑凪获得每年仅有一人的精英学校入学资格，为改变命运进入樱元学园；他与同乡的托乌莉面对学生会精英和阶层偏见。",
       "notes": "2013—2025 年官网 PC 产品目录的独立叙事游戏；主机移植合并在同一作品下。",
-      "source": "https://imel.co.jp/selectoblige/story"
+      "source": "https://imel.co.jp/selectoblige/story",
+      "chineseTitle": "择定之责"
     },
     {
       "id": "g217",
@@ -3785,7 +3816,8 @@
       "synopsis": "医院大火夺走母亲十年后，籐矢遇见看似亡母的人并遭袭，追查火灾与医院研究的真相。",
       "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
       "source": "https://legacy.yuzu-soft.com/exe/",
-      "subcategory": "恋爱剧情冒险"
+      "subcategory": "恋爱剧情冒险",
+      "chineseTitle": "双重邂逅"
     },
     {
       "id": "g221",
@@ -3857,7 +3889,8 @@
       "synopsis": "到访特区人工岛的佑斗目击绑架后被卷入事件、变成吸血鬼，被迫留在岛上与当地少女们相处。",
       "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
       "source": "https://www.yuzu-soft.com/ja/dracuriot.html",
-      "subcategory": "恋爱剧情冒险"
+      "subcategory": "恋爱剧情冒险",
+      "chineseTitle": "吸血鬼暴动！"
     },
     {
       "id": "g225",
@@ -3928,7 +3961,8 @@
       "synopsis": "身为秘密组织特工的暁潜入异能者学院，调查能力相关事件，也渐渐走近同学们的真实一面。",
       "notes": "柚子社主品牌独立本篇；本条合并不同平台和廉价版，不将语音短剧、钟表应用、音乐或合集另计作品。",
       "source": "https://www.yuzu-soft.com/products/riddle/character.html",
-      "subcategory": "恋爱剧情冒险"
+      "subcategory": "恋爱剧情冒险",
+      "chineseTitle": "谜语小丑"
     },
     {
       "id": "g229",
@@ -4000,7 +4034,8 @@
       "charactersNote": "",
       "synopsis": "非法记忆实验诞生的伊吹协人由众多他人的记忆构成；他在寻找自我时遇见梨乃与翼，三人的同居生活牵出实验的秘密。",
       "notes": "YUZUSOFTSOUR 全年龄姐妹品牌作品，单独归档；不算柚子社主品牌 PC 本篇。",
-      "source": "https://hikarifield.co.jp/parquet/"
+      "source": "https://hikarifield.co.jp/parquet/",
+      "chineseTitle": "拼花回忆"
     },
     {
       "id": "g233",
@@ -4390,7 +4425,8 @@
       "charactersNote": "",
       "synopsis": "《すぴぱら》正篇前发行的短篇前传，让读者提前进入镰仓的故事世界。",
       "notes": "minori 作品；独立发行的短篇前传。平台移植与增强版记入同一作品，原版配音尚待逐项确认。",
-      "source": "https://www.suruga-ya.jp/product/detail/145031086"
+      "source": "https://www.suruga-ya.jp/product/detail/145031086",
+      "chineseTitle": "灵动乐园：初次见面"
     },
     {
       "id": "g255",
@@ -4409,7 +4445,8 @@
       "charactersNote": "",
       "synopsis": "幸成重返镰仓，在校园活动和魔女爱丽丝的介入下，卷入热闹的春日生活；已发行正篇为 STORY #01。",
       "notes": "minori 作品；分章企划已发行的正篇。平台移植与增强版记入同一作品，原版配音尚待逐项确认。",
-      "source": "https://www.minori.ph/lineup/sppl/"
+      "source": "https://www.minori.ph/lineup/sppl/",
+      "chineseTitle": "灵动乐园：春天来了"
     },
     {
       "id": "g256",
@@ -4494,7 +4531,8 @@
       "charactersNote": "",
       "synopsis": "失去妹妹的舜在多年后遇见与她容貌相同的仿生人，由此展开关于记忆与人与机器的故事。",
       "notes": "minori 作品；本篇。平台移植与增强版记入同一作品，原版配音尚待逐项确认。",
-      "source": "https://www.minori.ph/lineup/trinoline/"
+      "source": "https://www.minori.ph/lineup/trinoline/",
+      "chineseTitle": "特里诺兰"
     },
     {
       "id": "g261",
@@ -4513,7 +4551,8 @@
       "charactersNote": "",
       "synopsis": "《トリノライン》主要人物的后日谈，并为原作配角增写新路线。",
       "notes": "minori 作品；独立发行的 Fan Disc。平台移植与增强版记入同一作品，原版配音尚待逐项确认。",
-      "source": "https://www.minori.ph/lineup/trinoline/_index01_.html"
+      "source": "https://www.minori.ph/lineup/trinoline/_index01_.html",
+      "chineseTitle": "特里诺兰：创世纪"
     },
     {
       "id": "g262",
@@ -4550,7 +4589,8 @@
       "charactersNote": "",
       "synopsis": "以提供网络游戏「ワールド」接入的咖啡馆为中心，在现实与虚拟世界展开人与人的相遇。",
       "notes": "AUGUST 原作；本篇；2002 年初回版。",
-      "source": "https://august-soft.com/binary_normal/"
+      "source": "https://august-soft.com/binary_normal/",
+      "chineseTitle": "二进制咖啡壶"
     },
     {
       "id": "g264",
@@ -4602,7 +4642,8 @@
       "charactersNote": "",
       "synopsis": "前三部作品的角色跨越各自的世界重逢，收录十余篇新 ADV 故事和附赠小游戏。",
       "notes": "AUGUST 原作；独立发行的 Fan Disc；以新 ADV 故事为收录依据，附带桌游与问答不另计作品。",
-      "source": "https://august-soft.com/fbox/"
+      "source": "https://august-soft.com/fbox/",
+      "chineseTitle": "八月作品合集"
     },
     {
       "id": "g267",
@@ -4637,7 +4678,8 @@
       "charactersNote": "",
       "synopsis": "转学生孝平来到全寄宿制的修智馆学院，加入学生会后发现身边的吸血鬼秘密。",
       "notes": "AUGUST 原作；本篇；Windows 7 对应版为后续版本。",
-      "source": "https://august-soft.com/product"
+      "source": "https://august-soft.com/product",
+      "chineseTitle": "赤色约定"
     },
     {
       "id": "g269",
@@ -4881,7 +4923,8 @@
       "charactersNote": "旧官网未提供可直接核对的完整角色名单，待核实。",
       "synopsis": "以学园中的女仆活动为舞台，展开带有恋爱分支的热闹校园喜剧。",
       "notes": "品牌第一作；旧官网使用框架与旧编码，角色资料暂未核实。",
-      "source": "https://www.asa-pro.com/mai/meikuru.html"
+      "source": "https://www.asa-pro.com/mai/meikuru.html",
+      "chineseTitle": "制造奇迹！"
     },
     {
       "id": "g283",
@@ -4895,7 +4938,8 @@
       "charactersNote": "旧官网未提供可直接核对的完整角色名单，待核实。",
       "synopsis": "围绕难以接近的少女与校园生活展开的恋爱喜剧，官网将其标作“高嶺の花恋愛AVG”。",
       "notes": "品牌第二作；角色姓名待官方资料进一步核实。",
-      "source": "https://www.asa-pro.com/top/hime/index.html"
+      "source": "https://www.asa-pro.com/top/hime/index.html",
+      "chineseTitle": "公主之后是甜心"
     },
     {
       "id": "g284",
@@ -4909,7 +4953,8 @@
       "charactersNote": "旧官网未提供可直接核对的完整角色名单，待核实。",
       "synopsis": "主人公在学校以男生身份活动，在宿舍却以女装身份生活；两种身份下与少女们相处并发展恋情。",
       "notes": "品牌第三作；剧情设定依据制作人员的官方开发日志。",
-      "source": "https://www.asa-pro.com/top/new/index.html"
+      "source": "https://www.asa-pro.com/top/new/index.html",
+      "chineseTitle": "转身恋爱"
     },
     {
       "id": "g285",
@@ -5358,7 +5403,8 @@
       "synopsis": "围绕异星世界与黑大将展开的成人向科幻冒险。",
       "notes": "Silky’s 原作；ELF 后续发行版另列。",
       "source": "https://archive.is/taUch",
-      "subcategory": "成人向冒险"
+      "subcategory": "成人向冒险",
+      "chineseTitle": "彼岸之外"
     },
     {
       "id": "g312",
@@ -5392,7 +5438,8 @@
       "synopsis": "添乘员松永善博重返夏日海岸，面对过去的恋情与新的相遇。",
       "notes": "主要版本已记录；其他移植和廉价版仍待核查。",
       "source": "https://archive.is/taUch",
-      "subcategory": "恋爱剧情"
+      "subcategory": "恋爱剧情",
+      "chineseTitle": "蓝色副歌"
     },
     {
       "id": "g314",
@@ -5562,7 +5609,8 @@
       "synopsis": "Nude Maker 与 ELF 合作的影像业界题材 ADV 与模拟游戏。",
       "notes": "主要版本已记录；其他移植和廉价版仍待核查。",
       "source": "https://archive.is/taUch",
-      "subcategory": "成人向冒险"
+      "subcategory": "成人向冒险",
+      "chineseTitle": "成人影像之王"
     },
     {
       "id": "g325",
@@ -5721,7 +5769,8 @@
       "charactersNote": "",
       "synopsis": "宗一在学生生活与秘密任务之间往返，调查逐渐牵出更久远的谜团。",
       "notes": "Leaf Visual Novel Series 第 4 作；2003 年 DVD 版更新画面，2007 年主机版另添配音和剧情。",
-      "source": "https://leaf.aquaplus.jp/product/rts/"
+      "source": "https://leaf.aquaplus.jp/product/rts/",
+      "chineseTitle": "旅路"
     },
     {
       "id": "g335",
@@ -5808,7 +5857,8 @@
       "charactersNote": "官网目录未列人物姓名，待逐一核实。",
       "synopsis": "失去记忆的男子在学校追寻自己的身份，过去的真相逐渐浮现。",
       "notes": "独立发售；成人向作品仅概括一般剧情。",
-      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+      "source": "https://sagaplanets.product.co.jp/works/works.htm",
+      "chineseTitle": "骸：追逐女性的獠牙"
     },
     {
       "id": "g340",
@@ -5989,7 +6039,8 @@
       "charactersNote": "",
       "synopsis": "寄住在小旅馆的学园少年阳斗，在天吉神社遇见自称吉乃姬的少女。",
       "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
-      "source": "https://sagapla.net/product.html"
+      "source": "https://sagapla.net/product.html",
+      "chineseTitle": "来吧，轻声哼唱！"
     },
     {
       "id": "g351",
@@ -6083,7 +6134,8 @@
       "charactersNote": "",
       "synopsis": "柾鹰能看见与人心善恶相连的天使或恶魔羽翼，儿时的相遇牵动现在的恋爱。",
       "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
-      "source": "https://sagapla.net/product.html"
+      "source": "https://sagapla.net/product.html",
+      "chineseTitle": "花之流恋"
     },
     {
       "id": "g357",
@@ -6147,7 +6199,8 @@
       "charactersNote": "官网目录未列人物姓名，待逐一核实。",
       "synopsis": "围绕传说中的十二颗“野心之星”，两名怪盗结盟，追查笼罩沙幌夜晚的秘密。",
       "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
-      "source": "https://sagapla.net/product.html"
+      "source": "https://sagapla.net/product.html",
+      "chineseTitle": "雄心任务"
     },
     {
       "id": "g361",
@@ -6193,7 +6246,8 @@
       "charactersNote": "",
       "synopsis": "友春与青梅竹马菜樱子、同学蓝里进入明风学园实习，收集由感谢之情产生的“Felicita”。",
       "notes": "首部作品，带有剧情推进判定。",
-      "source": "https://www.hook-net.jp/smee/product.html"
+      "source": "https://www.hook-net.jp/smee/product.html",
+      "chineseTitle": "莉莉米埃斯塔"
     },
     {
       "id": "g364",
@@ -6210,7 +6264,8 @@
       "charactersNote": "",
       "synopsis": "明广突然收到三名少女的告白，又与青梅竹马琴子共同生活，展开四人围绕他的恋爱喜剧。",
       "notes": "SMEE 独立发售的恋爱冒险。",
-      "source": "https://www.hook-net.jp/smee/product.html"
+      "source": "https://www.hook-net.jp/smee/product.html",
+      "chineseTitle": "晴天后宫"
     },
     {
       "id": "g365",
@@ -6224,7 +6279,8 @@
       "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
       "synopsis": "男子生徒进入原本的女子学园，却被编入唯一的男生班；主人公寻找校园里的邂逅。",
       "notes": "SMEE 独立发售的恋爱冒险。",
-      "source": "https://www.hook-net.jp/smee/product.html"
+      "source": "https://www.hook-net.jp/smee/product.html",
+      "chineseTitle": "恋爱革命！"
     },
     {
       "id": "g366",
@@ -6241,7 +6297,8 @@
       "charactersNote": "",
       "synopsis": "晴树和妹妹花穗寄住在叔父身边，边上学边在海边咖啡馆打工，与新同学和店员逐渐亲近。",
       "notes": "SMEE 独立发售的恋爱冒险。",
-      "source": "https://www.hook-net.jp/smee/product.html"
+      "source": "https://www.hook-net.jp/smee/product.html",
+      "chineseTitle": "爱意满满"
     },
     {
       "id": "g367",
@@ -6257,7 +6314,8 @@
       "charactersNote": "",
       "synopsis": "承接《ラブラブル》各路线结局，晴树与选择的恋人开始共同生活。",
       "notes": "独立发售的续作。",
-      "source": "https://www.hook-net.jp/smee/product.html"
+      "source": "https://www.hook-net.jp/smee/product.html",
+      "chineseTitle": "同居爱意满满"
     },
     {
       "id": "g368",
@@ -6271,7 +6329,8 @@
       "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
       "synopsis": "主人公不满足于平静的学园生活，尝试从相识、交友走向恋爱。",
       "notes": "SMEE 独立发售的恋爱冒险。",
-      "source": "https://www.hook-net.jp/smee/product.html"
+      "source": "https://www.hook-net.jp/smee/product.html",
+      "chineseTitle": "从朋友到恋人"
     },
     {
       "id": "g369",
@@ -6285,7 +6344,8 @@
       "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
       "synopsis": "收录《フレラバ》女主角的追加短篇，并与游戏配乐一同作为独立光盘产品发售。",
       "notes": "2014 年 C86 先行销售；与原作分别登记。",
-      "source": "https://www.hook-net.jp/htm/old_news/old_news_2014.htm"
+      "source": "https://www.hook-net.jp/htm/old_news/old_news_2014.htm",
+      "chineseTitle": "从朋友到恋人：迷你后日谈与原声集"
     },
     {
       "id": "g370",
@@ -6299,7 +6359,8 @@
       "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
       "synopsis": "渴望恋爱的主人公开始在面包店餐厅打工，借新的工作和人际关系接近心仪的对象。",
       "notes": "SMEE 独立发售的恋爱冒险。",
-      "source": "https://www.hook-net.jp/smee/product.html"
+      "source": "https://www.hook-net.jp/smee/product.html",
+      "chineseTitle": "纯爱连结"
     },
     {
       "id": "g371",
@@ -6313,7 +6374,8 @@
       "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
       "synopsis": "跟随家人最后一次搬迁，主人公住进祖母经营的乡间民宿，决定主动寻找自己的初恋。",
       "notes": "SMEE 独立发售的恋爱冒险。",
-      "source": "https://www.hook-net.jp/smee/product.html"
+      "source": "https://www.hook-net.jp/smee/product.html",
+      "chineseTitle": "她的脚步"
     },
     {
       "id": "g372",
@@ -6327,7 +6389,8 @@
       "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
       "synopsis": "坚持恋爱需要浪漫相识过程的主人公，因为一位少女的话而改变想法，开始尝试交往。",
       "notes": "SMEE 独立发售的恋爱冒险。",
-      "source": "https://www.hook-net.jp/smee/product.html"
+      "source": "https://www.hook-net.jp/smee/product.html",
+      "chineseTitle": "恋爱制作中"
     },
     {
       "id": "g373",
@@ -6345,7 +6408,8 @@
       "charactersNote": "",
       "synopsis": "分别描绘亜子、可憐、咲与主人公交往一年后的恋爱生活。",
       "notes": "第一卷独立发售。",
-      "source": "https://www.hook-net.jp/smee/makinglovers/fd/index.html"
+      "source": "https://www.hook-net.jp/smee/makinglovers/fd/index.html",
+      "chineseTitle": "恋爱制作中：甜蜜后日谈 第一卷"
     },
     {
       "id": "g374",
@@ -6362,7 +6426,8 @@
       "charactersNote": "",
       "synopsis": "分别描绘レイナ、ましろ与主人公交往一年后的恋爱生活。",
       "notes": "第二卷独立发售。",
-      "source": "https://www.hook-net.jp/smee/makinglovers/fd/index.html"
+      "source": "https://www.hook-net.jp/smee/makinglovers/fd/index.html",
+      "chineseTitle": "恋爱制作中：甜蜜后日谈 第二卷"
     },
     {
       "id": "g375",
@@ -6376,7 +6441,8 @@
       "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
       "synopsis": "经历一连串挫折后，主人公进入地方专门学校，入住女生居多的“ひだまり寮”。",
       "notes": "SMEE 独立发售的恋爱冒险。",
-      "source": "https://www.hook-net.jp/smee/product.html"
+      "source": "https://www.hook-net.jp/smee/product.html",
+      "chineseTitle": "糖果风格"
     },
     {
       "id": "g376",
@@ -6390,7 +6456,8 @@
       "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
       "synopsis": "将原作恋人的后日谈与原声配乐、新曲打包成独立售卖的 Fan Disc。",
       "notes": "含游戏后日谈和两张原声配乐 CD。",
-      "source": "https://www.hook-net.jp/smee/sugarstyle/fd/"
+      "source": "https://www.hook-net.jp/smee/sugarstyle/fd/",
+      "chineseTitle": "糖果风格：音乐与幸福合集"
     },
     {
       "id": "g377",
@@ -6406,7 +6473,8 @@
       "charactersNote": "",
       "synopsis": "あざらしそふと与 SMEE 联合制作的短篇恋爱 ADV，围绕麻布真澄展开。",
       "notes": "联合作品；不是 SMEE 主品牌编号作品。",
-      "source": "https://www.hook-net.jp/htm/old_news/old_news_2019.htm"
+      "source": "https://www.hook-net.jp/htm/old_news/old_news_2019.htm",
+      "chineseTitle": "俏皮女友让人无法忽视"
     },
     {
       "id": "g378",
@@ -6422,7 +6490,8 @@
       "charactersNote": "",
       "synopsis": "主人公与青梅竹马光被带到异世界，受命担任新国王，并面对陌生国度的恋爱与生活。",
       "notes": "SMEE 独立发售的恋爱冒险。",
-      "source": "https://www.hook-net.jp/smee/product.html"
+      "source": "https://www.hook-net.jp/smee/product.html",
+      "chineseTitle": "后宫王国"
     },
     {
       "id": "g379",
@@ -6440,7 +6509,8 @@
       "charactersNote": "",
       "synopsis": "主角与光、ソフィーヤ、キキ回到现代，继续各自婚后的恋爱生活。",
       "notes": "第一卷单独发售。",
-      "source": "https://www.hook-net.jp/smee/haremkingdom/fd/"
+      "source": "https://www.hook-net.jp/smee/haremkingdom/fd/",
+      "chineseTitle": "这不是后宫王国：光、索菲娅与琪琪篇"
     },
     {
       "id": "g380",
@@ -6457,7 +6527,8 @@
       "charactersNote": "",
       "synopsis": "主角与シャルローネ、マルー回到现代，续写异世界故事之后的日常。",
       "notes": "第二卷单独发售。",
-      "source": "https://www.hook-net.jp/smee/haremkingdom/fd/"
+      "source": "https://www.hook-net.jp/smee/haremkingdom/fd/",
+      "chineseTitle": "这不是后宫王国：夏洛妮与玛露篇"
     },
     {
       "id": "g381",
@@ -6471,7 +6542,8 @@
       "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
       "synopsis": "坚持“一生一次理想恋爱”的主人公，在学园的第二个夏天决定主动面对身边的缘分。",
       "notes": "SMEE 独立发售的恋爱冒险。",
-      "source": "https://www.hook-net.jp/smee/product.html"
+      "source": "https://www.hook-net.jp/smee/product.html",
+      "chineseTitle": "初恋制作中"
     },
     {
       "id": "g382",
@@ -6485,7 +6557,8 @@
       "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
       "synopsis": "主人公思考相遇与告白的时机，希望以自己的努力建立一段完整的恋爱关系。",
       "notes": "SMEE 独立发售的恋爱冒险。",
-      "source": "https://www.hook-net.jp/smee/product.html"
+      "source": "https://www.hook-net.jp/smee/product.html",
+      "chineseTitle": "一对一男友女友"
     },
     {
       "id": "g383",
@@ -6502,7 +6575,8 @@
       "charactersNote": "",
       "synopsis": "《ハジラブ》中桜子与結衣两条路线的独立售卖后日谈。",
       "notes": "第一卷单独发售。",
-      "source": "https://www.hook-net.jp/smee/hajilovefd/"
+      "source": "https://www.hook-net.jp/smee/hajilovefd/",
+      "chineseTitle": "初恋制作中：迷你后日谈 第一卷"
     },
     {
       "id": "g384",
@@ -6519,7 +6593,8 @@
       "charactersNote": "",
       "synopsis": "《ハジラブ》中小唄与初穂两条路线的独立售卖后日谈。",
       "notes": "第二卷单独发售。",
-      "source": "https://www.hook-net.jp/smee/hajilovefd/"
+      "source": "https://www.hook-net.jp/smee/hajilovefd/",
+      "chineseTitle": "初恋制作中：迷你后日谈 第二卷"
     },
     {
       "id": "g385",
@@ -6533,7 +6608,8 @@
       "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
       "synopsis": "在《１／１彼氏彼女》已有恋爱路线之后继续描绘角色的相处生活。",
       "notes": "独立发售的迷你 Fan Disc。",
-      "source": "https://www.hook-net.jp/htm/product.htm"
+      "source": "https://www.hook-net.jp/htm/product.htm",
+      "chineseTitle": "一对一男友女友：迷你后日谈"
     },
     {
       "id": "g386",
@@ -6549,7 +6625,8 @@
       "charactersNote": "",
       "synopsis": "家遭火灾的主人公为照顾妹妹，接受女子宿舍住院管理工作，并在旁边的可丽饼咖啡馆帮忙。",
       "notes": "SMEE 独立发售的恋爱冒险。",
-      "source": "https://www.hook-net.jp/smee/product.html"
+      "source": "https://www.hook-net.jp/smee/product.html",
+      "chineseTitle": "爱恋缤纷碰碰！"
     },
     {
       "id": "g387",
@@ -6563,7 +6640,8 @@
       "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
       "synopsis": "以原作六位女主角为中心，补写本篇故事到结尾之间的恋爱片段。",
       "notes": "独立发售的 Fan Disc。",
-      "source": "https://www.hook-net.jp/htm/product.htm"
+      "source": "https://www.hook-net.jp/htm/product.htm",
+      "chineseTitle": "浓情爱恋缤纷碰碰！"
     },
     {
       "id": "g388",
@@ -6577,7 +6655,8 @@
       "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
       "synopsis": "围绕放学后的校园与女仆主题展开恋爱故事。",
       "notes": "CROSSNET 时期 FAVORITE 开发品牌作品。",
-      "source": "https://www.favo-soft.jp/soft/product/angelwish/index.html"
+      "source": "https://www.favo-soft.jp/soft/product/angelwish/index.html",
+      "chineseTitle": "天使愿望：放学后给仆人的吻"
     },
     {
       "id": "g389",
@@ -6591,7 +6670,8 @@
       "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
       "synopsis": "以魔法学园为舞台，描绘主人公与同伴的日常和恋情。",
       "notes": "CROSSNET 时期 FAVORITE 开发品牌作品。",
-      "source": "https://www.favo-soft.jp/soft/product/wiz/index.html"
+      "source": "https://www.favo-soft.jp/soft/product/wiz/index.html",
+      "chineseTitle": "与你的周年纪念"
     },
     {
       "id": "g390",
@@ -6605,7 +6685,8 @@
       "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
       "synopsis": "在《ウィズ アニバーサリィー》的世界里追加角色故事。",
       "notes": "CROSSNET 时期 FAVORITE 开发品牌作品。",
-      "source": "https://www.favo-soft.jp/soft/product/wiz_funta/index.html"
+      "source": "https://www.favo-soft.jp/soft/product/wiz_funta/index.html",
+      "chineseTitle": "与你的周年纪念：趣味庆典"
     },
     {
       "id": "g391",
@@ -6619,7 +6700,8 @@
       "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
       "synopsis": "以寄宿学园的交往和恋爱为主线的校园冒险。",
       "notes": "CROSSNET 时期 FAVORITE 开发品牌作品。",
-      "source": "https://www.favo-soft.jp/soft/product/happy/index.html"
+      "source": "https://www.favo-soft.jp/soft/product/happy/index.html",
+      "chineseTitle": "幸福玛格丽特！"
     },
     {
       "id": "g392",
@@ -6636,7 +6718,8 @@
       "charactersNote": "",
       "synopsis": "主人公回到儿时生活的小镇，在观星活动中与朋友重逢，寻找与过去有关的答案。",
       "notes": "CROSSNET 时期 FAVORITE 开发品牌作品。",
-      "source": "https://www.favo-soft.jp/soft/product/hoshimemo/index.html"
+      "source": "https://www.favo-soft.jp/soft/product/hoshimemo/index.html",
+      "chineseTitle": "星空的记忆：向流星许愿"
     },
     {
       "id": "g393",
@@ -6652,7 +6735,8 @@
       "charactersNote": "",
       "synopsis": "承接《星空のメモリア》各篇结局，补写人物的相处与后日谈。",
       "notes": "独立发售的后日谈／Fan Disc。",
-      "source": "https://www.favo-soft.jp/soft/product/EternalHeart/index.htm"
+      "source": "https://www.favo-soft.jp/soft/product/EternalHeart/index.htm",
+      "chineseTitle": "星空的记忆：永恒之心"
     },
     {
       "id": "g394",
@@ -6671,7 +6755,8 @@
       "charactersNote": "",
       "synopsis": "拥有特殊力量的悠馬住在嵐山荘，遇见来自不同世界的少女并逐步了解彼此的约定。",
       "notes": "FAVORITE 独立作品。",
-      "source": "https://www.favo-soft.jp/soft/product/world/index.htm"
+      "source": "https://www.favo-soft.jp/soft/product/world/index.htm",
+      "chineseTitle": "缤纷世界"
     },
     {
       "id": "g395",
@@ -6688,7 +6773,8 @@
       "charactersNote": "",
       "synopsis": "延续《いろとりどりのセカイ》的结局，以悠馬与真紅等人的新故事收束彼此的旅程。",
       "notes": "独立发售的后日谈／Fan Disc。",
-      "source": "https://www.favo-soft.jp/soft/product/Hikari/index.htm"
+      "source": "https://www.favo-soft.jp/soft/product/Hikari/index.htm",
+      "chineseTitle": "缤纷之光"
     },
     {
       "id": "g396",
@@ -6702,7 +6788,8 @@
       "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
       "synopsis": "在雪景中的小镇，少年与少女们相遇，面对各自的愿望与秘密。",
       "notes": "FAVORITE 独立作品。",
-      "source": "https://www.favo-soft.jp/soft/product/WhiteEternity/index.html"
+      "source": "https://www.favo-soft.jp/soft/product/WhiteEternity/index.html",
+      "chineseTitle": "阿斯特赖亚的白色永恒"
     },
     {
       "id": "g397",
@@ -6719,7 +6806,8 @@
       "charactersNote": "",
       "synopsis": "以《いろとりどりのセカイ》中的二階堂真紅为中心，继续描绘她与悠馬的未来。",
       "notes": "独立发售的后日谈／Fan Disc。",
-      "source": "https://www.favo-soft.jp/soft/product/WorldsEndLove/index.html"
+      "source": "https://www.favo-soft.jp/soft/product/WorldsEndLove/index.html",
+      "chineseTitle": "红瞳映照的世界"
     },
     {
       "id": "g398",
@@ -6733,7 +6821,8 @@
       "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
       "synopsis": "延续《アストラエアの白き永遠》各篇结局，描绘人物之后的生活与新的故事。",
       "notes": "独立发售的后日谈／Fan Disc。",
-      "source": "https://www.favo-soft.jp/soft/product/AstralAirFinale/index.html"
+      "source": "https://www.favo-soft.jp/soft/product/AstralAirFinale/index.html",
+      "chineseTitle": "阿斯特赖亚的白色永恒：终章·白色星梦"
     },
     {
       "id": "g399",
@@ -6750,7 +6839,8 @@
       "charactersNote": "",
       "synopsis": "十余年前曾有魔法少女守护小镇；奏大雅在今日与曾经的伙伴重逢，追寻夜晚与旧日约定。",
       "notes": "FAVORITE 独立作品。",
-      "source": "https://www.favo-soft.jp/soft/product/sakura/index.html"
+      "source": "https://www.favo-soft.jp/soft/product/sakura/index.html",
+      "chineseTitle": "樱花萌放：夜的轮回"
     },
     {
       "id": "g400",
@@ -6764,7 +6854,8 @@
       "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
       "synopsis": "主人公与伙伴们为舞台表演的梦想相聚，在排练、演出与日常中发展恋情。",
       "notes": "FAVORITE 独立作品。",
-      "source": "https://www.favo-soft.jp/soft/product/happylive_showup/index.html"
+      "source": "https://www.favo-soft.jp/soft/product/happylive_showup/index.html",
+      "chineseTitle": "快乐舞台秀！"
     },
     {
       "id": "g401",
@@ -6778,7 +6869,8 @@
       "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
       "synopsis": "延续本篇的舞台与青春故事，描绘角色们走向梦想之后的恋爱篇章。",
       "notes": "独立发售的后日谈／Fan Disc。",
-      "source": "https://www.favo-soft.jp/soft/product/happylive_showup_encore/index.html"
+      "source": "https://www.favo-soft.jp/soft/product/happylive_showup_encore/index.html",
+      "chineseTitle": "快乐舞台秀：安可！！"
     },
     {
       "id": "g402",
@@ -6796,7 +6888,8 @@
       "charactersNote": "",
       "synopsis": "父母离世后，圭吾与妹妹桜被不同家庭收养。临近毕业，他仍记得年幼时要守护桜的约定，也与一同成长的紅葉面对未来。",
       "notes": "官网说明为通过选项推进的小说式 AVG；不属于文字指令玩法。",
-      "source": "https://www.cuffs.co.jp/products/sakuramusubi/story/index.html"
+      "source": "https://www.cuffs.co.jp/products/sakuramusubi/story/index.html",
+      "chineseTitle": "樱花结缘"
     },
     {
       "id": "g403",
@@ -6814,7 +6907,8 @@
       "charactersNote": "",
       "synopsis": "父亲离世后，主人公回到旧家，面对幼时好友透子和父亲留下的小小“ワンコ”；照料她的日常逐渐改变彼此的关系。",
       "notes": "2007 年独立发售的短篇；2018 年新增下载版。",
-      "source": "https://www.cuffs.co.jp/products/wanko/story/index.html"
+      "source": "https://www.cuffs.co.jp/products/wanko/story/index.html",
+      "chineseTitle": "小狗与莉莉"
     },
     {
       "id": "g404",
@@ -6832,7 +6926,8 @@
       "charactersNote": "",
       "synopsis": "以雨、邂逅与恋爱为主题，少年与千代川霖等少女相遇，逐渐了解她们与这座城市的关系。",
       "notes": "旧官网的剧情与角色页以图片为主，梗概保持简要。",
-      "source": "https://www.cuffs.co.jp/products/amesarasa/"
+      "source": "https://www.cuffs.co.jp/products/amesarasa/",
+      "chineseTitle": "雨莎拉莎：在雨中爱上不可思议的你"
     },
     {
       "id": "g405",
@@ -6846,7 +6941,8 @@
       "charactersNote": "旧站人物介绍以图片呈现，姓名待复核。",
       "synopsis": "围绕主人公与双胞胎妹妹之间的亲情和渐渐变化的感情，描绘同居生活中的选择。",
       "notes": "独立短篇。官网剧情、人物为图片式旧页，角色姓名与配音待进一步核实。",
-      "source": "https://www.cuffs.co.jp/products/loveorlike/"
+      "source": "https://www.cuffs.co.jp/products/loveorlike/",
+      "chineseTitle": "最喜欢哥哥！爱还是喜欢？"
     },
     {
       "id": "g406",
@@ -6864,7 +6960,8 @@
       "charactersNote": "",
       "synopsis": "少年进入寄宿制学园，在与絵里香、愛等少女相处的过程中，逐渐重新面对自己与他人的关系。",
       "notes": "发售时部分预告路线未实装；2008—2010 年补丁追加愛、絵里香剧情。瑠璃路线 2013 年宣布停止开发，不能算已完成。",
-      "source": "https://www.cuffs.co.jp/products/garden/support/support.htm"
+      "source": "https://www.cuffs.co.jp/products/garden/support/support.htm",
+      "chineseTitle": "花园"
     },
     {
       "id": "g407",
@@ -6883,7 +6980,8 @@
       "charactersNote": "",
       "synopsis": "以名为 SOURIRE 的咖啡馆及周边日常为舞台，描绘少年与杏子、芹花、香澄、美百合等人的相遇和恋爱。",
       "notes": "CUFFS 第六部主品牌作品；官网角色页列有配音试听。",
-      "source": "https://www.cuffs.co.jp/products/cafesourire/"
+      "source": "https://www.cuffs.co.jp/products/cafesourire/",
+      "chineseTitle": "微笑咖啡馆"
     },
     {
       "id": "g408",
@@ -6899,7 +6997,8 @@
       "charactersNote": "",
       "synopsis": "以夏日的雨与少年少女的邂逅为线索，描绘彼此逐渐靠近的校园恋爱故事。",
       "notes": "CUBE 官网编号第 1 作。",
-      "source": "https://www.cuffs-cube.jp/products/natsunoame/"
+      "source": "https://www.cuffs-cube.jp/products/natsunoame/",
+      "chineseTitle": "夏之雨"
     },
     {
       "id": "g409",
@@ -6916,7 +7015,8 @@
       "charactersNote": "",
       "synopsis": "少年与名为ゆあ的少女相遇；一本日记串起他和身边少女的日常与恋情。",
       "notes": "CUBE 官网编号第 2 作。",
-      "source": "https://www.cuffs-cube.jp/products/yourdiary/"
+      "source": "https://www.cuffs-cube.jp/products/yourdiary/",
+      "chineseTitle": "你的日记"
     },
     {
       "id": "g410",
@@ -6936,7 +7036,8 @@
       "charactersNote": "",
       "synopsis": "围绕倉野家的双胞胎姐妹与主人公展开，描写家庭生活中的亲密关系和恋爱选择。",
       "notes": "CUBE 官网编号第 3 作。",
-      "source": "https://www.cuffs-cube.jp/products/kurafuta/"
+      "source": "https://www.cuffs-cube.jp/products/kurafuta/",
+      "chineseTitle": "仓野家的双胞胎故事"
     },
     {
       "id": "g411",
@@ -6953,7 +7054,8 @@
       "charactersNote": "",
       "synopsis": "主人公与同伴们为舞台表演共同努力，在排练与相处中发展恋情。",
       "notes": "CUBE 官网编号第 4 作。",
-      "source": "https://www.cuffs-cube.jp/products/koikano/"
+      "source": "https://www.cuffs-cube.jp/products/koikano/",
+      "chineseTitle": "恋爱少女的笨拙舞台"
     },
     {
       "id": "g412",
@@ -6969,7 +7071,8 @@
       "charactersNote": "",
       "synopsis": "以間宮家的五胞胎为中心，描绘少年与性格各异的姐妹共同生活后的恋爱故事。",
       "notes": "CUBE 官网编号第 5 作。",
-      "source": "https://www.cuffs-cube.jp/products/mamiya/"
+      "source": "https://www.cuffs-cube.jp/products/mamiya/",
+      "chineseTitle": "间宫家的五胞胎故事"
     },
     {
       "id": "g413",
@@ -6988,7 +7091,8 @@
       "charactersNote": "",
       "synopsis": "以梦想和欲望交错的世界为舞台，主人公与少女们相遇并逐步面对各自的心愿。",
       "notes": "CUBE 官网编号第 6 作。",
-      "source": "https://www.cuffs-cube.jp/products/yurauka/"
+      "source": "https://www.cuffs-cube.jp/products/yurauka/",
+      "chineseTitle": "在摇曳心绪的世界里，你的梦想与欲望能否实现"
     },
     {
       "id": "g414",
@@ -7005,7 +7109,8 @@
       "charactersNote": "",
       "synopsis": "围绕拥有高度智能的少女ツクヨミ，讲述少年与她以及身边少女的日常和恋爱。",
       "notes": "CUBE 官网编号第 7 作。",
-      "source": "https://www.cuffs-cube.jp/products/kamikimi/"
+      "source": "https://www.cuffs-cube.jp/products/kamikimi/",
+      "chineseTitle": "神明般的你"
     },
     {
       "id": "g415",
@@ -7019,7 +7124,8 @@
       "charactersNote": "官网以图像展示人物，姓名留待核实。",
       "synopsis": "以毕业为主题，海与雪之间的少年少女面对离别、未来和仍未说出口的心意。",
       "notes": "CUBE 官网编号第 8 作。",
-      "source": "https://www.cuffs.co.jp/products/cyanblue/"
+      "source": "https://www.cuffs.co.jp/products/cyanblue/",
+      "chineseTitle": "海与雪的青蓝"
     },
     {
       "id": "g416",
@@ -7036,7 +7142,8 @@
       "charactersNote": "",
       "synopsis": "八坂勇気来到女子宿舍みなと寮帮忙，与经营咖啡馆的住户们展开热闹的日常。",
       "notes": "CUBE 官网编号第 9 作。",
-      "source": "https://www.cuffs.co.jp/products/nekoking/"
+      "source": "https://www.cuffs.co.jp/products/nekoking/",
+      "chineseTitle": "与猫咪同住女子宿舍！"
     },
     {
       "id": "g417",
@@ -7053,7 +7160,8 @@
       "charactersNote": "",
       "synopsis": "疫情令世界陷入隔绝；独居乡间的ユウジ遇到ミオ，两人开始相依为命的日子。",
       "notes": "CUBE 官网编号第 10 作。",
-      "source": "https://www.cuffs.co.jp/products/endofsummer/"
+      "source": "https://www.cuffs.co.jp/products/endofsummer/",
+      "chineseTitle": "夏日终焉"
     },
     {
       "id": "g418",
@@ -7071,7 +7179,8 @@
       "charactersNote": "",
       "synopsis": "深海恭平在陌生海滩醒来，遇到咬住自己头发的鲨鱼少女くう，一场离奇的七日故事由此展开。",
       "notes": "CUBE 官网编号第 11 作。",
-      "source": "https://www.cuffs.co.jp/products/samenana/"
+      "source": "https://www.cuffs.co.jp/products/samenana/",
+      "chineseTitle": "与鲨鱼共度的七日"
     },
     {
       "id": "g419",
@@ -7090,7 +7199,8 @@
       "charactersNote": "",
       "synopsis": "失去双亲后，春日野悠带着双胞胎妹妹穹迁往乡村奥木染，在旧识与新朋友之间重新开始生活。",
       "notes": "Sphere 的第一部作品，分支选择式视觉小说。",
-      "source": "https://www.cuffs.co.jp/products/yosuga/main.php"
+      "source": "https://www.cuffs.co.jp/products/yosuga/main.php",
+      "chineseTitle": "缘之空"
     },
     {
       "id": "g420",
@@ -7109,7 +7219,8 @@
       "charactersNote": "",
       "synopsis": "《ヨスガノソラ》独立发售的 Fan Disc：追加梢与やひろ的故事，并续写穹结局之后的篇章。",
       "notes": "独立发售的第二部作品，作为 Fan Disc 单独计数。",
-      "source": "https://www.cuffs.co.jp/products/haruka/"
+      "source": "https://www.cuffs.co.jp/products/haruka/",
+      "chineseTitle": "悠之空"
     },
     {
       "id": "g421",
@@ -7127,7 +7238,8 @@
       "charactersNote": "",
       "synopsis": "美馬雪人为了寻找多年前失散的妹妹回到故乡，从开放的旧时记录着手，遇见与往事相连的少女们。",
       "notes": "官网类型为“妹探し恋愛アドベンチャー”；按选择式叙事游戏收录。",
-      "source": "https://www.cuffs.co.jp/products/imouto/"
+      "source": "https://www.cuffs.co.jp/products/imouto/",
+      "chineseTitle": "妹妹的形状"
     },
     {
       "id": "g422",
@@ -7147,7 +7259,8 @@
       "charactersNote": "",
       "synopsis": "宝交早生到家庭餐厅 Berry’s 应聘打工，与春姫、夏姫等同事共度忙碌而热闹的夏天。",
       "notes": "Sphere 第四部编号作品。官网试玩页确认成品除主人公外有完整角色配音。",
-      "source": "https://www.cuffs.co.jp/products/berrys/story/"
+      "source": "https://www.cuffs.co.jp/products/berrys/story/",
+      "chineseTitle": "贝莉餐厅"
     }
   ],
   "versions": [

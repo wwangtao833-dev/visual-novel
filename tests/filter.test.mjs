@@ -1,9 +1,25 @@
 import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import test from 'node:test';
-import {filterCatalogue,publisherWorkCounts} from '../filter.mjs';
+import {filterCatalogue,publisherWorkCounts,visibleVoiceNote} from '../filter.mjs';
 
 const data=JSON.parse(readFileSync(new URL('../data/games.json',import.meta.url),'utf8'));
+
+test('Chinese titles and alternate spellings find the same work without losing original name search',()=>{
+  for(const query of ['白色相簿','白色相簿 2','白色相册','WHITE ALBUM2']){
+    assert.ok(filterCatalogue(data,{query}).some(({work})=>work.id==='g039'),query);
+  }
+  assert.equal(data.works.find(w=>w.id==='g039').chineseTitle,'白色相簿2');
+  assert.ok(filterCatalogue(data,{query:'缘之空'}).some(({work})=>work.id==='g419'));
+  assert.ok(filterCatalogue(data,{query:'仓野家的双胞胎'}).some(({work})=>work.id==='g410'));
+});
+
+test('version label appears only for explicitly unvoiced releases',()=>{
+  for(const voice of ['有','有（部分）','有（主角部分）','未核实']){
+    assert.equal(visibleVoiceNote({voice}),'');
+  }
+  assert.equal(visibleVoiceNote({voice:'无'}),'无角色配音');
+});
 
 test('a 1999 PlayStation query selects ToHeart port, not its 1997 Windows original',()=>{
   const result=filterCatalogue(data,{query:'ToHeart',platform:'PlayStation',from:1999,to:1999});

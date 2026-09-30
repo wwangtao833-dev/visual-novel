@@ -34,6 +34,8 @@ for version in versions:
         assert companies == [taxonomy['publisherAliases'].get(raw, raw)], f'{version["id"]} 厂商别名不一致'
 assert all(work['source'].startswith('https://') and isinstance(work['characters'], list)
            and work['genre'] for work in works)
+assert all(isinstance(work.get('chineseTitle', ''), str) and
+           isinstance(work.get('titleAliases', []), list) for work in works)
 for work in works:
     years = [version['year'] for version in versions if version['workId'] == work['id']]
     assert years and min(years) == work['firstYear'], f"{work['title']} 首发年份与平台版本冲突"
@@ -46,13 +48,15 @@ for version, row in zip(versions, rows):
     work = next(work for work in works if work['id'] == version['workId'])
     assert row['作品ID'] == work['id'] and row['版本ID'] == version['id']
     assert row['作品名称'] == work['title'] and row['主分类'] == work['category']
+    assert row['中文名称'] == work.get('chineseTitle', '')
     assert row['细分类'] == work['subcategory']
     assert row['游戏类型'] == work['genre']
     assert row['发行厂商归档'] == ('、'.join(version['publisherCompanies']) or '非商业／未署商业厂商')
     assert row['主要角色'] == ('、'.join(work['characters']) or '待核实')
     assert str(version['year']) == row['发行年份']
+    assert row['角色配音标注'] == ('无角色配音' if version['voice'] == '无' else '')
     for key, field in [('platform', '平台'), ('publisher', '发行公司'),
-                       ('kind', '版本类型'), ('voice', '配音'),
+                       ('kind', '版本类型'),
                        ('differences', '版本差异'), ('source', '来源')]:
         assert version[key] == row[field], f"{version['id']} 的 {field} 与 JSON 不一致"
 coverage = json.loads((ROOT / 'data/company-coverage.json').read_text(encoding='utf-8'))
