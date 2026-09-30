@@ -5889,6 +5889,129 @@
       "auditSourceLabel": "CUFFS 官方产品目录",
       "overviewLabel": "独立发售的叙事游戏",
       "description": "CUBE 厂商专题：十一部编号作品、十八条 Windows 版本记录，以及扩充版、合集和补丁的核对。"
+    },
+    {
+      "id": "sphere",
+      "name": "Sphere",
+      "checkedAt": "2026-09-30",
+      "status": "官网四部编号作品逐项核对",
+      "scope": "收录 Sphere 官网第 1—4 部已发售叙事作品，包括独立售卖的《ハルカナソラ》Fan Disc；通常版、下载版和双作套装归档为版本。没有新增图文指令或纯文本指令游戏。",
+      "versionScope": "记录四部 Windows 首发、2010 年通常版、三款单独下载版及套装的两条收录，共十条已发行版本。Steam 两页仍标“Coming soon”，不作已发行版本；其他地区及平台版本待核对。",
+      "publisherNote": "Sphere 品牌官网四部编号游戏均已登记。《ハルカナソラ》是一部独立出售的 Fan Disc，不与《ヨスガノソラ》合并为同一作品。",
+      "workIds": [
+        "g419",
+        "g420",
+        "g421",
+        "g422"
+      ],
+      "publisherWorkIds": [
+        "g419",
+        "g420",
+        "g421",
+        "g422"
+      ],
+      "catalogueEntryCount": 4,
+      "source": "https://www.cuffs.co.jp/main/products/",
+      "sectionTitle": "2008—2013 年 Sphere 四部编号作品",
+      "auditLabel": "四部主作及通常版、下载版、套装、Steam 待发行项目和补丁核对。",
+      "auditNote": "“完整”指官网第 1—4 部已发行的独立游戏逐项处理。Steam 商品页是未来发行信息；不能据页面上架或预告推定已经售卖。",
+      "entries": [
+        {
+          "title": "ヨスガノソラ",
+          "status": "主数据库",
+          "workIds": [
+            "g419"
+          ],
+          "reason": "官网第 1 部独立作品，记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "ハルカナソラ",
+          "status": "主数据库",
+          "workIds": [
+            "g420"
+          ],
+          "reason": "官网第 2 部独立作品，记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "イモウトノカタチ",
+          "status": "主数据库",
+          "workIds": [
+            "g421"
+          ],
+          "reason": "官网第 3 部独立作品，记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "Berry’s",
+          "status": "主数据库",
+          "workIds": [
+            "g422"
+          ],
+          "reason": "官网第 4 部独立作品，记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "ヨスガノソラ 通常版",
+          "status": "版本归档",
+          "workIds": [
+            "g419"
+          ],
+          "reason": "2010 年推出的同作通常版，不另计新游戏。",
+          "source": "https://www.cuffs.co.jp/products/haruka/"
+        },
+        {
+          "title": "ヨスガノソラ／ハルカナソラ 数字下载与套装",
+          "status": "版本归档",
+          "workIds": [
+            "g419",
+            "g420"
+          ],
+          "reason": "两部作品的 2015 年单独下载版和 2016 年限期数字套装；不合并成第五部作品。",
+          "source": "https://www.cuffs.co.jp/main/online/game/"
+        },
+        {
+          "title": "Berry’s 数字下载版",
+          "status": "版本归档",
+          "workIds": [
+            "g422"
+          ],
+          "reason": "官网列有 2015 年数字版，归在原作品下。",
+          "source": "https://www.cuffs.co.jp/main/online/game/"
+        },
+        {
+          "title": "Yosuga no Sora Steam 页面",
+          "status": "尚未发售",
+          "workIds": [
+            "g419"
+          ],
+          "reason": "截至 2026 年 9 月 30 日仍标“Coming soon”，发行方栏为 QC株式会社；未计入已发行版本。",
+          "source": "https://store.steampowered.com/app/2981340/Yosuga_no_Sora/"
+        },
+        {
+          "title": "Haruka na Sora Steam 页面",
+          "status": "尚未发售",
+          "workIds": [
+            "g420"
+          ],
+          "reason": "截至 2026 年 9 月 30 日仍标“Coming soon”，发行方栏为 QC株式会社；未计入已发行版本。",
+          "source": "https://store.steampowered.com/app/3130110/"
+        },
+        {
+          "title": "ヨスガノソラ 修正补丁",
+          "status": "原作更新",
+          "workIds": [
+            "g419"
+          ],
+          "reason": "依附原作的修正补丁，不另计作品。",
+          "source": "https://www.cuffs.co.jp/products/yosuga/support.html"
+        }
+      ],
+      "auditTitle": "Sphere 官方目录与数字版本核对",
+      "auditSourceLabel": "CUFFS 官方产品目录",
+      "overviewLabel": "独立发售的叙事游戏",
+      "description": "Sphere 品牌专题：四部独立叙事游戏、十条 Windows 版本记录，另有 Steam 待发行说明。"
     }
   ]
 }
