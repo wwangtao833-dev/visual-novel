@@ -4,13 +4,15 @@
 
 ## 数据范围
 
-当前收录 **407 部代表作品、773 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、ゆずソフト、Innocent Grey、minori、AUGUST、tone work’s、ASa Project、ELF、Leaf、SAGA PLANETS、SMEE、FAVORITE、CUFFS、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
+当前收录 **418 部代表作品、791 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、ゆずソフト、Innocent Grey、minori、AUGUST、tone work’s、ASa Project、ELF、Leaf、SAGA PLANETS、SMEE、FAVORITE、CUFFS、CUBE、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
 
 作品主分类是一种检索入口，并非互斥的学术分类：一部恋爱视觉小说也可能属于广义 Galgame。视觉小说的“有声小说”可能只有音乐和音效，配音字段专指游戏内角色人声。
 
 ## 厂商集中整理
 
 已新增 [CUFFS 主品牌专题](cuffs.html)：官网明确标为第 1—6 作的 **6 部独立游戏**均已录入，含 **7 条已核实版本记录**。Sphere、CUBE 等姐妹品牌有独立作品序列；《Garden》2008—2010 年追加剧情补丁与 2013 年停止开发的瑠璃路线分别说明，补丁不另计新游戏。《ワンコとリリー》2018 年下载版与无角色配音的官网说明也已记录。没有新增图文指令和纯文本指令游戏。
+
+已新增 [CUBE 品牌专题](cube.html)：官网第 1—11 部编号作品均已录入，含 **11 部独立游戏、18 条 Windows 版本记录**。`your diary+H` 和《神様のような君へ Extended Edition》归入原作扩充版本；两套合集分别核对游戏盘内容。补丁不另计独立作品。本轮没有新增图文指令和纯文本指令游戏。
 
 已新增 [FAVORITE 专题](favorite.html)：对照官网 **24 项产品**，录入 **14 部独立作品、35 条已核实版本记录**。2004—2009 年 CROSSNET 发行的五部首发与 FAVORITE 自行发行作品分列；独立 Fan Disc 保留作品身份，合集、主机移植和高清重制归入版本。官网索引的两处旧日期以单作、主机发行页的发售公告核正。没有新增纯文本指令或图文指令游戏。
 

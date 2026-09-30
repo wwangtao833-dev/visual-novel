@@ -5687,6 +5687,208 @@
       "auditSourceLabel": "CUFFS 官方产品目录",
       "overviewLabel": "主品牌独立叙事游戏",
       "description": "CUFFS 主品牌作品专题：六部独立叙事游戏、七条已核实版本记录，以及 Garden 追加剧情与停止开发路线的说明。"
+    },
+    {
+      "id": "cube",
+      "name": "CUBE",
+      "checkedAt": "2026-09-30",
+      "status": "官网十一部编号作品逐项核对",
+      "scope": "按 CUFFS 官网 CUBE 1st—11th Product 的编号收录十一部已发行叙事游戏。两款扩充版、两套合集与依附原作的补丁归档，不增加作品数；没有新增图文指令或纯文本指令游戏。",
+      "versionScope": "记录十一部 Windows 首发、两款扩充版及五条合集收录，共十八条版本记录。数字下载、主机移植及地区发售日期尚未逐项核对。",
+      "publisherNote": "以官网 CUBE 品牌编号为界，十一部独立作品从《夏ノ雨》至《サメと生きる七日間》；CUFFS、Sphere、MintCUBE、Sonora 等姐妹品牌各自单列。",
+      "workIds": [
+        "g408",
+        "g409",
+        "g410",
+        "g411",
+        "g412",
+        "g413",
+        "g414",
+        "g415",
+        "g416",
+        "g417",
+        "g418"
+      ],
+      "publisherWorkIds": [
+        "g408",
+        "g409",
+        "g410",
+        "g411",
+        "g412",
+        "g413",
+        "g414",
+        "g415",
+        "g416",
+        "g417",
+        "g418"
+      ],
+      "catalogueEntryCount": 15,
+      "source": "https://www.cuffs.co.jp/main/products/",
+      "sectionTitle": "2009—2022 年 CUBE 十一部编号作品",
+      "auditLabel": "十一部编号作品、两款扩充版和两套合集，另注明两类更新补丁。",
+      "auditNote": "官网用“2nd+H”“7thEX”标识扩充版。两套合集的游戏盘内容按官方商品说明核对；画册出现的作品插画不算游戏收录。 2021 年合集三张游戏盘分别预装其补丁。",
+      "entries": [
+        {
+          "title": "夏ノ雨",
+          "status": "主数据库",
+          "workIds": [
+            "g408"
+          ],
+          "reason": "CUBE 官网编号第 1 作；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "your diary",
+          "status": "主数据库",
+          "workIds": [
+            "g409"
+          ],
+          "reason": "CUBE 官网编号第 2 作；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "倉野くんちのふたご事情",
+          "status": "主数据库",
+          "workIds": [
+            "g410"
+          ],
+          "reason": "CUBE 官网编号第 3 作；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "恋する彼女の不器用な舞台",
+          "status": "主数据库",
+          "workIds": [
+            "g411"
+          ],
+          "reason": "CUBE 官网编号第 4 作；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "間宮くんちの五つ子事情",
+          "status": "主数据库",
+          "workIds": [
+            "g412"
+          ],
+          "reason": "CUBE 官网编号第 5 作；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "ゆらめく心に満ちた世界で、君の夢と欲望は叶うか",
+          "status": "主数据库",
+          "workIds": [
+            "g413"
+          ],
+          "reason": "CUBE 官网编号第 6 作；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "神様のような君へ",
+          "status": "主数据库",
+          "workIds": [
+            "g414"
+          ],
+          "reason": "CUBE 官网编号第 7 作；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "海と雪のシアンブルー",
+          "status": "主数据库",
+          "workIds": [
+            "g415"
+          ],
+          "reason": "CUBE 官网编号第 8 作；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "ネコと女子寮せよ！",
+          "status": "主数据库",
+          "workIds": [
+            "g416"
+          ],
+          "reason": "CUBE 官网编号第 9 作；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "夏ノ終熄",
+          "status": "主数据库",
+          "workIds": [
+            "g417"
+          ],
+          "reason": "CUBE 官网编号第 10 作；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "サメと生きる七日間",
+          "status": "主数据库",
+          "workIds": [
+            "g418"
+          ],
+          "reason": "CUBE 官网编号第 11 作；记录 Windows 首发。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "your diary+H",
+          "status": "扩充版",
+          "workIds": [
+            "g409"
+          ],
+          "reason": "2014 年推出；归入《your diary》版本。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "神様のような君へ Extended Edition",
+          "status": "扩充版",
+          "workIds": [
+            "g414"
+          ],
+          "reason": "2022 年推出；归入《神様のような君へ》版本。",
+          "source": "https://www.cuffs.co.jp/main/products/"
+        },
+        {
+          "title": "CUBEコレクションボックス カントクエディション",
+          "status": "合集版本",
+          "workIds": [
+            "g409",
+            "g411"
+          ],
+          "reason": "2017 年合集游戏盘为《your diary+H》和《恋する彼女の不器用な舞台》；不另计新作。",
+          "source": "https://www.cuffs-cube.jp/products/cube_collection01/"
+        },
+        {
+          "title": "CUBEコレクションボックス 兼清みわエディション",
+          "status": "合集版本",
+          "workIds": [
+            "g410",
+            "g412",
+            "g413"
+          ],
+          "reason": "2021 年合集收录三部 CUBE 游戏，游戏盘预装对应补丁；画册提及《アメサラサ》《夏ノ雨》不等于游戏盘收录。",
+          "source": "https://www.cuffs.co.jp/products/cube_collection02/"
+        },
+        {
+          "title": "間宮くんちの五つ子事情 追加攻略补丁",
+          "status": "原作更新",
+          "workIds": [
+            "g412"
+          ],
+          "reason": "依附原作的路线补丁，不另计独立作品。",
+          "source": "https://www.cuffs.co.jp/main/support/"
+        },
+        {
+          "title": "ゆらめく心に満ちた世界で、君の夢と欲望は叶うか クロ＆シロ补丁",
+          "status": "原作更新",
+          "workIds": [
+            "g413"
+          ],
+          "reason": "依附原作的内容补丁，不另计独立作品。",
+          "source": "https://www.cuffs.co.jp/main/support/"
+        }
+      ],
+      "auditTitle": "CUBE 官方目录逐项核对",
+      "auditSourceLabel": "CUFFS 官方产品目录",
+      "overviewLabel": "独立发售的叙事游戏",
+      "description": "CUBE 厂商专题：十一部编号作品、十八条 Windows 版本记录，以及扩充版、合集和补丁的核对。"
     }
   ]
 }
