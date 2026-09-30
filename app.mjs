@@ -16,7 +16,7 @@ function renderCard({work,versions}){
   const meta=label('div','card-meta','');
   const companies=[...new Set(versions.flatMap(v=>v.publisherCompanies||[]))];
   const publisherLabel=companies.length ? companies.slice(0,2).join(' / ')+(companies.length>2?` 等 ${companies.length} 家`:'') : '非商业／未署商业厂商';
-  meta.append(label('span','',`细分类 · ${work.subcategory}`),label('span','',work.genre),label('span','','主要角色 · '+(work.characters.length?work.characters.join(' / '):'待核实')),label('span','','发行厂商 · '+publisherLabel));
+  meta.append(label('span','',`细分类 · ${work.subcategory}`),label('span','',work.genre),label('span','','主要角色 · '+work.characters.join(' / ')),label('span','','发行厂商 · '+publisherLabel));
   card.append(top,title,original,intro,meta);
   const detail=document.createElement('details');detail.className='version-panel';
   const summary=label('summary','','查看 '+versions.length+' 个平台版本');detail.append(summary);
@@ -33,6 +33,7 @@ function renderCard({work,versions}){
   }
   detail.append(container);card.append(detail);
   const bottom=label('div','card-bottom','');bottom.append(safeLink(work.source,'作品来源 ↗'));
+  if(work.charactersSource)bottom.append(safeLink(work.charactersSource,'角色依据 ↗'));
   if(work.notes)bottom.append(label('span','card-note',work.notes));
   card.append(bottom);
   return card;

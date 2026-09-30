@@ -95,8 +95,10 @@
       "firstYear": 1980,
       "category": "文字冒险",
       "genre": "图文指令／悬疑",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "宅邸调查者（玩家）"
+      ],
+      "charactersNote": "现存资料按角色身份叙述，记录身份称谓，不另造姓名。",
       "synopsis": "在宅邸中搜集线索，查明接连发生的谋杀。",
       "notes": "最早商业发行版。",
       "source": "https://www.sierragamers.com/ken-williams/",
@@ -109,8 +111,10 @@
       "firstYear": 1980,
       "category": "文字冒险",
       "genre": "纯文本／奇幻解谜",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "地下帝国的探险者（玩家）"
+      ],
+      "charactersNote": "现存资料按角色身份叙述，记录身份称谓，不另造姓名。",
       "synopsis": "输入指令探索地下帝国，解开谜题并收集宝物。",
       "notes": "按 Infocom 商业版；早期大型机 Zork 不并入。",
       "source": "https://infocom-if.org/company/company.html",
@@ -191,13 +195,17 @@
       "firstYear": 1982,
       "category": "文字冒险",
       "genre": "纯文本／推理",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "侦探长（玩家）",
+        "Marshall Robner"
+      ],
+      "charactersNote": "",
       "synopsis": "在限定时间内调查一宗可疑死亡事件。",
       "notes": "",
       "source": "https://infocom-if.org/games/games.html",
       "subcategory": "纯文本指令",
-      "chineseTitle": "最后期限"
+      "chineseTitle": "最后期限",
+      "charactersSource": "https://www.infocom-if.org/games/deadline/deadline.html"
     },
     {
       "id": "g004",
@@ -206,8 +214,10 @@
       "firstYear": 1982,
       "category": "Galgame",
       "genre": "成人向／生活工具",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "情侣（玩家设定）"
+      ],
+      "charactersNote": "现存资料按角色身份叙述，记录身份称谓，不另造姓名。",
       "synopsis": "以情侣生活与生理周期为主题的早期成人软件。",
       "notes": "历史作品；严格说并非典型恋爱叙事游戏。",
       "source": "https://www.famitsu.com/news/202312/10327281.html",
@@ -220,8 +230,11 @@
       "firstYear": 1982,
       "category": "Galgame",
       "genre": "成人向／猜拳",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "野球拳对战者（玩家）",
+        "对手"
+      ],
+      "charactersNote": "现存资料按角色身份叙述，记录身份称谓，不另造姓名。",
       "synopsis": "以野球拳规则进行的简易对战。",
       "notes": "按广义早期美少女游戏收录；不是视觉小说。",
       "source": "https://fm-7.com/museum/products/7bj82lkr/",
@@ -367,13 +380,17 @@
       "firstYear": 1983,
       "category": "文字冒险",
       "genre": "纯文本／科幻",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "星际巡逻队员（玩家）",
+        "Floyd"
+      ],
+      "charactersNote": "",
       "synopsis": "在陌生星球探索设施，并追查危机的原因。",
       "notes": "",
       "source": "https://www.infocom-if.org/authors/meretzky.html",
       "subcategory": "纯文本指令",
-      "chineseTitle": "行星坠落"
+      "chineseTitle": "行星坠落",
+      "charactersSource": "https://www.infocom-if.org/games/planetfall/planetfall.html"
     },
     {
       "id": "g007",
@@ -415,8 +432,11 @@
       "firstYear": 1983,
       "category": "Galgame",
       "genre": "成人向／冒险",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "住宅区探索者（玩家）",
+        "团地妻"
+      ],
+      "charactersNote": "现存资料按角色身份叙述，记录身份称谓，不另造姓名。",
       "synopsis": "通过指令探索住宅区并触发事件。",
       "notes": "",
       "source": "https://www.famitsu.com/news/202312/10327281.html",
@@ -900,8 +920,11 @@
       "firstYear": 1984,
       "category": "Galgame",
       "genre": "成人向／冒险",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "冒险者（玩家）",
+        "荷兰妻"
+      ],
+      "charactersNote": "现存资料按角色身份叙述，记录身份称谓，不另造姓名。",
       "synopsis": "以指令选择推进的早期成人冒险游戏。",
       "notes": "首发 1984；FM-7 版登记为 1985 年。",
       "source": "https://www.famitsu.com/news/202312/10327281.html",
@@ -1183,8 +1206,10 @@
       "firstYear": 1984,
       "category": "文字冒险",
       "genre": "图文指令／神秘恐怖",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "魔王之戒的调查者（玩家）"
+      ],
+      "charactersNote": "现存资料按角色身份叙述，记录身份称谓，不另造姓名。",
       "synopsis": "围绕魔王之戒展开神秘冒险，在快速绘制的场景里寻找线索。",
       "notes": "剧情资料不足以可靠列出有名字的主角。",
       "source": "https://fm-7.com/museum/products/4l5wmkh8/",
@@ -1230,8 +1255,10 @@
       "firstYear": 1984,
       "category": "文字冒险",
       "genre": "图文冒险／校园解谜",
-      "characters": [],
-      "charactersNote": "主要角色姓名待核实",
+      "characters": [
+        "校园炸弹调查者（玩家）"
+      ],
+      "charactersNote": "现存资料按角色身份叙述，记录身份称谓，不另造姓名。",
       "synopsis": "在校园中搜索被放置的原子弹，逐步解开各处的谜题。",
       "notes": "1984 年 6 月 FM-7 原版；参赛时原名「座間高アドベンチャー」。",
       "source": "https://fm-7.com/museum/products/e2w2qqkl/",
@@ -1390,8 +1417,11 @@
       "firstYear": 1985,
       "category": "Galgame",
       "genre": "成人向／都市恋爱冒险",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "东京街区的搭讪者（玩家）",
+        "街头邂逅对象"
+      ],
+      "charactersNote": "现存资料按角色身份叙述，记录身份称谓，不另造姓名。",
       "synopsis": "在东京街区与人物相遇并展开对话。",
       "notes": "",
       "source": "https://fm-7.com/museum/products/vt0km2jr/",
@@ -1404,8 +1434,11 @@
       "firstYear": 1985,
       "category": "文字冒险",
       "genre": "图文选项／推理",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "绑架案调查者（玩家）",
+        "被绑架者"
+      ],
+      "charactersNote": "现存资料按角色身份叙述，记录身份称谓，不另造姓名。",
       "synopsis": "调查轻井泽发生的绑架事件。",
       "notes": "",
       "source": "https://fm-7.com/museum/products/iq8kysdi/",
@@ -1418,8 +1451,10 @@
       "firstYear": 1985,
       "category": "Galgame",
       "genre": "成人向／奇幻冒险",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "黄金国探险者（玩家）"
+      ],
+      "charactersNote": "现存资料按角色身份叙述，记录身份称谓，不另造姓名。",
       "synopsis": "围绕传说中的黄金国展开图文冒险。",
       "notes": "",
       "source": "https://fm-7.com/museum/products/333wukd2/",
@@ -1549,8 +1584,11 @@
       "firstYear": 1985,
       "category": "Galgame",
       "genre": "美少女／图文探索与小游戏",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "公寓探索者（玩家）",
+        "公寓居民"
+      ],
+      "charactersNote": "现存资料按角色身份叙述，记录身份称谓，不另造姓名。",
       "synopsis": "探索八间房间与人物对话，进入不同的解谜和小游戏。",
       "notes": "1985 年 PC-8801 版与 FM-7 版分别收录；馆藏另记 1986 年有同系列续作。属于成人向冒险，不按后世恋爱视觉小说理解。",
       "source": "https://fm-7.com/museum/products/9sufuw5m/",
@@ -1782,12 +1820,16 @@
       "firstYear": 1992,
       "category": "视觉小说",
       "genre": "有声小说／恐怖",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "公平（初始名，可更改）",
+        "奈美"
+      ],
+      "charactersNote": "",
       "synopsis": "雨夜误入洋馆，通过选择推动恐怖故事。",
       "notes": "“有声小说”指音乐与音效，不保证角色配音。",
       "source": "https://www.spike-chunsoft.co.jp/company/outline/",
-      "subcategory": "有声小说"
+      "subcategory": "有声小说",
+      "charactersSource": "https://www.inside-games.jp/article/2022/02/20/136913.html"
     },
     {
       "id": "g046",
@@ -1849,13 +1891,17 @@
       "firstYear": 1996,
       "category": "视觉小说",
       "genre": "悬疑／成人向",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "长濑祐介",
+        "月岛瑠璃子"
+      ],
+      "charactersNote": "",
       "synopsis": "在校园中追查奇异事件。",
       "notes": "Leaf Visual Novel Series 第 1 作；兼属广义 Galgame。",
       "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/",
       "subcategory": "剧情分支／冒险",
-      "chineseTitle": "水滴"
+      "chineseTitle": "水滴",
+      "charactersSource": "https://www.wdic.org/w/MOE/%E6%9C%88%E5%B3%B6%E7%91%A0%E7%92%83%E5%AD%90"
     },
     {
       "id": "g025",
@@ -1864,12 +1910,19 @@
       "firstYear": 1996,
       "category": "视觉小说",
       "genre": "悬疑／成人向",
-      "characters": [],
-      "charactersNote": "主要角色待可靠资料核实",
+      "characters": [
+        "柏木耕一",
+        "柏木千鹤",
+        "柏木梓",
+        "柏木枫",
+        "柏木初音"
+      ],
+      "charactersNote": "",
       "synopsis": "返乡后围绕一桩旧事展开多线悬疑。",
       "notes": "兼属广义 Galgame。",
       "source": "https://pc98.info/pc-game-history-05-windows-and-the-end/",
-      "subcategory": "剧情分支／冒险"
+      "subcategory": "剧情分支／冒险",
+      "charactersSource": "https://galge-lab.jp/games/kizuato/"
     },
     {
       "id": "g038",
@@ -2409,9 +2462,11 @@
       "category": "文字冒险",
       "subcategory": "图文指令",
       "genre": "图文冒险／推理",
-      "characters": [],
-      "charactersNote": "资料未列明主要角色",
-      "synopsis": "围绕白玫瑰连续杀人案展开调查；人物与详细案情待核实。",
+      "characters": [
+        "白玫瑰连环案调查者（玩家）"
+      ],
+      "charactersNote": "现存资料按角色身份叙述，记录身份称谓，不另造姓名。",
+      "synopsis": "围绕白玫瑰连续杀人案展开调查，通过线索接近案件真相。",
       "notes": "最早发行机型与独立移植日期待核实。",
       "source": "https://fm-7.com/museum/products/i0l23t7t/"
     },
@@ -2978,11 +3033,15 @@
       "category": "Galgame",
       "subcategory": "恋爱模拟",
       "genre": "校园恋爱／养成模拟",
-      "characters": [],
-      "charactersNote": "主要角色待官方资料核实",
+      "characters": [
+        "萌木野高中的学生（玩家）",
+        "牧原优纪子"
+      ],
+      "charactersNote": "",
       "synopsis": "在萌木市度过高中生活，安排学习和约会，在毕业时达成恋爱结局。",
       "notes": "角色名称待官方资料逐名核实。",
-      "source": "https://www.konami.com/games/tokimeki/about/index.html"
+      "source": "https://www.konami.com/games/tokimeki/about/index.html",
+      "charactersSource": "https://www.itmedia.co.jp/news/bursts/0108/30/konami.html"
     },
     {
       "id": "g177",
@@ -4492,11 +4551,17 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "读心／海边城市／恋爱",
-      "characters": [],
-      "charactersNote": "官方总目录未列角色名，待逐项核实",
+      "characters": [
+        "宫坂终",
+        "姬野永远",
+        "佐仓井真响",
+        "都筑遥"
+      ],
+      "charactersNote": "",
       "synopsis": "能读到他人内心的少年与封闭内心的少女相遇，逐渐面对彼此逃避的感情。",
       "notes": "minori 作品；本篇。平台移植与增强版记入同一作品，原版配音尚待逐项确认。",
-      "source": "https://www.minori.ph/lineup/_yorino/"
+      "source": "https://www.minori.ph/lineup/_yorino/",
+      "charactersSource": "https://w.atwiki.jp/ercr/pages/1394.html"
     },
     {
       "id": "g259",
@@ -4919,12 +4984,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "学园／女仆／喜剧",
-      "characters": [],
-      "charactersNote": "旧官网未提供可直接核对的完整角色名单，待核实。",
+      "characters": [
+        "比奈森依音",
+        "白比真央",
+        "空渡瑠璃",
+        "小村未居"
+      ],
+      "charactersNote": "",
       "synopsis": "以学园中的女仆活动为舞台，展开带有恋爱分支的热闹校园喜剧。",
-      "notes": "品牌第一作；旧官网使用框架与旧编码，角色资料暂未核实。",
+      "notes": "ASa Project 品牌第一作；旧官网使用框架与旧编码，角色名依据演职员资料。",
       "source": "https://www.asa-pro.com/mai/meikuru.html",
-      "chineseTitle": "制造奇迹！"
+      "chineseTitle": "制造奇迹！",
+      "charactersSource": "https://w.atwiki.jp/ercr/pages/1950.html"
     },
     {
       "id": "g283",
@@ -4934,12 +5005,17 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "校园／高岭之花／恋爱",
-      "characters": [],
-      "charactersNote": "旧官网未提供可直接核对的完整角色名单，待核实。",
+      "characters": [
+        "天宫心恋",
+        "圣堂鹤未",
+        "塞西莉亚娜"
+      ],
+      "charactersNote": "",
       "synopsis": "围绕难以接近的少女与校园生活展开的恋爱喜剧，官网将其标作“高嶺の花恋愛AVG”。",
-      "notes": "品牌第二作；角色姓名待官方资料进一步核实。",
+      "notes": "ASa Project 品牌第二作；角色名据旧官网人物页与相关资料整理。",
       "source": "https://www.asa-pro.com/top/hime/index.html",
-      "chineseTitle": "公主之后是甜心"
+      "chineseTitle": "公主之后是甜心",
+      "charactersSource": "https://www.asa-pro.com/top/hime/index.html"
     },
     {
       "id": "g284",
@@ -4949,12 +5025,16 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "校园／男装女装／双重身份",
-      "characters": [],
-      "charactersNote": "旧官网未提供可直接核对的完整角色名单，待核实。",
+      "characters": [
+        "男生／女装宿舍生（玩家）",
+        "朱"
+      ],
+      "charactersNote": "",
       "synopsis": "主人公在学校以男生身份活动，在宿舍却以女装身份生活；两种身份下与少女们相处并发展恋情。",
       "notes": "品牌第三作；剧情设定依据制作人员的官方开发日志。",
       "source": "https://www.asa-pro.com/top/new/index.html",
-      "chineseTitle": "转身恋爱"
+      "chineseTitle": "转身恋爱",
+      "charactersSource": "https://www.asa-pro.com/top/staff2009/staff.html"
     },
     {
       "id": "g285",
@@ -4964,11 +5044,17 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "邻居／家庭交换／恋爱",
-      "characters": [],
-      "charactersNote": "旧官网未提供可直接核对的完整角色名单，待核实。",
+      "characters": [
+        "木之本咲耶",
+        "木之本实咲",
+        "木之本希樱",
+        "矢崎夕空"
+      ],
+      "charactersNote": "",
       "synopsis": "相邻的两家短期交换孩子，主人公搬进隔壁少女们家中，日常距离缩短为零，关系随之改变。",
       "notes": "PSP Portable 新增角色；PS Vita V 沿用主机版内容，平台版分别记载。",
-      "source": "https://www.asa-pro.com/top/zero/index.html"
+      "source": "https://www.asa-pro.com/top/zero/index.html",
+      "charactersSource": "https://www.asa-pro.com/top/top-kousin.html"
     },
     {
       "id": "g286",
@@ -4978,11 +5064,17 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "校园／间接相识／恋爱",
-      "characters": [],
-      "charactersNote": "旧官网未提供可直接核对的完整角色名单，待核实。",
+      "characters": [
+        "园原碧里",
+        "苍木夏芽",
+        "玉森樱",
+        "寿理沙"
+      ],
+      "charactersNote": "",
       "synopsis": "恋爱对象并非直接熟悉的人，而是妹妹的朋友、朋友的亲人等“隔一层”的关系；由间接接点展开交往。",
       "notes": "PS Vita V 是带追加角色的主机版本。",
-      "source": "https://www.asa-pro.com/hitotsutobashi/index.html"
+      "source": "https://www.asa-pro.com/hitotsutobashi/index.html",
+      "charactersSource": "https://www.gamer.ne.jp/news/201501290007/"
     },
     {
       "id": "g287",
@@ -4992,11 +5084,15 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "两家同住／校园／恋爱喜剧",
-      "characters": [],
-      "charactersNote": "旧官网未提供可直接核对的完整角色名单，待核实。",
+      "characters": [
+        "主人公（共住家庭的儿子）",
+        "神宫巴"
+      ],
+      "charactersNote": "",
       "synopsis": "品行端正的主人公一家与性格相反的另一家共住一栋房子，两家的生活习惯碰撞出恋爱闹剧。",
       "notes": "PS Vita V 由 ENTERGRAM 发行。",
-      "source": "https://www.asa-pro.com/puramaiwars/index.html"
+      "source": "https://www.asa-pro.com/puramaiwars/index.html",
+      "charactersSource": "https://www.asa-pro.com/puramaiwars/index_whats.html"
     },
     {
       "id": "g288",
@@ -5006,11 +5102,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "校园／妹妹／三角关系",
-      "characters": [],
-      "charactersNote": "旧官网未提供可直接核对的完整角色名单，待核实。",
+      "characters": [
+        "小森江宗介",
+        "小森江七瑠",
+        "小森江铃",
+        "鸣泷真帆",
+        "木须志衣菜"
+      ],
+      "charactersNote": "",
       "synopsis": "父亲再婚改变主人公的家庭关系，青梅竹马、姐妹与新结识的少女交织出多条三角恋路线。",
       "notes": "2019 年 PS4／PS Vita 同日发行。",
-      "source": "https://www.asa-pro.com/sankakurenai/story.html"
+      "source": "https://www.asa-pro.com/sankakurenai/story.html",
+      "charactersSource": "https://www.entergram.co.jp/sankakurenai/"
     },
     {
       "id": "g289",
@@ -5020,11 +5123,17 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "借住／多家往返／恋爱",
-      "characters": [],
-      "charactersNote": "旧官网未提供可直接核对的完整角色名单，待核实。",
+      "characters": [
+        "樱木桥理兔",
+        "荒波杏",
+        "新妻日和",
+        "世计绚花"
+      ],
+      "charactersNote": "",
       "synopsis": "主人公因住处问题在不同家庭间辗转借住，与各家的少女共同生活并逐渐拉近距离。",
       "notes": "2019 年 PS4／PS Vita 同日发行。",
-      "source": "https://www.asa-pro.com/karigurashi/index.html"
+      "source": "https://www.asa-pro.com/karigurashi/index.html",
+      "charactersSource": "https://www.asa-pro.com/karigurashi/character.html"
     },
     {
       "id": "g290",
@@ -5337,12 +5446,16 @@
       "firstYear": 1994,
       "category": "Galgame",
       "genre": "家庭／成人剧情",
-      "characters": [],
-      "charactersNote": "具体姓名待核实。",
+      "characters": [
+        "北泽留美",
+        "北泽智子"
+      ],
+      "charactersNote": "",
       "synopsis": "围绕一对姊妹与其家庭展开的成人向剧情冒险。",
       "notes": "Silky’s 原作；ELF 后续发行版另列。",
       "source": "https://archive.is/taUch",
-      "subcategory": "成人向冒险"
+      "subcategory": "成人向冒险",
+      "charactersSource": "https://bangumi.tv/character/101573"
     },
     {
       "id": "g308",
@@ -5367,12 +5480,17 @@
       "firstYear": 1995,
       "category": "Galgame",
       "genre": "奇幻／恋爱",
-      "characters": [],
-      "charactersNote": "具体姓名待核实。",
+      "characters": [
+        "那水",
+        "あんず",
+        "朱雀"
+      ],
+      "charactersNote": "",
       "synopsis": "以架空王国与公主为舞台的恋爱冒险；ELF 后来制作 Windows 重制版。",
       "notes": "Silky’s 原作；ELF 后续发行版另列。",
       "source": "https://archive.is/taUch",
-      "subcategory": "成人向冒险"
+      "subcategory": "成人向冒险",
+      "charactersSource": "https://please.untaint.us/?url=https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%E6%81%8B%E5%A7%AB"
     },
     {
       "id": "g310",
@@ -5398,13 +5516,17 @@
       "firstYear": 1996,
       "category": "Galgame",
       "genre": "科幻／喜剧",
-      "characters": [],
-      "charactersNote": "具体姓名待核实。",
+      "characters": [
+        "宫本小十郎（重制版名）",
+        "莲"
+      ],
+      "charactersNote": "",
       "synopsis": "围绕异星世界与黑大将展开的成人向科幻冒险。",
       "notes": "Silky’s 原作；ELF 后续发行版另列。",
       "source": "https://archive.is/taUch",
       "subcategory": "成人向冒险",
-      "chineseTitle": "彼岸之外"
+      "chineseTitle": "彼岸之外",
+      "charactersSource": "https://galge-lab.jp/games/beyond/"
     },
     {
       "id": "g312",
@@ -5434,7 +5556,7 @@
         "松永善博",
         "深景"
       ],
-      "charactersNote": "具体姓名待核实。",
+      "charactersNote": "角色按可见的作品资料记录。",
       "synopsis": "添乘员松永善博重返夏日海岸，面对过去的恋情与新的相遇。",
       "notes": "主要版本已记录；其他移植和廉价版仍待核查。",
       "source": "https://archive.is/taUch",
@@ -5482,12 +5604,16 @@
       "firstYear": 2002,
       "category": "Galgame",
       "genre": "废墟／惊悚",
-      "characters": [],
-      "charactersNote": "具体姓名待核实。",
+      "characters": [
+        "龙一（主人公）",
+        "若叶"
+      ],
+      "charactersNote": "",
       "synopsis": "一行人在废墟中遭遇异变，以调查和剧情选择推进故事。",
       "notes": "主要版本已记录；其他移植和廉价版仍待核查。",
       "source": "https://archive.is/taUch",
-      "subcategory": "成人向冒险"
+      "subcategory": "成人向冒险",
+      "charactersSource": "https://bgm.tv/character/96942"
     },
     {
       "id": "g317",
@@ -5529,12 +5655,17 @@
       "firstYear": 2003,
       "category": "Galgame",
       "genre": "悬疑／多线",
-      "characters": [],
-      "charactersNote": "具体姓名待核实。",
+      "characters": [
+        "优马",
+        "杏奈",
+        "河原崎绳纲"
+      ],
+      "charactersNote": "",
       "synopsis": "围绕河原崎家再次展开的多路线悬疑故事，与前作分开建档。",
       "notes": "主要版本已记录；其他移植和廉价版仍待核查。",
       "source": "https://archive.is/taUch",
-      "subcategory": "成人向冒险"
+      "subcategory": "成人向冒险",
+      "charactersSource": "https://www.animecharactersdatabase.com/source.php?id=100430"
     },
     {
       "id": "g320",
@@ -5560,12 +5691,16 @@
       "firstYear": 2004,
       "category": "Galgame",
       "genre": "校园／恋爱",
-      "characters": [],
-      "charactersNote": "具体姓名待核实。",
+      "characters": [
+        "织屋浪马",
+        "柴门环"
+      ],
+      "charactersNote": "",
       "synopsis": "沿用学园生活与恋爱发展结构的新人物篇章。",
       "notes": "主要版本已记录；其他移植和廉价版仍待核查。",
       "source": "https://archive.is/taUch",
-      "subcategory": "恋爱模拟"
+      "subcategory": "恋爱模拟",
+      "charactersSource": "https://www.allcinema.net/cinema/pdf/321183"
     },
     {
       "id": "g322",
@@ -5590,12 +5725,15 @@
       "firstYear": 2005,
       "category": "Galgame",
       "genre": "小说改编／成人剧情",
-      "characters": [],
-      "charactersNote": "具体姓名待核实。",
+      "characters": [
+        "远山静子"
+      ],
+      "charactersNote": "",
       "synopsis": "改编自团鬼六同名小说的成人向剧情游戏。",
       "notes": "主要版本已记录；其他移植和廉价版仍待核查。",
       "source": "https://archive.is/taUch",
-      "subcategory": "成人向冒险"
+      "subcategory": "成人向冒险",
+      "charactersSource": "https://www.ymgal.games/ga12174"
     },
     {
       "id": "g324",
@@ -5604,13 +5742,18 @@
       "firstYear": 2006,
       "category": "Galgame",
       "genre": "业界／经营模拟",
-      "characters": [],
-      "charactersNote": "具体姓名待核实。",
+      "characters": [
+        "御园光",
+        "铃原都",
+        "天衣美束"
+      ],
+      "charactersNote": "",
       "synopsis": "Nude Maker 与 ELF 合作的影像业界题材 ADV 与模拟游戏。",
       "notes": "主要版本已记录；其他移植和廉价版仍待核查。",
       "source": "https://archive.is/taUch",
       "subcategory": "成人向冒险",
-      "chineseTitle": "成人影像之王"
+      "chineseTitle": "成人影像之王",
+      "charactersSource": "https://w.atwiki.jp/ercr/pages/3523.html"
     },
     {
       "id": "g325",
@@ -5619,12 +5762,17 @@
       "firstYear": 2008,
       "category": "Galgame",
       "genre": "家庭／悬疑",
-      "characters": [],
-      "charactersNote": "具体姓名待核实。",
+      "characters": [
+        "拓也",
+        "进藤由纪",
+        "三泽家成员"
+      ],
+      "charactersNote": "",
       "synopsis": "以家庭内的关系变化和多方视角推进的成人向剧情。",
       "notes": "主要版本已记录；其他移植和廉价版仍待核查。",
       "source": "https://archive.is/taUch",
-      "subcategory": "成人向冒险"
+      "subcategory": "成人向冒险",
+      "charactersSource": "https://www.ymgal.games/ja/ga10305"
     },
     {
       "id": "g326",
@@ -5650,12 +5798,17 @@
       "firstYear": 2010,
       "category": "Galgame",
       "genre": "心理／悬疑",
-      "characters": [],
-      "charactersNote": "具体姓名待核实。",
+      "characters": [
+        "南真树夫",
+        "园部空",
+        "园部光"
+      ],
+      "charactersNote": "",
       "synopsis": "以人物的创伤与关系为中心展开的成人向剧情冒险。",
       "notes": "主要版本已记录；其他移植和廉价版仍待核查。",
       "source": "https://bangumi.tv/person/1254/works/game",
-      "subcategory": "成人向冒险"
+      "subcategory": "成人向冒险",
+      "charactersSource": "https://www.newton.com.tw/wiki/%E4%BA%BA%E9%96%93%E6%AE%98%E6%B8%A3/4721722"
     },
     {
       "id": "g328",
@@ -5664,12 +5817,17 @@
       "firstYear": 2011,
       "category": "Galgame",
       "genre": "成人剧情／动画演出",
-      "characters": [],
-      "charactersNote": "具体姓名待核实。",
+      "characters": [
+        "田中マサシ",
+        "田中美咲",
+        "会田タケシ"
+      ],
+      "charactersNote": "",
       "synopsis": "以多段相互关联的成人剧情与动态画面推进的独立游戏。",
       "notes": "主要版本已记录；其他移植和廉价版仍待核查。",
       "source": "https://bangumi.tv/person/1254/works/game",
-      "subcategory": "成人向冒险"
+      "subcategory": "成人向冒险",
+      "charactersSource": "https://www.moyu.moe/galgame/2458"
     },
     {
       "id": "g329",
@@ -5853,12 +6011,16 @@
       "category": "Galgame",
       "subcategory": "成人向冒险",
       "genre": "记忆／成人向悬疑",
-      "characters": [],
-      "charactersNote": "官网目录未列人物姓名，待逐一核实。",
+      "characters": [
+        "东条英彦",
+        "菖蒲"
+      ],
+      "charactersNote": "",
       "synopsis": "失去记忆的男子在学校追寻自己的身份，过去的真相逐渐浮现。",
       "notes": "独立发售；成人向作品仅概括一般剧情。",
       "source": "https://sagaplanets.product.co.jp/works/works.htm",
-      "chineseTitle": "骸：追逐女性的獠牙"
+      "chineseTitle": "骸：追逐女性的獠牙",
+      "charactersSource": "https://www.kinokuniya.co.jp/f/dsg-01-9784894900264"
     },
     {
       "id": "g340",
@@ -5885,8 +6047,10 @@
       "category": "Galgame",
       "subcategory": "成人向冒险",
       "genre": "成人向悬疑",
-      "characters": [],
-      "charactersNote": "官网目录未列人物姓名，待逐一核实。",
+      "characters": [
+        "法院地下室事件的目击者（主人公）"
+      ],
+      "charactersNote": "现存资料按角色身份叙述，记录身份称谓，不另造姓名。",
       "synopsis": "主人公在法院地下室目睹的事件改变了人生，随后被卷入黑暗的事件。",
       "notes": "独立发售；成人向作品仅概括一般剧情。",
       "source": "https://sagaplanets.product.co.jp/works/works.htm"
@@ -5935,11 +6099,15 @@
       "category": "Galgame",
       "subcategory": "成人向冒险",
       "genre": "医院／成人向悬疑",
-      "characters": [],
-      "charactersNote": "官网目录未列人物姓名，待逐一核实。",
+      "characters": [
+        "医师（主人公）",
+        "山科大造"
+      ],
+      "charactersNote": "",
       "synopsis": "以地方医院为舞台的成人向剧情冒险，围绕一名医师与院内人物展开。",
       "notes": "独立发售；成人向作品仅概括一般剧情。",
-      "source": "https://sagaplanets.product.co.jp/works/works.htm"
+      "source": "https://sagaplanets.product.co.jp/works/works.htm",
+      "charactersSource": "https://www.ymgal.games/ga15832"
     },
     {
       "id": "g345",
@@ -6066,11 +6234,16 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "下町／青梅竹马／恋爱",
-      "characters": [],
-      "charactersNote": "官网目录未列人物姓名，待逐一核实。",
+      "characters": [
+        "二见",
+        "远藤沙弥",
+        "久远三日"
+      ],
+      "charactersNote": "",
       "synopsis": "六名从小一起长大的少年少女，在下町与更衣学院的日常中追逐梦想和爱情。",
       "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
-      "source": "https://sagapla.net/product.html"
+      "source": "https://sagapla.net/product.html",
+      "charactersSource": "https://www.gamer.ne.jp/news/201309040003/"
     },
     {
       "id": "g353",
@@ -6195,12 +6368,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "怪盗／谜题／恋爱",
-      "characters": [],
-      "charactersNote": "官网目录未列人物姓名，待逐一核实。",
+      "characters": [
+        "根津御影",
+        "有濑辉夜",
+        "石川弥荣",
+        "本乡虹梦"
+      ],
+      "charactersNote": "",
       "synopsis": "围绕传说中的十二颗“野心之星”，两名怪盗结盟，追查笼罩沙幌夜晚的秘密。",
       "notes": "独立发行的作品；主机移植与追加版待逐一核实。",
       "source": "https://sagapla.net/product.html",
-      "chineseTitle": "雄心任务"
+      "chineseTitle": "雄心任务",
+      "charactersSource": "https://www.entergram.co.jp/ambitious/"
     },
     {
       "id": "g361",
@@ -6210,11 +6389,16 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "怪盗／恋爱后日谈",
-      "characters": [],
-      "charactersNote": "官网目录未列人物姓名，待逐一核实。",
+      "characters": [
+        "根津御影",
+        "有濑辉夜",
+        "石川弥荣"
+      ],
+      "charactersNote": "",
       "synopsis": "单独发售的第一部后日谈，延续原作怪盗们与伙伴的相处故事。",
       "notes": "独立发售的《AMBITIOUS MISSION》后日谈，分别计为游戏作品。",
-      "source": "https://sagapla.net/works/ambitious_after/"
+      "source": "https://sagapla.net/works/ambitious_after/",
+      "charactersSource": "https://sagapla.net/works/ambitious_after/"
     },
     {
       "id": "g362",
@@ -6224,11 +6408,16 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "怪盗／恋爱后日谈",
-      "characters": [],
-      "charactersNote": "官网目录未列人物姓名，待逐一核实。",
+      "characters": [
+        "根津御影",
+        "本乡虹梦",
+        "有濑雅典娜"
+      ],
+      "charactersNote": "",
       "synopsis": "单独发售的第二部后日谈，继续描绘原作人物的恋爱与日常。",
       "notes": "独立发售的《AMBITIOUS MISSION》后日谈，分别计为游戏作品。",
-      "source": "https://sagapla.net/works/ambitious_after/"
+      "source": "https://sagapla.net/works/ambitious_after/",
+      "charactersSource": "https://sagapla.net/works/ambitious_after/"
     },
     {
       "id": "g363",
@@ -6275,12 +6464,16 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "恋爱剧情／校园与日常",
-      "characters": [],
-      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "characters": [
+        "水濑心",
+        "学园男生（主人公）"
+      ],
+      "charactersNote": "",
       "synopsis": "男子生徒进入原本的女子学园，却被编入唯一的男生班；主人公寻找校园里的邂逅。",
       "notes": "SMEE 独立发售的恋爱冒险。",
       "source": "https://www.hook-net.jp/smee/product.html",
-      "chineseTitle": "恋爱革命！"
+      "chineseTitle": "恋爱革命！",
+      "charactersSource": "https://www.hook-net.jp/smee/love/ld_chara_02.html"
     },
     {
       "id": "g366",
@@ -6325,12 +6518,19 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "恋爱剧情／校园与日常",
-      "characters": [],
-      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "characters": [
+        "青叶恭介",
+        "皆原阳茉莉",
+        "望月理奈",
+        "柊柚柚",
+        "泽渡岬"
+      ],
+      "charactersNote": "",
       "synopsis": "主人公不满足于平静的学园生活，尝试从相识、交友走向恋爱。",
       "notes": "SMEE 独立发售的恋爱冒险。",
       "source": "https://www.hook-net.jp/smee/product.html",
-      "chineseTitle": "从朋友到恋人"
+      "chineseTitle": "从朋友到恋人",
+      "charactersSource": "https://www.hook-net.jp/smee/friendlover_m/charactor02_change_view_04.html"
     },
     {
       "id": "g369",
@@ -6340,12 +6540,19 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "恋爱后日谈／短篇与原声",
-      "characters": [],
-      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "characters": [
+        "青叶恭介",
+        "皆原阳茉莉",
+        "望月理奈",
+        "柊柚柚",
+        "泽渡岬"
+      ],
+      "charactersNote": "",
       "synopsis": "收录《フレラバ》女主角的追加短篇，并与游戏配乐一同作为独立光盘产品发售。",
       "notes": "2014 年 C86 先行销售；与原作分别登记。",
       "source": "https://www.hook-net.jp/htm/old_news/old_news_2014.htm",
-      "chineseTitle": "从朋友到恋人：迷你后日谈与原声集"
+      "chineseTitle": "从朋友到恋人：迷你后日谈与原声集",
+      "charactersSource": "https://www.hook-net.jp/smee/friendlover_m/charactor02_change_view_04.html"
     },
     {
       "id": "g370",
@@ -6355,12 +6562,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "恋爱剧情／校园与日常",
-      "characters": [],
-      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "characters": [
+        "面包餐厅的打工生（主人公）",
+        "一之濑空",
+        "道明寺萌美",
+        "篠崎步美"
+      ],
+      "charactersNote": "",
       "synopsis": "渴望恋爱的主人公开始在面包店餐厅打工，借新的工作和人际关系接近心仪的对象。",
       "notes": "SMEE 独立发售的恋爱冒险。",
       "source": "https://www.hook-net.jp/smee/product.html",
-      "chineseTitle": "纯爱连结"
+      "chineseTitle": "纯爱连结",
+      "charactersSource": "https://www.hook-net.jp/smee/pureconnect/character/"
     },
     {
       "id": "g371",
@@ -6370,12 +6583,19 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "恋爱剧情／校园与日常",
-      "characters": [],
-      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "characters": [
+        "乡间民宿的住客（主人公）",
+        "华野椎名",
+        "如月乃绘",
+        "柳明日香",
+        "芹泽久远"
+      ],
+      "charactersNote": "",
       "synopsis": "跟随家人最后一次搬迁，主人公住进祖母经营的乡间民宿，决定主动寻找自己的初恋。",
       "notes": "SMEE 独立发售的恋爱冒险。",
       "source": "https://www.hook-net.jp/smee/product.html",
-      "chineseTitle": "她的脚步"
+      "chineseTitle": "她的脚步",
+      "charactersSource": "https://www.hook-net.jp/smee/kanojostep/"
     },
     {
       "id": "g372",
@@ -6385,12 +6605,19 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "恋爱剧情／校园与日常",
-      "characters": [],
-      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "characters": [
+        "小鸟游亚子",
+        "鸣濑咲",
+        "鹿目玲奈",
+        "北大路可怜",
+        "月野真白"
+      ],
+      "charactersNote": "",
       "synopsis": "坚持恋爱需要浪漫相识过程的主人公，因为一位少女的话而改变想法，开始尝试交往。",
       "notes": "SMEE 独立发售的恋爱冒险。",
       "source": "https://www.hook-net.jp/smee/product.html",
-      "chineseTitle": "恋爱制作中"
+      "chineseTitle": "恋爱制作中",
+      "charactersSource": "https://www.entergram.co.jp/makinglovers/character/"
     },
     {
       "id": "g373",
@@ -6437,12 +6664,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "恋爱剧情／校园与日常",
-      "characters": [],
-      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "characters": [
+        "森角初枫",
+        "楠木晴",
+        "皆见真央",
+        "冬月かなめ"
+      ],
+      "charactersNote": "",
       "synopsis": "经历一连串挫折后，主人公进入地方专门学校，入住女生居多的“ひだまり寮”。",
       "notes": "SMEE 独立发售的恋爱冒险。",
       "source": "https://www.hook-net.jp/smee/product.html",
-      "chineseTitle": "糖果风格"
+      "chineseTitle": "糖果风格",
+      "charactersSource": "https://www.hook-net.jp/smee/sugarstyle/main/"
     },
     {
       "id": "g376",
@@ -6452,12 +6685,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "恋爱后日谈／独立 Fan Disc",
-      "characters": [],
-      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "characters": [
+        "森角初枫",
+        "楠木晴",
+        "皆见真央",
+        "冬月かなめ"
+      ],
+      "charactersNote": "",
       "synopsis": "将原作恋人的后日谈与原声配乐、新曲打包成独立售卖的 Fan Disc。",
       "notes": "含游戏后日谈和两张原声配乐 CD。",
       "source": "https://www.hook-net.jp/smee/sugarstyle/fd/",
-      "chineseTitle": "糖果风格：音乐与幸福合集"
+      "chineseTitle": "糖果风格：音乐与幸福合集",
+      "charactersSource": "https://www.hook-net.jp/smee/sugarstyle/fd/"
     },
     {
       "id": "g377",
@@ -6538,12 +6777,17 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "恋爱剧情／校园与日常",
-      "characters": [],
-      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "characters": [
+        "秤结衣",
+        "夜舟初穗",
+        "樱子"
+      ],
+      "charactersNote": "",
       "synopsis": "坚持“一生一次理想恋爱”的主人公，在学园的第二个夏天决定主动面对身边的缘分。",
       "notes": "SMEE 独立发售的恋爱冒险。",
       "source": "https://www.hook-net.jp/smee/product.html",
-      "chineseTitle": "初恋制作中"
+      "chineseTitle": "初恋制作中",
+      "charactersSource": "https://www.hook-net.jp/smee/hajilove/"
     },
     {
       "id": "g382",
@@ -6553,12 +6797,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "恋爱剧情／校园与日常",
-      "characters": [],
-      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "characters": [
+        "藤ヶ谷えいみ",
+        "清宫千津",
+        "科莱特·卡尔里尼",
+        "泉多惠子"
+      ],
+      "charactersNote": "",
       "synopsis": "主人公思考相遇与告白的时机，希望以自己的努力建立一段完整的恋爱关系。",
       "notes": "SMEE 独立发售的恋爱冒险。",
       "source": "https://www.hook-net.jp/smee/product.html",
-      "chineseTitle": "一对一男友女友"
+      "chineseTitle": "一对一男友女友",
+      "charactersSource": "https://www.hook-net.jp/smee/1kano/"
     },
     {
       "id": "g383",
@@ -6604,12 +6854,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "恋爱后日谈／独立 Fan Disc",
-      "characters": [],
-      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "characters": [
+        "藤ヶ谷えいみ",
+        "清宫千津",
+        "科莱特·卡尔里尼",
+        "泉多惠子"
+      ],
+      "charactersNote": "",
       "synopsis": "在《１／１彼氏彼女》已有恋爱路线之后继续描绘角色的相处生活。",
       "notes": "独立发售的迷你 Fan Disc。",
       "source": "https://www.hook-net.jp/htm/product.htm",
-      "chineseTitle": "一对一男友女友：迷你后日谈"
+      "chineseTitle": "一对一男友女友：迷你后日谈",
+      "charactersSource": "https://www.hook-net.jp/smee/1kano/"
     },
     {
       "id": "g386",
@@ -6636,12 +6892,20 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "恋爱后日谈／独立 Fan Disc",
-      "characters": [],
-      "charactersNote": "官网汇总页未列出足够可靠的角色姓名，待细查人物页。",
+      "characters": [
+        "近江希未",
+        "衣川美卯",
+        "叶月光",
+        "寿珠祈",
+        "冈井蒲公英",
+        "漆原绫子"
+      ],
+      "charactersNote": "",
       "synopsis": "以原作六位女主角为中心，补写本篇故事到结尾之间的恋爱片段。",
       "notes": "独立发售的 Fan Disc。",
       "source": "https://www.hook-net.jp/htm/product.htm",
-      "chineseTitle": "浓情爱恋缤纷碰碰！"
+      "chineseTitle": "浓情爱恋缤纷碰碰！",
+      "charactersSource": "https://www.hook-net.jp/smee/lpp/character/"
     },
     {
       "id": "g388",
@@ -6651,12 +6915,16 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "学园恋爱冒险",
-      "characters": [],
-      "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
+      "characters": [
+        "千岁水希",
+        "学园的主人公（玩家）"
+      ],
+      "charactersNote": "",
       "synopsis": "围绕放学后的校园与女仆主题展开恋爱故事。",
       "notes": "CROSSNET 时期 FAVORITE 开发品牌作品。",
       "source": "https://www.favo-soft.jp/soft/product/angelwish/index.html",
-      "chineseTitle": "天使愿望：放学后给仆人的吻"
+      "chineseTitle": "天使愿望：放学后给仆人的吻",
+      "charactersSource": "https://www.favo-soft.jp/soft/product/angelwish/mizuki.html"
     },
     {
       "id": "g389",
@@ -6666,12 +6934,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "魔法学园恋爱冒险",
-      "characters": [],
-      "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
+      "characters": [
+        "迪奥",
+        "夏露",
+        "萝拉",
+        "爱丽丝"
+      ],
+      "charactersNote": "",
       "synopsis": "以魔法学园为舞台，描绘主人公与同伴的日常和恋情。",
       "notes": "CROSSNET 时期 FAVORITE 开发品牌作品。",
       "source": "https://www.favo-soft.jp/soft/product/wiz/index.html",
-      "chineseTitle": "与你的周年纪念"
+      "chineseTitle": "与你的周年纪念",
+      "charactersSource": "https://www.favo-soft.jp/soft/product/wiz/index.html"
     },
     {
       "id": "g390",
@@ -6681,12 +6955,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "魔法学园恋爱后日谈",
-      "characters": [],
-      "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
+      "characters": [
+        "迪奥",
+        "夏露",
+        "萝拉",
+        "爱丽丝"
+      ],
+      "charactersNote": "",
       "synopsis": "在《ウィズ アニバーサリィー》的世界里追加角色故事。",
       "notes": "CROSSNET 时期 FAVORITE 开发品牌作品。",
       "source": "https://www.favo-soft.jp/soft/product/wiz_funta/index.html",
-      "chineseTitle": "与你的周年纪念：趣味庆典"
+      "chineseTitle": "与你的周年纪念：趣味庆典",
+      "charactersSource": "https://www.favo-soft.jp/soft/product/wiz_funta/index.html"
     },
     {
       "id": "g391",
@@ -6696,12 +6976,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "学园恋爱冒险",
-      "characters": [],
-      "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
+      "characters": [
+        "天原稻穗",
+        "凛东彩月",
+        "西宫静琉",
+        "南初濑花梨"
+      ],
+      "charactersNote": "",
       "synopsis": "以寄宿学园的交往和恋爱为主线的校园冒险。",
       "notes": "CROSSNET 时期 FAVORITE 开发品牌作品。",
       "source": "https://www.favo-soft.jp/soft/product/happy/index.html",
-      "chineseTitle": "幸福玛格丽特！"
+      "chineseTitle": "幸福玛格丽特！",
+      "charactersSource": "https://www.favo-soft.jp/soft/product/happy/index.html"
     },
     {
       "id": "g392",
@@ -6784,12 +7070,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "雪景幻想恋爱冒险",
-      "characters": [],
-      "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
+      "characters": [
+        "雪雪",
+        "白羽幸",
+        "橘落叶",
+        "萤凛音"
+      ],
+      "charactersNote": "",
       "synopsis": "在雪景中的小镇，少年与少女们相遇，面对各自的愿望与秘密。",
       "notes": "FAVORITE 独立作品。",
       "source": "https://www.favo-soft.jp/soft/product/WhiteEternity/index.html",
-      "chineseTitle": "阿斯特赖亚的白色永恒"
+      "chineseTitle": "阿斯特赖亚的白色永恒",
+      "charactersSource": "https://www.favo-soft.jp/soft/event/vote_result_WE/index.html"
     },
     {
       "id": "g397",
@@ -6817,12 +7109,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "雪景幻想恋爱后日谈",
-      "characters": [],
-      "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
+      "characters": [
+        "雪雪",
+        "白羽幸",
+        "橘落叶",
+        "萤凛音"
+      ],
+      "charactersNote": "",
       "synopsis": "延续《アストラエアの白き永遠》各篇结局，描绘人物之后的生活与新的故事。",
       "notes": "独立发售的后日谈／Fan Disc。",
       "source": "https://www.favo-soft.jp/soft/product/AstralAirFinale/index.html",
-      "chineseTitle": "阿斯特赖亚的白色永恒：终章·白色星梦"
+      "chineseTitle": "阿斯特赖亚的白色永恒：终章·白色星梦",
+      "charactersSource": "https://www.favo-soft.jp/soft/product/AstralAirFinale/index.html"
     },
     {
       "id": "g399",
@@ -6850,12 +7148,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "青春恋爱冒险",
-      "characters": [],
-      "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
+      "characters": [
+        "索菲娅·图丽娜",
+        "卡莲提娅·维利贝尔",
+        "露·毛",
+        "克拉丽丝·克罗尼亚"
+      ],
+      "charactersNote": "",
       "synopsis": "主人公与伙伴们为舞台表演的梦想相聚，在排练、演出与日常中发展恋情。",
       "notes": "FAVORITE 独立作品。",
       "source": "https://www.favo-soft.jp/soft/product/happylive_showup/index.html",
-      "chineseTitle": "快乐舞台秀！"
+      "chineseTitle": "快乐舞台秀！",
+      "charactersSource": "https://www.favo-soft.jp/soft/product/happylive_showup/chara.html"
     },
     {
       "id": "g401",
@@ -6865,12 +7169,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "青春恋爱后日谈",
-      "characters": [],
-      "charactersNote": "旧站人物介绍部分为图片或框架页，姓名待进一步核实。",
+      "characters": [
+        "索菲娅·图丽娜",
+        "卡莲提娅·维利贝尔",
+        "露·毛",
+        "克拉丽丝·克罗尼亚"
+      ],
+      "charactersNote": "",
       "synopsis": "延续本篇的舞台与青春故事，描绘角色们走向梦想之后的恋爱篇章。",
       "notes": "独立发售的后日谈／Fan Disc。",
       "source": "https://www.favo-soft.jp/soft/product/happylive_showup_encore/index.html",
-      "chineseTitle": "快乐舞台秀：安可！！"
+      "chineseTitle": "快乐舞台秀：安可！！",
+      "charactersSource": "https://www.favo-soft.jp/soft/product/happylive_showup_encore/index.html"
     },
     {
       "id": "g402",
@@ -6937,12 +7247,17 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "家庭日常／恋爱冒险",
-      "characters": [],
-      "charactersNote": "旧站人物介绍以图片呈现，姓名待复核。",
+      "characters": [
+        "叶月修二",
+        "葉月まお",
+        "葉月りお"
+      ],
+      "charactersNote": "",
       "synopsis": "围绕主人公与双胞胎妹妹之间的亲情和渐渐变化的感情，描绘同居生活中的选择。",
-      "notes": "独立短篇。官网剧情、人物为图片式旧页，角色姓名与配音待进一步核实。",
+      "notes": "独立短篇。旧官网人物介绍为图片式页面，角色名与演职员资料交叉核对。",
       "source": "https://www.cuffs.co.jp/products/loveorlike/",
-      "chineseTitle": "最喜欢哥哥！爱还是喜欢？"
+      "chineseTitle": "最喜欢哥哥！爱还是喜欢？",
+      "charactersSource": "https://w.atwiki.jp/ercr/pages/2117.html"
     },
     {
       "id": "g406",
@@ -7120,12 +7435,18 @@
       "category": "Galgame",
       "subcategory": "恋爱剧情冒险",
       "genre": "毕业季／青春恋爱",
-      "characters": [],
-      "charactersNote": "官网以图像展示人物，姓名留待核实。",
+      "characters": [
+        "青野志音",
+        "松木衣良",
+        "清水琴羽",
+        "菜畑稻叶"
+      ],
+      "charactersNote": "",
       "synopsis": "以毕业为主题，海与雪之间的少年少女面对离别、未来和仍未说出口的心意。",
       "notes": "CUBE 官网编号第 8 作。",
       "source": "https://www.cuffs.co.jp/products/cyanblue/",
-      "chineseTitle": "海与雪的青蓝"
+      "chineseTitle": "海与雪的青蓝",
+      "charactersSource": "https://www.cuffs.co.jp/products/cyanblue/"
     },
     {
       "id": "g416",

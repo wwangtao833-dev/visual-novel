@@ -33,7 +33,9 @@ for version in versions:
     else:
         assert companies == [taxonomy['publisherAliases'].get(raw, raw)], f'{version["id"]} 厂商别名不一致'
 assert all(work['source'].startswith('https://') and isinstance(work['characters'], list)
-           and work['genre'] for work in works)
+           and work['characters'] and all(name and '待核实' not in name for name in work['characters'])
+           and work['genre'] for work in works), '每部作品必须有可显示的角色或原作身份'
+assert all(not work.get('charactersNote', '').find('待核实') >= 0 for work in works)
 assert all(isinstance(work.get('chineseTitle', ''), str) and
            isinstance(work.get('titleAliases', []), list) for work in works)
 for work in works:
@@ -52,7 +54,7 @@ for version, row in zip(versions, rows):
     assert row['细分类'] == work['subcategory']
     assert row['游戏类型'] == work['genre']
     assert row['发行厂商归档'] == ('、'.join(version['publisherCompanies']) or '非商业／未署商业厂商')
-    assert row['主要角色'] == ('、'.join(work['characters']) or '待核实')
+    assert row['主要角色'] == '、'.join(work['characters'])
     assert str(version['year']) == row['发行年份']
     assert row['角色配音标注'] == ('无角色配音' if version['voice'] == '无' else '')
     for key, field in [('platform', '平台'), ('publisher', '发行公司'),
@@ -61,6 +63,11 @@ for version, row in zip(versions, rows):
         assert version[key] == row[field], f"{version['id']} 的 {field} 与 JSON 不一致"
 coverage = json.loads((ROOT / 'data/company-coverage.json').read_text(encoding='utf-8'))
 for company in coverage['companies']:
+    profile = company['creativeProfile']
+    assert profile['thesis'] and len(profile['phases']) >= 2
+    assert all(p['period'] and p['heading'] and p['analysis'] and
+               p['basis'] in {'厂商说明', '编辑观察'} and p['source'].startswith('https://')
+               for p in profile['phases'])
     ids = company['workIds']
     assert len(ids) == len(set(ids)) and set(ids) <= work_ids, '厂商专题作品 ID 不正确'
     if 'publisherWorkIds' in company:

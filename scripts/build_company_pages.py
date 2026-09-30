@@ -33,7 +33,8 @@ def card(work, versions=None):
 <div class="card-top"><span class="year">{work['firstYear']}</span><span class="category">{escape(work['category'])}</span></div>
 <h3>{escape(display_title)}</h3>{original_line}
 <p class="intro">{escape(work['synopsis'])}</p>
-<div class="card-meta"><span>{escape(work['subcategory'])} · {escape(work['genre'])}</span><span>主要角色 · {escape(' / '.join(work['characters']) or '待核实')}</span></div>
+<div class="card-meta"><span>{escape(work['subcategory'])} · {escape(work['genre'])}</span><span>主要角色 · {escape(' / '.join(work['characters']))}</span></div>
+{f'<p class="character-evidence">{link(work["charactersSource"], "角色依据")}{(" · " + escape(work["charactersNote"])) if work.get("charactersNote") else ""}</p>' if work.get('charactersSource') else ''}
 <details class="version-panel"><summary>查看 {len(versions)} 个平台版本</summary><div class="version-list">{''.join(release_rows)}</div></details>
 <div class="card-bottom">{link(work['source'], '作品来源')}<span class="card-note">{escape(work['notes'])}</span></div></article>'''
 
@@ -65,17 +66,25 @@ def build(company):
                        f'按作品品牌：{len(selected)} 部。</strong></p>') if 'publisherWorkIds' in company else ''
     publisher_count = company.get('publisherWorkText', publisher_count)
     description = company.get('description', f"{company['name']} 叙事游戏作品专题：剧情、主要角色、首发年份、平台版本与官方目录核对清单。")
+    profile = company['creativeProfile']
+    profile_rows = ''.join(f'''<article class="profile-phase"><span class="profile-period">{escape(phase['period'])}</span>
+<h3>{escape(phase['heading'])}</h3><p>{escape(phase['analysis'])}</p>
+<div class="profile-basis"><span>{escape(phase['basis'])}</span>{link(phase['source'], '阅读依据')}</div></article>''' for phase in profile['phases'])
+    profile_section = f'''<section class="creative-profile" id="identity"><div class="section-heading"><div><p class="eyebrow">CREATIVE PROFILE</p><h2>作品怎样形成自己的风格</h2></div></div>
+<p class="profile-lead">{escape(profile['thesis'])}</p><div class="profile-phases">{profile_rows}</div>
+<p class="profile-caveat">时期划分是依据作品目录与厂商资料所做的编辑归纳；“厂商说明”引用其公开文字。“编辑观察”仅说明作品中可见的变化，不推断未经证实的经营或创作动机。</p></section>'''
     return f'''<!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="{escape(description)}">
 <title>{escape(company['name'])} 作品专题 · 叙事游戏年鉴</title>
 <link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="company.css"></head>
-<body><div class="app-shell"><header class="masthead"><a class="brand" href="index.html"><span class="brand-mark">N.</span><span>叙事游戏年鉴</span></a><nav aria-label="专题导航"><a href="#works">全部作品</a><a href="#coverage">核对清单</a><a href="index.html#catalogue">返回数据库</a></nav></header>
+<body><div class="app-shell"><header class="masthead"><a class="brand" href="index.html"><span class="brand-mark">N.</span><span>叙事游戏年鉴</span></a><nav aria-label="专题导航"><a href="#identity">创作风格</a><a href="#works">全部作品</a><a href="#coverage">核对清单</a><a href="index.html#catalogue">返回数据库</a></nav></header>
 <main><section class="company-hero"><p class="eyebrow">COMPANY DOSSIER · {escape(company['checkedAt'])}</p><h1>{escape(company['name'])} 作品专题</h1>
 <p class="lead">{escape(company['publisherNote'])}</p>{publisher_count}
 <div class="overview"><div><strong>{len(selected) + len(related)}</strong><span>{overview_label}</span></div><div><strong>{count_versions}</strong><span>已核实版本记录</span></div><div><strong>{min(w['firstYear'] for w in selected + related)}—{max(w['firstYear'] for w in selected + related)}</strong><span>作品首发跨度</span></div></div>
 <p class="scope-note">{escape(company['scope'])}</p><p class="scope-note">{escape(company['versionScope'])}</p>
-<div class="hero-links"><a class="primary-link" href="#works">按年份阅读作品</a><a class="secondary-link" href="#coverage">查看目录核对说明</a></div></section>
+<div class="hero-links"><a class="primary-link" href="#identity">阅读创作风格</a><a class="secondary-link" href="#works">按年份阅读作品</a></div></section>
+{profile_section}
 <section id="works"><div class="section-heading"><div><p class="eyebrow">GAME CATALOGUE</p><h2>{escape(section_title)}</h2></div><p>{len(selected)} 部四类作品 · 增强版合并计数</p></div>
 <nav class="work-index" aria-label="按年份跳转作品">{toc}</nav><div class="cards">{''.join(card(w) for w in selected)}</div></section>
 {related_section}

@@ -620,7 +620,26 @@
         }
       ],
       "auditLabel": "官网目录 30 项，另补充外传与待发行项目。",
-      "auditNote": "“核对完成”指上述目录中每项内容都有处理记录。已发行的跨类型游戏在专题另列；未确认发售的项目和非游戏媒介不计入已发行游戏数。"
+      "auditNote": "“核对完成”指上述目录中每项内容都有处理记录。已发行的跨类型游戏在专题另列；未确认发售的项目和非游戏媒介不计入已发行游戏数。",
+      "creativeProfile": {
+        "thesis": "从家庭与季节记忆出发，逐渐扩展到短篇科幻、跨媒介角色故事和新的长篇群像。",
+        "phases": [
+          {
+            "period": "1999—2004",
+            "heading": "情感从日常裂缝进入",
+            "analysis": "《Kanon》《AIR》《CLANNAD》把亲情、离别与约定放在校园和季节的背景中；超现实设定服务于人与人重逢的情绪。",
+            "basis": "编辑观察",
+            "source": "https://key.visualarts.gr.jp/product_all"
+          },
+          {
+            "period": "2004—2026",
+            "heading": "短篇与题材扩张",
+            "analysis": "《星之梦》将同样的情感集中到废墟与机器人身上；其后的《Summer Pockets》回到夏日群像，近年的 kinetic novel 又使用较短的单线形式。可见的是叙述长度和题材的扩展，不能单凭目录推断原因。",
+            "basis": "编辑观察",
+            "source": "https://key.visualarts.gr.jp/product_all"
+          }
+        ]
+      }
     },
     {
       "id": "novect",
@@ -765,7 +784,26 @@
           "reason": "现据 Bangumi 条目及关联记录登记 2016 年（记录日期为 8 月 21 日），尚待原始发行公告复核；不是 novect.net/ranking2.html，该地址实际为第一次投票的结果页。",
           "source": "https://bangumi.tv/subject/352894"
         }
-      ]
+      ],
+      "creativeProfile": {
+        "thesis": "以视角转换、身份与记忆的误认制造阅读体验，再把核心世界延伸为前传和短篇。",
+        "phases": [
+          {
+            "period": "2011—2012",
+            "heading": "从独立短篇到洋馆长篇",
+            "analysis": "《雾上的伊拉斯谟》之后，《海市蜃楼之馆》通过不同时代的门与叙述视角逐步改写读者先前的判断。",
+            "basis": "编辑观察",
+            "source": "https://booth.pm/ja/items/1956908"
+          },
+          {
+            "period": "2013—2016",
+            "heading": "同一世界的反面与余响",
+            "analysis": "《第七境》另辟题材，《无罪者的安魂曲》回望本篇之前的因果，洋馆假日及投票短篇则给沉重叙事留出轻松的角色空间。",
+            "basis": "编辑观察",
+            "source": "https://booth.pm/ja/items/1956908"
+          }
+        ]
+      }
     },
     {
       "id": "aniplex_exe",
@@ -822,7 +860,26 @@
           "source": "https://tanetsumi.aniplex-exe.com/"
         }
       ],
-      "auditNote": "“四部”依据品牌官网现有四个作品栏目逐项核对，指独立已发行游戏，不代表 Aniplex 公司的全部电子游戏。第一期同时推出两部作品；零售商店不等于游戏平台。"
+      "auditNote": "“四部”依据品牌官网现有四个作品栏目逐项核对，指独立已发行游戏，不代表 Aniplex 公司的全部电子游戏。第一期同时推出两部作品；零售商店不等于游戏平台。",
+      "creativeProfile": {
+        "thesis": "四部作品并不共享一种画风，而是以短中篇篇幅与不同创作者的独立题材为线索。",
+        "phases": [
+          {
+            "period": "2020",
+            "heading": "双作同时亮相",
+            "analysis": "《ATRI》以末日海面和少年少女的承诺牵引感情，《徒花异谭》借童话与叙述者身份展开。同期发行已显露题材并行的路线。",
+            "basis": "编辑观察",
+            "source": "https://aniplex-exe.com/news/"
+          },
+          {
+            "period": "2023—2024",
+            "heading": "转向历史与神话",
+            "analysis": "《ヒラヒラヒヒル》处理疾病与近代社会视线，《播种之谣》转向神话性群像。这里是目录可见的题材选择变化，不是对品牌策略成因的断言。",
+            "basis": "编辑观察",
+            "source": "https://aniplex-exe.com/news/"
+          }
+        ]
+      }
     },
     {
       "id": "sprite",
@@ -1030,7 +1087,26 @@
         "g205",
         "g206",
         "g207"
-      ]
+      ],
+      "creativeProfile": {
+        "thesis": "从校园社团内的选择与冲突，延伸到虚构体育的竞技和赛后人物故事。",
+        "phases": [
+          {
+            "period": "2010",
+            "heading": "选举作为青春冲突",
+            "analysis": "《恋爱与选举与巧克力》让学生会选举组织角色关系，个人选择与集体规则同时起作用。",
+            "basis": "编辑观察",
+            "source": "https://sprite.net/games"
+          },
+          {
+            "period": "2014—2024",
+            "heading": "空中竞技与告别",
+            "analysis": "《苍之彼方的四重奏》以 Flying Circus 的训练和比赛推动人物成长；EXTRA 篇收束具体人物的后续，《everlasting flowers》又改用更集中的少女关系。",
+            "basis": "编辑观察",
+            "source": "https://sprite.net/games"
+          }
+        ]
+      }
     },
     {
       "id": "madosoft",
@@ -1245,7 +1321,26 @@
         }
       ],
       "auditLabel": "PC 游戏目录十项（九部已发行、一部预定）及主机移植与边界核查。",
-      "auditNote": "九部指独立零售的游戏；十部包括 2016 年 Blu-ray 特典的可游玩短篇 ADV。五篇短篇合计一条作品记录；2027 年预定新作、试玩版、单纯音声作品和合集不计。"
+      "auditNote": "九部指独立零售的游戏；十部包括 2016 年 Blu-ray 特典的可游玩短篇 ADV。五篇短篇合计一条作品记录；2027 年预定新作、试玩版、单纯音声作品和合集不计。",
+      "creativeProfile": {
+        "thesis": "校园喜剧的角色表情与节奏是早期轴心，后来逐渐引入职业能力、创作活动和社会选择。",
+        "phases": [
+          {
+            "period": "2013—2018",
+            "heading": "夸张人物与学园关系",
+            "analysis": "从《任性娇羞的恋爱》到《任性High Spec》《树莓立方体》，标题和人物互动都突出误会、个性及轻快的恋爱喜剧。",
+            "basis": "编辑观察",
+            "source": "https://www.madosoft.net/products"
+          },
+          {
+            "period": "2020—2025",
+            "heading": "把创作设为情节动力",
+            "analysis": "《超常规创意》及其后续让创作者与伙伴的合作成为故事环境；《Select Oblige》转向选择和地位差异。作品可见重点变化，但具体创作动机未由目录说明。",
+            "basis": "编辑观察",
+            "source": "https://www.madosoft.net/products"
+          }
+        ]
+      }
     },
     {
       "id": "yuzusoft",
@@ -1443,7 +1538,26 @@
           "reason": "收录已有独立游戏的打包发行，不构成新的本篇作品。",
           "source": "https://store.steampowered.com/app/1662840/PARQUET/"
         }
-      ]
+      ],
+      "creativeProfile": {
+        "thesis": "从校园日常与超自然事件并置，发展为有明确地理、职业或神话设定的恋爱群像。",
+        "phases": [
+          {
+            "period": "2006—2013",
+            "heading": "学园框架里的异变",
+            "analysis": "《管乐恋曲》《E×E》《天神乱漫》到《天色＊航迹》在熟悉的日常空间里放入异能、神明或异文化遭遇。",
+            "basis": "编辑观察",
+            "source": "https://www.yuzu-soft.com/products.html"
+          },
+          {
+            "period": "2016—2025",
+            "heading": "场景与身份更鲜明",
+            "analysis": "《千恋＊万花》使用温泉乡传说，《星光咖啡馆与死神之蝶》以咖啡馆和命运转折承载群像，近作仍延续设定与恋爱并行的写法。",
+            "basis": "编辑观察",
+            "source": "https://www.yuzu-soft.com/products.html"
+          }
+        ]
+      }
     },
     {
       "id": "innocent_grey",
@@ -1657,7 +1771,26 @@
           "reason": "官方商店分类中另有音声 CD、配乐、日历与画集；不混入游戏作品数。",
           "source": "https://ec.e-mart.jp/gungnir/products/list?category_id=2"
         }
-      ]
+      ],
+      "creativeProfile": {
+        "thesis": "用绘画般的画面与隐秘往事建立悬疑，后来在《FLOWERS》中把观察人物的方式转入寄宿学校。",
+        "phases": [
+          {
+            "period": "2005—2013",
+            "heading": "案件与记忆的连锁",
+            "analysis": "《恋狱》《壳之少女》《虚之少女》通过调查、证言和过去事件组织多部曲；死亡与失踪并非独立谜题，也牵动人物关系。",
+            "basis": "编辑观察",
+            "source": "https://ec.e-mart.jp/gungnir/products/list?category_id=2"
+          },
+          {
+            "period": "2014—2020",
+            "heading": "校园四季与悬疑归结",
+            "analysis": "《FLOWERS》按春夏秋冬逐篇累积少女关系及未解之谜；《天之少女》回到“壳”系列的案件终章。两个系列并行显示题材拓宽。",
+            "basis": "编辑观察",
+            "source": "https://ec.e-mart.jp/gungnir/products/list?category_id=2"
+          }
+        ]
+      }
     },
     {
       "id": "minori",
@@ -1931,7 +2064,26 @@
           "reason": "前后篇的合辑和本地化按原作品归档；专题仅列已逐项核实的版本。",
           "source": "https://store.steampowered.com/publisher/minori"
         }
-      ]
+      ],
+      "creativeProfile": {
+        "thesis": "善于以光影、音乐与相隔的时间表现难言的感情，后期又把科幻设定纳入人物关系。",
+        "phases": [
+          {
+            "period": "2001—2010",
+            "heading": "日常与镜头感",
+            "analysis": "《春天的足音》《悠久之翼》把恋人与记忆、距离和时间连在一起；前后篇及后日谈让同一段关系从不同时间点显影。",
+            "basis": "编辑观察",
+            "source": "https://www.minori.ph/lineup/"
+          },
+          {
+            "period": "2012—2019",
+            "heading": "痛感关系与人工生命",
+            "analysis": "《夏空的英仙座》《罪之光约会》保持人物内心的负担；《Trinoline》及其后续将人工智能与替代记忆放入原有的情感主题。",
+            "basis": "编辑观察",
+            "source": "https://www.minori.ph/lineup/"
+          }
+        ]
+      }
     },
     {
       "id": "august",
@@ -2179,7 +2331,26 @@
           "reason": "官方定义为免费学园 RPG，含全语音剧情；在专题另列，不计入四类叙事作品的厂商筛选。",
           "source": "https://august-soft.com/product"
         }
-      ]
+      ],
+      "creativeProfile": {
+        "thesis": "奇幻世界与温柔日常交替出现；长篇中常让角色承担所属共同体的责任。",
+        "phases": [
+          {
+            "period": "2002—2010",
+            "heading": "从小镇、校园到月球王国",
+            "analysis": "《月东日西》的学园结构和《夜明前的琉璃色》的王国设定都以关系的改变推动恋爱；续篇则回到相识之后的生活。",
+            "basis": "编辑观察",
+            "source": "https://august-soft.com/product"
+          },
+          {
+            "period": "2011—2019",
+            "heading": "制度与共同体的比重上升",
+            "analysis": "《秽翼的尤斯蒂娅》让城市阶层进入人物命运，《大图书馆的牧羊人》将图书馆社团设为群像中心，《千之刃涛》转向更宏大的政治与家国冲突。",
+            "basis": "编辑观察",
+            "source": "https://august-soft.com/product"
+          }
+        ]
+      }
     },
     {
       "id": "toneworks",
@@ -2293,7 +2464,26 @@
           "reason": "画集及附属语音剧按媒介区分，不计游戏作品。",
           "source": "https://toneworks.product.co.jp/tsukikana_vfb/"
         }
-      ]
+      ],
+      "creativeProfile": {
+        "thesis": "以恋人生活的长度为主题，反复关注告白之后、成长之后，关系会如何变化。",
+        "phases": [
+          {
+            "period": "2012—2016",
+            "heading": "时间跨度拉长",
+            "analysis": "《初恋1/1》从第一次恋爱切入，《星织梦未来》《银色、遥远》追踪学生时代到未来的牵连；《律佳与你的一周年纪念甜蜜生日》聚焦交往纪念日。",
+            "basis": "编辑观察",
+            "source": "https://toneworks.product.co.jp/product.html"
+          },
+          {
+            "period": "2019—2020",
+            "heading": "重逢与另一种人生",
+            "analysis": "《在月之彼岸相逢》把青年时期的选择与成年重逢交织，后日谈补写相伴之后的生活。重点延续“恋爱之后”的提问。",
+            "basis": "编辑观察",
+            "source": "https://toneworks.product.co.jp/product.html"
+          }
+        ]
+      }
     },
     {
       "id": "asaproject",
@@ -2594,7 +2784,26 @@
           "reason": "总产品页仍称“2026 年秋预定”，单作官网及品牌首页已宣布 2026-09-25 正式发售。",
           "source": "https://www.asa-pro.com/ousama/"
         }
-      ]
+      ],
+      "creativeProfile": {
+        "thesis": "厂商明确提出“新颖企划”与“让人开心发笑的人物”；其喜剧常由不可能的同居或关系规则启动。",
+        "phases": [
+          {
+            "period": "2007—2011",
+            "heading": "身份与家庭的距离实验",
+            "analysis": "《アッチむいて恋》把学校男生、宿舍女装两种身份并置；编剧当时说明这是利用游戏才能成立的情境。《恋爱０キロメートル》又将所有女主角设为姐妹，编剧称自己想写家庭喜剧。",
+            "basis": "厂商说明",
+            "source": "https://www.asa-pro.com/top/staff/staff.html"
+          },
+          {
+            "period": "2013—2026",
+            "heading": "把关系规则继续变奏",
+            "analysis": "从隔一层熟人的《ひとつ飛ばし恋愛》，到两个家庭共住、借住、恋爱竞逐，作品持续先设关系难题，再让人物靠笑料和对话解决距离。此为依据官网类型标签的编辑归纳。",
+            "basis": "编辑观察",
+            "source": "https://www.asa-pro.com/products.html"
+          }
+        ]
+      }
     },
     {
       "id": "elf",
@@ -3888,7 +4097,26 @@
       "overviewLabel": "已整理的 ELF 相关游戏",
       "publisherWorkText": "<p class=\"scope-note\"><strong>叙事作品 31 部，其中 ELF 原创 26 部、ELF 发行的 Silky’s 原作 5 部。</strong></p>",
       "relatedCountLabel": "按实际类型标注",
-      "description": "日本 ELF 历史作品专题：31 部叙事作品、22 部跨类型作品、版本资料和指令类作品排除说明。"
+      "description": "日本 ELF 历史作品专题：31 部叙事作品、22 部跨类型作品、版本资料和指令类作品排除说明。",
+      "creativeProfile": {
+        "thesis": "既有以时间管理展开的校园恋爱，也有以封闭空间、权力关系和视点限制制造压力的悬疑。",
+        "phases": [
+          {
+            "period": "1992—2000",
+            "heading": "校园与宅邸两条路线",
+            "analysis": "《同级生》《下级生》将相遇安排在可探索的日程里；《河原崎家的一族》《YU-NO》等作品转向悬疑、多线结构与更强的故事机关。",
+            "basis": "编辑观察",
+            "source": "https://archive.is/taUch"
+          },
+          {
+            "period": "2001—2015",
+            "heading": "系列再访与成人题材",
+            "analysis": "后期目录同时出现《下级生2》《河原崎家的一族2》等系列续作，以及影像行业或家庭关系主题。题材范围可见扩张，不能仅据列表判定组织或市场上的成因。",
+            "basis": "编辑观察",
+            "source": "https://archive.is/taUch"
+          }
+        ]
+      }
     },
     {
       "id": "leaf",
@@ -4560,7 +4788,26 @@
       "auditSourceLabel": "Leaf 官方产品目录（需年龄确认）",
       "overviewLabel": "Leaf 历史游戏与杂集",
       "publisherWorkText": "<p class=\"scope-note\"><strong>叙事游戏 14 部；跨类型及独立 Fan Disc 11 部。主机移植署 AQUAPLUS，不改写原作发行方。</strong></p>",
-      "description": "Leaf 历史作品专题：14 部独立叙事游戏与 11 部麻将、RPG、经营和 Fan Disc；提供剧情、人物、版本及产品核对说明。"
+      "description": "Leaf 历史作品专题：14 部独立叙事游戏与 11 部麻将、RPG、经营和 Fan Disc；提供剧情、人物、版本及产品核对说明。",
+      "creativeProfile": {
+        "thesis": "从带有不安感的视觉小说试验，拓展到校园恋爱、奇幻史诗与跨多年分章的感情剧。",
+        "phases": [
+          {
+            "period": "1996—1999",
+            "heading": "视觉小说与日常校园",
+            "analysis": "《雫》《痕》使用内心独白与悬疑，《ToHeart》《白色相簿》则把叙事重心放在熟悉关系和难以直说的情绪。",
+            "basis": "编辑观察",
+            "source": "https://leaf.aquaplus.jp/product/index.html"
+          },
+          {
+            "period": "2002—2011",
+            "heading": "不同体量的叙事",
+            "analysis": "《传颂之物》引入战略与世界设定；《WHITE ALBUM2》的 introductory chapter、closing chapter、coda 逐层展开关系后果。风格变化呈现为题材与叙事长度的并存。",
+            "basis": "编辑观察",
+            "source": "https://leaf.aquaplus.jp/product/index.html"
+          }
+        ]
+      }
     },
     {
       "id": "sagaplanets",
@@ -4959,7 +5206,26 @@
       "auditSourceLabel": "SAGA PLANETS 官方产品目录",
       "overviewLabel": "已核对的独立游戏",
       "publisherWorkText": "<p class=\"scope-note\"><strong>叙事作品 24 部；AVG＋SLG 2 部。当前版本记录均为首发 PC 版。</strong></p>",
-      "description": "SAGA PLANETS 历史作品专题：24 部独立叙事游戏与 2 部 AVG＋SLG；提供剧情、人物、首发记录和逐项目录核查。"
+      "description": "SAGA PLANETS 历史作品专题：24 部独立叙事游戏与 2 部 AVG＋SLG；提供剧情、人物、首发记录和逐项目录核查。",
+      "creativeProfile": {
+        "thesis": "早年题材分散，随后以四季青春、鲜明群像与事件性恋爱故事形成更连续的作品线索。",
+        "phases": [
+          {
+            "period": "1998—2010",
+            "heading": "试验到四季意象",
+            "analysis": "早期《骸》《罪与罚》与《恋爱 CHU!》题材差异显著；《夏梦渚》《如月 GOLD★STAR》把夏日、秋日和青梅竹马群像推到前景。",
+            "basis": "编辑观察",
+            "source": "https://sagapla.net/product.html"
+          },
+          {
+            "period": "2015—2023",
+            "heading": "青春群像与怪盗谜题",
+            "analysis": "《花咲 Work Spring!》《奔跑吧★青春 Sparking!》偏向社团和友人；《AMBITIOUS MISSION》改用怪盗、星之传说和孤儿院秘密串起恋爱与解谜，后日谈延长人物关系。",
+            "basis": "编辑观察",
+            "source": "https://sagapla.net/product.html"
+          }
+        ]
+      }
     },
     {
       "id": "smee",
@@ -5286,7 +5552,26 @@
       "auditSourceLabel": "HOOKSOFT 官方产品总目录",
       "overviewLabel": "独立发行的相关游戏",
       "publisherWorkText": "<p class=\"scope-note\"><strong>13 部原作、11 部独立后日谈／Fan Disc、1 部联合作品；纪念合集与高清重制合并说明。</strong></p>",
-      "description": "SMEE 厂商专题：2007—2024 年 25 部已发行恋爱冒险、独立续篇和联合作品，含剧情、人物、首发版本与核对清单。"
+      "description": "SMEE 厂商专题：2007—2024 年 25 部已发行恋爱冒险、独立续篇和联合作品，含剧情、人物、首发版本与核对清单。",
+      "creativeProfile": {
+        "thesis": "以“如何开始交往、如何继续交往”为可玩的过程，创作意图在开发者的概念和访谈中有明确说明。",
+        "phases": [
+          {
+            "period": "2011—2016",
+            "heading": "把认识过程做成互动",
+            "analysis": "《ラブラブル》《フレラバ》《カノジョ＊ステップ》反复调整从交友到告白的节奏；《カノジョ＊ステップ》官网明确把关系逐步升级作为玩法。",
+            "basis": "厂商说明",
+            "source": "https://www.hook-net.jp/smee/kanojostep/concept.html"
+          },
+          {
+            "period": "2017—2024",
+            "heading": "把重点移到交往之后",
+            "analysis": "《Making*Lovers》官网说明故事从开始约会后展开；《ハジラブ》开发者进一步说明根据用户希望，强化交往后相互亲近和害羞的过程。《１／１彼氏彼女》还让恋爱发生在人生的不同时期。",
+            "basis": "厂商说明",
+            "source": "https://www.hook-net.jp/smee/hajilove/intro.html"
+          }
+        ]
+      }
     },
     {
       "id": "favorite",
@@ -5562,7 +5847,26 @@
       "auditTitle": "FAVORITE 官方产品目录逐项核对",
       "auditSourceLabel": "FAVORITE 产品目录",
       "overviewLabel": "独立发售的叙事游戏",
-      "description": "FAVORITE 厂商专题：14 部独立游戏及 Fan Disc，35 条首发、合集、重制与主机版本记录。"
+      "description": "FAVORITE 厂商专题：14 部独立游戏及 Fan Disc，35 条首发、合集、重制与主机版本记录。",
+      "creativeProfile": {
+        "thesis": "从学园魔法和轻快恋爱，逐渐形成与星空、雪、记忆有关的幻想故事，再回到舞台表演的群像。",
+        "phases": [
+          {
+            "period": "2004—2009",
+            "heading": "奇幻学园与星空",
+            "analysis": "《AngelWish》《ウィズ アニバーサリィー》以校园和魔法为基底；《星空のメモリア》开始把天文意象和人物过去紧密连接。",
+            "basis": "编辑观察",
+            "source": "https://www.favo-soft.jp/soft/product.html"
+          },
+          {
+            "period": "2011—2023",
+            "heading": "世界观延展与舞台新题",
+            "analysis": "《いろとりどりのセカイ》《アストラエアの白き永遠》及续篇继续使用跨现实的情感与冬景；《ハッピーライヴ ショウアップ！》改以演出与伙伴的目标组织故事。",
+            "basis": "编辑观察",
+            "source": "https://www.favo-soft.jp/soft/product.html"
+          }
+        ]
+      }
     },
     {
       "id": "cuffs",
@@ -5686,7 +5990,26 @@
       "auditTitle": "CUFFS 主品牌六作与补充事项",
       "auditSourceLabel": "CUFFS 官方产品目录",
       "overviewLabel": "主品牌独立叙事游戏",
-      "description": "CUFFS 主品牌作品专题：六部独立叙事游戏、七条已核实版本记录，以及 Garden 追加剧情与停止开发路线的说明。"
+      "description": "CUFFS 主品牌作品专题：六部独立叙事游戏、七条已核实版本记录，以及 Garden 追加剧情与停止开发路线的说明。",
+      "creativeProfile": {
+        "thesis": "短篇日常中的天气、季节和距离感是可见线索；收录作品中也有对日常结构不同程度的尝试。",
+        "phases": [
+          {
+            "period": "2005—2007",
+            "heading": "近处的日常与雨",
+            "analysis": "《さくらむすび》《アメサラサ》借熟人关系与雨天等平常场景处理恋爱距离，叙事尺度偏向个人生活。",
+            "basis": "编辑观察",
+            "source": "https://www.cuffs.co.jp/main/products/"
+          },
+          {
+            "period": "2008—2011",
+            "heading": "庭园与咖啡馆",
+            "analysis": "《Garden》把共同生活集中在庭园，《CAFE SOURIRE》转到咖啡馆空间。官网目录只足以说明这些题材变化，不提供可断定的创作原因。",
+            "basis": "编辑观察",
+            "source": "https://www.cuffs.co.jp/main/products/"
+          }
+        ]
+      }
     },
     {
       "id": "cube",
@@ -5888,7 +6211,26 @@
       "auditTitle": "CUBE 官方目录逐项核对",
       "auditSourceLabel": "CUFFS 官方产品目录",
       "overviewLabel": "独立发售的叙事游戏",
-      "description": "CUBE 厂商专题：十一部编号作品、十八条 Windows 版本记录，以及扩充版、合集和补丁的核对。"
+      "description": "CUBE 厂商专题：十一部编号作品、十八条 Windows 版本记录，以及扩充版、合集和补丁的核对。",
+      "creativeProfile": {
+        "thesis": "从季节性校园关系延伸到家庭结构，再逐渐加入超现实题材与更短的悬疑故事。",
+        "phases": [
+          {
+            "period": "2009—2016",
+            "heading": "雨、日记与家庭",
+            "analysis": "《夏ノ雨》《your diary》重在日常关系，《倉野くんちのふたご事情》《間宮くんちの五つ子事情》把人数和亲密距离本身变成剧情机制。",
+            "basis": "编辑观察",
+            "source": "https://www.cuffs.co.jp/main/products/"
+          },
+          {
+            "period": "2017—2022",
+            "heading": "神明、毕业与鲨鱼",
+            "analysis": "《神様のような君へ》以科技理想切入，《海と雪のシアンブルー》转向毕业，《サメと生きる七日間》采用异常事件。题材拓宽是从目录可见的事实。",
+            "basis": "编辑观察",
+            "source": "https://www.cuffs.co.jp/main/products/"
+          }
+        ]
+      }
     },
     {
       "id": "sphere",
@@ -6011,7 +6353,26 @@
       "auditTitle": "Sphere 官方目录与数字版本核对",
       "auditSourceLabel": "CUFFS 官方产品目录",
       "overviewLabel": "独立发售的叙事游戏",
-      "description": "Sphere 品牌专题：四部独立叙事游戏、十条 Windows 版本记录，另有 Steam 待发行说明。"
+      "description": "Sphere 品牌专题：四部独立叙事游戏、十条 Windows 版本记录，另有 Steam 待发行说明。",
+      "creativeProfile": {
+        "thesis": "少量作品围绕亲密关系的界限；最初的作品通过续篇补足另一侧的角色视角。",
+        "phases": [
+          {
+            "period": "2008—2009",
+            "heading": "关系与视角",
+            "analysis": "《ヨスガノソラ》让返乡后的兄妹与旧识关系成为主轴，《ハルカナソラ》补写原作人物的其他时间与片段。",
+            "basis": "编辑观察",
+            "source": "https://www.cuffs.co.jp/main/products/"
+          },
+          {
+            "period": "2012—2013",
+            "heading": "继续变化“家”与日常场所",
+            "analysis": "《イモウトノカタチ》再次使用家人与身份的疑问，《Berry’s》转到餐厅工作及相识过程。现有四作无法支持更大范围的品牌转型结论。",
+            "basis": "编辑观察",
+            "source": "https://www.cuffs.co.jp/main/products/"
+          }
+        ]
+      }
     }
   ]
 }

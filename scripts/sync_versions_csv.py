@@ -17,7 +17,7 @@ with (ROOT / 'data/versions.csv').open('w', encoding='utf-8-sig', newline='') as
         work = works[version['workId']]
         writer.writerow(dict(zip(fields, [
             work['id'], version['id'], work['title'], work.get('chineseTitle', ''), work['originalTitle'],
-            work['category'], work['subcategory'], work['genre'], '、'.join(work['characters']) or '待核实',
+            work['category'], work['subcategory'], work['genre'], '、'.join(work['characters']),
             version['year'], version['platform'], version['publisher'],
             '、'.join(version['publisherCompanies']) or '非商业／未署商业厂商',
             version['kind'], '无角色配音' if version['voice'] == '无' else '', version['differences'], version['source'],
