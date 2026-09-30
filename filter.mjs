@@ -1,4 +1,4 @@
-export const normalize = (value) => String(value ?? '').normalize('NFKC').toLocaleLowerCase().replace(/\s+/g, '');
+export const normalize = (value) => String(value ?? '').normalize('NFKC').replace(/[’‘]/g, "'").toLocaleLowerCase().replace(/\s+/g, '');
 export const visibleVoiceNote = (version) => version.voice === '无' ? '无角色配音' : '';
 
 export function publisherWorkCounts(data) {

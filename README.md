@@ -4,7 +4,7 @@
 
 ## 数据范围
 
-当前收录 **464 部代表作品、866 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、ゆずソフト、Innocent Grey、minori、AUGUST、tone work’s、ASa Project、ELF、Silky’s、Leaf、SAGA PLANETS、SMEE、FAVORITE、CUFFS、CUBE、Sphere、ぱれっと、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
+当前收录 **478 部代表作品、886 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、ゆずソフト、Innocent Grey、minori、AUGUST、tone work’s、ASa Project、ELF、Silky’s、Leaf、SAGA PLANETS、SMEE、FAVORITE、CUFFS、CUBE、Sphere、ぱれっと、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
 
 作品主分类是一种检索入口，并非互斥的学术分类：一部恋爱视觉小说也可能属于广义 Galgame。视觉小说的“有声小说”可能只有音乐和音效，配音字段专指游戏内角色人声。
 
@@ -99,3 +99,5 @@
 已新增 [Innocent Grey 厂商专题](innocent_grey.html)：按该品牌独立发售的叙事游戏整理 **11 部作品、38 条平台版本记录**。收录《カルタグラ》《PP》《和み匣》《殻ノ少女》《クロウカシス》《虚ノ少女》、四部《FLOWERS》季节篇和《天ノ少女》；重制版、国际 Steam 版与《FLOWERS 四季》主机合集作为已有作品的平台版本记录。专题列明剧情、角色、发行署名与版本差异。未来发售的合集和非游戏音声不计入作品。
 
 已新增 [minori 厂商专题](minori.html)：按 minori 官网 15 个目录栏目逐项核对，录入 **19 部独立发行的叙事作品、28 条已核实平台版本记录**。其中 14 部为主要作品（《ef》前后篇分别发行），5 部为独立发行的前传或 Fan Disc。《すぴぱら NICE TO MEET YOU!》与 2012 年正篇分别记录；两张《ef》预览盘、重制追加版和跨类型的《Killjoy Hunter Yuuko》在专题说明，不误计为新的叙事作品。新录入作品均非纯文本指令或图文指令游戏。
+
+新增 [Silky’s Plus 独立专题](silkys_plus.html)：14 部叙事作品（11 部本篇、3 部独立补充篇），20 条首发、移植及国际发行版本。包含 WASABI、A5和牛、DOLCE，区分原 Silky’s 与姐妹品牌；支持中文检索，保留日文原名与编辑译名标识。专题补充创作风格、时期变化及资料链接。

@@ -194,3 +194,15 @@ test('publisher aliases preserve historical credit and count games across platfo
   assert.equal(counts.has('CHUNSOFT'),false);
   assert.equal(filterCatalogue(data,{company:'Konami'}).filter(({work})=>work.originalTitle.startsWith('ときめきメモリアル')).length,4);
 });
+
+test('Silkys Plus dossier, Chinese searches and original-brand separation',()=>{
+  const plus=filterCatalogue(data,{company:'Silky’s Plus'});
+  assert.equal(plus.length,14);
+  assert.ok(plus.every(({work})=>!['纯文本指令','图文指令'].includes(work.subcategory)));
+  for(const [query,id] of [['七色轮回','g468'],['なないろリンカネーション','g468'],['寻蝶者','g473'],['魅魔星奏2','g480'],['莉露卡','g481'],["Silky's Plus",'g481']]) {
+    assert.ok(filterCatalogue(data,{query}).some(({work})=>work.id===id),query);
+  }
+  assert.ok(filterCatalogue(data,{company:'Silky’s'}).every(({work})=>!plus.some(p=>p.work.id===work.id)));
+  const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='silkys_plus');
+  assert.deepEqual(new Set(dossier.workIds),new Set(plus.map(p=>p.work.id)));
+});
