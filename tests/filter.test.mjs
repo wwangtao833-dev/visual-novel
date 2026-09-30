@@ -31,6 +31,17 @@ test('Palette chapters, editorial Chinese names, and original spellings stay sea
   assert.equal(publisherWorkCounts(data).get('ぱれっと'),18);
 });
 
+test('Silky’s new Chinese names preserve original search and studio credit',()=>{
+  const chinese=filterCatalogue(data,{query:'姬骑士安洁莉卡',company:'Silky’s'});
+  const original=filterCatalogue(data,{query:'姫騎士アンジェリカ',company:'Silky’s'});
+  assert.equal(chinese.length,1);
+  assert.equal(original[0].work.id,chinese[0].work.id);
+  assert.equal(chinese[0].work.chineseTitleType,'站内编辑译名');
+  assert.ok(chinese[0].work.characters.includes('アンジェリカ・ロートシルト'));
+  assert.equal(publisherWorkCounts(data).get('Silky’s'),28);
+  assert.equal(filterCatalogue(data,{query:'Premium',company:'Silky’s'}).length,0);
+});
+
 test('a 1999 PlayStation query selects ToHeart port, not its 1997 Windows original',()=>{
   const result=filterCatalogue(data,{query:'ToHeart',platform:'PlayStation',from:1999,to:1999});
   assert.equal(result.length,1);

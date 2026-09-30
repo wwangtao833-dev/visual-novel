@@ -6730,6 +6730,673 @@
           }
         ]
       }
+    },
+    {
+      "id": "silkys",
+      "name": "Silky’s",
+      "checkedAt": "2026-09-30",
+      "status": "旧官网存档、馆藏及目录交叉核对",
+      "scope": "Silky’s（シルキーズ）原品牌 1992—2014 年四十款清单逐项说明；不把 2014 年后的 Silky’s Plus 当成同一发行品牌。六款指令或非叙事小游戏不新增；六款恋爱／策略模拟在跨类型附录。",
+      "versionScope": "主数据库登记可核的原品牌首发；已有五作的 ELF 改编版本继续共用作品记录。跨类型附录列原始平台；未把语音未知写作无角色配音。",
+      "publisherNote": "Silky’s 是 ELF 的衍生品牌；原品牌与 2014 年后独立创立的 Silky’s Plus 分开归档。原作中已有五部在 ELF 专题因后续改编发行出现，本页沿用同一作品 ID。",
+      "workIds": [
+        "g305",
+        "g306",
+        "g307",
+        "g309",
+        "g311",
+        "g441",
+        "g442",
+        "g443",
+        "g444",
+        "g445",
+        "g446",
+        "g447",
+        "g448",
+        "g449",
+        "g450",
+        "g451",
+        "g452",
+        "g453",
+        "g454",
+        "g455",
+        "g456",
+        "g457",
+        "g458",
+        "g459",
+        "g460",
+        "g461",
+        "g462",
+        "g463"
+      ],
+      "publisherWorkIds": [
+        "g305",
+        "g306",
+        "g307",
+        "g309",
+        "g311",
+        "g441",
+        "g442",
+        "g443",
+        "g444",
+        "g445",
+        "g446",
+        "g447",
+        "g448",
+        "g449",
+        "g450",
+        "g451",
+        "g452",
+        "g453",
+        "g454",
+        "g455",
+        "g456",
+        "g457",
+        "g458",
+        "g459",
+        "g460",
+        "g461",
+        "g462",
+        "g463"
+      ],
+      "catalogueEntryCount": 40,
+      "source": "https://www.ymgal.games/oa10266",
+      "sectionTitle": "1993—2014 年的二十八部叙事作品",
+      "auditLabel": "原品牌清单四十项逐项核对；旧官网已停止运营，首发和角色以馆藏及目录记录交叉核对。",
+      "auditNote": "核对清单覆盖四十款原品牌游戏，区分正文、跨类型模拟与本次排除的指令／非叙事玩法；不宣称每款游戏的所有移植版本均已穷尽。",
+      "entries": [
+        {
+          "title": "48夜物語",
+          "status": "本次不新增",
+          "workIds": [],
+          "reason": "排除：翻牌／记忆小游戏，没有可追踪的叙事路线。",
+          "source": "https://www.ymgal.games/ga25604"
+        },
+        {
+          "title": "Premium",
+          "status": "本次不新增",
+          "workIds": [],
+          "reason": "排除：通过场景指令推进的早期图文指令冒险。",
+          "source": "https://www.ymgal.games/ga16680"
+        },
+        {
+          "title": "イクイクパッ君",
+          "status": "本次不新增",
+          "workIds": [],
+          "reason": "排除：短篇小游戏，不属于本次叙事范围。",
+          "source": "https://www.ymgal.games/ga37100"
+        },
+        {
+          "title": "Premium II",
+          "status": "本次不新增",
+          "workIds": [],
+          "reason": "排除：沿用前作场景指令推进方式。",
+          "source": "https://www.ymgal.games/ga16682"
+        },
+        {
+          "title": "Ｏｈ！Ｐａｉ",
+          "status": "本次不新增",
+          "workIds": [],
+          "reason": "排除：脱衣麻将的主体玩法。",
+          "source": "https://www.ymgal.games/ga21607"
+        },
+        {
+          "title": "クレセント",
+          "status": "本次不新增",
+          "workIds": [],
+          "reason": "排除：早期四篇合辑的场景指令式冒险；本次不新增图文指令作品。",
+          "source": "https://www.ymgal.games/ga18442"
+        },
+        {
+          "title": "河原崎家の一族",
+          "status": "主数据库",
+          "workIds": [
+            "g305"
+          ],
+          "reason": "独立叙事作品；首发归原品牌，ELF 后续发行改编版保留在相同作品下。",
+          "source": "https://www.ymgal.games/ga12164"
+        },
+        {
+          "title": "野々村病院の人々",
+          "status": "主数据库",
+          "workIds": [
+            "g306"
+          ],
+          "reason": "独立叙事作品；首发归原品牌，ELF 后续发行改编版保留在相同作品下。",
+          "source": "https://www.ymgal.games/ga12172"
+        },
+        {
+          "title": "愛姉妹 ～二人の果実～",
+          "status": "主数据库",
+          "workIds": [
+            "g307"
+          ],
+          "reason": "独立叙事作品；首发归原品牌，ELF 后续发行改编版保留在相同作品下。",
+          "source": "https://www.ymgal.games/ga11702"
+        },
+        {
+          "title": "恋姫",
+          "status": "主数据库",
+          "workIds": [
+            "g309"
+          ],
+          "reason": "独立叙事作品；首发归原品牌，ELF 后续发行改编版保留在相同作品下。",
+          "source": "https://www.ymgal.games/ga12168"
+        },
+        {
+          "title": "ビ・ヨンド ～黒大将に見られてる～",
+          "status": "主数据库",
+          "workIds": [
+            "g311"
+          ],
+          "reason": "独立叙事作品；首发归原品牌，ELF 后续发行改编版保留在相同作品下。",
+          "source": "https://www.ymgal.games/ga11839"
+        },
+        {
+          "title": "レイラ SLAVE（奴麗）DOLL",
+          "status": "主数据库",
+          "workIds": [
+            "g441"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga18659"
+        },
+        {
+          "title": "失われた楽園",
+          "status": "主数据库",
+          "workIds": [
+            "g442"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga18749"
+        },
+        {
+          "title": "メビウスロイド",
+          "status": "主数据库",
+          "workIds": [
+            "g443"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga18445"
+        },
+        {
+          "title": "フィギュア ～奪われた放課後～",
+          "status": "主数据库",
+          "workIds": [
+            "g444"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga18294"
+        },
+        {
+          "title": "JACK ～背徳の女神～",
+          "status": "主数据库",
+          "workIds": [
+            "g445"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga16109"
+        },
+        {
+          "title": "フェルミオン ～未来からの訪問者～",
+          "status": "主数据库",
+          "workIds": [
+            "g446"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga15635"
+        },
+        {
+          "title": "flutter of birds ～鳥達の羽ばたき～",
+          "status": "主数据库",
+          "workIds": [
+            "g447"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga12207"
+        },
+        {
+          "title": "愛しの言霊",
+          "status": "主数据库",
+          "workIds": [
+            "g448"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga12952"
+        },
+        {
+          "title": "奴隷介護",
+          "status": "主数据库",
+          "workIds": [
+            "g449"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga19359"
+        },
+        {
+          "title": "Sweet ～半熟な天使たち～",
+          "status": "主数据库",
+          "workIds": [
+            "g450"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga17081"
+        },
+        {
+          "title": "flutter of birds II 天使たちの翼",
+          "status": "主数据库",
+          "workIds": [
+            "g451"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga12209"
+        },
+        {
+          "title": "肢体を洗う",
+          "status": "主数据库",
+          "workIds": [
+            "g452"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga14974"
+        },
+        {
+          "title": "女系家族",
+          "status": "跨类型附录",
+          "workIds": [],
+          "reason": "旧目录标为 SLG，以策略／管理作为主要玩法；保留介绍但不归入四类主数据库。",
+          "source": "https://www.ymgal.games/ga15394",
+          "relatedIds": [
+            "silkys-extra-jokei"
+          ]
+        },
+        {
+          "title": "肉体転移",
+          "status": "主数据库",
+          "workIds": [
+            "g453"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga14950"
+        },
+        {
+          "title": "愛姉妹・蕾…汚してください",
+          "status": "主数据库",
+          "workIds": [
+            "g454"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga11701"
+        },
+        {
+          "title": "女系家族 ～淫謀～",
+          "status": "跨类型附录",
+          "workIds": [],
+          "reason": "旧目录标为 SLG，以策略／管理作为主要玩法；保留介绍但不归入四类主数据库。",
+          "source": "https://www.ymgal.games/ga13049",
+          "relatedIds": [
+            "silkys-extra-jokei-inbo"
+          ]
+        },
+        {
+          "title": "愛のチカラ",
+          "status": "主数据库",
+          "workIds": [
+            "g455"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga12121"
+        },
+        {
+          "title": "愛のカタチ ～エッチな女のコは嫌い…ですか？～",
+          "status": "主数据库",
+          "workIds": [
+            "g456"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga12688"
+        },
+        {
+          "title": "愛姉妹 ～どっちにするの!!～",
+          "status": "主数据库",
+          "workIds": [
+            "g457"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga11622"
+        },
+        {
+          "title": "姫騎士アンジェリカ ～あなたって、本当に最低の屑だわ！～",
+          "status": "主数据库",
+          "workIds": [
+            "g458"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga10290"
+        },
+        {
+          "title": "学園催眠隷奴 ～さっきまで、大嫌いだったはずなのに～",
+          "status": "主数据库",
+          "workIds": [
+            "g459"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga11484"
+        },
+        {
+          "title": "風紀委員長 聖薇 ～あなたなんて大嫌い、死ねばいいのに～",
+          "status": "跨类型附录",
+          "workIds": [],
+          "reason": "旧目录标为 SLG，以策略／管理作为主要玩法；保留介绍但不归入四类主数据库。",
+          "source": "https://www.ymgal.games/ga13675",
+          "relatedIds": [
+            "silkys-extra-seibi"
+          ]
+        },
+        {
+          "title": "姫騎士オリヴィア ～へ、変態、この変態男！ 少しは恥を知りなさい！～",
+          "status": "主数据库",
+          "workIds": [
+            "g460"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga17403"
+        },
+        {
+          "title": "ベロちゅー！ ～コスプレメイドをエロメロしちゃう魔法の舌戯～",
+          "status": "主数据库",
+          "workIds": [
+            "g461"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga30697"
+        },
+        {
+          "title": "女系家族III ～秘密HIMITSU卑蜜～",
+          "status": "跨类型附录",
+          "workIds": [],
+          "reason": "旧目录标为 SLG，以策略／管理作为主要玩法；保留介绍但不归入四类主数据库。",
+          "source": "https://www.ymgal.games/ga31741",
+          "relatedIds": [
+            "silkys-extra-jokei-iii"
+          ]
+        },
+        {
+          "title": "SEXティーチャー剛史 ～純情乙女が濡らしちゃう秘密の性感授業～",
+          "status": "主数据库",
+          "workIds": [
+            "g462"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga20191"
+        },
+        {
+          "title": "愛姉妹IV 悔しくて気持ち良かったなんて言えない",
+          "status": "主数据库",
+          "workIds": [
+            "g463"
+          ],
+          "reason": "叙事／角色路线作品；登记可核的首发版本。",
+          "source": "https://www.ymgal.games/ga21234"
+        },
+        {
+          "title": "バース・デイズ",
+          "status": "跨类型附录",
+          "workIds": [],
+          "relatedIds": [
+            "silkys-extra-birthdays"
+          ],
+          "reason": "以地点访问、日程与约会模拟为主要玩法；在附录单独介绍。",
+          "source": "https://www.ymgal.games/ga21603"
+        },
+        {
+          "title": "バレンタインキッス ～バースデイズ２～",
+          "status": "跨类型附录",
+          "workIds": [],
+          "relatedIds": [
+            "silkys-extra-valentine"
+          ],
+          "reason": "以地点访问、日程与约会模拟为主要玩法；在附录单独介绍。",
+          "source": "https://www.ymgal.games/ga21605"
+        }
+      ],
+      "relatedGames": [
+        {
+          "id": "silkys-extra-birthdays",
+          "title": "バース・デイズ",
+          "originalTitle": "バース・デイズ",
+          "chineseTitle": "生日约会",
+          "chineseTitleType": "站内编辑译名",
+          "firstYear": 1994,
+          "category": "恋爱日程模拟",
+          "subcategory": "地点访问与约会安排",
+          "genre": "恋爱日程模拟",
+          "characters": [
+            "玩家分身",
+            "约会对象"
+          ],
+          "charactersNote": "可自定义玩家姓名；以角色身份标注，不虚构固定姓名。",
+          "charactersSource": "https://www.ymgal.games/ga21603",
+          "synopsis": "玩家设定生日后，在年历中拜访地点、交换电话并安排约会。",
+          "notes": "日程和约会安排是主要玩法，放在跨类型附录。",
+          "source": "https://www.ymgal.games/ga21603",
+          "versions": [
+            {
+              "id": "silkys-extra-birthdays-v1",
+              "year": 1994,
+              "platform": "PC-9800",
+              "publisher": "Silky’s",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "原品牌首发的恋爱日程模拟。",
+              "source": "https://www.ymgal.games/ga21603"
+            }
+          ]
+        },
+        {
+          "id": "silkys-extra-valentine",
+          "title": "バレンタインキッス ～バースデイズ２～",
+          "originalTitle": "バレンタインキッス ～バースデイズ２～",
+          "chineseTitle": "情人节之吻：生日约会 2",
+          "chineseTitleType": "站内编辑译名",
+          "firstYear": 1996,
+          "category": "恋爱日程模拟",
+          "subcategory": "地点访问与约会安排",
+          "genre": "恋爱日程模拟",
+          "characters": [
+            "玩家分身",
+            "约会对象"
+          ],
+          "charactersNote": "可自定义玩家姓名；以角色身份标注，不虚构固定姓名。",
+          "charactersSource": "https://www.ymgal.games/ga21605",
+          "synopsis": "延续生日约会的场所访问与恋爱日程，以情人节为目标日。",
+          "notes": "日程和约会安排是主要玩法，放在跨类型附录。",
+          "source": "https://www.ymgal.games/ga21605",
+          "versions": [
+            {
+              "id": "silkys-extra-valentine-v1",
+              "year": 1996,
+              "platform": "PC-9800",
+              "publisher": "Silky’s",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "原品牌首发的恋爱日程模拟。",
+              "source": "https://www.ymgal.games/ga21605"
+            }
+          ]
+        },
+        {
+          "title": "女系家族",
+          "originalTitle": "女系家族",
+          "chineseTitle": "女系家族",
+          "chineseTitleType": "站内编辑译名",
+          "firstYear": 2002,
+          "category": "家族／学园策略模拟",
+          "subcategory": "角色与行动策略",
+          "genre": "家族／复仇／模拟",
+          "characters": [
+            "野崎宗介",
+            "山王時香織",
+            "山王時美雪",
+            "山王時恭子",
+            "山王時麗"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://www.ymgal.games/ga15394",
+          "synopsis": "为了替兄长复仇，青年进入山王时家担任顾问，在家族成员之间展开计划。",
+          "notes": "旧目录明确列为 SLG；跨类型附录介绍。",
+          "source": "https://www.ymgal.games/ga15394",
+          "id": "silkys-extra-jokei",
+          "versions": [
+            {
+              "id": "silkys-extra-jokei-v1",
+              "year": 2002,
+              "platform": "Windows",
+              "publisher": "Silky’s",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "原品牌首发；后续平台移植另行核对。",
+              "source": "https://www.ymgal.games/ga15394"
+            }
+          ]
+        },
+        {
+          "title": "女系家族 ～淫謀～",
+          "originalTitle": "女系家族 ～淫謀～",
+          "chineseTitle": "女系家族：淫谋",
+          "chineseTitleType": "站内编辑译名",
+          "firstYear": 2005,
+          "category": "家族／学园策略模拟",
+          "subcategory": "角色与行动策略",
+          "genre": "遗产／权力／模拟",
+          "characters": [
+            "有宮千里",
+            "有宮美宙",
+            "有宮詩苑",
+            "有宮すみれ"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://www.ymgal.games/ga13049",
+          "synopsis": "地方富豪去世后，秘书见习生接近有宫家，围绕遗产与家族权力展开谋划。",
+          "notes": "旧目录明确列为 SLG；跨类型附录介绍。",
+          "source": "https://www.ymgal.games/ga13049",
+          "id": "silkys-extra-jokei-inbo",
+          "versions": [
+            {
+              "id": "silkys-extra-jokei-inbo-v1",
+              "year": 2005,
+              "platform": "Windows",
+              "publisher": "Silky’s",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "原品牌首发；后续平台移植另行核对。",
+              "source": "https://www.ymgal.games/ga13049"
+            }
+          ]
+        },
+        {
+          "title": "風紀委員長 聖薇 ～あなたなんて大嫌い、死ねばいいのに～",
+          "originalTitle": "風紀委員長 聖薇 ～あなたなんて大嫌い、死ねばいいのに～",
+          "chineseTitle": "风纪委员长圣薇",
+          "chineseTitleType": "站内编辑译名",
+          "firstYear": 2010,
+          "category": "家族／学园策略模拟",
+          "subcategory": "角色与行动策略",
+          "genre": "学园／复仇／模拟",
+          "characters": [
+            "早乙女聖薇",
+            "早乙女樹里亜",
+            "結城瀬理奈",
+            "蓬莱織姫"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://www.ymgal.games/ga13675",
+          "synopsis": "突然继承祖父财产的青年重返学校，围绕风纪委员长和旧日压迫者展开复仇。",
+          "notes": "旧目录明确列为 SLG；跨类型附录介绍。",
+          "source": "https://www.ymgal.games/ga13675",
+          "id": "silkys-extra-seibi",
+          "versions": [
+            {
+              "id": "silkys-extra-seibi-v1",
+              "year": 2010,
+              "platform": "Windows",
+              "publisher": "Silky’s",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "原品牌首发；后续平台移植另行核对。",
+              "source": "https://www.ymgal.games/ga13675"
+            }
+          ]
+        },
+        {
+          "title": "女系家族III ～秘密HIMITSU卑蜜～",
+          "originalTitle": "女系家族III ～秘密HIMITSU卑蜜～",
+          "chineseTitle": "女系家族 III：秘密",
+          "chineseTitleType": "站内编辑译名",
+          "firstYear": 2012,
+          "category": "家族／学园策略模拟",
+          "subcategory": "角色与行动策略",
+          "genre": "遗产／家族博弈／模拟",
+          "characters": [
+            "橋詰大樹",
+            "唐沢杏里",
+            "唐沢永遠",
+            "唐沢紫衣",
+            "唐沢綺羅"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://www.ymgal.games/ga31741",
+          "synopsis": "主人公受命接近四位继承人，试图说服她们放弃父亲遗产的权利。",
+          "notes": "旧目录明确列为 SLG；跨类型附录介绍。",
+          "source": "https://www.ymgal.games/ga31741",
+          "id": "silkys-extra-jokei-iii",
+          "versions": [
+            {
+              "id": "silkys-extra-jokei-iii-v1",
+              "year": 2012,
+              "platform": "Windows",
+              "publisher": "Silky’s",
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "原品牌首发；后续平台移植另行核对。",
+              "source": "https://www.ymgal.games/ga31741"
+            }
+          ]
+        }
+      ],
+      "relatedSectionTitle": "跨类型模拟游戏附录",
+      "relatedCountLabel": "六款恋爱／策略模拟",
+      "relatedIntro": "两款生日约会游戏按日历与地点安排互动；《女系家族》三作及《風紀委員長 聖薇》被旧目录标为 SLG。此处按原玩法列出，不归入四类叙事数据库。",
+      "overviewLabel": "二十八部叙事作品及六款跨类型模拟",
+      "auditTitle": "原品牌作品清单核对",
+      "auditSourceLabel": "Silky’s 原品牌目录",
+      "description": "Silky’s 原品牌专题：叙事作品、跨类型模拟、原名与中文检索名、角色来源和作品风格的时期变化。",
+      "creativeProfile": {
+        "thesis": "早期在短篇合辑、场所探索、科幻与日程模拟间尝试多种系统；2001 年重启后的作品同时展开医疗恋爱、心理惊悚与家族题材，后期则延伸系列续作和更明确的类型路线。以下是目录和剧情信息支持的编辑归纳。",
+        "phases": [
+          {
+            "period": "1992—1996",
+            "heading": "从实验性系统到场所探索与科幻",
+            "analysis": "早期清单同时列出翻牌、指令合辑、麻将与约会日程；《河原崎家》《野々村病院》转向大宅和医院调查，《JACK》《フェルミオン》则采用太空与时间旅行题材。类型并行比单一固定公式更明显。",
+            "basis": "编辑观察",
+            "source": "https://repadars.org/elf_lineup_ex1.html"
+          },
+          {
+            "period": "2001—2003",
+            "heading": "新阶段的纯爱和阴暗题材并行",
+            "analysis": "旧目录将《flutter of birds》标成第二期首作，夏日诊所与翌年冬日续作形成恋爱主线；同一时期《肢体を洗う》走心理惊悚，《女系家族》围绕复仇与遗产。这里只陈述作品分布，不把风格差异归因于未经证实的人员变动。",
+            "basis": "编辑观察",
+            "source": "https://repadars.org/elf_lineup_ex2.html"
+          },
+          {
+            "period": "2004—2014",
+            "heading": "系列化与明确类型主题",
+            "analysis": "《愛姉妹》《女系家族》各有后续作品；《姫騎士アンジェリカ》《オリヴィア》连接奇幻骑士题材，后期还有学园催眠、女仆与校园课程。清单显示系列续篇和鲜明场景设定占比提高；2014 年原品牌停止后应另看 Silky’s Plus。",
+            "basis": "编辑观察",
+            "source": "https://repadars.org/elf_lineup_ex3.html"
+          }
+        ]
+      }
     }
   ]
 }
