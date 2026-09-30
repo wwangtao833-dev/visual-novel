@@ -1,4 +1,4 @@
-import {filterCatalogue,publisherWorkCounts,visibleVoiceNote} from './filter.mjs?v=20260930-zh';
+import {filterCatalogue,publisherWorkCounts,visibleVoiceNote} from './filter.mjs?v=20260930-palette';
 
 const $=id=>document.getElementById(id);
 const fields={query:$('search'),category:$('category'),subcategory:$('subcategory'),company:$('company-select'),platform:$('platform'),from:$('from'),to:$('to'),voice:$('voice'),sort:$('sort')};
@@ -12,6 +12,7 @@ function renderCard({work,versions}){
   const displayTitle=work.chineseTitle||work.title;
   const title=label('h3','',displayTitle);
   const original=label('p','original',displayTitle===work.originalTitle?'':`原名 · ${work.originalTitle}`);
+  if(work.chineseTitleType==='站内编辑译名') original.append(label('span','editorial-translation',' · 中文名为站内编辑译名'));
   const intro=label('p','intro',work.synopsis);
   const meta=label('div','card-meta','');
   const companies=[...new Set(versions.flatMap(v=>v.publisherCompanies||[]))];
@@ -43,7 +44,7 @@ function readFilters(){return Object.fromEntries(Object.entries(fields).map(([ke
 
 async function main(){
   try {
-    const [response,taxonomyResponse]=await Promise.all([fetch('./data/games.json?v=20260930-zh'),fetch('./data/taxonomy.json?v=20260930-zh')]);
+    const [response,taxonomyResponse]=await Promise.all([fetch('./data/games.json?v=20260930-palette'),fetch('./data/taxonomy.json?v=20260930-palette')]);
     if(!response.ok||!taxonomyResponse.ok)throw Error('HTTP '+(response.ok?taxonomyResponse.status:response.status));
     const [data,taxonomy]=await Promise.all([response.json(),taxonomyResponse.json()]);
     $('stat-works').textContent=data.works.length;

@@ -21,6 +21,16 @@ test('version label appears only for explicitly unvoiced releases',()=>{
   assert.equal(visibleVoiceNote({voice:'无'}),'无角色配音');
 });
 
+test('Palette chapters, editorial Chinese names, and original spellings stay searchable',()=>{
+  const chapter=filterCatalogue(data,{query:'9-nine-雪色雪花雪之痕'});
+  assert.deepEqual(chapter.map(({work})=>work.id),['g438']);
+  assert.ok(filterCatalogue(data,{query:'9-nine-ゆきいろゆきはなゆきのあと'}).some(({work})=>work.id==='g438'));
+  const title=filterCatalogue(data,{query:'偷走我的心：月光狂想曲'})[0].work;
+  assert.equal(title.chineseTitleType,'站内编辑译名');
+  assert.equal(title.originalTitle,'すてぃーるMyはぁと～Rhapsody of moonlight～');
+  assert.equal(publisherWorkCounts(data).get('ぱれっと'),18);
+});
+
 test('a 1999 PlayStation query selects ToHeart port, not its 1997 Windows original',()=>{
   const result=filterCatalogue(data,{query:'ToHeart',platform:'PlayStation',from:1999,to:1999});
   assert.equal(result.length,1);

@@ -38,6 +38,8 @@ assert all(work['source'].startswith('https://') and isinstance(work['characters
 assert all(not work.get('charactersNote', '').find('待核实') >= 0 for work in works)
 assert all(isinstance(work.get('chineseTitle', ''), str) and
            isinstance(work.get('titleAliases', []), list) for work in works)
+assert all(work.get('chineseTitleType', '通行译名') in {'通行译名', '站内编辑译名'}
+           and (not work.get('chineseTitleType') or work.get('chineseTitle')) for work in works)
 for work in works:
     years = [version['year'] for version in versions if version['workId'] == work['id']]
     assert years and min(years) == work['firstYear'], f"{work['title']} 首发年份与平台版本冲突"

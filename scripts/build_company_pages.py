@@ -29,6 +29,8 @@ def card(work, versions=None):
 <p class="changes">{escape(v['differences'])}</p>{link(v['source'], '版本来源')}</div>''')
     display_title = work.get('chineseTitle') or work['title']
     original_line = f'<p class="original">原名 · {escape(work["originalTitle"])}</p>' if display_title != work['originalTitle'] else ''
+    if work.get('chineseTitleType') == '站内编辑译名':
+        original_line = original_line.replace('</p>', ' · 中文名为站内编辑译名</p>')
     return f'''<article class="card" id="{work['id']}">
 <div class="card-top"><span class="year">{work['firstYear']}</span><span class="category">{escape(work['category'])}</span></div>
 <h3>{escape(display_title)}</h3>{original_line}

@@ -6401,6 +6401,335 @@
           }
         ]
       }
+    },
+    {
+      "id": "palette",
+      "name": "ぱれっと",
+      "checkedAt": "2026-09-30",
+      "status": "官网产品目录及新作独立页核对",
+      "scope": "收录官网 2003—2023 年符合叙事范围的 17 部独立作品和 2026 年已上市的《as:9-nine- ARTEISIA》；2002 年含日程模拟的首作列跨类型附录。官网《9-nine-》整合版与 2023 年高清重制按版本归档，不新增指令类游戏。",
+      "versionScope": "先核对十八部 Windows 独立首发、2009 年本篇的 2023 年 FHD 重制、四章 2021 年 Windows 全年龄整合版及 2022 年 PS4／Switch 整合移植；平台与地区版本不宣称穷尽。配音提示只在明确无配音的版本显示。",
+      "publisherNote": "ぱれっと是 CLEARRAVE 旗下品牌。品牌作品按独立发行计数；主库厂商筛选依据每条版本实际署名，主机整合版归入 ENTERGRAM。",
+      "workIds": [
+        "g423",
+        "g424",
+        "g425",
+        "g426",
+        "g427",
+        "g428",
+        "g429",
+        "g430",
+        "g431",
+        "g432",
+        "g433",
+        "g434",
+        "g435",
+        "g436",
+        "g437",
+        "g438",
+        "g439",
+        "g440"
+      ],
+      "publisherWorkIds": [
+        "g423",
+        "g424",
+        "g425",
+        "g426",
+        "g427",
+        "g428",
+        "g429",
+        "g430",
+        "g431",
+        "g432",
+        "g433",
+        "g434",
+        "g435",
+        "g436",
+        "g437",
+        "g438",
+        "g439",
+        "g440"
+      ],
+      "catalogueEntryCount": 20,
+      "source": "https://palette.clearrave.co.jp/product/",
+      "sectionTitle": "2003—2026 年的十八部独立叙事作品",
+      "auditLabel": "官网产品目录二十项，加 2026 年独立发布的系列外传及主机移植核对。",
+      "auditNote": "官网旧产品页二十项包含 2002 年恋爱模拟首作、一项四章整合版及一项高清重制。2026 年外传见系列官网；这里不将尚未核实的追加移植计入版本。",
+      "entries": [
+        {
+          "title": "はちみつ荘 de ほっぺにチュウ",
+          "status": "跨类型附录",
+          "workIds": [],
+          "relatedIds": [
+            "palette-extra-honey"
+          ],
+          "reason": "官网系统页明确日程打工模拟为主要玩法；附录说明，避免归作纯叙事 ADV。",
+          "source": "https://palette.clearrave.co.jp/product/hachimitu/system.htm"
+        },
+        {
+          "title": "復讐の女神-Nemesis-",
+          "status": "主数据库",
+          "workIds": [
+            "g423"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/nemesis/chara.htm"
+        },
+        {
+          "title": "愛cute! キミに恋してる",
+          "status": "主数据库",
+          "workIds": [
+            "g424"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/kimikoi/"
+        },
+        {
+          "title": "MERI+DIA～マリアディアナ～",
+          "status": "主数据库",
+          "workIds": [
+            "g425"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/meridia/chara.htm"
+        },
+        {
+          "title": "もしも明日が晴れならば",
+          "status": "主数据库",
+          "workIds": [
+            "g426"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/mosiraba/"
+        },
+        {
+          "title": "えむぴぃ Maid promotion master",
+          "status": "主数据库",
+          "workIds": [
+            "g427"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/mp/"
+        },
+        {
+          "title": "さくらシュトラッセ",
+          "status": "主数据库",
+          "workIds": [
+            "g428"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/sakura/"
+        },
+        {
+          "title": "さくらんぼシュトラッセ",
+          "status": "主数据库",
+          "workIds": [
+            "g429"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/sakuranbo/"
+        },
+        {
+          "title": "ましろ色シンフォニー -Love is pure white-",
+          "status": "主数据库",
+          "workIds": [
+            "g430"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/mashiro/"
+        },
+        {
+          "title": "すてぃーるMyはぁと～Rhapsody of moonlight～",
+          "status": "主数据库",
+          "workIds": [
+            "g431"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/steal/"
+        },
+        {
+          "title": "晴れときどきお天気雨",
+          "status": "主数据库",
+          "workIds": [
+            "g432"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/hareten/"
+        },
+        {
+          "title": "みんな捧げちゃう！",
+          "status": "主数据库",
+          "workIds": [
+            "g433"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/sasage/"
+        },
+        {
+          "title": "恋がさくころ桜どき",
+          "status": "主数据库",
+          "workIds": [
+            "g434"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/sakusaku/"
+        },
+        {
+          "title": "9-nine-ここのつここのかここのいろ",
+          "status": "主数据库",
+          "workIds": [
+            "g435"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/14_kokoiro"
+        },
+        {
+          "title": "9-nine-そらいろそらうたそらのおと",
+          "status": "主数据库",
+          "workIds": [
+            "g436"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/15_sorairo"
+        },
+        {
+          "title": "9-nine-はるいろはるこいはるのかぜ",
+          "status": "主数据库",
+          "workIds": [
+            "g437"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/16_haruiro"
+        },
+        {
+          "title": "9-nine-ゆきいろゆきはなゆきのあと",
+          "status": "主数据库",
+          "workIds": [
+            "g438"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/17_yukiiro"
+        },
+        {
+          "title": "ましろ色シンフォニー SANA EDITION",
+          "status": "主数据库",
+          "workIds": [
+            "g439"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://palette.clearrave.co.jp/product/mashiro-project/sana/"
+        },
+        {
+          "title": "as:9-nine- ARTEISIA",
+          "status": "主数据库",
+          "workIds": [
+            "g440"
+          ],
+          "reason": "官网品牌年表列明独立发售；作品和首发版本已登记。",
+          "source": "https://9-nine-project.com/game/asnine/news/12/"
+        },
+        {
+          "title": "ましろ色シンフォニー Remake for FHD",
+          "status": "版本归档",
+          "workIds": [
+            "g430"
+          ],
+          "reason": "高清重制归入 2009 年本篇；厂商明确不含 SANA EDITION。",
+          "source": "https://palette.clearrave.co.jp/product/mashiro-project/mashiro/"
+        },
+        {
+          "title": "9-nine- 全章整合版与新章",
+          "status": "版本归档",
+          "workIds": [
+            "g435",
+            "g436",
+            "g437",
+            "g438"
+          ],
+          "reason": "2021 年全年龄整合版汇集四章，另有续接第四章的新章和角色后日谈；并入四章版本记录。",
+          "source": "https://9-nine-project.com/game/nine-pc/"
+        },
+        {
+          "title": "9-nine- 主机整合版",
+          "status": "版本归档",
+          "workIds": [
+            "g435",
+            "g436",
+            "g437",
+            "g438"
+          ],
+          "reason": "2022 年 PS4／Switch 移植同一整合包；按四章可查的移植收录记录。",
+          "source": "https://9-nine-project.com/game/consumer/"
+        }
+      ],
+      "relatedGames": [
+        {
+          "id": "palette-extra-honey",
+          "title": "蜂蜜庄的亲亲",
+          "originalTitle": "はちみつ荘 de ほっぺにチュウ",
+          "chineseTitle": "蜂蜜庄的亲亲",
+          "chineseTitleType": "站内编辑译名",
+          "firstYear": 2002,
+          "category": "恋爱养成模拟／冒险",
+          "subcategory": "日程安排与恋爱路线",
+          "genre": "打工日程／同居模拟",
+          "characters": [
+            "蜂蜜庄住客（玩家）",
+            "しずか（青梅竹马）",
+            "しずか的妹妹"
+          ],
+          "charactersNote": "旧站角色姓名部分嵌在图片中；身份关系依据官方介绍。",
+          "charactersSource": "https://palette.clearrave.co.jp/product/hachimitu/chara.htm",
+          "synopsis": "大学最后的夏天，玩家安排打工与约会日程，和蜂蜜庄的少女们共同生活。",
+          "notes": "官方系统页明确 7—8 月以日程和打工为主要玩法，9 月转为 ADV；作为跨类型附录。",
+          "source": "https://palette.clearrave.co.jp/product/hachimitu/system.htm",
+          "versions": [
+            {
+              "id": "palette-extra-honey-v1",
+              "year": 2002,
+              "platform": "Windows",
+              "publisher": "ぱれっと",
+              "kind": "首发",
+              "voice": "有",
+              "differences": "官网首作，带完整日程模拟和后段路线剧情；不计入主目录叙事作品总数。",
+              "source": "https://palette.clearrave.co.jp/product/hachimitu/chara.htm"
+            }
+          ]
+        }
+      ],
+      "relatedSectionTitle": "跨类型首作",
+      "relatedCountLabel": "恋爱模拟／冒险混合",
+      "relatedIntro": "2002 年首作的核心月份采用打工和日程安排，之后才转为路线 ADV；角色身份按官网文字可核的范围记录。",
+      "overviewLabel": "独立叙事作品及一部跨类型首作",
+      "auditTitle": "ぱれっと官网目录与系列补充核对",
+      "auditSourceLabel": "ぱれっと官方产品目录",
+      "description": "ぱれっと厂商专题：十八部独立叙事作品，一部跨类型首作，高清重制和全章整合版，并观察创作风格的时期变化。",
+      "creativeProfile": {
+        "thesis": "品牌初期并行调查、恋爱与魔幻题材；2008 年后形成带幻想元素的日常恋爱叙事，2017 年起以分章共享世界推进《9-nine-》的异能悬疑。",
+        "phases": [
+          {
+            "period": "2002—2007",
+            "heading": "从日程模拟到多题材 ADV",
+            "analysis": "首作以打工和同居日程驱动路线；《復讐の女神》官网把调查、证词与推理列作机制，《MERI+DIA》转向近未来赏金猎人。这一时期的产品类型较分散。",
+            "basis": "编辑观察",
+            "source": "https://palette.clearrave.co.jp/product/nemesis/system.htm"
+          },
+          {
+            "period": "2008—2014",
+            "heading": "幻想进入校园与日常",
+            "analysis": "《さくらシュトラッセ》的魔女与餐馆、《もしも明日が晴れならば》的幽灵及《ましろ色シンフォニー》的学园合并各有不同设定；《恋がさくころ桜どき》继续把恋爱与幻想传说相连。这是题材上的归纳，不推断内部决策原因。",
+            "basis": "编辑观察",
+            "source": "https://palette.clearrave.co.jp/product/"
+          },
+          {
+            "period": "2017—2026",
+            "heading": "分章共享世界与外传",
+            "analysis": "官网明确《9-nine-》一至四章各以一名女主角为中心，2021 年合并四章并加新章；2026 年外传改从另一条可能性分支讲述治疗与承诺，显示角色视角和系列世界的扩展。",
+            "basis": "厂商说明",
+            "source": "https://9-nine-project.com/game/nine-pc/"
+          }
+        ]
+      }
     }
   ]
 }
