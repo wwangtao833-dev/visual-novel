@@ -2894,7 +2894,8 @@
           "subcategory": "角色扮演",
           "genre": "角色扮演",
           "characters": [
-            "待核实"
+            "校园迷宫探索者（玩家）",
+            "战斗中的对手"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "奇幻 RPG；探索和战斗推进故事。",
@@ -3010,7 +3011,8 @@
           "subcategory": "角色扮演",
           "genre": "角色扮演",
           "characters": [
-            "待核实"
+            "科幻世界的探索者（玩家）",
+            "战斗中的对手"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "科幻设定的探索与战斗 RPG。",
@@ -3039,7 +3041,8 @@
           "subcategory": "策略模拟",
           "genre": "策略模拟",
           "characters": [
-            "待核实"
+            "FOXY 阵营指挥者（玩家）",
+            "敌方部队"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "《FOXY》的战术模拟续篇。",
@@ -3068,7 +3071,9 @@
           "subcategory": "策略模拟",
           "genre": "策略模拟",
           "characters": [
-            "待核实"
+            "トオル",
+            "ナツミ",
+            "救援部队的队长们"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "以地图部署和战斗推进的模拟游戏。",
@@ -3086,7 +3091,8 @@
               "differences": "主要首发平台；移植及配音差异待进一步核对。",
               "source": "https://gamefaqs.gamespot.com/games/company/72693-elf"
             }
-          ]
+          ],
+          "charactersSource": "https://windows-game.com/2022/10/01/shangrlia/"
         },
         {
           "id": "elf-r08",
@@ -3126,7 +3132,7 @@
           "subcategory": "角色扮演",
           "genre": "角色扮演",
           "characters": [
-            "待核实"
+            "奇幻世界的冒险者（玩家）"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "以角色成长和战斗为核心的奇幻 RPG。",
@@ -3155,7 +3161,8 @@
           "subcategory": "麻将",
           "genre": "麻将",
           "characters": [
-            "待核实"
+            "麻将对局者（玩家）",
+            "对手牌手"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "以麻将对战为中心的独立游戏。",
@@ -3184,7 +3191,7 @@
           "subcategory": "角色扮演",
           "genre": "角色扮演",
           "characters": [
-            "待核实"
+            "科幻世界的冒险者（玩家）"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "科幻题材的角色扮演系列首作。",
@@ -3243,7 +3250,8 @@
           "subcategory": "策略模拟",
           "genre": "策略模拟",
           "characters": [
-            "待核实"
+            "战术部队指挥者（玩家）",
+            "队长们"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "《SHANGRLIA》的独立战术模拟续作。",
@@ -3302,7 +3310,7 @@
           "subcategory": "角色扮演",
           "genre": "角色扮演",
           "characters": [
-            "待核实"
+            "科幻世界的冒险者（玩家）"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "《METAL EYE》的独立科幻 RPG 续篇。",
@@ -3331,7 +3339,8 @@
           "subcategory": "麻将",
           "genre": "麻将",
           "characters": [
-            "待核实"
+            "麻将对局者（玩家）",
+            "ELF 历代作品角色"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "以品牌角色为阵容的麻将对战游戏。",
@@ -3360,7 +3369,8 @@
           "subcategory": "麻将",
           "genre": "麻将",
           "characters": [
-            "待核实"
+            "麻将对局者（玩家）",
+            "ELF 历代作品角色"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "加入系列角色的第二部麻将对战游戏。",
@@ -3389,7 +3399,8 @@
           "subcategory": "麻将",
           "genre": "麻将",
           "characters": [
-            "待核实"
+            "麻将对局者（玩家）",
+            "同级生与下级生角色"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "在 Game Boy Color 上以同级生／下级生角色进行麻将对战。",
@@ -3418,7 +3429,8 @@
           "subcategory": "麻将",
           "genre": "麻将",
           "characters": [
-            "待核实"
+            "麻将对局者（玩家）",
+            "礼武队少女们"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "礼武色系列角色参加麻将对战的独立作品。",
@@ -3447,7 +3459,8 @@
           "subcategory": "麻将",
           "genre": "麻将",
           "characters": [
-            "待核实"
+            "麻将对局者（玩家）",
+            "ELF 历代作品角色"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "品牌角色麻将系列的第三部独立作品。",
@@ -3476,7 +3489,8 @@
           "subcategory": "动作",
           "genre": "动作",
           "characters": [
-            "待核实"
+            "摄影者（玩家）",
+            "拍摄对象"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "以拍照为核心的早期动作游戏；三份追加数据盘归入同作。",
@@ -3505,7 +3519,8 @@
           "subcategory": "动作",
           "genre": "动作",
           "characters": [
-            "待核实"
+            "赛跑队伍指挥者（玩家）",
+            "参赛队员"
           ],
           "charactersNote": "姓名待核实。",
           "synopsis": "指挥队伍参加赛跑的动作游戏。",
@@ -4173,7 +4188,9 @@
           "subcategory": "麻将",
           "genre": "脱衣麻将",
           "characters": [
-            "待核实"
+            "伯斗龙二",
+            "阿蕾",
+            "露米拉·迪·杜拉尔"
           ],
           "charactersNote": "人物姓名待核实。",
           "synopsis": "Leaf 最初发行的麻将游戏，玩家通过对局推进角色事件。",
@@ -4191,7 +4208,8 @@
               "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
               "source": "https://ja.wikipedia.org/wiki/Leaf"
             }
-          ]
+          ],
+          "charactersSource": "https://nirui.com/5th/game/pc98/nj/index.html"
         },
         {
           "id": "leaf-r02",
@@ -4202,7 +4220,9 @@
           "subcategory": "角色扮演",
           "genre": "奇幻 RPG",
           "characters": [
-            "待核实"
+            "蒂莉娅",
+            "莎拉",
+            "艾莉娅"
           ],
           "charactersNote": "人物姓名待核实。",
           "synopsis": "奇幻世界的探索与战斗 RPG；后来随《猪名川でいこう!!》附上 Windows 移植。",
@@ -4220,7 +4240,8 @@
               "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
               "source": "https://ja.wikipedia.org/wiki/Leaf"
             }
-          ]
+          ],
+          "charactersSource": "https://pedia.3rd-in.co.jp/wiki/Filsnown"
         },
         {
           "id": "leaf-r03",
@@ -4409,7 +4430,9 @@
           "subcategory": "麻将",
           "genre": "全动画麻将",
           "characters": [
-            "待核实"
+            "诸角勇",
+            "榊伦子",
+            "鲁比·莉琳"
           ],
           "charactersNote": "人物姓名待核实。",
           "synopsis": "全程以动画表现人物事件的麻将游戏，核心交互仍为麻将对局。",
@@ -4427,7 +4450,8 @@
               "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
               "source": "https://leaf.aquaplus.jp/product/fullani/"
             }
-          ]
+          ],
+          "charactersSource": "https://w.atwiki.jp/ercr/pages/2051.html"
         },
         {
           "id": "leaf-r10",
@@ -4438,7 +4462,9 @@
           "subcategory": "角色扮演",
           "genre": "奇幻 RPG",
           "characters": [
-            "待核实"
+            "救世主（主人公）",
+            "艾雷米娅·尤莉斯米娅",
+            "塞西莉亚·丘贝蕾"
           ],
           "charactersNote": "人物姓名待核实。",
           "synopsis": "围绕奇幻世界的旅程展开探索、战斗及角色剧情。",
@@ -4456,7 +4482,8 @@
               "differences": "跨类型或杂集产品；具体后续版本不在主数据库逐项扩展。",
               "source": "https://leaf.aquaplus.jp/product/megiddo/"
             }
-          ]
+          ],
+          "charactersSource": "https://als.sakura.ne.jp/ko-ji/game/leaf/mgd/index.html"
         },
         {
           "id": "leaf-r11",
@@ -4913,7 +4940,8 @@
           "subcategory": "养成模拟＋剧情冒险",
           "genre": "养成模拟／剧情冒险",
           "characters": [
-            "待核实"
+            "偿还家债的训练者（主人公）",
+            "受托训练的少女"
           ],
           "charactersNote": "人物姓名待核实。",
           "synopsis": "主人公受托训练问题少女，并设法偿还家人留下的债务。",

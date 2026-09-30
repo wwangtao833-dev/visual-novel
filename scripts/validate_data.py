@@ -79,6 +79,7 @@ for company in coverage['companies']:
     assert len(related_ids) == len(related) and not related_ids & work_ids, '跨类型作品 ID 冲突'
     for game in related:
         assert game['source'].startswith('https://') and game['genre'] and game['characters']
+        assert all(name and '待核实' not in name for name in game['characters'])
         assert game['category'] not in taxonomy['subcategories'], '跨类型游戏应放在四类主目录之外'
         assert game['versions'] and min(v['year'] for v in game['versions']) == game['firstYear']
         assert all(v['platform'] and v['publisher'] and v['differences'] and
