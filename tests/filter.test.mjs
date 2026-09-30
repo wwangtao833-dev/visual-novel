@@ -38,8 +38,19 @@ test('Silky’s new Chinese names preserve original search and studio credit',()
   assert.equal(original[0].work.id,chinese[0].work.id);
   assert.equal(chinese[0].work.chineseTitleType,'站内编辑译名');
   assert.ok(chinese[0].work.characters.includes('アンジェリカ・ロートシルト'));
-  assert.equal(publisherWorkCounts(data).get('Silky’s'),28);
+  assert.equal(publisherWorkCounts(data).get('Silky’s'),29);
   assert.equal(filterCatalogue(data,{query:'Premium',company:'Silky’s'}).length,0);
+});
+
+test('Silky’s audit keeps narrative games and removes command adventures',()=>{
+  const ids=filterCatalogue(data,{company:'Silky’s'}).map(({work})=>work.id);
+  for(const id of ['g441','g443','g446']) assert.ok(!ids.includes(id));
+  for(const id of ['g464','g465','g466','g467']) assert.ok(ids.includes(id));
+  assert.ok(filterCatalogue(data,{query:'羽翼翩跹'}).some(({work})=>work.id==='g447'));
+  assert.ok(filterCatalogue(data,{query:'清洗四肢'}).some(({work})=>work.id==='g452'));
+  const remake=filterCatalogue(data,{query:'野野村',company:'FG REMAKE'});
+  assert.equal(remake.length,1);
+  assert.ok(remake[0].versions.every(v=>v.year===2025));
 });
 
 test('a 1999 PlayStation query selects ToHeart port, not its 1997 Windows original',()=>{

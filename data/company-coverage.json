@@ -6735,9 +6735,9 @@
       "id": "silkys",
       "name": "Silky’s",
       "checkedAt": "2026-09-30",
-      "status": "旧官网存档、馆藏及目录交叉核对",
-      "scope": "Silky’s（シルキーズ）原品牌 1992—2014 年四十款清单逐项说明；不把 2014 年后的 Silky’s Plus 当成同一发行品牌。六款指令或非叙事小游戏不新增；六款恋爱／策略模拟在跨类型附录。",
-      "versionScope": "主数据库登记可核的原品牌首发；已有五作的 ELF 改编版本继续共用作品记录。跨类型附录列原始平台；未把语音未知写作无角色配音。",
+      "status": "逐项复核作品清单、玩法分类与角色资料",
+      "scope": "原品牌 1992—2014 年 41 款发行清单逐项处理：29 部叙事作品进入主目录，6 部跨类型作品在附录，6 部图文指令游戏仅说明排除理由。Silky’s Plus 另算品牌。",
+      "versionScope": "记录原品牌首发及已核对的移植、下载和重制；共享 ELF 原作沿用原 ID，新增 FG REMAKE 的 2025 年重制与 Sweet 对应的 Dreamcast 原版。角色语音未知不显示无配音提示。",
       "publisherNote": "Silky’s 是 ELF 的衍生品牌；原品牌与 2014 年后独立创立的 Silky’s Plus 分开归档。原作中已有五部在 ELF 专题因后续改编发行出现，本页沿用同一作品 ID。",
       "workIds": [
         "g305",
@@ -6745,12 +6745,9 @@
         "g307",
         "g309",
         "g311",
-        "g441",
         "g442",
-        "g443",
         "g444",
         "g445",
-        "g446",
         "g447",
         "g448",
         "g449",
@@ -6767,7 +6764,11 @@
         "g460",
         "g461",
         "g462",
-        "g463"
+        "g463",
+        "g464",
+        "g465",
+        "g466",
+        "g467"
       ],
       "publisherWorkIds": [
         "g305",
@@ -6775,12 +6776,9 @@
         "g307",
         "g309",
         "g311",
-        "g441",
         "g442",
-        "g443",
         "g444",
         "g445",
-        "g446",
         "g447",
         "g448",
         "g449",
@@ -6797,55 +6795,78 @@
         "g460",
         "g461",
         "g462",
-        "g463"
+        "g463",
+        "g464",
+        "g465",
+        "g466",
+        "g467"
       ],
-      "catalogueEntryCount": 40,
-      "source": "https://www.ymgal.games/oa10266",
-      "sectionTitle": "1993—2014 年的二十八部叙事作品",
-      "auditLabel": "原品牌清单四十项逐项核对；旧官网已停止运营，首发和角色以馆藏及目录记录交叉核对。",
-      "auditNote": "核对清单覆盖四十款原品牌游戏，区分正文、跨类型模拟与本次排除的指令／非叙事玩法；不宣称每款游戏的所有移植版本均已穷尽。",
+      "catalogueEntryCount": 41,
+      "source": "https://ja.wikipedia.org/wiki/シルキーズ",
+      "sectionTitle": "1993—2014 年的二十九部叙事作品",
+      "auditLabel": "原品牌 41 款发行清单逐项核对；依据作品目录、玩法记录、角色资料与重制发行信息。",
+      "auditNote": "复核补入 MARINE BUSTER；移出三部误收的指令冒险，将四部误标为策略模拟的 ADV 归回主目录。清单覆盖独立作品，版本记录不等于所有地区、廉价版和数字再版的全集。",
       "entries": [
         {
           "title": "48夜物語",
-          "status": "本次不新增",
+          "status": "跨类型附录",
           "workIds": [],
-          "reason": "排除：翻牌／记忆小游戏，没有可追踪的叙事路线。",
-          "source": "https://www.ymgal.games/ga25604"
+          "reason": "通过对话了解人物喜好，再猜测相应答案；另含翻牌小游戏，并非连续剧情冒险。",
+          "source": "https://chaser.my.coocan.jp/guide/silkys.htm",
+          "relatedIds": [
+            "silkys-extra-48"
+          ]
         },
         {
           "title": "Premium",
           "status": "本次不新增",
           "workIds": [],
           "reason": "排除：通过场景指令推进的早期图文指令冒险。",
-          "source": "https://www.ymgal.games/ga16680"
+          "source": "https://www.mobygames.com/game/46266/premium/"
         },
         {
           "title": "イクイクパッ君",
-          "status": "本次不新增",
+          "status": "跨类型附录",
           "workIds": [],
-          "reason": "排除：短篇小游戏，不属于本次叙事范围。",
-          "source": "https://www.ymgal.games/ga37100"
+          "reason": "以点击互动与人物反应为主的小游戏集；PC-98 版于 1992 年 11 月 20 日发行。",
+          "source": "https://chaser.my.coocan.jp/guide/silkys.htm",
+          "relatedIds": [
+            "silkys-extra-iku"
+          ]
         },
         {
           "title": "Premium II",
           "status": "本次不新增",
           "workIds": [],
           "reason": "排除：沿用前作场景指令推进方式。",
-          "source": "https://www.ymgal.games/ga16682"
+          "source": "https://www.mobygames.com/game/46269/premium-2/"
+        },
+        {
+          "title": "MARINE BUSTER",
+          "status": "跨类型附录",
+          "workIds": [],
+          "relatedIds": [
+            "silkys-extra-marine"
+          ],
+          "reason": "1993 年发行的网格海战棋游戏；补入此前遗漏的原品牌清单。",
+          "source": "https://www.mobygames.com/game/53909/marine-buster/"
         },
         {
           "title": "Ｏｈ！Ｐａｉ",
-          "status": "本次不新增",
+          "status": "跨类型附录",
           "workIds": [],
-          "reason": "排除：脱衣麻将的主体玩法。",
-          "source": "https://www.ymgal.games/ga21607"
+          "reason": "采用ポンジャン规则的简化牌类对局，不等同于标准麻将。",
+          "source": "https://chaser.my.coocan.jp/guide/silkys.htm",
+          "relatedIds": [
+            "silkys-extra-ohpai"
+          ]
         },
         {
           "title": "クレセント",
           "status": "本次不新增",
           "workIds": [],
           "reason": "排除：早期四篇合辑的场景指令式冒险；本次不新增图文指令作品。",
-          "source": "https://www.ymgal.games/ga18442"
+          "source": "https://ja.wikipedia.org/wiki/CRESCENT_(ゲーム)"
         },
         {
           "title": "河原崎家の一族",
@@ -6894,12 +6915,10 @@
         },
         {
           "title": "レイラ SLAVE（奴麗）DOLL",
-          "status": "主数据库",
-          "workIds": [
-            "g441"
-          ],
-          "reason": "叙事／角色路线作品；登记可核的首发版本。",
-          "source": "https://www.ymgal.games/ga18659"
+          "status": "本次不新增",
+          "workIds": [],
+          "reason": "复核玩法后排除：反复选择查看、思考、交谈等场景指令推进，属于本次不再新增的图文指令冒险。",
+          "source": "https://www.mobygames.com/game/58653/reira-slave-doll/"
         },
         {
           "title": "失われた楽園",
@@ -6912,12 +6931,10 @@
         },
         {
           "title": "メビウスロイド",
-          "status": "主数据库",
-          "workIds": [
-            "g443"
-          ],
-          "reason": "叙事／角色路线作品；登记可核的首发版本。",
-          "source": "https://www.ymgal.games/ga18445"
+          "status": "本次不新增",
+          "workIds": [],
+          "reason": "复核玩法后排除：反复选择查看、思考、交谈等场景指令推进，属于本次不再新增的图文指令冒险。",
+          "source": "https://www.mobygames.com/game/46175/mobius-roid/"
         },
         {
           "title": "フィギュア ～奪われた放課後～",
@@ -6939,12 +6956,10 @@
         },
         {
           "title": "フェルミオン ～未来からの訪問者～",
-          "status": "主数据库",
-          "workIds": [
-            "g446"
-          ],
-          "reason": "叙事／角色路线作品；登记可核的首发版本。",
-          "source": "https://www.ymgal.games/ga15635"
+          "status": "本次不新增",
+          "workIds": [],
+          "reason": "复核玩法后排除：反复选择查看、思考、交谈等场景指令推进，属于本次不再新增的图文指令冒险。",
+          "source": "https://www.mobygames.com/game/44078/fermion-mirai-kara-no-homonsha/"
         },
         {
           "title": "flutter of birds ～鳥達の羽ばたき～",
@@ -7002,13 +7017,12 @@
         },
         {
           "title": "女系家族",
-          "status": "跨类型附录",
-          "workIds": [],
-          "reason": "旧目录标为 SLG，以策略／管理作为主要玩法；保留介绍但不归入四类主数据库。",
-          "source": "https://www.ymgal.games/ga15394",
-          "relatedIds": [
-            "silkys-extra-jokei"
-          ]
+          "status": "主数据库",
+          "workIds": [
+            "g464"
+          ],
+          "reason": "复核类型：以剧情与角色路线推进的 ADV，不是此前误写的策略／管理模拟。",
+          "source": "https://www.mediaclip.jp/docs/game/2005/jokei2.html"
         },
         {
           "title": "肉体転移",
@@ -7030,13 +7044,12 @@
         },
         {
           "title": "女系家族 ～淫謀～",
-          "status": "跨类型附录",
-          "workIds": [],
-          "reason": "旧目录标为 SLG，以策略／管理作为主要玩法；保留介绍但不归入四类主数据库。",
-          "source": "https://www.ymgal.games/ga13049",
-          "relatedIds": [
-            "silkys-extra-jokei-inbo"
-          ]
+          "status": "主数据库",
+          "workIds": [
+            "g465"
+          ],
+          "reason": "复核类型：以剧情与角色路线推进的 ADV，不是此前误写的策略／管理模拟。",
+          "source": "https://advgamer.com/jokeikazoku-inbou/"
         },
         {
           "title": "愛のチカラ",
@@ -7085,13 +7098,12 @@
         },
         {
           "title": "風紀委員長 聖薇 ～あなたなんて大嫌い、死ねばいいのに～",
-          "status": "跨类型附录",
-          "workIds": [],
-          "reason": "旧目录标为 SLG，以策略／管理作为主要玩法；保留介绍但不归入四类主数据库。",
-          "source": "https://www.ymgal.games/ga13675",
-          "relatedIds": [
-            "silkys-extra-seibi"
-          ]
+          "status": "主数据库",
+          "workIds": [
+            "g466"
+          ],
+          "reason": "复核类型：以剧情与角色路线推进的 ADV，不是此前误写的策略／管理模拟。",
+          "source": "https://www.ymgal.games/ga13675"
         },
         {
           "title": "姫騎士オリヴィア ～へ、変態、この変態男！ 少しは恥を知りなさい！～",
@@ -7113,13 +7125,12 @@
         },
         {
           "title": "女系家族III ～秘密HIMITSU卑蜜～",
-          "status": "跨类型附录",
-          "workIds": [],
-          "reason": "旧目录标为 SLG，以策略／管理作为主要玩法；保留介绍但不归入四类主数据库。",
-          "source": "https://www.ymgal.games/ga31741",
-          "relatedIds": [
-            "silkys-extra-jokei-iii"
-          ]
+          "status": "主数据库",
+          "workIds": [
+            "g467"
+          ],
+          "reason": "复核类型：以剧情与角色路线推进的 ADV，不是此前误写的策略／管理模拟。",
+          "source": "https://ja.wikipedia.org/wiki/女系家族_(ゲーム)"
         },
         {
           "title": "SEXティーチャー剛史 ～純情乙女が濡らしちゃう秘密の性感授業～",
@@ -7169,17 +7180,24 @@
           "chineseTitleType": "站内编辑译名",
           "firstYear": 1994,
           "category": "恋爱日程模拟",
-          "subcategory": "地点访问与约会安排",
+          "subcategory": "双六棋盘与约会日程",
           "genre": "恋爱日程模拟",
           "characters": [
-            "玩家分身",
-            "约会对象"
+            "玩家（可自定义姓名）",
+            "氷島雅",
+            "長谷川亮子",
+            "田中郷里",
+            "古賀あすか",
+            "櫛谷恵理香",
+            "沢渡美貴",
+            "東慶子",
+            "山本奈々子"
           ],
-          "charactersNote": "可自定义玩家姓名；以角色身份标注，不虚构固定姓名。",
-          "charactersSource": "https://www.ymgal.games/ga21603",
-          "synopsis": "玩家设定生日后，在年历中拜访地点、交换电话并安排约会。",
+          "charactersNote": "",
+          "charactersSource": "https://chaser.my.coocan.jp/guide/silkys.htm",
+          "synopsis": "以掷骰走格和日历安排行动，拜访地点、获取联系方式，在生日到来前推进约会关系。",
           "notes": "日程和约会安排是主要玩法，放在跨类型附录。",
-          "source": "https://www.ymgal.games/ga21603",
+          "source": "https://chaser.my.coocan.jp/guide/silkys.htm",
           "versions": [
             {
               "id": "silkys-extra-birthdays-v1",
@@ -7204,11 +7222,11 @@
           "subcategory": "地点访问与约会安排",
           "genre": "恋爱日程模拟",
           "characters": [
-            "玩家分身",
-            "约会对象"
+            "玩家（可自定义姓名）",
+            "日比野美由紀"
           ],
-          "charactersNote": "可自定义玩家姓名；以角色身份标注，不虚构固定姓名。",
-          "charactersSource": "https://www.ymgal.games/ga21605",
+          "charactersNote": "列出可对照名字的角色；本栏并非全体约会对象名单。",
+          "charactersSource": "https://genesis.hatenadiary.jp/entry/20061022/1161442800",
           "synopsis": "延续生日约会的场所访问与恋爱日程，以情人节为目标日。",
           "notes": "日程和约会安排是主要玩法，放在跨类型附录。",
           "source": "https://www.ymgal.games/ga21605",
@@ -7226,174 +7244,183 @@
           ]
         },
         {
-          "title": "女系家族",
-          "originalTitle": "女系家族",
-          "chineseTitle": "女系家族",
+          "id": "silkys-extra-48",
+          "title": "48夜物語",
+          "originalTitle": "48夜物語",
+          "chineseTitle": "四十八夜物语",
           "chineseTitleType": "站内编辑译名",
-          "firstYear": 2002,
-          "category": "家族／学园策略模拟",
-          "subcategory": "角色与行动策略",
-          "genre": "家族／复仇／模拟",
+          "firstYear": 1992,
+          "category": "问答／小游戏",
+          "subcategory": "问答／小游戏",
+          "genre": "问答／小游戏",
           "characters": [
-            "野崎宗介",
-            "山王時香織",
-            "山王時美雪",
-            "山王時恭子",
-            "山王時麗"
+            "雨宮ひろみ",
+            "早勢有記",
+            "早乙女琴子",
+            "轟舞子"
           ],
-          "charactersNote": "",
-          "charactersSource": "https://www.ymgal.games/ga15394",
-          "synopsis": "为了替兄长复仇，青年进入山王时家担任顾问，在家族成员之间展开计划。",
-          "notes": "旧目录明确列为 SLG；跨类型附录介绍。",
-          "source": "https://www.ymgal.games/ga15394",
-          "id": "silkys-extra-jokei",
+          "charactersNote": "按公开玩法记录列姓名或角色身份，不推定未公开姓名。",
+          "charactersSource": "https://chaser.my.coocan.jp/guide/silkys.htm",
+          "synopsis": "通过对话了解人物喜好，再猜测相应答案；另含翻牌小游戏，并非连续剧情冒险。",
+          "notes": "跨类型附录；不计入四类叙事主目录。",
+          "source": "https://chaser.my.coocan.jp/guide/silkys.htm",
           "versions": [
             {
-              "id": "silkys-extra-jokei-v1",
-              "year": 2002,
-              "platform": "Windows",
+              "id": "silkys-extra-48-v1",
+              "year": 1992,
+              "platform": "PC-9800",
               "publisher": "Silky’s",
               "kind": "首发",
               "voice": "未核实",
-              "differences": "原品牌首发；后续平台移植另行核对。",
-              "source": "https://www.ymgal.games/ga15394"
+              "differences": "原品牌 PC-98 版。",
+              "source": "https://chaser.my.coocan.jp/guide/silkys.htm"
             }
           ]
         },
         {
-          "title": "女系家族 ～淫謀～",
-          "originalTitle": "女系家族 ～淫謀～",
-          "chineseTitle": "女系家族：淫谋",
+          "id": "silkys-extra-iku",
+          "title": "イクイクパッ君",
+          "originalTitle": "イクイクパッ君",
+          "chineseTitle": "帕君互动集",
           "chineseTitleType": "站内编辑译名",
-          "firstYear": 2005,
-          "category": "家族／学园策略模拟",
-          "subcategory": "角色与行动策略",
-          "genre": "遗产／权力／模拟",
+          "firstYear": 1992,
+          "category": "点击互动／小游戏",
+          "subcategory": "点击互动／小游戏",
+          "genre": "点击互动／小游戏",
           "characters": [
-            "有宮千里",
-            "有宮美宙",
-            "有宮詩苑",
-            "有宮すみれ"
+            "玩家",
+            "24 名互动角色"
           ],
-          "charactersNote": "",
-          "charactersSource": "https://www.ymgal.games/ga13049",
-          "synopsis": "地方富豪去世后，秘书见习生接近有宫家，围绕遗产与家族权力展开谋划。",
-          "notes": "旧目录明确列为 SLG；跨类型附录介绍。",
-          "source": "https://www.ymgal.games/ga13049",
-          "id": "silkys-extra-jokei-inbo",
+          "charactersNote": "按公开玩法记录列姓名或角色身份，不推定未公开姓名。",
+          "charactersSource": "https://chaser.my.coocan.jp/guide/silkys.htm",
+          "synopsis": "以点击互动与人物反应为主的小游戏集；PC-98 版于 1992 年 11 月 20 日发行。",
+          "notes": "跨类型附录；不计入四类叙事主目录。",
+          "source": "https://chaser.my.coocan.jp/guide/silkys.htm",
           "versions": [
             {
-              "id": "silkys-extra-jokei-inbo-v1",
-              "year": 2005,
-              "platform": "Windows",
+              "id": "silkys-extra-iku-v1",
+              "year": 1992,
+              "platform": "PC-9800",
               "publisher": "Silky’s",
               "kind": "首发",
-              "voice": "未核实",
-              "differences": "原品牌首发；后续平台移植另行核对。",
-              "source": "https://www.ymgal.games/ga13049"
+              "voice": "有",
+              "differences": "原品牌 PC-98 版。",
+              "source": "https://chaser.my.coocan.jp/guide/silkys.htm"
             }
           ]
         },
         {
-          "title": "風紀委員長 聖薇 ～あなたなんて大嫌い、死ねばいいのに～",
-          "originalTitle": "風紀委員長 聖薇 ～あなたなんて大嫌い、死ねばいいのに～",
-          "chineseTitle": "风纪委员长圣薇",
+          "id": "silkys-extra-marine",
+          "title": "MARINE BUSTER",
+          "originalTitle": "MARINE BUSTER",
+          "chineseTitle": "海战克星",
           "chineseTitleType": "站内编辑译名",
-          "firstYear": 2010,
-          "category": "家族／学园策略模拟",
-          "subcategory": "角色与行动策略",
-          "genre": "学园／复仇／模拟",
+          "firstYear": 1993,
+          "category": "海战棋／策略",
+          "subcategory": "海战棋／策略",
+          "genre": "海战棋／策略",
           "characters": [
-            "早乙女聖薇",
-            "早乙女樹里亜",
-            "結城瀬理奈",
-            "蓬莱織姫"
+            "玩家舰队指挥官",
+            "对方潜艇指挥官"
           ],
-          "charactersNote": "",
-          "charactersSource": "https://www.ymgal.games/ga13675",
-          "synopsis": "突然继承祖父财产的青年重返学校，围绕风纪委员长和旧日压迫者展开复仇。",
-          "notes": "旧目录明确列为 SLG；跨类型附录介绍。",
-          "source": "https://www.ymgal.games/ga13675",
-          "id": "silkys-extra-seibi",
+          "charactersNote": "按公开玩法记录列姓名或角色身份，不推定未公开姓名。",
+          "charactersSource": "https://www.mobygames.com/game/53909/marine-buster/",
+          "synopsis": "在网格中推测敌舰位置并轮流射击的海战棋游戏。",
+          "notes": "跨类型附录；不计入四类叙事主目录。",
+          "source": "https://www.mobygames.com/game/53909/marine-buster/",
           "versions": [
             {
-              "id": "silkys-extra-seibi-v1",
-              "year": 2010,
-              "platform": "Windows",
+              "id": "silkys-extra-marine-v1",
+              "year": 1993,
+              "platform": "PC-9800",
               "publisher": "Silky’s",
               "kind": "首发",
               "voice": "未核实",
-              "differences": "原品牌首发；后续平台移植另行核对。",
-              "source": "https://www.ymgal.games/ga13675"
+              "differences": "原品牌 PC-98 版。",
+              "source": "https://www.mobygames.com/game/53909/marine-buster/"
+            },
+            {
+              "id": "silkys-extra-marine-v2",
+              "year": 1993,
+              "platform": "X68000",
+              "publisher": "Silky’s",
+              "kind": "移植",
+              "voice": "未核实",
+              "differences": "1993 年 X68000 版。",
+              "source": "https://www.mobygames.com/game/53909/marine-buster/"
             }
           ]
         },
         {
-          "title": "女系家族III ～秘密HIMITSU卑蜜～",
-          "originalTitle": "女系家族III ～秘密HIMITSU卑蜜～",
-          "chineseTitle": "女系家族 III：秘密",
+          "id": "silkys-extra-ohpai",
+          "title": "Oh!Pai",
+          "originalTitle": "Oh!Pai",
+          "chineseTitle": "欧派牌局",
           "chineseTitleType": "站内编辑译名",
-          "firstYear": 2012,
-          "category": "家族／学园策略模拟",
-          "subcategory": "角色与行动策略",
-          "genre": "遗产／家族博弈／模拟",
+          "firstYear": 1993,
+          "category": "牌类／小游戏",
+          "subcategory": "牌类／小游戏",
+          "genre": "牌类／小游戏",
           "characters": [
-            "橋詰大樹",
-            "唐沢杏里",
-            "唐沢永遠",
-            "唐沢紫衣",
-            "唐沢綺羅"
+            "玩家",
+            "六名对手"
           ],
-          "charactersNote": "",
-          "charactersSource": "https://www.ymgal.games/ga31741",
-          "synopsis": "主人公受命接近四位继承人，试图说服她们放弃父亲遗产的权利。",
-          "notes": "旧目录明确列为 SLG；跨类型附录介绍。",
-          "source": "https://www.ymgal.games/ga31741",
-          "id": "silkys-extra-jokei-iii",
+          "charactersNote": "按公开玩法记录列姓名或角色身份，不推定未公开姓名。",
+          "charactersSource": "https://chaser.my.coocan.jp/guide/silkys.htm",
+          "synopsis": "采用ポンジャン规则的简化牌类对局；不能直接等同于标准麻将。",
+          "notes": "跨类型附录；不计入四类叙事主目录。",
+          "source": "https://chaser.my.coocan.jp/guide/silkys.htm",
           "versions": [
             {
-              "id": "silkys-extra-jokei-iii-v1",
-              "year": 2012,
-              "platform": "Windows",
+              "id": "silkys-extra-ohpai-v1",
+              "year": 1993,
+              "platform": "PC-9800",
               "publisher": "Silky’s",
               "kind": "首发",
               "voice": "未核实",
-              "differences": "原品牌首发；后续平台移植另行核对。",
-              "source": "https://www.ymgal.games/ga31741"
+              "differences": "原品牌 PC-98 版。",
+              "source": "https://chaser.my.coocan.jp/guide/silkys.htm"
             }
           ]
         }
       ],
-      "relatedSectionTitle": "跨类型模拟游戏附录",
-      "relatedCountLabel": "六款恋爱／策略模拟",
-      "relatedIntro": "两款生日约会游戏按日历与地点安排互动；《女系家族》三作及《風紀委員長 聖薇》被旧目录标为 SLG。此处按原玩法列出，不归入四类叙事数据库。",
-      "overviewLabel": "二十八部叙事作品及六款跨类型模拟",
+      "relatedSectionTitle": "跨类型游戏附录",
+      "relatedCountLabel": "六部约会模拟／棋盘／小游戏",
+      "relatedIntro": "两部约会日程模拟与四部早期小游戏独立介绍，保留中文检索名、原名和来源。《女系家族》系列及《风纪委员长圣薇》按 ADV 归入主目录。",
+      "overviewLabel": "二十九部叙事作品及六部跨类型作品",
       "auditTitle": "原品牌作品清单核对",
-      "auditSourceLabel": "Silky’s 原品牌目录",
+      "auditSourceLabel": "原品牌发行年表与逐项来源",
       "description": "Silky’s 原品牌专题：叙事作品、跨类型模拟、原名与中文检索名、角色来源和作品风格的时期变化。",
       "creativeProfile": {
-        "thesis": "早期在短篇合辑、场所探索、科幻与日程模拟间尝试多种系统；2001 年重启后的作品同时展开医疗恋爱、心理惊悚与家族题材，后期则延伸系列续作和更明确的类型路线。以下是目录和剧情信息支持的编辑归纳。",
+        "thesis": "原品牌的变化可从玩法与题材两条线观察：早期系统尝试、Windows 阶段的医疗恋爱与悬疑并行，以及后期系列的延续。作品事实与编辑推断分别标注；没有访谈或制作记录时，不把市场或人员变动当作已证实原因。",
         "phases": [
           {
             "period": "1992—1996",
-            "heading": "从实验性系统到场所探索与科幻",
-            "analysis": "早期清单同时列出翻牌、指令合辑、麻将与约会日程；《河原崎家》《野々村病院》转向大宅和医院调查，《JACK》《フェルミオン》则采用太空与时间旅行题材。类型并行比单一固定公式更明显。",
+            "heading": "系统尝试与多线叙事",
+            "analysis": "问答、海战棋、牌类、场景指令和约会日程并存。《河原崎家》《野々村病院》采用多线剧情，《恋姬》加入和风喜剧；这体现同一品牌内不同玩法的并行。",
             "basis": "编辑观察",
-            "source": "https://repadars.org/elf_lineup_ex1.html"
+            "source": "https://ja.wikipedia.org/wiki/シルキーズ"
           },
           {
             "period": "2001—2003",
-            "heading": "新阶段的纯爱和阴暗题材并行",
-            "analysis": "旧目录将《flutter of birds》标成第二期首作，夏日诊所与翌年冬日续作形成恋爱主线；同一时期《肢体を洗う》走心理惊悚，《女系家族》围绕复仇与遗产。这里只陈述作品分布，不把风格差异归因于未经证实的人员变动。",
+            "heading": "季节恋爱与心理悬疑并行",
+            "analysis": "复出后的两部 flutter of birds 分别使用夏日诊所和冬日雪乡；《肢体を洗う》描写医院工作与心理变化，《女系家族》转向家族欲望。同一时期已有多种创作方向，不能概括成一次统一转型。",
             "basis": "编辑观察",
             "source": "https://repadars.org/elf_lineup_ex2.html"
           },
           {
-            "period": "2004—2014",
-            "heading": "系列化与明确类型主题",
-            "analysis": "《愛姉妹》《女系家族》各有后续作品；《姫騎士アンジェリカ》《オリヴィア》连接奇幻骑士题材，后期还有学园催眠、女仆与校园课程。清单显示系列续篇和鲜明场景设定占比提高；2014 年原品牌停止后应另看 Silky’s Plus。",
+            "period": "2005—2012",
+            "heading": "同一系列内也会更换表达方式",
+            "analysis": "《女系家族～淫谋～》用文本关键词和流程图组织分支，第三作回到行动选项并使用宽屏画面。角色与遗产主题延续，但交互形式发生变化；现有资料支持这些变化，尚不足以确定设计调整的动机。",
             "basis": "编辑观察",
-            "source": "https://repadars.org/elf_lineup_ex3.html"
+            "source": "https://ja.wikipedia.org/wiki/女系家族_(ゲーム)"
+          },
+          {
+            "period": "2014",
+            "heading": "原品牌与后继品牌的边界",
+            "analysis": "《爱姊妹IV》是清单中的原品牌末作。2014 年后出现的 Silky’s Plus 应按新品牌追踪，不能据名字近似把之后的作品或风格倒算回原品牌。",
+            "basis": "编辑观察",
+            "source": "https://ja.wikipedia.org/wiki/シルキーズ"
           }
         ]
       }

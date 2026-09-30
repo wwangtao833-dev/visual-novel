@@ -1,4 +1,4 @@
-import {filterCatalogue,publisherWorkCounts,visibleVoiceNote} from './filter.mjs?v=20260930-silkys';
+import {filterCatalogue,publisherWorkCounts,visibleVoiceNote} from './filter.mjs?v=20260930-silkys-audit';
 
 const $=id=>document.getElementById(id);
 const fields={query:$('search'),category:$('category'),subcategory:$('subcategory'),company:$('company-select'),platform:$('platform'),from:$('from'),to:$('to'),voice:$('voice'),sort:$('sort')};
@@ -44,7 +44,7 @@ function readFilters(){return Object.fromEntries(Object.entries(fields).map(([ke
 
 async function main(){
   try {
-    const [response,taxonomyResponse]=await Promise.all([fetch('./data/games.json?v=20260930-silkys'),fetch('./data/taxonomy.json?v=20260930-silkys')]);
+    const [response,taxonomyResponse]=await Promise.all([fetch('./data/games.json?v=20260930-silkys-audit'),fetch('./data/taxonomy.json?v=20260930-silkys-audit')]);
     if(!response.ok||!taxonomyResponse.ok)throw Error('HTTP '+(response.ok?taxonomyResponse.status:response.status));
     const [data,taxonomy]=await Promise.all([response.json(),taxonomyResponse.json()]);
     $('stat-works').textContent=data.works.length;
