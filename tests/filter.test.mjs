@@ -206,3 +206,15 @@ test('Silkys Plus dossier, Chinese searches and original-brand separation',()=>{
   const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='silkys_plus');
   assert.deepEqual(new Set(dossier.workIds),new Set(plus.map(p=>p.work.id)));
 });
+
+test('Alicesoft first batch is searchable in Chinese and retains its Japanese titles',()=>{
+  const found=filterCatalogue(data,{company:'Alicesoft'});
+  assert.equal(found.length,8);
+  for(const [query,id] of [['妻中蜜3','g482'],['妻みぐい3','g482'],['超昂神骑爱克希尔','g486'],['母烂漫','g487'],['夫人的恢复术','g488']]){
+    assert.ok(filterCatalogue(data,{query}).some(({work})=>work.id===id),query);
+  }
+  assert.ok(found.every(({work})=>!['纯文本指令','图文指令'].includes(work.subcategory)));
+  assert.ok(found.every(({versions})=>versions.every(v=>visibleVoiceNote(v)==='')));
+  const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='alicesoft');
+  assert.deepEqual(new Set(dossier.workIds),new Set(found.map(({work})=>work.id)));
+});

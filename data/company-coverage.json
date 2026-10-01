@@ -7663,6 +7663,174 @@
           }
         ]
       }
+    },
+    {
+      "id": "alicesoft",
+      "name": "Alicesoft",
+      "checkedAt": "2026-10-01",
+      "status": "首批完成：2016—2022 年八部叙事作品",
+      "scope": "本专题是分批整理中的首批：2016—2022 年八部已核对官方角色与发行信息的叙事 ADV。Alicesoft 的早期作品、兰斯／斗神都市等 RPG、战略模拟尚待逐项补充；本页的八部绝非厂商全部作品。不新增纯文本指令或图文指令游戏。",
+      "versionScope": "八部独立作品、十条所核版本；《夫人的恢复术》两篇可单独下载，双篇盒装按各自版本说明。未知语音状态不显示“无角色配音”，仅确认无配音时出现该提示。",
+      "publisherNote": "Alicesoft 以叙事、角色互动和游戏系统结合见长。首批选择官网能直接核对作品类型、角色与发售日期的 2016—2022 年 ADV；系列 RPG 和战略游戏列明后续整理范围。",
+      "workIds": [
+        "g482",
+        "g483",
+        "g484",
+        "g485",
+        "g486",
+        "g487",
+        "g488",
+        "g489"
+      ],
+      "publisherWorkIds": [
+        "g482",
+        "g483",
+        "g484",
+        "g485",
+        "g486",
+        "g487",
+        "g488",
+        "g489"
+      ],
+      "catalogueEntryCount": 8,
+      "source": "https://www.alicesoft.com/game/index.html",
+      "sectionTitle": "首批八部 ADV：2016—2022",
+      "overviewLabel": "首批已核对的叙事作品",
+      "auditTitle": "首批核对与后续目录",
+      "auditLabel": "本批八部，附后续整理范围和合装处理说明。",
+      "auditNote": "官网产品页主要显示近年仍在售的商品，不能把它视为 Alicesoft 全时代完整首发目录。早期年代与 RPG／SLG 仍需逐项补充；本专题仅对本批八部宣称已核对。",
+      "entries": [
+        {
+          "title": "妻みぐい3",
+          "status": "本批进入主数据库",
+          "workIds": [
+            "g482"
+          ],
+          "reason": "官网列为叙事／选项 ADV，可核对主要角色和发行信息。",
+          "source": "https://www.alicesoft.com/tsumamigui3/"
+        },
+        {
+          "title": "妻みぐい3 スピンオフ純愛編",
+          "status": "本批进入主数据库",
+          "workIds": [
+            "g483"
+          ],
+          "reason": "已核对官方产品与主要角色；单独发行的补充篇独立计数。",
+          "source": "https://blog.alicesoft.com/archives/4642916.html"
+        },
+        {
+          "title": "妻みぐい3 スピンオフ寝取られ編",
+          "status": "本批进入主数据库",
+          "workIds": [
+            "g484"
+          ],
+          "reason": "厂商博客确认独立发行及本篇角色的新剧本，官网产品目录另列单独下载。",
+          "source": "https://blog.alicesoft.com/archives/4642916.html"
+        },
+        {
+          "title": "は～とふるママン",
+          "status": "本批进入主数据库",
+          "workIds": [
+            "g485"
+          ],
+          "reason": "官网列为叙事／选项 ADV，可核对主要角色和发行信息。",
+          "source": "https://www.alicesoft.com/heartfulmaman/"
+        },
+        {
+          "title": "超昂神騎エクシール",
+          "status": "本批进入主数据库",
+          "workIds": [
+            "g486"
+          ],
+          "reason": "官网列为叙事／选项 ADV，可核对主要角色和发行信息。",
+          "source": "https://www.alicesoft.com/ixseal/"
+        },
+        {
+          "title": "母爛漫",
+          "status": "本批进入主数据库",
+          "workIds": [
+            "g487"
+          ],
+          "reason": "官网列为叙事／选项 ADV，可核对主要角色和发行信息。",
+          "source": "https://www.alicesoft.com/haharanman/"
+        },
+        {
+          "title": "奥さまの回復術 純愛編",
+          "status": "本批进入主数据库",
+          "workIds": [
+            "g488"
+          ],
+          "reason": "已核对官方产品与主要角色；单独发行的补充篇独立计数。",
+          "source": "https://www.alicesoft.com/okusama/story01/"
+        },
+        {
+          "title": "奥さまの回復術 寝取られ編",
+          "status": "本批进入主数据库",
+          "workIds": [
+            "g489"
+          ],
+          "reason": "已核对官方产品与主要角色；单独发行的补充篇独立计数。",
+          "source": "https://www.alicesoft.com/okusama/story02/"
+        },
+        {
+          "title": "ランス系列／闘神都市系列／イブニクル系列",
+          "status": "后续批次：RPG",
+          "workIds": [],
+          "reason": "官网多列为 RPG、ADV+RPG 或战略游戏；它们具有重要叙事内容，后续应按实际玩法列在跨类型附录，不误称为纯视觉小说。本批不计入八部。",
+          "source": "https://www.alicesoft.com/game/index.html"
+        },
+        {
+          "title": "ドーナドーナ／大帝国／大悪司／大番長",
+          "status": "后续批次：RPG／战略",
+          "workIds": [],
+          "reason": "游戏性与叙事并重，尚未逐项核实角色与版本；未来批次在跨类型附录处理。",
+          "source": "https://www.alicesoft.com/game/index.html"
+        },
+        {
+          "title": "旧作 ADV（1989—2015）",
+          "status": "后续批次：待逐项整理",
+          "workIds": [],
+          "reason": "包含早期短篇集和后期独立 ADV；必须先复核玩法、角色与原始版本，排除纯文本指令及图文指令作品。",
+          "source": "https://www.alicesoft.com/game/index.html"
+        },
+        {
+          "title": "奥さまの回復術 双篇盒装",
+          "status": "版本记录",
+          "workIds": [
+            "g488",
+            "g489"
+          ],
+          "reason": "两部独立下载游戏合装发行；分别在两个作品下记录版本，不另造第三部作品。",
+          "source": "https://www.alicesoft.com/okusama/"
+        }
+      ],
+      "description": "Alicesoft 厂商专题首批：八部叙事 ADV，主要角色、中文检索名、版本以及创作时期与公开依据。",
+      "creativeProfile": {
+        "thesis": "Alicesoft 的作品横跨长篇冒险 RPG、地区经营战略和成人向 ADV。长期存在多条题材与系统路线，不能用近年的单一产品线代替厂商整体。以下先用官网清单确立作品线，再观察首批八部中的创作选择；分期是编辑归纳。",
+        "phases": [
+          {
+            "period": "1989—2005",
+            "heading": "冒险叙事与角色扮演并行",
+            "analysis": "早期《兰斯》及后来的《斗神都市》将世界探索、战斗与角色事件结合；同时另有短篇集和不同主题的 ADV。首发年代的具体版本、玩法与人物尚待在下一批细查，故这里仅用于说明品牌历史的多样性。",
+            "basis": "编辑观察",
+            "source": "https://www.alicesoft.com/information/2024/entry003466.html"
+          },
+          {
+            "period": "2006—2018",
+            "heading": "大型系列与中小型企划同时推进",
+            "analysis": "产品目录并列《战国兰斯》一类地区制压 SLG、系列 RPG 与剧情 ADV。近年首批中的《妻中蜜 3》明确改用地图选择和两种故事模式；《超昂神骑艾克希尔》延续变身英雄及养成玩法。游戏系统的区别由厂商类型标注与玩法说明支持。",
+            "basis": "编辑观察",
+            "source": "https://www.alicesoft.com/game/index.html"
+          },
+          {
+            "period": "2016—2022",
+            "heading": "同一角色关系可拆成独立剧本",
+            "analysis": "《妻中蜜 3》另推出两篇独立下载后日谈。官网说明《夫人的恢复术》为满足不同读者对剧情方向的需求，将纯爱篇和另一篇分别开发与发行，再以双篇盒装销售。风麟持续参与这些角色关系企划；这是厂商公开说明的开发选择，不推断更广泛的市场原因。",
+            "basis": "厂商说明",
+            "source": "https://www.alicesoft.com/okusama/"
+          }
+        ]
+      }
     }
   ]
 }
