@@ -4,7 +4,7 @@
 
 ## 数据范围
 
-当前收录 **486 部代表作品、896 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、ゆずソフト、Innocent Grey、minori、AUGUST、tone work’s、ASa Project、ELF、Silky’s、Leaf、SAGA PLANETS、SMEE、FAVORITE、CUFFS、CUBE、Sphere、ぱれっと、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
+当前收录 **491 部代表作品、902 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、ゆずソフト、Innocent Grey、minori、AUGUST、tone work’s、ASa Project、ELF、Silky’s、Leaf、SAGA PLANETS、SMEE、FAVORITE、CUFFS、CUBE、Sphere、ぱれっと、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
 
 作品主分类是一种检索入口，并非互斥的学术分类：一部恋爱视觉小说也可能属于广义 Galgame。视觉小说的“有声小说”可能只有音乐和音效，配音字段专指游戏内角色人声。
 
@@ -103,3 +103,5 @@
 新增 [Silky’s Plus 独立专题](silkys_plus.html)：14 部叙事作品（11 部本篇、3 部独立补充篇），20 条首发、移植及国际发行版本。包含 WASABI、A5和牛、DOLCE，区分原 Silky’s 与姐妹品牌；支持中文检索，保留日文原名与编辑译名标识。专题补充创作风格、时期变化及资料链接。
 
 [Alicesoft 厂商专题首批](alicesoft.html)按官方产品和角色资料补入 2016—2022 年八部 ADV、十条版本。不同年代的 RPG／SLG 与早期 ADV 仍待分批复核，本批数量不是厂商全目录。
+
+Alicesoft 第二批补入 2008—2013 年五部 ADV、六条版本，专题累计十三部作品、十六条版本；已说明养成与道具分支的玩法差异，以及家庭关系企划线的创作观察。未完成全厂商目录。

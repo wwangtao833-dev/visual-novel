@@ -207,10 +207,10 @@ test('Silkys Plus dossier, Chinese searches and original-brand separation',()=>{
   assert.deepEqual(new Set(dossier.workIds),new Set(plus.map(p=>p.work.id)));
 });
 
-test('Alicesoft first batch is searchable in Chinese and retains its Japanese titles',()=>{
+test('Alicesoft batches are searchable in Chinese and retain their Japanese titles',()=>{
   const found=filterCatalogue(data,{company:'Alicesoft'});
-  assert.equal(found.length,8);
-  for(const [query,id] of [['妻中蜜3','g482'],['妻みぐい3','g482'],['超昂神骑爱克希尔','g486'],['母烂漫','g487'],['夫人的恢复术','g488']]){
+  assert.equal(found.length,13);
+  for(const [query,id] of [['妻中蜜3','g482'],['妻みぐい3','g482'],['超昂神骑爱克希尔','g486'],['母烂漫','g487'],['夫人的恢复术','g488'],['超昂闪忍遥','g490'],['胸部消失的王国','g491'],['桃色守护者','g492'],['母娘乱馆','g493'],['馋嘴龙','g494'],['どらぺこ','g494']]){
     assert.ok(filterCatalogue(data,{query}).some(({work})=>work.id===id),query);
   }
   assert.ok(found.every(({work})=>!['纯文本指令','图文指令'].includes(work.subcategory)));
