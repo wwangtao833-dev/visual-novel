@@ -7667,11 +7667,11 @@
     {
       "id": "alicesoft",
       "name": "Alicesoft",
-      "checkedAt": "2026-10-02",
-      "status": "第四批完成：累计二十七部叙事作品",
-      "scope": "分批整理：本批新增十一部不重复的叙事及养成 ADV，累计二十七部。范围扩展到 1997—2022 年；其余旧作和 RPG／战略游戏继续逐项整理，本页不是厂商全目录。不新增纯文本指令或图文指令游戏。",
-      "versionScope": "二十七部作品、三十六条所核版本。本批十一部、十五条版本；合集转独立发行、廉价版、追加语音版及重制版合并到原作。未核准年份的其他数字版不凑数；配音状态未核实的版本不显示无配音提示。",
-      "publisherNote": "Alicesoft 长期并行开发 RPG、战略模拟和不同规模的 ADV。本专题先核对叙事 ADV；养成、战斗和道具分支均按官网说明标出，后续继续整理其他年代与跨类型作品。",
+      "checkedAt": "2026-10-03",
+      "status": "第五批完成：27 部叙事作品＋15 部跨类型游戏",
+      "scope": "已核对 42 部 Alicesoft 作品：主库叙事及养成 ADV 27 部，专题跨类型 RPG／SLG 15 部。本批与主库及所有专题已建档作品去重；不新增纯文本指令或图文指令冒险。厂商全目录尚未完成。",
+      "versionScope": "专题共 56 条已核实版本：原 36 条＋本批 20 条。Magnum 统合版与廉价再版归入原作，扩充包、同期销售渠道和合集不另造作品。未核实配音不显示“无角色配音”。",
+      "publisherNote": "Alicesoft 并行开发叙事 ADV、RPG 和地区战略模拟。本专题分别展示其实际玩法，并以中文名称、日文原名、剧情、角色及来源组织阅读。",
       "workIds": [
         "g482",
         "g483",
@@ -7730,13 +7730,13 @@
         "g507",
         "g508"
       ],
-      "catalogueEntryCount": 27,
+      "catalogueEntryCount": 42,
       "source": "https://www.alicesoft.com/game/index.html",
-      "sectionTitle": "四批二十七部作品：1997—2022",
-      "overviewLabel": "分批核对的叙事作品",
+      "sectionTitle": "叙事及养成 ADV：27 部",
+      "overviewLabel": "已核对作品（含 RPG／SLG）",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "第四批新增十一部，与主数据库及所有专题的已建档作品去重。",
-      "auditNote": "当前已核对二十七部作品。专题和检索页引用同一作品 ID，不是两份独立作品；其余旧作与跨类型游戏继续分批整理。",
+      "auditLabel": "第五批新增 15 部跨类型游戏、20 条版本。",
+      "auditNote": "专题累计 42 部作品、56 条版本；其中 27 部／36 条属于主库，15 部／20 条位于本页跨类型区。首页主库仍为 505 部／922 条，Alicesoft 主库筛选仍为 27 部，两种口径不能相加后冒充主库计数。",
       "entries": [
         {
           "title": "妻みぐい3",
@@ -7883,20 +7883,6 @@
           "source": "https://www.alicesoft.com/teacher/index.html"
         },
         {
-          "title": "ランス系列／闘神都市系列／イブニクル系列",
-          "status": "后续批次：RPG",
-          "workIds": [],
-          "reason": "官网多列为 RPG、ADV+RPG 或战略游戏；它们具有重要叙事内容，后续应按实际玩法列在跨类型附录，不误称为纯视觉小说。尚未计入本专题已核对的二十七部。",
-          "source": "https://www.alicesoft.com/game/index.html"
-        },
-        {
-          "title": "ドーナドーナ／大帝国／大悪司／大番長",
-          "status": "后续批次：RPG／战略",
-          "workIds": [],
-          "reason": "游戏性与叙事并重，尚未逐项核实角色与版本；未来批次在跨类型附录处理。",
-          "source": "https://www.alicesoft.com/game/index.html"
-        },
-        {
           "title": "其余旧作 ADV（1989—2015）",
           "status": "后续批次：待逐项整理",
           "workIds": [],
@@ -8011,16 +7997,173 @@
           ],
           "reason": "独立作品；已核对剧情、角色、首发及玩法。中文检索名保留原名对照，版本合并到同一作品。",
           "source": "https://www.alicesoft.com/mankuchu/index.html"
+        },
+        {
+          "title": "ランス5D -ひとりぼっちの女の子-",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rance5d"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://www.alicesoft.com/rance35th/"
+        },
+        {
+          "title": "RanceVI -ゼス崩壊-",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rance6"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://www.alicesoft.com/rance35th/"
+        },
+        {
+          "title": "戦国ランス",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-sengoku"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://www.alicesoft.com/rance7/index.html"
+        },
+        {
+          "title": "ランス・クエスト",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rancequest"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://www.alicesoft.com/rance8/"
+        },
+        {
+          "title": "ランス9 ヘルマン革命",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rance9"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://www.alicesoft.com/rance9/"
+        },
+        {
+          "title": "ランス10",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rance10"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://www.alicesoft.com/rance10/"
+        },
+        {
+          "title": "イブニクル",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-evenicle"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://www.alicesoft.com/evenicle/"
+        },
+        {
+          "title": "イブニクル2",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-evenicle2"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://www.alicesoft.com/evenicle2/"
+        },
+        {
+          "title": "ドーナドーナ いっしょにわるいことをしよう",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-dohnadohna"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://www.alicesoft.com/dohnadohna/"
+        },
+        {
+          "title": "大悪司",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-daiakuji"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://www.alicesoft.com/akuji/pro.html"
+        },
+        {
+          "title": "大番長 -Big Bang Age-",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-daibanchou"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://www.alicesoft.com/bancho/system.html"
+        },
+        {
+          "title": "大帝国",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-daiteikoku"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://www.alicesoft.com/daiteikoku/story.html"
+        },
+        {
+          "title": "闘神都市III",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-toushin3"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://www.alicesoft.com/toushin3/"
+        },
+        {
+          "title": "ぱすてるチャイムContinue",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-pastelcontinue"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://www.ymgal.games/ga10523"
+        },
+        {
+          "title": "パステルチャイム3 バインドシーカー",
+          "status": "第五批：跨类型区",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-pastel3"
+          ],
+          "reason": "独立作品；已核对剧情、主要人物、首发年份和实际玩法。再发行与增强版按同一作品归档。",
+          "source": "https://akibablog.blog.jp/archives/51383488.html"
+        },
+        {
+          "title": "其余 RPG／SLG、Fan Disc 及移植",
+          "status": "后续批次待核对",
+          "workIds": [],
+          "reason": "兰斯早期原作与重制关系、斗神都市前两作、粉彩铃音初代及 Fan Disc、GALZOO、DALK 等仍待逐项核对；不把整个系列标为完成。PSP 与海外版本亦未穷举。",
+          "source": "https://www.alicesoft.com/game/index.html"
         }
       ],
-      "description": "Alicesoft 厂商专题：二十七部叙事及养成 ADV、三十六条版本，含中文检索名、角色和版本来源。",
+      "description": "Alicesoft 作品专题：42 部作品、56 条版本；27 部叙事及养成 ADV 与 15 部 RPG／SLG，附中文名、角色和来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft 同时发展长篇 RPG、地区经营战略与成人向 ADV。已核对的二十七部 ADV 也不只有阅读选项：养成日程、地图移动、道具解锁分支与纯剧情选择并存。以下分期是结合官网玩法和产品资料的编辑归纳，不把玩法差异推断为未经证实的市场原因。",
+        "thesis": "Alicesoft 的叙事与玩法长期并行发展。本专题的 42 部作品同时包括阅读及养成 ADV、迷宫 RPG、战术 RPG 和地域战略。下列比较依据已核对的作品系统，不将某一企划线视作厂商整体转型。",
         "phases": [
           {
             "period": "1989—2005",
             "heading": "冒险叙事与角色扮演并行",
-            "analysis": "早期《兰斯》及后来的《斗神都市》将世界探索、战斗与角色事件结合；同时另有短篇集和不同主题的 ADV。首发年代的具体版本、玩法与人物尚待在下一批细查，故这里仅用于说明品牌历史的多样性。",
+            "analysis": "早期《兰斯》和《斗神都市》已把探索、战斗与角色事件结合；第五批进一步核对了 2002—2018 年六部《兰斯》及《斗神都市3》，早期原作仍需继续整理。",
             "basis": "编辑观察",
             "source": "https://www.alicesoft.com/information/2024/entry003466.html"
           },
@@ -8072,9 +8215,668 @@
             "analysis": "《妻中蜜 3》另推出两篇独立下载后日谈。官网说明《夫人的恢复术》为满足不同读者对剧情方向的需求，将纯爱篇和另一篇分别开发与发行，再以双篇盒装销售。风麟持续参与这些角色关系企划；这是厂商公开说明的开发选择，不推断更广泛的市场原因。",
             "basis": "厂商说明",
             "source": "https://www.alicesoft.com/okusama/"
+          },
+          {
+            "period": "2001—2011",
+            "heading": "地域战略组织群像故事",
+            "analysis": "《大恶司》《大番长》《大帝国》将角色招募、资源与地区控制放入行动循环，舞台分别落在都市、全国和架空宇宙。系统相近不等于剧情属于同一连续故事。",
+            "basis": "编辑观察",
+            "source": "https://www.alicesoft.com/daiteikoku/system.html"
+          },
+          {
+            "period": "2014—2019",
+            "heading": "同一厂商中的不同 RPG 节奏",
+            "analysis": "《兰斯9》以小队战术推进革命，《兰斯10》把群像置于人魔大战，《夏娃年代记》两作则强调原野旅行。共同的角色叙事目标采用了不同的战斗与探索组织方式。",
+            "basis": "编辑观察",
+            "source": "https://www.alicesoft.com/game/index.html"
           }
         ]
-      }
+      },
+      "relatedGames": [
+        {
+          "id": "alicesoft-extra-rance5d",
+          "title": "兰斯5D：孤独的少女",
+          "originalTitle": "ランス5D -ひとりぼっちの女の子-",
+          "chineseTitle": "兰斯5D：孤独的少女",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Rance 5D",
+            "兰斯5",
+            "蘭斯5D"
+          ],
+          "firstYear": 2002,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "ADV＋RPG",
+          "genre": "迷宫探索／奇幻冒险",
+          "characters": [
+            "ランス",
+            "シィル・プライン"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://www.alicesoft.com/rance35th/",
+          "synopsis": "兰斯与希露在迷宫中迷路，来到妖怪出没的神秘城堡。玩家一边探索城内，一边寻找脱困的道路。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://www.alicesoft.com/rance35th/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-rance5d-v1",
+              "workId": "alicesoft-extra-rance5d",
+              "year": 2002,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "2002-10-25 日本 PC 原版发行；盒装与同期下载渠道不重复计数。角色配音状态尚未核实。",
+              "source": "https://www.alicesoft.com/rance35th/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-rance6",
+          "title": "兰斯6：赛斯崩坏",
+          "originalTitle": "RanceVI -ゼス崩壊-",
+          "chineseTitle": "兰斯6：赛斯崩坏",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Rance VI",
+            "Rance 6",
+            "兰斯VI",
+            "蘭斯6"
+          ],
+          "firstYear": 2004,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "迷宫 RPG",
+          "genre": "魔法国家／反抗组织",
+          "characters": [
+            "ランス"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://www.alicesoft.com/rance35th/",
+          "synopsis": "兰斯来到歧视非魔法使用者的赛斯王国，加入反抗组织。他的行动逐渐卷入国家危机，故事通过迷宫探索和队伍战斗推进。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://www.alicesoft.com/rance35th/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-rance6-v1",
+              "workId": "alicesoft-extra-rance6",
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "2004-08-27 日本 PC 原版发行；盒装与同期下载渠道不重复计数。角色配音状态尚未核实。",
+              "source": "https://www.alicesoft.com/rance35th/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-sengoku",
+          "title": "战国兰斯",
+          "originalTitle": "戦国ランス",
+          "chineseTitle": "战国兰斯",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Sengoku Rance",
+            "兰斯7",
+            "戰國蘭斯"
+          ],
+          "firstYear": 2006,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "地域压制 SLG",
+          "genre": "领地经营／武将编成",
+          "characters": [
+            "ランス",
+            "シィル・プライン",
+            "上杉謙信",
+            "山本五十六"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://www.alicesoft.com/lp/",
+          "synopsis": "兰斯来到群雄割据的 JAPAN，在各方势力之间展开征战。玩家编成武将、管理领地，并在合战与角色事件中推动故事。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://www.alicesoft.com/rance7/index.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-sengoku-v1",
+              "workId": "alicesoft-extra-sengoku",
+              "year": 2006,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "无",
+              "differences": "2006-12-15 日本 PC 原版发行；盒装与同期下载渠道不重复计数。",
+              "source": "https://www.alicesoft.com/rance35th/"
+            },
+            {
+              "id": "alicesoft-extra-sengoku-v2",
+              "workId": "alicesoft-extra-sengoku",
+              "year": 2014,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "廉价再版",
+              "voice": "无",
+              "differences": "2014-12-19。采用新绘封面；合并到原作。",
+              "source": "https://www.alicesoft.com/lp/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-rancequest",
+          "title": "兰斯 Quest",
+          "originalTitle": "ランス・クエスト",
+          "chineseTitle": "兰斯 Quest",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Rance Quest",
+            "兰斯8",
+            "兰斯探索",
+            "兰斯任务"
+          ],
+          "firstYear": 2011,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "任务制 RPG",
+          "genre": "队伍培养／大地图冒险",
+          "characters": [
+            "ランス",
+            "パステル・カラー"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://blog.alicesoft.com/archives/2985156.html",
+          "synopsis": "兰斯回到大陆，在各地接取任务、寻找伙伴，并卷入与卡拉族及诅咒有关的事件。任务选择和队伍培养共同组织冒险进程。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://www.alicesoft.com/rance8/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-rancequest-v1",
+              "workId": "alicesoft-extra-rancequest",
+              "year": 2011,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "2011-08-26 日本 PC 原版发行；盒装与同期下载渠道不重复计数。角色配音状态尚未核实。",
+              "source": "https://www.alicesoft.com/rance8/"
+            },
+            {
+              "id": "alicesoft-extra-rancequest-v2",
+              "workId": "alicesoft-extra-rancequest",
+              "year": 2018,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "Magnum 统合版",
+              "voice": "未核实",
+              "differences": "2018-09-28。整合本篇与追加剧本、任务及系统改进；2012 年 Magnum 扩充包不另算独立作品。",
+              "source": "https://www.alicesoft.com/rance8/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-rance9",
+          "title": "兰斯9：赫尔曼革命",
+          "originalTitle": "ランス9 ヘルマン革命",
+          "chineseTitle": "兰斯9：赫尔曼革命",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Rance IX",
+            "Rance 9",
+            "蘭斯9"
+          ],
+          "firstYear": 2014,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "战术 RPG",
+          "genre": "革命战争／小队战术",
+          "characters": [
+            "ランス",
+            "パットン・ミスナルジ"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://www.alicesoft.com/rance35th/",
+          "synopsis": "赫尔曼帝国在腐败统治下衰败，废皇子巴顿邀请兰斯协助革命。玩家率领少数精锐突破帝国军防线，推进夺回国家的计划。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://www.alicesoft.com/rance9/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-rance9-v1",
+              "workId": "alicesoft-extra-rance9",
+              "year": 2014,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "无",
+              "differences": "2014-04-25 日本 PC 原版发行；盒装与同期下载渠道不重复计数。",
+              "source": "https://www.alicesoft.com/rance9/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-rance10",
+          "title": "兰斯10",
+          "originalTitle": "ランス10",
+          "chineseTitle": "兰斯10",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Rance X",
+            "Rance 10",
+            "兰斯10 决战",
+            "蘭斯10"
+          ],
+          "firstYear": 2018,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "战争 RPG",
+          "genre": "群像终章／人魔战争",
+          "characters": [
+            "ランス",
+            "リア・パラパラ・リーザス",
+            "シーラ・ヘルマン"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://www.alicesoft.com/rance10/chara/index.html",
+          "synopsis": "魔物大军侵入人类世界，而各国仍因分歧陷入劣势。兰斯召集历代伙伴并统合战线，参与决定大陆命运的最终战争。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://www.alicesoft.com/rance10/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-rance10-v1",
+              "workId": "alicesoft-extra-rance10",
+              "year": 2018,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "无",
+              "differences": "2018-02-23 日本 PC 原版发行；盒装与同期下载渠道不重复计数。",
+              "source": "https://www.alicesoft.com/rance10/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-evenicle",
+          "title": "夏娃年代记",
+          "originalTitle": "イブニクル",
+          "chineseTitle": "夏娃年代记",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Evenicle",
+            "夏娃年代紀",
+            "イブニクル1"
+          ],
+          "firstYear": 2015,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "原野探索 RPG",
+          "genre": "奇幻旅行／骑士冒险",
+          "characters": [
+            "アスタリスク",
+            "リッシュ",
+            "ラミアス"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://www.alicesoft.com/evenicle/character/index.html",
+          "synopsis": "阿斯塔离开故乡，踏上成为骑士的旅途。他与同伴探索大陆，在以圣母伊芙戒律维系的世界里接触各国纷争和威胁秩序的组织。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://www.alicesoft.com/evenicle/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-evenicle-v1",
+              "workId": "alicesoft-extra-evenicle",
+              "year": 2015,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "有（部分）",
+              "differences": "2015-04-24 日本 PC 原版发行；盒装与同期下载渠道不重复计数。",
+              "source": "https://www.alicesoft.com/evenicle/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-evenicle2",
+          "title": "夏娃年代记2",
+          "originalTitle": "イブニクル2",
+          "chineseTitle": "夏娃年代记2",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Evenicle 2",
+            "Evenicle II",
+            "夏娃年代紀2"
+          ],
+          "firstYear": 2019,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "原野探索 RPG",
+          "genre": "医疗旅程／奇幻冒险",
+          "characters": [
+            "アレク",
+            "ユラギ"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://www.alicesoft.com/information/2018/entry002133.html",
+          "synopsis": "英雄病侵蚀战士的身体，拥有特殊治疗能力的青年医生阿雷克开始旅行。他与伙伴跨越各地，寻找解除疾病威胁的办法。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://www.alicesoft.com/evenicle2/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-evenicle2-v1",
+              "workId": "alicesoft-extra-evenicle2",
+              "year": 2019,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "有",
+              "differences": "2019-02-22 日本 PC 原版发行；盒装与同期下载渠道不重复计数。",
+              "source": "https://www.alicesoft.com/evenicle2/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-dohnadohna",
+          "title": "多娜多娜：一起做坏事吧",
+          "originalTitle": "ドーナドーナ いっしょにわるいことをしよう",
+          "chineseTitle": "多娜多娜：一起做坏事吧",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Dohna Dohna",
+            "Dohnadohna",
+            "多纳多纳"
+          ],
+          "firstYear": 2020,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "经营 RPG",
+          "genre": "企业都市／反抗群像",
+          "characters": [
+            "クマ",
+            "ポルノ",
+            "キラキラ",
+            "ALyCE"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://www.alicesoft.com/dohnadohna/",
+          "synopsis": "企业控制的亚总义市中，反抗者通过违法活动维持组织，与其他团体及企业发生冲突。故事围绕行动、资源经营和团队关系展开。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://www.alicesoft.com/dohnadohna/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-dohnadohna-v1",
+              "workId": "alicesoft-extra-dohnadohna",
+              "year": 2020,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "有",
+              "differences": "2020-11-27 日本 PC 原版发行；盒装与同期下载渠道不重复计数。",
+              "source": "https://www.alicesoft.com/dohnadohna/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-daiakuji",
+          "title": "大恶司",
+          "originalTitle": "大悪司",
+          "chineseTitle": "大恶司",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Daiakuji",
+            "大惡司"
+          ],
+          "firstYear": 2001,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "地域压制 SLG",
+          "genre": "战后都市／组织经营",
+          "characters": [
+            "山本悪司",
+            "民華",
+            "蘭"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://www.alicesoft.com/akuji/pro.html",
+          "synopsis": "山本恶司结束战俘生活回到大阪，却发现原有组织和城市秩序都已改变。他重建势力，通过招募、经营和地区争夺扩张控制范围。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://www.alicesoft.com/akuji/pro.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-daiakuji-v1",
+              "workId": "alicesoft-extra-daiakuji",
+              "year": 2001,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "2001-11-30 日本 PC 原版发行；盒装与同期下载渠道不重复计数。角色配音状态尚未核实。",
+              "source": "https://enquete.alicesoft.com/akuji/about.html"
+            },
+            {
+              "id": "alicesoft-extra-daiakuji-v2",
+              "workId": "alicesoft-extra-daiakuji",
+              "year": 2006,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "廉价再版",
+              "voice": "未核实",
+              "differences": "2006-05-26。官网明确为 2001 年作品的低价再发行。",
+              "source": "https://enquete.alicesoft.com/akuji/about.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-daibanchou",
+          "title": "大番长",
+          "originalTitle": "大番長 -Big Bang Age-",
+          "chineseTitle": "大番长",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Daibanchou",
+            "Dai Banchou",
+            "大番長"
+          ],
+          "firstYear": 2003,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "地域压制 SLG",
+          "genre": "学园势力／全国争霸",
+          "characters": [
+            "斬真狼牙",
+            "日比生咲苗",
+            "陣内兵太",
+            "成瀬有紀"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://www.alicesoft.com/bancho/chr/chr01.html",
+          "synopsis": "转入圣城学园的斩真狼牙与同伴对抗当地番长，并把目标扩大到全国。玩家招募成员、安排驻守、维持收入与治安，在势力冲突中推进角色故事。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://www.alicesoft.com/bancho/system.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-daibanchou-v1",
+              "workId": "alicesoft-extra-daibanchou",
+              "year": 2003,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "有（部分）",
+              "differences": "2003-12-19 日本 PC 原版发行；盒装与同期下载渠道不重复计数。",
+              "source": "https://w.atwiki.jp/ercr/pages/1925.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-daiteikoku",
+          "title": "大帝国",
+          "originalTitle": "大帝国",
+          "chineseTitle": "大帝国",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Daiteikoku",
+            "大帝國"
+          ],
+          "firstYear": 2011,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "地域压制 SLG",
+          "genre": "架空宇宙战争／舰队经营",
+          "characters": [
+            "東郷毅",
+            "帝"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://www.alicesoft.com/daiteikoku/system.html",
+          "synopsis": "跃迁通道把分散的星域连成争夺中的宇宙。玩家扮演海军长官东乡毅，组织舰队并应对各国战争，在战略、战术及事件阶段推动剧情。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://www.alicesoft.com/daiteikoku/story.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-daiteikoku-v1",
+              "workId": "alicesoft-extra-daiteikoku",
+              "year": 2011,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "有（部分）",
+              "differences": "2011-04-28 日本 PC 原版发行；盒装与同期下载渠道不重复计数。",
+              "source": "https://www.alicesoft.com/daiteikoku/index.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-toushin3",
+          "title": "斗神都市3",
+          "originalTitle": "闘神都市III",
+          "chineseTitle": "斗神都市3",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Toushin Toshi III",
+            "斗神都市III",
+            "鬥神都市3"
+          ],
+          "firstYear": 2008,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "迷宫 RPG",
+          "genre": "竞技大会／角色成长",
+          "characters": [
+            "ナクト",
+            "羽純・フラメル",
+            "レメディア・カラー"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://www.alicesoft.com/lp/",
+          "synopsis": "纳克特与青梅竹马羽纯参加斗神大会，在迷宫中磨炼能力，挑战锦标赛强敌。竞技与人物关系交织，逐渐揭开斗神都市背后的秘密。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://www.alicesoft.com/toushin3/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-toushin3-v1",
+              "workId": "alicesoft-extra-toushin3",
+              "year": 2008,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "有（部分）",
+              "differences": "2008-11-28 日本 PC 原版发行；盒装与同期下载渠道不重复计数。",
+              "source": "https://www.alicesoft.com/toushin3/"
+            },
+            {
+              "id": "alicesoft-extra-toushin3-v2",
+              "workId": "alicesoft-extra-toushin3",
+              "year": 2014,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "廉价再版",
+              "voice": "有（部分）",
+              "differences": "2014-12-19。采用新绘封面；不是官网同时宣传的 3DS《斗神都市》。",
+              "source": "https://www.alicesoft.com/lp/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-pastelcontinue",
+          "title": "粉彩铃音 Continue",
+          "originalTitle": "ぱすてるチャイムContinue",
+          "chineseTitle": "粉彩铃音 Continue",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Pastel Chime Continue",
+            "彩色铃音Continue",
+            "粉红钟声Continue",
+            "ぱすチャC"
+          ],
+          "firstYear": 2005,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "恋爱育成 RPG",
+          "genre": "冒险者学园／迷宫探索",
+          "characters": [
+            "薙原ユウキ",
+            "竜胆リナ",
+            "斎香・Ｓ・ファルネーゼ"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://www.ymgal.games/ga10523",
+          "synopsis": "为了继续追寻冒险者之路，薙原勇气转入光绫学园。他与旧识重逢、结识新伙伴，在课程训练、探索和相处中迎来新的冒险生活。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://www.ymgal.games/ga10523",
+          "versions": [
+            {
+              "id": "alicesoft-extra-pastelcontinue-v1",
+              "workId": "alicesoft-extra-pastelcontinue",
+              "year": 2005,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "有（部分）",
+              "differences": "2005-06-17 日本 PC 原版发行；盒装与同期下载渠道不重复计数。",
+              "source": "https://www.ymgal.games/ga10523"
+            },
+            {
+              "id": "alicesoft-extra-pastelcontinue-v2",
+              "workId": "alicesoft-extra-pastelcontinue",
+              "year": 2009,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "廉价再版",
+              "voice": "有（部分）",
+              "differences": "2009-03-19。官网目录注明同捆《ぱすちゃC++》；这里只登记本篇的再发行，附赠 Fan Disc 尚待单独核对。",
+              "source": "https://www.alicesoft.com/pastel2/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-pastel3",
+          "title": "粉彩铃音3：束缚探索者",
+          "originalTitle": "パステルチャイム3 バインドシーカー",
+          "chineseTitle": "粉彩铃音3：束缚探索者",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Pastel Chime 3",
+            "Bind Seeker",
+            "彩色铃音3",
+            "粉彩铃音3"
+          ],
+          "firstYear": 2013,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "战术 RPG",
+          "genre": "冒险者学园／召唤战斗",
+          "characters": [
+            "海堂エイジ",
+            "リリアム・マッカバーン",
+            "エミリィ・シンクレア"
+          ],
+          "charactersNote": "保留日文角色名与来源对照；列出部分主要人物。",
+          "charactersSource": "https://w.atwiki.jp/ercr/pages/854.html",
+          "synopsis": "拥有秘密的海堂英二与新一代冒险者在学园相遇。伙伴借助被称作 Bind 的异界存在参与战斗，在青春生活与冒险任务之间展开故事。",
+          "notes": "按实际 RPG／SLG 玩法在专题单列；不属于纯文本指令或图文指令冒险。后续地区发行与移植版本尚未穷举。",
+          "source": "https://akibablog.blog.jp/archives/51383488.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-pastel3-v1",
+              "workId": "alicesoft-extra-pastel3",
+              "year": 2013,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "有",
+              "differences": "2013-02-15 日本 PC 原版发行；盒装与同期下载渠道不重复计数。",
+              "source": "https://w.atwiki.jp/ercr/pages/854.html"
+            }
+          ]
+        }
+      ],
+      "relatedSectionTitle": "RPG 与战略模拟：第五批 15 部",
+      "relatedCountLabel": "独立作品；再版及扩充合并",
+      "relatedIntro": "本区收录《兰斯》六作、《夏娃年代记》两作、《多娜多娜》、三部地区战略作品、《斗神都市3》及两部《粉彩铃音》。按实际玩法单列，不进入首页四类主库筛选；可用本页目录按中文名称定位。",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计 42 部；其中主库 27 部，跨类型区 15 部。</strong></p>"
     }
   ]
 }
