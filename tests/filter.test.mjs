@@ -209,12 +209,17 @@ test('Silkys Plus dossier, Chinese searches and original-brand separation',()=>{
 
 test('Alicesoft batches are searchable in Chinese and retain their Japanese titles',()=>{
   const found=filterCatalogue(data,{company:'Alicesoft'});
-  assert.equal(found.length,16);
+  assert.equal(found.length,27);
   for(const [query,id] of [['妻中蜜3','g482'],['妻みぐい3','g482'],['超昂神骑爱克希尔','g486'],['母烂漫','g487'],['夫人的恢复术','g488'],['超昂闪忍遥','g490'],['胸部消失的王国','g491'],['桃色守护者','g492'],['母娘乱馆','g493'],['馋嘴龙','g494'],['どらぺこ','g494'],['魅魔姐妹','g495'],['しまいま','g495'],['贪婪的仙人掌','g496'],['双教师同居生活','g497'],['だぶる先生','g497']]){
     assert.ok(filterCatalogue(data,{query}).some(({work})=>work.id===id),query);
   }
   assert.ok(found.every(({work})=>!['纯文本指令','图文指令'].includes(work.subcategory)));
-  assert.ok(found.every(({versions})=>versions.every(v=>visibleVoiceNote(v)==='')));
+  assert.equal(visibleVoiceNote(data.versions.find(v=>v.id==='g501-v1')),'无角色配音');
+  assert.equal(visibleVoiceNote(data.versions.find(v=>v.id==='g501-v2')),'');
+  assert.equal(visibleVoiceNote(data.versions.find(v=>v.id==='g499-v1')),'');
+  for (const [query,id] of [['Atlach-Nacha','g498'],['迪亚波利卡','g499'],['海之青','g500'],['妻中蜜','g501'],['超昂天使','g502'],['妻中蜜2','g503'],['雪尔·克莱尔','g504'],['魔女的赎罪','g505'],['妻榨','g506'],['只有我的保健室','g507'],['巫女的圣域','g508']]) {
+    assert.ok(filterCatalogue(data,{query,company:'Alicesoft'}).some(({work})=>work.id===id),query);
+  }
   const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='alicesoft');
   assert.deepEqual(new Set(dossier.workIds),new Set(found.map(({work})=>work.id)));
 });

@@ -7667,10 +7667,10 @@
     {
       "id": "alicesoft",
       "name": "Alicesoft",
-      "checkedAt": "2026-10-01",
-      "status": "第三批完成：累计十六部叙事作品",
-      "scope": "分批整理：首批八部、第二批五部、第三批三部，累计十六部叙事 ADV。第三批补入 2004—2007 年《しまいま。》《よくばりサボテン》《だぶる先生らいふっ》，补充校园恋爱企划线。其余旧作、RPG 与战略模拟仍需逐项整理；本页不是厂商全部作品目录。不新增纯文本指令或图文指令游戏。",
-      "versionScope": "十六部作品、二十一条所核版本。《しまいま。》保留合集首发与独立免费版；《だぶる先生らいふっ》保留盒装与下载发行。《母娘乱馆》区分先行下载和一般发行，《夫人的恢复术》双篇盒装记入各自作品。需要本体的追加剧情记入作品说明。仅确认无角色配音时显示提示。",
+      "checkedAt": "2026-10-02",
+      "status": "第四批完成：累计二十七部叙事作品",
+      "scope": "分批整理：本批新增十一部不重复的叙事及养成 ADV，累计二十七部。范围扩展到 1997—2022 年；其余旧作和 RPG／战略游戏继续逐项整理，本页不是厂商全目录。不新增纯文本指令或图文指令游戏。",
+      "versionScope": "二十七部作品、三十六条所核版本。本批十一部、十五条版本；合集转独立发行、廉价版、追加语音版及重制版合并到原作。未核准年份的其他数字版不凑数；配音状态未核实的版本不显示无配音提示。",
       "publisherNote": "Alicesoft 长期并行开发 RPG、战略模拟和不同规模的 ADV。本专题先核对叙事 ADV；养成、战斗和道具分支均按官网说明标出，后续继续整理其他年代与跨类型作品。",
       "workIds": [
         "g482",
@@ -7688,7 +7688,18 @@
         "g494",
         "g495",
         "g496",
-        "g497"
+        "g497",
+        "g498",
+        "g499",
+        "g500",
+        "g501",
+        "g502",
+        "g503",
+        "g504",
+        "g505",
+        "g506",
+        "g507",
+        "g508"
       ],
       "publisherWorkIds": [
         "g482",
@@ -7706,15 +7717,26 @@
         "g494",
         "g495",
         "g496",
-        "g497"
+        "g497",
+        "g498",
+        "g499",
+        "g500",
+        "g501",
+        "g502",
+        "g503",
+        "g504",
+        "g505",
+        "g506",
+        "g507",
+        "g508"
       ],
-      "catalogueEntryCount": 16,
+      "catalogueEntryCount": 27,
       "source": "https://www.alicesoft.com/game/index.html",
-      "sectionTitle": "三批十六部 ADV：2004—2022",
+      "sectionTitle": "四批二十七部作品：1997—2022",
       "overviewLabel": "分批核对的叙事作品",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "首批八部、第二批五部、第三批三部，附后续范围与版本处理。",
-      "auditNote": "官网现售清单不能代替全时代首发目录。当前已核对十六部作品；其余旧作、短篇与跨类型游戏继续分批整理。",
+      "auditLabel": "第四批新增十一部，与主数据库及所有专题的已建档作品去重。",
+      "auditNote": "当前已核对二十七部作品。专题和检索页引用同一作品 ID，不是两份独立作品；其余旧作与跨类型游戏继续分批整理。",
       "entries": [
         {
           "title": "妻みぐい3",
@@ -7864,7 +7886,7 @@
           "title": "ランス系列／闘神都市系列／イブニクル系列",
           "status": "后续批次：RPG",
           "workIds": [],
-          "reason": "官网多列为 RPG、ADV+RPG 或战略游戏；它们具有重要叙事内容，后续应按实际玩法列在跨类型附录，不误称为纯视觉小说。尚未计入本专题已核对的十六部。",
+          "reason": "官网多列为 RPG、ADV+RPG 或战略游戏；它们具有重要叙事内容，后续应按实际玩法列在跨类型附录，不误称为纯视觉小说。尚未计入本专题已核对的二十七部。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -7890,11 +7912,110 @@
           ],
           "reason": "两部独立下载游戏合装发行；分别在两个作品下记录版本，不另造第三部作品。",
           "source": "https://www.alicesoft.com/okusama/"
+        },
+        {
+          "title": "アトラク＝ナクア",
+          "status": "第四批进入主数据库",
+          "workIds": [
+            "g498"
+          ],
+          "reason": "独立作品；已核对剧情、角色、首发及玩法。中文检索名保留原名对照，版本合并到同一作品。",
+          "source": "https://ja.wikipedia.org/wiki/アトラク＝ナクア_(ゲーム)"
+        },
+        {
+          "title": "DiaboLiQuE－デアボリカ－",
+          "status": "第四批进入主数据库",
+          "workIds": [
+            "g499"
+          ],
+          "reason": "独立作品；已核对剧情、角色、首发及玩法。中文检索名保留原名对照，版本合并到同一作品。",
+          "source": "https://ja.wikipedia.org/wiki/DiaboLiQuE"
+        },
+        {
+          "title": "SeeIn青 -シーンAO-",
+          "status": "第四批进入主数据库",
+          "workIds": [
+            "g500"
+          ],
+          "reason": "独立作品；已核对剧情、角色、首发及玩法。中文检索名保留原名对照，版本合并到同一作品。",
+          "source": "https://www.ymgal.games/ga14377"
+        },
+        {
+          "title": "妻みぐい",
+          "status": "第四批进入主数据库",
+          "workIds": [
+            "g501"
+          ],
+          "reason": "独立作品；已核对剧情、角色、首发及玩法。中文检索名保留原名对照，版本合并到同一作品。",
+          "source": "https://www.alicesoft.com/tsuma/index.html"
+        },
+        {
+          "title": "超昂天使エスカレイヤー",
+          "status": "第四批进入主数据库",
+          "workIds": [
+            "g502"
+          ],
+          "reason": "独立作品；已核对剧情、角色、首发及玩法。中文检索名保留原名对照，版本合并到同一作品。",
+          "source": "https://www.alicesoft.com/escalayer/chara.html"
+        },
+        {
+          "title": "妻みぐい2",
+          "status": "第四批进入主数据库",
+          "workIds": [
+            "g503"
+          ],
+          "reason": "独立作品；已核对剧情、角色、首发及玩法。中文检索名保留原名对照，版本合并到同一作品。",
+          "source": "https://www.alicesoft.com/tsuma2/index.html"
+        },
+        {
+          "title": "シェル・クレイル ～愛しあう逃避の中で～",
+          "status": "第四批进入主数据库",
+          "workIds": [
+            "g504"
+          ],
+          "reason": "独立作品；已核对剧情、角色、首发及玩法。中文检索名保留原名对照，版本合并到同一作品。",
+          "source": "https://enquete.alicesoft.com/lcc/index2.html"
+        },
+        {
+          "title": "魔女の贖罪",
+          "status": "第四批进入主数据库",
+          "workIds": [
+            "g505"
+          ],
+          "reason": "独立作品；已核对剧情、角色、首发及玩法。中文检索名保留原名对照，版本合并到同一作品。",
+          "source": "https://www.alicesoft.com/majo/index.html"
+        },
+        {
+          "title": "妻しぼり",
+          "status": "第四批进入主数据库",
+          "workIds": [
+            "g506"
+          ],
+          "reason": "独立作品；已核对剧情、角色、首发及玩法。中文检索名保留原名对照，版本合并到同一作品。",
+          "source": "https://www.alicesoft.com/tsumasibori/index.html"
+        },
+        {
+          "title": "僕だけの保健室",
+          "status": "第四批进入主数据库",
+          "workIds": [
+            "g507"
+          ],
+          "reason": "独立作品；已核对剧情、角色、首发及玩法。中文检索名保留原名对照，版本合并到同一作品。",
+          "source": "https://www.alicesoft.com/hoken/index.html"
+        },
+        {
+          "title": "しゃーまんず・さんくちゅあり－巫女の聖域－",
+          "status": "第四批进入主数据库",
+          "workIds": [
+            "g508"
+          ],
+          "reason": "独立作品；已核对剧情、角色、首发及玩法。中文检索名保留原名对照，版本合并到同一作品。",
+          "source": "https://www.alicesoft.com/mankuchu/index.html"
         }
       ],
-      "description": "Alicesoft 厂商专题：三批十六部叙事 ADV、二十一条版本，中文检索名、主要角色及有来源的创作风格与时期变化。",
+      "description": "Alicesoft 厂商专题：二十七部叙事及养成 ADV、三十六条版本，含中文检索名、角色和版本来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft 同时发展长篇 RPG、地区经营战略与成人向 ADV。已核对的十六部 ADV 也不只有阅读选项：养成日程、地图移动、道具解锁分支与纯剧情选择并存。以下分期是结合官网玩法和产品资料的编辑归纳，不把玩法差异推断为未经证实的市场原因。",
+        "thesis": "Alicesoft 同时发展长篇 RPG、地区经营战略与成人向 ADV。已核对的二十七部 ADV 也不只有阅读选项：养成日程、地图移动、道具解锁分支与纯剧情选择并存。以下分期是结合官网玩法和产品资料的编辑归纳，不把玩法差异推断为未经证实的市场原因。",
         "phases": [
           {
             "period": "1989—2005",
@@ -7902,6 +8023,13 @@
             "analysis": "早期《兰斯》及后来的《斗神都市》将世界探索、战斗与角色事件结合；同时另有短篇集和不同主题的 ADV。首发年代的具体版本、玩法与人物尚待在下一批细查，故这里仅用于说明品牌历史的多样性。",
             "basis": "编辑观察",
             "source": "https://www.alicesoft.com/information/2024/entry003466.html"
+          },
+          {
+            "period": "1997—2003",
+            "heading": "传奇与情感叙事的不同形式",
+            "analysis": "《Atlach-Nacha》集中描写异类与人的关系，《DiaboLiQuE》以轮回与视点切换展开故事；《SeeIn青》和《シェル・クレイル》则结合地点选择推进感情事件。这是已收录作品的形式比较，不把不同创作者的选择解释为整个公司的统一转向。",
+            "basis": "编辑观察",
+            "source": "https://ja.wikipedia.org/wiki/DiaboLiQuE"
           },
           {
             "period": "2004—2006",
