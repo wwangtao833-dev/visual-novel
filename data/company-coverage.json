@@ -7668,10 +7668,10 @@
       "id": "alicesoft",
       "name": "Alicesoft",
       "checkedAt": "2026-10-04",
-      "status": "第九批完成：专题累计 102 部作品",
-      "scope": "已整理 102 部 Alicesoft 作品：原主库关联作品27部，专题补充作品75部。第九批只扩充专题，与主库及全部专题去重；不新增纯文本指令或图文指令冒险。原型、合集及未核实细节在条目内注明，厂商全目录尚未完成。",
-      "versionScope": "专题累计 139 条版本。本批新增15部作品、15条版本；短篇集整体计数，再版及移植归入对应作品。日期冲突、配音与操作细节未核实处逐条注明。",
-      "publisherNote": "Alicesoft 并行开发叙事 ADV、RPG 和地区战略模拟。本专题分别展示其实际玩法，并以中文名称、日文原名、剧情、角色及来源组织阅读。",
+      "status": "第十批完成：专题累计 117 部作品（含旗下品牌）",
+      "scope": "已整理117部作品：Alicesoft本品牌111部、旗下Alice Blue 6部；主库关联27部，专题补充90部。第十批仅扩充专题，与主库及全部专题去重。传统纯文本或图文指令冒险不随合集纳入；玩法尚未完整核实处逐条注明，厂商全目录未完成。",
+      "versionScope": "专题累计159条版本。本批新增15部作品、20条版本；连载分卷、再配布及移植归同一作品，具有新剧情的Fan Disc单列。未核实发行与配音细节逐条说明。",
+      "publisherNote": "Alicesoft并行开发叙事ADV、养成、RPG与SLG；旗下Alice Blue另有王子冒险、和风养成与人物关系作品。本专题按实际发行品牌和玩法逐条注明，中文名称为编辑译名。",
       "workIds": [
         "g482",
         "g483",
@@ -7730,13 +7730,13 @@
         "g507",
         "g508"
       ],
-      "catalogueEntryCount": 102,
+      "catalogueEntryCount": 117,
       "source": "https://www.alicesoft.com/game/index.html",
       "sectionTitle": "叙事及养成 ADV：27 部",
-      "overviewLabel": "已核对作品（含 RPG／SLG）",
+      "overviewLabel": "已核对作品（含旗下品牌及RPG／SLG）",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "第九批新增15部作品、15条版本；仅更新本专题。",
-      "auditNote": "专题累计 102 部作品、139 条版本：主库关联27部／36条，专题补充区75部／103条。首页主数据库未改动，仍为505部／922条。",
+      "auditLabel": "第十批新增15部作品、20条版本，其中Alice Blue 6部；仅更新本专题。",
+      "auditNote": "专题累计117部作品、159条版本（Alicesoft本品牌111部、Alice Blue 6部）：主库关联27部／36条，专题补充区90部／123条。首页主数据库未改动，仍为505部／922条。",
       "entries": [
         {
           "title": "妻みぐい3",
@@ -7886,7 +7886,7 @@
           "title": "其余旧作 ADV（1989—2015）",
           "status": "后续批次：待逐项整理",
           "workIds": [],
-          "reason": "第九批补入独立外传、阅读短篇与短篇集；D.P.S.原版及SG系列、Dr.STOP!等传统指令冒险不收录。标题近似的2000及2004年新阅读剧本分别核对；其余旧作继续整理，不将全目录标为完成。",
+          "reason": "第十批补入独立短篇、连载与养成作品；传统D.P.S.、SG及Dr.STOP!指令冒险不随合集纳入。《[扉] -TOBIRA-》、AliceNoir《Nor》《翡翠の眸》等剧情与操作资料仍不足，暂不补入；其余目录继续核对。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -8152,7 +8152,7 @@
           "title": "其余 RPG／SLG、Fan Disc 及移植",
           "status": "后续批次待核对",
           "workIds": [],
-          "reason": "第九批补入《乙女战记》、两部独立塔探索RPG及含新增剧情的Fan Disc；合集内短篇整体计数。其他RPG、发行版本与未核实资料继续核对，不把再版、纯鉴赏或演示影片算成新作品。",
+          "reason": "第十批补入免费忍者RPG外传与Alice Blue王子系列等；旗下品牌明确注明，新增剧情Fan Disc单列，连载分卷、再配布及改编移植归同一作品。其余作品与机种发行仍待整理。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -8754,11 +8754,161 @@
           ],
           "reason": "与主库及全部专题的中文名、原名及别名去重；新增独立剧本单列，短篇集按完整标题计一部，原型性质明确标注；再版与移植不重复计作品。",
           "source": "https://www.alicesoft.com/support/evenicle.html"
+        },
+        {
+          "title": "鈴宮刑務娼館",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-suzumiyakeimusyoukan"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://www.alicesoft.com/yakata7/suzu/index.html"
+        },
+        {
+          "title": "お嬢様をいいなりにするゲーム",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-ojousamaiinari"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://www.alicesoft.com/iinari/game.html"
+        },
+        {
+          "title": "はるうられ -校内赤線区域-",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-haruurare"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://www.alicesoft.com/alice2010/cnt02.html"
+        },
+        {
+          "title": "学園漂流戦記",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-gakuenhyouryuusenki"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://www.ymgal.games/ga26397"
+        },
+        {
+          "title": "恋のおわり",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-koinoowari"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://www.kungal.com/galgame/28696"
+        },
+        {
+          "title": "戦国ランス～三匹が斬ったり突いたり燃やしたり -slash!thrust!burn!-",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-sanbikislashthrustburn"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://blog.alicesoft.com/archives/3457008.html"
+        },
+        {
+          "title": "あゆみちゃん物語",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-ayumichanmonogatari"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/4050.html"
+        },
+        {
+          "title": "めぐみちゃん物語",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-megumichanmonogatari"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/24142421.html"
+        },
+        {
+          "title": "いけないかつみ先生 ～患者さんおいたはだめよん～",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-ikenaikatsumisensei"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://advgamer.com/ikenai-katsumi-sensei/"
+        },
+        {
+          "title": "王子さまLv1",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-oujisamalv1"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://wikiwiki.jp/blgame/王子さまLv1"
+        },
+        {
+          "title": "王子さまLv1.5",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-oujisamalv15"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://wikiwiki.jp/blgame/王子さまLv1.5"
+        },
+        {
+          "title": "王子さまLv2",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-oujisamalv2"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://wikiwiki.jp/blgame/王子さまLv2"
+        },
+        {
+          "title": "隠れ月",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-kakurezuki"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://wikiwiki.jp/blgame/隠れ月"
+        },
+        {
+          "title": "俺の下であがけ",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-orenoshitadeagake"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://wikiwiki.jp/blgame/俺の下であがけ"
+        },
+        {
+          "title": "楽園行",
+          "status": "第十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rakuenyuki"
+          ],
+          "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
+          "source": "https://wikiwiki.jp/blgame/楽園行"
         }
       ],
-      "description": "Alicesoft 作品专题：102 部作品、139 条版本，含中文名、原名、剧情、角色、玩法及来源。",
+      "description": "Alicesoft及旗下Alice Blue作品专题：117部作品、159条版本，含中文名、原名、剧情、角色、玩法与来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft 的叙事与玩法长期并行发展。本专题的 102 部作品同时包括阅读及养成 ADV、迷宫 RPG、战术 RPG 和地域战略。下列比较依据已核对的作品系统，不将某一企划线视作厂商整体转型。",
+        "thesis": "Alicesoft的叙事与玩法长期并行发展。本专题共117部作品，其中111部为Alicesoft本品牌、6部为旗下Alice Blue，涵盖阅读与养成ADV、迷宫RPG、战术RPG和地域战略。下列比较依据已核对系统；不同品牌与创作者的选择不能视为厂商整体统一转型。",
         "phases": [
           {
             "period": "1989—2005",
@@ -12006,12 +12156,650 @@
               "workId": "alicesoft-extra-evenicleapocrypha"
             }
           ]
+        },
+        {
+          "id": "alicesoft-extra-suzumiyakeimusyoukan",
+          "title": "铃宫刑务馆",
+          "chineseTitle": "铃宫刑务馆",
+          "originalTitle": "鈴宮刑務娼館",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Suzumiya Keimusyoukan",
+            "Suzumiya Keimu Shoukan"
+          ],
+          "firstYear": 2004,
+          "category": "叙事／养成冒险",
+          "subcategory": "选择分支 ADV",
+          "genre": "刑务设施／人际关系",
+          "characters": [
+            "剣菱雅人",
+            "鈴宮蜜子",
+            "吉野川さゆり",
+            "倉敷瑞希",
+            "加賀屋透子",
+            "根室麗華"
+          ],
+          "charactersNote": "仅列已核对的部分角色，保留来源中的日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/yakata7/suzu/index.html",
+          "synopsis": "刑务官剑菱雅人与所长铃宫蜜子有着旧日渊源。面对设施中的难题，他与同僚及收监者建立不同关系，个人感情也卷入其中。",
+          "notes": "官网明确为选择选项推进的ADV，不因刑务设施舞台而标成经营SLG。属于《アリスの館7》内具有独立剧本的作品，合集不另计作品。",
+          "source": "https://www.alicesoft.com/yakata7/suzu/index.html",
+          "versions": [
+            {
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "合集首发",
+              "voice": "有",
+              "differences": "2004-12-17《アリスの館7》Windows收录；官网提供人物语音示例，配音覆盖范围未逐段核实。",
+              "source": "https://www.ymgal.games/oa10009",
+              "id": "alicesoft-extra-suzumiyakeimusyoukan-v1",
+              "workId": "alicesoft-extra-suzumiyakeimusyoukan"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-ojousamaiinari",
+          "title": "让大小姐听话的游戏",
+          "chineseTitle": "让大小姐听话的游戏",
+          "originalTitle": "お嬢様をいいなりにするゲーム",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Ojou-sama wo Iinari ni Suru Game"
+          ],
+          "firstYear": 2007,
+          "category": "叙事／养成冒险",
+          "subcategory": "参数养成 ADV＋卡牌预测",
+          "genre": "兄妹生活／大小姐",
+          "characters": [
+            "村田和也",
+            "諏訪エミリ",
+            "鷲塚理恵子",
+            "来島梢",
+            "村田千果"
+          ],
+          "charactersNote": "仅列已核对的部分角色，保留来源中的日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/iinari/character.html",
+          "synopsis": "父母去世后，村田和也为维持自己与妹妹千果的生活，承担照顾恩人孙女诹访艾米莉的工作。忍让中的他发现了新的事情，妹妹提出的计划也改变了双方关系。",
+          "notes": "官网说明为九周日程：平日先预测卡牌数值大小获得资源，再选择满足参数条件的行动；周日触发特殊事件。养成与剧情选择相互关联。",
+          "source": "https://www.alicesoft.com/iinari/game.html",
+          "versions": [
+            {
+              "year": 2007,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "Windows首发",
+              "voice": "有",
+              "differences": "2007-10-05发行；官网标注主角以外全语音。",
+              "source": "https://www.alicesoft.com/iinari/index.html",
+              "id": "alicesoft-extra-ojousamaiinari-v1",
+              "workId": "alicesoft-extra-ojousamaiinari"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-haruurare",
+          "title": "春之交易：校内暗区",
+          "chineseTitle": "春之交易：校内暗区",
+          "originalTitle": "はるうられ -校内赤線区域-",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "はるうられ",
+            "Haru Urare",
+            "Haru Urare -Kounai Akasen Kuiki-"
+          ],
+          "firstYear": 2009,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "人员与资金经营 SLG",
+          "genre": "黑暗校园／社团内幕",
+          "characters": [
+            "佐藤直樹",
+            "春風南",
+            "神園すみれ"
+          ],
+          "charactersNote": "仅列已核对的部分角色，保留来源中的日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/alice2010/cnt02.html",
+          "synopsis": "佐藤直树对自己所属社团的活动抱有疑问，又得知青梅竹马春风南正在调查内情。故事将社团的黑暗制度、人物选择与经营结果交织在一起。",
+          "notes": "实际系统为人员安排与资金经营SLG，按有叙事内容的跨类型作品收录。简介仅概述机构与人物冲突；不将黑暗设定中的行为写成玩法攻略。",
+          "source": "https://www.alicesoft.com/alice2010/cnt02.html",
+          "versions": [
+            {
+              "year": 2009,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "合集首发",
+              "voice": "有",
+              "differences": "2009-12-18《アリス2010》收录；官网提供角色语音，覆盖范围未逐段核实。",
+              "source": "https://www.alicesoft.com/alice2010/cnt02.html",
+              "id": "alicesoft-extra-haruurare-v1",
+              "workId": "alicesoft-extra-haruurare"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-gakuenhyouryuusenki",
+          "title": "学园漂流战记",
+          "chineseTitle": "学园漂流战记",
+          "originalTitle": "学園漂流戦記",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "学園漂流戦記 第1話",
+            "学園漂流戦記 第2話",
+            "Gakuen Hyouryuu Senki",
+            "Gakuen Drifting Story"
+          ],
+          "firstYear": 1999,
+          "category": "叙事／养成冒险",
+          "subcategory": "分卷连载叙事 ADV",
+          "genre": "海上旅行／岛屿漂流",
+          "characters": [
+            "航海旅行中的主人公（姓名未核实）",
+            "Suzuki Kaori（姓名汉字未核实）",
+            "同行少女（姓名未核实）"
+          ],
+          "charactersNote": "资料以罗马字列出Suzuki Kaori，未擅自补写日文汉字；其他角色仅列已知身份。",
+          "charactersSource": "https://www.ymgal.games/ga26397",
+          "synopsis": "主人公与同学参加海上旅行，心中牵挂着同学Suzuki Kaori。意外之后，他在陌生海岸醒来；续篇中，他与两名少女继续探索神秘岛屿。",
+          "notes": "第1话与第2话是同一连载，合计一部、保留两条发行记录。具体操作和分支尚未完整核实，不沿用早期同题材作品的指令系统；剧情设定年份不当作发行年份。",
+          "source": "https://www.ymgal.games/ga26397",
+          "versions": [
+            {
+              "year": 1999,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "第1话配布",
+              "voice": "未核实",
+              "differences": "1999-07-01 AliceCD 1.02收录第1话；后续同话再配布不另计作品。",
+              "source": "https://www.ymgal.games/ga26397",
+              "id": "alicesoft-extra-gakuenhyouryuusenki-v1",
+              "workId": "alicesoft-extra-gakuenhyouryuusenki"
+            },
+            {
+              "year": 2000,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "第2话配布",
+              "voice": "未核实",
+              "differences": "2000-04-13 AliceCD 2.00收录第2话；本条为连载后续分卷。",
+              "source": "https://www.ymgal.games/ga26410",
+              "id": "alicesoft-extra-gakuenhyouryuusenki-v2",
+              "workId": "alicesoft-extra-gakuenhyouryuusenki"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-koinoowari",
+          "title": "恋之终焉",
+          "chineseTitle": "恋之终焉",
+          "originalTitle": "恋のおわり",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Koi no Owari"
+          ],
+          "firstYear": 1998,
+          "category": "叙事／养成冒险",
+          "subcategory": "独立叙事短篇",
+          "genre": "暗恋／信任破裂",
+          "characters": [
+            "暗恋同班同学的主人公（姓名未核实）",
+            "主人公暗恋的同学（姓名未核实）"
+          ],
+          "charactersNote": "剧情资料确认两人的同班与暗恋关系，人物姓名未核实。",
+          "charactersSource": "https://www.kungal.com/galgame/28696",
+          "synopsis": "主人公暗恋同班同学，却偶然看到了与自己想象截然不同的一面。原本的恋慕与信任遭受冲击，故事由这一发现展开。",
+          "notes": "按独立短篇收录；具体分歧数量及网页、Windows配布先后未完整核实，不据平台记录推断同时首发。",
+          "source": "https://www.kungal.com/galgame/28696",
+          "versions": [
+            {
+              "year": 1998,
+              "platform": "Website／Windows（先后未核实）",
+              "publisher": "Alicesoft",
+              "kind": "早期公开版",
+              "voice": "未核实",
+              "differences": "资料记1998-03-26；列有Website与Windows，平台发行先后及配音未核实，暂合列一条。",
+              "source": "https://www.ymgal.games/ga37148",
+              "id": "alicesoft-extra-koinoowari-v1",
+              "workId": "alicesoft-extra-koinoowari"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-sanbikislashthrustburn",
+          "title": "战国兰斯外传：三人乱斩乱刺乱烧",
+          "chineseTitle": "战国兰斯外传：三人乱斩乱刺乱烧",
+          "originalTitle": "戦国ランス～三匹が斬ったり突いたり燃やしたり -slash!thrust!burn!-",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "三匹が斬ったり突いたり燃やしたり",
+            "三匹が斬ったり突いたり燃やしたり -slash!thrust!burn!-",
+            "Sanbiki ga Kittari Tsuitari Moyashitari"
+          ],
+          "firstYear": 2008,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "棋盘探索与卡牌 RPG",
+          "genre": "忍者伙伴／寻刀",
+          "characters": [
+            "見当かなみ",
+            "鈴女",
+            "犬飼",
+            "千姫"
+          ],
+          "charactersNote": "仅列已核对的部分角色，保留来源中的日文姓名。",
+          "charactersSource": "https://soundwing.hatenablog.com/entry/20090603/1244045768",
+          "synopsis": "在战国事件后的JAPAN，见当加奈美为了找回丢失的首切刀展开旅程。忍者伙伴与熟悉的人物卷入其中，寻物行动以新的外传事件推进。",
+          "notes": "独立免费外传，使用卡牌决定棋盘移动，并结合RPG战斗；具有新增剧情，与《战国兰斯》本篇区分。后续官方下载再开放归同一作品。",
+          "source": "https://blog.alicesoft.com/archives/3457008.html",
+          "versions": [
+            {
+              "year": 2008,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "免费外传首发",
+              "voice": "未核实",
+              "differences": "资料记2008-04-11免费配布；配音未核实。",
+              "source": "https://www.ymgal.games/ga39548",
+              "id": "alicesoft-extra-sanbikislashthrustburn-v1",
+              "workId": "alicesoft-extra-sanbikislashthrustburn"
+            },
+            {
+              "year": 2012,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "官方再配布",
+              "voice": "未核实",
+              "differences": "2012-06-17官方重新开放下载；为同一外传再配布，不计新作品。",
+              "source": "https://blog.alicesoft.com/archives/3457008.html",
+              "id": "alicesoft-extra-sanbikislashthrustburn-v2",
+              "workId": "alicesoft-extra-sanbikislashthrustburn"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-ayumichanmonogatari",
+          "title": "步的故事",
+          "chineseTitle": "步的故事",
+          "originalTitle": "あゆみちゃん物語",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Ayumi-chan Monogatari"
+          ],
+          "firstYear": 1993,
+          "category": "叙事／养成冒险",
+          "subcategory": "开放式参数养成 ADV",
+          "genre": "交往日常／状态变化",
+          "characters": [
+            "あゆみ（姓未核实）",
+            "与步交往的主人公（姓名未核实）"
+          ],
+          "charactersNote": "保留女主角名字あゆみ；姓氏及主人公姓名未在本次来源中核实。",
+          "charactersSource": "https://w.atwiki.jp/gcmatome/pages/4050.html",
+          "synopsis": "主人公与步围绕日常行动和交往度过时间，行动选择与状态变化解锁不同事件。作品强调反复进行的关系模拟，而非以完整主线结局收束的故事。",
+          "notes": "明确标为开放式养成：原版没有通常意义上的结局，不能当作完整阅读视觉小说。原型、附赠短篇与移植不拆成新作品；本次仅记录核对到的原版发行。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/4050.html",
+          "versions": [
+            {
+              "year": 1993,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "PC-98首发",
+              "voice": "未核实",
+              "differences": "1993-09-15 PC-9801发行；部分数据库日期不同，采用游戏目录所列日期。其他机种及配音未逐版核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/4050.html",
+              "id": "alicesoft-extra-ayumichanmonogatari-v1",
+              "workId": "alicesoft-extra-ayumichanmonogatari"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-megumichanmonogatari",
+          "title": "惠的故事",
+          "chineseTitle": "惠的故事",
+          "originalTitle": "めぐみちゃん物語",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Megumi-chan Monogatari",
+            "ＤＰＳ特別編 めぐみちゃん物語"
+          ],
+          "firstYear": 1995,
+          "category": "叙事／养成冒险",
+          "subcategory": "第三者视角叙事短篇",
+          "genre": "欺凌／旁观视角",
+          "characters": [
+            "めぐみ（姓未核实）",
+            "造成其困境的人物（姓名未核实）"
+          ],
+          "charactersNote": "开发者回顾确认少女的眼镜、怯弱与遭欺凌设定；姓氏及其他人物姓名未核实。",
+          "charactersSource": "https://hannylaboratory.blogspot.com/2021/10/blog-post_21.html",
+          "synopsis": "一名怯弱的眼镜少女被人抓住弱点，日常生活不断遭受侵扰。玩家以第三者视角观看她的困境，作品以旁观者与受害者之间的距离呈现黑暗故事。",
+          "notes": "《D.P.S.全部》新增的特別篇，具有新剧情，旧D.P.S.及SG指令冒险不随合集一并收录。游戏内说明确认第三者旁观视角；具体操作未完整核实，不标成参数养成或沿用旧作系统。",
+          "source": "https://alicecottage1989.blog.jp/archives/24142421.html",
+          "versions": [
+            {
+              "year": 1995,
+              "platform": "PC-98／FM TOWNS／Windows 3.1（先后未核实）",
+              "publisher": "Alicesoft",
+              "kind": "合集新增篇",
+              "voice": "未核实",
+              "differences": "1995-11-10随《D.P.S.全部》发行；PC-98、FM TOWNS与Windows 3.1逐机种先后未完整核实，暂合列一条。配音未核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/23969795.html",
+              "id": "alicesoft-extra-megumichanmonogatari-v1",
+              "workId": "alicesoft-extra-megumichanmonogatari"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-ikenaikatsumisensei",
+          "title": "胜美医生：患者可别调皮哟",
+          "chineseTitle": "胜美医生：患者可别调皮哟",
+          "originalTitle": "いけないかつみ先生 ～患者さんおいたはだめよん～",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Ikenai Katsumi Sensei",
+            "いけないかつみ先生"
+          ],
+          "firstYear": 1997,
+          "category": "叙事／养成冒险",
+          "subcategory": "地点移动与事件 ADV",
+          "genre": "大阪街头／夸张喜剧",
+          "characters": [
+            "かつみ",
+            "まろん"
+          ],
+          "charactersNote": "角色卡同时列出かつみ与まろん；保留名字，不推断まろん的职业。",
+          "charactersSource": "https://www.suruga-ya.jp/product/detail/G3491570",
+          "synopsis": "内科医胜美在大阪街头四处行动，与马龙等人物相遇。通过选择地点触发不同事件，城市中的轻松插曲构成自由推进的喜剧经历。",
+          "notes": "评测明确为移动式ADV，地点选择用于触发事件；不写成RPG、医院经营或传统“查看／交谈／使用”指令谜题。与D.P.S.中的医师短篇区分为独立新作。",
+          "source": "https://advgamer.com/ikenai-katsumi-sensei/",
+          "versions": [
+            {
+              "year": 1997,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "用户俱乐部发行",
+              "voice": "未核实",
+              "differences": "1997年用户俱乐部邮购Windows发行；具体首发日及配音未在本次来源中完整核实。",
+              "source": "https://advgamer.com/ikenai-katsumi-sensei/",
+              "id": "alicesoft-extra-ikenaikatsumisensei-v1",
+              "workId": "alicesoft-extra-ikenaikatsumisensei"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-oujisamalv1",
+          "title": "王子殿下Lv1",
+          "chineseTitle": "王子殿下Lv1",
+          "originalTitle": "王子さまLv1",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "王子さまLV1",
+            "Ouji-sama Lv1",
+            "王子殿下等级1"
+          ],
+          "firstYear": 2001,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "迷宫探索 RPG",
+          "genre": "王子与侍从／冒险",
+          "characters": [
+            "カナン",
+            "セレスト",
+            "リグナム"
+          ],
+          "charactersNote": "仅列已核对的部分角色，保留来源中的日文姓名。",
+          "charactersSource": "https://wikiwiki.jp/blgame/王子さまLv1",
+          "synopsis": "小国鲁基乌斯的第二王子卡南憧憬冒险者祖先，带着侍从塞雷斯特走进地下迷宫。王子送出的诅咒脚环却让强大的侍从降到等级1，两人必须从头积累力量。",
+          "notes": "发行品牌：Alice Blue（Alicesoft旗下品牌）。队伍探索迷宫并管理饥饿等状态。PC追加内容需本篇，不能当作独立新作；PS移植归同一作品，PC与PS的配音分别记录。",
+          "source": "https://wikiwiki.jp/blgame/王子さまLv1",
+          "versions": [
+            {
+              "year": 2001,
+              "platform": "Windows",
+              "publisher": "Alice Blue",
+              "kind": "Windows首发",
+              "voice": "无",
+              "differences": "2001-06-22发行，PC版无角色配音；需本篇的追加盘不拆分计作品。",
+              "source": "https://wikiwiki.jp/blgame/王子さまLv1",
+              "id": "alicesoft-extra-oujisamalv1-v1",
+              "workId": "alicesoft-extra-oujisamalv1"
+            },
+            {
+              "year": 2002,
+              "platform": "PlayStation",
+              "publisher": "KID",
+              "kind": "PlayStation移植",
+              "voice": "未核实",
+              "differences": "2002-03-20 KID发行PS版；移植版配音覆盖范围本次未核实。",
+              "source": "https://www.famitsu.com/game/title/18994/page/1",
+              "id": "alicesoft-extra-oujisamalv1-v2",
+              "workId": "alicesoft-extra-oujisamalv1"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-oujisamalv15",
+          "title": "王子殿下Lv1.5",
+          "chineseTitle": "王子殿下Lv1.5",
+          "originalTitle": "王子さまLv1.5",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "王子さまLV1.5",
+            "王子さまLv1.5 ～王子さまのたまご～",
+            "Ouji-sama Lv1.5"
+          ],
+          "firstYear": 2002,
+          "category": "叙事／养成冒险",
+          "subcategory": "后日谈阅读＋养成小游戏合集",
+          "genre": "王子与侍从／Fan Disc",
+          "characters": [
+            "カナン",
+            "セレスト",
+            "セレストの父（姓名未核实）"
+          ],
+          "charactersNote": "仅列已核对的部分角色，保留来源中的日文姓名。",
+          "charactersSource": "https://wikiwiki.jp/blgame/王子さまLv1.5",
+          "synopsis": "迷宫冒险一个月后，塞雷斯特的妹妹遇到婚事阻碍，卡南与侍从为此行动。合集同时收录魔法变化引发的王子养成小品，以及其他小游戏。",
+          "notes": "发行品牌：Alice Blue（Alicesoft旗下品牌）。具有新增后日谈的Fan Disc，四个子程序合计一部，不拆分为四部作品。PC故事部分为单线阅读；PS移植追加拼图内容，仍归同一作品。",
+          "source": "https://wikiwiki.jp/blgame/王子さまLv1.5",
+          "versions": [
+            {
+              "year": 2002,
+              "platform": "Windows",
+              "publisher": "Alice Blue",
+              "kind": "Fan Disc首发",
+              "voice": "无",
+              "differences": "2002-02-22 Windows发行；含《1ヵ月後》后日谈、《1/16》养成与两款小游戏，PC版无角色配音。",
+              "source": "https://wikiwiki.jp/blgame/王子さまLv1.5",
+              "id": "alicesoft-extra-oujisamalv15-v1",
+              "workId": "alicesoft-extra-oujisamalv15"
+            },
+            {
+              "year": 2003,
+              "platform": "PlayStation",
+              "publisher": "KID",
+              "kind": "PlayStation移植",
+              "voice": "未核实",
+              "differences": "2003-02-20 KID发行《王子さまLv1.5～王子さまのたまご～》，追加对战拼图；配音未逐版核实。",
+              "source": "https://ja.wikid.org/王子さまLV1",
+              "id": "alicesoft-extra-oujisamalv15-v2",
+              "workId": "alicesoft-extra-oujisamalv15"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-oujisamalv2",
+          "title": "王子殿下Lv2",
+          "chineseTitle": "王子殿下Lv2",
+          "originalTitle": "王子さまLv2",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "王子さまLV2",
+            "Ouji-sama Lv2"
+          ],
+          "firstYear": 2004,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "遗迹探索 RPG",
+          "genre": "王子与侍从／异常植物",
+          "characters": [
+            "カナン・ルーキウス",
+            "セレスト・アーヴィング",
+            "ローウェル・シャルトルーズ",
+            "エルダー"
+          ],
+          "charactersNote": "仅列已核对的部分角色，保留来源中的日文姓名。",
+          "charactersSource": "https://wikiwiki.jp/blgame/王子さまLv2",
+          "synopsis": "田园都市希莱纳高的树根异常繁殖，埋在地下的遗迹一夜之间升到地表。卡南与塞雷斯特受第一王子委派调查异变，在陌生遗迹中展开新的冒险。",
+          "notes": "发行品牌：Alice Blue（Alicesoft旗下品牌）。前两作之后的新续篇，舞台与事件独立更新，按新作品收录。延续RPG探索，并非Lv1的增强版。",
+          "source": "https://wikiwiki.jp/blgame/王子さまLv2",
+          "versions": [
+            {
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "Alice Blue",
+              "kind": "Windows首发",
+              "voice": "无",
+              "differences": "2004-04-16 Windows发行；游戏无角色配音，不将另售广播剧的演员当作游戏配音。",
+              "source": "https://wikiwiki.jp/blgame/王子さまLv2",
+              "id": "alicesoft-extra-oujisamalv2-v1",
+              "workId": "alicesoft-extra-oujisamalv2"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-kakurezuki",
+          "title": "隐月",
+          "chineseTitle": "隐月",
+          "originalTitle": "隠れ月",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Kakurezuki"
+          ],
+          "firstYear": 2000,
+          "category": "叙事／养成冒险",
+          "subcategory": "和风奇幻养成 ADV",
+          "genre": "人造生命／成长选择",
+          "characters": [
+            "朔夜",
+            "草壁静真",
+            "乾紅玉",
+            "滝川七朗",
+            "杉田尚純"
+          ],
+          "charactersNote": "仅列已核对的部分角色，保留来源中的日文姓名。",
+          "charactersSource": "https://wikiwiki.jp/blgame/隠れ月",
+          "synopsis": "魔法创造的人造生命朔夜在研究所苏醒，迎接他的是创造者草壁静真。接下来的九十一天，他将在宅邸中接受教育；成长方式逐渐揭开自己的诞生原因和研究员们的过去。",
+          "notes": "发行品牌：Alice Blue（Alicesoft旗下品牌）。全年龄和风奇幻养成ADV，教育与日程选择组织剧情。虽然与JAPAN等设定有关，不与兰斯系列作品合并，也不据后续BL品牌定位改写本作内容分级。",
+          "source": "https://wikiwiki.jp/blgame/隠れ月",
+          "versions": [
+            {
+              "year": 2000,
+              "platform": "Windows",
+              "publisher": "Alice Blue",
+              "kind": "Windows首发",
+              "voice": "无",
+              "differences": "2000-03-24 Windows发行，无角色配音。",
+              "source": "https://wikiwiki.jp/blgame/隠れ月",
+              "id": "alicesoft-extra-kakurezuki-v1",
+              "workId": "alicesoft-extra-kakurezuki"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-orenoshitadeagake",
+          "title": "在我之下挣扎",
+          "chineseTitle": "在我之下挣扎",
+          "originalTitle": "俺の下であがけ",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "俺の下でAGAKE",
+            "Ore no Shita de Agake"
+          ],
+          "firstYear": 2002,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "债务与关系参数 SLG",
+          "genre": "金融权力／黑暗关系",
+          "characters": [
+            "黒崎壱哉",
+            "吉岡啓一郎",
+            "樋口崇文",
+            "清水新",
+            "山口幸雄"
+          ],
+          "charactersNote": "仅列已核对的部分角色，保留来源中的日文姓名。",
+          "charactersSource": "https://wikiwiki.jp/blgame/俺の下であがけ",
+          "synopsis": "金融企业负责人黑崎壹哉因建设事务回到阔别九年的故乡。熟悉与陌生的人重新进入他的生活，他利用财富和债务关系操纵局面，人物之间的权力与感情逐渐发生变化。",
+          "notes": "发行品牌：Alice Blue（Alicesoft旗下品牌）。PC版以债务与人物状态变化推进黑暗关系故事。PS2《俺の下でAGAKE》是大幅改编移植，情节与系统有调整，按同一作品保留独立版本记录。",
+          "source": "https://wikiwiki.jp/blgame/俺の下であがけ",
+          "versions": [
+            {
+              "year": 2002,
+              "platform": "Windows",
+              "publisher": "Alice Blue",
+              "kind": "Windows首发",
+              "voice": "有",
+              "differences": "2002-11-29发行，含角色配音。",
+              "source": "https://wikiwiki.jp/blgame/俺の下であがけ",
+              "id": "alicesoft-extra-orenoshitadeagake-v1",
+              "workId": "alicesoft-extra-orenoshitadeagake"
+            },
+            {
+              "year": 2007,
+              "platform": "PlayStation 2",
+              "publisher": "D3 Publisher",
+              "kind": "改编移植",
+              "voice": "有",
+              "differences": "2007-06-21 D3 Publisher发行PS2《俺の下でAGAKE》；包含故事与设定改写，不标成与PC完全同内容。",
+              "source": "https://game.watch.impress.co.jp/docs/20070409/oag.htm",
+              "id": "alicesoft-extra-orenoshitadeagake-v2",
+              "workId": "alicesoft-extra-orenoshitadeagake"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-rakuenyuki",
+          "title": "向乐园出发",
+          "chineseTitle": "向乐园出发",
+          "originalTitle": "楽園行",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Rakuen Yuki",
+            "Rakuenyuki"
+          ],
+          "firstYear": 2003,
+          "category": "叙事／养成冒险",
+          "subcategory": "选择分支公路故事 ADV",
+          "genre": "伙伴群像／逃亡旅行",
+          "characters": [
+            "大成",
+            "一伊",
+            "十一",
+            "太郎",
+            "二志",
+            "玄",
+            "菊男"
+          ],
+          "charactersNote": "仅列已核对的部分角色，保留来源中的日文姓名。",
+          "charactersSource": "https://wikiwiki.jp/blgame/楽園行",
+          "synopsis": "玄从麻将场所带走装满现金的手提箱，伙伴们随即遭到黑色轿车追赶。六人挤进面包车，朝南方的岛屿与各自想象中的乐园出发；逃亡旅程展开他们的关系与心愿。",
+          "notes": "发行品牌：Alice Blue（Alicesoft旗下品牌）。以阅读及选择分支推进的群像公路故事，不因逃亡情节而标成动作游戏。发行品牌与本专题其他Alicesoft本品牌条目区分注明。",
+          "source": "https://wikiwiki.jp/blgame/楽園行",
+          "versions": [
+            {
+              "year": 2003,
+              "platform": "Windows",
+              "publisher": "Alice Blue",
+              "kind": "Windows首发",
+              "voice": "无",
+              "differences": "2003-03-07 Windows发行，无角色配音。",
+              "source": "https://wikiwiki.jp/blgame/楽園行",
+              "id": "alicesoft-extra-rakuenyuki-v1",
+              "workId": "alicesoft-extra-rakuenyuki"
+            }
+          ]
         }
       ],
-      "relatedSectionTitle": "专题补充作品：75 部",
+      "relatedSectionTitle": "专题补充作品：90部（含Alice Blue 6部）",
       "relatedCountLabel": "独立作品；再版及扩充合并",
-      "relatedIntro": "本区累计收录75部作品，逐作区分阅读、养成及RPG／SLG。第九批新增《乙女战记》《狂殴之塔》两作、《大番长外传》《兰斯6：之后的故事》《粉彩铃音C++》与独立短篇等15部；短篇集不拆分，DEBUT明确标为公开原型。",
-      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计 102 部；其中主库关联27部，专题补充区75部。</strong></p>"
+      "relatedIntro": "本区累计90部作品。第十批新增9部Alicesoft本品牌作品与6部Alice Blue作品，包括《三人乱斩乱刺乱烧》《学园漂流战记》《王子殿下》系列、《隐月》《在我之下挣扎》等。分卷与移植合并；《步的故事》明确为没有通常主线结局的开放式养成，具体操作资料不足的条目保留说明。",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计117部（Alicesoft本品牌111部、Alice Blue 6部）；主库关联27部，专题补充区90部。</strong></p>"
     }
   ]
 }
