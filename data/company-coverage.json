@@ -7668,10 +7668,10 @@
       "id": "alicesoft",
       "name": "Alicesoft",
       "checkedAt": "2026-10-04",
-      "status": "第十批完成：专题累计 117 部作品（含旗下品牌）",
-      "scope": "已整理117部作品：Alicesoft本品牌111部、旗下Alice Blue 6部；主库关联27部，专题补充90部。第十批仅扩充专题，与主库及全部专题去重。传统纯文本或图文指令冒险不随合集纳入；玩法尚未完整核实处逐条注明，厂商全目录未完成。",
-      "versionScope": "专题累计159条版本。本批新增15部作品、20条版本；连载分卷、再配布及移植归同一作品，具有新剧情的Fan Disc单列。未核实发行与配音细节逐条说明。",
-      "publisherNote": "Alicesoft并行开发叙事ADV、养成、RPG与SLG；旗下Alice Blue另有王子冒险、和风养成与人物关系作品。本专题按实际发行品牌和玩法逐条注明，中文名称为编辑译名。",
+      "status": "第十一批完成：专题累计132部作品（含指令ADV与旗下品牌）",
+      "scope": "已整理132部作品：Alicesoft本品牌126部、旗下Alice Blue 6部；主库关联27部，专题补充105部。按第十一批新要求，指令型游戏纳入专题，不再按这一形式排除。菜单式指令、文本主体与自由输入文字需逐作区分；与主库及全部专题去重，厂商全目录尚未完成。",
+      "versionScope": "专题累计183条版本。本批新增15部作品、24条版本；D.P.S.每个发行标题三篇合计一部，《D.P.S.全部》按对应旧作再版记录，《兰斯01》归入《兰斯1》的重制版本。未核实机种、日期及配音逐条说明。",
+      "publisherNote": "Alicesoft并行开发指令与阅读ADV、养成、RPG及SLG，旗下Alice Blue另有人物关系与王子冒险作品。本专题逐作注明实际玩法和发行品牌，以中文名称、原名、剧情、角色和来源组织阅读。",
       "workIds": [
         "g482",
         "g483",
@@ -7730,13 +7730,13 @@
         "g507",
         "g508"
       ],
-      "catalogueEntryCount": 117,
+      "catalogueEntryCount": 132,
       "source": "https://www.alicesoft.com/game/index.html",
       "sectionTitle": "叙事及养成 ADV：27 部",
-      "overviewLabel": "已核对作品（含旗下品牌及RPG／SLG）",
+      "overviewLabel": "已核对作品（含指令ADV、RPG／SLG及旗下品牌）",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "第十批新增15部作品、20条版本，其中Alice Blue 6部；仅更新本专题。",
-      "auditNote": "专题累计117部作品、159条版本（Alicesoft本品牌111部、Alice Blue 6部）：主库关联27部／36条，专题补充区90部／123条。首页主数据库未改动，仍为505部／922条。",
+      "auditLabel": "第十一批新增15部Alicesoft本品牌作品、24条版本；本批起纳入指令型游戏，仅更新本专题。",
+      "auditNote": "专题累计132部作品、183条版本（Alicesoft本品牌126部、Alice Blue 6部）：主库关联27部／36条，专题补充105部／147条。首页主数据库未改动，仍为505部／922条。前批按当时范围暂缓的指令旧作，从本批起逐步补入。",
       "entries": [
         {
           "title": "妻みぐい3",
@@ -7886,7 +7886,7 @@
           "title": "其余旧作 ADV（1989—2015）",
           "status": "后续批次：待逐项整理",
           "workIds": [],
-          "reason": "第十批补入独立短篇、连载与养成作品；传统D.P.S.、SG及Dr.STOP!指令冒险不随合集纳入。《[扉] -TOBIRA-》、AliceNoir《Nor》《翡翠の眸》等剧情与操作资料仍不足，暂不补入；其余目录继续核对。",
+          "reason": "按第十一批新要求解除指令型游戏排除，已补入Intruder、CRESCENT MOON少女、危险天狗传说、D.P.S.五个发行标题、Dr.STOP!与其他旧作。其余指令游戏和《[扉] -TOBIRA-》、AliceNoir作品继续核对，不将目录标为完成。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -8152,7 +8152,7 @@
           "title": "其余 RPG／SLG、Fan Disc 及移植",
           "status": "后续批次待核对",
           "workIds": [],
-          "reason": "第十批补入免费忍者RPG外传与Alice Blue王子系列等；旗下品牌明确注明，新增剧情Fan Disc单列，连载分卷、再配布及改编移植归同一作品。其余作品与机种发行仍待整理。",
+          "reason": "第十一批将兰斯原点与兰斯01重制合为一部，并补入已核对的早期合集版本。其他机种、再版、外传及附赠程序继续整理；纯鉴赏与演示影片不计独立作品。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -8904,12 +8904,169 @@
           ],
           "reason": "与主库及全部专题的中文名、原名、别名去重；独立新剧本单列，连载分卷及移植合并。发行品牌、开放式养成性质与未核实细节在条目中说明。",
           "source": "https://wikiwiki.jp/blgame/楽園行"
+        },
+        {
+          "title": "Rance -光をもとめて-",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rance1"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://www.alicesoft.com/rance01/story.html"
+        },
+        {
+          "title": "Intruder -桜屋敷の探索-",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-intruder"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/7004.html"
+        },
+        {
+          "title": "CRESCENT MOON がぁる",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-crescentmoongirl"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/7125.html"
+        },
+        {
+          "title": "あぶないてんぐ伝説",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-abunaitengudensetsu"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_gVZAjS4PLwiHa91g.php"
+        },
+        {
+          "title": "D.P.S.",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-dpsoriginal"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://www.mobygames.com/game/47524/dps-dream-program-system/"
+        },
+        {
+          "title": "D.P.S. SG",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-dpssg"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://ja.wikipedia.org/wiki/D.P.S."
+        },
+        {
+          "title": "D.P.S. SG set2",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-dpssgset2"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://ja.wikipedia.org/wiki/D.P.S."
+        },
+        {
+          "title": "D.P.S. SG set3",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-dpssgset3"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://www.mobygames.com/game/47527/dream-program-system-sg-set-3/"
+        },
+        {
+          "title": "Super D.P.S.",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-superdps"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://www.mobygames.com/game/47528/super-dps/"
+        },
+        {
+          "title": "Dr.STOP!",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-drstop"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://elog.tokyo/adventure/game_107.html"
+        },
+        {
+          "title": "ぷろすちゅーでんとG",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-prostudentg"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://elog.tokyo/adventure/game_85.html"
+        },
+        {
+          "title": "AmbivalenZ -二律背反-",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-ambivalenz"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://erogereport.blog.jp/archives/1302025.html"
+        },
+        {
+          "title": "夢幻泡影",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-mugenhouyou"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://usitora.sakura.ne.jp/etc/mugenho.htm"
+        },
+        {
+          "title": "宇宙快盗ファニーBee",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-uchuukaitoufunnybee"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://elog.tokyo/adventure/game_83.html"
+        },
+        {
+          "title": "ナイトデーモン -夢鬼-",
+          "status": "第十一批：仅专题收录（含指令ADV）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-nightdemon"
+          ],
+          "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
+          "source": "https://www.alicesoft.com/demon/about.html"
         }
       ],
-      "description": "Alicesoft及旗下Alice Blue作品专题：117部作品、159条版本，含中文名、原名、剧情、角色、玩法与来源。",
+      "description": "Alicesoft及旗下Alice Blue作品专题：132部作品、183条版本，含指令ADV、阅读与养成、RPG／SLG，附中文名、原名、剧情、角色和来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft的叙事与玩法长期并行发展。本专题共117部作品，其中111部为Alicesoft本品牌、6部为旗下Alice Blue，涵盖阅读与养成ADV、迷宫RPG、战术RPG和地域战略。下列比较依据已核对系统；不同品牌与创作者的选择不能视为厂商整体统一转型。",
+        "thesis": "Alicesoft的叙事与玩法长期并行发展。本专题共132部作品，其中126部为Alicesoft本品牌、6部为旗下Alice Blue，涵盖指令调查、阅读与养成ADV、迷宫与战术RPG及地域战略。第十一批起纳入指令游戏，并逐作区别动词与对象菜单、每日行动、剧情分支和RPG战斗；不同品牌与创作者的选择不能视为厂商整体统一转型。",
         "phases": [
+          {
+            "period": "1989—1994",
+            "heading": "用指令调查和短篇集组织早期叙事",
+            "analysis": "《Intruder》用动词与对象组合探索宅邸，《CRESCENT MOON少女》结合物品与地点调查，D.P.S.系列则在短篇间切换人物视点或设定。《二律背反》进一步组合城镇调查、建筑探索与顺序式战斗。这些作品说明指令ADV内部也有不同节奏，不把菜单选择与自由输入文字混为一类。",
+            "basis": "编辑观察",
+            "source": "https://w.atwiki.jp/gcmatome/pages/7004.html"
+          },
           {
             "period": "1989—2005",
             "heading": "冒险叙事与角色扮演并行",
@@ -12471,7 +12628,7 @@
           "charactersNote": "开发者回顾确认少女的眼镜、怯弱与遭欺凌设定；姓氏及其他人物姓名未核实。",
           "charactersSource": "https://hannylaboratory.blogspot.com/2021/10/blog-post_21.html",
           "synopsis": "一名怯弱的眼镜少女被人抓住弱点，日常生活不断遭受侵扰。玩家以第三者视角观看她的困境，作品以旁观者与受害者之间的距离呈现黑暗故事。",
-          "notes": "《D.P.S.全部》新增的特別篇，具有新剧情，旧D.P.S.及SG指令冒险不随合集一并收录。游戏内说明确认第三者旁观视角；具体操作未完整核实，不标成参数养成或沿用旧作系统。",
+          "notes": "《D.P.S.全部》新增的特別篇，具有新剧情，独立于旧D.P.S.和SG系列的再版内容；旧作在第十一批按原发行标题分别补入。游戏内说明确认第三者旁观视角；具体操作未完整核实，不标成参数养成或沿用旧作系统。",
           "source": "https://alicecottage1989.blog.jp/archives/24142421.html",
           "versions": [
             {
@@ -12794,12 +12951,713 @@
               "workId": "alicesoft-extra-rakuenyuki"
             }
           ]
+        },
+        {
+          "id": "alicesoft-extra-rance1",
+          "title": "兰斯1：寻找小光",
+          "chineseTitle": "兰斯1：寻找小光",
+          "originalTitle": "Rance -光をもとめて-",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Rance -光を求めて-",
+            "ランス01 光をもとめて",
+            "Rance 01",
+            "Rance I",
+            "兰斯01：寻找小光",
+            "兰斯1：寻找光"
+          ],
+          "firstYear": 1989,
+          "category": "叙事／养成冒险",
+          "subcategory": "菜单式指令 ADV＋迷宫 RPG",
+          "genre": "失踪调查／利萨斯",
+          "characters": [
+            "ランス",
+            "シィル",
+            "ヒカリ"
+          ],
+          "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
+          "charactersSource": "https://www.alicesoft.com/rance01/story.html",
+          "synopsis": "冒险者兰斯接下贵族少女小光失踪案，派魔法使希露潜入学园搜集线索，自己则在城镇与地下空间中调查。寻找失踪者的委托逐渐牵出王国中的秘密。",
+          "notes": "按新要求补入带指令调查的系列原点。原版结合菜单式调查与迷宫战斗；《兰斯01》重写部分剧情并采用卡片探索、技能战斗，作为重制版本归同一作品，不另计新作。",
+          "source": "https://www.alicesoft.com/rance01/story.html",
+          "versions": [
+            {
+              "year": 1989,
+              "platform": "PC（早期原版）",
+              "publisher": "Alicesoft",
+              "kind": "早期原版",
+              "voice": "未核实",
+              "differences": "1989-07-15发行；原版包含指令调查与RPG要素，其他早期机种发行先后及配音未逐版核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/7003.html",
+              "id": "alicesoft-extra-rance1-v1",
+              "workId": "alicesoft-extra-rance1"
+            },
+            {
+              "year": 2013,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "Windows重制",
+              "voice": "无",
+              "differences": "2013-09-27《ランス01 光をもとめて》发行；官网标为ADV＋RPG，无配音。",
+              "source": "https://www.alicesoft.com/rance01/",
+              "id": "alicesoft-extra-rance1-v2",
+              "workId": "alicesoft-extra-rance1"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-intruder",
+          "title": "入侵者：樱宅探索",
+          "chineseTitle": "入侵者：樱宅探索",
+          "originalTitle": "Intruder -桜屋敷の探索-",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "イントルーダー -桜屋敷の探索-",
+            "Intruder -Sakura Yashiki no Tansaku-",
+            "入侵者：樱屋敷的探索"
+          ],
+          "firstYear": 1989,
+          "category": "叙事／养成冒险",
+          "subcategory": "图文菜单式指令 ADV",
+          "genre": "宅邸探索／归还项链",
+          "characters": [
+            "拾到项链的主人公（姓名未核实）",
+            "樱宅中的大小姐（姓名未核实）",
+            "宅邸使用人（姓名未核实）"
+          ],
+          "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
+          "charactersSource": "https://w.atwiki.jp/gcmatome/pages/7004.html",
+          "synopsis": "主人公看见一位大小姐走进樱宅，又拾到她遗落的项链。归还物品时遭到拒绝，他便潜入宅邸，在房间、物品与人物之间寻找接近她的途径。",
+          "notes": "典型动词与对象组合的菜单指令：先选“进入／攀登／查看”等行动，再选对应对象；通过地点探索收集物品与信息，并非自由输入文字。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/7004.html",
+          "versions": [
+            {
+              "year": 1989,
+              "platform": "PC-88",
+              "publisher": "Alicesoft",
+              "kind": "PC-88原版",
+              "voice": "未核实",
+              "differences": "1989-07-15 PC-8801发行；其他早期机种与配音未逐版核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/7004.html",
+              "id": "alicesoft-extra-intruder-v1",
+              "workId": "alicesoft-extra-intruder"
+            },
+            {
+              "year": 1991,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "FM TOWNS合集版",
+              "voice": "未核实",
+              "differences": "1991年7月《ALICEの館 CD》FM TOWNS收录，使用CD-DA音乐；具体日期与配音未核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/5673.html",
+              "id": "alicesoft-extra-intruder-v2",
+              "workId": "alicesoft-extra-intruder"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-crescentmoongirl",
+          "title": "CRESCENT MOON少女",
+          "chineseTitle": "CRESCENT MOON少女",
+          "originalTitle": "CRESCENT MOON がぁる",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "クレセントムーンがぁる",
+            "Crescent Moon Girl",
+            "Crescent Moon Gal"
+          ],
+          "firstYear": 1989,
+          "category": "叙事／养成冒险",
+          "subcategory": "图文菜单式指令 ADV",
+          "genre": "变成人的猫／解除魔法",
+          "characters": [
+            "ミィ",
+            "施下魔法的魔女（姓名未核实）",
+            "拥有新月印记的少女（姓名未核实）"
+          ],
+          "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
+          "charactersSource": "https://w.atwiki.jp/gcmatome/pages/7125.html",
+          "synopsis": "猫咪米伊惹怒魔女，被变成人类。为恢复原貌，他必须寻找拥有新月印记的少女，于是在人类生活的地方调查线索、收集物品并与不同人物交涉。",
+          "notes": "以地点、人物和“获取”等动词与对象组合推进的指令ADV。原版及FM TOWNS合集版合并计一部；不将变身题材本身当成RPG玩法。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/7125.html",
+          "versions": [
+            {
+              "year": 1989,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "PC-98原版",
+              "voice": "未核实",
+              "differences": "1989-08-15发行；本次记录PC-9801原版，其他早期机种先后与配音未逐版核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/7125.html",
+              "id": "alicesoft-extra-crescentmoongirl-v1",
+              "workId": "alicesoft-extra-crescentmoongirl"
+            },
+            {
+              "year": 1991,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "FM TOWNS合集版",
+              "voice": "未核实",
+              "differences": "1991年7月《ALICEの館 CD》收录，使用CD-DA音乐；不另计新作品。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/5673.html",
+              "id": "alicesoft-extra-crescentmoongirl-v2",
+              "workId": "alicesoft-extra-crescentmoongirl"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-abunaitengudensetsu",
+          "title": "危险天狗传说",
+          "chineseTitle": "危险天狗传说",
+          "originalTitle": "あぶないてんぐ伝説",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "あぶない天狗伝説",
+            "Abunai Tengu Densetsu"
+          ],
+          "firstYear": 1989,
+          "category": "叙事／养成冒险",
+          "subcategory": "图文菜单式指令 ADV",
+          "genre": "怪异传说／目击调查",
+          "characters": [
+            "调查天狗事件的主人公（姓名未核实）",
+            "声称目击天狗的少女（姓名未核实）",
+            "遭袭的A子（姓名未核实）"
+          ],
+          "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
+          "charactersSource": "https://www.8-bits.info/gamelist/PC88/info/info_gVZAjS4PLwiHa91g.php",
+          "synopsis": "一名少女声称看见天狗袭击朋友，描述了黑衣、团扇与红色长鼻的身影。原本半信半疑的调查者追索证词与怪异事件，试图辨认真相。",
+          "notes": "菜单式指令调查ADV，按本次新范围补入。不同目录记1989年10月或12月，不能将某一机种日期当成全机种首发；两条已核对发行记录归同一作品。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_gVZAjS4PLwiHa91g.php",
+          "versions": [
+            {
+              "year": 1989,
+              "platform": "PC-88",
+              "publisher": "Alicesoft",
+              "kind": "PC-88发行",
+              "voice": "未核实",
+              "differences": "PC-8801资料记1989-12-15；其他目录记同年10月，早期各机种发行先后未完整核实。",
+              "source": "https://www.8-bits.info/gamelist/PC88/info/info_gVZAjS4PLwiHa91g.php",
+              "id": "alicesoft-extra-abunaitengudensetsu-v1",
+              "workId": "alicesoft-extra-abunaitengudensetsu"
+            },
+            {
+              "year": 1992,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "FM TOWNS合集版",
+              "voice": "未核实",
+              "differences": "1992年7月《ALICEの館2》FM TOWNS版附带收录；具体日与配音未核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/5673.html",
+              "id": "alicesoft-extra-abunaitengudensetsu-v2",
+              "workId": "alicesoft-extra-abunaitengudensetsu"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-dpsoriginal",
+          "title": "D.P.S.：梦境程序系统",
+          "chineseTitle": "D.P.S.：梦境程序系统",
+          "originalTitle": "D.P.S.",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "D.P.S",
+            "Dream Program System",
+            "D・P・S"
+          ],
+          "firstYear": 1989,
+          "category": "叙事／养成冒险",
+          "subcategory": "三篇菜单式指令 ADV 集",
+          "genre": "梦境剧本／独立短篇",
+          "characters": [
+            "カスタム",
+            "リーナス",
+            "ひとみ",
+            "木下真理子",
+            "かつみ"
+          ],
+          "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
+          "charactersSource": "https://ja.wikipedia.org/wiki/D.P.S.",
+          "synopsis": "三篇故事分别围绕骑士护送公主、偶像与憧憬她的少女、医师的诊察事件展开。玩家通过梦境程序切换人物处境，再以选择推进各篇。",
+          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。",
+          "source": "https://www.mobygames.com/game/47524/dps-dream-program-system/",
+          "versions": [
+            {
+              "year": 1989,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "原版短篇集",
+              "voice": "未核实",
+              "differences": "1989年12月发行；本次列PC-98记录，各机种先后与配音未逐版核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/5673.html",
+              "id": "alicesoft-extra-dpsoriginal-v1",
+              "workId": "alicesoft-extra-dpsoriginal"
+            },
+            {
+              "year": 1995,
+              "platform": "PC-98／FM TOWNS／Windows 3.1",
+              "publisher": "Alicesoft",
+              "kind": "合集再版",
+              "voice": "未核实",
+              "differences": "1995-11-10《D.P.S.全部》收录；采用新的合集接口，PC-98、FM TOWNS、Windows 3.1合列一条合集记录，不计新作品。",
+              "source": "https://alicecottage1989.blog.jp/archives/23969795.html",
+              "id": "alicesoft-extra-dpsoriginal-v2",
+              "workId": "alicesoft-extra-dpsoriginal"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-dpssg",
+          "title": "D.P.S. SG：梦境程序系统SG",
+          "chineseTitle": "D.P.S. SG：梦境程序系统SG",
+          "originalTitle": "D.P.S. SG",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "D.P.S SG",
+            "D.P.S. SG set1",
+            "Dream Program System SG"
+          ],
+          "firstYear": 1990,
+          "category": "叙事／养成冒险",
+          "subcategory": "三篇菜单式指令 ADV 集",
+          "genre": "梦境剧本／独立短篇",
+          "characters": [
+            "舞子",
+            "ロザリー",
+            "ハインツ",
+            "織田信長",
+            "森蘭丸",
+            "明智光秀"
+          ],
+          "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
+          "charactersSource": "https://ja.wikipedia.org/wiki/D.P.S.",
+          "synopsis": "三篇故事采用家教、战时审讯与战国权力关系的不同舞台。同一局面可因人物立场而改变，玩家通过指令与选择推进。",
+          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。",
+          "source": "https://ja.wikipedia.org/wiki/D.P.S.",
+          "versions": [
+            {
+              "year": 1990,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "原版短篇集",
+              "voice": "未核实",
+              "differences": "1990年8月发行；本次列PC-98记录，各机种先后与配音未逐版核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/5673.html",
+              "id": "alicesoft-extra-dpssg-v1",
+              "workId": "alicesoft-extra-dpssg"
+            },
+            {
+              "year": 1995,
+              "platform": "PC-98／FM TOWNS／Windows 3.1",
+              "publisher": "Alicesoft",
+              "kind": "合集再版",
+              "voice": "未核实",
+              "differences": "1995-11-10《D.P.S.全部》收录；采用新的合集接口，PC-98、FM TOWNS、Windows 3.1合列一条合集记录，不计新作品。",
+              "source": "https://alicecottage1989.blog.jp/archives/23969795.html",
+              "id": "alicesoft-extra-dpssg-v2",
+              "workId": "alicesoft-extra-dpssg"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-dpssgset2",
+          "title": "D.P.S. SG第二集",
+          "chineseTitle": "D.P.S. SG第二集",
+          "originalTitle": "D.P.S. SG set2",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "D.P.S SG set2",
+            "D.P.S. SG Set 2",
+            "Dream Program System SG set 2"
+          ],
+          "firstYear": 1991,
+          "category": "叙事／养成冒险",
+          "subcategory": "三篇菜单式指令 ADV 集",
+          "genre": "梦境剧本／独立短篇",
+          "characters": [
+            "ルドルフ",
+            "テス",
+            "エリス",
+            "ルリコ",
+            "かつき",
+            "ユリ"
+          ],
+          "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
+          "charactersSource": "https://ja.wikipedia.org/wiki/D.P.S.",
+          "synopsis": "三篇分别呈现雨中闯入旧洋馆后怪谈成真、火灾旅馆中的救援，以及医师题材续篇；主人公性格和视点影响事件。",
+          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。",
+          "source": "https://ja.wikipedia.org/wiki/D.P.S.",
+          "versions": [
+            {
+              "year": 1991,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "原版短篇集",
+              "voice": "未核实",
+              "differences": "1991年4月发行；本次列PC-98记录，各机种先后与配音未逐版核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/5673.html",
+              "id": "alicesoft-extra-dpssgset2-v1",
+              "workId": "alicesoft-extra-dpssgset2"
+            },
+            {
+              "year": 1995,
+              "platform": "PC-98／FM TOWNS／Windows 3.1",
+              "publisher": "Alicesoft",
+              "kind": "合集再版",
+              "voice": "未核实",
+              "differences": "1995-11-10《D.P.S.全部》收录；采用新的合集接口，PC-98、FM TOWNS、Windows 3.1合列一条合集记录，不计新作品。",
+              "source": "https://alicecottage1989.blog.jp/archives/23969795.html",
+              "id": "alicesoft-extra-dpssgset2-v2",
+              "workId": "alicesoft-extra-dpssgset2"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-dpssgset3",
+          "title": "D.P.S. SG第三集",
+          "chineseTitle": "D.P.S. SG第三集",
+          "originalTitle": "D.P.S. SG set3",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "D.P.S SG set3",
+            "D.P.S. SG Set 3",
+            "Dream Program System SG set 3"
+          ],
+          "firstYear": 1991,
+          "category": "叙事／养成冒险",
+          "subcategory": "三篇菜单式指令 ADV 集",
+          "genre": "梦境剧本／独立短篇",
+          "characters": [
+            "恭一",
+            "ゆう",
+            "雅騎",
+            "沙夜子",
+            "Rabbit篇的主人公（姓名未核实）"
+          ],
+          "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
+          "charactersSource": "https://ja.wikipedia.org/wiki/D.P.S.",
+          "synopsis": "三篇从新婚夫妇的不同视点、毕业告白突遇怪兽，以及追随神秘兔女郎进入奇幻世界展开，日常与幻想的交错构成各自的短篇。",
+          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。",
+          "source": "https://www.mobygames.com/game/47527/dream-program-system-sg-set-3/",
+          "versions": [
+            {
+              "year": 1991,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "原版短篇集",
+              "voice": "未核实",
+              "differences": "1991年12月发行；本次列PC-98记录，各机种先后与配音未逐版核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/5673.html",
+              "id": "alicesoft-extra-dpssgset3-v1",
+              "workId": "alicesoft-extra-dpssgset3"
+            },
+            {
+              "year": 1995,
+              "platform": "PC-98／FM TOWNS／Windows 3.1",
+              "publisher": "Alicesoft",
+              "kind": "合集再版",
+              "voice": "未核实",
+              "differences": "1995-11-10《D.P.S.全部》收录；采用新的合集接口，PC-98、FM TOWNS、Windows 3.1合列一条合集记录，不计新作品。",
+              "source": "https://alicecottage1989.blog.jp/archives/23969795.html",
+              "id": "alicesoft-extra-dpssgset3-v2",
+              "workId": "alicesoft-extra-dpssgset3"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-superdps",
+          "title": "Super D.P.S.：超级梦境程序系统",
+          "chineseTitle": "Super D.P.S.：超级梦境程序系统",
+          "originalTitle": "Super D.P.S.",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Super D.P.S",
+            "SUPER D.P.S.",
+            "Super Dream Program System"
+          ],
+          "firstYear": 1992,
+          "category": "叙事／养成冒险",
+          "subcategory": "三篇菜单式指令 ADV 集",
+          "genre": "梦境剧本／独立短篇",
+          "characters": [
+            "マリア",
+            "カンパン",
+            "鷹雪",
+            "萌絵",
+            "カメリア",
+            "ヴァイス"
+          ],
+          "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
+          "charactersSource": "https://ja.wikipedia.org/wiki/D.P.S.",
+          "synopsis": "三篇故事分别围绕玛利亚与出现异常的机器人、森林中遭遇危险的伙伴，以及袭击宇宙船的女海盗展开。梦境程序将机械、求生和太空题材并置。",
+          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。",
+          "source": "https://www.mobygames.com/game/47528/super-dps/",
+          "versions": [
+            {
+              "year": 1992,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "原版短篇集",
+              "voice": "未核实",
+              "differences": "1992年9月发行；本次列PC-98记录，各机种先后与配音未逐版核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/5673.html",
+              "id": "alicesoft-extra-superdps-v1",
+              "workId": "alicesoft-extra-superdps"
+            },
+            {
+              "year": 1995,
+              "platform": "PC-98／FM TOWNS／Windows 3.1",
+              "publisher": "Alicesoft",
+              "kind": "合集再版",
+              "voice": "未核实",
+              "differences": "1995-11-10《D.P.S.全部》收录；采用新的合集接口，PC-98、FM TOWNS、Windows 3.1合列一条合集记录，不计新作品。",
+              "source": "https://alicecottage1989.blog.jp/archives/23969795.html",
+              "id": "alicesoft-extra-superdps-v2",
+              "workId": "alicesoft-extra-superdps"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-drstop",
+          "title": "Dr.STOP!：医师疑云",
+          "chineseTitle": "Dr.STOP!：医师疑云",
+          "originalTitle": "Dr.STOP!",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Dr.stop!",
+            "Doctor Stop"
+          ],
+          "firstYear": 1992,
+          "category": "叙事／养成冒险",
+          "subcategory": "文本主体指令 ADV（局部插图）",
+          "genre": "医院疑云／同僚关系",
+          "characters": [
+            "内科医主人公（姓名未核实）",
+            "美緒",
+            "遭疑的医师朋友（姓名未核实）"
+          ],
+          "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
+          "charactersSource": "https://elog.tokyo/adventure/game_107.html",
+          "synopsis": "在总合医院工作的内科医与院长之女美绪订有婚约。亲友调查院长的可疑行为时反遭医疗事故指控，主人公为洗清朋友嫌疑而行动，喜剧日常逐渐转向严肃的医院疑云。",
+          "notes": "评测说明为文本主体的菜单指令ADV，并有局部插图；不据文本占比标成完全无图，也不把菜单选择误写成自由输入文字。后来的兼容运行方式不倒填为1992年Windows原版。",
+          "source": "https://elog.tokyo/adventure/game_107.html",
+          "versions": [
+            {
+              "year": 1992,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "PC-98原版",
+              "voice": "未核实",
+              "differences": "1992年4月PC-98发行，资料记4月15日；原版配音未核实。",
+              "source": "https://elog.tokyo/adventure/game_107.html",
+              "id": "alicesoft-extra-drstop-v1",
+              "workId": "alicesoft-extra-drstop"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-prostudentg",
+          "title": "职业学生G",
+          "chineseTitle": "职业学生G",
+          "originalTitle": "ぷろすちゅーでんとG",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ぷろすちゅーでんとＧ",
+            "Pro Student G",
+            "prostudent G"
+          ],
+          "firstYear": 1993,
+          "category": "叙事／养成冒险",
+          "subcategory": "菜单式指令喜剧 ADV",
+          "genre": "西游记戏仿／御宅笑料",
+          "characters": [
+            "猿藤悟郎（资料亦作猿藤吾郎）"
+          ],
+          "charactersNote": "来源使用猿藤吾郎，系列人物资料亦作猿藤悟郎；保留异写说明。",
+          "charactersSource": "https://elog.tokyo/adventure/game_85.html",
+          "synopsis": "凶暴的猿藤悟郎曾被幽闭在地下牢房，长期囚禁又使他成为狂热御宅族。重回行动后，他卷入一连串荒诞遭遇，故事用西游记式人物与大量作品戏仿组织喜剧旅程。",
+          "notes": "原版为指令ADV，主线基本单线但有多个结局；《Good》的机器人SLG与《GRX》的新增外传已经分别收录，本作不沿用它们的战术系统。",
+          "source": "https://elog.tokyo/adventure/game_85.html",
+          "versions": [
+            {
+              "year": 1993,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "PC-98原版",
+              "voice": "未核实",
+              "differences": "1993-06-15发行；X68000等其他发行未逐版补录，配音未核实。",
+              "source": "https://elog.tokyo/adventure/game_85.html",
+              "id": "alicesoft-extra-prostudentg-v1",
+              "workId": "alicesoft-extra-prostudentg"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-ambivalenz",
+          "title": "AmbivalenZ：二律背反",
+          "chineseTitle": "AmbivalenZ：二律背反",
+          "originalTitle": "AmbivalenZ -二律背反-",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "AmbivalenZ －二律背反－",
+            "Ambivalenz",
+            "アンビヴァレンツ"
+          ],
+          "firstYear": 1994,
+          "category": "叙事／养成冒险",
+          "subcategory": "指令调查 ADV＋谜题式战斗",
+          "genre": "不老骑士／现代暗黑奇幻",
+          "characters": [
+            "修羅",
+            "シィア",
+            "花梨",
+            "草薙",
+            "笙姫",
+            "有馬",
+            "ディアドラ"
+          ],
+          "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
+          "charactersSource": "https://erogereport.blog.jp/archives/1302025.html",
+          "synopsis": "昔日骑士失去所守护的公主，又遭诅咒获得不老身体。数百年后，他以修罗之名在现代日本追杀怪物；与故人相似的少女花梨出现，让长期复仇中的他重新面对自己的感情。",
+          "notes": "结合城镇指令调查、建筑内光标探索与固定敌人的指令战斗；主人公没有通常RPG的成长参数，战斗更接近行动顺序谜题。不因现代奇幻舞台与《AliveZ》的联系而合并两部独立剧本。",
+          "source": "https://erogereport.blog.jp/archives/1302025.html",
+          "versions": [
+            {
+              "year": 1994,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "PC-98原版",
+              "voice": "未核实",
+              "differences": "1994年PC-98发行；FM TOWNS及Windows移植的确切发行先后与配音未逐版核实，本次先记原版。",
+              "source": "https://erogereport.blog.jp/archives/1302025.html",
+              "id": "alicesoft-extra-ambivalenz-v1",
+              "workId": "alicesoft-extra-ambivalenz"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-mugenhouyou",
+          "title": "梦幻泡影",
+          "chineseTitle": "梦幻泡影",
+          "originalTitle": "夢幻泡影",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Mugen Houyou",
+            "Mugen Hōyō"
+          ],
+          "firstYear": 1995,
+          "category": "叙事／养成冒险",
+          "subcategory": "多路线选择 ADV",
+          "genre": "绝症／隐居宅邸",
+          "characters": [
+            "土屋久遠",
+            "世羅",
+            "宅邸使用人（姓名未核实）"
+          ],
+          "charactersNote": "评测列出土屋久遠；另一介绍确认妹妹世羅，仅列可核对人物。",
+          "charactersSource": "https://advgamer.com/mugen-houyou/",
+          "synopsis": "富有的久远身患不治之症，带着妹妹世罗和少数使用人进入封闭宅邸生活。他希望在死亡到来前按自己的意愿度过余生，人物关系与不同选择让故事走向多条路线。",
+          "notes": "本作依靠多路线选择，不能仅因年代或同批收录就套成传统动词指令。已走过的部分分支会消失或变化，是其叙事结构特点；Windows和廉价版存在，发行日期不足者暂不增列版本。",
+          "source": "https://usitora.sakura.ne.jp/etc/mugenho.htm",
+          "versions": [
+            {
+              "year": 1995,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "PC-98原版",
+              "voice": "未核实",
+              "differences": "1995年7月PC-98发行；具体日与配音未核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/5673.html",
+              "id": "alicesoft-extra-mugenhouyou-v1",
+              "workId": "alicesoft-extra-mugenhouyou"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-uchuukaitoufunnybee",
+          "title": "宇宙快盗Funny Bee",
+          "chineseTitle": "宇宙快盗Funny Bee",
+          "originalTitle": "宇宙快盗ファニーBee",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "宇宙快盗★ファニーBee",
+            "Uchuu Kaitou Funny Bee",
+            "宇宙快盗滑稽Bee"
+          ],
+          "firstYear": 1994,
+          "category": "叙事／养成冒险",
+          "subcategory": "菜单式指令 SF ADV",
+          "genre": "双人快盗／太空喜剧",
+          "characters": [
+            "サティ",
+            "詩織"
+          ],
+          "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
+          "charactersSource": "https://elog.tokyo/adventure/game_83.html",
+          "synopsis": "人类已经在宇宙中生活的未来，两名搭档萨蒂与诗织以“Funny Bee”之名四处冒险。盗贼行动不断引出离奇遭遇，轻松的双人关系与太空舞台构成喧闹喜剧。",
+          "notes": "菜单指令式SF冒险，包含大量笑料与戏仿。PC-98原版、其他机种及后续兼容移植归同一作品；第三方页面的Windows运行说明不当作原版发行证据。",
+          "source": "https://elog.tokyo/adventure/game_83.html",
+          "versions": [
+            {
+              "year": 1994,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "PC-98原版",
+              "voice": "未核实",
+              "differences": "1994-08-10 PC-9801发行；同日X68000另有记录，暂未完整补录所有机种版本。配音未核实。",
+              "source": "https://elog.tokyo/adventure/game_83.html",
+              "id": "alicesoft-extra-uchuukaitoufunnybee-v1",
+              "workId": "alicesoft-extra-uchuukaitoufunnybee"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-nightdemon",
+          "title": "夜之梦鬼",
+          "chineseTitle": "夜之梦鬼",
+          "originalTitle": "ナイトデーモン -夢鬼-",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ナイトデーモン",
+            "Night Demon -Yumegami-",
+            "Night Demon"
+          ],
+          "firstYear": 2003,
+          "category": "叙事／养成冒险",
+          "subcategory": "每日行动指令＋剧情分支 ADV",
+          "genre": "异象／人外存在",
+          "characters": [
+            "朱華",
+            "二藍",
+            "黝簾",
+            "ましろ",
+            "雪花",
+            "眞"
+          ],
+          "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
+          "charactersSource": "https://www.alicesoft.com/demon/index.html",
+          "synopsis": "世界各地的天空出现被称为“续”的异常现象，外表近似人类的梦鬼也来到这个世界。酒吧“69”的调酒师朱华生活于人与异类并存的环境，随着人物相遇与选择面对不同的故事结局。",
+          "notes": "官网称为指令选择ADV：白天通常选一次行动，剧情节点另设二选一分歧。明确区分每日行动与传统反复执行“查看／交谈／使用”的操作；本次不再因指令形式排除。",
+          "source": "https://www.alicesoft.com/demon/about.html",
+          "versions": [
+            {
+              "year": 2003,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "Windows首发",
+              "voice": "无",
+              "differences": "2003年Windows发行；官网明确无角色配音、动画及主题歌。具体发行日在本次权威来源中未完整核实。",
+              "source": "https://www.alicesoft.com/demon/index.html",
+              "id": "alicesoft-extra-nightdemon-v1",
+              "workId": "alicesoft-extra-nightdemon"
+            }
+          ]
         }
       ],
-      "relatedSectionTitle": "专题补充作品：90部（含Alice Blue 6部）",
+      "relatedSectionTitle": "专题补充作品：105部（含指令ADV与Alice Blue 6部）",
       "relatedCountLabel": "独立作品；再版及扩充合并",
-      "relatedIntro": "本区累计90部作品。第十批新增9部Alicesoft本品牌作品与6部Alice Blue作品，包括《三人乱斩乱刺乱烧》《学园漂流战记》《王子殿下》系列、《隐月》《在我之下挣扎》等。分卷与移植合并；《步的故事》明确为没有通常主线结局的开放式养成，具体操作资料不足的条目保留说明。",
-      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计117部（Alicesoft本品牌111部、Alice Blue 6部）；主库关联27部，专题补充区90部。</strong></p>"
+      "relatedIntro": "本区累计105部作品。第十一批新增《兰斯1》《入侵者》《CRESCENT MOON少女》《危险天狗传说》、五个D.P.S.发行标题、《Dr.STOP!》《职业学生G》《二律背反》《梦幻泡影》《宇宙快盗Funny Bee》《夜之梦鬼》。指令型游戏按新要求纳入；菜单式指令不等于自由输入文字，短篇集、再版与重制按统一规则计数。",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计132部（Alicesoft本品牌126部、Alice Blue 6部）；主库关联27部，专题补充105部。自第十一批起纳入指令型游戏。</strong></p>"
     }
   ]
 }
