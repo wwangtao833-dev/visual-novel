@@ -7668,10 +7668,10 @@
       "id": "alicesoft",
       "name": "Alicesoft",
       "checkedAt": "2026-10-04",
-      "status": "第十一批完成：专题累计132部作品（含指令ADV与旗下品牌）",
-      "scope": "已整理132部作品：Alicesoft本品牌126部、旗下Alice Blue 6部；主库关联27部，专题补充105部。按第十一批新要求，指令型游戏纳入专题，不再按这一形式排除。菜单式指令、文本主体与自由输入文字需逐作区分；与主库及全部专题去重，厂商全目录尚未完成。",
-      "versionScope": "专题累计183条版本。本批新增15部作品、24条版本；D.P.S.每个发行标题三篇合计一部，《D.P.S.全部》按对应旧作再版记录，《兰斯01》归入《兰斯1》的重制版本。未核实机种、日期及配音逐条说明。",
-      "publisherNote": "Alicesoft并行开发指令与阅读ADV、养成、RPG及SLG，旗下Alice Blue另有人物关系与王子冒险作品。本专题逐作注明实际玩法和发行品牌，以中文名称、原名、剧情、角色和来源组织阅读。",
+      "status": "第十二批完成：专题累计147部作品（含指令及历史关联品牌）",
+      "scope": "已整理147部作品：Alicesoft本品牌140部、Alice Blue 6部、历史合作品牌IMYUIC 1部；主库关联27部，专题补充120部。指令型游戏纳入专题，逐作区分文字冒险、图文菜单、地点选择、战斗指令与棋盘玩法。去重覆盖主库及全部专题；部分旧作剧情、人物或发行日期仍有限，厂商全目录尚未完成。",
+      "versionScope": "专题累计203条版本。本批新增15部作品、20条版本；无图／图文版、许可移植及合集再收录归同一作品。《妇警DA》仅预告不列可玩版本，攻略附盘的母作归档年不作为准确寄送日期，日期疑点逐条说明。",
+      "publisherNote": "Alicesoft作品涵盖指令与阅读ADV、养成、RPG、SLG及棋盘游戏，Alice Blue另有人物关系与王子冒险作品。《HENTAI LABYRINTH》按发行时IMYUIC(ALICESOFT)署名列为历史合作，2022年后IMYUIC独立作品不因此纳入。",
       "workIds": [
         "g482",
         "g483",
@@ -7730,13 +7730,13 @@
         "g507",
         "g508"
       ],
-      "catalogueEntryCount": 132,
+      "catalogueEntryCount": 147,
       "source": "https://www.alicesoft.com/game/index.html",
       "sectionTitle": "叙事及养成 ADV：27 部",
-      "overviewLabel": "已核对作品（含指令ADV、RPG／SLG及旗下品牌）",
+      "overviewLabel": "已整理作品（含指令、RPG／SLG及合集独立游戏）",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "第十一批新增15部Alicesoft本品牌作品、24条版本；本批起纳入指令型游戏，仅更新本专题。",
-      "auditNote": "专题累计132部作品、183条版本（Alicesoft本品牌126部、Alice Blue 6部）：主库关联27部／36条，专题补充105部／147条。首页主数据库未改动，仍为505部／922条。前批按当时范围暂缓的指令旧作，从本批起逐步补入。",
+      "auditLabel": "第十二批新增15部作品、20条版本：14部Alicesoft本品牌及1部发行时关联的IMYUIC作品；仅更新本专题。",
+      "auditNote": "专题累计147部作品、203条版本（Alicesoft本品牌140部、Alice Blue 6部、IMYUIC历史合作1部）：主库关联27部／36条，专题补充120部／167条。首页主数据库仍为505部／922条。本批《妇警DA》的未完成介绍不计独立版本，纯问答与CG展示暂不收录。",
       "entries": [
         {
           "title": "妻みぐい3",
@@ -7886,7 +7886,7 @@
           "title": "其余旧作 ADV（1989—2015）",
           "status": "后续批次：待逐项整理",
           "workIds": [],
-          "reason": "按第十一批新要求解除指令型游戏排除，已补入Intruder、CRESCENT MOON少女、危险天狗传说、D.P.S.五个发行标题、Dr.STOP!与其他旧作。其余指令游戏和《[扉] -TOBIRA-》、AliceNoir作品继续核对，不将目录标为完成。",
+          "reason": "第十二批继续纳入早期指令与地点选择作品，包括电子之国的Alice、SD兰斯、危险文化祭前夜及扉；旧作人物与具体剧情不足处有说明。AliceNoir作品及其他旧作继续核对，不将厂商目录标为完成。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -8152,7 +8152,7 @@
           "title": "其余 RPG／SLG、Fan Disc 及移植",
           "status": "后续批次待核对",
           "workIds": [],
-          "reason": "第十一批将兰斯原点与兰斯01重制合为一部，并补入已核对的早期合集版本。其他机种、再版、外传及附赠程序继续整理；纯鉴赏与演示影片不计独立作品。",
+          "reason": "第十二批补入斗神兰斯、SF兰斯、合集独立棋盘游戏与HENTAI LABYRINTH；攻略附盘寄送日、许可移植和历史品牌关系逐条说明。妇警DA未完成预告不计可玩版本，纯问答、鉴赏与演示不计独立作品。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -9054,11 +9054,171 @@
           ],
           "reason": "按本批新范围纳入指令游戏，与主库及全部专题的原名、中文名和别名去重；短篇集整体计数，再版与重制合并；实际指令、阅读与战斗形式逐作说明。",
           "source": "https://www.alicesoft.com/demon/about.html"
+        },
+        {
+          "title": "電子の国のアリス",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-denshinokuninoalice"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/16436977.html"
+        },
+        {
+          "title": "センチメンタルシーズン",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-sentimentalseason"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/16437039.html"
+        },
+        {
+          "title": "婦警さんVX",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-fukeisanvx"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/15822589.html"
+        },
+        {
+          "title": "婦警さんDA",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-fukeisanda"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/19289169.html"
+        },
+        {
+          "title": "おかゆフィーバーの逆襲",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-okayufeavernogyakushuu"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/19289217.html"
+        },
+        {
+          "title": "女教師悶絶地獄",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-jokyoushimonzetsujigoku"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/23539602.html"
+        },
+        {
+          "title": "哀少女ローラ",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-aishoujolaura"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/22947779.html"
+        },
+        {
+          "title": "ありすのぼーけん",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-aliceboken"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/22590358.html"
+        },
+        {
+          "title": "ランス外伝 -闘神都市-",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-toushinrance"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/17708061.html"
+        },
+        {
+          "title": "SDらんす -犯人は、誰だ-",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-sdrance"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/16852985.html"
+        },
+        {
+          "title": "SFらんす",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-sfrance"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/21367564.html"
+        },
+        {
+          "title": "あぶない文化祭前夜",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-abunaibunkasaizenya"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/18569382.html"
+        },
+        {
+          "title": "人間狩り",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-ningengari"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/28252189.html"
+        },
+        {
+          "title": "[扉] -TOBIRA-",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-tobira"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/36008491.html"
+        },
+        {
+          "title": "HENTAI LABYRINTH（ヘンタイ・ラビリンス）",
+          "status": "第十二批：仅专题收录（含指令与合集独立游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-hentailabyrinth"
+          ],
+          "reason": "核对主库及全部专题的中文名、原名和别名；有独立新内容的游戏单列，再版与移植合并。仅预告、纯问答、CG展示不计新作；日期、剧情和人物不足处明确说明。",
+          "source": "https://www.alicesoft.com/information/2020/entry002612.html"
+        },
+        {
+          "title": "IMYUIC历史合作品牌关系",
+          "status": "历史署名核对",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-hentailabyrinth"
+          ],
+          "reason": "官方2022年完全独立公告确认HENTAI LABYRINTH仍归Alicesoft管理；仅按首作发行时关联纳入，独立后其他作品不计本专题。",
+          "source": "https://www.alicesoft.com/information/2022/entry003001.html"
         }
       ],
-      "description": "Alicesoft及旗下Alice Blue作品专题：132部作品、183条版本，含指令ADV、阅读与养成、RPG／SLG，附中文名、原名、剧情、角色和来源。",
+      "description": "Alicesoft及历史关联品牌专题：147部作品、203条版本，含指令ADV、养成、RPG／SLG及合集独立游戏，附中文名、原名、内容概述、人物和来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft的叙事与玩法长期并行发展。本专题共132部作品，其中126部为Alicesoft本品牌、6部为旗下Alice Blue，涵盖指令调查、阅读与养成ADV、迷宫与战术RPG及地域战略。第十一批起纳入指令游戏，并逐作区别动词与对象菜单、每日行动、剧情分支和RPG战斗；不同品牌与创作者的选择不能视为厂商整体统一转型。",
+        "thesis": "Alicesoft的叙事与玩法长期并行发展。本专题共147部作品，含本品牌140部、Alice Blue 6部及发行时关联的IMYUIC 1部，涵盖指令调查、阅读与养成ADV、迷宫与战术RPG、地域战略及合集棋盘游戏。早期附盘外传可将同一角色置于学园或太空等不同舞台，不能借用母作的剧情和战斗系统；IMYUIC后来的独立状态也需与本作发行时署名区分。",
         "phases": [
           {
             "period": "1989—1994",
@@ -13652,12 +13812,627 @@
               "workId": "alicesoft-extra-nightdemon"
             }
           ]
+        },
+        {
+          "id": "alicesoft-extra-denshinokuninoalice",
+          "title": "电子之国的Alice",
+          "chineseTitle": "电子之国的Alice",
+          "originalTitle": "電子の国のアリス",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Denshi no Kuni no Alice",
+            "电子之国的爱丽丝"
+          ],
+          "firstYear": 1989,
+          "category": "叙事／养成冒险",
+          "subcategory": "菜单式指令短篇 ADV",
+          "genre": "品牌吉祥物／电子世界幻想",
+          "characters": [
+            "アリス"
+          ],
+          "charactersNote": "仅列来源能够核对的人物；未确认姓名以身份注明，不套用母作全部角色。",
+          "charactersSource": "https://rekisikaorurebyu.seesaa.net/article/425840703.html",
+          "synopsis": "以品牌吉祥物Alice为主角，描写她居住的电子世界中发生的幻想事件。现有游戏说明能够确认舞台与主人公，具体事件起因和结局未完整核实。",
+          "notes": "初收录于《ALICE之馆》的“アリスのインナーワールド／アリスの仲間達”。评测确认菜单指令ADV；1995年的《Alice的冒险》为独立续篇。最早合集发行年份与后来PC-98机种日期需区分。",
+          "source": "https://alicecottage1989.blog.jp/archives/16436977.html",
+          "versions": [
+            {
+              "year": 1989,
+              "platform": "PC（早期合集）",
+              "publisher": "Alicesoft",
+              "kind": "初代合集收录",
+              "voice": "未核实",
+              "differences": "目录记《ALICEの館》1989-12-15；各早期机种发行先后未完整核实，PC-98记录另见1990-02-15。",
+              "source": "https://alicecottage1989.blog.jp/archives/15835047.html",
+              "id": "alicesoft-extra-denshinokuninoalice-v1",
+              "workId": "alicesoft-extra-denshinokuninoalice"
+            },
+            {
+              "year": 1991,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "FM TOWNS CD合集",
+              "voice": "未核实",
+              "differences": "《ALICEの館CD》1991年发行；馆CD游戏说明确认本作收录，不另计新作品。",
+              "source": "https://alicecottage1989.blog.jp/archives/16436977.html",
+              "id": "alicesoft-extra-denshinokuninoalice-v2",
+              "workId": "alicesoft-extra-denshinokuninoalice"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-sentimentalseason",
+          "title": "感伤季节",
+          "chineseTitle": "感伤季节",
+          "originalTitle": "センチメンタルシーズン",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Sentimental Season"
+          ],
+          "firstYear": 1989,
+          "category": "叙事／养成冒险",
+          "subcategory": "短篇 ADV（具体指令未完整核实）",
+          "genre": "少女幻想／早期合集",
+          "characters": [
+            "幻想中的少女（姓名未核实）"
+          ],
+          "charactersNote": "仅列来源能够核对的人物；未确认姓名以身份注明，不套用母作全部角色。",
+          "charactersSource": "https://rekisikaorurebyu.seesaa.net/article/425840703.html",
+          "synopsis": "短篇围绕一位少女的幻想展开，收录在初代《ALICE之馆》中。现有评测只概述这一主题，人物姓名、事件细节与结局尚未完整核实。",
+          "notes": "独立新剧情短篇，与同馆的问答及CG鉴赏程序区分。Windows版由Wren进行有志移植并获许可配布；收录在官方合集不等于Alicesoft重新开发的Windows原版。",
+          "source": "https://alicecottage1989.blog.jp/archives/16437039.html",
+          "versions": [
+            {
+              "year": 1989,
+              "platform": "PC（早期合集）",
+              "publisher": "Alicesoft",
+              "kind": "早期合集原版",
+              "voice": "未核实",
+              "differences": "《ALICEの館》1989年收录；机种先后与配音未完整核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15835047.html",
+              "id": "alicesoft-extra-sentimentalseason-v1",
+              "workId": "alicesoft-extra-sentimentalseason"
+            },
+            {
+              "year": 1997,
+              "platform": "Windows 95",
+              "publisher": "Alicesoft（合集收录）／Wren（有志移植）",
+              "kind": "获许可移植的合集收录",
+              "voice": "未核实",
+              "differences": "Wren以TOWNS版为基础移植，1997-12-18《馆456》的UNITBASE目录收录；移植版没有音乐，属于有志制作。",
+              "source": "https://alicecottage1989.blog.jp/archives/16437039.html",
+              "id": "alicesoft-extra-sentimentalseason-v2",
+              "workId": "alicesoft-extra-sentimentalseason"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-fukeisanvx",
+          "title": "妇警VX",
+          "chineseTitle": "妇警VX",
+          "originalTitle": "婦警さんVX",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "婦警さんＶＸ",
+            "Policewoman VX",
+            "Fukei-san VX"
+          ],
+          "firstYear": 1989,
+          "category": "叙事／养成冒险",
+          "subcategory": "无图文字冒险／后续图文 ADV",
+          "genre": "现代世界／政治与电脑笑料",
+          "characters": [
+            "登场人物（姓名未核实）"
+          ],
+          "charactersNote": "来源确认现代世界舞台，未确认美树、健太郎本人登场；不将世界观关系当作角色名单。",
+          "charactersSource": "https://w.atwiki.jp/gcmatome/pages/7003.html",
+          "synopsis": "初版是《兰斯1》附带的短小文字冒险，舞台属于美树与健太郎原来生活的现代世界，包含政治和电脑题材笑料。具体案件、人物姓名与职业分配未完整核实。",
+          "notes": "初版无CG，1990年官方ALICE-NET公布带CG版本，两者合计一部。不能把后来的图像、Windows有志移植或2024年民间英译倒填为1989年原版功能；标题VX来自开发者面前的98VX电脑。",
+          "source": "https://alicecottage1989.blog.jp/archives/15822589.html",
+          "versions": [
+            {
+              "year": 1989,
+              "platform": "PC（早期附赠）",
+              "publisher": "Alicesoft",
+              "kind": "无CG附赠原版",
+              "voice": "未核实",
+              "differences": "1989-07-15《Rance》附赠，无CG；各机种发行先后未逐一补录。",
+              "source": "https://alicecottage1989.blog.jp/archives/15822589.html",
+              "id": "alicesoft-extra-fukeisanvx-v1",
+              "workId": "alicesoft-extra-fukeisanvx"
+            },
+            {
+              "year": 1990,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "官方BBS图文版",
+              "voice": "未核实",
+              "differences": "1990-06-08在官方ALICE-NET免费公布带CG版本；与原版合并计数。",
+              "source": "https://alicecottage1989.blog.jp/archives/15822589.html",
+              "id": "alicesoft-extra-fukeisanvx-v2",
+              "workId": "alicesoft-extra-fukeisanvx"
+            },
+            {
+              "year": 1995,
+              "platform": "PC-98（MS-DOS）",
+              "publisher": "Alicesoft（合集）／朱蓮（有志移植）",
+              "kind": "CD合集再收录",
+              "voice": "未核实",
+              "differences": "1995-06-09《ALICEの館3》CD版附带；UNITBASE中使用朱蓮的DOS移植，不作为另一部新游戏。",
+              "source": "https://alicecottage1989.blog.jp/archives/15822589.html",
+              "id": "alicesoft-extra-fukeisanvx-v3",
+              "workId": "alicesoft-extra-fukeisanvx"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-fukeisanda",
+          "title": "妇警DA",
+          "chineseTitle": "妇警DA",
+          "originalTitle": "婦警さんDA",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "婦警さんＤＡ",
+            "Fukei-san DA",
+            "Policewoman DA"
+          ],
+          "firstYear": 1992,
+          "category": "叙事／养成冒险",
+          "subcategory": "续篇短篇游戏（操作未完整核实）",
+          "genre": "制服题材／早期合集",
+          "characters": [
+            "登场人物（姓名未核实）"
+          ],
+          "charactersNote": "未从“妇警”标题推定具体人物身份，姓名及角色关系未核实。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/19289169.html",
+          "synopsis": "《妇警VX》的独立续篇，完整游戏收录于《ALICE之馆II》。现有资料能够确认续作关系和完成版归属，具体剧情、角色姓名及操作方式未完整核实。",
+          "notes": "《兰斯III》附盘只有未完成介绍／预告，不是已完成的可玩版本，不计新增作品或版本。完成版年份按合集1992年记录；个别独立条目误记1993，与合集目录不一致，保留差异说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/19289169.html",
+          "versions": [
+            {
+              "year": 1992,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "完成版合集收录",
+              "voice": "未核实",
+              "differences": "《ALICEの館II》1992-07-15收录完成版；单篇档案误记1993，按合集与游戏目录采用1992。配音未核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15835047.html",
+              "id": "alicesoft-extra-fukeisanda-v1",
+              "workId": "alicesoft-extra-fukeisanda"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-okayufeavernogyakushuu",
+          "title": "Okayu Fever的逆袭",
+          "chineseTitle": "Okayu Fever的逆袭",
+          "originalTitle": "おかゆフィーバーの逆襲",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Okayu Fever no Gyakushuu",
+            "Okayu Fever no Gyakushū"
+          ],
+          "firstYear": 1992,
+          "category": "叙事／养成冒险",
+          "subcategory": "救援与战斗短篇（操作未完整核实）",
+          "genre": "怪物视角／利萨斯城",
+          "characters": [
+            "おかゆフィーバー",
+            "リア"
+          ],
+          "charactersNote": "仅列来源能够核对的人物；未确认姓名以身份注明，不套用母作全部角色。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/19289217.html",
+          "synopsis": "兰斯离开后，利亚将悲伤转向对怪物的欺凌，许多弱小怪物被抓进利萨斯城。Okayu Fever为救出伙伴而潜入城堡，向城内的人类挑战。",
+          "notes": "《ALICE之馆II》的独立短篇，由怪物担任主角；剧情来自游戏开场转录。与《狂殴之塔》和兰斯正传分别计数；未完整核对战斗界面，不强标为通常RPG。",
+          "source": "https://alicecottage1989.blog.jp/archives/19289217.html",
+          "versions": [
+            {
+              "year": 1992,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "合集原版",
+              "voice": "未核实",
+              "differences": "《ALICEの館II》1992-07-15收录；其他机种与配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/19289217.html",
+              "id": "alicesoft-extra-okayufeavernogyakushuu-v1",
+              "workId": "alicesoft-extra-okayufeavernogyakushuu"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-jokyoushimonzetsujigoku",
+          "title": "女教师苦难地狱",
+          "chineseTitle": "女教师苦难地狱",
+          "originalTitle": "女教師悶絶地獄",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Jokyoushi Monzetsu Jigoku",
+            "女教师闷绝地狱"
+          ],
+          "firstYear": 1995,
+          "category": "叙事／养成冒险",
+          "subcategory": "暗黑短篇 ADV（操作未完整核实）",
+          "genre": "女教师／受迫处境",
+          "characters": [
+            "女教师（姓名未核实）"
+          ],
+          "charactersNote": "仅列来源能够核对的人物；未确认姓名以身份注明，不套用母作全部角色。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/23539602.html",
+          "synopsis": "一位女教师受到不良势力侵害与控制，陷入被迫服从的处境。这是《ALICE之馆3》的暗黑短篇；人物姓名、事件起因与分支结构未完整核实。",
+          "notes": "剧情依据原PC-98包装转录，编剧为イマーム。仅概述冲突，不据题材推定玩家身份，也不把与《哀少女劳拉》同属短篇ADV误当成同一部作品。",
+          "source": "https://alicecottage1989.blog.jp/archives/23539602.html",
+          "versions": [
+            {
+              "year": 1995,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "馆3原版收录",
+              "voice": "未核实",
+              "differences": "《ALICEの館3》1995-04-07收录；CD与其他机种不在本批逐版展开，配音未核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/23539602.html",
+              "id": "alicesoft-extra-jokyoushimonzetsujigoku-v1",
+              "workId": "alicesoft-extra-jokyoushimonzetsujigoku"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-aishoujolaura",
+          "title": "哀少女劳拉",
+          "chineseTitle": "哀少女劳拉",
+          "originalTitle": "哀少女ローラ",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Ai Shoujo Laura",
+            "Aishoujo Laura",
+            "哀少女罗拉"
+          ],
+          "firstYear": 1995,
+          "category": "叙事／养成冒险",
+          "subcategory": "暗黑短篇 ADV（操作未完整核实）",
+          "genre": "劳拉／悲剧处境",
+          "characters": [
+            "ローラ"
+          ],
+          "charactersNote": "仅列来源能够核对的人物；未确认姓名以身份注明，不套用母作全部角色。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/22947779.html",
+          "synopsis": "以少女劳拉的悲剧与背德处境为中心的短篇故事。原包装只给出概括性介绍，具体关系、事件经过与结局尚未完整核实。",
+          "notes": "《ALICE之馆3》中的独立短篇，由とり编剧、むつみまさと原画。开发回顾将其与另一篇归为简短ADV；不误标成迷宫RPG，也不虚构亲属、学校或犯罪情节。",
+          "source": "https://alicecottage1989.blog.jp/archives/22947779.html",
+          "versions": [
+            {
+              "year": 1995,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "馆3原版收录",
+              "voice": "未核实",
+              "differences": "《ALICEの館3》1995-04-07收录；其他发行与配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/22947779.html",
+              "id": "alicesoft-extra-aishoujolaura-v1",
+              "workId": "alicesoft-extra-aishoujolaura"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-aliceboken",
+          "title": "Alice的冒险",
+          "chineseTitle": "Alice的冒险",
+          "originalTitle": "ありすのぼーけん",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "アリスのぼ～けん",
+            "アリスのぼーけん",
+            "Alice no Bouken",
+            "Alice的冒险：寻找諭吉"
+          ],
+          "firstYear": 1995,
+          "category": "叙事／养成冒险",
+          "subcategory": "幻想短篇 ADV（具体操作未完整核实）",
+          "genre": "Alice／寻找諭吉",
+          "characters": [
+            "アリス",
+            "諭吉（具体身份未核实）"
+          ],
+          "charactersNote": "官方确认Alice与寻找“諭吉”的经历，但未确认后者为人物；作为目标名保留，不作角色身份判断。",
+          "charactersSource": "https://www.alicesoft.com/rance5d/j_02094.html",
+          "synopsis": "Alice曾独自进入奇妙世界冒险，寻找不见了的“諭吉”。官方问答确认这段经历属于本作；“諭吉”具体指代未核实，因此不写成失踪人物或钞票。",
+          "notes": "《电子之国的Alice》的独立续篇，初收录于《ALICE之馆3》。原名有“アリスのぼ～けん”等异写，均归同一条目；只按官方确认的寻找目标概述剧情。",
+          "source": "https://alicecottage1989.blog.jp/archives/22590358.html",
+          "versions": [
+            {
+              "year": 1995,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "馆3原版收录",
+              "voice": "未核实",
+              "differences": "《ALICEの館3》1995-04-07收录；其他机种及配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/22590358.html",
+              "id": "alicesoft-extra-aliceboken-v1",
+              "workId": "alicesoft-extra-aliceboken"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-toushinrance",
+          "title": "兰斯外传：斗神都市",
+          "chineseTitle": "兰斯外传：斗神都市",
+          "originalTitle": "ランス外伝 -闘神都市-",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "闘神ランス",
+            "Toushin Rance",
+            "Rance Gaiden -Toushin Toshi-"
+          ],
+          "firstYear": 1990,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "番外篇迷你 RPG",
+          "genre": "兰斯替代主人公／斗神赛事",
+          "characters": [
+            "ランス"
+          ],
+          "charactersNote": "仅列来源能够核对的人物；未确认姓名以身份注明，不套用母作全部角色。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/17708061.html",
+          "synopsis": "把《斗神都市》的主人公换成兰斯，重新演绎赛事与冒险。原游戏说明明确这是工作人员以兰斯为主角制作的轻松番外，不能沿用原作主人公的经历作为本作剧情。",
+          "notes": "俗称《斗神兰斯》，官网将其与学园、SF兰斯并列为使用兰斯角色的迷你番外。具有独立内容，单列一部；年份按目录的母作1990年归档，攻略附盘实际寄送年份未完整核实。",
+          "source": "https://alicecottage1989.blog.jp/archives/17708061.html",
+          "versions": [
+            {
+              "year": 1990,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "攻略附盘原版（目录归档年）",
+              "voice": "未核实",
+              "differences": "《闘神都市》攻略附盘收录；目录按母作1990年记载，实际寄送日期及是否跨年至1991尚未核实，不采用母作12月15日作为本作确切首发日。",
+              "source": "https://alicecottage1989.blog.jp/archives/17708061.html",
+              "id": "alicesoft-extra-toushinrance-v1",
+              "workId": "alicesoft-extra-toushinrance"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-sdrance",
+          "title": "SD兰斯：谁是犯人",
+          "chineseTitle": "SD兰斯：谁是犯人",
+          "originalTitle": "SDらんす -犯人は、誰だ-",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ＳＤらんす －犯人は、誰だ－",
+            "SD Rance",
+            "学園ランス",
+            "Gakuen Rance",
+            "学园兰斯"
+          ],
+          "firstYear": 1990,
+          "category": "叙事／养成冒险",
+          "subcategory": "学园调查迷你 ADV",
+          "genre": "学园兰斯／失窃指环",
+          "characters": [
+            "ランス",
+            "ラギシス先生"
+          ],
+          "charactersNote": "仅列来源能够核对的人物；未确认姓名以身份注明，不套用母作全部角色。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/16852985.html",
+          "synopsis": "SD造型的兰斯在学校生活。拉吉西斯老师的指环被盗，他为找出犯人而展开调查，形成与正传奇幻冒险不同的学园短篇。",
+          "notes": "又称《学园兰斯》，正式标题见单篇档案。来自《兰斯II》攻略盘，PC-88／MSX部分版本也在通关后附带；重复收录合并，未完整核实所有机种的具体日期。",
+          "source": "https://alicecottage1989.blog.jp/archives/16852985.html",
+          "versions": [
+            {
+              "year": 1990,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "攻略盘原版",
+              "voice": "未核实",
+              "differences": "单篇档案记1990-06-01，汇总目录沿用母作5月15日；本批采用1990年，确切寄送日期未完全核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/16852985.html",
+              "id": "alicesoft-extra-sdrance-v1",
+              "workId": "alicesoft-extra-sdrance"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-sfrance",
+          "title": "SF兰斯：宇宙海盗",
+          "chineseTitle": "SF兰斯：宇宙海盗",
+          "originalTitle": "SFらんす",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ＳＦらんす",
+            "SFランス",
+            "SF Rance"
+          ],
+          "firstYear": 1993,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "太空海盗冒险 SLG",
+          "genre": "运输船袭击／宇宙警察",
+          "characters": [
+            "ランス",
+            "シィル",
+            "パットン",
+            "ハンティ"
+          ],
+          "charactersNote": "仅列来源能够核对的人物；未确认姓名以身份注明，不套用母作全部角色。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/21367564.html",
+          "synopsis": "大提督兰斯驾驶海盗战舰“兰斯丸”，与部下希露袭击运输船、夺取宝物。巴顿与汉蒂则以宇宙警察身份客串，把熟悉的角色移到太空海盗舞台。",
+          "notes": "《兰斯IV》选项附盘中的独立番外，档案称“超级SF冒险模拟”。不将其误写成《职业学生Good》的机器人战术，也不直接沿用兰斯IV的迷宫RPG系统。",
+          "source": "https://alicecottage1989.blog.jp/archives/21367564.html",
+          "versions": [
+            {
+              "year": 1993,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "IV选项附盘原版（目录归档年）",
+              "voice": "未核实",
+              "differences": "目录按《RanceIV》1993年归档；攻略附盘实际寄送日、其他机种与配音未完整核实，母作12月11日不作为本作确切发行日。",
+              "source": "https://alicecottage1989.blog.jp/archives/21367564.html",
+              "id": "alicesoft-extra-sfrance-v1",
+              "workId": "alicesoft-extra-sfrance"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-abunaibunkasaizenya",
+          "title": "危险文化祭前夜",
+          "chineseTitle": "危险文化祭前夜",
+          "originalTitle": "あぶない文化祭前夜",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Abunai Bunkasai Zenya"
+          ],
+          "firstYear": 1991,
+          "category": "叙事／养成冒险",
+          "subcategory": "移动／交谈／查看／使用指令 ADV",
+          "genre": "学园短篇／文化祭前夕",
+          "characters": [
+            "和美",
+            "由香里",
+            "綾子",
+            "孝司",
+            "祥子"
+          ],
+          "charactersNote": "仅列来源能够核对的人物；未确认姓名以身份注明，不套用母作全部角色。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/34834227.html",
+          "synopsis": "《危险天狗传说》的续篇，将短篇冒险移到文化祭前夕的学校。主人公在教室、社团室与准备室之间移动，通过交谈获取线索，再利用物品推进校内事件。",
+          "notes": "指令操作由攻略中的“移动、交谈、查看、获取、使用”核对。与兰斯III攻略盘同属选项套装但为独立剧本，不把攻略盘自身计作作品。日期资料有矛盾，不能据母作日期宣称准确首发。",
+          "source": "https://alicecottage1989.blog.jp/archives/18569382.html",
+          "versions": [
+            {
+              "year": 1991,
+              "platform": "PC-98／X68000（日期存疑）",
+              "publisher": "Alicesoft",
+              "kind": "选项套装短篇（目录归档年）",
+              "voice": "未核实",
+              "differences": "X68000目录记1991-10-15；PC-98档案明确以母作日期代填，又称2月下旬预计寄送。实际寄送年份、日期未完整核实，本批按1991年目录归档。",
+              "source": "https://alicecottage1989.blog.jp/archives/18569382.html",
+              "id": "alicesoft-extra-abunaibunkasaizenya-v1",
+              "workId": "alicesoft-extra-abunaibunkasaizenya"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-ningengari",
+          "title": "人间狩",
+          "chineseTitle": "人间狩",
+          "originalTitle": "人間狩り",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Ningen Gari",
+            "Ningen-Gari"
+          ],
+          "firstYear": 1997,
+          "category": "棋盘／派对游戏",
+          "subcategory": "最多四人对战的双六棋盘游戏",
+          "genre": "地图搜索／捕获数量竞赛",
+          "characters": [
+            "参加地图竞赛的角色们（姓名未核实）"
+          ],
+          "charactersNote": "评测确认地图上隐藏女孩的竞赛规则，未核实参与者及目标的姓名，不从其他作品借用角色。",
+          "charactersSource": "https://erogereport.blog.jp/tag/アリスソフト",
+          "synopsis": "参与者在小地图中寻找隐藏的女孩，以捕获数量竞争胜负。核心是最多四人游玩的双六棋盘对战；现有资料不足以确认持续主线剧情，故不按长篇视觉小说介绍。",
+          "notes": "作为《馆456》的独立游戏补入厂商专题，明确标为棋盘派对玩法，不以指令ADV或RPG名义收录。原版使用CD-DA，Alice CD再收录使用MIDI；角色姓名尚未核实。",
+          "source": "https://alicecottage1989.blog.jp/archives/28252189.html",
+          "versions": [
+            {
+              "year": 1997,
+              "platform": "Windows 95／NT",
+              "publisher": "Alicesoft",
+              "kind": "馆456原版",
+              "voice": "未核实",
+              "differences": "档案记1997-12-18，Windows 95／NT，ver1.00及CD-DA音乐；个别评测记17日，具体发行日存在差异。",
+              "source": "https://alicecottage1989.blog.jp/archives/28252189.html",
+              "id": "alicesoft-extra-ningengari-v1",
+              "workId": "alicesoft-extra-ningengari"
+            },
+            {
+              "year": 2000,
+              "platform": "Windows 95／98／NT／2000",
+              "publisher": "Alicesoft",
+              "kind": "Alice CD再收录",
+              "voice": "未核实",
+              "differences": "2000-07-06 Alice CD 2.01收录ver1.01，音乐改为MIDI；随后2.02／2.50同内容不再逐次重复列版本。",
+              "source": "https://alicecottage1989.blog.jp/archives/28252189.html",
+              "id": "alicesoft-extra-ningengari-v2",
+              "workId": "alicesoft-extra-ningengari"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-tobira",
+          "title": "扉：门",
+          "chineseTitle": "扉：门",
+          "originalTitle": "[扉] -TOBIRA-",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "［扉］",
+            "TOBIRA",
+            "扉"
+          ],
+          "firstYear": 2001,
+          "category": "叙事／养成冒险",
+          "subcategory": "地点选择／轮换视角 ADV",
+          "genre": "每日短篇／理解人物心境",
+          "characters": [
+            "每日轮换的主人公们（姓名未核实）"
+          ],
+          "charactersNote": "仅列来源能够核对的人物；未确认姓名以身份注明，不套用母作全部角色。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/36008491.html",
+          "synopsis": "玩家跟随不同主人公穿过门，依据他们当时的心情寻找应去的地点，逐日追踪故事。一天结束后转到下一位主人公；走对当日路线才能开启相应回想。",
+          "notes": "游戏内说明直接确认地点选择与主人公轮换，属于独立新剧情ADV；不是门锁谜题或迷宫RPG。游戏原本没有音乐与音效，不能据无音乐推出无角色配音。人物姓名与各篇具体冲突未完整核实。",
+          "source": "https://alicecottage1989.blog.jp/archives/36008491.html",
+          "versions": [
+            {
+              "year": 2001,
+              "platform": "Windows（资料记Me）",
+              "publisher": "Alicesoft",
+              "kind": "Alice CD首发",
+              "voice": "未核实",
+              "differences": "2001-04-19 Alice CD Ver2.02收录；Ver2.50同内容归同一版本记录。原系统System3.9；无音乐和音效，配音未核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/36008491.html",
+              "id": "alicesoft-extra-tobira-v1",
+              "workId": "alicesoft-extra-tobira"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-hentailabyrinth",
+          "title": "HENTAI LABYRINTH：奇异迷宫",
+          "chineseTitle": "HENTAI LABYRINTH：奇异迷宫",
+          "originalTitle": "HENTAI LABYRINTH（ヘンタイ・ラビリンス）",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ヘンタイ・ラビリンス",
+            "Hentai Labyrinth"
+          ],
+          "firstYear": 2020,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "地图节点探索＋回合制指令 RPG",
+          "genre": "奇异世界／与姐姐同行",
+          "characters": [
+            "お姉さん（姓名未核实）",
+            "探索者（姓名未核实）"
+          ],
+          "charactersNote": "官方只称同行人物为“お姉さん”；姓名及其与探索者的关系未核实，不写成亲姐姐。",
+          "charactersSource": "https://www.alicesoft.com/information/2020/entry002611.html",
+          "synopsis": "玩家与被称作“姐姐”的人物一起探索奇异世界。从管理塔开始，再进入森林、湖与宅邸等区域，也会发现河童巢穴和糖果之国等小地图；选择会影响事件与结局。",
+          "notes": "本作发行时由Alicesoft制作协助／出品，品牌署名IMYUIC(ALICESOFT)。2022年IMYUIC完全独立，官方确认本作仍由Alicesoft管理；本条不代表独立后的其他作品属于Alicesoft。2021年实体版公告只核实了预计日期，暂不增列已发行版本。",
+          "source": "https://www.alicesoft.com/information/2020/entry002612.html",
+          "versions": [
+            {
+              "year": 2020,
+              "platform": "Windows",
+              "publisher": "IMYUIC(ALICESOFT)",
+              "kind": "下载首发",
+              "voice": "未核实",
+              "differences": "2020-07-30发行，节点点击探索、回合制菜单战斗；发行品牌IMYUIC(ALICESOFT)，配音未核实。",
+              "source": "https://www.alicesoft.com/information/2020/entry002611.html",
+              "id": "alicesoft-extra-hentailabyrinth-v1",
+              "workId": "alicesoft-extra-hentailabyrinth"
+            }
+          ]
         }
       ],
-      "relatedSectionTitle": "专题补充作品：105部（含指令ADV与Alice Blue 6部）",
+      "relatedSectionTitle": "专题补充作品：120部（含Alice Blue 6部、IMYUIC历史合作1部）",
       "relatedCountLabel": "独立作品；再版及扩充合并",
-      "relatedIntro": "本区累计105部作品。第十一批新增《兰斯1》《入侵者》《CRESCENT MOON少女》《危险天狗传说》、五个D.P.S.发行标题、《Dr.STOP!》《职业学生G》《二律背反》《梦幻泡影》《宇宙快盗Funny Bee》《夜之梦鬼》。指令型游戏按新要求纳入；菜单式指令不等于自由输入文字，短篇集、再版与重制按统一规则计数。",
-      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计132部（Alicesoft本品牌126部、Alice Blue 6部）；主库关联27部，专题补充105部。自第十一批起纳入指令型游戏。</strong></p>"
+      "relatedIntro": "本区累计120部作品。第十二批补入电子之国的Alice、感伤季节、妇警VX／DA、Okayu Fever的逆袭、女教师苦难地狱、哀少女劳拉、Alice的冒险、斗神／SD／SF兰斯、危险文化祭前夜、人间狩、扉和HENTAI LABYRINTH。各作玩法、合集与版本归属单独核对；资料不足处保留核实范围，不将目录视为完整。",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计147部（Alicesoft本品牌140部、Alice Blue 6部、IMYUIC历史合作1部）；主库关联27部，专题补充120部。</strong></p>"
     }
   ]
 }
