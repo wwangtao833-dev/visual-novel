@@ -7668,9 +7668,9 @@
       "id": "alicesoft",
       "name": "Alicesoft",
       "checkedAt": "2026-10-03",
-      "status": "第六批完成：专题累计 57 部作品",
-      "scope": "已核对 57 部 Alicesoft 作品：原主库关联作品 27 部，专题 RPG／SLG 30 部。第六批只扩充专题，与主库及全部专题去重；不新增纯文本指令或图文指令冒险。厂商全目录尚未完成。",
-      "versionScope": "专题累计 78 条版本。本批新增 15 部作品、22 条版本；重制、增强版与再版归入对应作品。未核实的发行日及配音明确保留待核实状态。",
+      "status": "第七批完成：专题累计 72 部作品",
+      "scope": "已核对 72 部 Alicesoft 作品：原主库关联作品 27 部，专题补充作品 45 部。第七批只扩充专题，与主库及全部专题去重；不新增纯文本指令或图文指令冒险。厂商全目录尚未完成。",
+      "versionScope": "专题累计 97 条版本。本批新增 15 部作品、19 条版本；重制、廉价版与再版归入对应作品。发行日期或配音未逐版核实的部分在各条内注明。",
       "publisherNote": "Alicesoft 并行开发叙事 ADV、RPG 和地区战略模拟。本专题分别展示其实际玩法，并以中文名称、日文原名、剧情、角色及来源组织阅读。",
       "workIds": [
         "g482",
@@ -7730,13 +7730,13 @@
         "g507",
         "g508"
       ],
-      "catalogueEntryCount": 57,
+      "catalogueEntryCount": 72,
       "source": "https://www.alicesoft.com/game/index.html",
       "sectionTitle": "叙事及养成 ADV：27 部",
       "overviewLabel": "已核对作品（含 RPG／SLG）",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "第六批新增 15 部作品、22 条版本；仅更新本专题。",
-      "auditNote": "专题累计 57 部作品、78 条版本：主库关联 27 部／36 条，专题跨类型区 30 部／42 条。首页主数据库未改动，仍为 505 部／922 条。",
+      "auditLabel": "第七批新增 15 部作品、19 条版本；仅更新本专题。",
+      "auditNote": "专题累计 72 部作品、97 条版本：主库关联 27 部／36 条，专题补充区 45 部／61 条。首页主数据库未改动，仍为 505 部／922 条。",
       "entries": [
         {
           "title": "妻みぐい3",
@@ -7886,7 +7886,7 @@
           "title": "其余旧作 ADV（1989—2015）",
           "status": "后续批次：待逐项整理",
           "workIds": [],
-          "reason": "第二、三批已补入八部旧作；其余早期短篇、独立 ADV 继续核对玩法、角色和发行资料，排除纯文本指令与图文指令游戏。",
+          "reason": "第七批补入《AliveZ》《江户乱世》《Hushaby Baby》及《斗神都市II》后日谈等；其余短篇与独立ADV继续核对，排除纯文本指令与图文指令游戏。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -8152,7 +8152,7 @@
           "title": "其余 RPG／SLG、Fan Disc 及移植",
           "status": "后续批次待核对",
           "workIds": [],
-          "reason": "第六批已补入斗神都市前两作、粉彩铃音初代、DALK、GALZOO 等；兰斯前三作与重制关系、其他独立 RPG、Fan Disc 和海外版本继续核对，不把全目录标为完成。",
+          "reason": "第七批补入《零式》《王道勇者》《PERSIOM》《Only You》《学园KING》《迷宫与人偶》等；兰斯前三作及重制关系、其他独立RPG、Fan Disc和海外发行继续核对，不将全目录标为完成。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -8304,11 +8304,161 @@
           ],
           "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
           "source": "https://www.alicesoft.com/bladebriders/"
+        },
+        {
+          "title": "零式",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-zeroshiki"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://www.ymgal.games/ga11683"
+        },
+        {
+          "title": "王道勇者",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-oudouyuusha"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://als.sakura.ne.jp/ko-ji/alice/oudou/index.html"
+        },
+        {
+          "title": "PERSIOM -約束の集う場所-",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-persiom"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://als.sakura.ne.jp/ko-ji/alice/persiom/"
+        },
+        {
+          "title": "Only You -世紀末のジュリエット達-",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-onlyyou"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://www.alicesoft.com/onlyyou/media.html"
+        },
+        {
+          "title": "ぷろすちゅーでんとGood",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-prostudentgood"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://als.sakura.ne.jp/ko-ji/alice/good/index.html"
+        },
+        {
+          "title": "学園KING －日出彦 学校をつくる－",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-gakuenking"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://hannylaboratory.blogspot.com/2023/05/blog-post_18.html"
+        },
+        {
+          "title": "かえるにょ国にょアリス",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-kaerunyokuni"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://wikipedia.classicistranieri.com/ja/articles/か/え/る/かえるにょ国にょアリス.html"
+        },
+        {
+          "title": "闘神都市II そして、それから…",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-toushin2after"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://alicecottage1989.blog.jp/archives/25207884.html"
+        },
+        {
+          "title": "AliveZ",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-alivez"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://www.alicesoft.com/alivez/"
+        },
+        {
+          "title": "エドランゼ ～Come on!水戸姫様～",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-edoranze"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://nayutam.exblog.jp/7643077/"
+        },
+        {
+          "title": "超昂大戦 エスカレーションヒロインズ",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-escalationheroines"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://www.alicesoft.com/escalationheroines/"
+        },
+        {
+          "title": "戦巫女 －Vestal virgin－",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-ikusamiko"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://alicecottage1989.blog.jp/archives/27668023.html"
+        },
+        {
+          "title": "守り神様",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-mamorigamisama"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://als.sakura.ne.jp/ko-ji/alice/mamori/index.html"
+        },
+        {
+          "title": "Hushaby Baby",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-hushabybaby"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://www.ymgal.games/ga12793"
+        },
+        {
+          "title": "DUNGEONS&DOLLS",
+          "status": "第七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-dungeonsdolls"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
+          "source": "https://wikipedia.classicistranieri.com/ja/articles/d/u/n/DUNGEONS%26DOLLS_0879.html"
         }
       ],
-      "description": "Alicesoft 作品专题：57 部作品、78 条版本，含中文名、原名、剧情、角色、玩法及来源。",
+      "description": "Alicesoft 作品专题：72 部作品、97 条版本，含中文名、原名、剧情、角色、玩法及来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft 的叙事与玩法长期并行发展。本专题的 57 部作品同时包括阅读及养成 ADV、迷宫 RPG、战术 RPG 和地域战略。下列比较依据已核对的作品系统，不将某一企划线视作厂商整体转型。",
+        "thesis": "Alicesoft 的叙事与玩法长期并行发展。本专题的 72 部作品同时包括阅读及养成 ADV、迷宫 RPG、战术 RPG 和地域战略。下列比较依据已核对的作品系统，不将某一企划线视作厂商整体转型。",
         "phases": [
           {
             "period": "1989—2005",
@@ -9677,12 +9827,636 @@
               "source": "https://www.alicesoft.com/bladebriders/"
             }
           ]
+        },
+        {
+          "id": "alicesoft-extra-zeroshiki",
+          "title": "零式",
+          "originalTitle": "零式",
+          "chineseTitle": "零式",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "TYPE ZERO",
+            "Reishiki"
+          ],
+          "firstYear": 1997,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "迷宫 RPG／资源规划",
+          "genre": "近未来／机械兵器",
+          "characters": [
+            "鳳あかね",
+            "鳳なおみ"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://www.ymgal.games/ga11683",
+          "synopsis": "人类制造的核心兵器失控后，在地下不断建造兵工设施。部分封锁区又成为民间竞技场，鳳あかね的地下探索就在这样的世界展开；补给与前进路线的取舍构成主要挑战。",
+          "notes": "以迷宫战斗和资源管理推进；最初收于《ALICE之馆4・5・6》，独立廉价版合并为同一作品。",
+          "source": "https://www.ymgal.games/ga11683",
+          "versions": [
+            {
+              "id": "alicesoft-extra-zeroshiki-v1",
+              "workId": "alicesoft-extra-zeroshiki",
+              "year": 1997,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "合集首发",
+              "voice": "未核实",
+              "differences": "1997-12-18 随《アリスの館4・5・6》发行。配音尚未逐版核实。",
+              "source": "https://www.ymgal.games/ga11683"
+            },
+            {
+              "id": "alicesoft-extra-zeroshiki-v2",
+              "workId": "alicesoft-extra-zeroshiki",
+              "year": 2000,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "独立廉价版",
+              "voice": "未核实",
+              "differences": "2000-09-14 独立发行；沿用原作，未另计作品。",
+              "source": "https://www.ymgal.games/ga11683"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-oudouyuusha",
+          "title": "王道勇者",
+          "originalTitle": "王道勇者",
+          "chineseTitle": "王道勇者",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 1998,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "探索 RPG",
+          "genre": "失忆／剑与魔法",
+          "characters": [
+            "ザンバ",
+            "ファネル",
+            "ルーシア",
+            "アンゼリカ",
+            "ベル"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://als.sakura.ne.jp/ko-ji/alice/oudou/index.html",
+          "synopsis": "失去记忆的ザンバ前往拉纳提亚大陆寻找过去，途中结识各自背负苦难的伙伴。对身世的追索逐渐卷入神与魔的冲突，地点、时段和迷宫探索共同推动人物事件。",
+          "notes": "原作属于热血 RPG；角色名单与故事依据旧作介绍页，首发日期另据作品目录。",
+          "source": "https://als.sakura.ne.jp/ko-ji/alice/oudou/index.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-oudouyuusha-v1",
+              "workId": "alicesoft-extra-oudouyuusha",
+              "year": 1998,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "1998-04-02 首发。配音尚未核实。",
+              "source": "https://www.ymgal.games/oa10009"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-persiom",
+          "title": "PERSIOM：约定汇聚之地",
+          "originalTitle": "PERSIOM -約束の集う場所-",
+          "chineseTitle": "PERSIOM：约定汇聚之地",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "PERSIOM‐約束の集う場所‐",
+            "PERSIOM"
+          ],
+          "firstYear": 2000,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "多主角迷宫 RPG",
+          "genre": "王国／圣剑／各自的愿望",
+          "characters": [
+            "ミシェーラ",
+            "クロア",
+            "JK",
+            "リカルド"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://als.sakura.ne.jp/ko-ji/alice/persiom/",
+          "synopsis": "公主ミシェーラ为兄长寻找王家圣剑，受训为刺客的クロア向往骑士之路，旅人JK则带来另一条视角。玩家选择不同主角，在PERSIOM王国探索迷宫，让各自的目标与人物关系逐步交会。",
+          "notes": "RPG与事件选择结合，三位可选主角属于同一作品。",
+          "source": "https://als.sakura.ne.jp/ko-ji/alice/persiom/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-persiom-v1",
+              "workId": "alicesoft-extra-persiom",
+              "year": 2000,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "2000-04-13 首发。配音尚未核实。",
+              "source": "https://www.ymgal.games/oa10009"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-onlyyou",
+          "title": "Only You：世纪末的朱丽叶们",
+          "originalTitle": "Only You -世紀末のジュリエット達-",
+          "chineseTitle": "Only You：世纪末的朱丽叶们",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Only You",
+            "Only you -リ・クルス-",
+            "Only You －世紀末のジュリエットたち－"
+          ],
+          "firstYear": 1996,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "限时 ADV＋RPG",
+          "genre": "格斗／命运／恋爱",
+          "characters": [
+            "魔神勇二",
+            "恵",
+            "秋月",
+            "美咲",
+            "若人"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/onlyyou/media.html",
+          "synopsis": "格斗部成员魔神勇二的右臂浮现毁灭刻印，被各方当成威胁追杀。他在伙伴相助下反抗被规定的命运；玩家在有限日程中选择地点与事件，通过战斗成长，走向不同结局。",
+          "notes": "1996年会员版与2001年《リ・クルス》重制版合并；剧情及玩法介绍主要依据重制版官方资料。旧版日期采用留存目录所引厂商35周年回顾的1996-01-19。",
+          "source": "https://www.alicesoft.com/onlyyou/media.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-onlyyou-v1",
+              "workId": "alicesoft-extra-onlyyou",
+              "year": 1996,
+              "platform": "PC-9801／FM TOWNS／Windows",
+              "publisher": "Alicesoft",
+              "kind": "会员限定首发",
+              "voice": "未核实",
+              "differences": "1996-01-19 会员渠道发行；FD版及多平台CD版合记首发，不按载体重复计作品。",
+              "source": "https://alicecottage1989.blog.jp/archives/25380023.html"
+            },
+            {
+              "id": "alicesoft-extra-onlyyou-v2",
+              "workId": "alicesoft-extra-onlyyou",
+              "year": 2001,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "重制版",
+              "voice": "无",
+              "differences": "2001-07-26《Only you -リ・クルス-》发行，调整并增补剧情。官网明确标注无角色配音。",
+              "source": "https://www.alicesoft.com/onlyyou/media.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-prostudentgood",
+          "title": "职业学生Good",
+          "originalTitle": "ぷろすちゅーでんとGood",
+          "chineseTitle": "职业学生Good",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ぷろすちゅ★でんとGood",
+            "ProStudent Good"
+          ],
+          "firstYear": 1999,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "机器人战术 RPG",
+          "genre": "机器人／校园喜剧",
+          "characters": [
+            "猿藤悟郎",
+            "姫夜木紫音",
+            "桜小路牡丹",
+            "四条沙羅沙",
+            "高見柚子"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://als.sakura.ne.jp/ko-ji/alice/good/index.html",
+          "synopsis": "“忧国机团”的巨大机器人威胁地球，猿藤悟郎与伙伴们驾驶机体迎击。故事把夸张的校园闹剧与机器人战斗交织起来，以各机师的能力和关卡行动推进对抗。",
+          "notes": "系列第二作，具有独立剧情与战术战斗；不是《ぷろすちゅーでんとG》的改名再版。Good廉价版后期改用星号标题，仍归此条。",
+          "source": "https://als.sakura.ne.jp/ko-ji/alice/good/index.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-prostudentgood-v1",
+              "workId": "alicesoft-extra-prostudentgood",
+              "year": 1999,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "无",
+              "differences": "1999-01-14 首发，原版附Alice CD；留存规格记载无角色配音。",
+              "source": "https://alicecottage1989.blog.jp/archives/29721228.html"
+            },
+            {
+              "id": "alicesoft-extra-prostudentgood-v2",
+              "workId": "alicesoft-extra-prostudentgood",
+              "year": 2002,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "廉价版",
+              "voice": "未核实",
+              "differences": "2002-04-19 廉价版发行，不再附Alice CD；后期批次标题改为《ぷろすちゅ★でんとGood》。",
+              "source": "https://alicecottage1989.blog.jp/archives/29721228.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-gakuenking",
+          "title": "学园KING：日出彦创建学校",
+          "originalTitle": "学園KING －日出彦 学校をつくる－",
+          "chineseTitle": "学园KING：日出彦创建学校",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "学園KING",
+            "学园王"
+          ],
+          "firstYear": 1996,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "校园群体战斗 RPG",
+          "genre": "继承试炼／学园争霸",
+          "characters": [
+            "日出彦",
+            "小林",
+            "ひなこ",
+            "須磨子"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://hannylaboratory.blogspot.com/2023/05/blog-post_18.html",
+          "synopsis": "富家继承人日出彦被要求统一一座学园林立的岛屿，建立天帝学园以完成家主试炼。他与管家小林等伙伴招募队伍、周旋于各校势力之间，荒诞的人物关系贯穿旅途。",
+          "notes": "依据开发者TADA的制作回顾，包含兵员、阵形与角色成长的RPG系统。首发记为1996年6月，不把后来的非官方运行工具当作新版本。",
+          "source": "https://hannylaboratory.blogspot.com/2023/05/blog-post_18.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-gakuenking-v1",
+              "workId": "alicesoft-extra-gakuenking",
+              "year": 1996,
+              "platform": "PC-9801",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "1996年6月发行；开发者制作回顾确认平台与月份。配音尚未核实。",
+              "source": "https://hannylaboratory.blogspot.com/2023/05/blog-post_18.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-kaerunyokuni",
+          "title": "爱丽丝的青蛙之国",
+          "originalTitle": "かえるにょ国にょアリス",
+          "chineseTitle": "爱丽丝的青蛙之国",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Kaeru Nyo Kuni Nyo Alice"
+          ],
+          "firstYear": 2000,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "关卡制战术 SLG",
+          "genre": "跨作品联动／救援冒险",
+          "characters": [
+            "アリス",
+            "諭吉",
+            "アリエッタ",
+            "シィル",
+            "ライセン"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://wikipedia.classicistranieri.com/ja/articles/か/え/る/かえるにょ国にょアリス.html",
+          "synopsis": "得知乌鸦伙伴諭吉被带到怪物岛，爱丽丝召唤不同作品的角色组成救援队。玩家选择关卡、配置装备并在横向推进的战场作战，应对不同通关条件。",
+          "notes": "《20世纪Alice》中的独立联动游戏；虽借用其他作品角色，具有自己的关卡与救援故事，不是前作再版。",
+          "source": "https://wikipedia.classicistranieri.com/ja/articles/か/え/る/かえるにょ国にょアリス.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-kaerunyokuni-v1",
+              "workId": "alicesoft-extra-kaerunyokuni",
+              "year": 2000,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "合集首发",
+              "voice": "无",
+              "differences": "2000-12-07 随《20世紀アリス》发行。作品本身无成人场景，合集的分级不等同于单篇内容。",
+              "source": "https://wikipedia.classicistranieri.com/ja/articles/か/え/る/かえるにょ国にょアリス.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-toushin2after",
+          "title": "斗神都市2：此后的故事",
+          "originalTitle": "闘神都市II そして、それから…",
+          "chineseTitle": "斗神都市2：此后的故事",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "闘神都市II そしてそれから…",
+            "闘神都市II そして、それから・・・",
+            "斗神都市2后日谈"
+          ],
+          "firstYear": 1995,
+          "category": "叙事／养成冒险",
+          "subcategory": "线性视觉小说",
+          "genre": "后日谈／修行／成长",
+          "characters": [
+            "シード",
+            "瑞原葉月"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/25207884.html",
+          "synopsis": "离开斗神都市半年后，シード仍在不断修行。葉月的父亲命他独自前往怪物出没的荒野停留一周；这篇后日谈以小说形式延续两人的经历，关注大战之后如何重新获得力量。",
+          "notes": "独立发行的后日谈数字小说，无选择分支；与RPG本篇及其移植版分开。不把非官方移植工具计入版本。",
+          "source": "https://alicecottage1989.blog.jp/archives/25207884.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-toushin2after-v1",
+              "workId": "alicesoft-extra-toushin2after",
+              "year": 1995,
+              "platform": "PC-9801／FM TOWNS／Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "1995-12-08 以多平台CD发行，内容为本篇之后的新故事。配音尚未核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/25207884.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-alivez",
+          "title": "AliveZ：未知的生命",
+          "originalTitle": "AliveZ",
+          "chineseTitle": "AliveZ：未知的生命",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "アライヴズ"
+          ],
+          "firstYear": 2008,
+          "category": "叙事／养成冒险",
+          "subcategory": "阅读与选择型 ADV",
+          "genre": "异能／回忆／人物群像",
+          "characters": [
+            "神座骸",
+            "竹河いばら",
+            "ドリー",
+            "楠原柚希",
+            "御堂轟駁"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://w.atwiki.jp/ercr/pages/2293.html",
+          "synopsis": "神座骸与竹河いばら等人的故事在异能战斗和过去的回忆之间展开。不同阵营的人物各有纠葛与执念，随着往事被揭开，他们必须面对彼此的关系，以及继续活下去的选择。",
+          "notes": "全语音ADV，包含战斗场景的选项。追加剧本由官方更新程序加入原游戏，未拆作新作品或独立发行版。",
+          "source": "https://www.alicesoft.com/alivez/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-alivez-v1",
+              "workId": "alicesoft-extra-alivez",
+              "year": 2008,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "有",
+              "differences": "2008-09-26 首发；官网规格标注全语音。后续追加剧本补丁合并于本版说明。",
+              "source": "https://www.ymgal.games/oa10009"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-edoranze",
+          "title": "江户乱世：来吧！水户公主",
+          "originalTitle": "エドランゼ ～Come on!水戸姫様～",
+          "chineseTitle": "江户乱世：来吧！水户公主",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "江戸乱世 エドランゼ",
+            "江户乱世"
+          ],
+          "firstYear": 2008,
+          "category": "叙事／养成冒险",
+          "subcategory": "线性故事／选择型 ADV",
+          "genre": "架空江户／喜剧",
+          "characters": [
+            "水戸姫海里",
+            "藤林銀",
+            "遠山千影",
+            "尾上菊"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://nayutam.exblog.jp/7643077/",
+          "synopsis": "故事将时代剧人物与现代化的江户喜剧舞台混合，围绕水户姬、忍者与巫女茶屋的人们展开短篇闹剧。流程以单线阅读为主，选错关键行动会进入失败结局。",
+          "notes": "随活动商品套装发行的独立短篇；角色与玩法依据同期评介，发行记录另据目录，不把附赠刊物作为游戏版本。",
+          "source": "https://nayutam.exblog.jp/7643077/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-edoranze-v1",
+              "workId": "alicesoft-extra-edoranze",
+              "year": 2008,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "活动套装首发",
+              "voice": "有",
+              "differences": "2008-10-12 活动套装发行；同期评介记载全语音。",
+              "source": "https://www.ymgal.games/oa10009"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-escalationheroines",
+          "title": "超昂大战：Escalation Heroines",
+          "originalTitle": "超昂大戦 エスカレーションヒロインズ",
+          "chineseTitle": "超昂大战：Escalation Heroines",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "超昂大戦",
+            "超昂大战"
+          ],
+          "firstYear": 2020,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "在线队伍养成 RPG",
+          "genre": "变身英雄／时空／地球防卫",
+          "characters": [
+            "戦部トキサダ",
+            "ユーノ",
+            "園崎アカリ",
+            "加古野ヒビキ",
+            "春雛うらら"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/escalationheroines/",
+          "synopsis": "来自毁灭未来的戦部トキサダ与ユーノ在现代组织防卫力量，联合不同来历的超昂战士对抗入侵者。玩家培养队员、调整出击安排与装备，在连续章节和角色事件中推进地球防卫故事。",
+          "notes": "在线服务作品，与《超昂天使》《超昂闪忍》《超昂神骑》单机作分开；常规活动和章节更新不逐项计作版本。",
+          "source": "https://www.alicesoft.com/escalationheroines/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-escalationheroines-v1",
+              "workId": "alicesoft-extra-escalationheroines",
+              "year": 2020,
+              "platform": "PC浏览器",
+              "publisher": "Alicesoft",
+              "kind": "在线服务首发",
+              "voice": "有",
+              "differences": "2020-11-25 开始服务。此条记录浏览器首发；官网另列Android平台，其独立上线日期本批未核实。",
+              "source": "https://www.alicesoft.com/information/2020/entry002660.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-ikusamiko",
+          "title": "战巫女：Vestal Virgin",
+          "originalTitle": "戦巫女 －Vestal virgin－",
+          "chineseTitle": "战巫女：Vestal Virgin",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "戦巫女 -Vestal virgin-"
+          ],
+          "firstYear": 1997,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "日程养成 SLG",
+          "genre": "神社／驱魔／师徒",
+          "characters": [
+            "皇志狼",
+            "飛鳥ちとせ",
+            "山本小夜子",
+            "氷室サキ"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/27668023.html",
+          "synopsis": "皇志狼为救下遭妖魔袭击的飛鳥ちとせ，将力量交给她，随后住进八握神社指导她成长。修行、日常安排与对妖魔的战斗相互影响，构成培养战巫女的故事。",
+          "notes": "一般向养成作品，包含角色配音。1999年廉价版与原版合并，光盘数量变化不增加作品数。",
+          "source": "https://alicecottage1989.blog.jp/archives/27668023.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-ikusamiko-v1",
+              "workId": "alicesoft-extra-ikusamiko",
+              "year": 1997,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "有",
+              "differences": "1997-10-30 双CD版发行，含角色配音。",
+              "source": "https://alicecottage1989.blog.jp/archives/27668023.html"
+            },
+            {
+              "id": "alicesoft-extra-ikusamiko-v2",
+              "workId": "alicesoft-extra-ikusamiko",
+              "year": 1999,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "廉价版",
+              "voice": "有",
+              "differences": "1999-09-30 廉价版发行，调整CD音轨长度后改为单CD，仍为同一作品。",
+              "source": "https://alicecottage1989.blog.jp/archives/27668023.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-mamorigamisama",
+          "title": "守护神大人",
+          "originalTitle": "守り神様",
+          "chineseTitle": "守护神大人",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Mamorigami-sama"
+          ],
+          "firstYear": 1999,
+          "category": "叙事／养成冒险",
+          "subcategory": "日程干预型养成 ADV",
+          "genre": "家庭／守护／一周生活",
+          "characters": [
+            "小野寺裕行",
+            "小野寺加代子",
+            "小野寺真由美",
+            "小野寺晋太郎",
+            "ミルク"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://als.sakura.ne.jp/ko-ji/alice/mamori/index.html",
+          "synopsis": "小野寺家的父亲离家一周，玩家作为守护神观察家人的生活。夜间分配力量、调整运气或排除影响，白天再看人物的行动结果；有限干预把一家人的日常导向不同结局。",
+          "notes": "核心是日程、参数干预与结果观察，不是反复输入查看／交谈指令的冒险解谜。",
+          "source": "https://als.sakura.ne.jp/ko-ji/alice/mamori/index.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-mamorigamisama-v1",
+              "workId": "alicesoft-extra-mamorigamisama",
+              "year": 1999,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "1999-03-25 首发。配音尚未核实。",
+              "source": "https://www.ymgal.games/oa10009"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-hushabybaby",
+          "title": "Hushaby Baby：离别前的摇篮曲",
+          "originalTitle": "Hushaby Baby",
+          "chineseTitle": "Hushaby Baby：离别前的摇篮曲",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "HUSHABY BABY",
+            "ハッシャバイベイビー"
+          ],
+          "firstYear": 1999,
+          "category": "叙事／养成冒险",
+          "subcategory": "线性视觉小说",
+          "genre": "重逢／幽灵／告别",
+          "characters": [
+            "日羽"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://www.ymgal.games/ga12793",
+          "synopsis": "恋人在列车事故中去世约一个月后，主人公却在家门前再次见到她。他们共同度过逝后四十九日到来前的短暂时光，在熟悉的日常中面对一次迟来的告别。",
+          "notes": "会员渠道发行的线性阅读作品，可切换关西方言与标准语文本；这两种文本模式不另计版本。角色资料目前仅列可核对的日羽。",
+          "source": "https://www.ymgal.games/ga12793",
+          "versions": [
+            {
+              "id": "alicesoft-extra-hushabybaby-v1",
+              "workId": "alicesoft-extra-hushabybaby",
+              "year": 1999,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "会员限定首发",
+              "voice": "未核实",
+              "differences": "1999-09-30 Windows CD版发行。配音尚未核实；文本模式开关属于同一发行版。",
+              "source": "https://alicecottage1989.blog.jp/archives/31069483.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-dungeonsdolls",
+          "title": "迷宫与人偶",
+          "originalTitle": "DUNGEONS&DOLLS",
+          "chineseTitle": "迷宫与人偶",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "DUNGEONS & DOLLS",
+            "Dungeons and Dolls",
+            "ダンジョンアンドドールズ"
+          ],
+          "firstYear": 2004,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "迷宫探索 RPG",
+          "genre": "人偶伙伴／反复探索",
+          "characters": [
+            "主人公（可命名）",
+            "博士",
+            "ひよぴん"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://wikipedia.classicistranieri.com/ja/articles/d/u/n/DUNGEONS%26DOLLS_0879.html",
+          "synopsis": "青年受博士委托，与共同制作的人偶伙伴深入迷宫。每次离开迷宫，他的等级都会重置，而人偶保留部分成长；反复探索所得的装备与伙伴能力，让下一次旅程走得更远。",
+          "notes": "《ALICE之馆7》收录的独立迷宫游戏，主角与人偶可命名。暂只收录已核对的离线首发，不将限时网络实验版混记为首发。",
+          "source": "https://wikipedia.classicistranieri.com/ja/articles/d/u/n/DUNGEONS%26DOLLS_0879.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-dungeonsdolls-v1",
+              "workId": "alicesoft-extra-dungeonsdolls",
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "合集首发",
+              "voice": "无",
+              "differences": "2004-12-17 随《アリスの館7》发行；无角色配音。",
+              "source": "https://wikipedia.classicistranieri.com/ja/articles/d/u/n/DUNGEONS%26DOLLS_0879.html"
+            }
+          ]
         }
       ],
-      "relatedSectionTitle": "RPG 与战略模拟：30 部",
+      "relatedSectionTitle": "专题补充作品：45 部",
       "relatedCountLabel": "独立作品；再版及扩充合并",
-      "relatedIntro": "本区累计收录 30 部 RPG／SLG。第六批补充《斗神都市》前两作、《DALK》两作、《兰斯4》及两篇外传、《鬼畜王兰斯》、《粉彩铃音》初代、《夜幕降临！》、《GALZOO》等 15 部作品；通过本页中文目录定位。",
-      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计 57 部；其中主库关联 27 部，跨类型区 30 部。</strong></p>"
+      "relatedIntro": "本区累计收录 45 部作品，逐作标明阅读、养成、RPG或SLG玩法。第七批补充《零式》《王道勇者》《Only You》《学园KING》《PERSIOM》《AliveZ》《战巫女》《超昂大战》等15部；合集中的独立故事单列，重制与廉价版仍合并。",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计 72 部；其中主库关联 27 部，专题补充区 45 部。</strong></p>"
     }
   ]
 }
