@@ -7668,10 +7668,10 @@
       "id": "alicesoft",
       "name": "Alicesoft",
       "checkedAt": "2026-10-04",
-      "status": "第十二批完成：专题累计147部作品（含指令及历史关联品牌）",
-      "scope": "已整理147部作品：Alicesoft本品牌140部、Alice Blue 6部、历史合作品牌IMYUIC 1部；主库关联27部，专题补充120部。指令型游戏纳入专题，逐作区分文字冒险、图文菜单、地点选择、战斗指令与棋盘玩法。去重覆盖主库及全部专题；部分旧作剧情、人物或发行日期仍有限，厂商全目录尚未完成。",
-      "versionScope": "专题累计203条版本。本批新增15部作品、20条版本；无图／图文版、许可移植及合集再收录归同一作品。《妇警DA》仅预告不列可玩版本，攻略附盘的母作归档年不作为准确寄送日期，日期疑点逐条说明。",
-      "publisherNote": "Alicesoft作品涵盖指令与阅读ADV、养成、RPG、SLG及棋盘游戏，Alice Blue另有人物关系与王子冒险作品。《HENTAI LABYRINTH》按发行时IMYUIC(ALICESOFT)署名列为历史合作，2022年后IMYUIC独立作品不因此纳入。",
+      "status": "第十三批完成：专题累计158部作品（含指令及历史关联品牌）",
+      "scope": "已整理158部作品：Alicesoft本品牌149部、Alice Blue 6部、AliceNoir 2部、历史合作品牌IMYUIC 1部；主库关联27部，专题补充131部。纳入指令、阅读与问答冒险、RPG／SLG、棋盘及独立动作小游戏，玩法分别标注。去重覆盖主库和全部专题；部分旧作剧情、人物及日期仍有资料缺口，厂商目录尚未完成。",
+      "versionScope": "专题累计216条版本。本批新增11部作品、13条版本：新作版本12条，已有AliveZ增加依赖母作的十四篇剧本追加包1条。女仆的推荐官方再配布合并同作，quik会场体验不重复计版本；1992年零式使用母作归档年而非准确寄送日。",
+      "publisherNote": "本专题区分Alicesoft本品牌、Alice Blue、AliceNoir及发行时关联的IMYUIC。AliceNoir的Nor结合剧情与打字战斗，翡翠之眸为麻将式对战；不借品牌关系复制人物或游戏系统。IMYUIC独立后的其他作品不因此计入Alicesoft。",
       "workIds": [
         "g482",
         "g483",
@@ -7730,13 +7730,13 @@
         "g507",
         "g508"
       ],
-      "catalogueEntryCount": 147,
+      "catalogueEntryCount": 158,
       "source": "https://www.alicesoft.com/game/index.html",
       "sectionTitle": "叙事及养成 ADV：27 部",
-      "overviewLabel": "已整理作品（含指令、RPG／SLG及合集独立游戏）",
+      "overviewLabel": "已整理作品（含指令、RPG／SLG及独立小游戏）",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "第十二批新增15部作品、20条版本：14部Alicesoft本品牌及1部发行时关联的IMYUIC作品；仅更新本专题。",
-      "auditNote": "专题累计147部作品、203条版本（Alicesoft本品牌140部、Alice Blue 6部、IMYUIC历史合作1部）：主库关联27部／36条，专题补充120部／167条。首页主数据库仍为505部／922条。本批《妇警DA》的未完成介绍不计独立版本，纯问答与CG展示暂不收录。",
+      "auditLabel": "第十三批新增11部作品、13条版本：9部Alicesoft本品牌、2部AliceNoir；仅更新本专题。",
+      "auditNote": "专题累计158部／216条版本（Alicesoft本品牌149部、Alice Blue 6部、AliceNoir 2部、IMYUIC历史合作1部）：主库关联27部／36条，专题补充131部／180条。首页主数据库仍为505部／922条。本批将1992年零式与1997年同名作区分，AliveZ追加包合并母作，未完成演示与既有作品组成部分不单列。",
       "entries": [
         {
           "title": "妻みぐい3",
@@ -7886,7 +7886,7 @@
           "title": "其余旧作 ADV（1989—2015）",
           "status": "后续批次：待逐项整理",
           "workIds": [],
-          "reason": "第十二批继续纳入早期指令与地点选择作品，包括电子之国的Alice、SD兰斯、危险文化祭前夜及扉；旧作人物与具体剧情不足处有说明。AliceNoir作品及其他旧作继续核对，不将厂商目录标为完成。",
+          "reason": "第十三批补入AliceNoir的Nor和有独立剧情的问答作品女仆的推荐；与纯题库、展示程序区分。剩余短篇继续核实人物、内容及实际发行，不将全目录标为完成。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -8152,7 +8152,7 @@
           "title": "其余 RPG／SLG、Fan Disc 及移植",
           "status": "后续批次待核对",
           "workIds": [],
-          "reason": "第十二批补入斗神兰斯、SF兰斯、合集独立棋盘游戏与HENTAI LABYRINTH；攻略附盘寄送日、许可移植和历史品牌关系逐条说明。妇警DA未完成预告不计可玩版本，纯问答、鉴赏与演示不计独立作品。",
+          "reason": "第十三批补入DALK攻略盘版零式、两部夏娃年代记兰斯IF及AliveZ独立小游戏；有母作依赖的追加剧本合并版本。未完成演示、CG鉴赏和已归合集的短篇不拆分增数。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -9214,11 +9214,131 @@
           ],
           "reason": "官方2022年完全独立公告确认HENTAI LABYRINTH仍归Alicesoft管理；仅按首作发行时关联纳入，独立后其他作品不计本专题。",
           "source": "https://www.alicesoft.com/information/2022/entry003001.html"
+        },
+        {
+          "title": "Nor -Near the Once Reality-",
+          "status": "第十三批：仅专题收录（含历史品牌与独立小游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-nor"
+          ],
+          "reason": "与主库、全部专题的中文名、原名和别名去重；独立内容单列，合集再收录合并，具体玩法与叙事资料范围逐条标明。",
+          "source": "https://noir.alicesoft.com/nor/nor.htm"
+        },
+        {
+          "title": "翡翠の眸 ～ひすいのひとみ～",
+          "status": "第十三批：仅专题收录（含历史品牌与独立小游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-hisui"
+          ],
+          "reason": "与主库、全部专题的中文名、原名和别名去重；独立内容单列，合集再收录合并，具体玩法与叙事资料范围逐条标明。",
+          "source": "https://www.suruga-ya.jp/product/detail/145009628"
+        },
+        {
+          "title": "［零式］（DALKヒントディスク版）",
+          "status": "第十三批：仅专题收录（含历史品牌与独立小游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-zeroshikidalkhint"
+          ],
+          "reason": "与主库、全部专题的中文名、原名和别名去重；独立内容单列，合集再收录合并，具体玩法与叙事资料范围逐条标明。",
+          "source": "https://alicecottage1989.blog.jp/archives/20085693.html"
+        },
+        {
+          "title": "メイドのススメ",
+          "status": "第十三批：仅专题收录（含历史品牌与独立小游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-maidsusume"
+          ],
+          "reason": "与主库、全部专题的中文名、原名和别名去重；独立内容单列，合集再收录合并，具体玩法与叙事资料范围逐条标明。",
+          "source": "https://alicecottage1989.blog.jp/archives/30830108.html"
+        },
+        {
+          "title": "イブニクルの主人公がランスだったら…",
+          "status": "第十三批：仅专题收录（含历史品牌与独立小游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-evenicleranceif"
+          ],
+          "reason": "与主库、全部专题的中文名、原名和别名去重；独立内容单列，合集再收录合并，具体玩法与叙事资料范围逐条标明。",
+          "source": "https://blog.alicesoft.com/archives/4287387.html"
+        },
+        {
+          "title": "イブニクル２の主人公がランスだったら…",
+          "status": "第十三批：仅专题收录（含历史品牌与独立小游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-evenicle2ranceif"
+          ],
+          "reason": "与主库、全部专题的中文名、原名和别名去重；独立内容单列，合集再收录合并，具体玩法与叙事资料范围逐条标明。",
+          "source": "https://www.alicesoft.com/information/2019/entry002165.html"
+        },
+        {
+          "title": "謎の轟駁城",
+          "status": "第十三批：仅专题收录（含历史品牌与独立小游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-nazogoubakujou"
+          ],
+          "reason": "与主库、全部专题的中文名、原名和别名去重；独立内容单列，合集再收录合并，具体玩法与叙事资料范围逐条标明。",
+          "source": "https://www.alicesoft.com/alivez/diary.html"
+        },
+        {
+          "title": "AliveZ - quik",
+          "status": "第十三批：仅专题收录（含历史品牌与独立小游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-alivezquik"
+          ],
+          "reason": "与主库、全部专题的中文名、原名和别名去重；独立内容单列，合集再收录合并，具体玩法与叙事资料范围逐条标明。",
+          "source": "https://www.alicesoft.com/alivez/diary.html"
+        },
+        {
+          "title": "ZERO",
+          "status": "第十三批：仅专题收录（含历史品牌与独立小游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-zeroaction"
+          ],
+          "reason": "与主库、全部专题的中文名、原名和别名去重；独立内容单列，合集再收录合并，具体玩法与叙事资料范围逐条标明。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html"
+        },
+        {
+          "title": "ほいっぷハニー",
+          "status": "第十三批：仅专题收录（含历史品牌与独立小游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-whiphanny"
+          ],
+          "reason": "与主库、全部专题的中文名、原名和别名去重；独立内容单列，合集再收录合并，具体玩法与叙事资料范围逐条标明。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html"
+        },
+        {
+          "title": "アリスのハニハニクラッシュ！",
+          "status": "第十三批：仅专题收录（含历史品牌与独立小游戏）",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-alicehannycrush"
+          ],
+          "reason": "与主库、全部专题的中文名、原名和别名去重；独立内容单列，合集再收录合并，具体玩法与叙事资料范围逐条标明。",
+          "source": "https://www.alicesoft.com/information/2024/entry003481.html"
+        },
+        {
+          "title": "AliveZ v1.01追加剧本",
+          "status": "第十三批：追加包合并母作版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-alivez"
+          ],
+          "reason": "官网确认十四篇追加剧本需要原游戏，作为已有AliveZ的版本记录，不新增作品；追加部分无配音。",
+          "source": "https://www.alicesoft.com/alivez/download.html"
         }
       ],
-      "description": "Alicesoft及历史关联品牌专题：147部作品、203条版本，含指令ADV、养成、RPG／SLG及合集独立游戏，附中文名、原名、内容概述、人物和来源。",
+      "description": "Alicesoft及历史关联品牌专题：158部作品、216条版本，含指令冒险、剧情问答、RPG／SLG、棋盘与独立小游戏，附中文名、原名、内容概述、人物和来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft的叙事与玩法长期并行发展。本专题共147部作品，含本品牌140部、Alice Blue 6部及发行时关联的IMYUIC 1部，涵盖指令调查、阅读与养成ADV、迷宫与战术RPG、地域战略及合集棋盘游戏。早期附盘外传可将同一角色置于学园或太空等不同舞台，不能借用母作的剧情和战斗系统；IMYUIC后来的独立状态也需与本作发行时署名区分。",
+        "thesis": "Alicesoft的叙事与玩法长期并行发展。本专题共158部作品，含本品牌149部、Alice Blue 6部、AliceNoir 2部及发行时关联的IMYUIC 1部。指令调查、阅读与问答冒险、迷宫及战略RPG之外，合集还包含独立棋盘和动作小游戏；AliceNoir曾以打字战斗结合近未来剧情。番外的独立内容、母作追加包与再配布分别归档，人物及系统不因关联关系而直接套用。",
         "phases": [
           {
             "period": "1989—1994",
@@ -10961,7 +11081,7 @@
           "charactersNote": "列出已核对的部分人物，保留日文姓名。",
           "charactersSource": "https://w.atwiki.jp/ercr/pages/2293.html",
           "synopsis": "神座骸与竹河いばら等人的故事在异能战斗和过去的回忆之间展开。不同阵营的人物各有纠葛与执念，随着往事被揭开，他们必须面对彼此的关系，以及继续活下去的选择。",
-          "notes": "全语音ADV，包含战斗场景的选项。追加剧本由官方更新程序加入原游戏，未拆作新作品或独立发行版。",
+          "notes": "全语音ADV，包含战斗场景的选项。追加剧本由官方更新程序加入原游戏，未拆作新作品或独立发行版。 2008-11-14发布的v1.01追加十四篇剧本需要母作，作为本作追加版本合并；新增部分无配音，与两个独立小游戏区分。",
           "source": "https://www.alicesoft.com/alivez/",
           "versions": [
             {
@@ -10974,6 +11094,17 @@
               "voice": "有",
               "differences": "2008-09-26 首发；官网规格标注全语音。后续追加剧本补丁合并于本版说明。",
               "source": "https://www.ymgal.games/oa10009"
+            },
+            {
+              "year": 2008,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "v1.01剧情追加包（需母作）",
+              "voice": "无",
+              "differences": "2008-11-14公开，追加四篇后日谈、四篇趣味故事和六篇广播剧脚本，共十四篇；需要AliveZ本体，新增剧本没有语音。原版配音不由此删除。",
+              "source": "https://www.alicesoft.com/alivez/download.html",
+              "id": "alicesoft-extra-alivez-v2",
+              "workId": "alicesoft-extra-alivez"
             }
           ]
         },
@@ -14427,12 +14558,431 @@
               "workId": "alicesoft-extra-hentailabyrinth"
             }
           ]
+        },
+        {
+          "id": "alicesoft-extra-nor",
+          "title": "Nor：一次现实的彼方",
+          "chineseTitle": "Nor：一次现实的彼方",
+          "originalTitle": "Nor -Near the Once Reality-",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "NOR",
+            "Near the Once Reality"
+          ],
+          "firstYear": 2002,
+          "category": "叙事／养成冒险",
+          "subcategory": "剧情 ADV＋打字战斗",
+          "genre": "近未来／数字实体化／实验遗留",
+          "characters": [
+            "如月士郎",
+            "ノーラ・ハイマン",
+            "如月亜希",
+            "由梨",
+            "如月仁",
+            "ユイフォン",
+            "グルマルキン"
+          ],
+          "charactersNote": "仅列能够核对的人物；未核实的姓名以身份说明，不沿用母作全部角色。",
+          "charactersSource": "https://noir.alicesoft.com/nor/char.htm",
+          "synopsis": "如月士郎拥有让数字对象实体化的TG能力。研究事故令妹妹亜希死亡、弟弟仁失踪，获释后他住进贫民区。与长得像妹妹的少女相遇，令他再次卷入围绕实验的事件。",
+          "notes": "AliceNoir品牌作品。阅读剧情与输入屏幕词语的打字战斗交替，输入用于突破敌方屏障，不是自由输入调查指令的文字解析冒险。角色页提供多名人物的语音样本，标为部分配音；不将输入调整补丁或仅含联机对战的免费程序计作新剧情作品。",
+          "source": "https://noir.alicesoft.com/nor/nor.htm",
+          "versions": [
+            {
+              "year": 2002,
+              "platform": "Windows 98／Me／2000／XP",
+              "publisher": "AliceNoir",
+              "kind": "CD-ROM原版",
+              "voice": "有（部分）",
+              "differences": "2002-09-27发行；剧情阅读结合打字战斗与连击、病毒道具。首发日期见 https://www.suruga-ya.jp/product/detail/145007116 。",
+              "source": "https://noir.alicesoft.com/nor/nor.htm",
+              "id": "alicesoft-extra-nor-v1",
+              "workId": "alicesoft-extra-nor"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-hisui",
+          "title": "翡翠之眸",
+          "chineseTitle": "翡翠之眸",
+          "originalTitle": "翡翠の眸 ～ひすいのひとみ～",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "翡翠の眸",
+            "Hisui no Hitomi"
+          ],
+          "firstYear": 2003,
+          "category": "棋盘／派对游戏",
+          "subcategory": "麻将式对战（具体规则未完整核实）",
+          "genre": "AliceNoir／麻将式游戏",
+          "characters": [
+            "对战登场人物（姓名未核实）"
+          ],
+          "charactersNote": "现有来源没有角色姓名，不从《Nor》或其他作品借用角色。",
+          "charactersSource": "https://www.suruga-ya.jp/product/detail/145009628",
+          "synopsis": "AliceNoir发行的麻将式对战作品，目录注明允许作弊的规则设计。现有资料能核对品牌、年份和玩法方向，具体故事冲突、角色姓名与各局规则尚未完整核实。",
+          "notes": "2003年作品，与《Nor》归同一历史品牌；并非因标题含“翡翠”而关联其他厂商游戏。玩法依据 https://w.atwiki.jp/gcmatome/pages/5673.html ，不将其写成已核实主线的视觉小说。",
+          "source": "https://www.suruga-ya.jp/product/detail/145009628",
+          "versions": [
+            {
+              "year": 2003,
+              "platform": "Windows 98／Me／2000／XP",
+              "publisher": "AliceNoir",
+              "kind": "CD-ROM原版",
+              "voice": "未核实",
+              "differences": "2003-08-29发行；品牌AliceNoir、Windows版。具体剧情、配音和再版未完整核实。",
+              "source": "https://www.suruga-ya.jp/product/detail/145009628",
+              "id": "alicesoft-extra-hisui-v1",
+              "workId": "alicesoft-extra-hisui"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-zeroshikidalkhint",
+          "title": "零式：DALK攻略盘版",
+          "chineseTitle": "零式：DALK攻略盘版",
+          "originalTitle": "［零式］（DALKヒントディスク版）",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Zero Shiki (DALK Hint Disk)",
+            "零式（1992年DALK附盘）"
+          ],
+          "firstYear": 1992,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "DALK系统的指令操作游戏",
+          "genre": "科幻外传／早期攻略附盘",
+          "characters": [
+            "操纵零式的主人公（姓名未完整核实）"
+          ],
+          "charactersNote": "四郎、柿崎的名字出现在废案说明中，尚未核实正式剧情身份，不据废案填写角色名单。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/20085693.html",
+          "synopsis": "以DALK的系统尝试不同题材的独立附盘游戏，零式为主人公操纵的对象。原游戏说明能够确认操作沿用DALK，但完整故事、具体战斗流程与角色姓名未核实。",
+          "notes": "与1997年《零式》完全不同，故用“DALK攻略盘版”区分同名作品。说明里的独房对白、三机编队遇袭被明确标为废案，不能作为实际剧情；1992为母作归档年，不据此宣称附盘准确寄送日期。",
+          "source": "https://alicecottage1989.blog.jp/archives/20085693.html",
+          "versions": [
+            {
+              "year": 1992,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "DALK攻略附盘（目录归档年）",
+              "voice": "未核实",
+              "differences": "档案以母作DALK的1992-12-21代填，因为准确寄送日不明。游戏内说明明确操作与DALK相同；配音未核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/20085693.html",
+              "id": "alicesoft-extra-zeroshikidalkhint-v1",
+              "workId": "alicesoft-extra-zeroshikidalkhint"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-maidsusume",
+          "title": "女仆的推荐",
+          "chineseTitle": "女仆的推荐",
+          "originalTitle": "メイドのススメ",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Maid no Susume",
+            "メイドのすすめ"
+          ],
+          "firstYear": 1999,
+          "category": "叙事／养成冒险",
+          "subcategory": "剧情＋问答考试游戏",
+          "genre": "大学入试／家族继承与独立",
+          "characters": [
+            "戸隠ススム",
+            "戸隠ケジメ",
+            "周防皐月"
+          ],
+          "charactersNote": "角色与剧情依据档案转载的原官网简介；未将“十周考试”推定为未经核实的数值养成系统。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/30830108.html",
+          "synopsis": "贸易公司继承人户隐进希望通过大学入试离开父亲、独立生活。父亲Kejime却想让他直接进入公司，命令女仆周防皐月阻挠考试。距离入试还有十周，他开始为自己的未来学习。",
+          "notes": "有明确人物冲突与故事的问答游戏，区别于无剧情的题库程序；本批在专题单列。1999首发资料中7月1日标题栏与3月25日发行表存在矛盾，只确定年份，不把其中一天标作准确首发。问题制作样例不列完整游戏版本。",
+          "source": "https://alicecottage1989.blog.jp/archives/30830108.html",
+          "versions": [
+            {
+              "year": 1999,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "Alice CD合集首发",
+              "voice": "未核实",
+              "differences": "Alice CD 1.02起收录。档案的日、月记录有矛盾，1999年可核对；后续合集主要更换System3.6运行文件，不逐次计新作。",
+              "source": "https://alicecottage1989.blog.jp/archives/30830108.html",
+              "id": "alicesoft-extra-maidsusume-v1",
+              "workId": "alicesoft-extra-maidsusume"
+            },
+            {
+              "year": 2005,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "官方Web再配布",
+              "voice": "未核实",
+              "differences": "2005-05-27用户俱乐部页面公开，内容与Alice CD 1.03版相同；为Windows游戏的Web配布，不标成浏览器游戏。",
+              "source": "https://alicecottage1989.blog.jp/archives/30830108.html",
+              "id": "alicesoft-extra-maidsusume-v2",
+              "workId": "alicesoft-extra-maidsusume"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-evenicleranceif",
+          "title": "夏娃年代记：如果主人公是兰斯",
+          "chineseTitle": "夏娃年代记：如果主人公是兰斯",
+          "originalTitle": "イブニクルの主人公がランスだったら…",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "イブニクル イブニクルの主人公がランスだったら…",
+            "Evenicle Rance IF"
+          ],
+          "firstYear": 2015,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "独立IF番外 RPG",
+          "genre": "兰斯替代主人公／夏娃年代记世界",
+          "characters": [
+            "ランス"
+          ],
+          "charactersNote": "仅列能够核对的人物；未核实的姓名以身份说明，不沿用母作全部角色。",
+          "charactersSource": "https://blog.alicesoft.com/archives/4287387.html",
+          "synopsis": "以“如果《夏娃年代记》的主人公是兰斯”为前提，让兰斯进入原作世界展开另一段冒险。官方介绍确认其为兰斯版迷你游戏，具体支线和出场人物未逐一核实。",
+          "notes": "官方通販特典附盘，有独立IF内容，区别于已收录的《夏娃年代记》母作与《夏娃年代记外典》。不借用母作主人公阿斯塔的剧情，也不复制母作全部人物与配音标记。标题前的“イブニクル”系列名不另计作品。",
+          "source": "https://blog.alicesoft.com/archives/4287387.html",
+          "versions": [
+            {
+              "year": 2015,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "官方通販特典附盘",
+              "voice": "未核实",
+              "differences": "《イブニクル》2015年发行的兰斯IF特典。采用母作发行年归档，附盘具体寄送日和配音未完整核实；名称与特典归属另见 https://alicecottage1989.blog.jp/archives/42329945.html 。",
+              "source": "https://blog.alicesoft.com/archives/4287387.html",
+              "id": "alicesoft-extra-evenicleranceif-v1",
+              "workId": "alicesoft-extra-evenicleranceif"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-evenicle2ranceif",
+          "title": "夏娃年代记2：如果主人公是兰斯",
+          "chineseTitle": "夏娃年代记2：如果主人公是兰斯",
+          "originalTitle": "イブニクル２の主人公がランスだったら…",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "イブニクル2の主人公がランスだったら…",
+            "イブニクル２ イブニクル２の主人公がランスだったら…",
+            "Evenicle 2 Rance IF"
+          ],
+          "firstYear": 2019,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "独立IF番外 RPG",
+          "genre": "兰斯与异世界／短篇探索",
+          "characters": [
+            "ランス"
+          ],
+          "charactersNote": "仅列能够核对的人物；未核实的姓名以身份说明，不沿用母作全部角色。",
+          "charactersSource": "https://www.alicesoft.com/information/2019/entry002165.html",
+          "synopsis": "兰斯取代《夏娃年代记2》的主人公进入该世界。官方说明这是短篇IF冒险，推进至原作第一章中段附近；兰斯从30级开始，拥有魔法和兰斯攻击等不同战斗能力。",
+          "notes": "2019年官方通販特典，内容不同于第一作兰斯IF。保留原作地图探索框架并更换主人公，不将整部《夏娃年代记2》路线计入本作。官方介绍中的第一章范围为大致说明，不宣称完整移植第一章。",
+          "source": "https://www.alicesoft.com/information/2019/entry002165.html",
+          "versions": [
+            {
+              "year": 2019,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "官方通販特典附盘",
+              "voice": "未核实",
+              "differences": "2019年母作配套的兰斯IF RPG，约至第一章中段，附盘寄送日与配音未逐项核实。官方制作人员明确确认已制作此番外。",
+              "source": "https://www.alicesoft.com/information/2019/entry002165.html",
+              "id": "alicesoft-extra-evenicle2ranceif-v1",
+              "workId": "alicesoft-extra-evenicle2ranceif"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-nazogoubakujou",
+          "title": "谜之轰驳城",
+          "chineseTitle": "谜之轰驳城",
+          "originalTitle": "謎の轟駁城",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Nazo no Goubakujou",
+            "Nazo no Gohakujou"
+          ],
+          "firstYear": 2008,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "独立短篇＋卡牌式战斗",
+          "genre": "AliveZ番外／探索与战斗",
+          "characters": [
+            "ドリィ",
+            "瑞鳥"
+          ],
+          "charactersNote": "仅列能够核对的人物；未核实的姓名以身份说明，不沿用母作全部角色。",
+          "charactersSource": "https://erogehaijin.com/archives/2011-09.html",
+          "synopsis": "《AliveZ》的独立番外小游戏，以短篇故事搭配探索与卡牌式战斗。评测确认有独立剧情，并提到Dolly与瑞鸟；具体事件起因和结局未完整核实。",
+          "notes": "官方开发日记将其与另一小游戏quik明确区分。评测称约一小时，玩法近于《三匹が斬ったり突いたり燃やしたり》；这不是母作追加十四篇剧本的补丁，配音未核实。人物及玩法依据评测，不把评测愿望写成剧情。",
+          "source": "https://www.alicesoft.com/alivez/diary.html",
+          "versions": [
+            {
+              "year": 2008,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "官方免费小游戏",
+              "voice": "未核实",
+              "differences": "2008年作为AliveZ相关小游戏公开，官方日记确认其存在。初次公开的确切日期与版本号未完整核实。",
+              "source": "https://www.alicesoft.com/alivez/diary.html",
+              "id": "alicesoft-extra-nazogoubakujou-v1",
+              "workId": "alicesoft-extra-nazogoubakujou"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-alivezquik",
+          "title": "AliveZ：quik",
+          "chineseTitle": "AliveZ：quik",
+          "originalTitle": "AliveZ - quik",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "AliveZ -quik",
+            "AliveZ quik"
+          ],
+          "firstYear": 2008,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "计分型探索与卡牌战斗小游戏",
+          "genre": "骸与荆／独立小游戏",
+          "characters": [
+            "骸",
+            "いばら"
+          ],
+          "charactersNote": "仅列能够核对的人物；未核实的姓名以身份说明，不沿用母作全部角色。",
+          "charactersSource": "https://www.alicesoft.com/alivez/diary.html",
+          "synopsis": "以骸与荆为主要登场人物的计分小游戏，围绕移动与战斗争取高分。评测明确称没有剧情文本，故以玩法而非虚构主线介绍。",
+          "notes": "2008年10月12日DreamParty会场已提供试玩，11月21日官方开放下载，合并一部作品；会场体验不是另一部游戏。与《谜之轰驳城》、母作《AliveZ》及依赖母作的剧本追加分别处理。玩法资料见 https://erogehaijin.com/archives/2011-09.html 。",
+          "source": "https://www.alicesoft.com/alivez/diary.html",
+          "versions": [
+            {
+              "year": 2008,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "官方免费下载版",
+              "voice": "未核实",
+              "differences": "2008-11-21开放下载，先前曾在DreamParty现场游玩；官方确认骸与いばら为主要角色。不把展台体验重复列为新版本。",
+              "source": "https://www.alicesoft.com/alivez/diary.html",
+              "id": "alicesoft-extra-alivezquik-v1",
+              "workId": "alicesoft-extra-alivezquik"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-zeroaction",
+          "title": "ZERO：零式射击",
+          "chineseTitle": "ZERO：零式射击",
+          "originalTitle": "ZERO",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ZERO（アリスの館7）",
+            "Zero (Alice no Yakata 7)"
+          ],
+          "firstYear": 2004,
+          "category": "动作／休闲游戏",
+          "subcategory": "鼠标滚轮动作射击",
+          "genre": "零式衍生／合集小游戏",
+          "characters": [
+            "零式（操作对象）"
+          ],
+          "charactersNote": "来源确认零式为游戏题材与操作对象，未核实驾驶员；不借用1997年母作的角色名单。",
+          "charactersSource": "https://www.alicesoft.com/yakata7/staff.html",
+          "synopsis": "将《零式》题材改成动作射击的独立小游戏。玩家使用鼠标滚轮操作；官网未提供完整故事与驾驶员姓名，本条只据明确说明介绍玩法。",
+          "notes": "收录于《ALICE之馆7》工作人员区，由栗林、妹尾雄大制作。独立动作游戏与1997年《零式》RPG、1992年DALK攻略附盘分别归档；不把新玩法记录成旧作移植，也不推定存在新叙事剧情。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html",
+          "versions": [
+            {
+              "year": 2004,
+              "platform": "Windows 98／Me／2000／XP",
+              "publisher": "Alicesoft",
+              "kind": "馆7独立小游戏",
+              "voice": "未核实",
+              "differences": "《アリスの館７》2004年发行时收录；操作需要带滚轮的鼠标，配音与具体任务未完整核实。",
+              "source": "https://www.alicesoft.com/yakata7/staff.html",
+              "id": "alicesoft-extra-zeroaction-v1",
+              "workId": "alicesoft-extra-zeroaction"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-whiphanny",
+          "title": "击打哈尼",
+          "chineseTitle": "击打哈尼",
+          "originalTitle": "ほいっぷハニー",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Whip Hanny",
+            "Hoippu Hanny"
+          ],
+          "firstYear": 2004,
+          "category": "动作／休闲游戏",
+          "subcategory": "打哈尼休闲小游戏",
+          "genre": "哈尼／工作人员区",
+          "characters": [
+            "ハニー（游戏目标）"
+          ],
+          "charactersNote": "ハニー为官网明确的游戏目标，而非已核实姓名的叙事角色。",
+          "charactersSource": "https://www.alicesoft.com/yakata7/staff.html",
+          "synopsis": "以哈尼为目标的敲击小游戏，官网将规则直接概括为“打哈尼”。现有说明没有独立故事介绍，不虚构主人公、事件或剧情结局。",
+          "notes": "《ALICE之馆7》工作人员区独立小游戏，由好緒、やすべ制作。作为厂商的休闲作品收录，明确区别于指令ADV；不将工作人员小游戏整包或同名哈尼角色重复计为作品。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html",
+          "versions": [
+            {
+              "year": 2004,
+              "platform": "Windows 98／Me／2000／XP",
+              "publisher": "Alicesoft",
+              "kind": "馆7独立小游戏",
+              "voice": "未核实",
+              "differences": "2004年《アリスの館７》工作人员区收录；官网确认打哈尼规则，具体操作键与配音未核实。",
+              "source": "https://www.alicesoft.com/yakata7/staff.html",
+              "id": "alicesoft-extra-whiphanny-v1",
+              "workId": "alicesoft-extra-whiphanny"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-alicehannycrush",
+          "title": "Alice的哈尼大粉碎",
+          "chineseTitle": "Alice的哈尼大粉碎",
+          "originalTitle": "アリスのハニハニクラッシュ！",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Alice no Hani Hani Crush",
+            "Alice Hanny Crush"
+          ],
+          "firstYear": 2024,
+          "category": "动作／休闲游戏",
+          "subcategory": "免费动作生存／装备组合",
+          "genre": "Alice与哈尼／持续计分",
+          "characters": [
+            "アリス",
+            "ハニー"
+          ],
+          "charactersNote": "仅列能够核对的人物；未核实的姓名以身份说明，不沿用母作全部角色。",
+          "charactersSource": "https://www.alicesoft.com/information/2024/entry003481.html",
+          "synopsis": "Alice面对不断出现的哈尼，使用锤子、钻头和回旋镖等武器应战。打开宝箱获得武器与护符，组合装备、强化角色并挑战更高分数；主要内容为动作玩法。",
+          "notes": "Alicesoft发行、与Orgesta共同开发的全年龄免费作品。官方公告宣传Steam及移动平台，本批仅登记已核实发行日的Steam Windows版，其他平台不据预告增加版本。与早期《击打哈尼》不是同一游戏。",
+          "source": "https://www.alicesoft.com/information/2024/entry003481.html",
+          "versions": [
+            {
+              "year": 2024,
+              "platform": "Windows 10（64位）",
+              "publisher": "Alicesoft",
+              "kind": "Steam免费版",
+              "voice": "未核实",
+              "differences": "Steam页面记2024-08-21发行，支持Windows 10（64位）；日语界面，Steam未标完整语音支持，具体角色配音仍未核实。开发署名Alicesoft／Orgesta，发行Alicesoft。",
+              "source": "https://store.steampowered.com/app/3036480/_/",
+              "id": "alicesoft-extra-alicehannycrush-v1",
+              "workId": "alicesoft-extra-alicehannycrush"
+            }
+          ]
         }
       ],
-      "relatedSectionTitle": "专题补充作品：120部（含Alice Blue 6部、IMYUIC历史合作1部）",
+      "relatedSectionTitle": "专题补充作品：131部（含Alice Blue 6部、AliceNoir 2部、IMYUIC历史合作1部）",
       "relatedCountLabel": "独立作品；再版及扩充合并",
-      "relatedIntro": "本区累计120部作品。第十二批补入电子之国的Alice、感伤季节、妇警VX／DA、Okayu Fever的逆袭、女教师苦难地狱、哀少女劳拉、Alice的冒险、斗神／SD／SF兰斯、危险文化祭前夜、人间狩、扉和HENTAI LABYRINTH。各作玩法、合集与版本归属单独核对；资料不足处保留核实范围，不将目录视为完整。",
-      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计147部（Alicesoft本品牌140部、Alice Blue 6部、IMYUIC历史合作1部）；主库关联27部，专题补充120部。</strong></p>"
+      "relatedIntro": "本区累计131部作品。第十三批补入Nor、翡翠之眸、DALK攻略盘版零式、女仆的推荐、两部夏娃年代记兰斯IF、谜之轰驳城、AliveZ quik、ZERO动作版、击打哈尼与Alice的哈尼大粉碎。独立游戏与母作追加包分别处理；只有玩法资料的作品明确说明故事与人物核实范围，不将条目数量视为厂商全目录完成。",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计158部（Alicesoft本品牌149部、Alice Blue 6部、AliceNoir 2部、IMYUIC历史合作1部）；主库关联27部，专题补充131部。</strong></p>"
     }
   ]
 }
