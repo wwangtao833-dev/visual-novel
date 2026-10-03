@@ -7668,9 +7668,9 @@
       "id": "alicesoft",
       "name": "Alicesoft",
       "checkedAt": "2026-10-03",
-      "status": "第五批完成：27 部叙事作品＋15 部跨类型游戏",
-      "scope": "已核对 42 部 Alicesoft 作品：主库叙事及养成 ADV 27 部，专题跨类型 RPG／SLG 15 部。本批与主库及所有专题已建档作品去重；不新增纯文本指令或图文指令冒险。厂商全目录尚未完成。",
-      "versionScope": "专题共 56 条已核实版本：原 36 条＋本批 20 条。Magnum 统合版与廉价再版归入原作，扩充包、同期销售渠道和合集不另造作品。未核实配音不显示“无角色配音”。",
+      "status": "第六批完成：专题累计 57 部作品",
+      "scope": "已核对 57 部 Alicesoft 作品：原主库关联作品 27 部，专题 RPG／SLG 30 部。第六批只扩充专题，与主库及全部专题去重；不新增纯文本指令或图文指令冒险。厂商全目录尚未完成。",
+      "versionScope": "专题累计 78 条版本。本批新增 15 部作品、22 条版本；重制、增强版与再版归入对应作品。未核实的发行日及配音明确保留待核实状态。",
       "publisherNote": "Alicesoft 并行开发叙事 ADV、RPG 和地区战略模拟。本专题分别展示其实际玩法，并以中文名称、日文原名、剧情、角色及来源组织阅读。",
       "workIds": [
         "g482",
@@ -7730,17 +7730,17 @@
         "g507",
         "g508"
       ],
-      "catalogueEntryCount": 42,
+      "catalogueEntryCount": 57,
       "source": "https://www.alicesoft.com/game/index.html",
       "sectionTitle": "叙事及养成 ADV：27 部",
       "overviewLabel": "已核对作品（含 RPG／SLG）",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "第五批新增 15 部跨类型游戏、20 条版本。",
-      "auditNote": "专题累计 42 部作品、56 条版本；其中 27 部／36 条属于主库，15 部／20 条位于本页跨类型区。首页主库仍为 505 部／922 条，Alicesoft 主库筛选仍为 27 部，两种口径不能相加后冒充主库计数。",
+      "auditLabel": "第六批新增 15 部作品、22 条版本；仅更新本专题。",
+      "auditNote": "专题累计 57 部作品、78 条版本：主库关联 27 部／36 条，专题跨类型区 30 部／42 条。首页主数据库未改动，仍为 505 部／922 条。",
       "entries": [
         {
           "title": "妻みぐい3",
-          "status": "本批进入主数据库",
+          "status": "第一批进入主数据库",
           "workIds": [
             "g482"
           ],
@@ -7749,7 +7749,7 @@
         },
         {
           "title": "妻みぐい3 スピンオフ純愛編",
-          "status": "本批进入主数据库",
+          "status": "第一批进入主数据库",
           "workIds": [
             "g483"
           ],
@@ -7758,7 +7758,7 @@
         },
         {
           "title": "妻みぐい3 スピンオフ寝取られ編",
-          "status": "本批进入主数据库",
+          "status": "第一批进入主数据库",
           "workIds": [
             "g484"
           ],
@@ -7767,7 +7767,7 @@
         },
         {
           "title": "は～とふるママン",
-          "status": "本批进入主数据库",
+          "status": "第一批进入主数据库",
           "workIds": [
             "g485"
           ],
@@ -7776,7 +7776,7 @@
         },
         {
           "title": "超昂神騎エクシール",
-          "status": "本批进入主数据库",
+          "status": "第一批进入主数据库",
           "workIds": [
             "g486"
           ],
@@ -7785,7 +7785,7 @@
         },
         {
           "title": "母爛漫",
-          "status": "本批进入主数据库",
+          "status": "第一批进入主数据库",
           "workIds": [
             "g487"
           ],
@@ -7794,7 +7794,7 @@
         },
         {
           "title": "奥さまの回復術 純愛編",
-          "status": "本批进入主数据库",
+          "status": "第一批进入主数据库",
           "workIds": [
             "g488"
           ],
@@ -7803,7 +7803,7 @@
         },
         {
           "title": "奥さまの回復術 寝取られ編",
-          "status": "本批进入主数据库",
+          "status": "第一批进入主数据库",
           "workIds": [
             "g489"
           ],
@@ -8152,20 +8152,170 @@
           "title": "其余 RPG／SLG、Fan Disc 及移植",
           "status": "后续批次待核对",
           "workIds": [],
-          "reason": "兰斯早期原作与重制关系、斗神都市前两作、粉彩铃音初代及 Fan Disc、GALZOO、DALK 等仍待逐项核对；不把整个系列标为完成。PSP 与海外版本亦未穷举。",
+          "reason": "第六批已补入斗神都市前两作、粉彩铃音初代、DALK、GALZOO 等；兰斯前三作与重制关系、其他独立 RPG、Fan Disc 和海外版本继续核对，不把全目录标为完成。",
           "source": "https://www.alicesoft.com/game/index.html"
+        },
+        {
+          "title": "RanceIV -教団の遺産-",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rance4"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://www.alicesoft.com/rance35th/"
+        },
+        {
+          "title": "ランス4.1 ～お薬工場を救え！～",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rance41"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://www.alicesoft.com/rance35th/"
+        },
+        {
+          "title": "ランス4.2 ～エンジェル組～",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rance42"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://www.alicesoft.com/rance35th/"
+        },
+        {
+          "title": "鬼畜王ランス",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-kichikuou"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/4606.html"
+        },
+        {
+          "title": "闘神都市",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-toushin1"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/4327.html"
+        },
+        {
+          "title": "闘神都市II",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-toushin2"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/4328.html"
+        },
+        {
+          "title": "DALK",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-dalk"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/9809.html"
+        },
+        {
+          "title": "DALK外伝 -supplementary story-",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-dalkgaiden"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://www.alicesoft.com/dalkg/sys.html"
+        },
+        {
+          "title": "ママトト ～a record of war～",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-mamatoto"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/4642.html"
+        },
+        {
+          "title": "ままにょにょ",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-mamanyonyo"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://www.alicesoft.com/ma2nyo2/content1.html"
+        },
+        {
+          "title": "ぱすてるチャイム -恋のスキルアップ-",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-pastel1"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://ja.wikid.org/ぱすてるチャイム_-恋のスキルアップ-"
+        },
+        {
+          "title": "かえるにょ・ぱにょ～ん",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-kaerunyo"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://als.sakura.ne.jp/ko-ji/alice/panyon/"
+        },
+        {
+          "title": "夜が来る！-Square of the MOON-",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-yorugakuru"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://www.alicesoft.com/yorugakurur/"
+        },
+        {
+          "title": "GALZOOアイランド",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-galzoo"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/6172.html"
+        },
+        {
+          "title": "武想少女隊ぶれいど☆ブライダーズ",
+          "status": "第六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-bladebriders"
+          ],
+          "reason": "已核对剧情、角色、玩法与发行年份；增强版及移植按同一作品归档。",
+          "source": "https://www.alicesoft.com/bladebriders/"
         }
       ],
-      "description": "Alicesoft 作品专题：42 部作品、56 条版本；27 部叙事及养成 ADV 与 15 部 RPG／SLG，附中文名、角色和来源。",
+      "description": "Alicesoft 作品专题：57 部作品、78 条版本，含中文名、原名、剧情、角色、玩法及来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft 的叙事与玩法长期并行发展。本专题的 42 部作品同时包括阅读及养成 ADV、迷宫 RPG、战术 RPG 和地域战略。下列比较依据已核对的作品系统，不将某一企划线视作厂商整体转型。",
+        "thesis": "Alicesoft 的叙事与玩法长期并行发展。本专题的 57 部作品同时包括阅读及养成 ADV、迷宫 RPG、战术 RPG 和地域战略。下列比较依据已核对的作品系统，不将某一企划线视作厂商整体转型。",
         "phases": [
           {
             "period": "1989—2005",
             "heading": "冒险叙事与角色扮演并行",
-            "analysis": "早期《兰斯》和《斗神都市》已把探索、战斗与角色事件结合；第五批进一步核对了 2002—2018 年六部《兰斯》及《斗神都市3》，早期原作仍需继续整理。",
+            "analysis": "早期《斗神都市》用迷宫成长与大会决斗组织剧情；《兰斯4》采用战术战斗。《鬼畜王兰斯》又把角色事件放入领地战略，体现并行的系统路线。",
             "basis": "编辑观察",
-            "source": "https://www.alicesoft.com/information/2024/entry003466.html"
+            "source": "https://www.alicesoft.com/rance35th/"
           },
           {
             "period": "1997—2003",
@@ -8871,12 +9021,668 @@
               "source": "https://w.atwiki.jp/ercr/pages/854.html"
             }
           ]
+        },
+        {
+          "id": "alicesoft-extra-rance4",
+          "title": "兰斯4：教团的遗产",
+          "originalTitle": "RanceIV -教団の遺産-",
+          "chineseTitle": "兰斯4：教团的遗产",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Rance IV",
+            "Rance 4",
+            "兰斯IV"
+          ],
+          "firstYear": 1993,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "战术 RPG",
+          "genre": "浮空遗迹／多方势力",
+          "characters": [
+            "ランス",
+            "マリア",
+            "リック"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/rance35th/",
+          "synopsis": "兰斯被送到浮空都市伊拉皮尤。赫尔曼军试图利用遗迹，来自卡斯塔姆与利萨斯的救援队也赶到，数方势力围绕古代文明的遗产展开争夺。",
+          "notes": "官网列为战术战斗式 RPG。35 周年盒装是合集再发行，不另计一部作品。",
+          "source": "https://www.alicesoft.com/rance35th/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-rance4-v1",
+              "workId": "alicesoft-extra-rance4",
+              "year": 1993,
+              "platform": "PC-9801",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "1993-12-11 首发。配音情况尚未逐版核实。",
+              "source": "https://www.alicesoft.com/rance35th/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-rance41",
+          "title": "兰斯4.1：拯救制药厂！",
+          "originalTitle": "ランス4.1 ～お薬工場を救え！～",
+          "chineseTitle": "兰斯4.1：拯救制药厂！",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Rance 4.1",
+            "兰斯4.1"
+          ],
+          "firstYear": 1995,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "迷宫 RPG",
+          "genre": "制药工厂／短篇冒险",
+          "characters": [
+            "ランス",
+            "あてな"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/rance35th/",
+          "synopsis": "花光钱的兰斯接下清除制药厂地下魔物的工作，与雅典娜同行。他们在地下发现自称天使组的神秘团体。",
+          "notes": "官网列为手绘地图与卡片插画式 RPG；是独立发行短篇，不是《兰斯4》的补丁。",
+          "source": "https://www.alicesoft.com/rance35th/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-rance41-v1",
+              "workId": "alicesoft-extra-rance41",
+              "year": 1995,
+              "platform": "PC-9801",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "1995-12-01 首发。配音情况尚未逐版核实。",
+              "source": "https://www.alicesoft.com/rance35th/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-rance42",
+          "title": "兰斯4.2：天使组",
+          "originalTitle": "ランス4.2 ～エンジェル組～",
+          "chineseTitle": "兰斯4.2：天使组",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Rance 4.2",
+            "兰斯4.2"
+          ],
+          "firstYear": 1995,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "迷宫 RPG",
+          "genre": "制药工厂／短篇续作",
+          "characters": [
+            "ランス"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/rance35th/",
+          "synopsis": "接续制药厂事件，兰斯一行得知天使组的目的与工厂秘密后，继续为报酬与这一团体交战。",
+          "notes": "官网明确为《兰斯4.1》的续篇；按独立发行作品收录，合集不另计作品。",
+          "source": "https://www.alicesoft.com/rance35th/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-rance42-v1",
+              "workId": "alicesoft-extra-rance42",
+              "year": 1995,
+              "platform": "PC-9801",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "1995-12-08 首发。配音情况尚未逐版核实。",
+              "source": "https://www.alicesoft.com/rance35th/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-kichikuou",
+          "title": "鬼畜王兰斯",
+          "originalTitle": "鬼畜王ランス",
+          "chineseTitle": "鬼畜王兰斯",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Kichikuou Rance",
+            "Kichikuoh Rance",
+            "鬼畜王蘭斯"
+          ],
+          "firstYear": 1996,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "地域压制 SLG",
+          "genre": "架空王国／系列外传",
+          "characters": [
+            "ランス",
+            "シィル",
+            "リア"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://w.atwiki.jp/gcmatome/pages/4606.html",
+          "synopsis": "兰斯为向赫尔曼军复仇并救回希露，与利萨斯女王莉娅结婚取得军力。玩家通过领地经营、部队调度与人物事件，探索兰斯成为国王的另一种历史。",
+          "notes": "系列 IF 外传，与《战国兰斯》及正史作品分别计数；不是正史结局的重制版。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/4606.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-kichikuou-v1",
+              "workId": "alicesoft-extra-kichikuou",
+              "year": 1996,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "1996-12-19 首发。配音情况尚未逐版核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/4606.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-toushin1",
+          "title": "斗神都市",
+          "originalTitle": "闘神都市",
+          "chineseTitle": "斗神都市",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Toushin Toshi",
+            "斗神都市1"
+          ],
+          "firstYear": 1990,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "迷宫 RPG",
+          "genre": "竞技大会／寻亲",
+          "characters": [
+            "カスタム",
+            "クミコ"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://w.atwiki.jp/gcmatome/pages/4327.html",
+          "synopsis": "剑士卡斯塔姆答应久美子的请求，参加斗神大会，寻找她失踪父亲的线索。玩家交替进行迷宫训练与大会决斗。",
+          "notes": "1990 年初代；2014 年同名 3DS 游戏改编自第二作，归入《斗神都市II》的版本，不归入本作。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/4327.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-toushin1-v1",
+              "workId": "alicesoft-extra-toushin1",
+              "year": 1990,
+              "platform": "PC-9801",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "1990-12-15 首发。配音情况尚未逐版核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/4327.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-toushin2",
+          "title": "斗神都市II",
+          "originalTitle": "闘神都市II",
+          "chineseTitle": "斗神都市II",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Toushin Toshi II",
+            "斗神都市2"
+          ],
+          "firstYear": 1994,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "迷宫 RPG",
+          "genre": "竞技大会／承诺与试炼",
+          "characters": [
+            "シード・カシマ",
+            "瑞原葉月",
+            "セレーナ"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://w.atwiki.jp/gcmatome/pages/4328.html",
+          "synopsis": "为了获得师父认可并与叶月结婚，希德参加斗神大会。义姐赛蕾娜陪同他出发；迷宫探索和竞技背后，还有超出最初目标的严酷考验。",
+          "notes": "按实际 RPG／SLG 玩法收录于专题；不进入首页主库。移植、地区发行及后续再版尚未穷举。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/4328.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-toushin2-v1",
+              "workId": "alicesoft-extra-toushin2",
+              "year": 1994,
+              "platform": "PC-9801",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "1994-12-10 首发。配音情况尚未逐版核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/4328.html"
+            },
+            {
+              "id": "alicesoft-extra-toushin2-v2",
+              "workId": "alicesoft-extra-toushin2",
+              "year": 1997,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "Windows 移植",
+              "voice": "未核实",
+              "differences": "1997-06-20 Windows 版；沿用第二作故事，不另增作品。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/4328.html"
+            },
+            {
+              "id": "alicesoft-extra-toushin2-v3",
+              "workId": "alicesoft-extra-toushin2",
+              "year": 2014,
+              "platform": "Nintendo 3DS",
+              "publisher": "Imageepoch",
+              "kind": "全年龄改编版《斗神都市》",
+              "voice": "未核实",
+              "differences": "2014-01-30。以第二作为基础重新制作角色与战斗系统；开发发行方为 Imageepoch，按本专题重制合并口径归入原作。",
+              "source": "https://dengekionline.com/elem/000/000/776/776814/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-dalk",
+          "title": "达尔克",
+          "originalTitle": "DALK",
+          "chineseTitle": "达尔克",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "DALK",
+            "ダルク"
+          ],
+          "firstYear": 1992,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "战术 RPG",
+          "genre": "神祇封印／迷宫探索",
+          "characters": [
+            "セイル",
+            "マーティス"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://w.atwiki.jp/gcmatome/pages/9809.html",
+          "synopsis": "修行僧塞尔与伙伴穿过迷宫，寻找解除恋爱神封印的方法。队伍的职业、成长与地图机关共同决定探索过程。",
+          "notes": "首发年份确认为 1992；资料分别记载 12 月 15 日与 21 日，暂不认定具体日期。外传为另一部游戏。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/9809.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-dalk-v1",
+              "workId": "alicesoft-extra-dalk",
+              "year": 1992,
+              "platform": "PC-9801",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "1992 年 PC-9801 原版。具体日期存在 12 月 15 日与 21 日两种记载，暂保留年份；交叉资料：https://w.atwiki.jp/ercr/pages/3645.html。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/9809.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-dalkgaiden",
+          "title": "达尔克外传",
+          "originalTitle": "DALK外伝 -supplementary story-",
+          "chineseTitle": "达尔克外传",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "DALK外传",
+            "DALK外伝"
+          ],
+          "firstYear": 2002,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "战术 RPG＋ADV",
+          "genre": "巨神体内／迷宫与伙伴",
+          "characters": [
+            "マーティス",
+            "エレシア",
+            "レジィナ",
+            "ヴェルナ",
+            "時子",
+            "リーシャ",
+            "ファーファ",
+            "フィーメ"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/dalkg/chara.html",
+          "synopsis": "恋爱神马蒂斯与七位女仆进入巨神瓦尔加的体内，追寻引起骚乱的魔神。玩家在日常交流和迷宫战斗之间交替推进，培养队伍并探索未知区域。",
+          "notes": "官网说明本作并非前作的故事续篇，无须先玩《DALK》；是独立游戏，不是需本体的扩充包。",
+          "source": "https://www.alicesoft.com/dalkg/sys.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-dalkgaiden-v1",
+              "workId": "alicesoft-extra-dalkgaiden",
+              "year": 2002,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "2002-09-27 首发。配音情况尚未逐版核实。",
+              "source": "https://www.ymgal.games/ga11679"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-mamatoto",
+          "title": "玛玛托托：战争纪事",
+          "originalTitle": "ママトト ～a record of war～",
+          "chineseTitle": "玛玛托托：战争纪事",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Mamatoto",
+            "ママトト"
+          ],
+          "firstYear": 1999,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "战术 RPG",
+          "genre": "移动要塞／大陆战争",
+          "characters": [
+            "ナナス",
+            "カカロ"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://ja.wikid.org/ママトト",
+          "synopsis": "弱小国家玛玛托托以移动要塞为国土。年轻军师纳纳斯开发出由卡片生成士兵的技术，带领国家参与大陆战争，希望终结各国争斗。",
+          "notes": "与《ままにょにょ》共享人物背景，但作战结构与企划不同，分别建档。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/4642.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-mamatoto-v1",
+              "workId": "alicesoft-extra-mamatoto",
+              "year": 1999,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "1999-07-01 首发。配音情况尚未逐版核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/4642.html"
+            },
+            {
+              "id": "alicesoft-extra-mamatoto-v2",
+              "workId": "alicesoft-extra-mamatoto",
+              "year": 2003,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "廉价再版",
+              "voice": "未核实",
+              "differences": "2003-09-26 廉价版；同一作品再发行。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/4642.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-mamanyonyo",
+          "title": "玛玛喵喵",
+          "originalTitle": "ままにょにょ",
+          "chineseTitle": "玛玛喵喵",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Mamanyonyo",
+            "WideNyo",
+            "わいどにょ",
+            "宽屏喵"
+          ],
+          "firstYear": 2003,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "战术 RPG",
+          "genre": "异界召唤／持续探索",
+          "characters": [
+            "ナナス",
+            "カカロ",
+            "アリエッタ",
+            "ストーリン"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/ma2nyo2/content1.html",
+          "synopsis": "纳纳斯和卡卡罗指挥移动要塞深入异空窟，寻找带来和平的秘密。通过收集矿物召唤其他世界的伙伴，玩家不断补充战力并保护要塞前进。",
+          "notes": "《わいどにょ》由本作扩展画面、出击范围及参战角色，本专题按增强版合并记录；与《ママトト》分别计作品。",
+          "source": "https://www.alicesoft.com/ma2nyo2/content1.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-mamanyonyo-v1",
+              "workId": "alicesoft-extra-mamanyonyo",
+              "year": 2003,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "2003-02-07 首发。配音情况尚未逐版核实。",
+              "source": "https://wikipedia2006.classicistranieri.com/ja/ま/ま/に/ままにょにょ.html"
+            },
+            {
+              "id": "alicesoft-extra-mamanyonyo-v2",
+              "workId": "alicesoft-extra-mamanyonyo",
+              "year": 2009,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "宽屏增强版《わいどにょ》",
+              "voice": "未核实",
+              "differences": "2009-12-18 随《Alice 2010》发行；改为 1280×720，扩展出击区域与角色，旧版存档不兼容。合集首发日期依据：https://www.alicesoft.com/alice2010/。",
+              "source": "https://www.alicesoft.com/alice2010/cnt03.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-pastel1",
+          "title": "粉彩铃音：恋爱的技能提升",
+          "originalTitle": "ぱすてるチャイム -恋のスキルアップ-",
+          "chineseTitle": "粉彩铃音：恋爱的技能提升",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Pastel Chime",
+            "ぱすてるチャイム",
+            "粉彩铃音1"
+          ],
+          "firstYear": 1998,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "恋爱育成 RPG",
+          "genre": "冒险者学园／迷宫实习",
+          "characters": [
+            "相羽カイト",
+            "ミューゼル・クラスマイン",
+            "コレット・ブラウゼ"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://ja.wikid.org/ぱすてるチャイム_-恋のスキルアップ-",
+          "synopsis": "梦想成为冒险者的相羽海斗因怠惰而成绩不佳。一次实习让幼时伙伴陷入危险后，他决心认真训练，在学园生活与迷宫探索中重新成长。",
+          "notes": "系列初代；与《Continue》《3》是不同作品。中文副标题为站内编辑译名。",
+          "source": "https://ja.wikid.org/ぱすてるチャイム_-恋のスキルアップ-",
+          "versions": [
+            {
+              "id": "alicesoft-extra-pastel1-v1",
+              "workId": "alicesoft-extra-pastel1",
+              "year": 1998,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "1998-11-26 首发。配音情况尚未逐版核实。",
+              "source": "https://ja.wikid.org/ぱすてるチャイム_-恋のスキルアップ-"
+            },
+            {
+              "id": "alicesoft-extra-pastel1-v2",
+              "workId": "alicesoft-extra-pastel1",
+              "year": 2002,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "廉价再版",
+              "voice": "未核实",
+              "differences": "2002-04-19 廉价版；同一初代作品再发行。",
+              "source": "https://ja.wikid.org/ぱすてるチャイム_-恋のスキルアップ-"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-kaerunyo",
+          "title": "回家喵·帕喵",
+          "originalTitle": "かえるにょ・ぱにょ～ん",
+          "chineseTitle": "回家喵·帕喵",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Kaerunyo Panyon",
+            "回家扭·帕扭"
+          ],
+          "firstYear": 1997,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "横向推进战术 RPG",
+          "genre": "护送旅程／奇幻冒险",
+          "characters": [
+            "ポロン",
+            "アリエッタ",
+            "エレーン"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://als.sakura.ne.jp/ko-ji/alice/panyon/",
+          "synopsis": "波隆变成名为帕喵的生物后，得到曾受他帮助的少女们护送，一同踏上回到王国的旅程。玩家安排伙伴作战，保护队伍向前推进。",
+          "notes": "“にょ”系列首作；不是《ままにょにょ》的另一个名称。中文名为编辑译名。",
+          "source": "https://als.sakura.ne.jp/ko-ji/alice/panyon/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-kaerunyo-v1",
+              "workId": "alicesoft-extra-kaerunyo",
+              "year": 1997,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "1997-08-29 首发。配音情况尚未逐版核实。",
+              "source": "https://www.ymgal.games/oa10009"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-yorugakuru",
+          "title": "夜幕降临！",
+          "originalTitle": "夜が来る！-Square of the MOON-",
+          "chineseTitle": "夜幕降临！",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Yoru ga Kuru",
+            "夜が来る!",
+            "夜来了"
+          ],
+          "firstYear": 2001,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "现代传奇 RPG",
+          "genre": "双月异变／校园与夜间战斗",
+          "characters": [
+            "羽村亮",
+            "火倉いずみ",
+            "七荻鏡花"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/yorugakurur/",
+          "synopsis": "天空出现第二个月亮后，城市逐渐发生怪异事件。羽村亮在火仓泉的邀请下加入伙伴们的战斗，在日常学园生活与夜间探索之间寻找异变的根源。",
+          "notes": "2024 年 Remastered 提升画面、重录声音并改善操作；官方明确本篇剧情没有追加或改变，合并为同一作品。",
+          "source": "https://www.alicesoft.com/yorugakurur/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-yorugakuru-v1",
+              "workId": "alicesoft-extra-yorugakuru",
+              "year": 2001,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "2001-04-19 首发。配音情况尚未逐版核实。",
+              "source": "https://www.alicesoft.com/information/2024/entry003371.html"
+            },
+            {
+              "id": "alicesoft-extra-yorugakuru-v2",
+              "workId": "alicesoft-extra-yorugakuru",
+              "year": 2024,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "Remastered",
+              "voice": "未核实",
+              "differences": "2024-04-19 先行下载；5 月 24 日盒装与一般下载发行。同一重制内容合记一条，增加高清画面、重录声音与便利设置，剧情不变。",
+              "source": "https://www.alicesoft.com/yorugakurur/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-galzoo",
+          "title": "GALZOO 魔物岛",
+          "originalTitle": "GALZOOアイランド",
+          "chineseTitle": "GALZOO 魔物岛",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "GALZOO Island",
+            "GALZOO岛"
+          ],
+          "firstYear": 2005,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "迷宫 RPG",
+          "genre": "魔物伙伴／限时救援",
+          "characters": [
+            "レオパルド",
+            "バッチ",
+            "キャプテンバニラ"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://w.atwiki.jp/gcmatome/pages/6172.html",
+          "synopsis": "见习魔物使雷欧被误认为师父，带到由乌贼男爵控制的岛屿。他与被困的魔物伙伴合作，在期限内探索迷宫并对抗岛上的统治者。",
+          "notes": "官网确认主人公以外全语音；本批先记录原版与廉价再版。官方网站：https://www.alicesoft.com/galzoo/index.html。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/6172.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-galzoo-v1",
+              "workId": "alicesoft-extra-galzoo",
+              "year": 2005,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "2005-12-09 首发。配音情况尚未逐版核实。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/6172.html"
+            },
+            {
+              "id": "alicesoft-extra-galzoo-v2",
+              "workId": "alicesoft-extra-galzoo",
+              "year": 2009,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "廉价再版",
+              "voice": "未核实",
+              "differences": "2009-03-19 廉价版；同一作品再发行。",
+              "source": "https://w.atwiki.jp/gcmatome/pages/6172.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-bladebriders",
+          "title": "武想少女队：Blade Briders",
+          "originalTitle": "武想少女隊ぶれいど☆ブライダーズ",
+          "chineseTitle": "武想少女队：Blade Briders",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "武想少女队",
+            "Blade Briders",
+            "武想少女隊ぶれいど★ブライダーズ"
+          ],
+          "firstYear": 2014,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "战术 RPG",
+          "genre": "外星入侵／跨时代英雄",
+          "characters": [
+            "火乃流星",
+            "天河ほのか",
+            "星井なつみ",
+            "姫月小夜子",
+            "サイエ・F"
+          ],
+          "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/bladebriders/character/index.html",
+          "synopsis": "昭和初期的战士火乃流星从冰封中醒来，面对遭外星势力袭击的现代地球。他与能将意念化作武装的少女们共同作战，在时代隔阂中建立信任。",
+          "notes": "官网类型为模拟 RPG，主人公以外全语音。盒装与同期下载同记首发，不重复计作品。",
+          "source": "https://www.alicesoft.com/bladebriders/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-bladebriders-v1",
+              "workId": "alicesoft-extra-bladebriders",
+              "year": 2014,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "日本首发",
+              "voice": "未核实",
+              "differences": "2014-10-24 首发。配音情况尚未逐版核实。",
+              "source": "https://www.alicesoft.com/bladebriders/"
+            }
+          ]
         }
       ],
-      "relatedSectionTitle": "RPG 与战略模拟：第五批 15 部",
+      "relatedSectionTitle": "RPG 与战略模拟：30 部",
       "relatedCountLabel": "独立作品；再版及扩充合并",
-      "relatedIntro": "本区收录《兰斯》六作、《夏娃年代记》两作、《多娜多娜》、三部地区战略作品、《斗神都市3》及两部《粉彩铃音》。按实际玩法单列，不进入首页四类主库筛选；可用本页目录按中文名称定位。",
-      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计 42 部；其中主库 27 部，跨类型区 15 部。</strong></p>"
+      "relatedIntro": "本区累计收录 30 部 RPG／SLG。第六批补充《斗神都市》前两作、《DALK》两作、《兰斯4》及两篇外传、《鬼畜王兰斯》、《粉彩铃音》初代、《夜幕降临！》、《GALZOO》等 15 部作品；通过本页中文目录定位。",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计 57 部；其中主库关联 27 部，跨类型区 30 部。</strong></p>"
     }
   ]
 }
