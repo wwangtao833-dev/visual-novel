@@ -7667,10 +7667,10 @@
     {
       "id": "alicesoft",
       "name": "Alicesoft",
-      "checkedAt": "2026-10-03",
-      "status": "第七批完成：专题累计 72 部作品",
-      "scope": "已核对 72 部 Alicesoft 作品：原主库关联作品 27 部，专题补充作品 45 部。第七批只扩充专题，与主库及全部专题去重；不新增纯文本指令或图文指令冒险。厂商全目录尚未完成。",
-      "versionScope": "专题累计 97 条版本。本批新增 15 部作品、19 条版本；重制、廉价版与再版归入对应作品。发行日期或配音未逐版核实的部分在各条内注明。",
+      "checkedAt": "2026-10-04",
+      "status": "第八批完成：专题累计 87 部作品",
+      "scope": "已核对 87 部 Alicesoft 作品：原主库关联作品 27 部，专题补充作品 60 部。第八批只扩充专题，与主库及全部专题去重；不新增纯文本指令或图文指令冒险。厂商全目录尚未完成。",
+      "versionScope": "专题累计 124 条版本。本批新增 15 部作品、27 条版本；重制、连载分卷与再版归入对应作品。发行日期或配音未逐版核实的部分在各条内注明。",
       "publisherNote": "Alicesoft 并行开发叙事 ADV、RPG 和地区战略模拟。本专题分别展示其实际玩法，并以中文名称、日文原名、剧情、角色及来源组织阅读。",
       "workIds": [
         "g482",
@@ -7730,13 +7730,13 @@
         "g507",
         "g508"
       ],
-      "catalogueEntryCount": 72,
+      "catalogueEntryCount": 87,
       "source": "https://www.alicesoft.com/game/index.html",
       "sectionTitle": "叙事及养成 ADV：27 部",
       "overviewLabel": "已核对作品（含 RPG／SLG）",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "第七批新增 15 部作品、19 条版本；仅更新本专题。",
-      "auditNote": "专题累计 72 部作品、97 条版本：主库关联 27 部／36 条，专题补充区 45 部／61 条。首页主数据库未改动，仍为 505 部／922 条。",
+      "auditLabel": "第八批新增 15 部作品、27 条版本；仅更新本专题。",
+      "auditNote": "专题累计 87 部作品、124 条版本：主库关联 27 部／36 条，专题补充区 60 部／88 条。首页主数据库未改动，仍为 505 部／922 条。",
       "entries": [
         {
           "title": "妻みぐい3",
@@ -7886,7 +7886,7 @@
           "title": "其余旧作 ADV（1989—2015）",
           "status": "后续批次：待逐项整理",
           "workIds": [],
-          "reason": "第七批补入《AliveZ》《江户乱世》《Hushaby Baby》及《斗神都市II》后日谈等；其余短篇与独立ADV继续核对，排除纯文本指令与图文指令游戏。",
+          "reason": "第八批补入《妖精》《坠入苍海》《神武》《超级魔法少女真奈奈》及合集独立短篇；其余 ADV 继续逐项核对，排除纯文本指令与图文指令游戏，《AmbivalenZ》不列入本批。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -8152,7 +8152,7 @@
           "title": "其余 RPG／SLG、Fan Disc 及移植",
           "status": "后续批次待核对",
           "workIds": [],
-          "reason": "第七批补入《零式》《王道勇者》《PERSIOM》《Only You》《学园KING》《迷宫与人偶》等；兰斯前三作及重制关系、其他独立RPG、Fan Disc和海外发行继续核对，不将全目录标为完成。",
+          "reason": "第八批已补入《兰斯2》《兰斯3》并合并重制版；《兰斯1》原版的指令玩法与重制关系，以及其余独立 RPG、Fan Disc 和海外发行继续核对，不将全目录标为完成。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -8454,11 +8454,161 @@
           ],
           "reason": "与主库及全部专题的原名、中文名和别名去重；按实际玩法收录，再版与重制版合并。",
           "source": "https://wikipedia.classicistranieri.com/ja/articles/d/u/n/DUNGEONS%26DOLLS_0879.html"
+        },
+        {
+          "title": "RanceII -反逆の少女たち-",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rance2"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://www.alicesoft.com/alice2010/cnt01.html"
+        },
+        {
+          "title": "RanceIII -リーザス陥落-",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rance3"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://www.alicesoft.com/rance03/"
+        },
+        {
+          "title": "DARCROWS -ダークロウズ-",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-darcrows"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://advgamer.com/darcrows/"
+        },
+        {
+          "title": "妖精",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-yousei"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://www.ymgal.games/ga26409"
+        },
+        {
+          "title": "蒼海に堕ちて…",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-soukaiochite"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://note.com/libertyworks_cy/n/n32de316c71f2"
+        },
+        {
+          "title": "ウルトラ魔法少女まなな",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-manana"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://www.alicesoft.com/manana/release.html"
+        },
+        {
+          "title": "神武 -カムナガラ-",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-kamunagara"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html"
+        },
+        {
+          "title": "砂漠のニッカ",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-sabakunonikka"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://www.alicesoft.com/alice2010/cnt06.html"
+        },
+        {
+          "title": "レイチェルの桜貝",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rachelnosakuragai"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://www.alicesoft.com/alice2010/cnt06.html"
+        },
+        {
+          "title": "眼鏡のメイと夏休み",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-meganenomei"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://www.alicesoft.com/alice2010/cnt06.html"
+        },
+        {
+          "title": "Girls.",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-girls"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html"
+        },
+        {
+          "title": "オニむス",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-onimusu"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html"
+        },
+        {
+          "title": "エルメイフラワー",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-elmeiflower"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html"
+        },
+        {
+          "title": "透色（すきいろ）",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-sukiiro"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html"
+        },
+        {
+          "title": "超昂閃忍ハルカ ―疾風！？忍者大作戦―",
+          "status": "第八批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-harukaninjadaisakusen"
+          ],
+          "reason": "与主库及全部专题的原名、中文名和别名去重；独立剧本单列，重制、连载分卷及再版合并。",
+          "source": "https://www.alicesoft.com/alice2010/cnt06.html"
         }
       ],
-      "description": "Alicesoft 作品专题：72 部作品、97 条版本，含中文名、原名、剧情、角色、玩法及来源。",
+      "description": "Alicesoft 作品专题：87 部作品、124 条版本，含中文名、原名、剧情、角色、玩法及来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft 的叙事与玩法长期并行发展。本专题的 72 部作品同时包括阅读及养成 ADV、迷宫 RPG、战术 RPG 和地域战略。下列比较依据已核对的作品系统，不将某一企划线视作厂商整体转型。",
+        "thesis": "Alicesoft 的叙事与玩法长期并行发展。本专题的 87 部作品同时包括阅读及养成 ADV、迷宫 RPG、战术 RPG 和地域战略。下列比较依据已核对的作品系统，不将某一企划线视作厂商整体转型。",
         "phases": [
           {
             "period": "1989—2005",
@@ -10451,12 +10601,695 @@
               "source": "https://wikipedia.classicistranieri.com/ja/articles/d/u/n/DUNGEONS%26DOLLS_0879.html"
             }
           ]
+        },
+        {
+          "id": "alicesoft-extra-rance2",
+          "title": "兰斯2：反叛的少女们",
+          "chineseTitle": "兰斯2：反叛的少女们",
+          "originalTitle": "RanceII -反逆の少女たち-",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ランスII －反逆の少女たち－",
+            "ランス2",
+            "Rance 2",
+            "ランス02",
+            "ランス02 -反逆の少女たち-",
+            "兰斯02 反叛的少女们"
+          ],
+          "firstYear": 1990,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "迷宫探索 RPG",
+          "genre": "四魔女／自由都市",
+          "characters": [
+            "ランス",
+            "シィル・プライン",
+            "魔想志津香",
+            "マリア・カスタード",
+            "ミル・ヨークス",
+            "エレノア・ラン"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://www.ymgal.games/ga11342",
+          "synopsis": "兰斯与希露接受委托来到卡斯塔姆，进入四名魔女盘踞的迷宫。随着调查与战斗推进，他逐渐发现镇上灾变背后的真相。",
+          "notes": "收集情报、购买装备并探索带有机关的迷宫。1990 年原作、Windows 移植与 2009 年《ランス02》重制归入一部作品；摘要版及后续修补不另算独立作品。",
+          "source": "https://www.alicesoft.com/alice2010/cnt01.html",
+          "versions": [
+            {
+              "year": 1990,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "原版首发",
+              "voice": "未核实",
+              "differences": "1990-05-15 PC-98 首发；原版为 RPG。其他早期机种移植未逐版补录；配音未逐版核实。",
+              "source": "https://www.ymgal.games/ga11342",
+              "id": "alicesoft-extra-rance2-v1",
+              "workId": "alicesoft-extra-rance2"
+            },
+            {
+              "year": 1997,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "Windows 移植",
+              "voice": "未核实",
+              "differences": "1997-12-18 随《アリスの館4・5・6》收录；移植原版，配音未核实。",
+              "source": "https://www.ymgal.games/ga11342",
+              "id": "alicesoft-extra-rance2-v2",
+              "workId": "alicesoft-extra-rance2"
+            },
+            {
+              "year": 2009,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "重制合集版",
+              "voice": "未核实",
+              "differences": "2009-12-18 随《アリス2010》发行《ランス02》；重画彩色 CG，保留原作基本系统与风格。配音未核实。",
+              "source": "https://www.alicesoft.com/alice2010/cnt01.html",
+              "id": "alicesoft-extra-rance2-v3",
+              "workId": "alicesoft-extra-rance2"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-rance3",
+          "title": "兰斯3：利萨斯陷落",
+          "chineseTitle": "兰斯3：利萨斯陷落",
+          "originalTitle": "RanceIII -リーザス陥落-",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ランスIII －リーザス陥落－",
+            "ランス3",
+            "Rance 3",
+            "ランス03 リーザス陥落",
+            "兰斯03：利萨斯陷落"
+          ],
+          "firstYear": 1991,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "队伍探索 RPG＋ADV",
+          "genre": "入侵战争／魔人",
+          "characters": [
+            "ランス",
+            "シィル・プライン",
+            "リア・パラパラ・リーザス",
+            "リック・アディスン",
+            "パットン・ミスナルジ"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://www.ymgal.games/ga11700",
+          "synopsis": "利萨斯遭到赫尔曼军与魔人的入侵，兰斯卷入救援与反攻。伙伴在旅途中集结，战局也逐渐牵出各国势力之间的冲突。",
+          "notes": "原作 RPG 与 2015 年全面重制《ランス03》合并。重制版改用新的队伍战斗与探索系统，并扩写剧情，不另计作品。",
+          "source": "https://www.alicesoft.com/rance03/",
+          "versions": [
+            {
+              "year": 1991,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "原版首发",
+              "voice": "未核实",
+              "differences": "1991-10-15 PC-98 首发；其他早期机种移植暂未逐版收录，配音未核实。",
+              "source": "https://www.ymgal.games/ga11700",
+              "id": "alicesoft-extra-rance3-v1",
+              "workId": "alicesoft-extra-rance3"
+            },
+            {
+              "year": 1997,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "Windows 移植",
+              "voice": "未核实",
+              "differences": "1997-12-18 随《アリスの館4・5・6》收录原版移植；配音未核实。",
+              "source": "https://www.ymgal.games/ga11700",
+              "id": "alicesoft-extra-rance3-v2",
+              "workId": "alicesoft-extra-rance3"
+            },
+            {
+              "year": 2015,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "全面重制",
+              "voice": "有",
+              "differences": "2015-08-28《ランス03 リーザス陥落》；官网标为 RPG＋ADV，主角以外全语音。",
+              "source": "https://www.alicesoft.com/rance03/",
+              "id": "alicesoft-extra-rance3-v3",
+              "workId": "alicesoft-extra-rance3"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-darcrows",
+          "title": "暗鸦",
+          "chineseTitle": "暗鸦",
+          "originalTitle": "DARCROWS -ダークロウズ-",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "DARCROWS ～ダークロウズ～",
+            "ダークロウズ"
+          ],
+          "firstYear": 1999,
+          "category": "叙事／养成冒险",
+          "subcategory": "参数养成 ADV",
+          "genre": "王国危机／黑暗叙事",
+          "characters": [
+            "クロード",
+            "エレーヌ",
+            "ティアリス",
+            "ユリーシャ",
+            "リゼル"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://www.ymgal.games/ga11286",
+          "synopsis": "卡尔内亚陷入战争危机，失踪多年的前骑士克劳德返回城堡。王室为筹措佣兵资金接受他的方案，故事随人物状态和事件发展走向不同局面。",
+          "notes": "以人物参数、事件选择及骰子等小游戏推进的养成 ADV；不把战争背景误写成领地战略游戏。包含黑暗题材，简介仅概述叙事背景。",
+          "source": "https://advgamer.com/darcrows/",
+          "versions": [
+            {
+              "year": 1999,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "原版首发",
+              "voice": "有",
+              "differences": "1999-11-18 Windows 首发；原版有角色配音。",
+              "source": "https://www.ymgal.games/ga11286",
+              "id": "alicesoft-extra-darcrows-v1",
+              "workId": "alicesoft-extra-darcrows"
+            },
+            {
+              "year": 2003,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "廉价再版",
+              "voice": "未核实",
+              "differences": "2003-10-24 廉价再版；与原作合并，具体配音及介质差异未逐项核实。",
+              "source": "https://www.ymgal.games/ga11286",
+              "id": "alicesoft-extra-darcrows-v2",
+              "workId": "alicesoft-extra-darcrows"
+            },
+            {
+              "year": 2010,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "下载再版",
+              "voice": "未核实",
+              "differences": "2010-02-26 下载发行；不视为独立作品，配音差异未核实。",
+              "source": "https://www.ymgal.games/ga11286",
+              "id": "alicesoft-extra-darcrows-v3",
+              "workId": "alicesoft-extra-darcrows"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-yousei",
+          "title": "妖精",
+          "chineseTitle": "妖精",
+          "originalTitle": "妖精",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2000,
+          "category": "叙事／养成冒险",
+          "subcategory": "阅读型视觉小说",
+          "genre": "画家／异类邂逅",
+          "characters": [
+            "画家（姓名未核实）",
+            "有翅膀的小妖精（姓名未核实）"
+          ],
+          "charactersNote": "以已核实的人物身份介绍角色；姓名未核实，不将身份当作正式姓名。",
+          "charactersSource": "https://www.ymgal.games/ga26409",
+          "synopsis": "二十世纪初的欧洲，一位画家在重复而灰暗的生活中失去灵感。偶然遇见并带回家的一只小妖精，改变了他的生活与创作。",
+          "notes": "由两个篇章构成的阅读型短篇，随 AliceCD 收录。后续同内容合集不逐个增加作品数；本次只补已核对的首发记录。",
+          "source": "https://www.ymgal.games/ga26409",
+          "versions": [
+            {
+              "year": 2000,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "赠品合集首发",
+              "voice": "未核实",
+              "differences": "2000-07-06 随 AliceCD 2.01 发行；配音未核实。",
+              "source": "https://www.ymgal.games/ga26409",
+              "id": "alicesoft-extra-yousei-v1",
+              "workId": "alicesoft-extra-yousei"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-soukaiochite",
+          "title": "坠入苍海……",
+          "chineseTitle": "坠入苍海……",
+          "originalTitle": "蒼海に堕ちて…",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "蒼海に堕ちて・・・"
+          ],
+          "firstYear": 1998,
+          "category": "叙事／养成冒险",
+          "subcategory": "阅读型视觉小说",
+          "genre": "航海／封闭空间",
+          "characters": [
+            "独自航海的青年（姓名未核实）",
+            "飞机失事后获救的少女（姓名未核实）"
+          ],
+          "charactersNote": "以已核实的人物身份介绍角色；姓名未核实，不将身份当作正式姓名。",
+          "charactersSource": "https://www.ymgal.games/ga26390",
+          "synopsis": "青年驾驶帆船航行时目击飞机失事，救起一名少女。返航途中，两人在海上狭小的空间相处，她的身世与经历逐渐成为故事的核心。",
+          "notes": "作者回顾将其称为阅读型数字小说；随《ぱすてるチャイム》赠品 AliceCD 1.00 发行。",
+          "source": "https://note.com/libertyworks_cy/n/n32de316c71f2",
+          "versions": [
+            {
+              "year": 1998,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "赠品合集首发",
+              "voice": "未核实",
+              "differences": "1998-11-26 AliceCD 1.00 收录；配音未核实。",
+              "source": "https://www.ymgal.games/ga26390",
+              "id": "alicesoft-extra-soukaiochite-v1",
+              "workId": "alicesoft-extra-soukaiochite"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-manana",
+          "title": "超级魔法少女真奈奈",
+          "chineseTitle": "超级魔法少女真奈奈",
+          "originalTitle": "ウルトラ魔法少女まなな",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ウルトラ魔法少女まなな vol.1",
+            "ウルトラ魔法少女まなな vol.2",
+            "ウルトラ魔法少女まなな vol.3",
+            "ウルトラ魔法少女まなな vol.4",
+            "ウルトラ魔法少女まなな vol.5"
+          ],
+          "firstYear": 2004,
+          "category": "叙事／养成冒险",
+          "subcategory": "连载阅读 ADV",
+          "genre": "魔法少女／喜剧",
+          "characters": [
+            "まなな",
+            "もこもこ",
+            "ヴァル",
+            "天城俊一"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://wikipedia2006.classicistranieri.com/ja/ウ/ル/ト/ウルトラ魔法少女まなな.html",
+          "synopsis": "魔法少女真奈奈来到地球对付魔兽，却常因力量过强而制造麻烦。她住进天城家并进入学校，与伙伴一起展开喧闹的战斗和日常。",
+          "notes": "官方以五卷连载、最终第13话组织作品。五卷合并为一部，分别保留发行记录；官方后续下载版内容大体相同，公开日期与配音差异暂不另列版本。",
+          "source": "https://www.alicesoft.com/manana/release.html",
+          "versions": [
+            {
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "连载第1卷",
+              "voice": "有",
+              "differences": "2004-08-27 随《RanceVI》附赠；首发卷有配音，后续下载版的配音配置未逐卷核实。",
+              "source": "https://w.atwiki.jp/ercr/pages/1926.html",
+              "id": "alicesoft-extra-manana-v1",
+              "workId": "alicesoft-extra-manana"
+            },
+            {
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "连载第2卷",
+              "voice": "有",
+              "differences": "2004-10-11 DreamParty 人偶赠品；首发卷有配音，后续下载版的配音配置未逐卷核实。",
+              "source": "https://w.atwiki.jp/ercr/pages/1926.html",
+              "id": "alicesoft-extra-manana-v2",
+              "workId": "alicesoft-extra-manana"
+            },
+            {
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "连载第3卷",
+              "voice": "有",
+              "differences": "2004-12-17 随《アリスの館7》附赠；首发卷有配音，后续下载版的配音配置未逐卷核实。",
+              "source": "https://w.atwiki.jp/ercr/pages/1926.html",
+              "id": "alicesoft-extra-manana-v3",
+              "workId": "alicesoft-extra-manana"
+            },
+            {
+              "year": 2005,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "连载第4卷",
+              "voice": "有",
+              "differences": "2005-05-04 DreamParty 咖喱赠品；首发卷有配音，后续下载版的配音配置未逐卷核实。",
+              "source": "https://w.atwiki.jp/ercr/pages/1926.html",
+              "id": "alicesoft-extra-manana-v4",
+              "workId": "alicesoft-extra-manana"
+            },
+            {
+              "year": 2005,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "连载第5卷",
+              "voice": "有",
+              "differences": "2005-06-17 随《ぱすてるチャイムContinue》附赠；首发卷有配音，后续下载版的配音配置未逐卷核实。",
+              "source": "https://w.atwiki.jp/ercr/pages/1926.html",
+              "id": "alicesoft-extra-manana-v5",
+              "workId": "alicesoft-extra-manana"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-kamunagara",
+          "title": "神武",
+          "chineseTitle": "神武",
+          "originalTitle": "神武 -カムナガラ-",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "神武－カムナガラ－壱・弐・参",
+            "Zinmu",
+            "Jinmu - Kamunagara - Ichi Ni San"
+          ],
+          "firstYear": 2004,
+          "category": "叙事／养成冒险",
+          "subcategory": "传奇阅读 ADV",
+          "genre": "日本神话／不死少女",
+          "characters": [
+            "高原総司",
+            "尹坐那美咲椰",
+            "月詠雪乃"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://www.ymgal.games/ga12854",
+          "synopsis": "高原总司遇见拥有不死之身的咲椰，平凡生活与古老神话交错。现代篇围绕这次相遇展开，随后连载继续揭示人物与神祇的联系。",
+          "notes": "《アリスの館7》第一话、后续壱・弐・参与《アリス2010》增订版合并；2009 年版对现代篇一至三话增量、修正及重编，不当作新故事计数。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html",
+          "versions": [
+            {
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "第一话合集首发",
+              "voice": "未核实",
+              "differences": "2004-12-17《アリスの館7》收录第一话；配音未核实。",
+              "source": "https://www.ymgal.games/oa10009",
+              "id": "alicesoft-extra-kamunagara-v1",
+              "workId": "alicesoft-extra-kamunagara"
+            },
+            {
+              "year": 2005,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "连载合编版",
+              "voice": "未核实",
+              "differences": "2005-09-30《神武－カムナガラ－壱・弐・参》；配音未核实。",
+              "source": "https://www.ymgal.games/ga12854",
+              "id": "alicesoft-extra-kamunagara-v2",
+              "workId": "alicesoft-extra-kamunagara"
+            },
+            {
+              "year": 2009,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "增订合集版",
+              "voice": "未核实",
+              "differences": "2009-12-18《アリス2010》收录现代篇一至三话增订版；配音未核实。",
+              "source": "https://www.alicesoft.com/alice2010/cnt06.html",
+              "id": "alicesoft-extra-kamunagara-v3",
+              "workId": "alicesoft-extra-kamunagara"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-sabakunonikka",
+          "title": "沙漠中的妮卡",
+          "chineseTitle": "沙漠中的妮卡",
+          "originalTitle": "砂漠のニッカ",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2009,
+          "category": "叙事／养成冒险",
+          "subcategory": "阅读型短篇 ADV",
+          "genre": "逃亡／沙漠旅行",
+          "characters": [
+            "ニッカ",
+            "セイジ",
+            "ツバメ",
+            "シザメリ"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/alice2010/cnt06.html",
+          "synopsis": "妮卡与改造人诚司从组织逃出，在荒漠与洞窟之间辗转。另一对搭档燕和希扎梅利的经历，与他们的命运和情感交织。",
+          "notes": "独立阅读短篇；不要因改造人或冒险题材误记为 RPG。",
+          "source": "https://www.alicesoft.com/alice2010/cnt06.html",
+          "versions": [
+            {
+              "year": 2009,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "合集首发",
+              "voice": "未核实",
+              "differences": "2009-12-18《アリス2010》收录；本短篇的配音未单独核实。",
+              "source": "https://www.alicesoft.com/alice2010/",
+              "id": "alicesoft-extra-sabakunonikka-v1",
+              "workId": "alicesoft-extra-sabakunonikka"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-rachelnosakuragai",
+          "title": "蕾切尔的樱贝",
+          "chineseTitle": "蕾切尔的樱贝",
+          "originalTitle": "レイチェルの桜貝",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2009,
+          "category": "叙事／养成冒险",
+          "subcategory": "阅读型短篇 ADV",
+          "genre": "斗神都市人物／平行故事",
+          "characters": [
+            "レイチェル"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/alice2010/cnt06.html",
+          "synopsis": "以《斗神都市III》的蕾切尔为中心，呈现本篇之外的另一段故事。官网说明可以在没有玩过本篇的情况下阅读。",
+          "notes": "官方明确为创作者构想的非正史故事；有独立剧本，单列作品，不标成本篇正式后日谈。",
+          "source": "https://www.alicesoft.com/alice2010/cnt06.html",
+          "versions": [
+            {
+              "year": 2009,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "合集首发",
+              "voice": "未核实",
+              "differences": "2009-12-18《アリス2010》收录；本短篇的配音未单独核实。",
+              "source": "https://www.alicesoft.com/alice2010/",
+              "id": "alicesoft-extra-rachelnosakuragai-v1",
+              "workId": "alicesoft-extra-rachelnosakuragai"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-meganenomei",
+          "title": "眼镜芽生与暑假",
+          "chineseTitle": "眼镜芽生与暑假",
+          "originalTitle": "眼鏡のメイと夏休み",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2009,
+          "category": "叙事／养成冒险",
+          "subcategory": "阅读型短篇 ADV",
+          "genre": "暑假／日常",
+          "characters": [
+            "芽生（めい）"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/alice2010/cnt06.html",
+          "synopsis": "戴眼镜的芽生度过暑假中的一天。作品将此前员工日记中的人物故事改编成可在游戏中阅读的短篇。",
+          "notes": "员工日记改编阅读作品；原日记文章不另算一部游戏。",
+          "source": "https://www.alicesoft.com/alice2010/cnt06.html",
+          "versions": [
+            {
+              "year": 2009,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "合集首发",
+              "voice": "未核实",
+              "differences": "2009-12-18《アリス2010》收录；本短篇的配音未单独核实。",
+              "source": "https://www.alicesoft.com/alice2010/",
+              "id": "alicesoft-extra-meganenomei-v1",
+              "workId": "alicesoft-extra-meganenomei"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-girls",
+          "title": "女孩们",
+          "chineseTitle": "女孩们",
+          "originalTitle": "Girls.",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2004,
+          "category": "叙事／养成冒险",
+          "subcategory": "四篇阅读短篇",
+          "genre": "日历插画／人物小品",
+          "characters": [
+            "日历插画中的四位女主角（姓名未核实）"
+          ],
+          "charactersNote": "以已核实的人物身份介绍角色；姓名未核实，不将身份当作正式姓名。",
+          "charactersSource": "https://www.alicesoft.com/yakata7/staff.html",
+          "synopsis": "以 K 绘制的日历插画女孩为主人公，分别展开四段故事。作品以背景、人物立绘和文字呈现这些独立的人物小品。",
+          "notes": "四篇作为同一标题下的一部作品计数；属于阅读型故事集，不是单纯 CG 鉴赏。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html",
+          "versions": [
+            {
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "合集首发",
+              "voice": "未核实",
+              "differences": "2004-12-17《アリスの館7》收录；该短篇配音未单独核实。",
+              "source": "https://www.ymgal.games/oa10009",
+              "id": "alicesoft-extra-girls-v1",
+              "workId": "alicesoft-extra-girls"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-onimusu",
+          "title": "鬼姑娘",
+          "chineseTitle": "鬼姑娘",
+          "originalTitle": "オニむス",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2004,
+          "category": "叙事／养成冒险",
+          "subcategory": "阅读型喜剧 ADV",
+          "genre": "食堂／异类同居",
+          "characters": [
+            "食堂店主（姓名未核实）",
+            "自称鬼族的双角少女（姓名未核实）"
+          ],
+          "charactersNote": "以已核实的人物身份介绍角色；姓名未核实，不将身份当作正式姓名。",
+          "charactersSource": "https://www.alicesoft.com/yakata7/staff.html",
+          "synopsis": "食堂店主发现一名倒在门口的双角少女。大胃口的她吃掉大量食物后，被要求留下帮忙，两人的奇妙日常由此开始。",
+          "notes": "合集中的独立喜剧短篇，按叙事作品单列。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html",
+          "versions": [
+            {
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "合集首发",
+              "voice": "未核实",
+              "differences": "2004-12-17《アリスの館7》收录；该短篇配音未单独核实。",
+              "source": "https://www.ymgal.games/oa10009",
+              "id": "alicesoft-extra-onimusu-v1",
+              "workId": "alicesoft-extra-onimusu"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-elmeiflower",
+          "title": "艾尔梅之花",
+          "chineseTitle": "艾尔梅之花",
+          "originalTitle": "エルメイフラワー",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2004,
+          "category": "叙事／养成冒险",
+          "subcategory": "阅读型恋爱 ADV",
+          "genre": "危险组织／恋爱",
+          "characters": [
+            "メイゾネット",
+            "追求她的主人公（姓名未核实）"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/yakata7/staff.html",
+          "synopsis": "主人公向身披铠甲的梅佐奈特表达好感。她隶属于危险的“党”，追求她的过程却形成一段轻甜的恋爱故事。",
+          "notes": "合集独立恋爱短篇；保留女主角日文名，主人公暂用身份说明。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html",
+          "versions": [
+            {
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "合集首发",
+              "voice": "未核实",
+              "differences": "2004-12-17《アリスの館7》收录；该短篇配音未单独核实。",
+              "source": "https://www.ymgal.games/oa10009",
+              "id": "alicesoft-extra-elmeiflower-v1",
+              "workId": "alicesoft-extra-elmeiflower"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-sukiiro",
+          "title": "透明之色",
+          "chineseTitle": "透明之色",
+          "originalTitle": "透色（すきいろ）",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2004,
+          "category": "叙事／养成冒险",
+          "subcategory": "分支视觉小说",
+          "genre": "医师／狐附身",
+          "characters": [
+            "砂花",
+            "被狐附身的患者（姓名未核实）"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/yakata7/staff.html",
+          "synopsis": "医师砂花面对一名自称被狐附身、渴望恋爱的患者。治疗与相处展开后，故事进入带有分歧的小说式叙事。",
+          "notes": "官方称为小说形式的分支 ADV；含阅读与选择，不属于传统指令冒险。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html",
+          "versions": [
+            {
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "合集首发",
+              "voice": "未核实",
+              "differences": "2004-12-17《アリスの館7》收录；该短篇配音未单独核实。",
+              "source": "https://www.ymgal.games/oa10009",
+              "id": "alicesoft-extra-sukiiro-v1",
+              "workId": "alicesoft-extra-sukiiro"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-harukaninjadaisakusen",
+          "title": "超昂闪忍遥：疾风！？忍者大作战",
+          "chineseTitle": "超昂闪忍遥：疾风！？忍者大作战",
+          "originalTitle": "超昂閃忍ハルカ ―疾風！？忍者大作戦―",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "超昂閃忍ハルカ ～疾風！？忍者大作戦～"
+          ],
+          "firstYear": 2009,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "关卡式 RPG",
+          "genre": "平行世界／竞赛",
+          "characters": [
+            "ハルカ"
+          ],
+          "charactersNote": "列出已核对的部分人物，保留日文姓名。",
+          "charactersSource": "https://www.alicesoft.com/alice2010/cnt06.html",
+          "synopsis": "遥与伙伴参加名为 Rボールラン 的竞赛，争夺巨额奖金。在这个平行故事中，人物以新的竞赛目标展开关卡冒险。",
+          "notes": "官网明确为独立平行 RPG，与《超昂閃忍ハルカ》本篇剧情无关；不是将本篇再版拆成新作品。",
+          "source": "https://www.alicesoft.com/alice2010/cnt06.html",
+          "versions": [
+            {
+              "year": 2009,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "合集首发",
+              "voice": "未核实",
+              "differences": "2009-12-18《アリス2010》收录；本短篇的配音未单独核实。",
+              "source": "https://www.alicesoft.com/alice2010/",
+              "id": "alicesoft-extra-harukaninjadaisakusen-v1",
+              "workId": "alicesoft-extra-harukaninjadaisakusen"
+            }
+          ]
         }
       ],
-      "relatedSectionTitle": "专题补充作品：45 部",
+      "relatedSectionTitle": "专题补充作品：60 部",
       "relatedCountLabel": "独立作品；再版及扩充合并",
-      "relatedIntro": "本区累计收录 45 部作品，逐作标明阅读、养成、RPG或SLG玩法。第七批补充《零式》《王道勇者》《Only You》《学园KING》《PERSIOM》《AliveZ》《战巫女》《超昂大战》等15部；合集中的独立故事单列，重制与廉价版仍合并。",
-      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计 72 部；其中主库关联 27 部，专题补充区 45 部。</strong></p>"
+      "relatedIntro": "本区累计收录 60 部作品，逐作标明阅读、养成、RPG或SLG玩法。第八批补充《兰斯2》《兰斯3》《暗鸦》《妖精》《神武》《超级魔法少女真奈奈》及合集独立短篇，共15部；原版与重制合并，连载分卷不重复计数。",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计 87 部；其中主库关联 27 部，专题补充区 60 部。</strong></p>"
     }
   ]
 }
