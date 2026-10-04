@@ -7668,10 +7668,10 @@
       "id": "alicesoft",
       "name": "Alicesoft",
       "checkedAt": "2026-10-04",
-      "status": "第十四批完成：专题累计166部作品（含指令及历史关联）",
-      "scope": "已整理166部作品：Alicesoft本品牌153部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联4部、历史合作品牌IMYUIC 1部；主库关联27部，专题补充139部。纳入文字输入、菜单指令、阅读与养成冒险、RPG／SLG及独立小游戏，玩法分别标注。ChampionSoft前身作品保留原署名；去重覆盖主库与全部专题，厂商全目录仍未完成。",
-      "versionScope": "专题累计233条版本。本批新增8部作品、17条版本：新条目14条，既有夏娃年代记外典补录WebADV三期3条。小公主的1986原作与1987大幅改作合并；BuroBuro连续更新与总集篇归同一作品。仅能确认存在而无发行年的移植暂不增版本，预告和屏保不计游戏。",
-      "publisherNote": "本专题区分Alicesoft本品牌、Alice Blue、AliceNoir、ChampionSoft前身关联及历史合作IMYUIC。小公主、小吸血鬼、学园战记与Hopper发行于Alicesoft品牌成立前，保留ChampionSoft署名；角色在后来的系列出现，不代表旧作已经采用全部后期设定。",
+      "status": "第十五批完成：专题累计176部作品（含指令及历史关联）",
+      "scope": "已整理176部作品：Alicesoft本品牌154部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联13部、历史合作品牌IMYUIC 1部；主库关联27部，专题补充149部。纳入文字输入、菜单指令、阅读与养成冒险、RPG／SLG及独立小游戏，玩法分别标注。ChampionSoft作品保留原署名；去重覆盖主库与全部专题，厂商全目录仍未完成。",
+      "versionScope": "专题累计245条版本。本批新增10部作品、12条版本：幻梦之城与天女传说各合并PC-88和FM-7两条，其他作品各一条。天女传说以已核对的FM-7 1987年记录为首年；发行月份冲突保留说明，篇章不拆成独立作品，尚未核实年份的其他平台不增版本。",
+      "publisherNote": "本专题区分Alicesoft本品牌、Alice Blue、AliceNoir、ChampionSoft历史沿革及历史合作IMYUIC。本批1部本品牌互动小品与9部ChampionSoft署名作品分别统计；早期外部作者作品不统一声称由后来的Alicesoft团队开发，1989年的Tawhid也保留原署名。",
       "workIds": [
         "g482",
         "g483",
@@ -7730,13 +7730,13 @@
         "g507",
         "g508"
       ],
-      "catalogueEntryCount": 166,
+      "catalogueEntryCount": 176,
       "source": "https://www.alicesoft.com/game/index.html",
       "sectionTitle": "叙事及养成 ADV：27 部",
       "overviewLabel": "已整理作品（含指令、RPG／SLG与历史关联）",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "第十四批新增8部作品、17条版本：4部Alicesoft本品牌、4部ChampionSoft历史关联；仅更新本专题。",
-      "auditNote": "专题累计166部／233条版本：主库关联27部／36条，专题补充139部／197条。品牌分项为Alicesoft 153部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联4部及IMYUIC历史合作1部。主数据库仍为505部／922条。WebADV三期合并既有外典，小公主原作与改作合并，KUDAKERO预告及屏保排除。",
+      "auditLabel": "第十五批新增10部作品、12条版本：1部Alicesoft互动小品、9部ChampionSoft历史关联；仅更新本专题。",
+      "auditNote": "专题累计176部／245条版本：主库关联27部／36条，专题补充149部／209条。品牌分项为Alicesoft 154部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联13部及IMYUIC历史合作1部。主数据库仍为505部／922条。跨库去重后收录；奥利机场、寻找广子、Spacey Wonder、法老的诅咒与妖精公寓已在主库，排除重复新增。仅有展示或未完成预告的内容不计游戏，月份冲突及玩法证据不足保留说明。",
       "entries": [
         {
           "title": "妻みぐい3",
@@ -9416,6 +9416,106 @@
           "source": "https://w.atwiki.jp/gcmatome/pages/5673.html"
         },
         {
+          "title": "幻夢の城",
+          "status": "第十五批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-genmunoshiro"
+          ],
+          "reason": "核对主库与全部专题的中文名、原名及别名。不同平台与篇章合并同一作品；保留实际发行署名，发行月份冲突、操作与姓名未核实处逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987_4.htm"
+        },
+        {
+          "title": "天女伝説",
+          "status": "第十五批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-tennyodensetsu"
+          ],
+          "reason": "核对主库与全部专题的中文名、原名及别名。不同平台与篇章合并同一作品；保留实际发行署名，发行月份冲突、操作与姓名未核实处逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1988/1988.htm"
+        },
+        {
+          "title": "美砂ちゃん物語シリーズ ちょっと名探偵",
+          "status": "第十五批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-chottomeitantei"
+          ],
+          "reason": "核对主库与全部专题的中文名、原名及别名。不同平台与篇章合并同一作品；保留实际发行署名，发行月份冲突、操作与姓名未核实处逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1988/1988_11.htm"
+        },
+        {
+          "title": "ラブチェイサー",
+          "status": "第十五批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-lovechaser"
+          ],
+          "reason": "核对主库与全部专题的中文名、原名及别名。不同平台与篇章合并同一作品；保留实际发行署名，发行月份冲突、操作与姓名未核实处逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987_9.htm"
+        },
+        {
+          "title": "ラブリーGAL",
+          "status": "第十五批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-lovelygal"
+          ],
+          "reason": "核对主库与全部专题的中文名、原名及别名。不同平台与篇章合并同一作品；保留实际发行署名，发行月份冲突、操作与姓名未核实处逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987_9.htm"
+        },
+        {
+          "title": "ペルセウス 洋上の殺意",
+          "status": "第十五批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-perseus"
+          ],
+          "reason": "核对主库与全部专题的中文名、原名及别名。不同平台与篇章合并同一作品；保留实际发行署名，发行月份冲突、操作与姓名未核实处逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1984/1984_10.htm"
+        },
+        {
+          "title": "慶子ちゃんの秘密",
+          "status": "第十五批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-keikosecret"
+          ],
+          "reason": "核对主库与全部专题的中文名、原名及别名。不同平台与篇章合并同一作品；保留实际发行署名，发行月份冲突、操作与姓名未核实处逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1984/1984_4.htm"
+        },
+        {
+          "title": "POP LEMON",
+          "status": "第十五批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-poplemon"
+          ],
+          "reason": "核对主库与全部专题的中文名、原名及别名。不同平台与篇章合并同一作品；保留实际发行署名，发行月份冲突、操作与姓名未核实处逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986_11.htm"
+        },
+        {
+          "title": "タウヒード",
+          "status": "第十五批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-tawhid"
+          ],
+          "reason": "核对主库与全部专题的中文名、原名及别名。不同平台与篇章合并同一作品；保留实际发行署名，发行月份冲突、操作与姓名未核实处逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1989/1989_6.htm"
+        },
+        {
+          "title": "こすぷれれもん",
+          "status": "第十五批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-cosplaylemon"
+          ],
+          "reason": "核对主库与全部专题的中文名、原名及别名。不同平台与篇章合并同一作品；保留实际发行署名，发行月份冲突、操作与姓名未核实处逐项说明。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html"
+        },
+        {
           "title": "夏娃年代记WebADV三期先行公开",
           "status": "第十四批：合并外典版本",
           "workIds": [],
@@ -9434,16 +9534,16 @@
           "source": "https://alicecottage1989.blog.jp/archives/33956842.html"
         }
       ],
-      "description": "Alicesoft及历史关联专题：166部作品、233条版本，含文字输入与菜单指令、剧情问答、RPG／SLG、竞速经营及独立小游戏，保留原名、中文检索、人物与来源。",
+      "description": "Alicesoft及历史关联专题：176部作品、245条版本，含文字输入与功能键指令、菜单冒险、剧情问答、RPG／SLG、竞速经营及独立小游戏，保留原名、中文检索、人物与来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft的叙事与玩法长期并行。本专题共166部作品，含本品牌153部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联4部及IMYUIC历史合作1部。从小公主的文字输入、小吸血鬼的动词对象菜单，到阅读与养成、迷宫和战略RPG，再到竞速经营、打砖块及角色派对，具体操作与叙事形态逐作核对。改作、连续更新及先行短篇再收录合并版本；历史署名与后期角色设定分别说明。",
+        "thesis": "Alicesoft的叙事与玩法长期并行。本专题共176部作品，含本品牌154部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联13部及IMYUIC历史合作1部。从早期关键词输入、功能键指令与菜单调查，到阅读与养成、迷宫和战略RPG，再到竞速经营及互动小品，具体操作与叙事形态逐作核对。平台、改作、连续更新及篇章保留合并边界；历史署名、发行年冲突与资料缺口分别说明。",
         "phases": [
           {
-            "period": "1986—1988（前身品牌）",
-            "heading": "文字输入向菜单指令过渡",
-            "analysis": "ChampionSoft时期的小公主以动词和对象文字输入推进调查，小吸血鬼改用动词再选对象的菜单。两作的人物后来进入兰斯系列，但早期故事与后期设定不能直接等同；学园战记又与后来的学园漂流战记相连。本阶段只整理已核对的关联作品，不代表前身公司的完整目录。",
+            "period": "1983—1989（前身品牌）",
+            "heading": "多种探索与指令输入并存",
+            "analysis": "ChampionSoft早期既有珀尔修斯的船内推理调查，也有Love Chaser的体力管理。幻梦之城用对象关键词触发动作，天女传说与Lovely GAL采用功能键动词配合对象文字；小吸血鬼则使用动词再选对象的菜单。这些具体作品体现不同输入形式，不能将早期ADV一律归为文字输入或纯阅读。",
             "basis": "编辑观察",
-            "source": "https://w.atwiki.jp/gcmatome/pages/6865.html"
+            "source": "https://www.gamepres.org/pc88/library/1987/1987_4.htm"
           },
           {
             "period": "1989—1994",
@@ -15488,12 +15588,404 @@
               "workId": "alicesoft-extra-hopper"
             }
           ]
+        },
+        {
+          "id": "alicesoft-extra-genmunoshiro",
+          "title": "幻梦之城",
+          "chineseTitle": "幻梦之城",
+          "originalTitle": "幻夢の城",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Genmu no Shiro"
+          ],
+          "firstYear": 1987,
+          "category": "叙事／养成冒险",
+          "subcategory": "文字关键词输入 ADV",
+          "genre": "异界寻人／城堡探索",
+          "characters": [
+            "受托救人的主人公（姓名未核实）",
+            "请求寻找姐姐的少女（姓名未核实）"
+          ],
+          "charactersNote": "仅列来源明确提及的人物或身份；未取得正式姓名的身份不补造人名。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1987/1987_4.htm",
+          "synopsis": "主人公在城镇遇到一位少女，受托前往幻梦之国的城堡寻找她被困的姐姐。冒险围绕收集信息、寻找关键词和突破途中的阻碍展开。",
+          "notes": "ChampionSoft署名，作为Alicesoft品牌成立前后厂牌沿革的历史关联收录，不计入Alicesoft本品牌作品数。 PC-88资料明确说明对象关键词输入；FM-7操作差异未核实。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987_4.htm",
+          "versions": [
+            {
+              "year": 1987,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC-88发行记录",
+              "voice": "未核实",
+              "differences": "目录记为1987年4月。输入对象关键词后由程序决定动作，并非一般的“动词＋名词”输入。 角色配音未核实；不以音源或音乐支持推定有语音。",
+              "source": "https://www.gamepres.org/pc88/library/1987/1987_4.htm",
+              "id": "alicesoft-extra-genmunoshiro-v1",
+              "workId": "alicesoft-extra-genmunoshiro"
+            },
+            {
+              "year": 1987,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM-7发行记录",
+              "voice": "未核实",
+              "differences": "Oh!FM-7确认1987年发行；月份未确认。不同平台合并同一作品，不以平台数量增加作品数。 角色配音未核实；不以音源或音乐支持推定有语音。",
+              "source": "https://fm-7.com/museum/products/ks0emtnp/",
+              "id": "alicesoft-extra-genmunoshiro-v2",
+              "workId": "alicesoft-extra-genmunoshiro"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-tennyodensetsu",
+          "title": "天女传说",
+          "chineseTitle": "天女传说",
+          "originalTitle": "天女伝説",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Tennyo Densetsu",
+            "天女傳說"
+          ],
+          "firstYear": 1987,
+          "category": "叙事／养成冒险",
+          "subcategory": "功能键动词＋文字对象输入 ADV",
+          "genre": "传说线索／神秘调查",
+          "characters": [
+            "接受指令的主人公（姓名未核实）",
+            "神秘男子（姓名未核实）",
+            "有天女血统的人物群（姓名未核实）"
+          ],
+          "charactersNote": "仅列来源明确提及的人物或身份；未取得正式姓名的身份不补造人名。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1988/1988.htm",
+          "synopsis": "主人公接到神秘男子的指令，寻找分散各地、拥有天女血统的人物，并破解她们身上显现的文字，探寻天女出现的秘密。",
+          "notes": "ChampionSoft署名，作为Alicesoft品牌成立前后厂牌沿革的历史关联收录，不计入Alicesoft本品牌作品数。 首年采用FM-7的1987年记录，PC-88保留1988年记录；不把各平台的目录年份混成同一首发日期。",
+          "source": "https://www.gamepres.org/pc88/library/1988/1988.htm",
+          "versions": [
+            {
+              "year": 1987,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM-7发行记录",
+              "voice": "未核实",
+              "differences": "Oh!FM-7记为1987年12月，作为目前核对到的较早平台发行记录。 角色配音未核实；不以音源或音乐支持推定有语音。",
+              "source": "https://fm-7.com/museum/products/368356z3/",
+              "id": "alicesoft-extra-tennyodensetsu-v1",
+              "workId": "alicesoft-extra-tennyodensetsu"
+            },
+            {
+              "year": 1988,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC-88发行记录",
+              "voice": "未核实",
+              "differences": "PC-88资料记为1988年，月份不明。动词设在功能键，对象以文字输入。 角色配音未核实；不以音源或音乐支持推定有语音。",
+              "source": "https://www.gamepres.org/pc88/library/1988/1988.htm",
+              "id": "alicesoft-extra-tennyodensetsu-v2",
+              "workId": "alicesoft-extra-tennyodensetsu"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-chottomeitantei",
+          "title": "美砂的故事：小小名侦探",
+          "chineseTitle": "美砂的故事：小小名侦探",
+          "originalTitle": "美砂ちゃん物語シリーズ ちょっと名探偵",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ちょっと名探偵",
+            "Chotto Meitantei"
+          ],
+          "firstYear": 1988,
+          "category": "叙事／养成冒险",
+          "subcategory": "调查冒险（指令形式未完整核实）",
+          "genre": "高中生侦探／逃逸事件",
+          "characters": [
+            "美砂",
+            "香奈"
+          ],
+          "charactersNote": "仅列来源明确提及的人物或身份；未取得正式姓名的身份不补造人名。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1988/1988_11.htm",
+          "synopsis": "高中生侦探美砂受托调查一起肇事逃逸事件，寻找真正的肇事者。好友香奈协助她收集线索、推进调查。",
+          "notes": "ChampionSoft署名，作为Alicesoft品牌成立前后厂牌沿革的历史关联收录，不计入Alicesoft本品牌作品数。 与Hopper中的角色联动不构成同一作品；MSX2等平台存在的目录信息尚未逐项核对发行年，不增版本。",
+          "source": "https://www.gamepres.org/pc88/library/1988/1988_11.htm",
+          "versions": [
+            {
+              "year": 1988,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC-88发行记录",
+              "voice": "未核实",
+              "differences": "PC-88目录记为1988年11月；另一厂商目录记8月，保留年份而不裁定统一首发月。 角色配音未核实；不以音源或音乐支持推定有语音。",
+              "source": "https://www.gamepres.org/pc88/library/1988/1988_11.htm",
+              "id": "alicesoft-extra-chottomeitantei-v1",
+              "workId": "alicesoft-extra-chottomeitantei"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-lovechaser",
+          "title": "Love Chaser：追寻失踪的新娘",
+          "chineseTitle": "Love Chaser：追寻失踪的新娘",
+          "originalTitle": "ラブチェイサー",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "LOVE CHASER",
+            "Love Chaser"
+          ],
+          "firstYear": 1987,
+          "category": "叙事／养成冒险",
+          "subcategory": "调查 ADV＋体力管理",
+          "genre": "婚礼失踪／侦探调查",
+          "characters": [
+            "加藤かずこ",
+            "新人侦探（姓名未核实）"
+          ],
+          "charactersNote": "仅列来源明确提及的人物或身份；未取得正式姓名的身份不补造人名。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1987/1987_9.htm",
+          "synopsis": "财阀之女加藤和子在婚礼当天失踪，一名新人侦探接受家属委托展开调查。玩家协助寻找她的下落，同时管理移动和行动消耗的体力。",
+          "notes": "ChampionSoft署名，作为Alicesoft品牌成立前后厂牌沿革的历史关联收录，不计入Alicesoft本品牌作品数。 中文副标题为站内解释，不冒称官方译名；保留原文人名。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987_9.htm",
+          "versions": [
+            {
+              "year": 1987,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC-88发行记录",
+              "voice": "未核实",
+              "differences": "目录记为1987年9月。调查中存在体力消耗与谜题，不将其归为纯阅读小说；文字输入或菜单的具体分工未完整核实。 角色配音未核实；不以音源或音乐支持推定有语音。",
+              "source": "https://www.gamepres.org/pc88/library/1987/1987_9.htm",
+              "id": "alicesoft-extra-lovechaser-v1",
+              "workId": "alicesoft-extra-lovechaser"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-lovelygal",
+          "title": "Lovely GAL：浮游都市的危机",
+          "chineseTitle": "Lovely GAL：浮游都市的危机",
+          "originalTitle": "ラブリーGAL",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Lovely GAL",
+            "ラブリーＧＡＬ"
+          ],
+          "firstYear": 1987,
+          "category": "叙事／养成冒险",
+          "subcategory": "功能键动词＋文字对象输入 ADV",
+          "genre": "秘宝搜集／异界都市",
+          "characters": [
+            "寻找秘宝的主人公（姓名未核实）",
+            "沉睡的女王（姓名未核实）"
+          ],
+          "charactersNote": "仅列来源明确提及的人物或身份；未取得正式姓名的身份不补造人名。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1987/1987_9.htm",
+          "synopsis": "主人公依照老人给出的线索搜集剑、秘药和古文书三件秘宝，随后进入浮游都市梅尼尔。他需要唤醒沉睡的女王，解除都市面临的危机。",
+          "notes": "ChampionSoft署名，作为Alicesoft品牌成立前后厂牌沿革的历史关联收录，不计入Alicesoft本品牌作品数。 玩法依据另参见https://erogereport.blog.jp/archives/cat_332303.html。与幻梦之城、POP LEMON的风格关联不等于同一剧情或作品；中文副标题为编辑说明。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987_9.htm",
+          "versions": [
+            {
+              "year": 1987,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC-88发行记录",
+              "voice": "未核实",
+              "differences": "PC-88资料记为1987年9月，另一厂商目录记7月；月份冲突保留。动词功能键与对象文字输入见独立评测。 角色配音未核实；不以音源或音乐支持推定有语音。",
+              "source": "https://www.gamepres.org/pc88/library/1987/1987_9.htm",
+              "id": "alicesoft-extra-lovelygal-v1",
+              "workId": "alicesoft-extra-lovelygal"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-perseus",
+          "title": "珀尔修斯：海上的杀意",
+          "chineseTitle": "珀尔修斯：海上的杀意",
+          "originalTitle": "ペルセウス 洋上の殺意",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ペルセウス洋上の殺意",
+            "Perseus Youjou no Satsui"
+          ],
+          "firstYear": 1984,
+          "category": "叙事／养成冒险",
+          "subcategory": "船内调查／推理 ADV",
+          "genre": "豪华客船／秘密调查",
+          "characters": [
+            "客船一等航海士（姓名未核实）",
+            "遇害乘客（姓名未核实）"
+          ],
+          "charactersNote": "仅列来源明确提及的人物或身份；未取得正式姓名的身份不补造人名。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1984/1984_10.htm",
+          "synopsis": "豪华客船珀尔修斯号上发现一名乘客的遗体。玩家扮演一等航海士，在船内秘密调查，查明真正的凶手。",
+          "notes": "ChampionSoft署名，作为Alicesoft品牌成立前后厂牌沿革的历史关联收录，不计入Alicesoft本品牌作品数。 与其他厂商的神话题材《カレイジアペルセウス》无关。",
+          "source": "https://www.gamepres.org/pc88/library/1984/1984_10.htm",
+          "versions": [
+            {
+              "year": 1984,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC-88发行记录",
+              "voice": "未核实",
+              "differences": "目录记为1984年10月；调查范围包括船内设施。具体指令输入方式未完整核实。 角色配音未核实；不以音源或音乐支持推定有语音。",
+              "source": "https://www.gamepres.org/pc88/library/1984/1984_10.htm",
+              "id": "alicesoft-extra-perseus-v1",
+              "workId": "alicesoft-extra-perseus"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-keikosecret",
+          "title": "庆子的秘密",
+          "chineseTitle": "庆子的秘密",
+          "originalTitle": "慶子ちゃんの秘密",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Keiko-chan no Himitsu",
+            "慶子の秘密"
+          ],
+          "firstYear": 1984,
+          "category": "叙事／养成冒险",
+          "subcategory": "悬疑寻人 ADV",
+          "genre": "失踪调查／湘南海岸",
+          "characters": [
+            "慶子",
+            "寻找庆子的主人公（姓名未核实）"
+          ],
+          "charactersNote": "仅列来源明确提及的人物或身份；未取得正式姓名的身份不补造人名。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1984/1984_4.htm",
+          "synopsis": "庆子失踪后，主人公赶往湘南海岸寻找她。游戏由四个部分组成，以寻人调查和与庆子的互动推进。",
+          "notes": "ChampionSoft署名，作为Alicesoft品牌成立前后厂牌沿革的历史关联收录，不计入Alicesoft本品牌作品数。 1986年“その後の慶子ちゃん”系列另有发行，但现有资料偏向图像展示，未据此补作指令游戏或原作移植。",
+          "source": "https://www.gamepres.org/pc88/library/1984/1984_4.htm",
+          "versions": [
+            {
+              "year": 1984,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC-88发行记录",
+              "voice": "未核实",
+              "differences": "目录记为1984年4月；本作四部分作为一部作品记录，不拆成四部。 角色配音未核实；不以音源或音乐支持推定有语音。",
+              "source": "https://www.gamepres.org/pc88/library/1984/1984_4.htm",
+              "id": "alicesoft-extra-keikosecret-v1",
+              "workId": "alicesoft-extra-keikosecret"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-poplemon",
+          "title": "POP LEMON",
+          "chineseTitle": "POP LEMON",
+          "originalTitle": "POP LEMON",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ポップレモン",
+            "Pop Lemon"
+          ],
+          "firstYear": 1986,
+          "category": "叙事／养成冒险",
+          "subcategory": "移动与会话调查 ADV",
+          "genre": "城市／校园探索",
+          "characters": [
+            "旅途中的主人公（姓名未核实）",
+            "沿途提供信息的人物群（姓名未核实）"
+          ],
+          "charactersNote": "仅列来源明确提及的人物或身份；未取得正式姓名的身份不补造人名。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1986/1986_11.htm",
+          "synopsis": "游戏由城市篇与校园篇组成。主人公在旅途中与沿途人物会面，询问信息，继续探索；两篇作为同一发行作品收录。",
+          "notes": "ChampionSoft署名，作为Alicesoft品牌成立前后厂牌沿革的历史关联收录，不计入Alicesoft本品牌作品数。 资料称为妖精公馆的续作，同时明确剧情不连续，因此单列作品；城市篇与校园篇不拆分计数。具体指令格式未完整核实。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986_11.htm",
+          "versions": [
+            {
+              "year": 1986,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC-88发行记录",
+              "voice": "未核实",
+              "differences": "PC-88资料记为1986年11月，另一厂商目录记12月；保留1986年，不认定唯一发行月。 角色配音未核实；不以音源或音乐支持推定有语音。",
+              "source": "https://www.gamepres.org/pc88/library/1986/1986_11.htm",
+              "id": "alicesoft-extra-poplemon-v1",
+              "workId": "alicesoft-extra-poplemon"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-tawhid",
+          "title": "Tawhid：超能力者护送之旅",
+          "chineseTitle": "Tawhid：超能力者护送之旅",
+          "originalTitle": "タウヒード",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Tawhid",
+            "Tawheed"
+          ],
+          "firstYear": 1989,
+          "category": "叙事／养成冒险",
+          "subcategory": "冒险（目录另称动作 ADV）",
+          "genre": "战地摄影／超能力阴谋",
+          "characters": [
+            "大沼天池",
+            "エリザベス",
+            "イーマム"
+          ],
+          "charactersNote": "仅列来源明确提及的人物或身份；未取得正式姓名的身份不补造人名。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1989/1989_6.htm",
+          "synopsis": "二十一世纪，前战地摄影师大沼天池在阿拉伯地区拍摄遭战火破坏的遗迹。他遇到超能力者伊丽莎白和老人伊玛姆，受托护送被秘密组织盯上的伊丽莎白，并调查她失去内心与受到召唤的秘密。",
+          "notes": "ChampionSoft署名，作为Alicesoft品牌成立前后厂牌沿革的历史关联收录，不计入Alicesoft本品牌作品数。 发行年与Alicesoft品牌成立同年，仍保留ChampionSoft原署名。目录称动作冒险，具体战斗和文字指令比例未完整核实；不与同页的学园RPG《エンジェルハーツ》混淆。",
+          "source": "https://www.gamepres.org/pc88/library/1989/1989_6.htm",
+          "versions": [
+            {
+              "year": 1989,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC-88发行记录",
+              "voice": "未核实",
+              "differences": "PC-88资料记为1989年6月，厂商总目录记4月；平台或月份差异尚未裁定，保留1989年。 角色配音未核实；不以音源或音乐支持推定有语音。",
+              "source": "https://www.gamepres.org/pc88/library/1989/1989_6.htm",
+              "id": "alicesoft-extra-tawhid-v1",
+              "workId": "alicesoft-extra-tawhid"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-cosplaylemon",
+          "title": "换装柠檬",
+          "chineseTitle": "换装柠檬",
+          "originalTitle": "こすぷれれもん",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Cosplay Lemon",
+            "コスプレレモン"
+          ],
+          "firstYear": 2004,
+          "category": "动作／休闲游戏",
+          "subcategory": "服装选择／图文互动小品",
+          "genre": "夏日回忆",
+          "characters": [
+            "れもん"
+          ],
+          "charactersNote": "官网称れもんちゃん，保留れもん，不补姓氏或未确认的关系。",
+          "charactersSource": "https://www.alicesoft.com/yakata7/staff.html",
+          "synopsis": "玩家为柠檬选择服装，查看对应的画面和文字信息。官方将其介绍为一段夏日小回忆；没有证据表明具有长篇剧情或复杂分支。",
+          "notes": "《アリスの館7》工作人员个人企划，作者ちょも山。官网确认选择服装后显示图像与消息，因此按互动换装小品单列；不描述为指令式ADV、独立商业发行或新增长篇剧本。",
+          "source": "https://www.alicesoft.com/yakata7/staff.html",
+          "versions": [
+            {
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "Alicesoft",
+              "kind": "Windows发行记录",
+              "voice": "未核实",
+              "differences": "随2004年12月17日《アリスの館7》收录；只记录合集内可操作小品，不把纯CG、壁纸或预告片计作游戏。 角色配音未核实；不以音源或音乐支持推定有语音。",
+              "source": "https://www.alicesoft.com/yakata7/staff.html",
+              "id": "alicesoft-extra-cosplaylemon-v1",
+              "workId": "alicesoft-extra-cosplaylemon"
+            }
+          ]
         }
       ],
-      "relatedSectionTitle": "专题补充作品：139部（含历史品牌与前身关联）",
+      "relatedSectionTitle": "专题补充作品：149部（含历史品牌与前身关联）",
       "relatedCountLabel": "独立作品；再版及扩充合并",
-      "relatedIntro": "本区累计139部作品。第十四批补入走り女两作、BuroBuro、哈尼暗开发室Petit及ChampionSoft时期的小公主、小吸血鬼、学园战记、Hopper。文字输入、菜单指令、竞速训练与打砖块分开标注；夏娃年代记WebADV先行内容合并既有外典版本。展示程序排除，资料不足处明确说明，不把前身作品改写为Alicesoft本品牌发行。",
-      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计166部（Alicesoft 153部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联4部、IMYUIC历史合作1部）；主库关联27部，专题补充139部。</strong></p>"
+      "relatedIntro": "本区累计149部作品。第十五批补入换装柠檬，以及幻梦之城、天女传说、Love Chaser、小小名侦探等9部ChampionSoft署名作品。关键词输入、功能键动词与对象文字输入、调查与体力管理、换装图文互动分别标注；未核实的指令形式不硬归文字输入。平台、篇章与发行月份差异逐作说明，不把前身作品混计为Alicesoft本品牌。",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计176部（Alicesoft 154部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联13部、IMYUIC历史合作1部）；主库关联27部，专题补充149部。</strong></p>"
     }
   ]
 }
