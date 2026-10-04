@@ -15509,9 +15509,9 @@
       "id": "nitroplus",
       "name": "Nitroplus",
       "checkedAt": "2026-10-04",
-      "status": "本轮叙事范围逐项核对；其他品牌及全部版本仍待续补",
-      "scope": "本轮整理 2000—2018 年首发的 29 部叙事作品：25 部新建、4 部复用主库；另列《機神飛翔》1 部小说＋3D 动作续作。包括 Nitroplus／Nitro Origin 历史 PC 目录中的本篇、独立短篇及衍生程序，另纳入官网所列部分叙事合作。不宣称覆盖 Nitro Chiral、全部跨类型作品或公司全目录。",
-      "versionScope": "原版、已核实的再版／兼容版及主要移植按同一作品分别登记，含 2026 年 Phantom Steam 版。全部地区、国际发行、ELITE 和其他主机版尚未穷尽。未确认配音规格记为“未核实”；仅明确无配音时在页面提示。",
+      "status": "上次专题搭建的版本、角色和配音补齐已完成；范围外品牌和未核实字段单独说明",
+      "scope": "整理 2000—2018 年首发的 29 部叙事作品，另列《機神飛翔》1 部小说＋3D 动作续作；现有作品 ID 全部沿用。涵盖 Nitroplus／Nitro Origin 本篇、独立短篇及已收录叙事合作。Nitro Chiral 与其他跨类型游戏在范围清单说明，不计入本专题已收录作品。",
+      "versionScope": "已补齐《機神咆吼》PS2／Windows、CHAOS;HEAD NOAH 主要移植、ROBOTICS;NOTES ELITE、科学 ADV 移动／主机／Steam 与 JAST 国际版本，并拆分原合并平台。版本日期保留地区和商店显示异文。RE:BOOT Xbox Series X|S 截至 2026-10-04 未发售，计划项目不计入已发行版本；缺少原始规格的配音字段保留未核实。",
       "publisherNote": "Nitroplus（ニトロプラス）社专题。历史作品现分列于 Nitro Origin 与 Nitroplus 官网；品牌归属不替代实际发行署名。5pb.、デジターボ、プリンセスソフト、角川ゲームス等发行版保留各自署名，制作合作与发行关系分别说明。",
       "workIds": [
         "g054",
@@ -15911,12 +15911,12 @@
         },
         {
           "title": "機神咆吼デモンベイン",
-          "status": "版本／范围说明",
+          "status": "已补齐版本",
           "workIds": [
             "g600"
           ],
-          "reason": "同一故事的全年龄主机改编与逆移植，不另计独立作品；本轮尚未补齐这些发行版本的实际署名及规格。",
-          "source": "https://www.nitroplus.co.jp/game/05-demonbane/"
+          "reason": "PS2 日本全年龄改编与 2019 Windows 逆移植已归入 g600；实际发行方与全配音分别记录。",
+          "source": "https://www.nitroplus.co.jp/game/05-demonbane-houkou/"
         },
         {
           "title": "サバト鍋／戒厳聖都／ニトロWARS",
@@ -15929,30 +15929,30 @@
         },
         {
           "title": "CHAOS;HEAD NOAH",
-          "status": "版本／范围说明",
+          "status": "已补齐主要移植",
           "workIds": [
             "g618"
           ],
-          "reason": "原作增强移植，沿用 CHAOS;HEAD 作品 ID；仅登记本次核实的 Xbox 360 版本，其他移植仍待补。",
+          "reason": "PSP、iOS、Android、PS3、Vita、Switch 日本版及 Steam 国际版沿用 g618；合集不重复建立作品。",
           "source": "https://www.kagaku-adv.com/titles/chaoshead_noah/"
         },
         {
           "title": "ROBOTICS;NOTES ELITE",
-          "status": "版本／范围说明",
+          "status": "已补齐主要移植",
           "workIds": [
             "g619"
           ],
-          "reason": "增强改编，不另外建立相同故事的作品；本轮未登记全部 ELITE 平台版本。",
-          "source": "https://roboticsnotes.jp/elite/"
+          "reason": "Vita 增强版、PS4／Switch 日本 HD 版、国际主机版与 Steam 版沿用 g619；DaSH 不是本作版本。",
+          "source": "https://www.kagaku-adv.com/titles/roboticsnotes_elite/"
         },
         {
           "title": "STEINS;GATE RE:BOOT",
-          "status": "版本／范围说明",
+          "status": "已补齐已发行版本",
           "workIds": [
             "g054"
           ],
-          "reason": "原作重制项目不另建独立作品；本轮先复用原有四条版本，RE:BOOT 版本规格及全部发行地区后续另核。",
-          "source": "https://steinsgate.jp/"
+          "reason": "2026-08-20 日本四款主机版与已上线 Steam 版沿用 g054；Steam 实际署名 Spike Chunsoft。Xbox 及欧美主机 10-29 计划在下列单独项目说明。",
+          "source": "https://steinsgate.jp/reboot/ja-jp/"
         },
         {
           "title": "STEINS;GATE 変移空間のオクテット",
@@ -16016,6 +16016,64 @@
           "workIds": [],
           "reason": "同公司独立品牌，本轮不声称覆盖其作品；后续可按品牌另建专题。",
           "source": "https://www.nitroplus.co.jp/works/"
+        },
+        {
+          "title": "STEINS;GATE 原版／ELITE 平台与地区订正",
+          "status": "已同步",
+          "workIds": [
+            "g054"
+          ],
+          "reason": "补记原作主要移植与日本 ELITE 首发，拆开旧 PS4／Steam 合并行；日本与国际署名分开，不把开发合作当作发行。",
+          "source": "https://www.kagaku-adv.com/titles/steinsgate/"
+        },
+        {
+          "title": "JAST 国际发行",
+          "status": "已同步",
+          "workIds": [
+            "g163",
+            "g169",
+            "g611",
+            "g614",
+            "g616"
+          ],
+          "reason": "《沙耶之歌》《村正》《索尼子交流》《你与她与她之恋》《冻京 NECRO》的国际版本归入原作，各版本保留发行商来源。",
+          "source": "https://jast.games/collection"
+        },
+        {
+          "title": "表征图／PSYCHO-PASS 后续移植",
+          "status": "已同步",
+          "workIds": [
+            "g620",
+            "g621"
+          ],
+          "reason": "补齐已核实移动、主机与 Steam 记录，分别保留 5pb.、Spike Chunsoft、NIS America 实际署名；伴侣应用不计游戏。",
+          "source": "https://www.kagaku-adv.com/titles/steinsgate_phenogram/"
+        },
+        {
+          "title": "RE:BOOT Xbox 与欧美主机发行计划",
+          "status": "计划／不计已发行版本",
+          "workIds": [
+            "g054"
+          ],
+          "reason": "截至 2026-10-04：Xbox Series X|S 延期至 2026-10-29；欧美主机发行商亦公布 10-29。Steam 已上线，不能据欧美主机预售公告把 Steam 全部记为未发行。",
+          "source": "https://www.spike-chunsoft.com/games/steinsgate-reboot/"
+        },
+        {
+          "title": "角色与配音规格复核",
+          "status": "已补正／保留证据边界",
+          "workIds": [
+            "g054",
+            "g600",
+            "g603",
+            "g608",
+            "g610",
+            "g618",
+            "g619",
+            "g620",
+            "g621"
+          ],
+          "reason": "补充可核实角色及分版本 CV；刃鳴散らす、スマガスペシャル、アザナエル等由官方规格确认配音。无原始证据的其他字段不猜填。",
+          "source": "https://www.nitroplus.co.jp/game/20-axanael/"
         }
       ],
       "relatedGames": [

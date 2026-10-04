@@ -5,6 +5,23 @@ import {filterCatalogue,publisherWorkCounts,visibleVoiceNote} from '../filter.mj
 
 const data=JSON.parse(readFileSync(new URL('../data/games.json',import.meta.url),'utf8'));
 
+test('Nitroplus completion separates shipped platforms, planned releases and publisher credits',()=>{
+  const reboot=filterCatalogue(data,{query:'STEINS;GATE RE:BOOT',from:'2026',company:'MAGES.'});
+  assert.deepEqual(reboot.map(({work})=>work.id),['g054']);
+  assert.deepEqual(new Set(reboot[0].versions.map(v=>v.platform)),new Set(['Nintendo Switch 2','Nintendo Switch','PlayStation 5','PlayStation 4']));
+  assert.equal(filterCatalogue(data,{query:'RE:BOOT',from:'2026',platform:'Xbox Series'}).length,0);
+  const steam=filterCatalogue(data,{query:'RE:BOOT',from:'2026',company:'Spike Chunsoft'});
+  assert.deepEqual(steam.map(({work})=>work.id),['g054']);
+  assert.equal(steam[0].versions.length,1);
+  assert.equal(steam[0].versions[0].platform,'Windows（Steam）');
+  assert.ok(data.versions.filter(v=>v.workId==='g054').every(v=>v.platform!=='PlayStation 4 / Steam'));
+  assert.deepEqual(filterCatalogue(data,{query:'機神咆吼デモンベイン'}).map(({work})=>work.id),['g600']);
+  assert.deepEqual(filterCatalogue(data,{query:'ROBOTICS;NOTES ELITE',company:'Spike Chunsoft'}).map(({work})=>work.id),['g619']);
+  assert.ok(filterCatalogue(data,{query:'咲畑梨深'}).some(({work})=>work.id==='g618'));
+  for(const id of ['g603-v1','g608-v1','g610-v1','g611-v2','g621-v1']) assert.equal(data.versions.find(v=>v.id===id).voice,'有');
+  for(const id of ['g597-v1','g613-v1','g615-v1']) assert.equal(data.versions.find(v=>v.id===id).voice,'未核实');
+});
+
 test('Nitroplus dossier reuses originals and keeps remakes, aliases and actual publishers together',()=>{
   const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='nitroplus');
   assert.equal(dossier.workIds.length,29);
