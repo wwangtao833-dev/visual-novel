@@ -7668,10 +7668,10 @@
       "id": "alicesoft",
       "name": "Alicesoft",
       "checkedAt": "2026-10-04",
-      "status": "第十五批完成：专题累计176部作品（含指令及历史关联）",
-      "scope": "已整理176部作品：Alicesoft本品牌154部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联13部、历史合作品牌IMYUIC 1部；主库关联27部，专题补充149部。纳入文字输入、菜单指令、阅读与养成冒险、RPG／SLG及独立小游戏，玩法分别标注。ChampionSoft作品保留原署名；去重覆盖主库与全部专题，厂商全目录仍未完成。",
-      "versionScope": "专题累计245条版本。本批新增10部作品、12条版本：幻梦之城与天女传说各合并PC-88和FM-7两条，其他作品各一条。天女传说以已核对的FM-7 1987年记录为首年；发行月份冲突保留说明，篇章不拆成独立作品，尚未核实年份的其他平台不增版本。",
-      "publisherNote": "本专题区分Alicesoft本品牌、Alice Blue、AliceNoir、ChampionSoft历史沿革及历史合作IMYUIC。本批1部本品牌互动小品与9部ChampionSoft署名作品分别统计；早期外部作者作品不统一声称由后来的Alicesoft团队开发，1989年的Tawhid也保留原署名。",
+      "status": "第十六批完成：专题累计191部作品（含指令及历史关联）",
+      "scope": "已整理191部作品：Alicesoft本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联24部、历史合作品牌IMYUIC 1部；主库关联27部，专题补充164部。纳入文字输入、菜单指令、阅读与养成冒险、RPG／SLG及独立小游戏，玩法分别标注；跨主库与全部专题去重，厂商全目录仍未完成。",
+      "versionScope": "专题累计270条版本。本批新增15部作品、21条版本，并为4部既有作品增加4条MSX2记录，共增加25条版本。四款前身特别篇各列PC-88／FM-7两版；特盛问答列PC-98、FM TOWNS及Windows 3.1。斗神攻略盘用1991年实际寄送年；梦想之家保留PC-8001平台。",
+      "publisherNote": "本专题区分Alicesoft本品牌、Alice Blue、AliceNoir、ChampionSoft历史沿革及历史合作IMYUIC。本批新增4部本品牌问答与11部ChampionSoft署名游戏；前身作品保留原发行署名，不统一声称由后来的Alicesoft团队开发。",
       "workIds": [
         "g482",
         "g483",
@@ -7730,13 +7730,13 @@
         "g507",
         "g508"
       ],
-      "catalogueEntryCount": 176,
+      "catalogueEntryCount": 191,
       "source": "https://www.alicesoft.com/game/index.html",
       "sectionTitle": "叙事及养成 ADV：27 部",
       "overviewLabel": "已整理作品（含指令、RPG／SLG与历史关联）",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "第十五批新增10部作品、12条版本：1部Alicesoft互动小品、9部ChampionSoft历史关联；仅更新本专题。",
-      "auditNote": "专题累计176部／245条版本：主库关联27部／36条，专题补充149部／209条。品牌分项为Alicesoft 154部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联13部及IMYUIC历史合作1部。主数据库仍为505部／922条。跨库去重后收录；奥利机场、寻找广子、Spacey Wonder、法老的诅咒与妖精公寓已在主库，排除重复新增。仅有展示或未完成预告的内容不计游戏，月份冲突及玩法证据不足保留说明。",
+      "auditLabel": "第十六批新增15部作品、25条版本：4部Alicesoft问答、11部ChampionSoft历史关联，并补4部既有游戏的MSX2版本；仅更新本专题。",
+      "auditNote": "专题累计191部／270条版本：主库关联27部／36条，专题补充164部／234条。品牌分项为Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联24部及IMYUIC历史合作1部。主数据库仍为505部／922条。CG图集、投稿小说、展示和未完成预告不计游戏；类型、日期及编号异文逐项说明。",
       "entries": [
         {
           "title": "妻みぐい3",
@@ -7886,7 +7886,7 @@
           "title": "其余旧作 ADV（1989—2015）",
           "status": "后续批次：待逐项整理",
           "workIds": [],
-          "reason": "第十四批继续核对独立短篇，并补充品牌成立前的小公主、小吸血鬼和学园战记历史关联；文字输入与菜单指令区分。剩余短篇需进一步核对人物和实际内容，厂商全目录未完成。",
+          "reason": "第十六批补入四款问答模块与四款前身特别篇。仅有用户小说、CG图集或预告而未确认游戏的内容不计数；其余短篇继续逐项核实，厂商全目录未完成。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -8152,7 +8152,7 @@
           "title": "其余 RPG／SLG、Fan Disc 及移植",
           "status": "后续批次待核对",
           "workIds": [],
-          "reason": "第十四批纳入竞速女郎系列、BuroBuro与前身角色派对Hopper；连续更新合并同作。夏娃年代记WebADV并入既有外典；准确年代未核实的Windows移植、未完成预告和屏保不新增可玩版本。",
+          "reason": "第十六批补入Playmate拼图三款、医疗与粮食模拟、梦想之家、高管之路，并合并四款既有游戏的MSX2版本；其他移植及教学作品仍待核实。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -9532,11 +9532,169 @@
           "relatedIds": [],
           "reason": "档案确认当って！！KUDAKERO只有自动播放预告，马鹿产物同一张脸为屏保；两者不计可玩游戏或新版本。",
           "source": "https://alicecottage1989.blog.jp/archives/33956842.html"
+        },
+        {
+          "title": "クイズの館",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-quiznoyakata"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/16437084.html"
+        },
+        {
+          "title": "闘神クイズ",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-toushinquiz"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/17708081.html"
+        },
+        {
+          "title": "クイズ俺が基準だ！！",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-orequiz"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/19289279.html"
+        },
+        {
+          "title": "特盛クイズレロレロ",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-quizrerorero"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://alicecottage1989.blog.jp/archives/23634949.html"
+        },
+        {
+          "title": "フェアリーズレジデンス スペシャル クラブ編",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-fairyclub"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_club"
+        },
+        {
+          "title": "フェアリーズレジデンス スペシャル SF編",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-fairysf"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_sf"
+        },
+        {
+          "title": "フェアリーズレジデンス スペシャル 学園編",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-fairyschool"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_gaku"
+        },
+        {
+          "title": "フェアリーズレジデンス スペシャル 芸能界編",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-fairyshowbiz"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_gei"
+        },
+        {
+          "title": "アフタヌーン",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-playmateafternoon"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://fm-7.com/museum/products/ndfq3xdv/"
+        },
+        {
+          "title": "カリフォルニアウインド",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-playmatecalifornia"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://fm-7.com/museum/products/j7ziyn0n/"
+        },
+        {
+          "title": "フラワーナイト",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-playmateflowernight"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://fm-7.com/museum/products/89eedtiy/"
+        },
+        {
+          "title": "Dr. 麻酔科医",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-dranesthetist"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://fm-7.com/museum/products/xon5gs3r/"
+        },
+        {
+          "title": "食糧パニック",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-provisionspanic"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://fm-7.com/museum/products/tvdticdb/"
+        },
+        {
+          "title": "夢のマイホーム",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-dreammyhome"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1983/1983_4.html#yume"
+        },
+        {
+          "title": "エグゼクティブへの道",
+          "status": "第十六批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-executiveroad"
+          ],
+          "reason": "跨主库与全部专题核对名称、别名和版本，独立游戏模块与非游戏内容区分。历史署名、月份异文和输入方式证据缺口逐项说明。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987_12.html#exec"
+        },
+        {
+          "title": "非游戏内容：其后的庆子三篇、久美的阅读内容",
+          "status": "第十六批：排除独立游戏计数",
+          "workIds": [],
+          "relatedIds": [],
+          "reason": "其后的庆子护士／OL／新妻三篇是CG图集；久美ちゃんファイト！！在Alice NET用户投稿阅读栏目，未取得可操作独立游戏的证据，不列作第五款问答或新增游戏。",
+          "source": "https://alicecottage1989.blog.jp/archives/19289359.html"
         }
       ],
-      "description": "Alicesoft及历史关联专题：176部作品、245条版本，含文字输入与功能键指令、菜单冒险、剧情问答、RPG／SLG、竞速经营及独立小游戏，保留原名、中文检索、人物与来源。",
+      "description": "Alicesoft及历史关联专题：191部作品、270条版本，含文字与菜单指令、角色问答、RPG／SLG、经营模拟及拼图，保留中文检索名、原名、人物与来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft的叙事与玩法长期并行。本专题共176部作品，含本品牌154部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联13部及IMYUIC历史合作1部。从早期关键词输入、功能键指令与菜单调查，到阅读与养成、迷宫和战略RPG，再到竞速经营及互动小品，具体操作与叙事形态逐作核对。平台、改作、连续更新及篇章保留合并边界；历史署名、发行年冲突与资料缺口分别说明。",
+        "thesis": "Alicesoft的叙事与玩法长期并行。本专题共191部作品，含本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联24部及IMYUIC历史合作1部。早期图文与菜单指令、阅读与养成、问答、经营和战略各有独立形式；合集内可玩模块与CG图集、小说阅读区、预告分开核实。历史署名、发行年冲突与资料缺口分别说明。",
         "phases": [
           {
             "period": "1983—1989（前身品牌）",
@@ -9544,6 +9702,13 @@
             "analysis": "ChampionSoft早期既有珀尔修斯的船内推理调查，也有Love Chaser的体力管理。幻梦之城用对象关键词触发动作，天女传说与Lovely GAL采用功能键动词配合对象文字；小吸血鬼则使用动词再选对象的菜单。这些具体作品体现不同输入形式，不能将早期ADV一律归为文字输入或纯阅读。",
             "basis": "编辑观察",
             "source": "https://www.gamepres.org/pc88/library/1987/1987_4.htm"
+          },
+          {
+            "period": "1983—1995",
+            "heading": "问答与职业模拟采用不同的推进方式",
+            "analysis": "前身作品《麻醉科医生》让玩家监控游戏内状态，《通往高管之路》交替经营决策与人物交流。本品牌《问答：由我说了算！》则把兰斯寻找希露的故事放入答题关卡。它们分别用状态管理、经营回合和问答组织流程，不能把所有图文界面都归为同一种指令冒险。",
+            "basis": "编辑观察",
+            "source": "https://alicecottage1989.blog.jp/archives/19289279.html"
           },
           {
             "period": "1989—1994",
@@ -15719,6 +15884,17 @@
               "source": "https://www.gamepres.org/pc88/library/1988/1988_11.htm",
               "id": "alicesoft-extra-chottomeitantei-v1",
               "workId": "alicesoft-extra-chottomeitantei"
+            },
+            {
+              "id": "alicesoft-extra-chottomeitantei-v2",
+              "workId": "alicesoft-extra-chottomeitantei",
+              "year": 1988,
+              "platform": "MSX2",
+              "publisher": "ChampionSoft",
+              "kind": "MSX2发行记录",
+              "voice": "未核实",
+              "differences": "档案记1988年10月的MSX2版；Sharp X1仅在手册提及而未确认存在，不新增X1版本。 角色配音未核实，PSG音乐不等同配音。",
+              "source": "https://generation-msx.nl/software/champion-soft-co-ltd/chotto-meitantei-misa-chan-monogatari-series/5038"
             }
           ]
         },
@@ -15756,6 +15932,17 @@
               "source": "https://www.gamepres.org/pc88/library/1987/1987_9.htm",
               "id": "alicesoft-extra-lovechaser-v1",
               "workId": "alicesoft-extra-lovechaser"
+            },
+            {
+              "id": "alicesoft-extra-lovechaser-v2",
+              "workId": "alicesoft-extra-lovechaser",
+              "year": 1987,
+              "platform": "MSX2",
+              "publisher": "ChampionSoft",
+              "kind": "MSX2发行记录",
+              "voice": "未核实",
+              "differences": "档案记1987年10月的MSX2版；具体玩法标签与PC-88档案不同，保留平台差异，不由标签推断新增谜题内容。 角色配音未核实，PSG音乐不等同配音。",
+              "source": "https://generation-msx.nl/software/champion-soft-co-ltd/love-chaser/1001"
             }
           ]
         },
@@ -15904,6 +16091,17 @@
               "source": "https://www.gamepres.org/pc88/library/1986/1986_11.htm",
               "id": "alicesoft-extra-poplemon-v1",
               "workId": "alicesoft-extra-poplemon"
+            },
+            {
+              "id": "alicesoft-extra-poplemon-v2",
+              "workId": "alicesoft-extra-poplemon",
+              "year": 1989,
+              "platform": "MSX2",
+              "publisher": "ChampionSoft",
+              "kind": "MSX2发行记录",
+              "voice": "未核实",
+              "differences": "MSX2版为1989年，保留1986年PC-88原版为作品首年；别称Fairie’s Residence Part II不拆成新作品。 角色配音未核实，PSG音乐不等同配音。",
+              "source": "https://generation-msx.nl/software/champion-soft-co-ltd/pop-lemon/3635"
             }
           ]
         },
@@ -15942,6 +16140,17 @@
               "source": "https://www.gamepres.org/pc88/library/1989/1989_6.htm",
               "id": "alicesoft-extra-tawhid-v1",
               "workId": "alicesoft-extra-tawhid"
+            },
+            {
+              "id": "alicesoft-extra-tawhid-v2",
+              "workId": "alicesoft-extra-tawhid",
+              "year": 1989,
+              "platform": "MSX2",
+              "publisher": "ChampionSoft",
+              "kind": "MSX2发行记录",
+              "voice": "未核实",
+              "differences": "MSX2档案记1989年4月，与PC-88资料的6月分别记录，保留平台月份差异。 角色配音未核实，PSG音乐不等同配音。",
+              "source": "https://generation-msx.nl/software/champion-soft-co-ltd/tawheed/1300"
             }
           ]
         },
@@ -15980,12 +16189,621 @@
               "workId": "alicesoft-extra-cosplaylemon"
             }
           ]
+        },
+        {
+          "id": "alicesoft-extra-quiznoyakata",
+          "title": "问答之馆",
+          "chineseTitle": "问答之馆",
+          "originalTitle": "クイズの館",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Quiz no Yakata",
+            "クイズ館"
+          ],
+          "firstYear": 1989,
+          "category": "益智／桌面游戏",
+          "subcategory": "知识问答",
+          "genre": "厂商知识／合集小品",
+          "characters": [
+            "答题者（玩家）"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/16437084.html",
+          "synopsis": "以Alicesoft基础知识为题的合集内问答游戏，分为入门、教养和成人题目三组。每组十题，答对至少八题可查看奖励图像。",
+          "notes": "《ALICEの館》中的独立问答模块，不另把整张合集计为新作。原始档案记PC-98版1989年12月15日；其他数据库有1990年2月15日异文，暂保留档案记录及冲突说明，不声称日期已完全裁定。",
+          "source": "https://alicecottage1989.blog.jp/archives/16437084.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-quiznoyakata-v1",
+              "workId": "alicesoft-extra-quiznoyakata",
+              "year": 1989,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "合集内问答模块",
+              "voice": "未核实",
+              "differences": "原始档案与合集目录确认PC-98版本；未沿用后来的Windows短篇移植年份。 角色配音未核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/16436900.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-toushinquiz",
+          "title": "斗神问答",
+          "chineseTitle": "斗神问答",
+          "originalTitle": "闘神クイズ",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Toushin Quiz"
+          ],
+          "firstYear": 1991,
+          "category": "益智／桌面游戏",
+          "subcategory": "知识问答",
+          "genre": "斗神都市／攻略盘小品",
+          "characters": [
+            "答题者（玩家）"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/17708081.html",
+          "synopsis": "《斗神都市》攻略盘内的问答模块，达到规定答对数量后可观看奖励图像。现有档案没有提供足够证据还原全部题目、角色或通关流程。",
+          "notes": "作品页编号沿用本篇的1990年12月15日，不能当作攻略盘的实际发行日。攻略盘说明记1991年发行，游戏内公告指向1991年2月开始寄送，故本条用1991年；不把攻略文本或音乐模式计作游戏。",
+          "source": "https://alicecottage1989.blog.jp/archives/17708081.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-toushinquiz-v1",
+              "workId": "alicesoft-extra-toushinquiz",
+              "year": 1991,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "攻略盘内问答模块",
+              "voice": "未核实",
+              "differences": "依据攻略盘PC-98菜单及寄送说明；确切寄送日未确认。 角色配音未核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/17708027.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-orequiz",
+          "title": "问答：由我说了算！",
+          "chineseTitle": "问答：由我说了算！",
+          "originalTitle": "クイズ俺が基準だ！！",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "アリスクイズ",
+            "Quiz Ore ga Kijun da"
+          ],
+          "firstYear": 1992,
+          "category": "益智／桌面游戏",
+          "subcategory": "剧情问答",
+          "genre": "兰斯／寻回伙伴",
+          "characters": [
+            "ランス",
+            "シィル"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/19289279.html",
+          "synopsis": "希露为促使兰斯改变而离开。兰斯为了找回她，需要回答沿途人物提出的问题；故事以答题挑战组织，是带有角色剧情的问答游戏。",
+          "notes": "《ALICEの館II》菜单称“アリスクイズ”，与《クイズの館》为不同游戏。题目由Alice NET提供；问答玩法单列，不等同于自由文字输入ADV。",
+          "source": "https://alicecottage1989.blog.jp/archives/19289279.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-orequiz-v1",
+              "workId": "alicesoft-extra-orequiz",
+              "year": 1992,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "合集内剧情问答",
+              "voice": "未核实",
+              "differences": "随1992年7月15日PC-98版《ALICEの館II》发行；其他平台尚未逐模块核对。 角色配音未核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/19289127.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-quizrerorero",
+          "title": "特盛问答：ReroRero",
+          "chineseTitle": "特盛问答：ReroRero",
+          "originalTitle": "特盛クイズレロレロ",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "特盛りクイズレロレロ",
+            "Tokumori Quiz Rerorero"
+          ],
+          "firstYear": 1995,
+          "category": "益智／桌面游戏",
+          "subcategory": "知识问答",
+          "genre": "合集／奖励图像",
+          "characters": [
+            "答题者（玩家）"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/23634949.html",
+          "synopsis": "《ALICEの館3》收录的独立问答游戏，以答题挑战和通关后的奖励图像为主要内容。档案列出多位原画作者；缺乏角色姓名证据，不根据其他收录游戏补造人物。",
+          "notes": "保留“特盛りクイズレロレロ”检索异体。PC-98软盘版与后续CD版合并为同一作品；原版Windows 3.1发行与后来的非官方Windows移植区分。",
+          "source": "https://alicecottage1989.blog.jp/archives/23634949.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-quizrerorero-v1",
+              "workId": "alicesoft-extra-quizrerorero",
+              "year": 1995,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "合集软盘版",
+              "voice": "未核实",
+              "differences": "随1995年4月7日PC-98软盘版《ALICEの館3》发行。 角色配音未核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/22590345.html"
+            },
+            {
+              "id": "alicesoft-extra-quizrerorero-v2",
+              "workId": "alicesoft-extra-quizrerorero",
+              "year": 1995,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "合集CD版",
+              "voice": "未核实",
+              "differences": "随1995年6月9日跨平台CD版发行；CD版使用256色，不另计作品。 角色配音未核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/22590345.html"
+            },
+            {
+              "id": "alicesoft-extra-quizrerorero-v3",
+              "workId": "alicesoft-extra-quizrerorero",
+              "year": 1995,
+              "platform": "Windows 3.1",
+              "publisher": "Alicesoft",
+              "kind": "合集CD版",
+              "voice": "未核实",
+              "differences": "同一CD版支持Windows 3.1；未把TOTO后来的移植算作厂商首发。 角色配音未核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/22590345.html"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-fairyclub",
+          "title": "妖精公寓特别篇：社团篇",
+          "chineseTitle": "妖精公寓特别篇：社团篇",
+          "originalTitle": "フェアリーズレジデンス スペシャル クラブ編",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "マリコのいけない大特訓",
+            "Fairie’s Residence Special club"
+          ],
+          "firstYear": 1986,
+          "category": "叙事／养成冒险",
+          "subcategory": "漫画配套ADV（指令方式未核实）",
+          "genre": "角色番外",
+          "characters": [
+            "マリコ"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_club",
+          "synopsis": "以妖精公寓的玛莉子为中心展开的番外冒险，游戏与附赠漫画配套。史料可确认独立产品和人物，具体文字输入或菜单指令方式尚未完整核实。",
+          "notes": "ChampionSoft历史署名，作为Alicesoft前身关联收录，保留原发行方，不计入Alicesoft本品牌。 四款特别篇分别发行，按独立产品收录；不同平台合并。副题为“マリコのいけない大特訓”；不同目录的SPECIAL编号顺序存在异文，以篇名识别，不再拆出重复编号作品。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_club",
+          "versions": [
+            {
+              "id": "alicesoft-extra-fairyclub-v1",
+              "workId": "alicesoft-extra-fairyclub",
+              "year": 1986,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC-88发行记录",
+              "voice": "未核实",
+              "differences": "PC-88档案确认1986年版，月份未确认。 角色配音未核实。",
+              "source": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_club"
+            },
+            {
+              "id": "alicesoft-extra-fairyclub-v2",
+              "workId": "alicesoft-extra-fairyclub",
+              "year": 1986,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM-7发行记录",
+              "voice": "未核实",
+              "differences": "Oh!FM-7确认1986年FM-7系列版本；兼容机型不重复列为新版本。 角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/bgv0kmgz/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-fairysf",
+          "title": "妖精公寓特别篇：科幻篇",
+          "chineseTitle": "妖精公寓特别篇：科幻篇",
+          "originalTitle": "フェアリーズレジデンス スペシャル SF編",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "宇宙刑事 サリバン",
+            "Fairie’s Residence Special sf"
+          ],
+          "firstYear": 1986,
+          "category": "叙事／养成冒险",
+          "subcategory": "漫画配套ADV（指令方式未核实）",
+          "genre": "科幻／宇宙刑警",
+          "characters": [
+            "ジェニー・サリバン",
+            "デーモン・トキ"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_sf",
+          "synopsis": "银河联合的宇宙刑警珍妮·沙利文与反派德蒙·托基对抗。作品与漫画配套，以人物图文事件为主；史料指出并非让玩家操作战斗的动作游戏。",
+          "notes": "ChampionSoft历史署名，作为Alicesoft前身关联收录，保留原发行方，不计入Alicesoft本品牌。 四款特别篇分别发行，按独立产品收录；不同平台合并。副题为“宇宙刑事 サリバン”；不同目录的SPECIAL编号顺序存在异文，以篇名识别，不再拆出重复编号作品。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_sf",
+          "versions": [
+            {
+              "id": "alicesoft-extra-fairysf-v1",
+              "workId": "alicesoft-extra-fairysf",
+              "year": 1986,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC-88发行记录",
+              "voice": "未核实",
+              "differences": "PC-88档案确认1986年版，月份未确认。 角色配音未核实。",
+              "source": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_sf"
+            },
+            {
+              "id": "alicesoft-extra-fairysf-v2",
+              "workId": "alicesoft-extra-fairysf",
+              "year": 1986,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM-7发行记录",
+              "voice": "未核实",
+              "differences": "Oh!FM-7确认1986年FM-7系列版本；兼容机型不重复列为新版本。 角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/1f311glb/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-fairyschool",
+          "title": "妖精公寓特别篇：学园篇",
+          "chineseTitle": "妖精公寓特别篇：学园篇",
+          "originalTitle": "フェアリーズレジデンス スペシャル 学園編",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "セーラー服と一晩中",
+            "Fairie’s Residence Special school"
+          ],
+          "firstYear": 1986,
+          "category": "叙事／养成冒险",
+          "subcategory": "漫画配套ADV（指令方式未核实）",
+          "genre": "角色番外",
+          "characters": [
+            "遠藤由美"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_gaku",
+          "synopsis": "以远藤由美为主要人物的学园题材番外篇，游戏与附赠漫画一起构成产品内容。具体分支结构及指令输入规则尚缺少完整证据。",
+          "notes": "ChampionSoft历史署名，作为Alicesoft前身关联收录，保留原发行方，不计入Alicesoft本品牌。 四款特别篇分别发行，按独立产品收录；不同平台合并。副题为“セーラー服と一晩中”；不同目录的SPECIAL编号顺序存在异文，以篇名识别，不再拆出重复编号作品。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_gaku",
+          "versions": [
+            {
+              "id": "alicesoft-extra-fairyschool-v1",
+              "workId": "alicesoft-extra-fairyschool",
+              "year": 1986,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC-88发行记录",
+              "voice": "未核实",
+              "differences": "PC-88档案确认1986年版，月份未确认。 角色配音未核实。",
+              "source": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_gaku"
+            },
+            {
+              "id": "alicesoft-extra-fairyschool-v2",
+              "workId": "alicesoft-extra-fairyschool",
+              "year": 1986,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM-7发行记录",
+              "voice": "未核实",
+              "differences": "Oh!FM-7确认1986年FM-7系列版本；兼容机型不重复列为新版本。 角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/s2y7bn9r/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-fairyshowbiz",
+          "title": "妖精公寓特别篇：演艺圈篇",
+          "chineseTitle": "妖精公寓特别篇：演艺圈篇",
+          "originalTitle": "フェアリーズレジデンス スペシャル 芸能界編",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "SUPER MARIKO SISTERS",
+            "Fairie’s Residence Special Showbiz"
+          ],
+          "firstYear": 1986,
+          "category": "益智／桌面游戏",
+          "subcategory": "双六／骰子推进",
+          "genre": "演艺经营／明星养成",
+          "characters": [
+            "マリコ",
+            "ヨーコ",
+            "タカコ"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_gei",
+          "synopsis": "玩家帮助玛莉子、洋子和贵子成为明星。按空格键掷骰，依点数移动并增减得分；到第27格需要达到规定得分，否则重新开始。",
+          "notes": "ChampionSoft历史署名，作为Alicesoft前身关联收录，保留原发行方，不计入Alicesoft本品牌。 四款特别篇分别发行，按独立产品收录；不同平台合并。副题为“SUPER MARIKO SISTERS”；不同目录的SPECIAL编号顺序存在异文，以篇名识别，不再拆出重复编号作品。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_gei",
+          "versions": [
+            {
+              "id": "alicesoft-extra-fairyshowbiz-v1",
+              "workId": "alicesoft-extra-fairyshowbiz",
+              "year": 1986,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC-88发行记录",
+              "voice": "未核实",
+              "differences": "PC-88档案确认1986年版，月份未确认。 角色配音未核实。",
+              "source": "https://www.gamepres.org/pc88/library/1986/1986.html#fr_gei"
+            },
+            {
+              "id": "alicesoft-extra-fairyshowbiz-v2",
+              "workId": "alicesoft-extra-fairyshowbiz",
+              "year": 1986,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM-7发行记录",
+              "voice": "未核实",
+              "differences": "Oh!FM-7确认1986年FM-7系列版本；兼容机型不重复列为新版本。 角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/0nwhog0z/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-playmateafternoon",
+          "title": "午后：Playmate拼图",
+          "chineseTitle": "午后：Playmate拼图",
+          "originalTitle": "アフタヌーン",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "アフタヌーン",
+            "PLAYMATE GRAPHIC 1"
+          ],
+          "firstYear": 1987,
+          "category": "益智／桌面游戏",
+          "subcategory": "拼图",
+          "genre": "Playmate Graphic系列",
+          "characters": [
+            "拼图画面人物（未署名）"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://fm-7.com/museum/products/ndfq3xdv/",
+          "synopsis": "Playmate Graphic系列第1款图像拼图游戏。玩家以拼合画面为主要操作；资料确认三款同期发行，没有足够证据将图像人物描述成长篇剧情角色。",
+          "notes": "ChampionSoft历史署名，作为Alicesoft前身关联收录，保留原发行方，不计入Alicesoft本品牌。 档案明确标为可玩的拼图，区别于静态CG图集；PC-88的1987年7月目录与FM-7的年份记录分别核对，本批仅列FM-7版。",
+          "source": "https://fm-7.com/museum/products/ndfq3xdv/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-playmateafternoon-v1",
+              "workId": "alicesoft-extra-playmateafternoon",
+              "year": 1987,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM-7发行记录",
+              "voice": "未核实",
+              "differences": "Oh!FM-7确认1987年版本；尚未确认具体月份，不借用其他平台月份。 角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/ndfq3xdv/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-playmatecalifornia",
+          "title": "加州之风：Playmate拼图",
+          "chineseTitle": "加州之风：Playmate拼图",
+          "originalTitle": "カリフォルニアウインド",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "カリフォルニアウィンド",
+            "PLAYMATE GRAPHIC 2"
+          ],
+          "firstYear": 1987,
+          "category": "益智／桌面游戏",
+          "subcategory": "拼图",
+          "genre": "Playmate Graphic系列",
+          "characters": [
+            "拼图画面人物（未署名）"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://fm-7.com/museum/products/j7ziyn0n/",
+          "synopsis": "Playmate Graphic系列第2款图像拼图游戏。玩家以拼合画面为主要操作；资料确认三款同期发行，没有足够证据将图像人物描述成长篇剧情角色。",
+          "notes": "ChampionSoft历史署名，作为Alicesoft前身关联收录，保留原发行方，不计入Alicesoft本品牌。 档案明确标为可玩的拼图，区别于静态CG图集；PC-88的1987年7月目录与FM-7的年份记录分别核对，本批仅列FM-7版。",
+          "source": "https://fm-7.com/museum/products/j7ziyn0n/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-playmatecalifornia-v1",
+              "workId": "alicesoft-extra-playmatecalifornia",
+              "year": 1987,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM-7发行记录",
+              "voice": "未核实",
+              "differences": "Oh!FM-7确认1987年版本；尚未确认具体月份，不借用其他平台月份。 角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/j7ziyn0n/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-playmateflowernight",
+          "title": "花之夜：Playmate拼图",
+          "chineseTitle": "花之夜：Playmate拼图",
+          "originalTitle": "フラワーナイト",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "フラワーナイト",
+            "PLAYMATE GRAPHIC 3"
+          ],
+          "firstYear": 1987,
+          "category": "益智／桌面游戏",
+          "subcategory": "拼图",
+          "genre": "Playmate Graphic系列",
+          "characters": [
+            "拼图画面人物（未署名）"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://fm-7.com/museum/products/89eedtiy/",
+          "synopsis": "Playmate Graphic系列第3款图像拼图游戏。玩家以拼合画面为主要操作；资料确认三款同期发行，没有足够证据将图像人物描述成长篇剧情角色。",
+          "notes": "ChampionSoft历史署名，作为Alicesoft前身关联收录，保留原发行方，不计入Alicesoft本品牌。 档案明确标为可玩的拼图，区别于静态CG图集；PC-88的1987年7月目录与FM-7的年份记录分别核对，本批仅列FM-7版。",
+          "source": "https://fm-7.com/museum/products/89eedtiy/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-playmateflowernight-v1",
+              "workId": "alicesoft-extra-playmateflowernight",
+              "year": 1987,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM-7发行记录",
+              "voice": "未核实",
+              "differences": "Oh!FM-7确认1987年版本；尚未确认具体月份，不借用其他平台月份。 角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/89eedtiy/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-dranesthetist",
+          "title": "麻醉科医生",
+          "chineseTitle": "麻醉科医生",
+          "originalTitle": "Dr. 麻酔科医",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Dr.麻酔科医",
+            "Dr.マスイカイ"
+          ],
+          "firstYear": 1983,
+          "category": "经营／职业模拟",
+          "subcategory": "医疗职业模拟",
+          "genre": "手术／状态管理",
+          "characters": [
+            "麻醉科医生（玩家）",
+            "手术患者"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://fm-7.com/museum/products/xon5gs3r/",
+          "synopsis": "玩家扮演麻醉科医生，在手术中观察血压、体温、麻醉深度、出血量与心电图，选择给药、输血等游戏内措施，使患者安全完成手术。",
+          "notes": "ChampionSoft历史署名，作为Alicesoft前身关联收录，保留原发行方，不计入Alicesoft本品牌。 医学主题的历史模拟游戏，作者平岩徳一、FM版移植御給尚；仅介绍玩法，不把游戏数值当作真实医疗依据。",
+          "source": "https://fm-7.com/museum/products/xon5gs3r/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-dranesthetist-v1",
+              "workId": "alicesoft-extra-dranesthetist",
+              "year": 1983,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM-7发行记录",
+              "voice": "未核实",
+              "differences": "档案确认1983年FM-7版，月份未确认。 角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/xon5gs3r/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-provisionspanic",
+          "title": "粮食危机",
+          "chineseTitle": "粮食危机",
+          "originalTitle": "食糧パニック",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "食料パニック",
+            "Provisions Panic"
+          ],
+          "firstYear": 1983,
+          "category": "经营／职业模拟",
+          "subcategory": "资源生产模拟",
+          "genre": "气候灾害／粮食增产",
+          "characters": [
+            "粮食增产决策者（玩家）"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://fm-7.com/museum/products/tvdticdb/",
+          "synopsis": "设定于200X年，天气异常造成连续数年歉收并引发粮食危机。玩家需要在模拟中设法提高粮食产量；具体资源参数和回合规则尚未完整核实。",
+          "notes": "ChampionSoft历史署名，作为Alicesoft前身关联收录，保留原发行方，不计入Alicesoft本品牌。 作者平岩徳一。保留目录异体“食料パニック”，不与其他厂商同名作品混淆。",
+          "source": "https://fm-7.com/museum/products/tvdticdb/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-provisionspanic-v1",
+              "workId": "alicesoft-extra-provisionspanic",
+              "year": 1983,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM-7发行记录",
+              "voice": "未核实",
+              "differences": "档案确认1983年FM-7版本；具体月份未确认。 角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/tvdticdb/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-dreammyhome",
+          "title": "梦想之家",
+          "chineseTitle": "梦想之家",
+          "originalTitle": "夢のマイホーム",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Yume no My Home"
+          ],
+          "firstYear": 1983,
+          "category": "经营／职业模拟",
+          "subcategory": "战略游戏（目录标ADV）",
+          "genre": "住宅主题",
+          "characters": [
+            "玩家（档案未署人物姓名）"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1983/1983_4.html#yume",
+          "synopsis": "ChampionSoft以“知性战略游戏第二弹”发行的早期作品，标题以理想住宅为主题。现存目录确认标题、类型和版本，尚不足以还原完整剧情、建房规则或结局。",
+          "notes": "ChampionSoft历史署名，作为Alicesoft前身关联收录，保留原发行方，不计入Alicesoft本品牌。 目录的ADV标记与战略游戏宣传语同时保留；不据名称虚构房贷、家庭养成或自由文字输入玩法。",
+          "source": "https://www.gamepres.org/pc88/library/1983/1983_4.html#yume",
+          "versions": [
+            {
+              "id": "alicesoft-extra-dreammyhome-v1",
+              "workId": "alicesoft-extra-dreammyhome",
+              "year": 1983,
+              "platform": "PC-8001",
+              "publisher": "ChampionSoft",
+              "kind": "PC-8001发行记录",
+              "voice": "未核实",
+              "differences": "资料明确列PC-8001以降、1983年4月，不能因网页位于PC-88档案下就误记为PC-88首发。 角色配音未核实。",
+              "source": "https://www.gamepres.org/pc88/library/1983/1983_4.html#yume"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-executiveroad",
+          "title": "通往高管之路",
+          "chineseTitle": "通往高管之路",
+          "originalTitle": "エグゼクティブへの道",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Executive e no Michi"
+          ],
+          "firstYear": 1987,
+          "category": "经营／职业模拟",
+          "subcategory": "经营SLG＋人物交流ADV",
+          "genre": "公司重建／派系协调",
+          "characters": [
+            "竹下くだる",
+            "安部新二郎"
+          ],
+          "charactersNote": "仅列来源确认的姓名或玩家身份；未署姓名的游戏不虚构人物。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1987/1987_12.html#exec",
+          "synopsis": "一家计算机业务公司濒临倒闭，玩家要在两年内重建四个营业部门，并协调社长与专务之间的派系冲突。每月回合交替安排经营指示与下班后的人员交流、信息搜集。",
+          "notes": "ChampionSoft历史署名，作为Alicesoft前身关联收录，保留原发行方，不计入Alicesoft本品牌。 经营模拟和交流冒险并行；人物、部门与期限来自PC-88档案，不将其概括为纯阅读视觉小说。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987_12.html#exec",
+          "versions": [
+            {
+              "id": "alicesoft-extra-executiveroad-v1",
+              "workId": "alicesoft-extra-executiveroad",
+              "year": 1987,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC-88发行记录",
+              "voice": "未核实",
+              "differences": "资料记1987年12月，PC-8801以降；其他平台未核实。 角色配音未核实。",
+              "source": "https://www.gamepres.org/pc88/library/1987/1987_12.html#exec"
+            }
+          ]
         }
       ],
-      "relatedSectionTitle": "专题补充作品：149部（含历史品牌与前身关联）",
+      "relatedSectionTitle": "专题补充作品：164部（含历史品牌与前身关联）",
       "relatedCountLabel": "独立作品；再版及扩充合并",
-      "relatedIntro": "本区累计149部作品。第十五批补入换装柠檬，以及幻梦之城、天女传说、Love Chaser、小小名侦探等9部ChampionSoft署名作品。关键词输入、功能键动词与对象文字输入、调查与体力管理、换装图文互动分别标注；未核实的指令形式不硬归文字输入。平台、篇章与发行月份差异逐作说明，不把前身作品混计为Alicesoft本品牌。",
-      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计176部（Alicesoft 154部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联13部、IMYUIC历史合作1部）；主库关联27部，专题补充149部。</strong></p>"
+      "relatedIntro": "本区累计164部作品。第十六批新增四款Alicesoft问答、妖精公寓四款特别篇、三款Playmate拼图与四款早期职业／经营游戏，并补四款既有游戏的MSX2版本。文字输入、菜单调查、答题、双六和模拟玩法分别说明；未核实的指令形式保留说明。历史前身署名与本品牌分项统计。",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计191部（Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联24部、IMYUIC历史合作1部）；主库关联27部，专题补充164部。</strong></p>"
     }
   ]
 }
