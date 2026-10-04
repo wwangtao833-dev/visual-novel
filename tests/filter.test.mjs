@@ -209,11 +209,11 @@ test('Silkys Plus dossier, Chinese searches and original-brand separation',()=>{
 
 test('Alicesoft batches are searchable in Chinese and retain their Japanese titles',()=>{
   const found=filterCatalogue(data,{company:'Alicesoft'});
-  assert.equal(found.length,27);
+  assert.equal(found.length,91);
   for(const [query,id] of [['妻中蜜3','g482'],['妻みぐい3','g482'],['超昂神骑爱克希尔','g486'],['母烂漫','g487'],['夫人的恢复术','g488'],['超昂闪忍遥','g490'],['胸部消失的王国','g491'],['桃色守护者','g492'],['母娘乱馆','g493'],['馋嘴龙','g494'],['どらぺこ','g494'],['魅魔姐妹','g495'],['しまいま','g495'],['贪婪的仙人掌','g496'],['双教师同居生活','g497'],['だぶる先生','g497']]){
     assert.ok(filterCatalogue(data,{query}).some(({work})=>work.id===id),query);
   }
-  assert.ok(found.every(({work})=>!['纯文本指令','图文指令'].includes(work.subcategory)));
+  assert.ok(found.some(({work})=>work.subcategory==='图文指令'));
   assert.equal(visibleVoiceNote(data.versions.find(v=>v.id==='g501-v1')),'无角色配音');
   assert.equal(visibleVoiceNote(data.versions.find(v=>v.id==='g501-v2')),'');
   assert.equal(visibleVoiceNote(data.versions.find(v=>v.id==='g499-v1')),'');
@@ -222,8 +222,35 @@ test('Alicesoft batches are searchable in Chinese and retain their Japanese titl
   }
   const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='alicesoft');
   assert.deepEqual(new Set(dossier.publisherWorkIds),new Set(found.map(({work})=>work.id)));
-  const predecessorIds = new Set(data.versions.filter(v=>v.publisher==='チャンピオンソフト').map(v=>v.workId));
-  assert.equal(predecessorIds.size,11);
-  assert.deepEqual(new Set(dossier.workIds),new Set([...found.map(({work})=>work.id),...predecessorIds]));
+  const predecessorIds = new Set(data.versions.filter(v=>v.publisherCompanies.includes('チャンピオンソフト')).map(v=>v.workId));
+  assert.equal(predecessorIds.size,30);
+  assert.equal(dossier.workIds.length,126);
+  assert.ok([...predecessorIds].every(id=>dossier.workIds.includes(id)));
   assert.equal(dossier.workIds.length,new Set(dossier.workIds).size);
+});
+
+test('Alicesoft narrative migration has one searchable record per work and keeps old dossier links',()=>{
+  const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='alicesoft');
+  const anchors=Object.entries(dossier.legacyAnchors);
+  const movedIds=new Set(anchors.map(([,id])=>id));
+  const page=readFileSync(new URL('../alicesoft.html',import.meta.url),'utf8');
+  assert.equal(anchors.length,88);
+  assert.equal(movedIds.size,88);
+  assert.equal(data.versions.filter(v=>movedIds.has(v.workId)).length,186);
+  for(const [oldId,id] of anchors){
+    const records=data.works.filter(w=>w.id===id);
+    assert.equal(records.length,1,id);
+    assert.ok(dossier.workIds.includes(id));
+    assert.ok(!dossier.relatedGames.some(w=>w.id===oldId));
+    assert.equal(page.split(`id="${oldId}"`).length-1,1,oldId);
+    assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1,id);
+    const work=records[0];
+    for(const query of [work.originalTitle,work.chineseTitle,...work.titleAliases]){
+      assert.equal(filterCatalogue(data,{query}).filter(({work:w})=>w.id===id).length,1,query);
+    }
+  }
+  assert.ok(!dossier.relatedGames.some(w=>w.category==='叙事／养成冒险'));
+  for(const [query,subcategory] of [['Little PRINCESS','图文指令'],['Intruder','图文指令'],['守护神大人','恋爱模拟']]){
+    assert.ok(filterCatalogue(data,{query,subcategory}).some(({work})=>movedIds.has(work.id)),query);
+  }
 });

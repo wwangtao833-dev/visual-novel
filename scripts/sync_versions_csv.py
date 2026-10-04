@@ -11,7 +11,7 @@ works = {work['id']: work for work in data['works']}
 fields = ['作品ID', '版本ID', '作品名称', '中文名称', '原文名称', '主分类', '细分类', '游戏类型',
           '主要角色', '发行年份', '平台', '发行公司', '发行厂商归档', '版本类型', '角色配音标注', '版本差异', '来源']
 with (ROOT / 'data/versions.csv').open('w', encoding='utf-8-sig', newline='') as file:
-    writer = csv.DictWriter(file, fieldnames=fields)
+    writer = csv.DictWriter(file, fieldnames=fields, lineterminator='\n')
     writer.writeheader()
     for version in data['versions']:
         work = works[version['workId']]

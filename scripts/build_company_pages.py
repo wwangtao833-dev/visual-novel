@@ -16,7 +16,7 @@ def link(url, title):
     return f'<a class="source-link" href="{escape(url, quote=True)}" target="_blank" rel="noopener noreferrer">{escape(title)} ↗</a>'
 
 
-def card(work, versions=None):
+def card(work, versions=None, anchors=()):
     if versions is None:
         versions = [v for v in data['versions'] if v['workId'] == work['id']]
     versions = sorted(versions, key=lambda v: v['year'])
@@ -31,7 +31,8 @@ def card(work, versions=None):
     original_line = f'<p class="original">原名 · {escape(work["originalTitle"])}</p>' if display_title != work['originalTitle'] else ''
     if work.get('chineseTitleType') == '站内编辑译名':
         original_line = original_line.replace('</p>', ' · 中文名为站内编辑译名</p>')
-    return f'''<article class="card" id="{work['id']}">
+    legacy_anchors = ''.join(f'<span id="{escape(anchor, quote=True)}" aria-hidden="true"></span>' for anchor in anchors)
+    return f'''<article class="card" id="{work['id']}">{legacy_anchors}
 <div class="card-top"><span class="year">{work['firstYear']}</span><span class="category">{escape(work['category'])}</span></div>
 <h3>{escape(display_title)}</h3>{original_line}
 <p class="intro">{escape(work['synopsis'])}</p>
@@ -44,6 +45,9 @@ def card(work, versions=None):
 def build(company):
     selected = sorted((works[wid] for wid in company['workIds']), key=lambda w: (w['firstYear'], w['id']))
     related = sorted(company.get('relatedGames', []), key=lambda w: (w['firstYear'], w['id']))
+    legacy_anchors = {}
+    for anchor, wid in company.get('legacyAnchors', {}).items():
+        legacy_anchors.setdefault(wid, []).append(anchor)
     count_versions = sum(v['workId'] in company['workIds'] for v in data['versions']) + sum(len(g['versions']) for g in related)
     toc = ''.join(f'<a href="#{w["id"]}"><span>{w["firstYear"]}</span>{escape(w.get("chineseTitle") or w["title"])}</a>'
                   for w in sorted(selected + related, key=lambda w: (w['firstYear'], w['id'])))
@@ -88,7 +92,7 @@ def build(company):
 <div class="hero-links"><a class="primary-link" href="#identity">阅读创作风格</a><a class="secondary-link" href="#works">按年份阅读作品</a></div></section>
 {profile_section}
 <section id="works"><div class="section-heading"><div><p class="eyebrow">GAME CATALOGUE</p><h2>{escape(section_title)}</h2></div><p>{len(selected)} 部四类作品 · 增强版合并计数</p></div>
-<nav class="work-index" aria-label="按年份跳转作品">{toc}</nav><div class="cards">{''.join(card(w) for w in selected)}</div></section>
+<nav class="work-index" aria-label="按年份跳转作品">{toc}</nav><div class="cards">{''.join(card(w, anchors=legacy_anchors.get(w['id'], ())) for w in selected)}</div></section>
 {related_section}
 <section class="company-audit" id="coverage"><p class="eyebrow">CATALOGUE AUDIT</p><h2>{escape(audit_title)}</h2>
 <p>核对日期：{escape(company['checkedAt'])} · {escape(audit_label)} {link(company['source'], audit_source_label)}</p>

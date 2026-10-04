@@ -7,6 +7,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 data = json.loads((ROOT / 'data/games.json').read_text(encoding='utf-8'))
 taxonomy = json.loads((ROOT / 'data/taxonomy.json').read_text(encoding='utf-8'))
+coverage = json.loads((ROOT / 'data/company-coverage.json').read_text(encoding='utf-8'))
+command_work_ids = {wid for company in coverage['companies']
+                    if company['id'] == 'alicesoft' and company.get('includeCommandGames') is True
+                    for wid in company['workIds']}
 works, versions = data['works'], data['versions']
 work_ids = {work['id'] for work in works}
 version_ids = {version['id'] for version in versions}
@@ -15,7 +19,7 @@ assert {work['category'] for work in works} == {'文字冒险', '视觉小说', 
 assert set(taxonomy['subcategories']) == {work['category'] for work in works}
 assert all(work['subcategory'] in taxonomy['subcategories'][work['category']] for work in works)
 assert all(work['subcategory'] not in {'纯文本指令', '图文指令'}
-           for work in works if int(work['id'][1:]) >= 152), '厂商续补不再新增指令类游戏'
+           for work in works if int(work['id'][1:]) >= 152 and work['id'] not in command_work_ids), '指令类续补仅适用于用户授权的 Alicesoft 专题作品'
 assert all(any(work['subcategory'] == value for work in works) for category in taxonomy['subcategories']
            for value in taxonomy['subcategories'][category]), '存在空的细分类'
 assert all(1976 <= version['year'] <= 2026 and version['workId'] in work_ids for version in versions)
@@ -63,7 +67,6 @@ for version, row in zip(versions, rows):
                        ('kind', '版本类型'),
                        ('differences', '版本差异'), ('source', '来源')]:
         assert version[key] == row[field], f"{version['id']} 的 {field} 与 JSON 不一致"
-coverage = json.loads((ROOT / 'data/company-coverage.json').read_text(encoding='utf-8'))
 for company in coverage['companies']:
     profile = company['creativeProfile']
     assert profile['thesis'] and len(profile['phases']) >= 2
@@ -79,6 +82,9 @@ for company in coverage['companies']:
     related = company.get('relatedGames', [])
     related_ids = {game['id'] for game in related}
     assert len(related_ids) == len(related) and not related_ids & work_ids, '跨类型作品 ID 冲突'
+    legacy_anchors = company.get('legacyAnchors', {})
+    assert set(legacy_anchors.values()) <= set(ids), '旧作品链接缺少主库记录'
+    assert not set(legacy_anchors) & (work_ids | related_ids), '转入主库的作品仍保留重复副本'
     for game in related:
         assert game['source'].startswith('https://') and game['genre'] and game['characters']
         assert all(name and '待核实' not in name for name in game['characters'])
