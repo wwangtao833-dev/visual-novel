@@ -24,8 +24,8 @@ test('Nitroplus completion separates shipped platforms, planned releases and pub
 
 test('Nitroplus dossier reuses originals and keeps remakes, aliases and actual publishers together',()=>{
   const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='nitroplus');
-  assert.equal(dossier.workIds.length,29);
-  assert.equal(new Set(dossier.workIds).size,29);
+  assert.equal(dossier.workIds.length,48);
+  assert.equal(new Set(dossier.workIds).size,48);
   for(const id of ['g054','g162','g163','g169']) assert.ok(dossier.workIds.includes(id));
   for(const [query,id] of [['幻灵：地狱之影','g597'],['Phantom INTEGRATION','g597'],['CHAOS;HEAD NOAH','g618'],['你与她与她之恋。','g614'],['君と彼女と彼女の恋。','g614']]){
     assert.deepEqual(filterCatalogue(data,{query}).map(({work})=>work.id),[id]);
@@ -33,13 +33,16 @@ test('Nitroplus dossier reuses originals and keeps remakes, aliases and actual p
   assert.equal(data.versions.filter(v=>v.workId==='g597').length,8);
   assert.deepEqual(filterCatalogue(data,{query:'Phantom',company:'プリンセスソフト'}).map(({versions})=>versions.map(v=>v.year)),[[2003]]);
   assert.equal(filterCatalogue(data,{query:'ROBOTICS;NOTES',company:'Nitroplus'}).length,0);
-  assert.equal(filterCatalogue(data,{query:'ROBOTICS;NOTES',company:'5pb.'}).length,1);
+  assert.equal(filterCatalogue(data,{query:'ROBOTICS;NOTES',company:'5pb.'}).length,2);
   assert.deepEqual(new Set(dossier.publisherWorkIds),new Set(filterCatalogue(data,{company:'Nitroplus'}).map(({work})=>work.id)));
   assert.equal(data.versions.find(v=>v.id==='g600-v1').voice,'有（部分）');
   assert.equal(data.versions.find(v=>v.workId==='g163'&&v.platform==='Android').publisher,'株式会社エイシス');
-  assert.equal(dossier.relatedGames.length,1);
+  assert.equal(dossier.relatedGames.length,25);
   assert.ok(!data.works.some(w=>w.originalTitle==='機神飛翔デモンベイン'));
-  assert.ok(!data.works.some(w=>w.originalTitle.includes('変移空間')));
+  assert.equal(data.works.filter(w=>w.originalTitle.includes('変移空間')).length,1);
+  assert.deepEqual(filterCatalogue(data,{query:'缓慢损伤：清扫者'}).map(({work})=>work.id),['g628']);
+  assert.deepEqual(filterCatalogue(data,{query:'咎狗の血 True Blood'}).map(({work})=>work.id),['g622']);
+  assert.equal(data.versions.filter(v=>v.workId==='g625'&&v.kind.includes('re:code')&&v.platform.includes('Steam')).length,0);
   const page=readFileSync(new URL('../nitroplus.html',import.meta.url),'utf8');
   for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
   const links=[...readFileSync(new URL('../index.html',import.meta.url),'utf8').matchAll(/class="secondary-link" href="[^\"]+\.html">([^<]+)<\/a>/g)];

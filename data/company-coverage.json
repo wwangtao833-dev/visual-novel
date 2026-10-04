@@ -15509,10 +15509,10 @@
       "id": "nitroplus",
       "name": "Nitroplus",
       "checkedAt": "2026-10-04",
-      "status": "上次专题搭建的版本、角色和配音补齐已完成；范围外品牌和未核实字段单独说明",
-      "scope": "整理 2000—2018 年首发的 29 部叙事作品，另列《機神飛翔》1 部小说＋3D 动作续作；现有作品 ID 全部沿用。涵盖 Nitroplus／Nitro Origin 本篇、独立短篇及已收录叙事合作。Nitro Chiral 与其他跨类型游戏在范围清单说明，不计入本专题已收录作品。",
-      "versionScope": "已补齐《機神咆吼》PS2／Windows、CHAOS;HEAD NOAH 主要移植、ROBOTICS;NOTES ELITE、科学 ADV 移动／主机／Steam 与 JAST 国际版本，并拆分原合并平台。版本日期保留地区和商店显示异文。RE:BOOT Xbox Series X|S 截至 2026-10-04 未发售，计划项目不计入已发行版本；缺少原始规格的配音字段保留未核实。",
-      "publisherNote": "Nitroplus（ニトロプラス）社专题。历史作品现分列于 Nitro Origin 与 Nitroplus 官网；品牌归属不替代实际发行署名。5pb.、デジターボ、プリンセスソフト、角川ゲームス等发行版保留各自署名，制作合作与发行关系分别说明。",
+      "status": "三品牌官方电子游戏目录已覆盖，并补入历史小游戏、合作及系列衍生；早期合作的二手来源明确标注",
+      "scope": "涵盖 Nitroplus、Nitro Origin 与 Nitro Chiral 官方电子游戏目录；主库记录叙事游戏，格斗、射击、养成、RPG 等在专题补充区建档。现行官方目录、已停产 Chiral 目录和已核历史附赠游戏逐项归并。独立续作分开；移植、重制、合集和追加章节不重复计数。 早期共同制作的三部作品采用现存历史资料，来源层级在各条目注明。",
+      "versionScope": "记录有可靠发行资料的首发与主要后续版本，不声称穷尽所有地区和渠道。未发售计划不计入版本；配音或移动版发行署名缺证时保留未核实。",
+      "publisherNote": "Nitroplus 社及旗下品牌、原作合作和局部剧本参与分开说明。Chiral 品牌发行归档到 Nitroplus；5pb.、MAGES.、DMM、Aniplex、Square Enix 等实际发行署名保持独立。",
       "workIds": [
         "g054",
         "g162",
@@ -15542,7 +15542,26 @@
         "g618",
         "g619",
         "g620",
-        "g621"
+        "g621",
+        "g622",
+        "g623",
+        "g624",
+        "g625",
+        "g626",
+        "g627",
+        "g628",
+        "g629",
+        "g630",
+        "g631",
+        "g632",
+        "g633",
+        "g634",
+        "g635",
+        "g636",
+        "g637",
+        "g638",
+        "g639",
+        "g640"
       ],
       "publisherWorkIds": [
         "g054",
@@ -15570,17 +15589,25 @@
         "g615",
         "g616",
         "g617",
-        "g618"
+        "g618",
+        "g622",
+        "g623",
+        "g624",
+        "g625",
+        "g626",
+        "g627",
+        "g628",
+        "g629"
       ],
-      "catalogueEntryCount": 30,
+      "catalogueEntryCount": 73,
       "source": "https://nitro-origin.com/works/game/",
-      "sectionTitle": "本篇、独立短篇与叙事合作",
-      "overviewLabel": "相关游戏（29 部主库＋1 部跨类型）",
+      "sectionTitle": "本社、Chiral 与合作叙事作品",
+      "overviewLabel": "相关游戏（48 部主库＋25 部跨类型）",
       "auditTitle": "作品清单与版本归并",
       "auditSourceLabel": "Nitro Origin 官方游戏目录",
-      "auditLabel": "30 部本轮作品及再版、合集、合作和收录边界说明。",
-      "auditNote": "以 Nitroplus、Nitro Origin 产品与合作目录为入口，逐项链接产品页、角色页及实际发行方。标题、原名、中文名和别名与主库及全部专题比对；相同故事的改编、再版和移植不重复建档。审计表中的范围说明不自动计为新增作品。",
-      "description": "Nitroplus 社专题：29 部主库叙事作品、1 部动作续作补充，创作观察、剧情、角色、版本和官方来源。",
+      "auditLabel": "73 部作品及合集、移植、计划与证据边界说明。",
+      "auditNote": "当前官网明确提示未列出所有参与项目。本次逐项覆盖三品牌官方游戏目录，并补入历史小游戏、共同制作和可核系列衍生；三部早期合作的现存二手来源在条目中注明。作品目录覆盖不等同于所有美术外包、员工个人署名与客串授权全集。",
+      "description": "Nitroplus 社专题：48 部主库叙事作品、25 部跨类型游戏，覆盖 Nitro Origin、Nitro Chiral、官方合作与历史共同制作。",
       "creativeProfile": {
         "thesis": "枪战、剑术、魔导与科幻并非单一类型标签。这批作品反复把人物置于极端规则中，让亲密关系、行动代价与玩家的选择彼此碰撞；不同作者和合作项目保留各自风格。以下为据作品内容整理的编辑观察。",
         "phases": [
@@ -15625,6 +15652,13 @@
             "analysis": "科学 ADV 和《PSYCHO-PASS》合作的工作范围各不相同，参与剧本、设计或制作不能自动当成发行方。历史成人向作品现由 Nitro Origin 品牌展示；移植、兼容版和 Steam 再发行继续沿用同一作品身份。",
             "basis": "编辑观察",
             "source": "https://www.nitroplus.co.jp/works/consumer-game/"
+          },
+          {
+            "period": "2005—2026",
+            "heading": "Chiral 品牌与玩法扩展",
+            "analysis": "Chiral 以人物关系贯穿都市、幻想和心理题材；角色又进入打字、扑克与节奏游戏。刀剑乱舞、Dolls Nest 等则体现跨类型制作，局部活动剧本合作不能与独立开发等同。",
+            "basis": "编辑观察",
+            "source": "https://www.nitrochiral.com/game/"
           }
         ]
       },
@@ -15919,15 +15953,6 @@
           "source": "https://www.nitroplus.co.jp/game/05-demonbane-houkou/"
         },
         {
-          "title": "サバト鍋／戒厳聖都／ニトロWARS",
-          "status": "版本／范围说明",
-          "workIds": [
-            "g604"
-          ],
-          "reason": "《竜†恋》独立短篇程序计入主库；合集容器不再重复建档。其他玩法的小游戏在范围说明保留，本轮不为其建立叙事作品。",
-          "source": "https://www.nitroplus.co.jp/game/10-sabatonabe/"
-        },
-        {
           "title": "CHAOS;HEAD NOAH",
           "status": "已补齐主要移植",
           "workIds": [
@@ -15953,69 +15978,6 @@
           ],
           "reason": "2026-08-20 日本四款主机版与已上线 Steam 版沿用 g054；Steam 实际署名 Spike Chunsoft。Xbox 及欧美主机 10-29 计划在下列单独项目说明。",
           "source": "https://steinsgate.jp/reboot/ja-jp/"
-        },
-        {
-          "title": "STEINS;GATE 変移空間のオクテット",
-          "status": "版本／范围说明",
-          "workIds": [],
-          "reason": "独立指令型冒险；本轮 Nitroplus 专题按现行叙事续补范围，不新增指令游戏。",
-          "source": "https://www.nitroplus.co.jp/works/consumer-game/"
-        },
-        {
-          "title": "字祷子D 妖都最速伝説",
-          "status": "版本／范围说明",
-          "workIds": [],
-          "reason": "赛车游戏，非本轮四类叙事主库。",
-          "source": "https://nitro-origin.com/works/game/"
-        },
-        {
-          "title": "ニトロ＋ロワイヤル／ニトロプラス ブラスターズ",
-          "status": "版本／范围说明",
-          "workIds": [],
-          "reason": "角色格斗游戏，不把战斗阵容算成独立叙事作品。",
-          "source": "https://www.nitroplus.co.jp/works/"
-        },
-        {
-          "title": "ソニプロ",
-          "status": "版本／范围说明",
-          "workIds": [],
-          "reason": "独立偶像育成游戏，不是《ソニコミ》的重命名版本；本轮未建档。",
-          "source": "https://www.nitroplus.co.jp/works/consumer-game/"
-        },
-        {
-          "title": "凍京NECRO SUICIDE MISSION",
-          "status": "版本／范围说明",
-          "workIds": [],
-          "reason": "独立在线 RPG，不并入《凍京NECRO》本篇版本。",
-          "source": "https://www.nitroplus.co.jp/works/other-game/"
-        },
-        {
-          "title": "魔法少女まどか☆マギカ ポータブル",
-          "status": "版本／范围说明",
-          "workIds": [],
-          "reason": "含迷宫 RPG 的合作作品，本轮未同步到四类叙事主库。",
-          "source": "https://www.nitroplus.co.jp/works/consumer-game/"
-        },
-        {
-          "title": "Dolls Nest／Rusty Rabbit",
-          "status": "版本／范围说明",
-          "workIds": [],
-          "reason": "3D 机体动作与横向动作游戏，不因含故事而直接归入视觉小说。",
-          "source": "https://www.nitroplus.co.jp/works/"
-        },
-        {
-          "title": "刀剣乱舞ONLINE／刀剣乱舞無双及其他在线合作",
-          "status": "版本／范围说明",
-          "workIds": [],
-          "reason": "在线养成、动作等其他玩法，本轮未建立补充游戏条目。",
-          "source": "https://www.nitroplus.co.jp/works/other-game/"
-        },
-        {
-          "title": "Nitro Chiral 品牌",
-          "status": "版本／范围说明",
-          "workIds": [],
-          "reason": "同公司独立品牌，本轮不声称覆盖其作品；后续可按品牌另建专题。",
-          "source": "https://www.nitroplus.co.jp/works/"
         },
         {
           "title": "STEINS;GATE 原版／ELITE 平台与地区订正",
@@ -16074,6 +16036,536 @@
           ],
           "reason": "补充可核实角色及分版本 CV；刃鳴散らす、スマガスペシャル、アザナエル等由官方规格确认配音。无原始证据的其他字段不猜填。",
           "source": "https://www.nitroplus.co.jp/game/20-axanael/"
+        },
+        {
+          "title": "咎狗の血",
+          "status": "主数据库",
+          "workIds": [
+            "g622"
+          ],
+          "relatedIds": [],
+          "reason": "Nitro Chiral 品牌作品。True Blood、兼容再版和移植沿用同一作品；附赠扑克另列玩法条目。",
+          "source": "https://www.nitrochiral.com/game/togainu.php"
+        },
+        {
+          "title": "Lamento -BEYOND THE VOID-",
+          "status": "主数据库",
+          "workIds": [
+            "g623"
+          ],
+          "relatedIds": [],
+          "reason": "Chiral 的幻想冒险；通常版不另计作品。",
+          "source": "https://www.nitrochiral.com/game/lamento.php"
+        },
+        {
+          "title": "sweet pool",
+          "status": "主数据库",
+          "workIds": [
+            "g624"
+          ],
+          "relatedIds": [],
+          "reason": "Chiral 的校园异色故事；重制与主机版保持同一作品 ID。",
+          "source": "https://www.nitrochiral.com/game/sweet_pool.php"
+        },
+        {
+          "title": "DRAMAtical Murder",
+          "status": "主数据库",
+          "workIds": [
+            "g625"
+          ],
+          "relatedIds": [],
+          "reason": "Chiral 本篇。独立后日谈 re:connect 另列；Steam re:code 的未来发行计划不计已发行版本。",
+          "source": "https://www.nitrochiral.com/game/dramatical_murder.php"
+        },
+        {
+          "title": "DRAMAtical Murder re:connect",
+          "status": "主数据库",
+          "workIds": [
+            "g626"
+          ],
+          "relatedIds": [],
+          "reason": "独立发行的后日谈；内部小游戏、愚人节内容和生日短篇作为收录内容说明，不把同一发行包重复建档。",
+          "source": "https://www.nitrochiral.com/game/dramatical_murder_reconnect.php"
+        },
+        {
+          "title": "スロウ・ダメージ",
+          "status": "主数据库",
+          "workIds": [
+            "g627"
+          ],
+          "relatedIds": [],
+          "reason": "Chiral 品牌。Clean dishes 是另一部外传，不归为本篇移植。",
+          "source": "https://www.nitrochiral.com/game/slow-damage.php"
+        },
+        {
+          "title": "スロウ・ダメージ Clean dishes",
+          "status": "主数据库",
+          "workIds": [
+            "g628"
+          ],
+          "relatedIds": [],
+          "reason": "官方衍生 ADV，独立于本篇；追加章节不重复计算。",
+          "source": "https://www.nitrochiral.com/game/slow-damage_dishes/"
+        },
+        {
+          "title": "戒厳聖都",
+          "status": "主数据库",
+          "workIds": [
+            "g629"
+          ],
+          "relatedIds": [],
+          "reason": "此前只在《サバト鍋》合集说明中提及；现按官方“RPG風ノベル”定义同步主库。合集容器不另计。",
+          "source": "https://www.nitroplus.co.jp/game/10-sabatonabe/kaigen.php"
+        },
+        {
+          "title": "ちみキャラさいこぱす",
+          "status": "主数据库",
+          "workIds": [
+            "g630"
+          ],
+          "relatedIds": [],
+          "reason": "Nitroplus 与 Production I.G 合作的实际游戏。手机应用“サイコパスステーション”内亦提供无配音版，见官方 2013 年公告；应用资讯功能本身不另计游戏。",
+          "source": "https://www.nitroplus.co.jp/news/2012/3316.php"
+        },
+        {
+          "title": "STEINS;GATE 変移空間のオクテット",
+          "status": "主数据库",
+          "workIds": [
+            "g631"
+          ],
+          "relatedIds": [],
+          "reason": "按用户本次“所有作品”要求纳入指令冒险；发行方不是 Nitroplus。不要与 2018 年ファミコレ改编混淆。",
+          "source": "https://steinsgate.jp/octet/spec.html"
+        },
+        {
+          "title": "CHAOS;HEAD らぶChu☆Chu!",
+          "status": "主数据库",
+          "workIds": [
+            "g632"
+          ],
+          "relatedIds": [],
+          "reason": "科学 ADV 相关合作／系列衍生作品；版权与制作关系不替代发行署名，各版本按实际品牌归档。",
+          "source": "https://www.kagaku-adv.com/titles/chaoshead_lovechuchu/"
+        },
+        {
+          "title": "STEINS;GATE 比翼恋理のだーりん",
+          "status": "主数据库",
+          "workIds": [
+            "g633"
+          ],
+          "relatedIds": [],
+          "reason": "科学 ADV 相关合作／系列衍生作品；版权与制作关系不替代发行署名，各版本按实际品牌归档。",
+          "source": "https://www.kagaku-adv.com/titles/steinsgate_darling/"
+        },
+        {
+          "title": "STEINS;GATE 0",
+          "status": "主数据库",
+          "workIds": [
+            "g634"
+          ],
+          "relatedIds": [],
+          "reason": "科学 ADV 相关合作／系列衍生作品；版权与制作关系不替代发行署名，各版本按实际品牌归档。",
+          "source": "https://www.kagaku-adv.com/titles/steinsgate_zero/"
+        },
+        {
+          "title": "ROBOTICS;NOTES DaSH",
+          "status": "主数据库",
+          "workIds": [
+            "g635"
+          ],
+          "relatedIds": [],
+          "reason": "科学 ADV 相关合作／系列衍生作品；版权与制作关系不替代发行署名，各版本按实际品牌归档。",
+          "source": "https://www.kagaku-adv.com/titles/roboticsnotes_dash/"
+        },
+        {
+          "title": "CHAOS;CHILD",
+          "status": "主数据库",
+          "workIds": [
+            "g636"
+          ],
+          "relatedIds": [],
+          "reason": "科学 ADV 相关合作／系列衍生作品；版权与制作关系不替代发行署名，各版本按实际品牌归档。",
+          "source": "https://www.kagaku-adv.com/titles/chaoschild/"
+        },
+        {
+          "title": "CHAOS;CHILD らぶchu☆chu!!",
+          "status": "主数据库",
+          "workIds": [
+            "g637"
+          ],
+          "relatedIds": [],
+          "reason": "科学 ADV 相关合作／系列衍生作品；版权与制作关系不替代发行署名，各版本按实际品牌归档。",
+          "source": "https://www.kagaku-adv.com/titles/chaoschild_lovechuchu/"
+        },
+        {
+          "title": "ニトロWARS",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-nitrowars"
+          ],
+          "reason": "2006-02-03《サバト鍋》收录的独立小游戏；合集本身不再计数。",
+          "source": "https://www.nitroplus.co.jp/game/10-sabatonabe/nitrowars.php"
+        },
+        {
+          "title": "字祷子Ｄ 妖都最速伝説",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-azathoth"
+          ],
+          "reason": "官方游戏目录所列作品；移植与合集另按版本整理。",
+          "source": "https://www.nitroplus.co.jp/game/11-azathoth/"
+        },
+        {
+          "title": "ニトロ+ロワイヤル -ヒロインズデュエル-",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-royale"
+          ],
+          "reason": "官方游戏目录所列作品；移植与合集另按版本整理。",
+          "source": "https://www.nitroplus.co.jp/game/14-nitro-royale/"
+        },
+        {
+          "title": "ニトロプラス ブラスターズ -ヒロインズ インフィニット デュエル-",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-blasterz"
+          ],
+          "reason": "EXAMU 开发的跨作品格斗；不与 Nitro Royale 合并，也不把合作角色原作全算作 Nitroplus 制作。",
+          "source": "https://www.nitroplus.co.jp/works/consumer-game"
+        },
+        {
+          "title": "ソニプロ",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-sonipro"
+          ],
+          "reason": "独立育成游戏，不是主库《ソニコミ》的移植。",
+          "source": "https://www.nitroplus.co.jp/news/2014/4129.php"
+        },
+        {
+          "title": "Dolls Nest",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-dolls-nest"
+          ],
+          "reason": "Nitroplus／Nitro Arts 制作。后续免费更新和机体部件不另计作品。",
+          "source": "https://www.nitroplus.co.jp/game/Dolls_Nest/"
+        },
+        {
+          "title": "Rusty Rabbit",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-rusty-rabbit"
+          ],
+          "reason": "Nitroplus 原案／剧本合作；实际发行由 NetEase Games 负责。",
+          "source": "https://www.rustyrabbit.com/"
+        },
+        {
+          "title": "刀剣乱舞ONLINE",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-touken-online"
+          ],
+          "reason": "Nitroplus 与 DMM 合作；手机版 Pocket 与浏览器版属于同一在线作品。",
+          "source": "https://www.toukenranbu.jp/"
+        },
+        {
+          "title": "刀剣乱舞無双",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-touken-musou"
+          ],
+          "reason": "《刀剑乱舞》与无双系列合作的独立动作游戏；不是 ONLINE 版本。",
+          "source": "https://touken-musou.com/"
+        },
+        {
+          "title": "刀剣乱舞ぱずぎり",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-touken-puzzle"
+          ],
+          "reason": "官方应用目录列出的新作；不是 ONLINE 的移动移植。",
+          "source": "https://touken-puzzle.com/"
+        },
+        {
+          "title": "凍京NECRO SUICIDE MISSION",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-necro-mission"
+          ],
+          "reason": "2018 年为公开测试，2019 年正式服务；2022-06-30 停运。停服数字档案保存剧情资料，不是另一个可战斗的新游戏。",
+          "source": "https://www.nitroplus.co.jp/game/tokyonecro/suicide-mission/"
+        },
+        {
+          "title": "咲う アルスノトリア",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-arsnotoria"
+          ],
+          "reason": "Nitroplus 负责原作等工作；Good Smile Company 发行。服务已于 2023 年结束。",
+          "source": "https://www.nitroplus.co.jp/news/2021/11504.php"
+        },
+        {
+          "title": "マギアレコード 魔法少女まどか☆マギカ外伝",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-magireco"
+          ],
+          "reason": "官方目录注明下仓拜欧参与部分活动剧本；这是局部剧本合作，不是 Nitroplus 独立制作。2017—2024 年运营。",
+          "source": "https://www.nitroplus.co.jp/works/app-game"
+        },
+        {
+          "title": "魔法少女まどか☆マギカ Magia Exedra",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-exedra"
+          ],
+          "reason": "Nitroplus 官方目录仅列部分活动剧本参与；与开发、发行全权归属区别标注。",
+          "source": "https://www.nitroplus.co.jp/works/app-game"
+        },
+        {
+          "title": "魔法少女まどか☆マギカ ポータブル",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-madoka-portable"
+          ],
+          "reason": "Nitroplus 与 Bandai Namco 合作项目，企划／剧本监修等参与；实际发行保持 Bandai Namco。",
+          "source": "https://www.nitroplus.co.jp/works/consumer-game"
+        },
+        {
+          "title": "THE CHiRAL NIGHT rhythm carnival",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-rhythm-carnival"
+          ],
+          "reason": "附赠《咎狗の血 TYPING》兼容版另作玩法记录；附带影像不作为新游戏。",
+          "source": "https://www.nitrochiral.com/game/rhythm-carnival.php"
+        },
+        {
+          "title": "咎狗の血 TYPING",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-togainu-typing"
+          ],
+          "reason": "最初随桌面附属集推出，2017 年《rhythm carnival》再收录 Windows 10 兼容版。",
+          "source": "https://www.nitrochiral.com/game/rhythm-carnival.php"
+        },
+        {
+          "title": "咎狗ポーカー",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-togainu-poker"
+          ],
+          "reason": "《キラル盛》三个可分别启动的游戏之一；合集容器不再计作品。2007-12-29 C73 先行、2008-01-25 通常发行。",
+          "source": "https://www.nitrochiral.com/game/chiralmori.php"
+        },
+        {
+          "title": "猫打 -にゃんだ-",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-nekoda"
+          ],
+          "reason": "《キラル盛》三个可分别启动的游戏之一；合集容器不再计作品。2007-12-29 C73 先行、2008-01-25 通常发行。",
+          "source": "https://www.nitrochiral.com/game/chiralmori.php"
+        },
+        {
+          "title": "クィムス",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-quims"
+          ],
+          "reason": "《キラル盛》三个可分别启动的游戏之一；合集容器不再计作品。2007-12-29 C73 先行、2008-01-25 通常发行。",
+          "source": "https://www.nitrochiral.com/game/chiralmori.php"
+        },
+        {
+          "title": "ガンスリンガー ストラトス",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-gunslinger"
+          ],
+          "reason": "官方公布虚渊玄负责世界观／原案。发行与街机开发不归为 Nitroplus。",
+          "source": "https://www.jp.square-enix.com/company/ja/news/2012/html/b72327bc03e5a1056508e9bfb870ea96688e6b25.html"
+        },
+        {
+          "title": "ガンスリンガー ストラトス2",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-gunslinger2"
+          ],
+          "reason": "按历史世界观合作的系列衍生收录；不据系列关系推断 Nitroplus 负责本作全部开发或新增剧本。",
+          "source": "https://www.jp.square-enix.com/game/detail/gs2/"
+        },
+        {
+          "title": "ガンスリンガー ストラトス リローデッド",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-gunslinger-reloaded"
+          ],
+          "reason": "按历史世界观合作的系列衍生收录；不据系列关系推断 Nitroplus 负责本作全部开发或新增剧本。",
+          "source": "https://www.jp.square-enix.com/company/ja/news/2015/html/4fff45ac1b41376f03d7066899baa3b7.html"
+        },
+        {
+          "title": "ガンスリンガー ストラトス3",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-gunslinger3"
+          ],
+          "reason": "按历史世界观合作的系列衍生收录；不据系列关系推断 Nitroplus 负责本作全部开发或新增剧本。",
+          "source": "https://www.jp.square-enix.com/company/ja/news/2016/html/52ee2a2b32207467a366179ae140734d.html"
+        },
+        {
+          "title": "サバト鍋",
+          "status": "合集／不重复计数",
+          "reason": "合集包含竜†恋、戒厳聖都、ニトロWARS；三个可辨识游戏分别引用，容器本身不再计数。",
+          "source": "https://www.nitroplus.co.jp/game/10-sabatonabe/",
+          "workIds": [
+            "g604",
+            "g629"
+          ],
+          "relatedIds": [
+            "nitroplus-extra-nitrowars"
+          ]
+        },
+        {
+          "title": "キラル盛",
+          "status": "合集／不重复计数",
+          "reason": "咎狗ポーカー、猫打、クィムス分别建档；桌面素材、影片和壁纸不计游戏。",
+          "source": "https://www.nitrochiral.com/game/chiralmori.php",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-togainu-poker",
+            "nitroplus-extra-nekoda",
+            "nitroplus-extra-quims"
+          ]
+        },
+        {
+          "title": "戒厳の野望",
+          "status": "本篇附赠内容",
+          "reason": "《刃鳴散らす》的附赠玩法保留在原作说明；《戒厳聖都》为另行发行的后续小说，现已独立建档。",
+          "source": "https://www.nitroplus.co.jp/game/10-sabatonabe/kaigen.php",
+          "workIds": [
+            "g603",
+            "g629"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "DRAMAtical Murder re:code NITRO ARCHIVE",
+          "status": "计划／不计已发行版本",
+          "reason": "截至 2026-10-04，Steam 版预告为 2026 年冬；不预先写入已发行版本。",
+          "source": "https://www.nitrochiral.com/game/",
+          "workIds": [
+            "g625"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "凍京NECRO Defenders",
+          "status": "历史公布／发行未确认",
+          "reason": "2015 年曾公布面向手机的计划；缺乏正式上线证据，不把公告当成已发行作品，也不直接等同于 SUICIDE MISSION。",
+          "source": "https://www.nitroplus.co.jp/news/2015/4608.php",
+          "workIds": [],
+          "relatedIds": []
+        },
+        {
+          "title": "ちみキャラさいこぱす 手机章节",
+          "status": "同一作品的追加渠道",
+          "reason": "官方“サイコパスステーション”应用提供无配音版，2013 年更新至全 11 话；与 Blu-ray 附赠 ADV 共用作品 ID，资讯应用本身不另计游戏。",
+          "source": "https://www.nitroplus.co.jp/news/2013/3515.php",
+          "workIds": [
+            "g630"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "咎狗の血 True Blood 智能手机版",
+          "status": "同一作品的移植渠道",
+          "reason": "官方停产产品页列有 iOS 2015-09-21、Android 2015-12-11；沿用咎狗之血，渠道实际发行署名待进一步核对，未猜填版本卡。",
+          "source": "https://www.nitrochiral.com/game/togainu_tb_app.php",
+          "workIds": [
+            "g622"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ファミコレADV シュタインズ・ゲート／8-BIT ADV",
+          "status": "原作的复古改编",
+          "reason": "2018 年 Switch ELITE 附赠复古改编，海外称 8-BIT ADV；故事改编沿用 STEINS;GATE，不与 2011 年独立外传 Octet 混为一作。",
+          "source": "https://steinsgate.jp/elite/famicolle/",
+          "workIds": [
+            "g054"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "动画、小说、音乐、舞台、桌面素材与客串授权",
+          "status": "非本数据库游戏条目",
+          "reason": "本专题核查电子游戏；动画、纸质小说、舞台及角色客串不作为独立游戏。官方也说明现行目录没有列全全部参与项目，故不宣称覆盖每一项美术或外包署名。",
+          "source": "https://www.nitroplus.co.jp/works/",
+          "workIds": [],
+          "relatedIds": []
+        },
+        {
+          "title": "ちびママ",
+          "status": "主数据库／历史资料",
+          "workIds": [
+            "g638"
+          ],
+          "reason": "历史合作条目。现存官网资料不全，制作署名与首发信息采用 ERCR 的职员表整理（二手资料），并与其他历史产品记录交叉核对；不冒称为 Nitroplus 品牌发行。 津路参汰负责角色设计／原画，Nitroplus 参与企划与制作，Hobibox 销售。",
+          "source": "https://w.atwiki.jp/ercr/pages/4789.html"
+        },
+        {
+          "title": "シャマナシャマナ ～月とこころと太陽の魔法～",
+          "status": "主数据库／历史资料",
+          "workIds": [
+            "g639"
+          ],
+          "reason": "历史合作条目。现存官网资料不全，制作署名与首发信息采用 ERCR 的职员表整理（二手资料），并与其他历史产品记录交叉核对；不冒称为 Nitroplus 品牌发行。 职员表列制作人でじたろう及 Nitro+ 制作协力；原开发与发行品牌为 CaramelBOX。",
+          "source": "https://w.atwiki.jp/ercr/pages/1257.html"
+        },
+        {
+          "title": "処女はお姉さまに恋してる",
+          "status": "主数据库／历史资料",
+          "workIds": [
+            "g640"
+          ],
+          "reason": "历史合作条目。现存官网资料不全，制作署名与首发信息采用 ERCR 的职员表整理（二手资料），并与其他历史产品记录交叉核对；不冒称为 Nitroplus 品牌发行。 职员表列制作人でじたろう及 Nitro+ 制作协力；原开发与发行品牌为 CaramelBOX。",
+          "source": "https://w.atwiki.jp/ercr/pages/1258.html"
+        },
+        {
+          "title": "历史合作的证据层级",
+          "status": "资料来源说明",
+          "workIds": [
+            "g638",
+            "g639",
+            "g640"
+          ],
+          "reason": "三部早期合作已补入主库；一手官网未能完整读取，使用历史职员表整理与其他产品记录交叉核对，并显式标注二手资料。不能据此把该品牌所有作品视为 Nitroplus 制作。",
+          "source": "https://w.atwiki.jp/ercr/pages/1257.html"
         }
       ],
       "relatedGames": [
@@ -16111,11 +16603,941 @@
               "source": "https://www.nitroplus.co.jp/game/05h-demonbane/"
             }
           ]
+        },
+        {
+          "id": "nitroplus-extra-nitrowars",
+          "title": "ニトロWARS",
+          "originalTitle": "ニトロWARS",
+          "chineseTitle": "Nitro 大战",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "NitroWARS"
+          ],
+          "firstYear": 2006,
+          "category": "射击",
+          "subcategory": "射击",
+          "genre": "射击",
+          "characters": [
+            "オウカ",
+            "Nitroplus 历代角色"
+          ],
+          "charactersSource": "https://www.nitroplus.co.jp/game/10-sabatonabe/nitrowars.php",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "操作奥乌卡穿越五个射击关卡，与历代角色组成的敌人与首领交战。",
+          "notes": "2006-02-03《サバト鍋》收录的独立小游戏；合集本身不再计数。",
+          "source": "https://www.nitroplus.co.jp/game/10-sabatonabe/nitrowars.php",
+          "versions": [
+            {
+              "year": 2006,
+              "platform": "Windows",
+              "publisher": "Nitroplus",
+              "kind": "原版",
+              "voice": "无",
+              "differences": "2006 年发行；玩法与公司参与关系见官方来源。",
+              "source": "https://www.nitroplus.co.jp/game/10-sabatonabe/nitrowars.php"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-azathoth",
+          "title": "字祷子Ｄ 妖都最速伝説",
+          "originalTitle": "字祷子Ｄ 妖都最速伝説",
+          "chineseTitle": "字祷子 D：妖都最速传说",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "字祷子D",
+            "Azathoth D"
+          ],
+          "firstYear": 2006,
+          "category": "赛车",
+          "subcategory": "赛车",
+          "genre": "赛车",
+          "characters": [
+            "デモンベイン系列角色"
+          ],
+          "charactersSource": "https://www.nitroplus.co.jp/game/11-azathoth/",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "以《Demonbane》世界的角色展开赛车竞速，在赛道上争夺妖都最快的称号。",
+          "notes": "",
+          "source": "https://www.nitroplus.co.jp/game/11-azathoth/",
+          "versions": [
+            {
+              "year": 2006,
+              "platform": "Windows",
+              "publisher": "Nitroplus",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2006-08-11 活动先行；8-24 通常发行。",
+              "source": "https://www.nitroplus.co.jp/game/11-azathoth/"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-royale",
+          "title": "ニトロ+ロワイヤル -ヒロインズデュエル-",
+          "originalTitle": "ニトロ+ロワイヤル -ヒロインズデュエル-",
+          "chineseTitle": "Nitro+ 皇家格斗：女主角对决",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Nitro Royale",
+            "ニトロ＋ロワイヤル"
+          ],
+          "firstYear": 2007,
+          "category": "格斗",
+          "subcategory": "格斗",
+          "genre": "格斗",
+          "characters": [
+            "アイン",
+            "アル・アジフ",
+            "沙耶",
+            "石馬戒厳"
+          ],
+          "charactersSource": "https://www.nitroplus.co.jp/game/14-nitro-royale/",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "历代作品的女主角以二维格斗方式相遇，通过对战展示各自能力与跨作品演出。",
+          "notes": "",
+          "source": "https://www.nitroplus.co.jp/game/14-nitro-royale/",
+          "versions": [
+            {
+              "year": 2007,
+              "platform": "Windows",
+              "publisher": "Nitroplus",
+              "kind": "原版",
+              "voice": "有（部分）",
+              "differences": "2007-08-17 活动先行；9-28 通常发行。",
+              "source": "https://www.nitroplus.co.jp/game/14-nitro-royale/"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-blasterz",
+          "title": "ニトロプラス ブラスターズ -ヒロインズ インフィニット デュエル-",
+          "originalTitle": "ニトロプラス ブラスターズ -ヒロインズ インフィニット デュエル-",
+          "chineseTitle": "Nitroplus 爆裂格斗：女主角无限对决",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Nitroplus Blasterz"
+          ],
+          "firstYear": 2015,
+          "category": "格斗",
+          "subcategory": "格斗",
+          "genre": "格斗",
+          "characters": [
+            "アイン",
+            "アル・アジフ",
+            "沙耶",
+            "すーぱーそに子"
+          ],
+          "charactersSource": "https://www.nitroplus.co.jp/works/consumer-game",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "Nitroplus 及合作作品角色展开支援式二维对战；主机版补充角色与故事演出。",
+          "notes": "EXAMU 开发的跨作品格斗；不与 Nitro Royale 合并，也不把合作角色原作全算作 Nitroplus 制作。",
+          "source": "https://www.nitroplus.co.jp/works/consumer-game",
+          "versions": [
+            {
+              "year": 2015,
+              "platform": "Arcade",
+              "publisher": "EXAMU",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2015 年街机版。",
+              "source": "https://www.nitroplus.co.jp/works/other-game"
+            },
+            {
+              "year": 2015,
+              "platform": "PlayStation 4",
+              "publisher": "Marvelous",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2015-12-10；主机版。",
+              "source": "https://blog.ja.playstation.com/2015/10/09/20151009-nitroplus-blasterz/"
+            },
+            {
+              "year": 2015,
+              "platform": "PlayStation 3",
+              "publisher": "Marvelous",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2015-12-10；主机版。",
+              "source": "https://blog.ja.playstation.com/2015/10/09/20151009-nitroplus-blasterz/"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-sonipro",
+          "title": "ソニプロ",
+          "originalTitle": "ソニプロ",
+          "chineseTitle": "索尼子制作人",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "SoniPro",
+            "Sonic Pro"
+          ],
+          "firstYear": 2014,
+          "category": "偶像养成",
+          "subcategory": "偶像养成",
+          "genre": "偶像养成",
+          "characters": [
+            "すーぱーそに子"
+          ],
+          "charactersSource": "https://www.nitroplus.co.jp/news/2014/4129.php",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "玩家担任索尼子的制作人，安排活动与训练，帮助她展开偶像事业。",
+          "notes": "独立育成游戏，不是主库《ソニコミ》的移植。",
+          "source": "https://www.nitroplus.co.jp/news/2014/4129.php",
+          "versions": [
+            {
+              "year": 2014,
+              "platform": "Nintendo 3DS",
+              "publisher": "Imageepoch",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2014-07-31；3DS 发行。",
+              "source": "https://www.nitroplus.co.jp/news/2014/4129.php"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-dolls-nest",
+          "title": "Dolls Nest",
+          "originalTitle": "Dolls Nest",
+          "chineseTitle": "人偶巢穴",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ドールズネスト"
+          ],
+          "firstYear": 2025,
+          "category": "3D 动作",
+          "subcategory": "3D 动作",
+          "genre": "3D 动作",
+          "characters": [
+            "鎧化兵"
+          ],
+          "charactersSource": "https://www.nitroplus.co.jp/game/Dolls_Nest/",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "机械少女在巨大的废墟世界中探索，替换机体部件、管理资源并寻找世界崩坏的线索。",
+          "notes": "Nitroplus／Nitro Arts 制作。后续免费更新和机体部件不另计作品。",
+          "source": "https://www.nitroplus.co.jp/game/Dolls_Nest/",
+          "versions": [
+            {
+              "year": 2025,
+              "platform": "Windows（Steam）",
+              "publisher": "Nitroplus",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2025-04-24；Steam 发行。",
+              "source": "https://www.nitroplus.co.jp/game/Dolls_Nest/"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-rusty-rabbit",
+          "title": "Rusty Rabbit",
+          "originalTitle": "Rusty Rabbit",
+          "chineseTitle": "锈兔",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ラスティ・ラビット"
+          ],
+          "firstYear": 2025,
+          "category": "横向动作",
+          "subcategory": "横向动作",
+          "genre": "横向动作",
+          "characters": [
+            "スタンプ"
+          ],
+          "charactersSource": "https://www.rustyrabbit.com/",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "兔子斯坦普驾驶机甲挖掘人类文明留下的遗迹，发现可能与失散女儿有关的记录。",
+          "notes": "Nitroplus 原案／剧本合作；实际发行由 NetEase Games 负责。",
+          "source": "https://www.rustyrabbit.com/",
+          "versions": [
+            {
+              "year": 2025,
+              "platform": "PlayStation 5",
+              "publisher": "NetEase Games",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2025 年正式发行；相同作品的各平台版本。",
+              "source": "https://www.rustyrabbit.com/"
+            },
+            {
+              "year": 2025,
+              "platform": "Nintendo Switch",
+              "publisher": "NetEase Games",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2025 年正式发行；相同作品的各平台版本。",
+              "source": "https://www.rustyrabbit.com/"
+            },
+            {
+              "year": 2025,
+              "platform": "Windows（Steam）",
+              "publisher": "NetEase Games",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2025 年正式发行；相同作品的各平台版本。",
+              "source": "https://www.rustyrabbit.com/"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-touken-online",
+          "title": "刀剣乱舞ONLINE",
+          "originalTitle": "刀剣乱舞ONLINE",
+          "chineseTitle": "刀剑乱舞 ONLINE",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "刀剣乱舞-ONLINE-",
+            "刀剣乱舞 Pocket",
+            "Touken Ranbu"
+          ],
+          "firstYear": 2015,
+          "category": "收集／养成／策略",
+          "subcategory": "收集／养成／策略",
+          "genre": "收集／养成／策略",
+          "characters": [
+            "審神者",
+            "刀剣男士"
+          ],
+          "charactersSource": "https://www.toukenranbu.jp/",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "审神者率领由名刀化身的刀剑男士出阵，阻止历史遭到改变，并经营本丸。",
+          "notes": "Nitroplus 与 DMM 合作；手机版 Pocket 与浏览器版属于同一在线作品。",
+          "source": "https://www.toukenranbu.jp/",
+          "versions": [
+            {
+              "year": 2015,
+              "platform": "浏览器",
+              "publisher": "DMM GAMES",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2015 年浏览器服务开始。",
+              "source": "https://www.nitroplus.co.jp/works/browser-game"
+            },
+            {
+              "year": 2016,
+              "platform": "iOS",
+              "publisher": "DMM GAMES",
+              "kind": "Pocket",
+              "voice": "未核实",
+              "differences": "2016 年手机服务；沿用同一游戏身份。",
+              "source": "https://www.nitroplus.co.jp/works/app-game"
+            },
+            {
+              "year": 2016,
+              "platform": "Android",
+              "publisher": "DMM GAMES",
+              "kind": "Pocket",
+              "voice": "未核实",
+              "differences": "2016 年手机服务；沿用同一游戏身份。",
+              "source": "https://www.nitroplus.co.jp/works/app-game"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-touken-musou",
+          "title": "刀剣乱舞無双",
+          "originalTitle": "刀剣乱舞無双",
+          "chineseTitle": "刀剑乱舞无双",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Touken Ranbu Warriors"
+          ],
+          "firstYear": 2022,
+          "category": "无双动作",
+          "subcategory": "无双动作",
+          "genre": "无双动作",
+          "characters": [
+            "刀剣男士",
+            "こんのすけ"
+          ],
+          "charactersSource": "https://touken-musou.com/",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "漂流中的本丸受到袭击，刀剑男士接受新的任务，前往战国时代的历史战场。",
+          "notes": "《刀剑乱舞》与无双系列合作的独立动作游戏；不是 ONLINE 版本。",
+          "source": "https://touken-musou.com/",
+          "versions": [
+            {
+              "year": 2022,
+              "platform": "Nintendo Switch",
+              "publisher": "DMM GAMES",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2022-02-17；日本主机版。",
+              "source": "https://touken-musou.com/"
+            },
+            {
+              "year": 2022,
+              "platform": "Windows（DMM）",
+              "publisher": "DMM GAMES",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2022-02-17；DMM PC 版。",
+              "source": "https://touken-musou.com/"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-touken-puzzle",
+          "title": "刀剣乱舞ぱずぎり",
+          "originalTitle": "刀剣乱舞ぱずぎり",
+          "chineseTitle": "刀剑乱舞：斩击谜阵",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "刀剑乱舞拼图",
+            "Touken Ranbu Pazugiri"
+          ],
+          "firstYear": 2026,
+          "category": "益智 RPG",
+          "subcategory": "益智 RPG",
+          "genre": "益智 RPG",
+          "characters": [
+            "刀剣男士"
+          ],
+          "charactersSource": "https://touken-puzzle.com/",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "以刀剑男士为伙伴，通过拼图战斗推进关卡与角色养成。",
+          "notes": "官方应用目录列出的新作；不是 ONLINE 的移动移植。",
+          "source": "https://touken-puzzle.com/",
+          "versions": [
+            {
+              "year": 2026,
+              "platform": "iOS",
+              "publisher": "DMM GAMES",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2026-09-24；正式上线。",
+              "source": "https://touken-puzzle.com/"
+            },
+            {
+              "year": 2026,
+              "platform": "Android",
+              "publisher": "DMM GAMES",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2026-09-24；正式上线。",
+              "source": "https://touken-puzzle.com/"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-necro-mission",
+          "title": "凍京NECRO SUICIDE MISSION",
+          "originalTitle": "凍京NECRO SUICIDE MISSION",
+          "chineseTitle": "冻京 NECRO：自杀任务",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2019,
+          "category": "在线 RPG",
+          "subcategory": "在线 RPG",
+          "genre": "在线 RPG",
+          "characters": [
+            "生死者追跡者"
+          ],
+          "charactersSource": "https://www.nitroplus.co.jp/game/tokyonecro/suicide-mission/",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "冰封东京的追迹者们组成队伍，面对死者技术衍生的危机与新的委托。",
+          "notes": "2018 年为公开测试，2019 年正式服务；2022-06-30 停运。停服数字档案保存剧情资料，不是另一个可战斗的新游戏。",
+          "source": "https://www.nitroplus.co.jp/game/tokyonecro/suicide-mission/",
+          "versions": [
+            {
+              "year": 2019,
+              "platform": "浏览器",
+              "publisher": "DMM GAMES",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2019-03-29 正式版；此前公测不冒充正式首发。",
+              "source": "https://www.nitroplus.co.jp/game/tokyonecro/suicide-mission/"
+            },
+            {
+              "year": 2019,
+              "platform": "iOS",
+              "publisher": "DMM GAMES",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2019-07-31；应用版。",
+              "source": "https://www.nitroplus.co.jp/game/tokyonecro/suicide-mission/"
+            },
+            {
+              "year": 2019,
+              "platform": "Android",
+              "publisher": "DMM GAMES",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2019-07-31；应用版。",
+              "source": "https://www.nitroplus.co.jp/game/tokyonecro/suicide-mission/"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-arsnotoria",
+          "title": "咲う アルスノトリア",
+          "originalTitle": "咲う アルスノトリア",
+          "chineseTitle": "绽放的阿尔斯诺特利亚",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Smile of the Arsnotoria"
+          ],
+          "firstYear": 2021,
+          "category": "魔法学园 RPG",
+          "subcategory": "魔法学园 RPG",
+          "genre": "魔法学园 RPG",
+          "characters": [
+            "ペンタグラム",
+            "教師"
+          ],
+          "charactersSource": "https://www.nitroplus.co.jp/news/2021/11504.php",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "玩家作为教师，与被称作 Pentagram 的少女们共同生活、学习并面对魔法世界中的考验。",
+          "notes": "Nitroplus 负责原作等工作；Good Smile Company 发行。服务已于 2023 年结束。",
+          "source": "https://www.nitroplus.co.jp/news/2021/11504.php",
+          "versions": [
+            {
+              "year": 2021,
+              "platform": "iOS",
+              "publisher": "Good Smile Company",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2021-03-04；正式服务。",
+              "source": "https://www.nitroplus.co.jp/news/2021/11504.php"
+            },
+            {
+              "year": 2021,
+              "platform": "Android",
+              "publisher": "Good Smile Company",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2021-03-04；正式服务。",
+              "source": "https://www.nitroplus.co.jp/news/2021/11504.php"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-magireco",
+          "title": "マギアレコード 魔法少女まどか☆マギカ外伝",
+          "originalTitle": "マギアレコード 魔法少女まどか☆マギカ外伝",
+          "chineseTitle": "魔法纪录：魔法少女小圆外传",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Magia Record"
+          ],
+          "firstYear": 2017,
+          "category": "手机 RPG",
+          "subcategory": "手机 RPG",
+          "genre": "手机 RPG",
+          "characters": [
+            "魔法少女たち"
+          ],
+          "charactersSource": "https://www.nitroplus.co.jp/works/app-game",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "魔法少女们在神滨市相遇，在战斗和调查中追寻愿望与异常现象的真相。",
+          "notes": "官方目录注明下仓拜欧参与部分活动剧本；这是局部剧本合作，不是 Nitroplus 独立制作。2017—2024 年运营。",
+          "source": "https://www.nitroplus.co.jp/works/app-game",
+          "versions": [
+            {
+              "year": 2017,
+              "platform": "iOS",
+              "publisher": "Aniplex",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2017 年开始运营；部分活动剧本由 Nitroplus 人员参与。",
+              "source": "https://www.nitroplus.co.jp/works/app-game"
+            },
+            {
+              "year": 2017,
+              "platform": "Android",
+              "publisher": "Aniplex",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2017 年开始运营；部分活动剧本由 Nitroplus 人员参与。",
+              "source": "https://www.nitroplus.co.jp/works/app-game"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-exedra",
+          "title": "魔法少女まどか☆マギカ Magia Exedra",
+          "originalTitle": "魔法少女まどか☆マギカ Magia Exedra",
+          "chineseTitle": "魔法少女小圆：Magia Exedra",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "玛吉亚艾克赛德拉"
+          ],
+          "firstYear": 2025,
+          "category": "手机 RPG",
+          "subcategory": "手机 RPG",
+          "genre": "手机 RPG",
+          "characters": [
+            "魔法少女たち"
+          ],
+          "charactersSource": "https://www.nitroplus.co.jp/works/app-game",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "玩家在魔法少女的记忆中展开探索和队伍战斗，接触不同作品的故事片段。",
+          "notes": "Nitroplus 官方目录仅列部分活动剧本参与；与开发、发行全权归属区别标注。",
+          "source": "https://www.nitroplus.co.jp/works/app-game",
+          "versions": [
+            {
+              "year": 2025,
+              "platform": "iOS",
+              "publisher": "Aniplex",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2025 年正式发行；局部活动剧本合作。",
+              "source": "https://www.nitroplus.co.jp/works/app-game"
+            },
+            {
+              "year": 2025,
+              "platform": "Android",
+              "publisher": "Aniplex",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2025 年正式发行；局部活动剧本合作。",
+              "source": "https://www.nitroplus.co.jp/works/app-game"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-madoka-portable",
+          "title": "魔法少女まどか☆マギカ ポータブル",
+          "originalTitle": "魔法少女まどか☆マギカ ポータブル",
+          "chineseTitle": "魔法少女小圆 携带版",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Madoka Magica Portable"
+          ],
+          "firstYear": 2012,
+          "category": "迷宫 RPG／ADV",
+          "subcategory": "迷宫 RPG／ADV",
+          "genre": "迷宫 RPG／ADV",
+          "characters": [
+            "鹿目まどか",
+            "暁美ほむら"
+          ],
+          "charactersSource": "https://www.nitroplus.co.jp/works/consumer-game",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "少女们在契约、战斗与命运的分歧中行动，文字剧情和魔女结界的迷宫探索交替展开。",
+          "notes": "Nitroplus 与 Bandai Namco 合作项目，企划／剧本监修等参与；实际发行保持 Bandai Namco。",
+          "source": "https://www.nitroplus.co.jp/works/consumer-game",
+          "versions": [
+            {
+              "year": 2012,
+              "platform": "PSP",
+              "publisher": "Bandai Namco Games",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2012 年发行；玩法与公司参与关系见官方来源。",
+              "source": "https://www.nitroplus.co.jp/works/consumer-game"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-rhythm-carnival",
+          "title": "THE CHiRAL NIGHT rhythm carnival",
+          "originalTitle": "THE CHiRAL NIGHT rhythm carnival",
+          "chineseTitle": "Chiral 之夜：节奏嘉年华",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2017,
+          "category": "节奏动作",
+          "subcategory": "节奏动作",
+          "genre": "节奏动作",
+          "characters": [
+            "アキラ",
+            "コノエ",
+            "崎山蓉司",
+            "蒼葉"
+          ],
+          "charactersSource": "https://www.nitrochiral.com/game/rhythm-carnival.php",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "以 Chiral 十周年演唱会为主题，结合节奏演奏、角色演出及短篇对话。",
+          "notes": "附赠《咎狗の血 TYPING》兼容版另作玩法记录；附带影像不作为新游戏。",
+          "source": "https://www.nitrochiral.com/game/rhythm-carnival.php",
+          "versions": [
+            {
+              "year": 2017,
+              "platform": "Windows",
+              "publisher": "Nitro+CHiRAL",
+              "kind": "原版",
+              "voice": "有（部分）",
+              "differences": "2017-10-13 通常发行；此前在 C92 先行销售。2026-04-17 推出下载版。",
+              "source": "https://www.nitrochiral.com/game/rhythm-carnival.php"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-togainu-typing",
+          "title": "咎狗の血 TYPING",
+          "originalTitle": "咎狗の血 TYPING",
+          "chineseTitle": "咎狗之血：打字练习",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2006,
+          "category": "打字",
+          "subcategory": "打字",
+          "genre": "打字",
+          "characters": [
+            "アキラ",
+            "咎狗の血登場人物"
+          ],
+          "charactersSource": "https://www.nitrochiral.com/game/rhythm-carnival.php",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "以《咎狗之血》的角色和词句进行键盘输入练习。",
+          "notes": "最初随桌面附属集推出，2017 年《rhythm carnival》再收录 Windows 10 兼容版。",
+          "source": "https://www.nitrochiral.com/game/rhythm-carnival.php",
+          "versions": [
+            {
+              "year": 2006,
+              "platform": "Windows",
+              "publisher": "Nitro+CHiRAL",
+              "kind": "桌面附属集收录",
+              "voice": "无",
+              "differences": "2006 年 1 月推出；后在官方节奏游戏产品页回顾此版本。",
+              "source": "https://www.nitrochiral.com/game/rhythm-carnival.php"
+            },
+            {
+              "year": 2017,
+              "platform": "Windows",
+              "publisher": "Nitro+CHiRAL",
+              "kind": "兼容再收录",
+              "voice": "无",
+              "differences": "2017-10-13；rhythm carnival 附赠的 Windows 10 对应版。",
+              "source": "https://www.nitrochiral.com/game/rhythm-carnival.php"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-togainu-poker",
+          "title": "咎狗ポーカー",
+          "originalTitle": "咎狗ポーカー",
+          "chineseTitle": "咎狗扑克",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "キラル盛 咎狗ポーカー"
+          ],
+          "firstYear": 2007,
+          "category": "扑克",
+          "subcategory": "扑克",
+          "genre": "扑克",
+          "characters": [
+            "アキラ",
+            "シキ"
+          ],
+          "charactersSource": "https://www.nitrochiral.com/game/chiralmori.php",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "《咎狗之血》角色参加变则扑克对局。",
+          "notes": "《キラル盛》三个可分别启动的游戏之一；合集容器不再计作品。2007-12-29 C73 先行、2008-01-25 通常发行。",
+          "source": "https://www.nitrochiral.com/game/chiralmori.php",
+          "versions": [
+            {
+              "year": 2007,
+              "platform": "Windows",
+              "publisher": "Nitro+CHiRAL",
+              "kind": "キラル盛 收录",
+              "voice": "有",
+              "differences": "2007-12-29 C73 先行版；2008-01-25 通常发行。",
+              "source": "https://www.nitrochiral.com/pc/event/071229.html"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-nekoda",
+          "title": "猫打 -にゃんだ-",
+          "originalTitle": "猫打 -にゃんだ-",
+          "chineseTitle": "猫打：喵打",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "キラル盛 猫打 -にゃんだ-"
+          ],
+          "firstYear": 2007,
+          "category": "打字",
+          "subcategory": "打字",
+          "genre": "打字",
+          "characters": [
+            "コノエ",
+            "ライ"
+          ],
+          "charactersSource": "https://www.nitrochiral.com/game/chiralmori.php",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "以《Lamento》角色与世界为主题进行打字挑战。",
+          "notes": "《キラル盛》三个可分别启动的游戏之一；合集容器不再计作品。2007-12-29 C73 先行、2008-01-25 通常发行。",
+          "source": "https://www.nitrochiral.com/game/chiralmori.php",
+          "versions": [
+            {
+              "year": 2007,
+              "platform": "Windows",
+              "publisher": "Nitro+CHiRAL",
+              "kind": "キラル盛 收录",
+              "voice": "有",
+              "differences": "2007-12-29 C73 先行版；2008-01-25 通常发行。",
+              "source": "https://www.nitrochiral.com/pc/event/071229.html"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-quims",
+          "title": "クィムス",
+          "originalTitle": "クィムス",
+          "chineseTitle": "奎姆斯",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "キラル盛 クィムス"
+          ],
+          "firstYear": 2007,
+          "category": "益智",
+          "subcategory": "益智",
+          "genre": "益智",
+          "characters": [
+            "クィム"
+          ],
+          "charactersSource": "https://www.nitrochiral.com/game/chiralmori.php",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "以幻想生物为主题展开方块益智游戏。",
+          "notes": "《キラル盛》三个可分别启动的游戏之一；合集容器不再计作品。2007-12-29 C73 先行、2008-01-25 通常发行。",
+          "source": "https://www.nitrochiral.com/game/chiralmori.php",
+          "versions": [
+            {
+              "year": 2007,
+              "platform": "Windows",
+              "publisher": "Nitro+CHiRAL",
+              "kind": "キラル盛 收录",
+              "voice": "有",
+              "differences": "2007-12-29 C73 先行版；2008-01-25 通常发行。",
+              "source": "https://www.nitrochiral.com/pc/event/071229.html"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-gunslinger",
+          "title": "ガンスリンガー ストラトス",
+          "originalTitle": "ガンスリンガー ストラトス",
+          "chineseTitle": "枪神斯托拉塔斯",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Gunslinger Stratos"
+          ],
+          "firstYear": 2012,
+          "category": "团队射击",
+          "subcategory": "团队射击",
+          "genre": "团队射击",
+          "characters": [
+            "対戦キャラクター"
+          ],
+          "charactersSource": "https://www.jp.square-enix.com/company/ja/news/2012/html/b72327bc03e5a1056508e9bfb870ea96688e6b25.html",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "来自两种未来世界的战士穿越到共同的过去，以团队枪战争夺世界存续的机会。",
+          "notes": "官方公布虚渊玄负责世界观／原案。发行与街机开发不归为 Nitroplus。",
+          "source": "https://www.jp.square-enix.com/company/ja/news/2012/html/b72327bc03e5a1056508e9bfb870ea96688e6b25.html",
+          "versions": [
+            {
+              "year": 2012,
+              "platform": "Arcade",
+              "publisher": "Square Enix",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2012 年夏开始街机运营。",
+              "source": "https://www.jp.square-enix.com/company/ja/news/2012/html/b72327bc03e5a1056508e9bfb870ea96688e6b25.html"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-gunslinger2",
+          "title": "ガンスリンガー ストラトス2",
+          "originalTitle": "ガンスリンガー ストラトス2",
+          "chineseTitle": "枪神斯托拉塔斯 2",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2014,
+          "category": "团队射击",
+          "subcategory": "团队射击",
+          "genre": "团队射击",
+          "characters": [
+            "対戦キャラクター"
+          ],
+          "charactersSource": "https://www.jp.square-enix.com/game/detail/gs2/",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "延续两种未来世界对抗的设定，以团队枪战为核心，更新角色、场景与战斗机制。",
+          "notes": "按历史世界观合作的系列衍生收录；不据系列关系推断 Nitroplus 负责本作全部开发或新增剧本。",
+          "source": "https://www.jp.square-enix.com/game/detail/gs2/",
+          "versions": [
+            {
+              "year": 2014,
+              "platform": "Arcade",
+              "publisher": "Square Enix",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2014 年发行；玩法与公司参与关系见官方来源。",
+              "source": "https://www.jp.square-enix.com/game/detail/gs2/"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-gunslinger-reloaded",
+          "title": "ガンスリンガー ストラトス リローデッド",
+          "originalTitle": "ガンスリンガー ストラトス リローデッド",
+          "chineseTitle": "枪神斯托拉塔斯：重装",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2015,
+          "category": "团队射击",
+          "subcategory": "团队射击",
+          "genre": "团队射击",
+          "characters": [
+            "対戦キャラクター"
+          ],
+          "charactersSource": "https://www.jp.square-enix.com/company/ja/news/2015/html/4fff45ac1b41376f03d7066899baa3b7.html",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "延续两种未来世界对抗的设定，以团队枪战为核心，更新角色、场景与战斗机制。",
+          "notes": "按历史世界观合作的系列衍生收录；不据系列关系推断 Nitroplus 负责本作全部开发或新增剧本。",
+          "source": "https://www.jp.square-enix.com/company/ja/news/2015/html/4fff45ac1b41376f03d7066899baa3b7.html",
+          "versions": [
+            {
+              "year": 2015,
+              "platform": "Windows",
+              "publisher": "Square Enix",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2015 年发行；玩法与公司参与关系见官方来源。",
+              "source": "https://www.jp.square-enix.com/company/ja/news/2015/html/4fff45ac1b41376f03d7066899baa3b7.html"
+            }
+          ]
+        },
+        {
+          "id": "nitroplus-extra-gunslinger3",
+          "title": "ガンスリンガー ストラトス3",
+          "originalTitle": "ガンスリンガー ストラトス3",
+          "chineseTitle": "枪神斯托拉塔斯 3",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2016,
+          "category": "团队射击",
+          "subcategory": "团队射击",
+          "genre": "团队射击",
+          "characters": [
+            "対戦キャラクター"
+          ],
+          "charactersSource": "https://www.jp.square-enix.com/company/ja/news/2016/html/52ee2a2b32207467a366179ae140734d.html",
+          "charactersNote": "保留官方角色名；无具名主角的游戏列玩家身份或登场群体。",
+          "synopsis": "延续两种未来世界对抗的设定，以团队枪战为核心，更新角色、场景与战斗机制。",
+          "notes": "按历史世界观合作的系列衍生收录；不据系列关系推断 Nitroplus 负责本作全部开发或新增剧本。",
+          "source": "https://www.jp.square-enix.com/company/ja/news/2016/html/52ee2a2b32207467a366179ae140734d.html",
+          "versions": [
+            {
+              "year": 2016,
+              "platform": "Arcade",
+              "publisher": "Square Enix",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "2016 年发行；玩法与公司参与关系见官方来源。",
+              "source": "https://www.jp.square-enix.com/company/ja/news/2016/html/52ee2a2b32207467a366179ae140734d.html"
+            }
+          ]
         }
       ],
-      "relatedSectionTitle": "含独立操作战斗的叙事续作",
-      "relatedCountLabel": "小说＋3D 机器人动作",
-      "relatedIntro": "《機神飛翔》有独立故事，但包含可操作的 3D 战斗，放在跨类型补充区。它与《機神咆吼》全年龄改编的名称相近，作品身份和发行层级分别处理。"
+      "relatedSectionTitle": "动作、格斗、射击、养成与小游戏",
+      "relatedCountLabel": "跨类型游戏",
+      "relatedIntro": "以下作品提供独立资料卡与版本记录。按实际玩法放入跨类型区，不改变主库四类结构；本社制作、IP 合作与局部剧本参与在备注中分别说明。",
+      "includeCommandGames": true
     }
   ]
 }

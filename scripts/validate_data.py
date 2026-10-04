@@ -9,7 +9,7 @@ data = json.loads((ROOT / 'data/games.json').read_text(encoding='utf-8'))
 taxonomy = json.loads((ROOT / 'data/taxonomy.json').read_text(encoding='utf-8'))
 coverage = json.loads((ROOT / 'data/company-coverage.json').read_text(encoding='utf-8'))
 command_work_ids = {wid for company in coverage['companies']
-                    if company['id'] == 'alicesoft' and company.get('includeCommandGames') is True
+                    if company['id'] in {'alicesoft', 'nitroplus'} and company.get('includeCommandGames') is True
                     for wid in company['workIds']}
 works, versions = data['works'], data['versions']
 work_ids = {work['id'] for work in works}
@@ -19,7 +19,7 @@ assert {work['category'] for work in works} == {'文字冒险', '视觉小说', 
 assert set(taxonomy['subcategories']) == {work['category'] for work in works}
 assert all(work['subcategory'] in taxonomy['subcategories'][work['category']] for work in works)
 assert all(work['subcategory'] not in {'纯文本指令', '图文指令'}
-           for work in works if int(work['id'][1:]) >= 152 and work['id'] not in command_work_ids), '指令类续补仅适用于用户授权的 Alicesoft 专题作品'
+           for work in works if int(work['id'][1:]) >= 152 and work['id'] not in command_work_ids), '指令类续补仅适用于用户授权的 Alicesoft／Nitroplus 专题作品'
 assert all(any(work['subcategory'] == value for work in works) for category in taxonomy['subcategories']
            for value in taxonomy['subcategories'][category]), '存在空的细分类'
 assert all(1976 <= version['year'] <= 2026 and version['workId'] in work_ids for version in versions)
@@ -102,7 +102,7 @@ for company in coverage['companies']:
         covered.update(entry['workIds'])
         related_covered.update(entry.get('relatedIds', []))
     assert covered == set(ids) and related_covered == related_ids, '专题存在缺少核对来源的作品'
-    # Alicesoft explicitly includes historical command games at the user's request.
-    if not (company['id'] == 'alicesoft' and company.get('includeCommandGames') is True):
+    # User-authorized complete company catalogues include historical command games.
+    if not (company['id'] in {'alicesoft', 'nitroplus'} and company.get('includeCommandGames') is True):
         assert all(work['subcategory'] not in {'纯文本指令', '图文指令'} for work in works if work['id'] in ids)
 print(f"校验通过：{len(works)} 部作品，{len(versions)} 个平台版本；厂商专题引用一致")
