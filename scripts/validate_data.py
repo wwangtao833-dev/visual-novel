@@ -96,5 +96,7 @@ for company in coverage['companies']:
         covered.update(entry['workIds'])
         related_covered.update(entry.get('relatedIds', []))
     assert covered == set(ids) and related_covered == related_ids, '专题存在缺少核对来源的作品'
-    assert all(work['subcategory'] not in {'纯文本指令', '图文指令'} for work in works if work['id'] in ids)
+    # Alicesoft explicitly includes historical command games at the user's request.
+    if not (company['id'] == 'alicesoft' and company.get('includeCommandGames') is True):
+        assert all(work['subcategory'] not in {'纯文本指令', '图文指令'} for work in works if work['id'] in ids)
 print(f"校验通过：{len(works)} 部作品，{len(versions)} 个平台版本；厂商专题引用一致")

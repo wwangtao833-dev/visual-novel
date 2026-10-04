@@ -7668,27 +7668,22 @@
       "id": "alicesoft",
       "name": "Alicesoft",
       "checkedAt": "2026-10-04",
-      "status": "第十七批完成：专题累计206部作品（含指令及历史关联）",
-      "scope": "已整理206部作品：Alicesoft本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联39部、历史合作品牌IMYUIC 1部；主库关联27部，专题补充179部。纳入文字输入、菜单指令、阅读与养成冒险、RPG／SLG及独立小游戏，玩法分别标注；跨主库与全部专题去重，厂商全目录仍未完成。",
-      "versionScope": "专题累计313条版本。本批新增15部作品、27条版本，并为5部既有指令冒险增加16条历史平台记录，共增加43条版本。普通PC-88、PC-88VA、PC-8001分别记录；D.P.S. SG第三集MSX2采用1992年移植年。三款早期改名游戏合并作品，1982年记录与当时署名保留疑点。",
-      "publisherNote": "本专题区分Alicesoft本品牌、Alice Blue、AliceNoir、ChampionSoft历史沿革及历史合作IMYUIC。本批新增15部前身关联游戏，已确认的1983年以后版本保留ChampionSoft署名；三款馆藏所列1982年早期记录的当时发行署名未核实。既有本品牌指令冒险补16条平台版本。",
+      "status": "第十八批完成：专题累计217部作品（含指令及历史关联）",
+      "scope": "已整理217部作品：Alicesoft本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联50部、历史合作品牌IMYUIC 1部；主库关联38部，专题补充179部。纳入文字输入、菜单指令、阅读与养成冒险、RPG／SLG及独立小游戏，玩法分别标注；跨主库与全部专题去重，厂商全目录仍未完成。",
+      "versionScope": "专题累计325条版本。本批关联11部主库已有的ChampionSoft前身作品及其12条既有版本；不新增主库作品或平台记录。《妖精公寓》沿用FM-7、PC-8801两条版本，其余十部各一条。普通PC-88、PC-88VA、PC-8001分别记录；既有日期及署名存疑说明继续保留。",
+      "publisherNote": "本专题区分Alicesoft本品牌、Alice Blue、AliceNoir、ChampionSoft历史沿革及历史合作IMYUIC。本批将11部已经在主库的前身作品关联到专题，沿用12条既有版本及チャンピオンソフト发行署名；不将前身作品归为Alicesoft本品牌。三款既有1982年馆藏记录的当时商业署名仍未核实。",
       "workIds": [
-        "g482",
-        "g483",
-        "g484",
-        "g485",
-        "g486",
-        "g487",
-        "g488",
-        "g489",
-        "g490",
-        "g491",
-        "g492",
-        "g493",
-        "g494",
-        "g495",
-        "g496",
-        "g497",
+        "g075",
+        "g104",
+        "g121",
+        "g122",
+        "g123",
+        "g139",
+        "g140",
+        "g141",
+        "g142",
+        "g143",
+        "g086",
         "g498",
         "g499",
         "g500",
@@ -7696,10 +7691,26 @@
         "g502",
         "g503",
         "g504",
+        "g495",
         "g505",
+        "g496",
         "g506",
+        "g497",
+        "g490",
+        "g491",
+        "g492",
         "g507",
-        "g508"
+        "g508",
+        "g493",
+        "g494",
+        "g482",
+        "g483",
+        "g484",
+        "g485",
+        "g486",
+        "g487",
+        "g488",
+        "g489"
       ],
       "publisherWorkIds": [
         "g482",
@@ -7730,13 +7741,13 @@
         "g507",
         "g508"
       ],
-      "catalogueEntryCount": 206,
+      "catalogueEntryCount": 217,
       "source": "https://www.alicesoft.com/game/index.html",
-      "sectionTitle": "叙事及养成 ADV：27 部",
+      "sectionTitle": "主库关联作品：38部（含11部ChampionSoft前身作品）",
       "overviewLabel": "已整理作品（含指令、RPG／SLG与历史关联）",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "第十七批新增15部前身关联作品、27条版本，并补5部既有指令冒险的16条历史平台版本，共新增43条；仅更新本专题。",
-      "auditNote": "专题累计206部／313条版本：主库关联27部／36条，专题补充179部／277条。品牌分项为Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联39部及IMYUIC历史合作1部。主数据库仍为505部／922条。改名、移植与D.P.S.篇名不增加作品数；CG、漫画、棋谱浏览及未完成预告逐项排除，日期和署名存疑处保留说明。",
+      "auditLabel": "第十八批补齐11部主库既有前身作品的专题关联，沿用12条版本；专题增至217部／325条，主库不重复录入。",
+      "auditNote": "专题累计217部／325条版本：主库关联38部／48条，专题补充179部／277条。品牌分项为Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联50部及IMYUIC历史合作1部。Alicesoft本品牌在主库的发行署名作品仍为27部；本批新增关联的11部沿用ChampionSoft署名。主数据库仍为505部／922条；改名、移植与D.P.S.篇名不增加作品数。",
       "entries": [
         {
           "title": "妻みぐい3",
@@ -7886,7 +7897,7 @@
           "title": "其余旧作 ADV（1989—2015）",
           "status": "后续批次：待逐项整理",
           "workIds": [],
-          "reason": "第十六批补入四款问答模块与四款前身特别篇。仅有用户小说、CG图集或预告而未确认游戏的内容不计数；其余短篇继续逐项核实，厂商全目录未完成。",
+          "reason": "本批补齐11部主库既有前身作品的专题关联。其余短篇仍须逐项核实；只有小说、CG图集或预告而未确认游戏的内容不计数，厂商全目录未完成。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -8152,7 +8163,7 @@
           "title": "其余 RPG／SLG、Fan Disc 及移植",
           "status": "后续批次待核对",
           "workIds": [],
-          "reason": "第十六批补入Playmate拼图三款、医疗与粮食模拟、梦想之家、高管之路，并合并四款既有游戏的MSX2版本；其他移植及教学作品仍待核实。",
+          "reason": "现有作品及其平台记录继续按原ID归并；本批仅补主库与专题关联，不新增发行记录。其他移植、教学作品和杂志附带游戏仍待逐项核实。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -9872,11 +9883,121 @@
           "relatedIds": [],
           "reason": "馆藏推测与Hudson《出世ゲーム》相同，关系未明；保留核对项，暂不新增以免跨厂商重复。",
           "source": "https://fm-7.com/museum/products/lnyc2giw/"
+        },
+        {
+          "title": "四次元少女リディア",
+          "status": "第十八批：关联主库既有作品",
+          "workIds": [
+            "g075"
+          ],
+          "relatedIds": [],
+          "reason": "主库已收录的ChampionSoft前身作品，本批仅补专题关联；沿用原作品ID、剧情、人物及平台版本，保留当时发行署名。图文指令冒险按用户要求纳入专题。",
+          "source": "https://fm-7.com/museum/products/91e3ra67/"
+        },
+        {
+          "title": "アタックひろ子ちゃん",
+          "status": "第十八批：关联主库既有作品",
+          "workIds": [
+            "g104"
+          ],
+          "relatedIds": [],
+          "reason": "主库已收录的ChampionSoft前身作品，本批仅补专题关联；沿用原作品ID、剧情、人物及平台版本，保留当时发行署名。保留既有细分类。",
+          "source": "https://fm-7.com/museum/products/7kjmjxi8/"
+        },
+        {
+          "title": "SPY-0011",
+          "status": "第十八批：关联主库既有作品",
+          "workIds": [
+            "g121"
+          ],
+          "relatedIds": [],
+          "reason": "主库已收录的ChampionSoft前身作品，本批仅补专题关联；沿用原作品ID、剧情、人物及平台版本，保留当时发行署名。图文指令冒险按用户要求纳入专题。",
+          "source": "https://fm-7.com/museum/products/0refcz7z/"
+        },
+        {
+          "title": "スペーシーワンダー",
+          "status": "第十八批：关联主库既有作品",
+          "workIds": [
+            "g122"
+          ],
+          "relatedIds": [],
+          "reason": "主库已收录的ChampionSoft前身作品，本批仅补专题关联；沿用原作品ID、剧情、人物及平台版本，保留当时发行署名。图文指令冒险按用户要求纳入专题。",
+          "source": "https://fm-7.com/museum/products/a1b1vc7z/"
+        },
+        {
+          "title": "オルリー空港殺人事件",
+          "status": "第十八批：关联主库既有作品",
+          "workIds": [
+            "g123"
+          ],
+          "relatedIds": [],
+          "reason": "主库已收录的ChampionSoft前身作品，本批仅补专题关联；沿用原作品ID、剧情、人物及平台版本，保留当时发行署名。图文指令冒险按用户要求纳入专题。",
+          "source": "https://fm-7.com/museum/products/lrdwgvuy/"
+        },
+        {
+          "title": "Fairie's Residence",
+          "status": "第十八批：关联主库既有作品",
+          "workIds": [
+            "g086"
+          ],
+          "relatedIds": [],
+          "reason": "主库已收录的ChampionSoft前身作品，本批仅补专题关联；沿用原作品ID、剧情、人物及平台版本，保留当时发行署名。保留既有细分类。",
+          "source": "https://fm-7.com/museum/products/9sufuw5m/"
+        },
+        {
+          "title": "桃太郎（むかしむかしゲームシリーズ）",
+          "status": "第十八批：关联主库既有作品",
+          "workIds": [
+            "g139"
+          ],
+          "relatedIds": [],
+          "reason": "主库已收录的ChampionSoft前身作品，本批仅补专题关联；沿用原作品ID、剧情、人物及平台版本，保留当时发行署名。图文指令冒险按用户要求纳入专题。",
+          "source": "https://fm-7.com/museum/products/9dor4y34/"
+        },
+        {
+          "title": "浦島太郎（むかしむかしゲームシリーズ）",
+          "status": "第十八批：关联主库既有作品",
+          "workIds": [
+            "g140"
+          ],
+          "relatedIds": [],
+          "reason": "主库已收录的ChampionSoft前身作品，本批仅补专题关联；沿用原作品ID、剧情、人物及平台版本，保留当时发行署名。图文指令冒险按用户要求纳入专题。",
+          "source": "https://fm-7.com/museum/products/vdeoigey/"
+        },
+        {
+          "title": "ファラオの呪い",
+          "status": "第十八批：关联主库既有作品",
+          "workIds": [
+            "g141"
+          ],
+          "relatedIds": [],
+          "reason": "主库已收录的ChampionSoft前身作品，本批仅补专题关联；沿用原作品ID、剧情、人物及平台版本，保留当时发行署名。图文指令冒险按用户要求纳入专题。",
+          "source": "https://fm-7.com/museum/products/qssw5yp9/"
+        },
+        {
+          "title": "クレージーハウス",
+          "status": "第十八批：关联主库既有作品",
+          "workIds": [
+            "g142"
+          ],
+          "relatedIds": [],
+          "reason": "主库已收录的ChampionSoft前身作品，本批仅补专题关联；沿用原作品ID、剧情、人物及平台版本，保留当时发行署名。图文指令冒险按用户要求纳入专题。",
+          "source": "https://fm-7.com/museum/products/y22rwd0b/"
+        },
+        {
+          "title": "鬼巌城",
+          "status": "第十八批：关联主库既有作品",
+          "workIds": [
+            "g143"
+          ],
+          "relatedIds": [],
+          "reason": "主库已收录的ChampionSoft前身作品，本批仅补专题关联；沿用原作品ID、剧情、人物及平台版本，保留当时发行署名。图文指令冒险按用户要求纳入专题。",
+          "source": "https://fm-7.com/museum/products/6csi44i0/"
         }
       ],
-      "description": "Alicesoft及历史关联专题：206部作品、313条版本，含文字与菜单指令、角色问答、RPG／SLG、经营模拟、棋类与动作游戏，保留中文检索名、原名、人物与来源。",
+      "description": "Alicesoft及历史关联专题：217部作品、325条版本，含文字与菜单指令、角色问答、RPG／SLG、经营模拟、棋类与动作游戏，保留中文检索名、原名、人物与来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft的叙事与玩法长期并行。本专题共206部作品，含本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联39部及IMYUIC历史合作1部。早期图文与菜单指令、阅读与养成、问答、经营、棋类和战略各有独立形式；合集内可玩模块与图集、漫画、小说阅读区和预告分开核实。历史署名、发行年冲突与资料缺口分别说明。",
+        "thesis": "Alicesoft的叙事与玩法长期并行。本专题共217部作品，含本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联50部及IMYUIC历史合作1部。早期图文与菜单指令、阅读与养成、问答、经营、棋类和战略各有独立形式；合集内可玩模块与图集、漫画、小说阅读区和预告分开核实。历史署名、发行年冲突与资料缺口分别说明。",
         "phases": [
           {
             "period": "1983—1989（前身品牌）",
@@ -17853,9 +17974,10 @@
       ],
       "relatedSectionTitle": "专题补充作品：179部（含历史品牌与前身关联）",
       "relatedCountLabel": "独立作品；再版及扩充合并",
-      "relatedIntro": "本区累计179部作品。第十七批补入《暗影猎人》《大灾变》及早期战略、经营、动作和棋类游戏共15部；另为D.P.S.原作、三款SG和《CRESCENT MOON少女》补16条平台记录。D.P.S.各篇名加入检索别名但保持合集作品数，文字输入、菜单调查和直接操作分别标明；早期改名标题合并，日期和署名疑点写入备注。",
-      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计206部（Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联39部、IMYUIC历史合作1部）；主库关联27部，专题补充179部。</strong></p>",
-      "versionCountLabel": "已整理版本记录（存疑处注明）"
+      "relatedIntro": "本区累计179部作品。第十七批补入《暗影猎人》《大灾变》及早期战略、经营、动作和棋类游戏共15部；另为D.P.S.原作、三款SG和《CRESCENT MOON少女》补16条平台记录。D.P.S.各篇名加入检索别名但保持合集作品数，文字输入、菜单调查和直接操作分别标明；早期改名标题合并，日期和署名疑点写入备注。 第十八批另将主库中已有的11部前身作品关联到上方主库区；本补充区仍为179部，不复制这些作品。",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计217部（Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联50部、IMYUIC历史合作1部）；主库关联38部，专题补充179部。</strong></p>",
+      "versionCountLabel": "已整理版本记录（存疑处注明）",
+      "includeCommandGames": true
     }
   ]
 }

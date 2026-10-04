@@ -221,5 +221,9 @@ test('Alicesoft batches are searchable in Chinese and retain their Japanese titl
     assert.ok(filterCatalogue(data,{query,company:'Alicesoft'}).some(({work})=>work.id===id),query);
   }
   const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='alicesoft');
-  assert.deepEqual(new Set(dossier.workIds),new Set(found.map(({work})=>work.id)));
+  assert.deepEqual(new Set(dossier.publisherWorkIds),new Set(found.map(({work})=>work.id)));
+  const predecessorIds = new Set(data.versions.filter(v=>v.publisher==='チャンピオンソフト').map(v=>v.workId));
+  assert.equal(predecessorIds.size,11);
+  assert.deepEqual(new Set(dossier.workIds),new Set([...found.map(({work})=>work.id),...predecessorIds]));
+  assert.equal(dossier.workIds.length,new Set(dossier.workIds).size);
 });
