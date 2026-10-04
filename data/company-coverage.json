@@ -7668,10 +7668,10 @@
       "id": "alicesoft",
       "name": "Alicesoft",
       "checkedAt": "2026-10-04",
-      "status": "第十八批完成：专题累计217部作品（含指令及历史关联）",
-      "scope": "已整理217部作品：Alicesoft本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联50部、历史合作品牌IMYUIC 1部；主库关联38部，专题补充179部。纳入文字输入、菜单指令、阅读与养成冒险、RPG／SLG及独立小游戏，玩法分别标注；跨主库与全部专题去重，厂商全目录仍未完成。",
-      "versionScope": "专题累计325条版本。本批关联11部主库已有的ChampionSoft前身作品及其12条既有版本；不新增主库作品或平台记录。《妖精公寓》沿用FM-7、PC-8801两条版本，其余十部各一条。普通PC-88、PC-88VA、PC-8001分别记录；既有日期及署名存疑说明继续保留。",
-      "publisherNote": "本专题区分Alicesoft本品牌、Alice Blue、AliceNoir、ChampionSoft历史沿革及历史合作IMYUIC。本批将11部已经在主库的前身作品关联到专题，沿用12条既有版本及チャンピオンソフト发行署名；不将前身作品归为Alicesoft本品牌。三款既有1982年馆藏记录的当时商业署名仍未核实。",
+      "status": "第十九批完成：专题累计233部作品（含指令及历史关联）",
+      "scope": "已整理233部作品：Alicesoft本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联66部、历史合作品牌IMYUIC 1部；主库关联38部，专题补充195部。纳入文字输入、菜单指令、阅读与养成冒险、RPG／SLG及独立小游戏，玩法分别标注；跨主库与全部专题去重，厂商全目录仍未完成。",
+      "versionScope": "专题累计365条版本。本批新增16部前身关联作品、28条平台记录，并为Super D.P.S.、Only You和《步的故事》补12条移植／再版记录，共增加40条。PC-8001、普通PC-88与PC-88VA区分；PS2及实写改版保留外部发行署名，Super D.P.S.原PC-98日期修订。",
+      "publisherNote": "本专题区分Alicesoft、Alice Blue、AliceNoir、ChampionSoft历史沿革和IMYUIC历史合作。新增16部按前身历史关联收录，其中两款1988年教育软件目录发行署名冲突，具体署名暂未核实。Only You的PS2版由GeneX发行，《步的故事》实写版由白夜書房／コアマガジン发行；不能据原作归属改写版本发行商。既有1982年记录的署名疑点继续保留。",
       "workIds": [
         "g075",
         "g104",
@@ -7741,13 +7741,13 @@
         "g507",
         "g508"
       ],
-      "catalogueEntryCount": 217,
+      "catalogueEntryCount": 233,
       "source": "https://www.alicesoft.com/game/index.html",
       "sectionTitle": "主库关联作品：38部（含11部ChampionSoft前身作品）",
       "overviewLabel": "已整理作品（含指令、RPG／SLG与历史关联）",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "第十八批补齐11部主库既有前身作品的专题关联，沿用12条版本；专题增至217部／325条，主库不重复录入。",
-      "auditNote": "专题累计217部／325条版本：主库关联38部／48条，专题补充179部／277条。品牌分项为Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联50部及IMYUIC历史合作1部。Alicesoft本品牌在主库的发行署名作品仍为27部；本批新增关联的11部沿用ChampionSoft署名。主数据库仍为505部／922条；改名、移植与D.P.S.篇名不增加作品数。",
+      "auditLabel": "第十九批新增16部前身关联作品、28条版本；为3部既有作品补12条发行记录，共新增40条，仅更新本专题。",
+      "auditNote": "专题累计233部／365条版本：主库关联38部／48条，专题补充195部／317条。品牌分项为Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联66部及IMYUIC历史合作1部。主数据库仍为505部／922条；Alicesoft本品牌的主库发行署名作品仍27部。杂志盘每期按一部可玩合集，栏目、改名、移植及再版不增加作品数；攻略盘短篇的独立游戏性未确认，只补内容说明。",
       "entries": [
         {
           "title": "妻みぐい3",
@@ -9993,11 +9993,195 @@
           "relatedIds": [],
           "reason": "主库已收录的ChampionSoft前身作品，本批仅补专题关联；沿用原作品ID、剧情、人物及平台版本，保留当时发行署名。图文指令冒险按用户要求纳入专题。",
           "source": "https://fm-7.com/museum/products/6csi44i0/"
+        },
+        {
+          "title": "マップ-47",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-map47"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 馆藏归实用软件，但明确含猜图游戏，因此纳入。与《コンバット-47》是不同作品；馆藏对《日本列島征服》原型的推测尚未证实。",
+          "source": "https://www.gamepres.org/pc88/library/1983/1983_7.html#map47"
+        },
+        {
+          "title": "熱戦！甲子園",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-nessenkoshien"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 预测和统计构成其玩法，尚未确认直接操纵球员的运动比赛机制。",
+          "source": "https://fm-7.com/museum/products/gif5hboy/"
+        },
+        {
+          "title": "百人一首",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-hyakuninisshu"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 不推定有语音朗读、电脑对战或联网功能。",
+          "source": "https://fm-7.com/museum/products/xr66rz35/"
+        },
+        {
+          "title": "詰碁120",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-tsumego120"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 与1984年《詰碁》分别收录，不将同属围棋题集视为自动再版。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987.html#120"
+        },
+        {
+          "title": "はじめてのテーブルマナー",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-firsttablemanners"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 PC目录把1988年两款教育软件署为アリスソフト，早于本品牌成立；历史作品表将其列在ChampionSoft时期。专题按前身历史关联收录，具体发行署名保留未核实，不擅自改填Alicesoft或ChampionSoft。 未完整核实具体输入形式，不统一标为自由文字指令。",
+          "source": "https://www.gamepres.org/pc88/library/1988/1988_10.html#table"
+        },
+        {
+          "title": "誰も教えてはくれなかった 女性社員を活かす法",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-joseishain"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 PC目录把1988年两款教育软件署为アリスソフト，早于本品牌成立；历史作品表将其列在ChampionSoft时期。专题按前身历史关联收录，具体发行署名保留未核实，不擅自改填Alicesoft或ChampionSoft。 按游戏化职场教材整理，不把现实管理建议当作玩法结论。",
+          "source": "https://www.gamepres.org/pc88/library/1988/1988_10.html#ikasu"
+        },
+        {
+          "title": "ZETA 創刊号",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-zeta1"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 PC目录列1986年7月，另一作品表列6月，FM馆藏未定月份；仅确认年份，不强行统一月份。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986_7.html#zeta"
+        },
+        {
+          "title": "ZETA 創刊2号",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-zeta2"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 FM馆藏列1986年8月，PC目录仅确定1986年。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986.html#zeta2"
+        },
+        {
+          "title": "ZETA No.3",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-zeta3"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 PC目录和FM馆藏均列1986年11月；人物阅读区不另计游戏。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986_11.html#zeta3"
+        },
+        {
+          "title": "ZETA No.4",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-zeta4"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 PC目录列1987年2月；FM馆藏月份为2?月，保留其不确定性。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987_2.html#zeta4"
+        },
+        {
+          "title": "ZETA 第5号",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-zeta5"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 攻略资料列1987年8月及PC-88／FM-7；FM馆藏只确定1987年。",
+          "source": "https://w.atwiki.jp/retropcgame/pages/431.html"
+        },
+        {
+          "title": "Hello! 麻衣子",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-hellomaiko"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 原资料明确有短篇冒险，纳入据此；服装展示与图像日记不各计作品，具体输入方式未核实。",
+          "source": "https://fm-7.com/museum/products/okeodfat/"
+        },
+        {
+          "title": "OMEGA 創刊号",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-omega1"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 1986／1987目录年代冲突已标注；不将不同平台年份自动合成单一首发日期。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987.html#omega"
+        },
+        {
+          "title": "OMEGA 創刊2号",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-omega2"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 两处资料的模特栏目名称略异，均保留为检索别名。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987.html#omega2"
+        },
+        {
+          "title": "OMEGA Vol.3",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-omega3"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 对话内容可确认，键盘文字输入或菜单的具体方式未核实；不直接归类为自由输入指令。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987.html#omega3"
+        },
+        {
+          "title": "LEMONADE 創刊2号",
+          "status": "第十九批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-lemonade2"
+          ],
+          "reason": "确认有可玩内容，按完整发行标题计作品；输入形式与非游戏栏目分别说明。ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 作品表记1989年曾以《女子高生の運動会》单独出售同一游戏内容，合并别名；该次发行的平台及具体日期未核实，暂不增加版本。与LEMONADE创刊号附赠《さらわれた美樹ちゃん》分别整理。",
+          "source": "https://fm-7.com/museum/products/j21cyxwf/"
+        },
+        {
+          "title": "あゆみちゃん物語 ヒントディスク",
+          "status": "第十九批：内容核对／暂不独立计数",
+          "workIds": [],
+          "relatedIds": [],
+          "reason": "攻略附件中的三组短篇并入原作别名与内容说明；未核实独立游戏机制，不拆新作品或新增发行版本。",
+          "source": "https://alicecottage1989.blog.jp/archives/20634219.html"
+        },
+        {
+          "title": "シャッター＆シャッター",
+          "status": "第十九批：内容核对／暂不独立计数",
+          "workIds": [],
+          "relatedIds": [],
+          "reason": "能确认1984年4月PC-88与ACT标签，尚缺具体玩法、操作对象及人物资料，保留核对项，不编造摄影或其他机制。",
+          "source": "https://www.gamepres.org/pc88/library/1984/1984_4.html#shat"
+        },
+        {
+          "title": "ザ・プロボクシング",
+          "status": "第十九批：内容核对／暂不独立计数",
+          "workIds": [],
+          "relatedIds": [],
+          "reason": "历史目录列名，但平台和实际游戏内容尚未核实；不与2000年其他厂商同名拳击游戏混为一作。",
+          "source": "https://w.atwiki.jp/gcmatome/pages/5673.html"
         }
       ],
-      "description": "Alicesoft及历史关联专题：217部作品、325条版本，含文字与菜单指令、角色问答、RPG／SLG、经营模拟、棋类与动作游戏，保留中文检索名、原名、人物与来源。",
+      "description": "Alicesoft及历史关联专题：233部作品、365条版本，含文字与菜单指令、短篇冒险、角色问答、RPG／SLG、经营模拟、棋类与动作游戏，保留中文检索名、原名、人物和来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft的叙事与玩法长期并行。本专题共217部作品，含本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联50部及IMYUIC历史合作1部。早期图文与菜单指令、阅读与养成、问答、经营、棋类和战略各有独立形式；合集内可玩模块与图集、漫画、小说阅读区和预告分开核实。历史署名、发行年冲突与资料缺口分别说明。",
+        "thesis": "Alicesoft的叙事与玩法长期并行。本专题共233部作品，含本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联66部及IMYUIC历史合作1部。文字输入、菜单行动、养成、问答、经营、棋类和战略各有独立形式；杂志盘中的可玩合集与图集、漫画、文章分别确认。历史署名、发行年冲突和资料缺口保留说明。",
         "phases": [
           {
             "period": "1983—1989（前身品牌）",
@@ -10012,6 +10196,13 @@
             "analysis": "《大灾变》用搜寻、研究与嫌疑人问询等阶段组合流程，《暗影猎人》则随场景提供可执行的预设行动。早期领地战略、营业决策与相扑招式又使用不同的输入目标。它们体现前身目录的多种玩法，不能把带有文字界面的作品全部称为自由输入指令冒险。",
             "basis": "编辑观察",
             "source": "https://www.gamepres.org/pc88/library/1984/1984_2.html#cata"
+          },
+          {
+            "period": "1986—1988（前身品牌）",
+            "heading": "杂志盘与故事式学习的组合",
+            "analysis": "ZETA把人物栏目与问答、记忆配对、拼图结合，OMEGA加入人物判断和对话冒险，Hello!麻衣子又用人物特集承载短篇。《女性社員を活かす法》则通过选择行动模拟职场后果。这些作品以不同程序组织互动；同盘的文章与图集也说明，发行标题和游戏模块应分别统计。",
+            "basis": "编辑观察",
+            "source": "https://www.gamepres.org/pc88/library/1986/1986.html#zeta2"
           },
           {
             "period": "1983—1995",
@@ -11528,7 +11719,8 @@
           "titleAliases": [
             "Only You",
             "Only you -リ・クルス-",
-            "Only You －世紀末のジュリエットたち－"
+            "Only You －世紀末のジュリエットたち－",
+            "Only you リベルクルス"
           ],
           "firstYear": 1996,
           "category": "角色扮演／战略模拟",
@@ -11544,7 +11736,7 @@
           "charactersNote": "列出已核对的部分人物，保留日文姓名。",
           "charactersSource": "https://www.alicesoft.com/onlyyou/media.html",
           "synopsis": "格斗部成员魔神勇二的右臂浮现毁灭刻印，被各方当成威胁追杀。他在伙伴相助下反抗被规定的命运；玩家在有限日程中选择地点与事件，通过战斗成长，走向不同结局。",
-          "notes": "1996年会员版与2001年《リ・クルス》重制版合并；剧情及玩法介绍主要依据重制版官方资料。旧版日期采用留存目录所引厂商35周年回顾的1996-01-19。",
+          "notes": "1996年会员版与2001年《リ・クルス》重制版合并；剧情及玩法介绍主要依据重制版官方资料。旧版日期采用留存目录所引厂商35周年回顾的1996-01-19。 PS2《Only you リベルクルス》及两次廉价版合并此作，保留GeneX发行署名。",
           "source": "https://www.alicesoft.com/onlyyou/media.html",
           "versions": [
             {
@@ -11568,6 +11760,39 @@
               "voice": "无",
               "differences": "2001-07-26《Only you -リ・クルス-》发行，调整并增补剧情。官网明确标注无角色配音。",
               "source": "https://www.alicesoft.com/onlyyou/media.html"
+            },
+            {
+              "id": "alicesoft-extra-onlyyou-v3",
+              "workId": "alicesoft-extra-onlyyou",
+              "year": 2002,
+              "platform": "PlayStation 2",
+              "publisher": "GeneX（ジェネックス）",
+              "kind": "PS2移植版",
+              "voice": "有",
+              "differences": "2002-10-31《Only you リベルクルス》；发行署名为GeneX（ジェネックス），增加角色配音和动画并调整画面。廉价版不计新作品。",
+              "source": "https://alicecottage1989.blog.jp/archives/37863815.html"
+            },
+            {
+              "id": "alicesoft-extra-onlyyou-v4",
+              "workId": "alicesoft-extra-onlyyou",
+              "year": 2003,
+              "platform": "PlayStation 2",
+              "publisher": "GeneX（ジェネックス）",
+              "kind": "PS2廉价再版",
+              "voice": "有",
+              "differences": "2003-04-24《Only you リベルクルス》；发行署名为GeneX（ジェネックス），增加角色配音和动画并调整画面。廉价版不计新作品。",
+              "source": "https://alicecottage1989.blog.jp/archives/37863815.html"
+            },
+            {
+              "id": "alicesoft-extra-onlyyou-v5",
+              "workId": "alicesoft-extra-onlyyou",
+              "year": 2005,
+              "platform": "PlayStation 2",
+              "publisher": "GeneX（ジェネックス）",
+              "kind": "PS2 BEST HIT再版",
+              "voice": "有",
+              "differences": "2005-10-20《Only you リベルクルス》；发行署名为GeneX（ジェネックス），增加角色配音和动画并调整画面。廉价版不计新作品。",
+              "source": "https://alicecottage1989.blog.jp/archives/37863815.html"
             }
           ]
         },
@@ -13585,7 +13810,12 @@
           "originalTitle": "あゆみちゃん物語",
           "chineseTitleType": "站内编辑译名",
           "titleAliases": [
-            "Ayumi-chan Monogatari"
+            "Ayumi-chan Monogatari",
+            "あゆみちゃん物語 実写版",
+            "あゆみちゃん物語 ヒントディスク",
+            "あゆみ短編物語",
+            "親父の愛物語",
+            "正体不明の外伝"
           ],
           "firstYear": 1993,
           "category": "叙事／养成冒险",
@@ -13598,7 +13828,7 @@
           "charactersNote": "保留女主角名字あゆみ；姓氏及主人公姓名未在本次来源中核实。",
           "charactersSource": "https://w.atwiki.jp/gcmatome/pages/4050.html",
           "synopsis": "主人公与步围绕日常行动和交往度过时间，行动选择与状态变化解锁不同事件。作品强调反复进行的关系模拟，而非以完整主线结局收束的故事。",
-          "notes": "明确标为开放式养成：原版没有通常意义上的结局，不能当作完整阅读视觉小说。原型、附赠短篇与移植不拆成新作品；本次仅记录核对到的原版发行。",
+          "notes": "原作是开放式参数养成，不作为完整主线阅读小说。第十九批补四条本品牌平台发行及三条外部出版商实写改版，改版同剧本不拆新作品。1993年通販攻略盘内有「あゆみ短編物語」「親父の愛物語」「正体不明の外伝」；最后一项为原型设定的文字小说，其他短篇尚未核实独立游戏机制，作为附件内容记录，不另计作品或版本。亲父篇人物为玩具店主人みゆき（男性）及少年；保留档案信息，不补造互动玩法。攻略盘内容也附于后来的256色／Windows版。附加内容来源：https://alicecottage1989.blog.jp/archives/20634219.html ；https://chaser.my.coocan.jp/guide/alice_so.htm 。未将爱好者移植工具包计为厂商发行。",
           "source": "https://w.atwiki.jp/gcmatome/pages/4050.html",
           "versions": [
             {
@@ -13611,6 +13841,83 @@
               "source": "https://w.atwiki.jp/gcmatome/pages/4050.html",
               "id": "alicesoft-extra-ayumichanmonogatari-v1",
               "workId": "alicesoft-extra-ayumichanmonogatari"
+            },
+            {
+              "id": "alicesoft-extra-ayumichanmonogatari-v2",
+              "workId": "alicesoft-extra-ayumichanmonogatari",
+              "year": 1993,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1993-10-15；按历史档案记录，原作相同不拆新作。256色版及Windows版包含原攻略盘的附加内容。",
+              "source": "https://alicecottage1989.blog.jp/archives/20485571.html"
+            },
+            {
+              "id": "alicesoft-extra-ayumichanmonogatari-v3",
+              "workId": "alicesoft-extra-ayumichanmonogatari",
+              "year": 1994,
+              "platform": "X68000",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1994-02-15；按历史档案记录，原作相同不拆新作。256色版及Windows版包含原攻略盘的附加内容。",
+              "source": "https://alicecottage1989.blog.jp/archives/20485571.html"
+            },
+            {
+              "id": "alicesoft-extra-ayumichanmonogatari-v4",
+              "workId": "alicesoft-extra-ayumichanmonogatari",
+              "year": 1994,
+              "platform": "PC-98（256色版）",
+              "publisher": "Alicesoft",
+              "kind": "256色会员通販版",
+              "voice": "未核实",
+              "differences": "1994年12月（具体日未核实）；按历史档案记录，原作相同不拆新作。256色版及Windows版包含原攻略盘的附加内容。",
+              "source": "https://alicecottage1989.blog.jp/archives/20485571.html"
+            },
+            {
+              "id": "alicesoft-extra-ayumichanmonogatari-v5",
+              "workId": "alicesoft-extra-ayumichanmonogatari",
+              "year": 1996,
+              "platform": "Windows 3.1／Windows 95",
+              "publisher": "Alicesoft",
+              "kind": "Windows移植版",
+              "voice": "未核实",
+              "differences": "1996-06-07；按历史档案记录，原作相同不拆新作。256色版及Windows版包含原攻略盘的附加内容。",
+              "source": "https://alicecottage1989.blog.jp/archives/20485571.html"
+            },
+            {
+              "id": "alicesoft-extra-ayumichanmonogatari-v6",
+              "workId": "alicesoft-extra-ayumichanmonogatari",
+              "year": 1995,
+              "platform": "PC-98",
+              "publisher": "白夜書房（档案记作白夜書店）",
+              "kind": "外部发行实写改版",
+              "voice": "未核实",
+              "differences": "1995-01-12《あゆみちゃん物語 実写版》；同剧本及系统，图像替换为摄影素材，沿用原作计数。此为外部出版商版本，非Alicesoft自行发行；不推定其他制作归属。",
+              "source": "https://alicecottage1989.blog.jp/archives/20634266.html"
+            },
+            {
+              "id": "alicesoft-extra-ayumichanmonogatari-v7",
+              "workId": "alicesoft-extra-ayumichanmonogatari",
+              "year": 1995,
+              "platform": "FM TOWNS",
+              "publisher": "コアマガジン",
+              "kind": "外部发行实写改版",
+              "voice": "未核实",
+              "differences": "1995年5月（具体日未核实）《あゆみちゃん物語 実写版》；同剧本及系统，图像替换为摄影素材，沿用原作计数。此为外部出版商版本，非Alicesoft自行发行；不推定其他制作归属。",
+              "source": "https://alicecottage1989.blog.jp/archives/20634266.html"
+            },
+            {
+              "id": "alicesoft-extra-ayumichanmonogatari-v8",
+              "workId": "alicesoft-extra-ayumichanmonogatari",
+              "year": 1995,
+              "platform": "Windows 3.1",
+              "publisher": "コアマガジン",
+              "kind": "外部发行实写改版",
+              "voice": "未核实",
+              "differences": "1995-09-01《あゆみちゃん物語 実写版》；同剧本及系统，图像替换为摄影素材，沿用原作计数。此为外部出版商版本，非Alicesoft自行发行；不推定其他制作归属。",
+              "source": "https://alicecottage1989.blog.jp/archives/20634266.html"
             }
           ]
         },
@@ -14588,7 +14895,7 @@
           "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
           "charactersSource": "https://ja.wikipedia.org/wiki/D.P.S.",
           "synopsis": "三篇故事分别围绕玛利亚与出现异常的机器人、森林中遭遇危险的伙伴，以及袭击宇宙船的女海盗展开。梦境程序将机械、求生和太空题材并置。",
-          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。 收录篇名：マリアとカンパン、うれしたのし海賊稼業、遠野の森；这些篇名支持本页查找，不单独增加作品数。",
+          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。 收录篇名：マリアとカンパン、うれしたのし海賊稼業、遠野の森；这些篇名支持本页查找，不单独增加作品数。 第十九批补FM TOWNS、X68000版；PC-98日期修订为档案所列1992-11-14。未找到MSX2或PC-88VA发行依据，暂不补这两个平台。",
           "source": "https://www.mobygames.com/game/47528/super-dps/",
           "versions": [
             {
@@ -14597,8 +14904,8 @@
               "publisher": "Alicesoft",
               "kind": "原版短篇集",
               "voice": "未核实",
-              "differences": "1992年9月发行；本次列PC-98记录，各机种先后与配音未逐版核实。",
-              "source": "https://w.atwiki.jp/gcmatome/pages/5673.html",
+              "differences": "历史档案列PC-98版1992-11-14，与原先笼统9月记录不同；9月是FM TOWNS档案记录。本版采用明确机种日期，配音未核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/19470339.html",
               "id": "alicesoft-extra-superdps-v1",
               "workId": "alicesoft-extra-superdps"
             },
@@ -14612,6 +14919,28 @@
               "source": "https://alicecottage1989.blog.jp/archives/23969795.html",
               "id": "alicesoft-extra-superdps-v2",
               "workId": "alicesoft-extra-superdps"
+            },
+            {
+              "id": "alicesoft-extra-superdps-v3",
+              "workId": "alicesoft-extra-superdps",
+              "year": 1992,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1992-09-15记录据历史档案；同内容短篇集，仍计原作。档案另记会志存在11月的发行日异文，具体先后待进一步核对。",
+              "source": "https://alicecottage1989.blog.jp/archives/19470339.html"
+            },
+            {
+              "id": "alicesoft-extra-superdps-v4",
+              "workId": "alicesoft-extra-superdps",
+              "year": 1992,
+              "platform": "X68000",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1992-10-15记录据历史档案；同内容短篇集，仍计原作。档案另记会志存在11月的发行日异文，具体先后待进一步核对。",
+              "source": "https://alicecottage1989.blog.jp/archives/19470339.html"
             }
           ]
         },
@@ -17970,12 +18299,749 @@
               "source": "https://www.gamepres.org/pc88/library/1988/1988.html#shadow"
             }
           ]
+        },
+        {
+          "id": "alicesoft-extra-map47",
+          "title": "地图47",
+          "chineseTitle": "地图47",
+          "originalTitle": "マップ-47",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "マップ47",
+            "マップ－４７",
+            "Map 47"
+          ],
+          "firstYear": 1983,
+          "category": "益智／桌面游戏",
+          "subcategory": "地图学习与地理问答",
+          "genre": "日本地图／县名辨认",
+          "characters": [
+            "地图问答参与者（玩家）"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1983/1983_7.html#map47",
+          "synopsis": "通过日本各县地图进行地理学习和地图辨认问答；学习资料与猜图游戏同盘提供。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 馆藏归实用软件，但明确含猜图游戏，因此纳入。与《コンバット-47》是不同作品；馆藏对《日本列島征服》原型的推测尚未证实。 检索别名／栏目名：マップ47、マップ－４７、Map 47；栏目名只供查找，不单独增加作品数。",
+          "source": "https://www.gamepres.org/pc88/library/1983/1983_7.html#map47",
+          "versions": [
+            {
+              "id": "alicesoft-extra-map47-v1",
+              "workId": "alicesoft-extra-map47",
+              "year": 1983,
+              "platform": "PC-8801",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "PC目录列1983年7月，PC-8801以后。",
+              "source": "https://www.gamepres.org/pc88/library/1983/1983_7.html#map47"
+            },
+            {
+              "id": "alicesoft-extra-map47-v2",
+              "workId": "alicesoft-extra-map47",
+              "year": 1983,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "FM馆藏确认此平台；后续兼容机型和磁盘尺寸不另计版本，角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/jx54jvvz/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-nessenkoshien",
+          "title": "热战！甲子园",
+          "chineseTitle": "热战！甲子园",
+          "originalTitle": "熱戦！甲子園",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "熱戦甲子園"
+          ],
+          "firstYear": 1983,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "棒球队预测与积分统计",
+          "genre": "草地棒球／胜者预测",
+          "characters": [
+            "用积分预测优胜队的玩家"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1983/1983_7.html#nessen",
+          "synopsis": "选择草地棒球赛事中的优胜队并押上游戏内积分，软件同时提供结果统计。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 预测和统计构成其玩法，尚未确认直接操纵球员的运动比赛机制。 检索别名／栏目名：熱戦甲子園；栏目名只供查找，不单独增加作品数。",
+          "source": "https://fm-7.com/museum/products/gif5hboy/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-nessenkoshien-v1",
+              "workId": "alicesoft-extra-nessenkoshien",
+              "year": 1983,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "馆藏列1983年，月份标作7?月。FM馆藏确认此平台；后续兼容机型和磁盘尺寸不另计版本，角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/gif5hboy/"
+            },
+            {
+              "id": "alicesoft-extra-nessenkoshien-v2",
+              "workId": "alicesoft-extra-nessenkoshien",
+              "year": 1983,
+              "platform": "PC-8001",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "PC目录列1983年7月，明确是PC-8001以后；不写成PC-88。",
+              "source": "https://www.gamepres.org/pc88/library/1983/1983_7.html#nessen"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-hyakuninisshu",
+          "title": "小仓百人一首",
+          "chineseTitle": "小仓百人一首",
+          "originalTitle": "百人一首",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Hyakunin Isshu"
+          ],
+          "firstYear": 1983,
+          "category": "益智／桌面游戏",
+          "subcategory": "百人一首桌面游戏",
+          "genre": "和歌／传统牌类",
+          "characters": [
+            "百人一首参与者（玩家）"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://fm-7.com/museum/products/xr66rz35/",
+          "synopsis": "以小仓百人一首为内容的桌面游戏；馆藏指出画面文字以片假名显示。具体取牌输入方式未核实。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 不推定有语音朗读、电脑对战或联网功能。 检索别名／栏目名：Hyakunin Isshu；栏目名只供查找，不单独增加作品数。",
+          "source": "https://fm-7.com/museum/products/xr66rz35/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-hyakuninisshu-v1",
+              "workId": "alicesoft-extra-hyakuninisshu",
+              "year": 1983,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "馆藏列1983年，作者森泉平助；仅记录已确认FM版。FM馆藏确认此平台；后续兼容机型和磁盘尺寸不另计版本，角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/xr66rz35/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-tsumego120",
+          "title": "围棋死活题120",
+          "chineseTitle": "围棋死活题120",
+          "originalTitle": "詰碁120",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Tsumego 120"
+          ],
+          "firstYear": 1987,
+          "category": "益智／桌面游戏",
+          "subcategory": "围棋题集",
+          "genre": "死活／劫争",
+          "characters": [
+            "围棋题解答者（玩家）"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1987/1987.html#120",
+          "synopsis": "关西棋院相关棋士参与制作的120道围棋题，分为死、劫与活三类局面。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 与1984年《詰碁》分别收录，不将同属围棋题集视为自动再版。 检索别名／栏目名：Tsumego 120；栏目名只供查找，不单独增加作品数。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987.html#120",
+          "versions": [
+            {
+              "id": "alicesoft-extra-tsumego120-v1",
+              "workId": "alicesoft-extra-tsumego120",
+              "year": 1987,
+              "platform": "PC-8801",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "PC目录列1987年，PC-8801以后，月份未核实。",
+              "source": "https://www.gamepres.org/pc88/library/1987/1987.html#120"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-firsttablemanners",
+          "title": "初学餐桌礼仪",
+          "chineseTitle": "初学餐桌礼仪",
+          "originalTitle": "はじめてのテーブルマナー",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 1988,
+          "category": "叙事／养成冒险",
+          "subcategory": "故事式礼仪学习",
+          "genre": "自助餐／西式餐饮／会席",
+          "characters": [
+            "公司继承人（玩家）",
+            "氷室",
+            "高橋苑子",
+            "伊集院麗子"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1988/1988_10.html#table",
+          "synopsis": "玩家扮演公司继承人，在前辈、恋人及旧华族人物的帮助下，随故事学习不同餐饮场合的礼仪。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 PC目录把1988年两款教育软件署为アリスソフト，早于本品牌成立；历史作品表将其列在ChampionSoft时期。专题按前身历史关联收录，具体发行署名保留未核实，不擅自改填Alicesoft或ChampionSoft。 未完整核实具体输入形式，不统一标为自由文字指令。 检索别名／栏目名：无额外别名；栏目名只供查找，不单独增加作品数。",
+          "source": "https://www.gamepres.org/pc88/library/1988/1988_10.html#table",
+          "versions": [
+            {
+              "id": "alicesoft-extra-firsttablemanners-v1",
+              "workId": "alicesoft-extra-firsttablemanners",
+              "year": 1988,
+              "platform": "PC-8801mkIISR",
+              "publisher": "未核实（1988年前身关联；目录署名冲突）",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1988年10月记录；平台须为mkIISR以后。PC目录把1988年两款教育软件署为アリスソフト，早于本品牌成立；历史作品表将其列在ChampionSoft时期。专题按前身历史关联收录，具体发行署名保留未核实，不擅自改填Alicesoft或ChampionSoft。",
+              "source": "https://www.gamepres.org/pc88/library/1988/1988_10.html#table"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-joseishain",
+          "title": "发挥女性员工的才能",
+          "chineseTitle": "发挥女性员工的才能",
+          "originalTitle": "誰も教えてはくれなかった 女性社員を活かす法",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "女性社員を活かす法"
+          ],
+          "firstYear": 1988,
+          "category": "经营／职业模拟",
+          "subcategory": "选择行动的职场模拟",
+          "genre": "营业管理／团队关系",
+          "characters": [
+            "化妆品公司营业课长（玩家）",
+            "木島明",
+            "十名女性员工（姓名未核实）"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1988/1988_10.html#ikasu",
+          "synopsis": "营业课长管理十名女性员工，参考文案工作者木岛明的建议选择行动，争取团队信任；决策可能导致降职或调任。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 PC目录把1988年两款教育软件署为アリスソフト，早于本品牌成立；历史作品表将其列在ChampionSoft时期。专题按前身历史关联收录，具体发行署名保留未核实，不擅自改填Alicesoft或ChampionSoft。 按游戏化职场教材整理，不把现实管理建议当作玩法结论。 检索别名／栏目名：女性社員を活かす法；栏目名只供查找，不单独增加作品数。",
+          "source": "https://www.gamepres.org/pc88/library/1988/1988_10.html#ikasu",
+          "versions": [
+            {
+              "id": "alicesoft-extra-joseishain-v1",
+              "workId": "alicesoft-extra-joseishain",
+              "year": 1988,
+              "platform": "PC-8801mkIISR",
+              "publisher": "未核实（1988年前身关联；目录署名冲突）",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1988年10月记录；平台须为mkIISR以后。PC目录把1988年两款教育软件署为アリスソフト，早于本品牌成立；历史作品表将其列在ChampionSoft时期。专题按前身历史关联收录，具体发行署名保留未核实，不擅自改填Alicesoft或ChampionSoft。",
+              "source": "https://www.gamepres.org/pc88/library/1988/1988_10.html#ikasu"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-zeta1",
+          "title": "ZETA：创刊号",
+          "chineseTitle": "ZETA：创刊号",
+          "originalTitle": "ZETA 創刊号",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ゼータ 創刊号",
+            "ZETA創刊号"
+          ],
+          "firstYear": 1986,
+          "category": "益智／桌面游戏",
+          "subcategory": "问答／拼图／互动合集",
+          "genre": "人物栏目／综合小游戏",
+          "characters": [
+            "渡瀬麻衣子",
+            "ZETA问答参与者（玩家）"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1986/1986_7.html#zeta",
+          "synopsis": "初期图文偶像杂志盘，包含问答与人物互动内容；图文阅读和可玩栏目并存。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 PC目录列1986年7月，另一作品表列6月，FM馆藏未定月份；仅确认年份，不强行统一月份。 检索别名／栏目名：ゼータ 創刊号、ZETA創刊号；栏目名只供查找，不单独增加作品数。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986_7.html#zeta",
+          "versions": [
+            {
+              "id": "alicesoft-extra-zeta1-v1",
+              "workId": "alicesoft-extra-zeta1",
+              "year": 1986,
+              "platform": "PC-8801",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "PC目录列1986年7月，另一作品表列6月，FM馆藏未定月份；仅确认年份，不强行统一月份。",
+              "source": "https://www.gamepres.org/pc88/library/1986/1986_7.html#zeta"
+            },
+            {
+              "id": "alicesoft-extra-zeta1-v2",
+              "workId": "alicesoft-extra-zeta1",
+              "year": 1986,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "PC目录列1986年7月，另一作品表列6月，FM馆藏未定月份；仅确认年份，不强行统一月份。 FM馆藏确认此平台；后续兼容机型和磁盘尺寸不另计版本，角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/kdqp0jsu/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-zeta2",
+          "title": "ZETA：创刊2号",
+          "chineseTitle": "ZETA：创刊2号",
+          "originalTitle": "ZETA 創刊2号",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ゼータ 2号",
+            "ZETA創刊２号",
+            "ZETAクイズ",
+            "下着講座"
+          ],
+          "firstYear": 1986,
+          "category": "益智／桌面游戏",
+          "subcategory": "问答／拼图／互动合集",
+          "genre": "人物栏目／综合小游戏",
+          "characters": [
+            "美樹",
+            "麻衣子",
+            "みな穂"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1986/1986.html#zeta2",
+          "synopsis": "人物栏目中加入问答和记忆配对游戏，玩家与三名人物进行神经衰弱式配对挑战。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 FM馆藏列1986年8月，PC目录仅确定1986年。 检索别名／栏目名：ゼータ 2号、ZETA創刊２号、ZETAクイズ、下着講座；栏目名只供查找，不单独增加作品数。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986.html#zeta2",
+          "versions": [
+            {
+              "id": "alicesoft-extra-zeta2-v1",
+              "workId": "alicesoft-extra-zeta2",
+              "year": 1986,
+              "platform": "PC-8801",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "FM馆藏列1986年8月，PC目录仅确定1986年。",
+              "source": "https://www.gamepres.org/pc88/library/1986/1986.html#zeta2"
+            },
+            {
+              "id": "alicesoft-extra-zeta2-v2",
+              "workId": "alicesoft-extra-zeta2",
+              "year": 1986,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "FM馆藏列1986年8月，PC目录仅确定1986年。 FM馆藏确认此平台；后续兼容机型和磁盘尺寸不另计版本，角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/k234061y/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-zeta3",
+          "title": "ZETA：第3号",
+          "chineseTitle": "ZETA：第3号",
+          "originalTitle": "ZETA No.3",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ゼータ 3号",
+            "ZETA第3号",
+            "ZETAギャル１０大ニュース",
+            "ジグゾーパズル"
+          ],
+          "firstYear": 1986,
+          "category": "益智／桌面游戏",
+          "subcategory": "问答／拼图／互动合集",
+          "genre": "人物栏目／综合小游戏",
+          "characters": [
+            "ZETA人物拼图的玩家"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1986/1986_11.html#zeta3",
+          "synopsis": "将人物新闻与图文栏目和拼图游戏组合，玩家在拼图模块完成图像拼接。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 PC目录和FM馆藏均列1986年11月；人物阅读区不另计游戏。 检索别名／栏目名：ゼータ 3号、ZETA第3号、ZETAギャル１０大ニュース、ジグゾーパズル；栏目名只供查找，不单独增加作品数。",
+          "source": "https://www.gamepres.org/pc88/library/1986/1986_11.html#zeta3",
+          "versions": [
+            {
+              "id": "alicesoft-extra-zeta3-v1",
+              "workId": "alicesoft-extra-zeta3",
+              "year": 1986,
+              "platform": "PC-8801",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "PC目录和FM馆藏均列1986年11月；人物阅读区不另计游戏。",
+              "source": "https://www.gamepres.org/pc88/library/1986/1986_11.html#zeta3"
+            },
+            {
+              "id": "alicesoft-extra-zeta3-v2",
+              "workId": "alicesoft-extra-zeta3",
+              "year": 1986,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "PC目录和FM馆藏均列1986年11月；人物阅读区不另计游戏。 FM馆藏确认此平台；后续兼容机型和磁盘尺寸不另计版本，角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/oaxhct3t/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-zeta4",
+          "title": "ZETA：第4号",
+          "chineseTitle": "ZETA：第4号",
+          "originalTitle": "ZETA No.4",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ゼータ 4号",
+            "ZETA第4号",
+            "THE間違い探し",
+            "恭子ちゃんとデート"
+          ],
+          "firstYear": 1987,
+          "category": "益智／桌面游戏",
+          "subcategory": "问答／拼图／互动合集",
+          "genre": "人物栏目／综合小游戏",
+          "characters": [
+            "恭子",
+            "图像找不同与拼图的玩家"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1987/1987_2.html#zeta4",
+          "synopsis": "磁盘包含图像找不同、拼图及与恭子的约会栏目，配合同期纸本的人物采访和漫画。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 PC目录列1987年2月；FM馆藏月份为2?月，保留其不确定性。 检索别名／栏目名：ゼータ 4号、ZETA第4号、THE間違い探し、恭子ちゃんとデート；栏目名只供查找，不单独增加作品数。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987_2.html#zeta4",
+          "versions": [
+            {
+              "id": "alicesoft-extra-zeta4-v1",
+              "workId": "alicesoft-extra-zeta4",
+              "year": 1987,
+              "platform": "PC-8801",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "PC目录列1987年2月；FM馆藏月份为2?月，保留其不确定性。",
+              "source": "https://www.gamepres.org/pc88/library/1987/1987_2.html#zeta4"
+            },
+            {
+              "id": "alicesoft-extra-zeta4-v2",
+              "workId": "alicesoft-extra-zeta4",
+              "year": 1987,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "PC目录列1987年2月；FM馆藏月份为2?月，保留其不确定性。 FM馆藏确认此平台；后续兼容机型和磁盘尺寸不另计版本，角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/jf2jis14/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-zeta5",
+          "title": "ZETA：第5号",
+          "chineseTitle": "ZETA：第5号",
+          "originalTitle": "ZETA 第5号",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "ゼータ 5号",
+            "ZETA第5号",
+            "ZETAクイズ100",
+            "海での女の子ナンパ術",
+            "ZETA GAL 下着大図鑑"
+          ],
+          "firstYear": 1987,
+          "category": "益智／桌面游戏",
+          "subcategory": "问答／拼图／互动合集",
+          "genre": "人物栏目／综合小游戏",
+          "characters": [
+            "美樹",
+            "由貴子",
+            "海滩交流模拟的玩家"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://w.atwiki.jp/retropcgame/pages/431.html",
+          "synopsis": "同盘含随机四选一问答、时机操作小游戏和海滩交流模拟；问答通过连续答对推进。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 攻略资料列1987年8月及PC-88／FM-7；FM馆藏只确定1987年。 检索别名／栏目名：ゼータ 5号、ZETA第5号、ZETAクイズ100、海での女の子ナンパ術、ZETA GAL 下着大図鑑；栏目名只供查找，不单独增加作品数。",
+          "source": "https://w.atwiki.jp/retropcgame/pages/431.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-zeta5-v1",
+              "workId": "alicesoft-extra-zeta5",
+              "year": 1987,
+              "platform": "PC-8801",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "攻略资料列1987年8月及PC-88／FM-7；FM馆藏只确定1987年。",
+              "source": "https://w.atwiki.jp/retropcgame/pages/431.html"
+            },
+            {
+              "id": "alicesoft-extra-zeta5-v2",
+              "workId": "alicesoft-extra-zeta5",
+              "year": 1987,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "攻略资料列1987年8月及PC-88／FM-7；FM馆藏只确定1987年。 FM馆藏确认此平台；后续兼容机型和磁盘尺寸不另计版本，角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/yt8u5vn3/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-hellomaiko",
+          "title": "你好！麻衣子",
+          "chineseTitle": "你好！麻衣子",
+          "originalTitle": "Hello! 麻衣子",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Hello!麻衣子",
+            "ようこそ麻衣子の部屋へ…",
+            "麻衣子水着ファッションショー",
+            "麻衣子のグラフィック絵日記"
+          ],
+          "firstYear": 1987,
+          "category": "叙事／养成冒险",
+          "subcategory": "杂志附盘短篇冒险",
+          "genre": "人物访谈式栏目／短篇",
+          "characters": [
+            "渡瀬麻衣子"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://fm-7.com/museum/products/okeodfat/",
+          "synopsis": "以渡濑麻衣子为中心的ZETA纪念特集，包含进入麻衣子房间的短篇冒险，另附服装展示与图像日记。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 原资料明确有短篇冒险，纳入据此；服装展示与图像日记不各计作品，具体输入方式未核实。 检索别名／栏目名：Hello!麻衣子、ようこそ麻衣子の部屋へ…、麻衣子水着ファッションショー、麻衣子のグラフィック絵日記；栏目名只供查找，不单独增加作品数。",
+          "source": "https://fm-7.com/museum/products/okeodfat/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-hellomaiko-v1",
+              "workId": "alicesoft-extra-hellomaiko",
+              "year": 1987,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "FM馆藏确认此平台；后续兼容机型和磁盘尺寸不另计版本，角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/okeodfat/"
+            },
+            {
+              "id": "alicesoft-extra-hellomaiko-v2",
+              "workId": "alicesoft-extra-hellomaiko",
+              "year": 1987,
+              "platform": "PC-8801",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "PC目录确认1987年、PC-8801以后；月份未核实。",
+              "source": "https://www.gamepres.org/pc88/library/1987/1987.html#hello"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-omega1",
+          "title": "OMEGA：创刊号",
+          "chineseTitle": "OMEGA：创刊号",
+          "originalTitle": "OMEGA 創刊号",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "オメガ 創刊号",
+            "OMEGA創刊号"
+          ],
+          "firstYear": 1986,
+          "category": "经营／职业模拟",
+          "subcategory": "人物判断与人生模拟合集",
+          "genre": "杂志／人生选择",
+          "characters": [
+            "人物判断与人生模拟的玩家"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1987/1987.html#omega",
+          "synopsis": "杂志盘结合人物行为观察栏目与人生模拟游戏，玩家在不同程序中体验人物判断和模拟流程。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 1986／1987目录年代冲突已标注；不将不同平台年份自动合成单一首发日期。 检索别名／栏目名：オメガ 創刊号、OMEGA創刊号；栏目名只供查找，不单独增加作品数。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987.html#omega",
+          "versions": [
+            {
+              "id": "alicesoft-extra-omega1-v1",
+              "workId": "alicesoft-extra-omega1",
+              "year": 1986,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "FM馆藏列1986年，月份未核实。FM馆藏确认此平台；后续兼容机型和磁盘尺寸不另计版本，角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/82cytiv4/"
+            },
+            {
+              "id": "alicesoft-extra-omega1-v2",
+              "workId": "alicesoft-extra-omega1",
+              "year": 1987,
+              "platform": "PC-8801",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "PC目录归入1987年，早期历史表及FM馆藏列1986年；保留平台年代差异，PC具体发行年仍需包装复核。",
+              "source": "https://www.gamepres.org/pc88/library/1987/1987.html#omega"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-omega2",
+          "title": "OMEGA：创刊2号",
+          "chineseTitle": "OMEGA：创刊2号",
+          "originalTitle": "OMEGA 創刊2号",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "オメガ 2号",
+            "OMEGA創刊２号",
+            "モデル業界へのラブアタック",
+            "モデル業へのラブアタック",
+            "女子大生尚子の一日",
+            "21世紀オフィスラブを考える",
+            "オフィスラブ・シミュレーション"
+          ],
+          "firstYear": 1987,
+          "category": "益智／桌面游戏",
+          "subcategory": "人物问答与模拟合集",
+          "genre": "模特辨认／日常行动",
+          "characters": [
+            "尚子",
+            "模特辨认参与者（玩家）"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1987/1987.html#omega2",
+          "synopsis": "包含辨认真正模特的问答、跟随大学生日常行动回答问题的程序，以及职场主题阅读和模拟栏目。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 两处资料的模特栏目名称略异，均保留为检索别名。 检索别名／栏目名：オメガ 2号、OMEGA創刊２号、モデル業界へのラブアタック、モデル業へのラブアタック、女子大生尚子の一日、21世紀オフィスラブを考える、オフィスラブ・シミュレーション；栏目名只供查找，不单独增加作品数。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987.html#omega2",
+          "versions": [
+            {
+              "id": "alicesoft-extra-omega2-v1",
+              "workId": "alicesoft-extra-omega2",
+              "year": 1987,
+              "platform": "PC-8801",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "PC目录列1987年、PC-8801以后；月份未核实。",
+              "source": "https://www.gamepres.org/pc88/library/1987/1987.html#omega2"
+            },
+            {
+              "id": "alicesoft-extra-omega2-v2",
+              "workId": "alicesoft-extra-omega2",
+              "year": 1987,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "FM馆藏确认此平台；后续兼容机型和磁盘尺寸不另计版本，角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/8poscjog/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-omega3",
+          "title": "OMEGA：第3号",
+          "chineseTitle": "OMEGA：第3号",
+          "originalTitle": "OMEGA Vol.3",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "オメガ 3号",
+            "OMEGA第3号",
+            "エロスの館",
+            "受付嬢にアタック",
+            "大阪城アドベンチャー"
+          ],
+          "firstYear": 1987,
+          "category": "叙事／养成冒险",
+          "subcategory": "人物问答与对话冒险合集",
+          "genre": "职业辨认／大阪城交流",
+          "characters": [
+            "接待与对话模块的玩家",
+            "大阪城中遇到的人物（姓名未核实）"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1987/1987.html#omega3",
+          "synopsis": "收录人物职业辨认问答、大阪城场景下与人物交谈的冒险，以及另一可玩模块，共三款游戏配合杂志阅读。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 对话内容可确认，键盘文字输入或菜单的具体方式未核实；不直接归类为自由输入指令。 检索别名／栏目名：オメガ 3号、OMEGA第3号、エロスの館、受付嬢にアタック、大阪城アドベンチャー；栏目名只供查找，不单独增加作品数。",
+          "source": "https://www.gamepres.org/pc88/library/1987/1987.html#omega3",
+          "versions": [
+            {
+              "id": "alicesoft-extra-omega3-v1",
+              "workId": "alicesoft-extra-omega3",
+              "year": 1987,
+              "platform": "PC-8801",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "PC目录列1987年、PC-8801以后；月份未核实。",
+              "source": "https://www.gamepres.org/pc88/library/1987/1987.html#omega3"
+            },
+            {
+              "id": "alicesoft-extra-omega3-v2",
+              "workId": "alicesoft-extra-omega3",
+              "year": 1987,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "FM馆藏确认此平台；后续兼容机型和磁盘尺寸不另计版本，角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/xy5gcwzj/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-lemonade2",
+          "title": "LEMONADE：柠檬女孩运动会",
+          "chineseTitle": "LEMONADE：柠檬女孩运动会",
+          "originalTitle": "LEMONADE 創刊2号",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "レモネード２",
+            "レモネード杯争奪レモンギャル大運動会",
+            "竜神池ゲーム",
+            "うさぎとカメの×××ゲーム",
+            "女子高生の運動会"
+          ],
+          "firstYear": 1987,
+          "category": "动作／休闲游戏",
+          "subcategory": "五款运动主题小游戏集",
+          "genre": "杂志／运动会",
+          "characters": [
+            "柠檬女孩运动会参与者（玩家）"
+          ],
+          "charactersNote": "仅列来源确认的人物或玩家身份；没有实名人物的棋类、问答与动作模块按操作身份说明。",
+          "charactersSource": "https://fm-7.com/museum/products/j21cyxwf/",
+          "synopsis": "杂志附盘提供五款小游戏，已确认包括龙神池游戏和兔子与乌龟主题游戏；整体采用女孩运动会主题。",
+          "notes": "ChampionSoft前身历史关联，按当时品牌整理。中文名称为站内编辑译名；未核实的配音、角色姓名和操作细节不作推断。 杂志与磁盘合售，按一期可玩程序合集计一部。篇名加入本页查找，不把图集、文章或同盘模块逐项增加作品数。 作品表记1989年曾以《女子高生の運動会》单独出售同一游戏内容，合并别名；该次发行的平台及具体日期未核实，暂不增加版本。与LEMONADE创刊号附赠《さらわれた美樹ちゃん》分别整理。 检索别名／栏目名：レモネード２、レモネード杯争奪レモンギャル大運動会、竜神池ゲーム、うさぎとカメの×××ゲーム、女子高生の運動会；栏目名只供查找，不单独增加作品数。",
+          "source": "https://fm-7.com/museum/products/j21cyxwf/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-lemonade2-v1",
+              "workId": "alicesoft-extra-lemonade2",
+              "year": 1987,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "FM馆藏确认此平台；后续兼容机型和磁盘尺寸不另计版本，角色配音未核实。",
+              "source": "https://fm-7.com/museum/products/j21cyxwf/"
+            },
+            {
+              "id": "alicesoft-extra-lemonade2-v2",
+              "workId": "alicesoft-extra-lemonade2",
+              "year": 1987,
+              "platform": "PC-8801",
+              "publisher": "ChampionSoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "PC目录列1987年、PC-8801以后，确认五款小游戏；未核实完整五项名称。",
+              "source": "https://www.gamepres.org/pc88/library/1987/1987.html#lemonade2"
+            }
+          ]
         }
       ],
-      "relatedSectionTitle": "专题补充作品：179部（含历史品牌与前身关联）",
+      "relatedSectionTitle": "专题补充作品：195部（含历史品牌与前身关联）",
       "relatedCountLabel": "独立作品；再版及扩充合并",
-      "relatedIntro": "本区累计179部作品。第十七批补入《暗影猎人》《大灾变》及早期战略、经营、动作和棋类游戏共15部；另为D.P.S.原作、三款SG和《CRESCENT MOON少女》补16条平台记录。D.P.S.各篇名加入检索别名但保持合集作品数，文字输入、菜单调查和直接操作分别标明；早期改名标题合并，日期和署名疑点写入备注。 第十八批另将主库中已有的11部前身作品关联到上方主库区；本补充区仍为179部，不复制这些作品。",
-      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计217部（Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联50部、IMYUIC历史合作1部）；主库关联38部，专题补充179部。</strong></p>",
+      "relatedIntro": "本区累计195部作品。第十九批补16部前身关联：ZETA五期、OMEGA三期、Hello!麻衣子、LEMONADE第二期及地图问答、球队预测、两款棋类和两款故事式教育软件。杂志盘按一期可玩合集，模块名可在本页查找；图集、文章和漫画不单独计游戏。既有Super D.P.S.、Only You与《步的故事》补12条平台／再版记录；攻略附件短篇归原作说明。操作形式、日期冲突和外部发行商分别注明。",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计233部（Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联66部、IMYUIC历史合作1部）；主库关联38部，专题补充195部。</strong></p>",
       "versionCountLabel": "已整理版本记录（存疑处注明）",
       "includeCommandGames": true
     }
