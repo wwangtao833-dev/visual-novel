@@ -46,7 +46,7 @@ test('Nitroplus dossier reuses originals and keeps remakes, aliases and actual p
   const page=readFileSync(new URL('../nitroplus.html',import.meta.url),'utf8');
   for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
   const links=[...readFileSync(new URL('../index.html',import.meta.url),'utf8').matchAll(/class="secondary-link" href="[^\"]+\.html">([^<]+)<\/a>/g)];
-  assert.equal(links.length,24);
+  assert.equal(links.length,25);
   assert.ok(links.every(([,name])=>name.endsWith('社')));
 });
 
@@ -297,5 +297,25 @@ test('Alicesoft narrative migration has one searchable record per work and keeps
   assert.ok(!dossier.relatedGames.some(w=>w.category==='叙事／养成冒险'));
   for(const [query,subcategory] of [['Little PRINCESS','图文指令'],['Intruder','图文指令'],['守护神大人','恋爱模拟']]){
     assert.ok(filterCatalogue(data,{query,subcategory}).some(({work})=>movedIds.has(work.id)),query);
+  }
+});
+
+test('OVERDRIVE separates independent stories from enhanced releases and original publishers',()=>{
+  const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='overdrive');
+  assert.equal(dossier.workIds.length,11);
+  assert.equal(data.versions.filter(v=>dossier.workIds.includes(v.workId)).length,31);
+  for(const [query,id] of [['超電激ストライカー','g646'],['煌煌舞台：谢幕','g643'],['Cross the Future','g648'],['Go! Go! Nippon! 2016','g647'],['OVERDRIVE EDITION','g650']]){
+    assert.deepEqual(filterCatalogue(data,{query}).map(({work})=>work.id),[id]);
+  }
+  assert.equal(data.works.find(w=>w.id==='g650').firstYear,2001);
+  assert.equal(data.versions.find(v=>v.id==='g650-v1').publisher,'GROOVER');
+  assert.equal(data.versions.find(v=>v.id==='g650-v2').publisher,'OVERDRIVE');
+  assert.equal(filterCatalogue(data,{query:'Go! Go! Nippon!',company:'OVERDRIVE'}).length,0);
+  assert.equal(dossier.publisherWorkIds.length,10);
+  assert.equal(data.versions.find(v=>v.id==='g647-v3').voice,'无');
+  const page=readFileSync(new URL('../overdrive.html',import.meta.url),'utf8');
+  for(const id of dossier.workIds){
+    assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
+    assert.ok(!['纯文本指令','图文指令'].includes(data.works.find(w=>w.id===id).subcategory));
   }
 });
