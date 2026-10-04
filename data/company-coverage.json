@@ -7668,10 +7668,10 @@
       "id": "alicesoft",
       "name": "Alicesoft",
       "checkedAt": "2026-10-04",
-      "status": "第十九批完成：专题累计233部作品（含指令及历史关联）",
-      "scope": "已整理233部作品：Alicesoft本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联66部、历史合作品牌IMYUIC 1部；主库关联38部，专题补充195部。纳入文字输入、菜单指令、阅读与养成冒险、RPG／SLG及独立小游戏，玩法分别标注；跨主库与全部专题去重，厂商全目录仍未完成。",
-      "versionScope": "专题累计365条版本。本批新增16部前身关联作品、28条平台记录，并为Super D.P.S.、Only You和《步的故事》补12条移植／再版记录，共增加40条。PC-8001、普通PC-88与PC-88VA区分；PS2及实写改版保留外部发行署名，Super D.P.S.原PC-98日期修订。",
-      "publisherNote": "本专题区分Alicesoft、Alice Blue、AliceNoir、ChampionSoft历史沿革和IMYUIC历史合作。新增16部按前身历史关联收录，其中两款1988年教育软件目录发行署名冲突，具体署名暂未核实。Only You的PS2版由GeneX发行，《步的故事》实写版由白夜書房／コアマガジン发行；不能据原作归属改写版本发行商。既有1982年记录的署名疑点继续保留。",
+      "status": "第二十批完成：专题累计234部作品（含指令及历史关联）",
+      "scope": "已整理234部作品：Alicesoft本品牌159部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联66部、历史合作品牌IMYUIC 1部；主库关联38部，专题补充196部。纳入文字输入、菜单指令、阅读与养成冒险、RPG／SLG及独立小游戏，玩法分别标注；跨主库与全部专题去重，厂商全目录仍未完成。",
+      "versionScope": "专题累计413条版本。本批新增《表紙の娘》一部攻略盘问答及一条版本，为15部既有指令冒险、RPG和短篇补47条平台／再版记录，共增加48条。X68000／PC-88VA共用盘及多平台共用CD合列；普通PC-88另列，磁盘尺寸、第三方补丁不增加记录。不同机种发行日期与母作归档日区分，存疑处注明。",
+      "publisherNote": "本专题区分Alicesoft、Alice Blue、AliceNoir、ChampionSoft历史沿革和IMYUIC历史合作。第廿批新增问答和补录平台版均属本品牌作品；外部出版商改版仍保留原署名。既有两款1988年教育软件的署名冲突及1982年记录的商业署名疑点继续保留。非官方移植工具包和改造版不记为Alicesoft正式发行。",
       "workIds": [
         "g075",
         "g104",
@@ -7741,13 +7741,13 @@
         "g507",
         "g508"
       ],
-      "catalogueEntryCount": 233,
+      "catalogueEntryCount": 234,
       "source": "https://www.alicesoft.com/game/index.html",
       "sectionTitle": "主库关联作品：38部（含11部ChampionSoft前身作品）",
       "overviewLabel": "已整理作品（含指令、RPG／SLG与历史关联）",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "第十九批新增16部前身关联作品、28条版本；为3部既有作品补12条发行记录，共新增40条，仅更新本专题。",
-      "auditNote": "专题累计233部／365条版本：主库关联38部／48条，专题补充195部／317条。品牌分项为Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联66部及IMYUIC历史合作1部。主数据库仍为505部／922条；Alicesoft本品牌的主库发行署名作品仍27部。杂志盘每期按一部可玩合集，栏目、改名、移植及再版不增加作品数；攻略盘短篇的独立游戏性未确认，只补内容说明。",
+      "auditLabel": "第二十批新增1部漏收问答游戏，并为15部既有作品补47条版本，共增加48条；只更新本专题。",
+      "auditNote": "专题累计234部／413条版本：主库关联38部／48条，专题补充196部／365条。品牌分项为Alicesoft 159部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联66部及IMYUIC历史合作1部。主库仍505部／922条，本品牌主库发行署名作品仍27部。新收录问答为独立可玩模块；15部既有作品补录移植与再版，不充作新作品。不同机种日期、共用盘和未发行计划均注明。",
       "entries": [
         {
           "title": "妻みぐい3",
@@ -7897,7 +7897,7 @@
           "title": "其余旧作 ADV（1989—2015）",
           "status": "后续批次：待逐项整理",
           "workIds": [],
-          "reason": "本批补齐11部主库既有前身作品的专题关联。其余短篇仍须逐项核实；只有小说、CG图集或预告而未确认游戏的内容不计数，厂商全目录未完成。",
+          "reason": "第廿批补漏收问答和15部既有作品的平台／再发行记录。其余短篇继续核实；小说、CG解说、图集及未发行预告不凭标题计游戏，全目录仍未完成。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -8163,7 +8163,7 @@
           "title": "其余 RPG／SLG、Fan Disc 及移植",
           "status": "后续批次待核对",
           "workIds": [],
-          "reason": "现有作品及其平台记录继续按原ID归并；本批仅补主库与专题关联，不新增发行记录。其他移植、教学作品和杂志附带游戏仍待逐项核实。",
+          "reason": "已核对的平台版保留原作品ID，共用载体按一条记录，补丁与爱好者改造不冒充厂商发行。其余地区版本、授权改编及附带游戏继续逐项核对，不声称版本穷尽。",
           "source": "https://www.alicesoft.com/game/index.html"
         },
         {
@@ -10177,11 +10177,211 @@
           "relatedIds": [],
           "reason": "历史目录列名，但平台和实际游戏内容尚未核实；不与2000年其他厂商同名拳击游戏混为一作。",
           "source": "https://w.atwiki.jp/gcmatome/pages/5673.html"
+        },
+        {
+          "title": "表紙の娘",
+          "status": "第二十批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-covergirlquiz"
+          ],
+          "reason": "档案确认可独立选择的五题问答机制，补入漏收小游戏；攻略文字与纯图像解说不计数，寄送日存疑处注明。",
+          "source": "https://alicecottage1989.blog.jp/archives/16853022.html"
+        },
+        {
+          "title": "あぶないてんぐ伝説（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-abunaitengudensetsu"
+          ],
+          "reason": "保留原作品ID，本批补4条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。菜单指令调查ADV。第廿批按机种区分：PC-98为1989年10月，普通PC-88及X68000／PC-88VA共用盘为12月，MSX2及FM TOWNS为1990年。《馆CDII》附带版为1992年10月，修订此前混用FD合集7月日期的记录；各版本合并同一作品。",
+          "source": "https://alicecottage1989.blog.jp/archives/15858339.html"
+        },
+        {
+          "title": "AmbivalenZ -二律背反-（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-ambivalenz"
+          ],
+          "reason": "保留原作品ID，本批补4条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。结合城镇指令调查、建筑内光标探索和固定敌人的指令战斗；角色没有通常RPG的成长参数，战斗近似行动顺序谜题。第廿批补X68000、FM TOWNS和两次Windows发行；与《AliveZ》虽有现代奇幻题材关系，仍是独立剧本，不合并作品。",
+          "source": "https://alicecottage1989.blog.jp/archives/21689348.html"
+        },
+        {
+          "title": "DALK（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-dalk"
+          ],
+          "reason": "保留原作品ID，本批补3条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。PC-98首发年份为1992；游戏档案引述延期到12月21日的告知，其他目录记15日，保留异文。第廿批补X68000、FM TOWNS／Marty和Windows合集移植。外传是另一作品；《路地裏版》属爱好者改造，不计Alicesoft正式发行版本。",
+          "source": "https://alicecottage1989.blog.jp/archives/20085558.html"
+        },
+        {
+          "title": "D.P.S.（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-dpsoriginal"
+          ],
+          "reason": "保留原作品ID，本批补3条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。 收录篇名：プリンセス・ファンタジー、なんてったって芸能人、いけない内科検診；这些篇名支持本页查找，不单独增加作品数。 第廿批补X68000／PC-88VA共用盘、MSX2及FM TOWNS版，共用盘不拆两条；同内容移植与《D.P.S.全部》再收录不增加作品数。",
+          "source": "https://alicecottage1989.blog.jp/archives/15999496.html"
+        },
+        {
+          "title": "Dr.STOP!（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-drstop"
+          ],
+          "reason": "保留原作品ID，本批补4条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。文本主体的菜单指令ADV，局部配有插图；不标为完全无图或自由输入文字。第廿批补1992年X68000、FM TOWNS、MSX2及1997年Windows合集移植。Windows版年份按实际移植记录，不回写成1992年的原版平台。",
+          "source": "https://alicecottage1989.blog.jp/archives/18956737.html"
+        },
+        {
+          "title": "Intruder -桜屋敷の探索-（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-intruder"
+          ],
+          "reason": "保留原作品ID，本批补1条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。动词与对象组合的菜单指令：选择进入、攀登、查看等行动再选对象，通过探索获取物品和线索。第廿批补1989年MSX2版；档案记PC-98及X68000仅在手册中列过发行计划，实际未发售，暂不填入已发行版本。第三方DOS／Windows移植不倒填为原版商业发行。",
+          "source": "https://alicecottage1989.blog.jp/archives/15825078.html"
+        },
+        {
+          "title": "夢幻泡影（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-mugenhouyou"
+          ],
+          "reason": "保留原作品ID，本批补2条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。依靠多路线选择推进，走过的部分分支会消失或变化；不能仅凭年代归为传统动词指令。第廿批补1995共用CD和1998 Windows廉价版，磁盘与CD区分。日期不明的另一CD编号、爱好者工具包和补丁暂不增加发行记录。",
+          "source": "https://alicecottage1989.blog.jp/archives/23854955.html"
+        },
+        {
+          "title": "人魚－蘿子－（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-ningyotsutako"
+          ],
+          "reason": "保留原作品ID，本批补1条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。独立短篇叙事ADV；操作和分支数量尚未完整核实，不写成迷宫RPG。第廿批依据档案明确1996年10月配布支持PC-98、FM TOWNS和Windows 3.1，沿用合列记录；1997年3月末《别荘9》CD再次收录。整张站点资料CD不是新游戏，仅记录其中本作的再配布。",
+          "source": "https://alicecottage1989.blog.jp/archives/26832515.html"
+        },
+        {
+          "title": "ぷろすちゅーでんとG（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-prostudentg"
+          ],
+          "reason": "保留原作品ID，本批补3条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。菜单指令喜剧ADV，主线基本单线而有多个结局；《Good》的机器人SLG及《GRX》的独立外传已分别收录，不套用其战术系统。第廿批补X68000、FM TOWNS和1995廉价共用CD版；按档案修订PC-98为1993年5月，6月用于X68000，保留目录日期异文。",
+          "source": "https://alicecottage1989.blog.jp/archives/20248858.html"
+        },
+        {
+          "title": "Rance -光をもとめて-（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rance1"
+          ],
+          "reason": "保留原作品ID，本批补5条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。系列原点包含菜单指令调查与迷宫RPG。《兰斯01》重写部分剧情并采用卡片探索、技能战斗，归为重制。第廿批将原版机种明确为PC-9801，补PC-88、MSX2、X68000／PC-88VA共用盘、FM TOWNS及1997 Windows移植。2004官方《Rance ダイジェスト版》为摘取剧情的阅读程序，说明明确无选择或存档，归附加内容介绍，不增加游戏作品或版本数；来源：https://alicecottage1989.blog.jp/archives/15822648.html 。未将第三方DOS／Windows工具包列为厂商发行。",
+          "source": "https://alicecottage1989.blog.jp/archives/15789450.html"
+        },
+        {
+          "title": "RanceII -反逆の少女たち-（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rance2"
+          ],
+          "reason": "保留原作品ID，本批补5条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。原作通过情报、装备和带机关的迷宫推进。1990年原作、1997 Windows移植和2009《兰斯02》重制均归一部。第廿批补五条早期平台记录，MSX2采用1991年发行；PC-88和PC-88VA按不同机种分别记录。2004《RanceII ダイジェスト版》为无选择和存档的剧情阅读摘要，仅附加内容说明，不增加游戏版本；来源：https://alicecottage1989.blog.jp/archives/16853057.html 。补丁与攻略附件不作为本体新版。",
+          "source": "https://alicecottage1989.blog.jp/archives/16852766.html"
+        },
+        {
+          "title": "RanceIII -リーザス陥落-（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rance3"
+          ],
+          "reason": "保留原作品ID，本批补2条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。原作RPG与2015年全面重制《兰斯03》合并，重制改用新的队伍战斗和探索系统。第廿批补X68000、FM TOWNS版本；按逐机种档案区分1991年10月X68000和11月PC-98，不把同作最早日期直接填给所有平台。原作Windows移植、全面重制与非官方补丁区分。",
+          "source": "https://alicecottage1989.blog.jp/archives/18525524.html"
+        },
+        {
+          "title": "RanceIV -教団の遺産-（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-rance4"
+          ],
+          "reason": "保留原作品ID，本批补3条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。官网列为战术RPG。第廿批补1994 FM TOWNS、1997 Windows及2004《兰斯VI》通販特典再配布；厂商合集及特典归同一作品，第三方改造和兼容补丁不计厂商版本。35周年盒装也不另计作品。",
+          "source": "https://alicecottage1989.blog.jp/archives/21160621.html"
+        },
+        {
+          "title": "闘神都市（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-toushin1"
+          ],
+          "reason": "保留原作品ID，本批补4条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。1990年初代迷宫RPG；第廿批补FM TOWNS、X68000、MSX2及Windows合集移植。2014年同名3DS游戏改编自第二作，已有记录归《斗神都市II》，不归本作。",
+          "source": "https://alicecottage1989.blog.jp/archives/17707992.html"
+        },
+        {
+          "title": "宇宙快盗ファニーBee（历史版本补齐）",
+          "status": "第二十批：补既有作品版本",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-uchuukaitoufunnybee"
+          ],
+          "reason": "保留原作品ID，本批补3条平台／再发行记录；泛称PC、共用盘与机种日期分别核对。菜单指令式SF冒险，以笑料和戏仿组织流程。第廿批补1994年X68000、FM TOWNS及1996年Windows版；同内容平台版归同一作品，第三方移植和后来兼容工具不作为厂商原版发行依据。",
+          "source": "https://alicecottage1989.blog.jp/archives/21804933.html"
+        },
+        {
+          "title": "ひでＳＡＮの館 DISK.1／R／S",
+          "status": "第二十批：暂不独立计数",
+          "workIds": [],
+          "relatedIds": [],
+          "reason": "三项是漫画单行本，DISK.1是卷标而非电脑游戏磁盘；不增加游戏作品数。",
+          "source": "https://alicecottage1989.blog.jp/archives/45359671.html"
+        },
+        {
+          "title": "正しいＣＧ鑑賞",
+          "status": "第二十批：暂不独立计数",
+          "workIds": [],
+          "relatedIds": [],
+          "reason": "档案主要确认角色对图像的解说，尚未确认独立问答、操作目标或结局机制；不凭合集栏目名新增游戏。",
+          "source": "https://alicecottage1989.blog.jp/archives/16437177.html"
+        },
+        {
+          "title": "ザ・パドック／ザ・ダークホース／ザ・競馬",
+          "status": "第二十批：暂不独立计数",
+          "workIds": [],
+          "relatedIds": [],
+          "reason": "馆藏为现实赛马预测和统计软件；未确认模拟赛事可玩机制，暂不列游戏。",
+          "source": "https://fm-7.com/museum/products/fvoy1nwq/"
+        },
+        {
+          "title": "ozma",
+          "status": "第二十批：暂不独立计数",
+          "workIds": [],
+          "relatedIds": [],
+          "reason": "馆藏记为计划中的3D实时角色扮演项目，未确认已发行；不计已发行游戏。",
+          "source": "https://fm-7.com/museum/products/2cm63xmo/"
+        },
+        {
+          "title": "DALK 路地裏版",
+          "status": "第二十批：暂不独立计数",
+          "workIds": [],
+          "relatedIds": [],
+          "reason": "原作的非官方改造版，由爱好者制作；不记为Alicesoft正式发行新作品或厂商版本。",
+          "source": "https://alicecottage1989.blog.jp/archives/20085824.html"
         }
       ],
-      "description": "Alicesoft及历史关联专题：233部作品、365条版本，含文字与菜单指令、短篇冒险、角色问答、RPG／SLG、经营模拟、棋类与动作游戏，保留中文检索名、原名、人物和来源。",
+      "description": "Alicesoft及历史关联专题：234部作品、413条版本，含文字与菜单指令、短篇冒险、问答、RPG／SLG、经营模拟、棋类与动作游戏，保留中文检索名、原名、人物和来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft的叙事与玩法长期并行。本专题共233部作品，含本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联66部及IMYUIC历史合作1部。文字输入、菜单行动、养成、问答、经营、棋类和战略各有独立形式；杂志盘中的可玩合集与图集、漫画、文章分别确认。历史署名、发行年冲突和资料缺口保留说明。",
+        "thesis": "Alicesoft的叙事与玩法长期并行。本专题共234部作品，含本品牌159部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联66部及IMYUIC历史合作1部。文字输入、菜单行动、养成、问答、经营、棋类和战略各有独立形式；完整作品、可玩附盘、移植与非游戏栏目分别确认。历史署名、机种发行日期冲突和资料缺口保留说明。",
         "phases": [
           {
             "period": "1983—1989（前身品牌）",
@@ -10953,7 +11153,7 @@
           "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
           "charactersSource": "https://www.alicesoft.com/rance35th/",
           "synopsis": "兰斯被送到浮空都市伊拉皮尤。赫尔曼军试图利用遗迹，来自卡斯塔姆与利萨斯的救援队也赶到，数方势力围绕古代文明的遗产展开争夺。",
-          "notes": "官网列为战术战斗式 RPG。35 周年盒装是合集再发行，不另计一部作品。",
+          "notes": "官网列为战术RPG。第廿批补1994 FM TOWNS、1997 Windows及2004《兰斯VI》通販特典再配布；厂商合集及特典归同一作品，第三方改造和兼容补丁不计厂商版本。35周年盒装也不另计作品。",
           "source": "https://www.alicesoft.com/rance35th/",
           "versions": [
             {
@@ -10966,6 +11166,39 @@
               "voice": "未核实",
               "differences": "1993-12-11 首发。配音情况尚未逐版核实。",
               "source": "https://www.alicesoft.com/rance35th/"
+            },
+            {
+              "id": "alicesoft-extra-rance4-v2",
+              "workId": "alicesoft-extra-rance4",
+              "year": 1994,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1994-03-15；CD编号ALS-0006。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/21160621.html"
+            },
+            {
+              "id": "alicesoft-extra-rance4-v3",
+              "workId": "alicesoft-extra-rance4",
+              "year": 1997,
+              "platform": "Windows 95",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1997-04-04；CD编号ALS-0024，保留原作移植。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/21160621.html"
+            },
+            {
+              "id": "alicesoft-extra-rance4-v4",
+              "workId": "alicesoft-extra-rance4",
+              "year": 2004,
+              "platform": "Windows XP",
+              "publisher": "Alicesoft",
+              "kind": "通販特典再配布",
+              "voice": "未核实",
+              "differences": "历史档案记2004-08-27；随《兰斯VI》通販特典盘再配布原作；同内容发行记录，不是新剧本。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/21160621.html"
             }
           ]
         },
@@ -11102,7 +11335,7 @@
           "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
           "charactersSource": "https://w.atwiki.jp/gcmatome/pages/4327.html",
           "synopsis": "剑士卡斯塔姆答应久美子的请求，参加斗神大会，寻找她失踪父亲的线索。玩家交替进行迷宫训练与大会决斗。",
-          "notes": "1990 年初代；2014 年同名 3DS 游戏改编自第二作，归入《斗神都市II》的版本，不归入本作。",
+          "notes": "1990年初代迷宫RPG；第廿批补FM TOWNS、X68000、MSX2及Windows合集移植。2014年同名3DS游戏改编自第二作，已有记录归《斗神都市II》，不归本作。",
           "source": "https://w.atwiki.jp/gcmatome/pages/4327.html",
           "versions": [
             {
@@ -11115,6 +11348,50 @@
               "voice": "未核实",
               "differences": "1990-12-15 首发。配音情况尚未逐版核实。",
               "source": "https://w.atwiki.jp/gcmatome/pages/4327.html"
+            },
+            {
+              "id": "alicesoft-extra-toushin1-v2",
+              "workId": "alicesoft-extra-toushin1",
+              "year": 1990,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1990-12-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/17707992.html"
+            },
+            {
+              "id": "alicesoft-extra-toushin1-v3",
+              "workId": "alicesoft-extra-toushin1",
+              "year": 1991,
+              "platform": "X68000",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1991-06-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/17707992.html"
+            },
+            {
+              "id": "alicesoft-extra-toushin1-v4",
+              "workId": "alicesoft-extra-toushin1",
+              "year": 1991,
+              "platform": "MSX2",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1991-12-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/17707992.html"
+            },
+            {
+              "id": "alicesoft-extra-toushin1-v5",
+              "workId": "alicesoft-extra-toushin1",
+              "year": 1997,
+              "platform": "Windows 95",
+              "publisher": "Alicesoft",
+              "kind": "合集移植版",
+              "voice": "未核实",
+              "differences": "历史档案记1997-12-18；《ALICEの館4・5・6》收录。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/17707992.html"
             }
           ]
         },
@@ -11199,7 +11476,7 @@
           "charactersNote": "列出已核对的部分主要人物，保留日文姓名。",
           "charactersSource": "https://w.atwiki.jp/gcmatome/pages/9809.html",
           "synopsis": "修行僧塞尔与伙伴穿过迷宫，寻找解除恋爱神封印的方法。队伍的职业、成长与地图机关共同决定探索过程。",
-          "notes": "首发年份确认为 1992；资料分别记载 12 月 15 日与 21 日，暂不认定具体日期。外传为另一部游戏。",
+          "notes": "PC-98首发年份为1992；游戏档案引述延期到12月21日的告知，其他目录记15日，保留异文。第廿批补X68000、FM TOWNS／Marty和Windows合集移植。外传是另一作品；《路地裏版》属爱好者改造，不计Alicesoft正式发行版本。",
           "source": "https://w.atwiki.jp/gcmatome/pages/9809.html",
           "versions": [
             {
@@ -11210,8 +11487,41 @@
               "publisher": "Alicesoft",
               "kind": "日本首发",
               "voice": "未核实",
-              "differences": "1992 年 PC-9801 原版。具体日期存在 12 月 15 日与 21 日两种记载，暂保留年份；交叉资料：https://w.atwiki.jp/ercr/pages/3645.html。",
-              "source": "https://w.atwiki.jp/gcmatome/pages/9809.html"
+              "differences": "PC-98原版于1992年发行。档案依据游戏内延期告知记1992-12-21，其他目录仍记12月15日；保留日期异文，不把全平台都标为同日。",
+              "source": "https://alicecottage1989.blog.jp/archives/20085558.html"
+            },
+            {
+              "id": "alicesoft-extra-dalk-v2",
+              "workId": "alicesoft-extra-dalk",
+              "year": 1993,
+              "platform": "X68000",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1993-02-10；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/20085558.html"
+            },
+            {
+              "id": "alicesoft-extra-dalk-v3",
+              "workId": "alicesoft-extra-dalk",
+              "year": 1993,
+              "platform": "FM TOWNS／FM TOWNS Marty",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1993-04-15；同盘支持TOWNS及Marty，CD编号ALS-0003。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/20085558.html"
+            },
+            {
+              "id": "alicesoft-extra-dalk-v4",
+              "workId": "alicesoft-extra-dalk",
+              "year": 1997,
+              "platform": "Windows 95",
+              "publisher": "Alicesoft",
+              "kind": "合集移植版",
+              "voice": "未核实",
+              "differences": "历史档案记1997-12-18；《ALICEの館4・5・6》收录。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/20085558.html"
             }
           ]
         },
@@ -12284,7 +12594,7 @@
           "charactersNote": "列出已核对的部分人物，保留日文姓名。",
           "charactersSource": "https://www.ymgal.games/ga11342",
           "synopsis": "兰斯与希露接受委托来到卡斯塔姆，进入四名魔女盘踞的迷宫。随着调查与战斗推进，他逐渐发现镇上灾变背后的真相。",
-          "notes": "收集情报、购买装备并探索带有机关的迷宫。1990 年原作、Windows 移植与 2009 年《ランス02》重制归入一部作品；摘要版及后续修补不另算独立作品。",
+          "notes": "原作通过情报、装备和带机关的迷宫推进。1990年原作、1997 Windows移植和2009《兰斯02》重制均归一部。第廿批补五条早期平台记录，MSX2采用1991年发行；PC-88和PC-88VA按不同机种分别记录。2004《RanceII ダイジェスト版》为无选择和存档的剧情阅读摘要，仅附加内容说明，不增加游戏版本；来源：https://alicecottage1989.blog.jp/archives/16853057.html 。补丁与攻略附件不作为本体新版。",
           "source": "https://www.alicesoft.com/alice2010/cnt01.html",
           "versions": [
             {
@@ -12319,6 +12629,61 @@
               "source": "https://www.alicesoft.com/alice2010/cnt01.html",
               "id": "alicesoft-extra-rance2-v3",
               "workId": "alicesoft-extra-rance2"
+            },
+            {
+              "id": "alicesoft-extra-rance2-v4",
+              "workId": "alicesoft-extra-rance2",
+              "year": 1990,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1990-06-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/16852766.html"
+            },
+            {
+              "id": "alicesoft-extra-rance2-v5",
+              "workId": "alicesoft-extra-rance2",
+              "year": 1990,
+              "platform": "PC-88VA",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1990-09-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/16852766.html"
+            },
+            {
+              "id": "alicesoft-extra-rance2-v6",
+              "workId": "alicesoft-extra-rance2",
+              "year": 1990,
+              "platform": "X68000",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1990-09-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/16852766.html"
+            },
+            {
+              "id": "alicesoft-extra-rance2-v7",
+              "workId": "alicesoft-extra-rance2",
+              "year": 1990,
+              "platform": "PC-8801mkIISR",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1990-11-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/16852766.html"
+            },
+            {
+              "id": "alicesoft-extra-rance2-v8",
+              "workId": "alicesoft-extra-rance2",
+              "year": 1991,
+              "platform": "MSX2",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1991-03-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/16852766.html"
             }
           ]
         },
@@ -12349,7 +12714,7 @@
           "charactersNote": "列出已核对的部分人物，保留日文姓名。",
           "charactersSource": "https://www.ymgal.games/ga11700",
           "synopsis": "利萨斯遭到赫尔曼军与魔人的入侵，兰斯卷入救援与反攻。伙伴在旅途中集结，战局也逐渐牵出各国势力之间的冲突。",
-          "notes": "原作 RPG 与 2015 年全面重制《ランス03》合并。重制版改用新的队伍战斗与探索系统，并扩写剧情，不另计作品。",
+          "notes": "原作RPG与2015年全面重制《兰斯03》合并，重制改用新的队伍战斗和探索系统。第廿批补X68000、FM TOWNS版本；按逐机种档案区分1991年10月X68000和11月PC-98，不把同作最早日期直接填给所有平台。原作Windows移植、全面重制与非官方补丁区分。",
           "source": "https://www.alicesoft.com/rance03/",
           "versions": [
             {
@@ -12358,8 +12723,8 @@
               "publisher": "Alicesoft",
               "kind": "原版首发",
               "voice": "未核实",
-              "differences": "1991-10-15 PC-98 首发；其他早期机种移植暂未逐版收录，配音未核实。",
-              "source": "https://www.ymgal.games/ga11700",
+              "differences": "历史档案逐机种列PC-98版1991-11-15，X68000版为1991-10-15；原先把10月日期直接用于PC-98，现修订并保留来源。其他目录笼统写10月，不认定各版同日。",
+              "source": "https://alicecottage1989.blog.jp/archives/18525524.html",
               "id": "alicesoft-extra-rance3-v1",
               "workId": "alicesoft-extra-rance3"
             },
@@ -12384,6 +12749,28 @@
               "source": "https://www.alicesoft.com/rance03/",
               "id": "alicesoft-extra-rance3-v3",
               "workId": "alicesoft-extra-rance3"
+            },
+            {
+              "id": "alicesoft-extra-rance3-v4",
+              "workId": "alicesoft-extra-rance3",
+              "year": 1991,
+              "platform": "X68000",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1991-10-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/18525524.html"
+            },
+            {
+              "id": "alicesoft-extra-rance3-v5",
+              "workId": "alicesoft-extra-rance3",
+              "year": 1992,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1992-05-13；CD版编号ALS-0001。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/18525524.html"
             }
           ]
         },
@@ -13380,19 +13767,30 @@
           "charactersNote": "剧情资料仅给出青年与少女的身份，姓名未核实。",
           "charactersSource": "https://www.ymgal.games/ga18600",
           "synopsis": "一名青年与少女携带神秘石头逃离追兵，藏进洞窟。追踪者逼近，两人的处境与手中之物逐渐成为故事的核心。",
-          "notes": "独立短篇视觉小说；具体分支数量与操作细节未完整核实，不写成迷宫RPG。早期配布和后续合集合并为同一作品，不将机种重复计数。",
+          "notes": "独立短篇叙事ADV；操作和分支数量尚未完整核实，不写成迷宫RPG。第廿批依据档案明确1996年10月配布支持PC-98、FM TOWNS和Windows 3.1，沿用合列记录；1997年3月末《别荘9》CD再次收录。整张站点资料CD不是新游戏，仅记录其中本作的再配布。",
           "source": "https://www.ymgal.games/ga18600",
           "versions": [
             {
               "year": 1996,
-              "platform": "PC（早期配布；机种先后未核实）",
+              "platform": "PC-98／FM TOWNS／Windows 3.1",
               "publisher": "Alicesoft",
               "kind": "早期配布版",
               "voice": "未核实",
-              "differences": "资料记1996年10月；具体日期及PC-98、FM Towns、Windows各机种的发行先后未逐一核实，暂合列一条，不推断各机种同时首发。配音未核实。",
-              "source": "https://www.h-suki.com/en/games/10853",
+              "differences": "1996年10月会员Web配布，历史档案合列Win31、PC98及TOWNS；明确支持平台但不虚构各机种不同首发日，合记一条。",
+              "source": "https://alicecottage1989.blog.jp/archives/25577796.html",
               "id": "alicesoft-extra-ningyotsutako-v1",
               "workId": "alicesoft-extra-ningyotsutako"
+            },
+            {
+              "id": "alicesoft-extra-ningyotsutako-v2",
+              "workId": "alicesoft-extra-ningyotsutako",
+              "year": 1997,
+              "platform": "PC-98／FM TOWNS／Windows 3.1",
+              "publisher": "Alicesoft",
+              "kind": "会员CD再配布",
+              "voice": "未核实",
+              "differences": "历史档案记1997年3月末（具体日未核实）；《アリスの別荘9》收录同作；会员公告为3月末，不能将目录归档的3月1日当成实际寄送日。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/26832515.html"
             }
           ]
         },
@@ -14292,17 +14690,17 @@
           "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
           "charactersSource": "https://www.alicesoft.com/rance01/story.html",
           "synopsis": "冒险者兰斯接下贵族少女小光失踪案，派魔法使希露潜入学园搜集线索，自己则在城镇与地下空间中调查。寻找失踪者的委托逐渐牵出王国中的秘密。",
-          "notes": "按新要求补入带指令调查的系列原点。原版结合菜单式调查与迷宫战斗；《兰斯01》重写部分剧情并采用卡片探索、技能战斗，作为重制版本归同一作品，不另计新作。",
+          "notes": "系列原点包含菜单指令调查与迷宫RPG。《兰斯01》重写部分剧情并采用卡片探索、技能战斗，归为重制。第廿批将原版机种明确为PC-9801，补PC-88、MSX2、X68000／PC-88VA共用盘、FM TOWNS及1997 Windows移植。2004官方《Rance ダイジェスト版》为摘取剧情的阅读程序，说明明确无选择或存档，归附加内容介绍，不增加游戏作品或版本数；来源：https://alicecottage1989.blog.jp/archives/15822648.html 。未将第三方DOS／Windows工具包列为厂商发行。",
           "source": "https://www.alicesoft.com/rance01/story.html",
           "versions": [
             {
               "year": 1989,
-              "platform": "PC（早期原版）",
+              "platform": "PC-9801",
               "publisher": "Alicesoft",
               "kind": "早期原版",
               "voice": "未核实",
-              "differences": "1989-07-15发行；原版包含指令调查与RPG要素，其他早期机种发行先后及配音未逐版核实。",
-              "source": "https://w.atwiki.jp/gcmatome/pages/7003.html",
+              "differences": "1989-07-15 PC-9801版；替换原先笼统的“PC（早期原版）”记录，同日两种磁盘尺寸不拆版本。原版为菜单调查与迷宫RPG。",
+              "source": "https://alicecottage1989.blog.jp/archives/15789450.html",
               "id": "alicesoft-extra-rance1-v1",
               "workId": "alicesoft-extra-rance1"
             },
@@ -14316,6 +14714,61 @@
               "source": "https://www.alicesoft.com/rance01/",
               "id": "alicesoft-extra-rance1-v2",
               "workId": "alicesoft-extra-rance1"
+            },
+            {
+              "id": "alicesoft-extra-rance1-v3",
+              "workId": "alicesoft-extra-rance1",
+              "year": 1989,
+              "platform": "PC-8801mkIISR",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1989-08-15；PC资料明确须为SR以后，不与PC-88VA混同。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15789450.html"
+            },
+            {
+              "id": "alicesoft-extra-rance1-v4",
+              "workId": "alicesoft-extra-rance1",
+              "year": 1989,
+              "platform": "MSX2",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1989-09-15；支持MSX2及2+的记录合列一版。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15789450.html"
+            },
+            {
+              "id": "alicesoft-extra-rance1-v5",
+              "workId": "alicesoft-extra-rance1",
+              "year": 1989,
+              "platform": "X68000／PC-88VA（共用盘）",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1989-11-15；两平台使用共用盘，合记一条发行；普通PC-88另列。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15789450.html"
+            },
+            {
+              "id": "alicesoft-extra-rance1-v6",
+              "workId": "alicesoft-extra-rance1",
+              "year": 1990,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1990-03-15；FM版档案记录不回填为1989年同时首发。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15789450.html"
+            },
+            {
+              "id": "alicesoft-extra-rance1-v7",
+              "workId": "alicesoft-extra-rance1",
+              "year": 1997,
+              "platform": "Windows 95／Windows NT",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1997-12-18；《ALICEの館4・5・6》收录，原作Windows移植，与2013重制区别。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15789450.html"
             }
           ]
         },
@@ -14342,7 +14795,7 @@
           "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
           "charactersSource": "https://w.atwiki.jp/gcmatome/pages/7004.html",
           "synopsis": "主人公看见一位大小姐走进樱宅，又拾到她遗落的项链。归还物品时遭到拒绝，他便潜入宅邸，在房间、物品与人物之间寻找接近她的途径。",
-          "notes": "典型动词与对象组合的菜单指令：先选“进入／攀登／查看”等行动，再选对应对象；通过地点探索收集物品与信息，并非自由输入文字。",
+          "notes": "动词与对象组合的菜单指令：选择进入、攀登、查看等行动再选对象，通过探索获取物品和线索。第廿批补1989年MSX2版；档案记PC-98及X68000仅在手册中列过发行计划，实际未发售，暂不填入已发行版本。第三方DOS／Windows移植不倒填为原版商业发行。",
           "source": "https://w.atwiki.jp/gcmatome/pages/7004.html",
           "versions": [
             {
@@ -14362,10 +14815,21 @@
               "publisher": "Alicesoft",
               "kind": "FM TOWNS合集版",
               "voice": "未核实",
-              "differences": "1991年7月《ALICEの館 CD》FM TOWNS收录，使用CD-DA音乐；具体日期与配音未核实。",
-              "source": "https://w.atwiki.jp/gcmatome/pages/5673.html",
+              "differences": "1991-07-15《ALICEの館 CD》FM TOWNS版收录；采用CD-DA音乐，移植归同一作品。",
+              "source": "https://alicecottage1989.blog.jp/archives/15825078.html",
               "id": "alicesoft-extra-intruder-v2",
               "workId": "alicesoft-extra-intruder"
+            },
+            {
+              "id": "alicesoft-extra-intruder-v3",
+              "workId": "alicesoft-extra-intruder",
+              "year": 1989,
+              "platform": "MSX2",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1989-08-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15825078.html"
             }
           ]
         },
@@ -14474,7 +14938,7 @@
           "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
           "charactersSource": "https://www.8-bits.info/gamelist/PC88/info/info_gVZAjS4PLwiHa91g.php",
           "synopsis": "一名少女声称看见天狗袭击朋友，描述了黑衣、团扇与红色长鼻的身影。原本半信半疑的调查者追索证词与怪异事件，试图辨认真相。",
-          "notes": "菜单式指令调查ADV，按本次新范围补入。不同目录记1989年10月或12月，不能将某一机种日期当成全机种首发；两条已核对发行记录归同一作品。",
+          "notes": "菜单指令调查ADV。第廿批按机种区分：PC-98为1989年10月，普通PC-88及X68000／PC-88VA共用盘为12月，MSX2及FM TOWNS为1990年。《馆CDII》附带版为1992年10月，修订此前混用FD合集7月日期的记录；各版本合并同一作品。",
           "source": "https://www.8-bits.info/gamelist/PC88/info/info_gVZAjS4PLwiHa91g.php",
           "versions": [
             {
@@ -14494,10 +14958,54 @@
               "publisher": "Alicesoft",
               "kind": "FM TOWNS合集版",
               "voice": "未核实",
-              "differences": "1992年7月《ALICEの館2》FM TOWNS版附带收录；具体日与配音未核实。",
-              "source": "https://w.atwiki.jp/gcmatome/pages/5673.html",
+              "differences": "1992-10-15《ALICEの館 CDII》附带收录；修订原先误用《馆II》FD版7月日期的记录，CD版与FD版区别。",
+              "source": "https://alicecottage1989.blog.jp/archives/15858339.html",
               "id": "alicesoft-extra-abunaitengudensetsu-v2",
               "workId": "alicesoft-extra-abunaitengudensetsu"
+            },
+            {
+              "id": "alicesoft-extra-abunaitengudensetsu-v3",
+              "workId": "alicesoft-extra-abunaitengudensetsu",
+              "year": 1989,
+              "platform": "PC-9801",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1989-10-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15858339.html"
+            },
+            {
+              "id": "alicesoft-extra-abunaitengudensetsu-v4",
+              "workId": "alicesoft-extra-abunaitengudensetsu",
+              "year": 1989,
+              "platform": "X68000／PC-88VA（共用盘）",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1989-12-15；两平台共用盘合列；普通PC-88版另有独立记录。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15858339.html"
+            },
+            {
+              "id": "alicesoft-extra-abunaitengudensetsu-v5",
+              "workId": "alicesoft-extra-abunaitengudensetsu",
+              "year": 1990,
+              "platform": "MSX2",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1990-02-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15858339.html"
+            },
+            {
+              "id": "alicesoft-extra-abunaitengudensetsu-v6",
+              "workId": "alicesoft-extra-abunaitengudensetsu",
+              "year": 1990,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1990-04-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15858339.html"
             }
           ]
         },
@@ -14529,7 +15037,7 @@
           "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
           "charactersSource": "https://ja.wikipedia.org/wiki/D.P.S.",
           "synopsis": "三篇故事分别围绕骑士护送公主、偶像与憧憬她的少女、医师的诊察事件展开。玩家通过梦境程序切换人物处境，再以选择推进各篇。",
-          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。 收录篇名：プリンセス・ファンタジー、なんてったって芸能人、いけない内科検診；这些篇名支持本页查找，不单独增加作品数。",
+          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。 收录篇名：プリンセス・ファンタジー、なんてったって芸能人、いけない内科検診；这些篇名支持本页查找，不单独增加作品数。 第廿批补X68000／PC-88VA共用盘、MSX2及FM TOWNS版，共用盘不拆两条；同内容移植与《D.P.S.全部》再收录不增加作品数。",
           "source": "https://www.mobygames.com/game/47524/dps-dream-program-system/",
           "versions": [
             {
@@ -14564,6 +15072,39 @@
               "voice": "未核实",
               "differences": "1990-03-15 PC-8801mkIISR以后版本；不同于PC-88VA上的SG系列；同内容移植合并到原作品，配音未逐版核实。",
               "source": "https://www.gamepres.org/pc88/library/1990/1990_3.html#dps"
+            },
+            {
+              "id": "alicesoft-extra-dpsoriginal-v4",
+              "workId": "alicesoft-extra-dpsoriginal",
+              "year": 1989,
+              "platform": "X68000／PC-88VA（共用盘）",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1989-12-15；共用盘合记一条发行记录。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15999496.html"
+            },
+            {
+              "id": "alicesoft-extra-dpsoriginal-v5",
+              "workId": "alicesoft-extra-dpsoriginal",
+              "year": 1990,
+              "platform": "MSX2",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1990-04-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15999496.html"
+            },
+            {
+              "id": "alicesoft-extra-dpsoriginal-v6",
+              "workId": "alicesoft-extra-dpsoriginal",
+              "year": 1990,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1990-04-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15999496.html"
             }
           ]
         },
@@ -14966,7 +15507,7 @@
           "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
           "charactersSource": "https://elog.tokyo/adventure/game_107.html",
           "synopsis": "在总合医院工作的内科医与院长之女美绪订有婚约。亲友调查院长的可疑行为时反遭医疗事故指控，主人公为洗清朋友嫌疑而行动，喜剧日常逐渐转向严肃的医院疑云。",
-          "notes": "评测说明为文本主体的菜单指令ADV，并有局部插图；不据文本占比标成完全无图，也不把菜单选择误写成自由输入文字。后来的兼容运行方式不倒填为1992年Windows原版。",
+          "notes": "文本主体的菜单指令ADV，局部配有插图；不标为完全无图或自由输入文字。第廿批补1992年X68000、FM TOWNS、MSX2及1997年Windows合集移植。Windows版年份按实际移植记录，不回写成1992年的原版平台。",
           "source": "https://elog.tokyo/adventure/game_107.html",
           "versions": [
             {
@@ -14979,6 +15520,50 @@
               "source": "https://elog.tokyo/adventure/game_107.html",
               "id": "alicesoft-extra-drstop-v1",
               "workId": "alicesoft-extra-drstop"
+            },
+            {
+              "id": "alicesoft-extra-drstop-v2",
+              "workId": "alicesoft-extra-drstop",
+              "year": 1992,
+              "platform": "X68000",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1992-05-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/18956737.html"
+            },
+            {
+              "id": "alicesoft-extra-drstop-v3",
+              "workId": "alicesoft-extra-drstop",
+              "year": 1992,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1992-06-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/18956737.html"
+            },
+            {
+              "id": "alicesoft-extra-drstop-v4",
+              "workId": "alicesoft-extra-drstop",
+              "year": 1992,
+              "platform": "MSX2",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1992-07-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/18956737.html"
+            },
+            {
+              "id": "alicesoft-extra-drstop-v5",
+              "workId": "alicesoft-extra-drstop",
+              "year": 1997,
+              "platform": "Windows 95",
+              "publisher": "Alicesoft",
+              "kind": "合集移植版",
+              "voice": "未核实",
+              "differences": "历史档案记1997-12-18；《ALICEの館4・5・6》收录。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/18956737.html"
             }
           ]
         },
@@ -15003,7 +15588,7 @@
           "charactersNote": "来源使用猿藤吾郎，系列人物资料亦作猿藤悟郎；保留异写说明。",
           "charactersSource": "https://elog.tokyo/adventure/game_85.html",
           "synopsis": "凶暴的猿藤悟郎曾被幽闭在地下牢房，长期囚禁又使他成为狂热御宅族。重回行动后，他卷入一连串荒诞遭遇，故事用西游记式人物与大量作品戏仿组织喜剧旅程。",
-          "notes": "原版为指令ADV，主线基本单线但有多个结局；《Good》的机器人SLG与《GRX》的新增外传已经分别收录，本作不沿用它们的战术系统。",
+          "notes": "菜单指令喜剧ADV，主线基本单线而有多个结局；《Good》的机器人SLG及《GRX》的独立外传已分别收录，不套用其战术系统。第廿批补X68000、FM TOWNS和1995廉价共用CD版；按档案修订PC-98为1993年5月，6月用于X68000，保留目录日期异文。",
           "source": "https://elog.tokyo/adventure/game_85.html",
           "versions": [
             {
@@ -15012,10 +15597,43 @@
               "publisher": "Alicesoft",
               "kind": "PC-98原版",
               "voice": "未核实",
-              "differences": "1993-06-15发行；X68000等其他发行未逐版补录，配音未核实。",
-              "source": "https://elog.tokyo/adventure/game_85.html",
+              "differences": "历史档案列PC-98版1993-05-15，X68000版1993-06-15；原记录把6月日期用于PC-98，现按机种修订。其他目录记6月，保留异文而不认定全平台同日。",
+              "source": "https://alicecottage1989.blog.jp/archives/20248858.html",
               "id": "alicesoft-extra-prostudentg-v1",
               "workId": "alicesoft-extra-prostudentg"
+            },
+            {
+              "id": "alicesoft-extra-prostudentg-v2",
+              "workId": "alicesoft-extra-prostudentg",
+              "year": 1993,
+              "platform": "X68000",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1993-06-15；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/20248858.html"
+            },
+            {
+              "id": "alicesoft-extra-prostudentg-v3",
+              "workId": "alicesoft-extra-prostudentg",
+              "year": 1993,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1993-07-15；CD编号ALS-0004。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/20248858.html"
+            },
+            {
+              "id": "alicesoft-extra-prostudentg-v4",
+              "workId": "alicesoft-extra-prostudentg",
+              "year": 1995,
+              "platform": "PC-98／FM TOWNS／Windows 3.1（共用CD）",
+              "publisher": "Alicesoft",
+              "kind": "廉价共用CD版",
+              "voice": "未核实",
+              "differences": "历史档案记1995-04-07；CD编号ALS-0010，采用SYSTEM3，合列一条多平台发行。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/20248858.html"
             }
           ]
         },
@@ -15046,7 +15664,7 @@
           "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
           "charactersSource": "https://erogereport.blog.jp/archives/1302025.html",
           "synopsis": "昔日骑士失去所守护的公主，又遭诅咒获得不老身体。数百年后，他以修罗之名在现代日本追杀怪物；与故人相似的少女花梨出现，让长期复仇中的他重新面对自己的感情。",
-          "notes": "结合城镇指令调查、建筑内光标探索与固定敌人的指令战斗；主人公没有通常RPG的成长参数，战斗更接近行动顺序谜题。不因现代奇幻舞台与《AliveZ》的联系而合并两部独立剧本。",
+          "notes": "结合城镇指令调查、建筑内光标探索和固定敌人的指令战斗；角色没有通常RPG的成长参数，战斗近似行动顺序谜题。第廿批补X68000、FM TOWNS和两次Windows发行；与《AliveZ》虽有现代奇幻题材关系，仍是独立剧本，不合并作品。",
           "source": "https://erogereport.blog.jp/archives/1302025.html",
           "versions": [
             {
@@ -15055,10 +15673,54 @@
               "publisher": "Alicesoft",
               "kind": "PC-98原版",
               "voice": "未核实",
-              "differences": "1994年PC-98发行；FM TOWNS及Windows移植的确切发行先后与配音未逐版核实，本次先记原版。",
-              "source": "https://erogereport.blog.jp/archives/1302025.html",
+              "differences": "历史档案记1994-04-28 PC-98版，与X68000版同日；原作配音未核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/21689348.html",
               "id": "alicesoft-extra-ambivalenz-v1",
               "workId": "alicesoft-extra-ambivalenz"
+            },
+            {
+              "id": "alicesoft-extra-ambivalenz-v2",
+              "workId": "alicesoft-extra-ambivalenz",
+              "year": 1994,
+              "platform": "X68000",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1994-04-28；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/21689348.html"
+            },
+            {
+              "id": "alicesoft-extra-ambivalenz-v3",
+              "workId": "alicesoft-extra-ambivalenz",
+              "year": 1994,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1994-06-14；CD编号ALS-0007。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/21689348.html"
+            },
+            {
+              "id": "alicesoft-extra-ambivalenz-v4",
+              "workId": "alicesoft-extra-ambivalenz",
+              "year": 1996,
+              "platform": "Windows 3.1／Windows 95",
+              "publisher": "Alicesoft",
+              "kind": "Windows移植版",
+              "voice": "未核实",
+              "differences": "历史档案记1996-05-10；CD编号ALS-0020。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/21689348.html"
+            },
+            {
+              "id": "alicesoft-extra-ambivalenz-v5",
+              "workId": "alicesoft-extra-ambivalenz",
+              "year": 1998,
+              "platform": "Windows 95",
+              "publisher": "Alicesoft",
+              "kind": "Windows再发行",
+              "voice": "未核实",
+              "differences": "历史档案记1998-05-28；档案区分CD编号ALS-0020A；不将未逐项核实的改动编成新剧情。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/21689348.html"
             }
           ]
         },
@@ -15084,7 +15746,7 @@
           "charactersNote": "评测列出土屋久遠；另一介绍确认妹妹世羅，仅列可核对人物。",
           "charactersSource": "https://advgamer.com/mugen-houyou/",
           "synopsis": "富有的久远身患不治之症，带着妹妹世罗和少数使用人进入封闭宅邸生活。他希望在死亡到来前按自己的意愿度过余生，人物关系与不同选择让故事走向多条路线。",
-          "notes": "本作依靠多路线选择，不能仅因年代或同批收录就套成传统动词指令。已走过的部分分支会消失或变化，是其叙事结构特点；Windows和廉价版存在，发行日期不足者暂不增列版本。",
+          "notes": "依靠多路线选择推进，走过的部分分支会消失或变化；不能仅凭年代归为传统动词指令。第廿批补1995共用CD和1998 Windows廉价版，磁盘与CD区分。日期不明的另一CD编号、爱好者工具包和补丁暂不增加发行记录。",
           "source": "https://usitora.sakura.ne.jp/etc/mugenho.htm",
           "versions": [
             {
@@ -15093,10 +15755,32 @@
               "publisher": "Alicesoft",
               "kind": "PC-98原版",
               "voice": "未核实",
-              "differences": "1995年7月PC-98发行；具体日与配音未核实。",
-              "source": "https://w.atwiki.jp/gcmatome/pages/5673.html",
+              "differences": "1995-07-07 PC-98磁盘版；与同日共用CD版按实际载体与系统版本区分。",
+              "source": "https://alicecottage1989.blog.jp/archives/23854955.html",
               "id": "alicesoft-extra-mugenhouyou-v1",
               "workId": "alicesoft-extra-mugenhouyou"
+            },
+            {
+              "id": "alicesoft-extra-mugenhouyou-v2",
+              "workId": "alicesoft-extra-mugenhouyou",
+              "year": 1995,
+              "platform": "PC-98／FM TOWNS／Windows 3.1（共用CD）",
+              "publisher": "Alicesoft",
+              "kind": "多平台共用CD版",
+              "voice": "未核实",
+              "differences": "历史档案记1995-07-07；CD编号ALS-0013，同一盘支持不同平台，不拆三条。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/23854955.html"
+            },
+            {
+              "id": "alicesoft-extra-mugenhouyou-v3",
+              "workId": "alicesoft-extra-mugenhouyou",
+              "year": 1998,
+              "platform": "Windows 95／Windows 98",
+              "publisher": "Alicesoft",
+              "kind": "Windows廉价再发行",
+              "voice": "未核实",
+              "differences": "历史档案记1998-11-26；档案列CD编号ALS-0013A；另一个日期不明编号不另新增。同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/23854955.html"
             }
           ]
         },
@@ -15122,7 +15806,7 @@
           "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
           "charactersSource": "https://elog.tokyo/adventure/game_83.html",
           "synopsis": "人类已经在宇宙中生活的未来，两名搭档萨蒂与诗织以“Funny Bee”之名四处冒险。盗贼行动不断引出离奇遭遇，轻松的双人关系与太空舞台构成喧闹喜剧。",
-          "notes": "菜单指令式SF冒险，包含大量笑料与戏仿。PC-98原版、其他机种及后续兼容移植归同一作品；第三方页面的Windows运行说明不当作原版发行证据。",
+          "notes": "菜单指令式SF冒险，以笑料和戏仿组织流程。第廿批补1994年X68000、FM TOWNS及1996年Windows版；同内容平台版归同一作品，第三方移植和后来兼容工具不作为厂商原版发行依据。",
           "source": "https://elog.tokyo/adventure/game_83.html",
           "versions": [
             {
@@ -15135,6 +15819,39 @@
               "source": "https://elog.tokyo/adventure/game_83.html",
               "id": "alicesoft-extra-uchuukaitoufunnybee-v1",
               "workId": "alicesoft-extra-uchuukaitoufunnybee"
+            },
+            {
+              "id": "alicesoft-extra-uchuukaitoufunnybee-v2",
+              "workId": "alicesoft-extra-uchuukaitoufunnybee",
+              "year": 1994,
+              "platform": "X68000",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1994-08-10；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/21804933.html"
+            },
+            {
+              "id": "alicesoft-extra-uchuukaitoufunnybee-v3",
+              "workId": "alicesoft-extra-uchuukaitoufunnybee",
+              "year": 1994,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "历史档案记1994-09-09；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/21804933.html"
+            },
+            {
+              "id": "alicesoft-extra-uchuukaitoufunnybee-v4",
+              "workId": "alicesoft-extra-uchuukaitoufunnybee",
+              "year": 1996,
+              "platform": "Windows 3.1／Windows 95",
+              "publisher": "Alicesoft",
+              "kind": "Windows移植版",
+              "voice": "未核实",
+              "differences": "历史档案记1996-04-12；同一作品的平台／改版记录，不增加作品数；角色配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/21804933.html"
             }
           ]
         },
@@ -19036,12 +19753,49 @@
               "source": "https://www.gamepres.org/pc88/library/1987/1987.html#lemonade2"
             }
           ]
+        },
+        {
+          "id": "alicesoft-extra-covergirlquiz",
+          "title": "封面上的女孩：兰斯II问答",
+          "chineseTitle": "封面上的女孩：兰斯II问答",
+          "originalTitle": "表紙の娘",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "表紙の女の子",
+            "RanceII ヒントディスク 表紙の娘"
+          ],
+          "firstYear": 1990,
+          "category": "益智／桌面游戏",
+          "subcategory": "攻略盘内人物问答",
+          "genre": "封面人物／知识问答",
+          "characters": [
+            "兰斯II封面中的女孩（本篇身份姓名未核实）",
+            "人物问答参与者（玩家）"
+          ],
+          "charactersNote": "档案确认封面人物和问答机制，未据后续《兰斯VI》登场线索补造本篇姓名。",
+          "charactersSource": "https://alicecottage1989.blog.jp/archives/16853022.html",
+          "synopsis": "围绕《兰斯II》封面出现而未在本篇登场的女孩展开介绍与问答。每组五题答对至少四题后获得图像奖励，再进入下一组问题。",
+          "notes": "《RanceII ヒントディスク》内可独立选择的问答小游戏，与已收录的SDらんす调查冒险分别整理；不把整张攻略盘、攻略文字或音乐模式计成新游戏。单篇目录标1990年6月1日，母作汇总沿用5月15日，实际寄送日未完全核实，仅确认1990年PC-98攻略盘记录。检索别名：表紙の娘、表紙の女の子、RanceII ヒントディスク 表紙の娘。",
+          "source": "https://alicecottage1989.blog.jp/archives/16853022.html",
+          "versions": [
+            {
+              "id": "alicesoft-extra-covergirlquiz-v1",
+              "workId": "alicesoft-extra-covergirlquiz",
+              "year": 1990,
+              "platform": "PC-98",
+              "publisher": "Alicesoft",
+              "kind": "攻略盘内独立问答模块",
+              "voice": "未核实",
+              "differences": "1990年《RanceII》攻略盘可玩问答。具体寄送日未核实；PC-98机种及菜单见母盘档案：https://alicecottage1989.blog.jp/archives/16852964.html 。其他机种尚未确认，不依据本篇移植平台自动补入。",
+              "source": "https://alicecottage1989.blog.jp/archives/16853022.html"
+            }
+          ]
         }
       ],
-      "relatedSectionTitle": "专题补充作品：195部（含历史品牌与前身关联）",
+      "relatedSectionTitle": "专题补充作品：196部（含历史品牌与前身关联）",
       "relatedCountLabel": "独立作品；再版及扩充合并",
-      "relatedIntro": "本区累计195部作品。第十九批补16部前身关联：ZETA五期、OMEGA三期、Hello!麻衣子、LEMONADE第二期及地图问答、球队预测、两款棋类和两款故事式教育软件。杂志盘按一期可玩合集，模块名可在本页查找；图集、文章和漫画不单独计游戏。既有Super D.P.S.、Only You与《步的故事》补12条平台／再版记录；攻略附件短篇归原作说明。操作形式、日期冲突和外部发行商分别注明。",
-      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计233部（Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联66部、IMYUIC历史合作1部）；主库关联38部，专题补充195部。</strong></p>",
+      "relatedIntro": "本区累计196部作品。第廿批新增《封面上的女孩：兰斯II问答》，并为兰斯I—IV、Intruder、天狗传说、D.P.S.、Dr.STOP!、职业学生G、二律背反、宇宙怪盗Funny Bee、梦幻泡影、斗神都市、DALK和人鱼蘿子共15部既有作品补47条平台／再版记录。文字主体菜单冒险、对象调查、参数养成与RPG分别标注；共用盘按一次发行合列，机种日期和非官方改造与正式发行区分。",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计234部（Alicesoft 159部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联66部、IMYUIC历史合作1部）；主库关联38部，专题补充196部。</strong></p>",
       "versionCountLabel": "已整理版本记录（存疑处注明）",
       "includeCommandGames": true
     }
