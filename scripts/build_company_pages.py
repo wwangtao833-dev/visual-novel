@@ -83,7 +83,7 @@ def build(company):
 <body><div class="app-shell"><header class="masthead"><a class="brand" href="index.html"><span class="brand-mark">N.</span><span>叙事游戏年鉴</span></a><nav aria-label="专题导航"><a href="#identity">创作风格</a><a href="#works">全部作品</a><a href="#coverage">核对清单</a><a href="index.html#catalogue">返回数据库</a></nav></header>
 <main><section class="company-hero"><p class="eyebrow">COMPANY DOSSIER · {escape(company['checkedAt'])}</p><h1>{escape(company['name'])} 作品专题</h1>
 <p class="lead">{escape(company['publisherNote'])}</p>{publisher_count}
-<div class="overview"><div><strong>{len(selected) + len(related)}</strong><span>{overview_label}</span></div><div><strong>{count_versions}</strong><span>已核实版本记录</span></div><div><strong>{min(w['firstYear'] for w in selected + related)}—{max(w['firstYear'] for w in selected + related)}</strong><span>作品首发跨度</span></div></div>
+<div class="overview"><div><strong>{len(selected) + len(related)}</strong><span>{overview_label}</span></div><div><strong>{count_versions}</strong><span>{escape(company.get("versionCountLabel", "已核实版本记录"))}</span></div><div><strong>{min(w['firstYear'] for w in selected + related)}—{max(w['firstYear'] for w in selected + related)}</strong><span>作品首发跨度</span></div></div>
 <p class="scope-note">{escape(company['scope'])}</p><p class="scope-note">{escape(company['versionScope'])}</p>
 <div class="hero-links"><a class="primary-link" href="#identity">阅读创作风格</a><a class="secondary-link" href="#works">按年份阅读作品</a></div></section>
 {profile_section}

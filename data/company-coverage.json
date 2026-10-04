@@ -7668,10 +7668,10 @@
       "id": "alicesoft",
       "name": "Alicesoft",
       "checkedAt": "2026-10-04",
-      "status": "第十六批完成：专题累计191部作品（含指令及历史关联）",
-      "scope": "已整理191部作品：Alicesoft本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联24部、历史合作品牌IMYUIC 1部；主库关联27部，专题补充164部。纳入文字输入、菜单指令、阅读与养成冒险、RPG／SLG及独立小游戏，玩法分别标注；跨主库与全部专题去重，厂商全目录仍未完成。",
-      "versionScope": "专题累计270条版本。本批新增15部作品、21条版本，并为4部既有作品增加4条MSX2记录，共增加25条版本。四款前身特别篇各列PC-88／FM-7两版；特盛问答列PC-98、FM TOWNS及Windows 3.1。斗神攻略盘用1991年实际寄送年；梦想之家保留PC-8001平台。",
-      "publisherNote": "本专题区分Alicesoft本品牌、Alice Blue、AliceNoir、ChampionSoft历史沿革及历史合作IMYUIC。本批新增4部本品牌问答与11部ChampionSoft署名游戏；前身作品保留原发行署名，不统一声称由后来的Alicesoft团队开发。",
+      "status": "第十七批完成：专题累计206部作品（含指令及历史关联）",
+      "scope": "已整理206部作品：Alicesoft本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft前身关联39部、历史合作品牌IMYUIC 1部；主库关联27部，专题补充179部。纳入文字输入、菜单指令、阅读与养成冒险、RPG／SLG及独立小游戏，玩法分别标注；跨主库与全部专题去重，厂商全目录仍未完成。",
+      "versionScope": "专题累计313条版本。本批新增15部作品、27条版本，并为5部既有指令冒险增加16条历史平台记录，共增加43条版本。普通PC-88、PC-88VA、PC-8001分别记录；D.P.S. SG第三集MSX2采用1992年移植年。三款早期改名游戏合并作品，1982年记录与当时署名保留疑点。",
+      "publisherNote": "本专题区分Alicesoft本品牌、Alice Blue、AliceNoir、ChampionSoft历史沿革及历史合作IMYUIC。本批新增15部前身关联游戏，已确认的1983年以后版本保留ChampionSoft署名；三款馆藏所列1982年早期记录的当时发行署名未核实。既有本品牌指令冒险补16条平台版本。",
       "workIds": [
         "g482",
         "g483",
@@ -7730,13 +7730,13 @@
         "g507",
         "g508"
       ],
-      "catalogueEntryCount": 191,
+      "catalogueEntryCount": 206,
       "source": "https://www.alicesoft.com/game/index.html",
       "sectionTitle": "叙事及养成 ADV：27 部",
       "overviewLabel": "已整理作品（含指令、RPG／SLG与历史关联）",
       "auditTitle": "已收录作品与后续目录",
-      "auditLabel": "第十六批新增15部作品、25条版本：4部Alicesoft问答、11部ChampionSoft历史关联，并补4部既有游戏的MSX2版本；仅更新本专题。",
-      "auditNote": "专题累计191部／270条版本：主库关联27部／36条，专题补充164部／234条。品牌分项为Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联24部及IMYUIC历史合作1部。主数据库仍为505部／922条。CG图集、投稿小说、展示和未完成预告不计游戏；类型、日期及编号异文逐项说明。",
+      "auditLabel": "第十七批新增15部前身关联作品、27条版本，并补5部既有指令冒险的16条历史平台版本，共新增43条；仅更新本专题。",
+      "auditNote": "专题累计206部／313条版本：主库关联27部／36条，专题补充179部／277条。品牌分项为Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联39部及IMYUIC历史合作1部。主数据库仍为505部／922条。改名、移植与D.P.S.篇名不增加作品数；CG、漫画、棋谱浏览及未完成预告逐项排除，日期和署名存疑处保留说明。",
       "entries": [
         {
           "title": "妻みぐい3",
@@ -9690,11 +9690,193 @@
           "relatedIds": [],
           "reason": "其后的庆子护士／OL／新妻三篇是CG图集；久美ちゃんファイト！！在Alice NET用户投稿阅读栏目，未取得可操作独立游戏的证据，不列作第五款问答或新增游戏。",
           "source": "https://alicecottage1989.blog.jp/archives/19289359.html"
+        },
+        {
+          "title": "コンバット-47",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-combat47"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 馆藏将早期标题记为1982年，但同时归档于1983年成立的ChampionSoft；PC目录也列“1982年以前”。精确初发日期和当时商业署名存疑。本条保留馆藏年代，不据此声称ChampionSoft公司于1982年发行；1983年改题发行另列。",
+          "source": "https://fm-7.com/museum/products/5a1blrll/"
+        },
+        {
+          "title": "ウエディングレース",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-weddingrace"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 馆藏将早期标题记为1982年，但同时归档于1983年成立的ChampionSoft；PC目录也列“1982年以前”。精确初发日期和当时商业署名存疑。本条保留馆藏年代，不据此声称ChampionSoft公司于1982年发行；1983年改题发行另列。",
+          "source": "https://fm-7.com/museum/products/dzemd2z1/"
+        },
+        {
+          "title": "コンピュータウォーズ",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-computerwars"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 馆藏将早期标题记为1982年，但同时归档于1983年成立的ChampionSoft；PC目录也列“1982年以前”。精确初发日期和当时商业署名存疑。本条保留馆藏年代，不据此声称ChampionSoft公司于1982年发行；1983年改题发行另列。",
+          "source": "https://fm-7.com/museum/products/f3yz2fxy/"
+        },
+        {
+          "title": "カーチェイサー",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-carchaser"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 ",
+          "source": "https://www.gamepres.org/pc88/library/1983/1983_6.html#car"
+        },
+        {
+          "title": "ジャンピングクロス",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-jumpingcross"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 不与同名街机摩托车游戏自动合并。",
+          "source": "https://www.gamepres.org/pc88/library/1983/1983_6.html#jumping"
+        },
+        {
+          "title": "タイムパトロール",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-timepatrol"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 ",
+          "source": "https://fm-7.com/museum/products/o4lgoo45/"
+        },
+        {
+          "title": "ノーザンコンボイ",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-northernconvoy"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 ",
+          "source": "https://fm-7.com/museum/products/j2cbdm4q/"
+        },
+        {
+          "title": "大相撲",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-oozumou"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 ",
+          "source": "https://fm-7.com/museum/products/ielcs39v/"
+        },
+        {
+          "title": "ザ・プロボウリング",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-probowling"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 ",
+          "source": "https://fm-7.com/museum/products/e0kujs61/"
+        },
+        {
+          "title": "カタストロフィ",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-catastrophe"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 FM馆藏归模拟，PC资料归ADV，保留混合玩法；尚未完整核实各阶段采用文字输入、菜单或直接操作，不统一称为纯文本指令。",
+          "source": "https://www.gamepres.org/pc88/library/1984/1984_2.html#cata"
+        },
+        {
+          "title": "クラッシュボール",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-crashball"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 ",
+          "source": "https://fm-7.com/museum/products/pqn5yedz/"
+        },
+        {
+          "title": "詰碁",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-tsumego"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 不与其他厂商同名詰碁游戏合并，也不把后来的《詰碁120》当成此作再版。",
+          "source": "https://fm-7.com/museum/products/ehmsqmii/"
+        },
+        {
+          "title": "詰将棋",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-tsumeshogi"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 同名棋类题集很多，仅收录ChampionSoft署名的这款。",
+          "source": "https://www.gamepres.org/pc88/library/1984/1984_2.html#tsumesho"
+        },
+        {
+          "title": "加藤正夫の実戦定石200 実戦編",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-katomasaojoseki200"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 加藤正夫是监修者，不作为虚构角色。纯棋谱浏览软件不因此自动纳入游戏数。",
+          "source": "https://fm-7.com/museum/products/riipga64/"
+        },
+        {
+          "title": "シャドーハンター",
+          "status": "第十七批：仅专题收录",
+          "workIds": [],
+          "relatedIds": [
+            "alicesoft-extra-shadowhunter"
+          ],
+          "reason": "历史前身游戏，玩法单独标明；中文名为编辑译名。ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 按MobyGames说明为预设场景行动菜单，不是自由输入任意动词，也不是点击画面任意物体。操作说明主要依据MSX资料，PC版细节未逐项验证。",
+          "source": "https://www.mobygames.com/game/30399/shadow-hunter/"
+        },
+        {
+          "title": "がんばれ美樹ちゃん",
+          "status": "第十七批：暂不计游戏",
+          "workIds": [],
+          "relatedIds": [],
+          "reason": "馆藏明确为部分带动画的四格漫画集；未确认独立游戏机制，不计游戏。",
+          "source": "https://fm-7.com/museum/products/ef3e3bsr/"
+        },
+        {
+          "title": "ゲームの墓地",
+          "status": "第十七批：暂不计游戏",
+          "workIds": [],
+          "relatedIds": [],
+          "reason": "《馆3》中的废案CG资料集，虽在合集目录出现，未确认可玩游戏，不计作品。",
+          "source": "https://alicecottage1989.blog.jp/archives/23634970.html"
+        },
+        {
+          "title": "囲碁道場",
+          "status": "第十七批：暂不计游戏",
+          "workIds": [],
+          "relatedIds": [],
+          "reason": "现有资料主要确认棋谱输入、存储和重放；尚未核实独立对局或解题机制，暂不计游戏。",
+          "source": "https://fm-7.com/museum/products/egbt3swl/"
+        },
+        {
+          "title": "ザ・サクセスマン",
+          "status": "第十七批：暂不计游戏",
+          "workIds": [],
+          "relatedIds": [],
+          "reason": "馆藏推测与Hudson《出世ゲーム》相同，关系未明；保留核对项，暂不新增以免跨厂商重复。",
+          "source": "https://fm-7.com/museum/products/lnyc2giw/"
         }
       ],
-      "description": "Alicesoft及历史关联专题：191部作品、270条版本，含文字与菜单指令、角色问答、RPG／SLG、经营模拟及拼图，保留中文检索名、原名、人物与来源。",
+      "description": "Alicesoft及历史关联专题：206部作品、313条版本，含文字与菜单指令、角色问答、RPG／SLG、经营模拟、棋类与动作游戏，保留中文检索名、原名、人物与来源。",
       "creativeProfile": {
-        "thesis": "Alicesoft的叙事与玩法长期并行。本专题共191部作品，含本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联24部及IMYUIC历史合作1部。早期图文与菜单指令、阅读与养成、问答、经营和战略各有独立形式；合集内可玩模块与CG图集、小说阅读区、预告分开核实。历史署名、发行年冲突与资料缺口分别说明。",
+        "thesis": "Alicesoft的叙事与玩法长期并行。本专题共206部作品，含本品牌158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联39部及IMYUIC历史合作1部。早期图文与菜单指令、阅读与养成、问答、经营、棋类和战略各有独立形式；合集内可玩模块与图集、漫画、小说阅读区和预告分开核实。历史署名、发行年冲突与资料缺口分别说明。",
         "phases": [
           {
             "period": "1983—1989（前身品牌）",
@@ -9702,6 +9884,13 @@
             "analysis": "ChampionSoft早期既有珀尔修斯的船内推理调查，也有Love Chaser的体力管理。幻梦之城用对象关键词触发动作，天女传说与Lovely GAL采用功能键动词配合对象文字；小吸血鬼则使用动词再选对象的菜单。这些具体作品体现不同输入形式，不能将早期ADV一律归为文字输入或纯阅读。",
             "basis": "编辑观察",
             "source": "https://www.gamepres.org/pc88/library/1987/1987_4.htm"
+          },
+          {
+            "period": "1983—1988（前身品牌）",
+            "heading": "调查、模拟与场景行动菜单交错",
+            "analysis": "《大灾变》用搜寻、研究与嫌疑人问询等阶段组合流程，《暗影猎人》则随场景提供可执行的预设行动。早期领地战略、营业决策与相扑招式又使用不同的输入目标。它们体现前身目录的多种玩法，不能把带有文字界面的作品全部称为自由输入指令冒险。",
+            "basis": "编辑观察",
+            "source": "https://www.gamepres.org/pc88/library/1984/1984_2.html#cata"
           },
           {
             "period": "1983—1995",
@@ -13799,6 +13988,39 @@
               "source": "https://w.atwiki.jp/gcmatome/pages/5673.html",
               "id": "alicesoft-extra-crescentmoongirl-v2",
               "workId": "alicesoft-extra-crescentmoongirl"
+            },
+            {
+              "id": "alicesoft-extra-crescentmoongirl-v3",
+              "workId": "alicesoft-extra-crescentmoongirl",
+              "year": 1989,
+              "platform": "MSX2",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1989-11-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15825278.html"
+            },
+            {
+              "id": "alicesoft-extra-crescentmoongirl-v4",
+              "workId": "alicesoft-extra-crescentmoongirl",
+              "year": 1989,
+              "platform": "X68000",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1989-12-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15825278.html"
+            },
+            {
+              "id": "alicesoft-extra-crescentmoongirl-v5",
+              "workId": "alicesoft-extra-crescentmoongirl",
+              "year": 1989,
+              "platform": "PC-88VA",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1989-12-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/15825278.html"
             }
           ]
         },
@@ -13860,7 +14082,10 @@
           "titleAliases": [
             "D.P.S",
             "Dream Program System",
-            "D・P・S"
+            "D・P・S",
+            "プリンセス・ファンタジー",
+            "なんてったって芸能人",
+            "いけない内科検診"
           ],
           "firstYear": 1989,
           "category": "叙事／养成冒险",
@@ -13876,7 +14101,7 @@
           "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
           "charactersSource": "https://ja.wikipedia.org/wiki/D.P.S.",
           "synopsis": "三篇故事分别围绕骑士护送公主、偶像与憧憬她的少女、医师的诊察事件展开。玩家通过梦境程序切换人物处境，再以选择推进各篇。",
-          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。",
+          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。 收录篇名：プリンセス・ファンタジー、なんてったって芸能人、いけない内科検診；这些篇名支持本页查找，不单独增加作品数。",
           "source": "https://www.mobygames.com/game/47524/dps-dream-program-system/",
           "versions": [
             {
@@ -13900,6 +14125,17 @@
               "source": "https://alicecottage1989.blog.jp/archives/23969795.html",
               "id": "alicesoft-extra-dpsoriginal-v2",
               "workId": "alicesoft-extra-dpsoriginal"
+            },
+            {
+              "id": "alicesoft-extra-dpsoriginal-v3",
+              "workId": "alicesoft-extra-dpsoriginal",
+              "year": 1990,
+              "platform": "PC-88",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1990-03-15 PC-8801mkIISR以后版本；不同于PC-88VA上的SG系列；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://www.gamepres.org/pc88/library/1990/1990_3.html#dps"
             }
           ]
         },
@@ -13912,7 +14148,10 @@
           "titleAliases": [
             "D.P.S SG",
             "D.P.S. SG set1",
-            "Dream Program System SG"
+            "Dream Program System SG",
+            "家庭教師はステキなお仕事",
+            "信長の淫謀",
+            "Fahnen fliegen"
           ],
           "firstYear": 1990,
           "category": "叙事／养成冒险",
@@ -13929,7 +14168,7 @@
           "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
           "charactersSource": "https://ja.wikipedia.org/wiki/D.P.S.",
           "synopsis": "三篇故事采用家教、战时审讯与战国权力关系的不同舞台。同一局面可因人物立场而改变，玩家通过指令与选择推进。",
-          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。",
+          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。 收录篇名：家庭教師はステキなお仕事、信長の淫謀、Fahnen fliegen；这些篇名支持本页查找，不单独增加作品数。",
           "source": "https://ja.wikipedia.org/wiki/D.P.S.",
           "versions": [
             {
@@ -13953,6 +14192,50 @@
               "source": "https://alicecottage1989.blog.jp/archives/23969795.html",
               "id": "alicesoft-extra-dpssg-v2",
               "workId": "alicesoft-extra-dpssg"
+            },
+            {
+              "id": "alicesoft-extra-dpssg-v3",
+              "workId": "alicesoft-extra-dpssg",
+              "year": 1990,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1990-09-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/17363744.html"
+            },
+            {
+              "id": "alicesoft-extra-dpssg-v4",
+              "workId": "alicesoft-extra-dpssg",
+              "year": 1990,
+              "platform": "PC-88VA",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1990-09-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/17363744.html"
+            },
+            {
+              "id": "alicesoft-extra-dpssg-v5",
+              "workId": "alicesoft-extra-dpssg",
+              "year": 1990,
+              "platform": "X68000",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1990-10-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/17363744.html"
+            },
+            {
+              "id": "alicesoft-extra-dpssg-v6",
+              "workId": "alicesoft-extra-dpssg",
+              "year": 1990,
+              "platform": "MSX2",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1990-12-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/17363744.html"
             }
           ]
         },
@@ -13965,7 +14248,10 @@
           "titleAliases": [
             "D.P.S SG set2",
             "D.P.S. SG Set 2",
-            "Dream Program System SG set 2"
+            "Dream Program System SG set 2",
+            "いけない内科検診再び",
+            "朱い夜",
+            "ANTIQUE HOUSE"
           ],
           "firstYear": 1991,
           "category": "叙事／养成冒险",
@@ -13982,7 +14268,7 @@
           "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
           "charactersSource": "https://ja.wikipedia.org/wiki/D.P.S.",
           "synopsis": "三篇分别呈现雨中闯入旧洋馆后怪谈成真、火灾旅馆中的救援，以及医师题材续篇；主人公性格和视点影响事件。",
-          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。",
+          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。 收录篇名：いけない内科検診再び、朱い夜、ANTIQUE HOUSE；这些篇名支持本页查找，不单独增加作品数。",
           "source": "https://ja.wikipedia.org/wiki/D.P.S.",
           "versions": [
             {
@@ -14006,6 +14292,50 @@
               "source": "https://alicecottage1989.blog.jp/archives/23969795.html",
               "id": "alicesoft-extra-dpssgset2-v2",
               "workId": "alicesoft-extra-dpssgset2"
+            },
+            {
+              "id": "alicesoft-extra-dpssgset2-v3",
+              "workId": "alicesoft-extra-dpssgset2",
+              "year": 1991,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1991-04-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/17856689.html"
+            },
+            {
+              "id": "alicesoft-extra-dpssgset2-v4",
+              "workId": "alicesoft-extra-dpssgset2",
+              "year": 1991,
+              "platform": "PC-88VA",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1991-04-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/17856689.html"
+            },
+            {
+              "id": "alicesoft-extra-dpssgset2-v5",
+              "workId": "alicesoft-extra-dpssgset2",
+              "year": 1991,
+              "platform": "X68000",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1991-04-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/17856689.html"
+            },
+            {
+              "id": "alicesoft-extra-dpssgset2-v6",
+              "workId": "alicesoft-extra-dpssgset2",
+              "year": 1991,
+              "platform": "MSX2",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1991-05-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/17856689.html"
             }
           ]
         },
@@ -14018,7 +14348,10 @@
           "titleAliases": [
             "D.P.S SG set3",
             "D.P.S. SG Set 3",
-            "Dream Program System SG set 3"
+            "Dream Program System SG set 3",
+            "Rabbit～P4P～",
+            "卒業",
+            "しんこんさんものがたり"
           ],
           "firstYear": 1991,
           "category": "叙事／养成冒险",
@@ -14034,7 +14367,7 @@
           "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
           "charactersSource": "https://ja.wikipedia.org/wiki/D.P.S.",
           "synopsis": "三篇从新婚夫妇的不同视点、毕业告白突遇怪兽，以及追随神秘兔女郎进入奇幻世界展开，日常与幻想的交错构成各自的短篇。",
-          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。",
+          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。 收录篇名：Rabbit～P4P～、卒業、しんこんさんものがたり；这些篇名支持本页查找，不单独增加作品数。",
           "source": "https://www.mobygames.com/game/47527/dream-program-system-sg-set-3/",
           "versions": [
             {
@@ -14058,6 +14391,50 @@
               "source": "https://alicecottage1989.blog.jp/archives/23969795.html",
               "id": "alicesoft-extra-dpssgset3-v2",
               "workId": "alicesoft-extra-dpssgset3"
+            },
+            {
+              "id": "alicesoft-extra-dpssgset3-v3",
+              "workId": "alicesoft-extra-dpssgset3",
+              "year": 1991,
+              "platform": "FM TOWNS",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1991-12-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/18752899.html"
+            },
+            {
+              "id": "alicesoft-extra-dpssgset3-v4",
+              "workId": "alicesoft-extra-dpssgset3",
+              "year": 1991,
+              "platform": "PC-88VA",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1991-12-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/18752899.html"
+            },
+            {
+              "id": "alicesoft-extra-dpssgset3-v5",
+              "workId": "alicesoft-extra-dpssgset3",
+              "year": 1991,
+              "platform": "X68000",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1991-12-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/18752899.html"
+            },
+            {
+              "id": "alicesoft-extra-dpssgset3-v6",
+              "workId": "alicesoft-extra-dpssgset3",
+              "year": 1992,
+              "platform": "MSX2",
+              "publisher": "Alicesoft",
+              "kind": "历史平台发行",
+              "voice": "未核实",
+              "differences": "1992-02-15 发行记录据历史档案；PC-88VA与普通PC-88分别记录；同内容移植合并到原作品，配音未逐版核实。",
+              "source": "https://alicecottage1989.blog.jp/archives/18752899.html"
             }
           ]
         },
@@ -14070,7 +14447,10 @@
           "titleAliases": [
             "Super D.P.S",
             "SUPER D.P.S.",
-            "Super Dream Program System"
+            "Super Dream Program System",
+            "マリアとカンパン",
+            "うれしたのし海賊稼業",
+            "遠野の森"
           ],
           "firstYear": 1992,
           "category": "叙事／养成冒险",
@@ -14087,7 +14467,7 @@
           "charactersNote": "仅列本次来源能够核对的人物；姓名未核实处以身份注明。",
           "charactersSource": "https://ja.wikipedia.org/wiki/D.P.S.",
           "synopsis": "三篇故事分别围绕玛利亚与出现异常的机器人、森林中遭遇危险的伙伴，以及袭击宇宙船的女海盗展开。梦境程序将机械、求生和太空题材并置。",
-          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。",
+          "notes": "一个发行标题包含三篇独立短故事，整体计一部。人物视角、性格或分支会改变流程；不将三篇及其不同路线拆成新作品。《D.P.S.全部》的同内容收录归再版，新增《惠的故事》已在第十批单列。 收录篇名：マリアとカンパン、うれしたのし海賊稼業、遠野の森；这些篇名支持本页查找，不单独增加作品数。",
           "source": "https://www.mobygames.com/game/47528/super-dps/",
           "versions": [
             {
@@ -16798,12 +17178,684 @@
               "source": "https://www.gamepres.org/pc88/library/1987/1987_12.html#exec"
             }
           ]
+        },
+        {
+          "id": "alicesoft-extra-combat47",
+          "title": "国盗战：Combat 47",
+          "chineseTitle": "国盗战：Combat 47",
+          "originalTitle": "コンバット-47",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "国盗りゲーム",
+            "COMBAT47",
+            "COMBAT-47",
+            "コンバット４７"
+          ],
+          "firstYear": 1982,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "日本地图战争模拟",
+          "genre": "领地争夺／历史战略",
+          "characters": [
+            "争夺日本领地的玩家"
+          ],
+          "charactersNote": "来源确认玩家身份或操作对象，未提供实名人物；身份说明不作为角色正式姓名。",
+          "charactersSource": "https://fm-7.com/museum/products/5a1blrll/",
+          "synopsis": "以日本地图上的领地争夺为目标的战争模拟。早期名称《国盗りゲーム》与后来的Combat 47合并为一部。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 馆藏将早期标题记为1982年，但同时归档于1983年成立的ChampionSoft；PC目录也列“1982年以前”。精确初发日期和当时商业署名存疑。本条保留馆藏年代，不据此声称ChampionSoft公司于1982年发行；1983年改题发行另列。",
+          "source": "https://fm-7.com/museum/products/5a1blrll/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-combat47-v1",
+              "workId": "alicesoft-extra-combat47",
+              "year": 1982,
+              "platform": "FM-7",
+              "publisher": "未核实（馆藏归入ChampionSoft前身关联）",
+              "kind": "早期标题记录（日期存疑）",
+              "voice": "未核实",
+              "differences": "馆藏将早期标题记为1982年，但同时归档于1983年成立的ChampionSoft；PC目录也列“1982年以前”。精确初发日期和当时商业署名存疑。本条保留馆藏年代，不据此声称ChampionSoft公司于1982年发行；1983年改题发行另列。",
+              "source": "https://fm-7.com/museum/products/eut10qpw/"
+            },
+            {
+              "id": "alicesoft-extra-combat47-v2",
+              "workId": "alicesoft-extra-combat47",
+              "year": 1983,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "改题再发行",
+              "voice": "未核实",
+              "differences": "馆藏列1983年改为《コンバット-47》；作者白木善喜。角色配音未核实；兼容FM系列后续机型不另计发行版本。",
+              "source": "https://fm-7.com/museum/products/5a1blrll/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-weddingrace",
+          "title": "天堂与地狱：婚礼竞赛",
+          "chineseTitle": "天堂与地狱：婚礼竞赛",
+          "originalTitle": "ウエディングレース",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "天国と地獄",
+            "ウェディングレース",
+            "Wedding Race"
+          ],
+          "firstYear": 1982,
+          "category": "益智／桌面游戏",
+          "subcategory": "人生双六",
+          "genre": "出生／婚姻／破产",
+          "characters": [
+            "从出生走向婚姻的玩家"
+          ],
+          "charactersNote": "来源确认玩家身份或操作对象，未提供实名人物；身份说明不作为角色正式姓名。",
+          "charactersSource": "https://fm-7.com/museum/products/dzemd2z1/",
+          "synopsis": "以从出生到结婚的人生经历为背景的双六式游戏，目标是走向婚姻，同时避免破产。旧名《天堂与地狱》不另计作品。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 馆藏将早期标题记为1982年，但同时归档于1983年成立的ChampionSoft；PC目录也列“1982年以前”。精确初发日期和当时商业署名存疑。本条保留馆藏年代，不据此声称ChampionSoft公司于1982年发行；1983年改题发行另列。",
+          "source": "https://fm-7.com/museum/products/dzemd2z1/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-weddingrace-v1",
+              "workId": "alicesoft-extra-weddingrace",
+              "year": 1982,
+              "platform": "FM-7",
+              "publisher": "未核实（馆藏归入ChampionSoft前身关联）",
+              "kind": "早期标题记录（日期存疑）",
+              "voice": "未核实",
+              "differences": "馆藏将早期标题记为1982年，但同时归档于1983年成立的ChampionSoft；PC目录也列“1982年以前”。精确初发日期和当时商业署名存疑。本条保留馆藏年代，不据此声称ChampionSoft公司于1982年发行；1983年改题发行另列。",
+              "source": "https://fm-7.com/museum/products/mttloqf5/"
+            },
+            {
+              "id": "alicesoft-extra-weddingrace-v2",
+              "workId": "alicesoft-extra-weddingrace",
+              "year": 1983,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "改题再发行",
+              "voice": "未核实",
+              "differences": "1983年以婚礼竞赛标题发行；白木善喜作品。角色配音未核实；兼容FM系列后续机型不另计发行版本。",
+              "source": "https://fm-7.com/museum/products/dzemd2z1/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-computerwars",
+          "title": "销售翻倍大作战：电脑商战",
+          "chineseTitle": "销售翻倍大作战：电脑商战",
+          "originalTitle": "コンピュータウォーズ",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "売上倍増大作戦",
+            "COMPUTER WARS"
+          ],
+          "firstYear": 1982,
+          "category": "经营／职业模拟",
+          "subcategory": "营业策略模拟",
+          "genre": "电脑公司／市场份额",
+          "characters": [
+            "电脑公司的营业部长（玩家）"
+          ],
+          "charactersNote": "来源确认玩家身份或操作对象，未提供实名人物；身份说明不作为角色正式姓名。",
+          "charactersSource": "https://fm-7.com/museum/products/f3yz2fxy/",
+          "synopsis": "玩家担任电脑公司营业部长，尝试在三年内把市场份额从10%提高到50%。《销售翻倍大作战》为早期标题，合并记录。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 馆藏将早期标题记为1982年，但同时归档于1983年成立的ChampionSoft；PC目录也列“1982年以前”。精确初发日期和当时商业署名存疑。本条保留馆藏年代，不据此声称ChampionSoft公司于1982年发行；1983年改题发行另列。",
+          "source": "https://fm-7.com/museum/products/f3yz2fxy/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-computerwars-v1",
+              "workId": "alicesoft-extra-computerwars",
+              "year": 1982,
+              "platform": "FM-7",
+              "publisher": "未核实（馆藏归入ChampionSoft前身关联）",
+              "kind": "早期标题记录（日期存疑）",
+              "voice": "未核实",
+              "differences": "馆藏将早期标题记为1982年，但同时归档于1983年成立的ChampionSoft；PC目录也列“1982年以前”。精确初发日期和当时商业署名存疑。本条保留馆藏年代，不据此声称ChampionSoft公司于1982年发行；1983年改题发行另列。",
+              "source": "https://fm-7.com/museum/products/x3auvpz4/"
+            },
+            {
+              "id": "alicesoft-extra-computerwars-v2",
+              "workId": "alicesoft-extra-computerwars",
+              "year": 1983,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "改题再发行",
+              "voice": "未核实",
+              "differences": "1983年以Computer Wars标题发行；作者白木善喜。角色配音未核实；兼容FM系列后续机型不另计发行版本。",
+              "source": "https://fm-7.com/museum/products/f3yz2fxy/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-carchaser",
+          "title": "汽车追逐者",
+          "chineseTitle": "汽车追逐者",
+          "originalTitle": "カーチェイサー",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Car Chaser"
+          ],
+          "firstYear": 1983,
+          "category": "动作／休闲游戏",
+          "subcategory": "道路收集动作",
+          "genre": "驾驶／追逐",
+          "characters": [
+            "车辆驾驶者（玩家）"
+          ],
+          "charactersNote": "来源确认玩家身份或操作对象，未提供实名人物；身份说明不作为角色正式姓名。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1983/1983_6.html#car",
+          "synopsis": "玩家控制汽车收集道路上的点，并避开电脑控制的车辆。PC资料列为接近Head On的玩法，保留为独立标题，不当作已获授权的移植。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 ",
+          "source": "https://www.gamepres.org/pc88/library/1983/1983_6.html#car",
+          "versions": [
+            {
+              "id": "alicesoft-extra-carchaser-v1",
+              "workId": "alicesoft-extra-carchaser",
+              "year": 1983,
+              "platform": "PC-8001",
+              "publisher": "ChampionSoft",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "1983年6月，资料明确为PC-8001游戏；不可因目录位于PC-88栏目而写成PC-88。",
+              "source": "https://www.gamepres.org/pc88/library/1983/1983_6.html#car"
+            },
+            {
+              "id": "alicesoft-extra-carchaser-v2",
+              "workId": "alicesoft-extra-carchaser",
+              "year": 1983,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM版",
+              "voice": "未核实",
+              "differences": "馆藏列1983年，月份以“6?月”存疑；作者谷田宣文。角色配音未核实；兼容FM系列后续机型不另计发行版本。",
+              "source": "https://fm-7.com/museum/products/56o11rnw/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-jumpingcross",
+          "title": "跳跃十字",
+          "chineseTitle": "跳跃十字",
+          "originalTitle": "ジャンピングクロス",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Jumping Cross"
+          ],
+          "firstYear": 1983,
+          "category": "动作／休闲游戏",
+          "subcategory": "跳跃收集动作",
+          "genre": "反应操作／躲避",
+          "characters": [
+            "Jumper（玩家操作对象）"
+          ],
+          "charactersNote": "来源确认玩家身份或操作对象，未提供实名人物；身份说明不作为角色正式姓名。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1983/1983_6.html#jumping",
+          "synopsis": "控制Jumper收集藤蔓上的钻石，并躲避从画面右侧出现的Meteor或UFO。属于反应动作游戏。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 不与同名街机摩托车游戏自动合并。",
+          "source": "https://www.gamepres.org/pc88/library/1983/1983_6.html#jumping",
+          "versions": [
+            {
+              "id": "alicesoft-extra-jumpingcross-v1",
+              "workId": "alicesoft-extra-jumpingcross",
+              "year": 1983,
+              "platform": "PC-8001",
+              "publisher": "ChampionSoft",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "1983年6月，PC资料明确为PC-8001游戏；保留实际平台。",
+              "source": "https://www.gamepres.org/pc88/library/1983/1983_6.html#jumping"
+            },
+            {
+              "id": "alicesoft-extra-jumpingcross-v2",
+              "workId": "alicesoft-extra-jumpingcross",
+              "year": 1983,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM版",
+              "voice": "未核实",
+              "differences": "馆藏列1983年；作者谷田宣文、移植者薮内雄美。角色配音未核实；兼容FM系列后续机型不另计发行版本。",
+              "source": "https://fm-7.com/museum/products/v8quufvd/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-timepatrol",
+          "title": "时间巡逻队",
+          "chineseTitle": "时间巡逻队",
+          "originalTitle": "タイムパトロール",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "TIME PATROL"
+          ],
+          "firstYear": 1983,
+          "category": "动作／休闲游戏",
+          "subcategory": "四种小游戏集",
+          "genre": "宇宙巡逻／综合挑战",
+          "characters": [
+            "希望成为宇宙巡逻队员的玩家"
+          ],
+          "charactersNote": "来源确认玩家身份或操作对象，未提供实名人物；身份说明不作为角色正式姓名。",
+          "charactersSource": "https://fm-7.com/museum/products/o4lgoo45/",
+          "synopsis": "以成为宇宙巡逻队员为目标，包含跳高、人类诞生、基因重组和天气四种游戏。四个模块随同一标题发行，整体计一部。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 ",
+          "source": "https://fm-7.com/museum/products/o4lgoo45/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-timepatrol-v1",
+              "workId": "alicesoft-extra-timepatrol",
+              "year": 1983,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "馆藏列1983年，月份“6?月”未确定；作者平岩徳一、移植夏目明彦。角色配音未核实；兼容FM系列后续机型不另计发行版本。",
+              "source": "https://fm-7.com/museum/products/o4lgoo45/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-northernconvoy",
+          "title": "北方护航船队",
+          "chineseTitle": "北方护航船队",
+          "originalTitle": "ノーザンコンボイ",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "NORTHERN CONVOY"
+          ],
+          "firstYear": 1983,
+          "category": "角色扮演／战略模拟",
+          "subcategory": "船队护航战争模拟",
+          "genre": "第二次世界大战／海上护航",
+          "characters": [
+            "护航船队指挥者（玩家）"
+          ],
+          "charactersNote": "来源确认玩家身份或操作对象，未提供实名人物；身份说明不作为角色正式姓名。",
+          "charactersSource": "https://fm-7.com/museum/products/j2cbdm4q/",
+          "synopsis": "在二战背景下组织第三次援苏船队的护航，尝试使船队抵达摩尔曼斯克。以护航模拟推进，区别于人物调查冒险。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 ",
+          "source": "https://fm-7.com/museum/products/j2cbdm4q/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-northernconvoy-v1",
+              "workId": "alicesoft-extra-northernconvoy",
+              "year": 1983,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM版",
+              "voice": "未核实",
+              "differences": "FM馆藏列1983年；作者R.SEEMOTH。角色配音未核实；兼容FM系列后续机型不另计发行版本。",
+              "source": "https://fm-7.com/museum/products/j2cbdm4q/"
+            },
+            {
+              "id": "alicesoft-extra-northernconvoy-v2",
+              "workId": "alicesoft-extra-northernconvoy",
+              "year": 1984,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC版",
+              "voice": "未核实",
+              "differences": "PC目录列1984年1月；FM与PC记录分别保留，不将移植日期当作全平台首发。",
+              "source": "https://www.gamepres.org/pc88/library/1984/1984_1.html#nothern"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-oozumou",
+          "title": "大相扑",
+          "chineseTitle": "大相扑",
+          "originalTitle": "大相撲",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Oozumou"
+          ],
+          "firstYear": 1983,
+          "category": "动作／休闲游戏",
+          "subcategory": "相扑运动游戏",
+          "genre": "晋升／运动竞技",
+          "characters": [
+            "从前头位阶起步的力士（玩家）"
+          ],
+          "charactersNote": "来源确认玩家身份或操作对象，未提供实名人物；身份说明不作为角色正式姓名。",
+          "charactersSource": "https://fm-7.com/museum/products/ielcs39v/",
+          "synopsis": "玩家从前头开始比赛，争取晋升横纲。PC版以六个场所、每场所十五日组织赛程，使用数字键选择相扑招式。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 ",
+          "source": "https://fm-7.com/museum/products/ielcs39v/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-oozumou-v1",
+              "workId": "alicesoft-extra-oozumou",
+              "year": 1983,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM版",
+              "voice": "未核实",
+              "differences": "馆藏列1983年；作者波多野雅章、移植安井高次。角色配音未核实；兼容FM系列后续机型不另计发行版本。",
+              "source": "https://fm-7.com/museum/products/ielcs39v/"
+            },
+            {
+              "id": "alicesoft-extra-oozumou-v2",
+              "workId": "alicesoft-extra-oozumou",
+              "year": 1984,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC版",
+              "voice": "未核实",
+              "differences": "1984年1月PC版；赛程与招式说明据PC资料，不推定各版完全相同。",
+              "source": "https://www.gamepres.org/pc88/library/1984/1984_1.html#sumo"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-probowling",
+          "title": "职业保龄球",
+          "chineseTitle": "职业保龄球",
+          "originalTitle": "ザ・プロボウリング",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "THE PRO BOWLING"
+          ],
+          "firstYear": 1983,
+          "category": "动作／休闲游戏",
+          "subcategory": "保龄球运动游戏",
+          "genre": "巡回赛／投球",
+          "characters": [
+            "巡回赛保龄球选手（玩家）"
+          ],
+          "charactersNote": "来源确认玩家身份或操作对象，未提供实名人物；身份说明不作为角色正式姓名。",
+          "charactersSource": "https://fm-7.com/museum/products/e0kujs61/",
+          "synopsis": "以巡回淘汰赛形式挑战保龄球比赛。PC版列入门、业余及职业三种等级，操作投球步骤并观察击倒球瓶。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 ",
+          "source": "https://fm-7.com/museum/products/e0kujs61/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-probowling-v1",
+              "workId": "alicesoft-extra-probowling",
+              "year": 1983,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM版",
+              "voice": "未核实",
+              "differences": "馆藏列1983年、体育游戏系列第二弹；作者ELDERMAN。角色配音未核实；兼容FM系列后续机型不另计发行版本。",
+              "source": "https://fm-7.com/museum/products/e0kujs61/"
+            },
+            {
+              "id": "alicesoft-extra-probowling-v2",
+              "workId": "alicesoft-extra-probowling",
+              "year": 1984,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC版",
+              "voice": "未核实",
+              "differences": "PC目录列1984年1月；三个等级说明据此版本资料。",
+              "source": "https://www.gamepres.org/pc88/library/1984/1984_1.html#bowling"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-catastrophe",
+          "title": "大灾变",
+          "chineseTitle": "大灾变",
+          "originalTitle": "カタストロフィ",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "カタストロフィー",
+            "CATASTROPHE",
+            "THE GREAT CATASTROPHE"
+          ],
+          "firstYear": 1984,
+          "category": "叙事／养成冒险",
+          "subcategory": "多阶段调查与模拟冒险",
+          "genre": "UFO／研究所／悬疑",
+          "characters": [
+            "寻找UFO线索的调查者（玩家）",
+            "接受测谎的三名嫌疑人（姓名未核实）"
+          ],
+          "charactersNote": "来源确认玩家身份或操作对象，未提供实名人物；身份说明不作为角色正式姓名。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1984/1984_2.html#cata",
+          "synopsis": "调查海地附近失踪的UFO，带回微缩胶片并潜入研究所，随后完成药物研究与嫌疑人问询。六阶段流程组合探索、模拟和谜题。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 FM馆藏归模拟，PC资料归ADV，保留混合玩法；尚未完整核实各阶段采用文字输入、菜单或直接操作，不统一称为纯文本指令。",
+          "source": "https://www.gamepres.org/pc88/library/1984/1984_2.html#cata",
+          "versions": [
+            {
+              "id": "alicesoft-extra-catastrophe-v1",
+              "workId": "alicesoft-extra-catastrophe",
+              "year": 1984,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM版",
+              "voice": "未核实",
+              "differences": "馆藏列1984年；作者平岩徳一，磁带版三盘。角色配音未核实；兼容FM系列后续机型不另计发行版本。",
+              "source": "https://fm-7.com/museum/products/pmq5rr0c/"
+            },
+            {
+              "id": "alicesoft-extra-catastrophe-v2",
+              "workId": "alicesoft-extra-catastrophe",
+              "year": 1984,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC版",
+              "voice": "未核实",
+              "differences": "1984年2月；PC资料列六个程序阶段，包含搜寻、研究与测谎调查。",
+              "source": "https://www.gamepres.org/pc88/library/1984/1984_2.html#cata"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-crashball",
+          "title": "撞击球",
+          "chineseTitle": "撞击球",
+          "originalTitle": "クラッシュボール",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "CRASH BALL",
+            "CRASH・BALL"
+          ],
+          "firstYear": 1984,
+          "category": "动作／休闲游戏",
+          "subcategory": "球类动作与关卡编辑",
+          "genre": "高尔夫／台球／建设",
+          "characters": [
+            "操作球完成球场挑战的玩家"
+          ],
+          "charactersNote": "来源确认玩家身份或操作对象，未提供实名人物；身份说明不作为角色正式姓名。",
+          "charactersSource": "https://fm-7.com/museum/products/pqn5yedz/",
+          "synopsis": "把高尔夫与台球式球场挑战结合，包含十八个球场和关卡建设功能。资料将其列为动作与建设游戏。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 ",
+          "source": "https://fm-7.com/museum/products/pqn5yedz/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-crashball-v1",
+              "workId": "alicesoft-extra-crashball",
+              "year": 1984,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "馆藏列1984年；作者パソコニクス，关卡数与建设功能据馆藏。角色配音未核实；兼容FM系列后续机型不另计发行版本。",
+              "source": "https://fm-7.com/museum/products/pqn5yedz/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-tsumego",
+          "title": "围棋死活题",
+          "chineseTitle": "围棋死活题",
+          "originalTitle": "詰碁",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Tsumego"
+          ],
+          "firstYear": 1984,
+          "category": "益智／桌面游戏",
+          "subcategory": "围棋解题",
+          "genre": "手筋／死活",
+          "characters": [
+            "围棋题解答者（玩家）"
+          ],
+          "charactersNote": "来源确认玩家身份或操作对象，未提供实名人物；身份说明不作为角色正式姓名。",
+          "charactersSource": "https://fm-7.com/museum/products/ehmsqmii/",
+          "synopsis": "以围棋局面和手筋为中心的解题软件，是《围棋道场》之后的相关产品。实际解题规则与题数未核实。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 不与其他厂商同名詰碁游戏合并，也不把后来的《詰碁120》当成此作再版。",
+          "source": "https://fm-7.com/museum/products/ehmsqmii/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-tsumego-v1",
+              "workId": "alicesoft-extra-tsumego",
+              "year": 1984,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM版",
+              "voice": "未核实",
+              "differences": "馆藏列1984年、作者木村迷人。角色配音未核实；兼容FM系列后续机型不另计发行版本。",
+              "source": "https://fm-7.com/museum/products/ehmsqmii/"
+            },
+            {
+              "id": "alicesoft-extra-tsumego-v2",
+              "workId": "alicesoft-extra-tsumego",
+              "year": 1984,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC版",
+              "voice": "未核实",
+              "differences": "PC目录列1984年2月，以詰碁手筋题为主要内容。",
+              "source": "https://www.gamepres.org/pc88/library/1984/1984_2.html#tsumego"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-tsumeshogi",
+          "title": "将棋诘题",
+          "chineseTitle": "将棋诘题",
+          "originalTitle": "詰将棋",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Tsumeshogi"
+          ],
+          "firstYear": 1984,
+          "category": "益智／桌面游戏",
+          "subcategory": "将棋解题",
+          "genre": "棋局／逐手提示",
+          "characters": [
+            "将棋题解答者（玩家）"
+          ],
+          "charactersNote": "来源确认玩家身份或操作对象，未提供实名人物；身份说明不作为角色正式姓名。",
+          "charactersSource": "https://www.gamepres.org/pc88/library/1984/1984_2.html#tsumesho",
+          "synopsis": "以将棋诘题为中心的解题游戏，PC版资料列三十题并支持逐手查看提示。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 同名棋类题集很多，仅收录ChampionSoft署名的这款。",
+          "source": "https://www.gamepres.org/pc88/library/1984/1984_2.html#tsumesho",
+          "versions": [
+            {
+              "id": "alicesoft-extra-tsumeshogi-v1",
+              "workId": "alicesoft-extra-tsumeshogi",
+              "year": 1984,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "FM版",
+              "voice": "未核实",
+              "differences": "馆藏列1984年、作者木村迷人；不将PC版题数未经核对地套到此版。角色配音未核实；兼容FM系列后续机型不另计发行版本。",
+              "source": "https://fm-7.com/museum/products/jsx4vv83/"
+            },
+            {
+              "id": "alicesoft-extra-tsumeshogi-v2",
+              "workId": "alicesoft-extra-tsumeshogi",
+              "year": 1984,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC版",
+              "voice": "未核实",
+              "differences": "1984年2月，资料确认三十题及每手提示功能。",
+              "source": "https://www.gamepres.org/pc88/library/1984/1984_2.html#tsumesho"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-katomasaojoseki200",
+          "title": "加藤正夫实战定式200：实战篇",
+          "chineseTitle": "加藤正夫实战定式200：实战篇",
+          "originalTitle": "加藤正夫の実戦定石200 実戦編",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "加藤正夫の実戦定石200",
+            "Katou Masao no Jissen Jouseki 200"
+          ],
+          "firstYear": 1984,
+          "category": "益智／桌面游戏",
+          "subcategory": "围棋对局练习",
+          "genre": "定式／棋局训练",
+          "characters": [
+            "练习定式的棋手（玩家）"
+          ],
+          "charactersNote": "来源确认玩家身份或操作对象，未提供实名人物；身份说明不作为角色正式姓名。",
+          "charactersSource": "https://fm-7.com/museum/products/riipga64/",
+          "synopsis": "由棋手加藤正夫监修，选取二百种围棋定式，以对局形式等方式练习。作为具备练习交互的棋类软件收录。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 加藤正夫是监修者，不作为虚构角色。纯棋谱浏览软件不因此自动纳入游戏数。",
+          "source": "https://fm-7.com/museum/products/riipga64/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-katomasaojoseki200-v1",
+              "workId": "alicesoft-extra-katomasaojoseki200",
+              "year": 1984,
+              "platform": "FM-7",
+              "publisher": "ChampionSoft",
+              "kind": "原版",
+              "voice": "未核实",
+              "differences": "馆藏列1984年；二百定式和对局练习据馆藏。角色配音未核实；兼容FM系列后续机型不另计发行版本。",
+              "source": "https://fm-7.com/museum/products/riipga64/"
+            }
+          ]
+        },
+        {
+          "id": "alicesoft-extra-shadowhunter",
+          "title": "暗影猎人",
+          "chineseTitle": "暗影猎人",
+          "originalTitle": "シャドーハンター",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "シャドゥハンター",
+            "Shadow Hunter"
+          ],
+          "firstYear": 1988,
+          "category": "叙事／养成冒险",
+          "subcategory": "随场景变化的菜单指令调查",
+          "genre": "警探／威胁信／推理",
+          "characters": [
+            "警察调查员（玩家）",
+            "Yoshizawa（作家，日文写法未核实）",
+            "Rika（作家的助手及侄女，日文写法未核实）"
+          ],
+          "charactersNote": "资料仅给Yoshizawa、Rika的罗马字和身份，不补造日文汉字；警察主角用玩家身份注明。",
+          "charactersSource": "https://www.mobygames.com/game/30399/shadow-hunter/",
+          "synopsis": "收到威胁的作家寻求警方帮助，玩家从她的住处展开调查。助手兼侄女遇害后，调查升级为追查凶手的案件。可执行行动随场景变化。",
+          "notes": "ChampionSoft历史关联作品，保留前身发行署名；不推定由1989年后的Alicesoft团队制作。角色姓名、语音及未列平台不作推断。 按MobyGames说明为预设场景行动菜单，不是自由输入任意动词，也不是点击画面任意物体。操作说明主要依据MSX资料，PC版细节未逐项验证。",
+          "source": "https://www.mobygames.com/game/30399/shadow-hunter/",
+          "versions": [
+            {
+              "id": "alicesoft-extra-shadowhunter-v1",
+              "workId": "alicesoft-extra-shadowhunter",
+              "year": 1988,
+              "platform": "MSX2",
+              "publisher": "ChampionSoft",
+              "kind": "MSX2版",
+              "voice": "未核实",
+              "differences": "Generation MSX列1988年7月、MSX2；不采用其他数据库笼统的MSX平台标签。",
+              "source": "https://generation-msx.nl/software/champion-soft/shadow-hunter/1132"
+            },
+            {
+              "id": "alicesoft-extra-shadowhunter-v2",
+              "workId": "alicesoft-extra-shadowhunter",
+              "year": 1988,
+              "platform": "PC-88",
+              "publisher": "ChampionSoft",
+              "kind": "PC版",
+              "voice": "未核实",
+              "differences": "PC目录列1988年、PC-8801mkIISR以后，月份未核实。",
+              "source": "https://www.gamepres.org/pc88/library/1988/1988.html#shadow"
+            }
+          ]
         }
       ],
-      "relatedSectionTitle": "专题补充作品：164部（含历史品牌与前身关联）",
+      "relatedSectionTitle": "专题补充作品：179部（含历史品牌与前身关联）",
       "relatedCountLabel": "独立作品；再版及扩充合并",
-      "relatedIntro": "本区累计164部作品。第十六批新增四款Alicesoft问答、妖精公寓四款特别篇、三款Playmate拼图与四款早期职业／经营游戏，并补四款既有游戏的MSX2版本。文字输入、菜单调查、答题、双六和模拟玩法分别说明；未核实的指令形式保留说明。历史前身署名与本品牌分项统计。",
-      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计191部（Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联24部、IMYUIC历史合作1部）；主库关联27部，专题补充164部。</strong></p>"
+      "relatedIntro": "本区累计179部作品。第十七批补入《暗影猎人》《大灾变》及早期战略、经营、动作和棋类游戏共15部；另为D.P.S.原作、三款SG和《CRESCENT MOON少女》补16条平台记录。D.P.S.各篇名加入检索别名但保持合集作品数，文字输入、菜单调查和直接操作分别标明；早期改名标题合并，日期和署名疑点写入备注。",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>专题合计206部（Alicesoft 158部、Alice Blue 6部、AliceNoir 2部、ChampionSoft历史关联39部、IMYUIC历史合作1部）；主库关联27部，专题补充179部。</strong></p>",
+      "versionCountLabel": "已整理版本记录（存疑处注明）"
     }
   ]
 }
