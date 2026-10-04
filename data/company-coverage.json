@@ -15504,6 +15504,560 @@
         "alicesoft-extra-hellomaiko": "g595",
         "alicesoft-extra-omega3": "g596"
       }
+    },
+    {
+      "id": "nitroplus",
+      "name": "Nitroplus",
+      "checkedAt": "2026-10-04",
+      "status": "本轮叙事范围逐项核对；其他品牌及全部版本仍待续补",
+      "scope": "本轮整理 2000—2018 年首发的 29 部叙事作品：25 部新建、4 部复用主库；另列《機神飛翔》1 部小说＋3D 动作续作。包括 Nitroplus／Nitro Origin 历史 PC 目录中的本篇、独立短篇及衍生程序，另纳入官网所列部分叙事合作。不宣称覆盖 Nitro Chiral、全部跨类型作品或公司全目录。",
+      "versionScope": "原版、已核实的再版／兼容版及主要移植按同一作品分别登记，含 2026 年 Phantom Steam 版。全部地区、国际发行、ELITE 和其他主机版尚未穷尽。未确认配音规格记为“未核实”；仅明确无配音时在页面提示。",
+      "publisherNote": "Nitroplus（ニトロプラス）社专题。历史作品现分列于 Nitro Origin 与 Nitroplus 官网；品牌归属不替代实际发行署名。5pb.、デジターボ、プリンセスソフト、角川ゲームス等发行版保留各自署名，制作合作与发行关系分别说明。",
+      "workIds": [
+        "g054",
+        "g162",
+        "g163",
+        "g169",
+        "g597",
+        "g598",
+        "g599",
+        "g600",
+        "g601",
+        "g602",
+        "g603",
+        "g604",
+        "g605",
+        "g606",
+        "g607",
+        "g608",
+        "g609",
+        "g610",
+        "g611",
+        "g612",
+        "g613",
+        "g614",
+        "g615",
+        "g616",
+        "g617",
+        "g618",
+        "g619",
+        "g620",
+        "g621"
+      ],
+      "publisherWorkIds": [
+        "g054",
+        "g162",
+        "g163",
+        "g169",
+        "g597",
+        "g598",
+        "g599",
+        "g600",
+        "g601",
+        "g602",
+        "g603",
+        "g604",
+        "g605",
+        "g606",
+        "g607",
+        "g608",
+        "g609",
+        "g610",
+        "g611",
+        "g612",
+        "g613",
+        "g614",
+        "g615",
+        "g616",
+        "g617",
+        "g618"
+      ],
+      "catalogueEntryCount": 30,
+      "source": "https://nitro-origin.com/works/game/",
+      "sectionTitle": "本篇、独立短篇与叙事合作",
+      "overviewLabel": "相关游戏（29 部主库＋1 部跨类型）",
+      "auditTitle": "作品清单与版本归并",
+      "auditSourceLabel": "Nitro Origin 官方游戏目录",
+      "auditLabel": "30 部本轮作品及再版、合集、合作和收录边界说明。",
+      "auditNote": "以 Nitroplus、Nitro Origin 产品与合作目录为入口，逐项链接产品页、角色页及实际发行方。标题、原名、中文名和别名与主库及全部专题比对；相同故事的改编、再版和移植不重复建档。审计表中的范围说明不自动计为新增作品。",
+      "description": "Nitroplus 社专题：29 部主库叙事作品、1 部动作续作补充，创作观察、剧情、角色、版本和官方来源。",
+      "creativeProfile": {
+        "thesis": "枪战、剑术、魔导与科幻并非单一类型标签。这批作品反复把人物置于极端规则中，让亲密关系、行动代价与玩家的选择彼此碰撞；不同作者和合作项目保留各自风格。以下为据作品内容整理的编辑观察。",
+        "phases": [
+          {
+            "period": "2000—2002",
+            "heading": "杀手身份与非人视角",
+            "analysis": "《Phantom》以被抹去记忆的少年展开犯罪组织中的关系；《ヴェドゴニア》转向变身与吸血鬼题材，《Hello, world.》则由机器人学习人的感情。共同问题是人物如何在外部使命与自身判断之间形成身份。",
+            "basis": "编辑观察",
+            "source": "https://nitro-origin.com/game/phantom/"
+          },
+          {
+            "period": "2003—2007",
+            "heading": "恐怖、剑术与异族的多种舞台",
+            "analysis": "《沙耶之歌》的感知异常、《Demonbane》的魔导书与巨大机器人、《刃鳴散らす》的剑术对峙，以及《月光》的狼人和自动人偶，采用不同世界规则。不能用一种“黑暗风格”替代每部作品的具体关系与冲突。",
+            "basis": "编辑观察",
+            "source": "https://www.nitroplus.co.jp/game/12-carnevale/"
+          },
+          {
+            "period": "2008—2013",
+            "heading": "选择、循环与玩家的位置",
+            "analysis": "《スマガ》的重试人生和《アザナエル》的偶然分歧，使选择成为叙事结构的一部分；《君と彼女と彼女の恋。》进一步把恋爱关系与玩家操作相连。这是作品之间的观察关联，不是厂商宣布的统一创作路线。",
+            "basis": "编辑观察",
+            "source": "https://www.nitroplus.co.jp/game/totono/"
+          },
+          {
+            "period": "2009—2016",
+            "heading": "行动的代价与衍生故事",
+            "analysis": "《村正》围绕战斗与道德代价展开；《邪念篇》由多位作者另作诠释，《赎罪篇》来自获奖二次创作。专题分别记录本篇和独立衍生程序，避免把官方公开等同于正史续作。",
+            "basis": "编辑观察",
+            "source": "https://www.nitroplus.co.jp/game/18-muramasa/janenhen.php"
+          },
+          {
+            "period": "2012—2018",
+            "heading": "技术、感知与被追捕的人",
+            "analysis": "《Lost Christmas》的实验逃亡、《凍京NECRO》的活死者技术，以及《モジカ》的读心能力，都将技术或异常能力放入具体人际冲突。摄影交流型《ソニコミ》则展示了同一品牌更轻松的玩法方向。",
+            "basis": "编辑观察",
+            "source": "https://www.nitroplus.co.jp/game/tokyonecro/game/"
+          },
+          {
+            "period": "2008—2026",
+            "heading": "制作合作与再发行分开核对",
+            "analysis": "科学 ADV 和《PSYCHO-PASS》合作的工作范围各不相同，参与剧本、设计或制作不能自动当成发行方。历史成人向作品现由 Nitro Origin 品牌展示；移植、兼容版和 Steam 再发行继续沿用同一作品身份。",
+            "basis": "编辑观察",
+            "source": "https://www.nitroplus.co.jp/works/consumer-game/"
+          }
+        ]
+      },
+      "entries": [
+        {
+          "title": "STEINS;GATE",
+          "status": "主数据库",
+          "workIds": [
+            "g054"
+          ],
+          "reason": "复用主库原有作品及版本，不重新建档。",
+          "source": "https://steinsgate.jp/"
+        },
+        {
+          "title": "The Cyber Slayer 鬼哭街",
+          "status": "主数据库",
+          "workIds": [
+            "g162"
+          ],
+          "reason": "复用主库原有作品及版本，不重新建档。",
+          "source": "https://www.nitroplus.co.jp/game/03-cyberslayer/"
+        },
+        {
+          "title": "沙耶の唄",
+          "status": "主数据库",
+          "workIds": [
+            "g163"
+          ],
+          "reason": "复用主库原有作品及版本，不重新建档。",
+          "source": "https://www.nitroplus.co.jp/game/06-song-of-saya/saya.php"
+        },
+        {
+          "title": "装甲悪鬼村正",
+          "status": "主数据库",
+          "workIds": [
+            "g169"
+          ],
+          "reason": "复用主库原有作品及版本，不重新建档。",
+          "source": "https://www.nitroplus.co.jp/game/18-muramasa/"
+        },
+        {
+          "title": "Phantom PHANTOM OF INFERNO",
+          "status": "主数据库",
+          "workIds": [
+            "g597"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://nitro-origin.com/game/phantom/"
+        },
+        {
+          "title": "吸血殲鬼ヴェドゴニア",
+          "status": "主数据库",
+          "workIds": [
+            "g598"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/pc/lineup/into_02/"
+        },
+        {
+          "title": "“Hello, world.”",
+          "status": "主数据库",
+          "workIds": [
+            "g599"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/game/04-helloworld/sofurin.php"
+        },
+        {
+          "title": "斬魔大聖デモンベイン",
+          "status": "主数据库",
+          "workIds": [
+            "g600"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/game/05-demonbane/cd.php"
+        },
+        {
+          "title": "天使ノ二挺拳銃 -Angelos Armas-",
+          "status": "主数据库",
+          "workIds": [
+            "g601"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/game/07-angelos-armas/"
+        },
+        {
+          "title": "塵骸魔京",
+          "status": "主数据库",
+          "workIds": [
+            "g602"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/game/08-jingai/first.php"
+        },
+        {
+          "title": "刃鳴散らす",
+          "status": "主数据库",
+          "workIds": [
+            "g603"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/game/09-hana/"
+        },
+        {
+          "title": "竜†恋[Dra+KoI]",
+          "status": "主数据库",
+          "workIds": [
+            "g604"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/game/10-sabatonabe/dragon.php"
+        },
+        {
+          "title": "月光のカルネヴァーレ",
+          "status": "主数据库",
+          "workIds": [
+            "g605"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/game/12-carnevale/"
+        },
+        {
+          "title": "続・殺戮のジャンゴ -地獄の賞金首-",
+          "status": "主数据库",
+          "workIds": [
+            "g606"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/pc/lineup/into_13/"
+        },
+        {
+          "title": "スマガ",
+          "status": "主数据库",
+          "workIds": [
+            "g607"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/game/16-sumaga/sumaga.php"
+        },
+        {
+          "title": "スマガスペシャル",
+          "status": "主数据库",
+          "workIds": [
+            "g608"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://nitroplus.ecq.sc/npo640.html"
+        },
+        {
+          "title": "装甲悪鬼村正 邪念編",
+          "status": "主数据库",
+          "workIds": [
+            "g609"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/game/18-muramasa/janenhen.php"
+        },
+        {
+          "title": "アザナエル",
+          "status": "主数据库",
+          "workIds": [
+            "g610"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://nitroplus.ecq.sc/npo732.html"
+        },
+        {
+          "title": "ソニコミ",
+          "status": "主数据库",
+          "workIds": [
+            "g611"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://supersonico.jp/sonicomi/"
+        },
+        {
+          "title": "ギルティクラウン ロストクリスマス",
+          "status": "主数据库",
+          "workIds": [
+            "g612"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/game/lost_x/"
+        },
+        {
+          "title": "フェノメノ 美鶴木夜石は怖がらない ビジュアルノベル版",
+          "status": "主数据库",
+          "workIds": [
+            "g613"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/game/phenomeno/"
+        },
+        {
+          "title": "君と彼女と彼女の恋。",
+          "status": "主数据库",
+          "workIds": [
+            "g614"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/game/totono/"
+        },
+        {
+          "title": "装甲悪鬼村正 贖罪編",
+          "status": "主数据库",
+          "workIds": [
+            "g615"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/news/2016/7468.php"
+        },
+        {
+          "title": "凍京NECRO＜トウキョウ・ネクロ＞",
+          "status": "主数据库",
+          "workIds": [
+            "g616"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/game/tokyonecro/game/"
+        },
+        {
+          "title": "みにくいモジカの子",
+          "status": "主数据库",
+          "workIds": [
+            "g617"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.nitroplus.co.jp/game/mojika/"
+        },
+        {
+          "title": "CHAOS;HEAD",
+          "status": "主数据库",
+          "workIds": [
+            "g618"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.kagaku-adv.com/titles/chaoshead/"
+        },
+        {
+          "title": "ROBOTICS;NOTES",
+          "status": "主数据库",
+          "workIds": [
+            "g619"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.kagaku-adv.com/titles/roboticsnotes/"
+        },
+        {
+          "title": "STEINS;GATE 線形拘束のフェノグラム",
+          "status": "主数据库",
+          "workIds": [
+            "g620"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://steinsgate.jp/phenogram/"
+        },
+        {
+          "title": "PSYCHO-PASS サイコパス 選択なき幸福",
+          "status": "主数据库",
+          "workIds": [
+            "g621"
+          ],
+          "reason": "独立叙事程序或独立发售的本篇、短篇、衍生故事；移植和再版归入同一作品。",
+          "source": "https://www.playstation.com/ja-jp/games/psycho-pass-mandatory-happiness/"
+        },
+        {
+          "title": "機神飛翔デモンベイン",
+          "status": "跨类型补充",
+          "workIds": [],
+          "relatedIds": [
+            "nitroplus-extra-kishinhisho"
+          ],
+          "reason": "独立故事含可操作 3D 动作战斗；专题补充，不新增主库分类。",
+          "source": "https://www.nitroplus.co.jp/game/05h-demonbane/"
+        },
+        {
+          "title": "Phantom INTEGRATION／Nitro The Best!／NITRO ARCHIVE",
+          "status": "版本／范围说明",
+          "workIds": [
+            "g597"
+          ],
+          "reason": "原作整合、廉价再版、重制与移植都引用同一作品；2026 Steam 版内容与 2013 逆移植版相同。",
+          "source": "https://nitro-origin.com/game/phantom/archives/"
+        },
+        {
+          "title": "機神咆吼デモンベイン",
+          "status": "版本／范围说明",
+          "workIds": [
+            "g600"
+          ],
+          "reason": "同一故事的全年龄主机改编与逆移植，不另计独立作品；本轮尚未补齐这些发行版本的实际署名及规格。",
+          "source": "https://www.nitroplus.co.jp/game/05-demonbane/"
+        },
+        {
+          "title": "サバト鍋／戒厳聖都／ニトロWARS",
+          "status": "版本／范围说明",
+          "workIds": [
+            "g604"
+          ],
+          "reason": "《竜†恋》独立短篇程序计入主库；合集容器不再重复建档。其他玩法的小游戏在范围说明保留，本轮不为其建立叙事作品。",
+          "source": "https://www.nitroplus.co.jp/game/10-sabatonabe/"
+        },
+        {
+          "title": "CHAOS;HEAD NOAH",
+          "status": "版本／范围说明",
+          "workIds": [
+            "g618"
+          ],
+          "reason": "原作增强移植，沿用 CHAOS;HEAD 作品 ID；仅登记本次核实的 Xbox 360 版本，其他移植仍待补。",
+          "source": "https://www.kagaku-adv.com/titles/chaoshead_noah/"
+        },
+        {
+          "title": "ROBOTICS;NOTES ELITE",
+          "status": "版本／范围说明",
+          "workIds": [
+            "g619"
+          ],
+          "reason": "增强改编，不另外建立相同故事的作品；本轮未登记全部 ELITE 平台版本。",
+          "source": "https://roboticsnotes.jp/elite/"
+        },
+        {
+          "title": "STEINS;GATE RE:BOOT",
+          "status": "版本／范围说明",
+          "workIds": [
+            "g054"
+          ],
+          "reason": "原作重制项目不另建独立作品；本轮先复用原有四条版本，RE:BOOT 版本规格及全部发行地区后续另核。",
+          "source": "https://steinsgate.jp/"
+        },
+        {
+          "title": "STEINS;GATE 変移空間のオクテット",
+          "status": "版本／范围说明",
+          "workIds": [],
+          "reason": "独立指令型冒险；本轮 Nitroplus 专题按现行叙事续补范围，不新增指令游戏。",
+          "source": "https://www.nitroplus.co.jp/works/consumer-game/"
+        },
+        {
+          "title": "字祷子D 妖都最速伝説",
+          "status": "版本／范围说明",
+          "workIds": [],
+          "reason": "赛车游戏，非本轮四类叙事主库。",
+          "source": "https://nitro-origin.com/works/game/"
+        },
+        {
+          "title": "ニトロ＋ロワイヤル／ニトロプラス ブラスターズ",
+          "status": "版本／范围说明",
+          "workIds": [],
+          "reason": "角色格斗游戏，不把战斗阵容算成独立叙事作品。",
+          "source": "https://www.nitroplus.co.jp/works/"
+        },
+        {
+          "title": "ソニプロ",
+          "status": "版本／范围说明",
+          "workIds": [],
+          "reason": "独立偶像育成游戏，不是《ソニコミ》的重命名版本；本轮未建档。",
+          "source": "https://www.nitroplus.co.jp/works/consumer-game/"
+        },
+        {
+          "title": "凍京NECRO SUICIDE MISSION",
+          "status": "版本／范围说明",
+          "workIds": [],
+          "reason": "独立在线 RPG，不并入《凍京NECRO》本篇版本。",
+          "source": "https://www.nitroplus.co.jp/works/other-game/"
+        },
+        {
+          "title": "魔法少女まどか☆マギカ ポータブル",
+          "status": "版本／范围说明",
+          "workIds": [],
+          "reason": "含迷宫 RPG 的合作作品，本轮未同步到四类叙事主库。",
+          "source": "https://www.nitroplus.co.jp/works/consumer-game/"
+        },
+        {
+          "title": "Dolls Nest／Rusty Rabbit",
+          "status": "版本／范围说明",
+          "workIds": [],
+          "reason": "3D 机体动作与横向动作游戏，不因含故事而直接归入视觉小说。",
+          "source": "https://www.nitroplus.co.jp/works/"
+        },
+        {
+          "title": "刀剣乱舞ONLINE／刀剣乱舞無双及其他在线合作",
+          "status": "版本／范围说明",
+          "workIds": [],
+          "reason": "在线养成、动作等其他玩法，本轮未建立补充游戏条目。",
+          "source": "https://www.nitroplus.co.jp/works/other-game/"
+        },
+        {
+          "title": "Nitro Chiral 品牌",
+          "status": "版本／范围说明",
+          "workIds": [],
+          "reason": "同公司独立品牌，本轮不声称覆盖其作品；后续可按品牌另建专题。",
+          "source": "https://www.nitroplus.co.jp/works/"
+        }
+      ],
+      "relatedGames": [
+        {
+          "id": "nitroplus-extra-kishinhisho",
+          "title": "機神飛翔デモンベイン",
+          "originalTitle": "機神飛翔デモンベイン",
+          "chineseTitle": "机神飞翔 Demonbane",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Kishin Hishou Demonbane"
+          ],
+          "firstYear": 2006,
+          "category": "小说／3D 机器人动作",
+          "subcategory": "文字剧情与可操作 3D 战斗",
+          "genre": "魔导／巨大机器人／小说＋动作",
+          "characters": [
+            "大十字九郎",
+            "アル・アジフ",
+            "アナザーブラッド"
+          ],
+          "charactersSource": "https://www.nitroplus.co.jp/game/05h-demonbane/",
+          "charactersNote": "角色原文名据官方续作资料保留。",
+          "synopsis": "九郎与阿尔面对新的异常事件和神秘的血之少女。阅读剧情与操作机器人战斗交替进行，构成《Demonbane》世界中的另一部故事。",
+          "notes": "独立续作，不与同一原作的《機神咆吼》移植名称混淆；动作战斗超出四类主库，专题补充区独立列出。",
+          "source": "https://www.nitroplus.co.jp/game/05h-demonbane/",
+          "versions": [
+            {
+              "year": 2006,
+              "platform": "Windows",
+              "publisher": "Nitroplus",
+              "kind": "原版",
+              "voice": "有",
+              "differences": "2006-05-26；官方明确为小说＋3D 机器人动作，含可操作战斗。",
+              "source": "https://www.nitroplus.co.jp/game/05h-demonbane/"
+            }
+          ]
+        }
+      ],
+      "relatedSectionTitle": "含独立操作战斗的叙事续作",
+      "relatedCountLabel": "小说＋3D 机器人动作",
+      "relatedIntro": "《機神飛翔》有独立故事，但包含可操作的 3D 战斗，放在跨类型补充区。它与《機神咆吼》全年龄改编的名称相近，作品身份和发行层级分别处理。"
     }
   ]
 }

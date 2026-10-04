@@ -5,6 +5,31 @@ import {filterCatalogue,publisherWorkCounts,visibleVoiceNote} from '../filter.mj
 
 const data=JSON.parse(readFileSync(new URL('../data/games.json',import.meta.url),'utf8'));
 
+test('Nitroplus dossier reuses originals and keeps remakes, aliases and actual publishers together',()=>{
+  const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='nitroplus');
+  assert.equal(dossier.workIds.length,29);
+  assert.equal(new Set(dossier.workIds).size,29);
+  for(const id of ['g054','g162','g163','g169']) assert.ok(dossier.workIds.includes(id));
+  for(const [query,id] of [['幻灵：地狱之影','g597'],['Phantom INTEGRATION','g597'],['CHAOS;HEAD NOAH','g618'],['你与她与她之恋。','g614'],['君と彼女と彼女の恋。','g614']]){
+    assert.deepEqual(filterCatalogue(data,{query}).map(({work})=>work.id),[id]);
+  }
+  assert.equal(data.versions.filter(v=>v.workId==='g597').length,8);
+  assert.deepEqual(filterCatalogue(data,{query:'Phantom',company:'プリンセスソフト'}).map(({versions})=>versions.map(v=>v.year)),[[2003]]);
+  assert.equal(filterCatalogue(data,{query:'ROBOTICS;NOTES',company:'Nitroplus'}).length,0);
+  assert.equal(filterCatalogue(data,{query:'ROBOTICS;NOTES',company:'5pb.'}).length,1);
+  assert.deepEqual(new Set(dossier.publisherWorkIds),new Set(filterCatalogue(data,{company:'Nitroplus'}).map(({work})=>work.id)));
+  assert.equal(data.versions.find(v=>v.id==='g600-v1').voice,'有（部分）');
+  assert.equal(data.versions.find(v=>v.workId==='g163'&&v.platform==='Android').publisher,'株式会社エイシス');
+  assert.equal(dossier.relatedGames.length,1);
+  assert.ok(!data.works.some(w=>w.originalTitle==='機神飛翔デモンベイン'));
+  assert.ok(!data.works.some(w=>w.originalTitle.includes('変移空間')));
+  const page=readFileSync(new URL('../nitroplus.html',import.meta.url),'utf8');
+  for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
+  const links=[...readFileSync(new URL('../index.html',import.meta.url),'utf8').matchAll(/class="secondary-link" href="[^\"]+\.html">([^<]+)<\/a>/g)];
+  assert.equal(links.length,24);
+  assert.ok(links.every(([,name])=>name.endsWith('社')));
+});
+
 test('Chinese titles and alternate spellings find the same work without losing original name search',()=>{
   for(const query of ['白色相簿','白色相簿 2','白色相册','WHITE ALBUM2']){
     assert.ok(filterCatalogue(data,{query}).some(({work})=>work.id==='g039'),query);
