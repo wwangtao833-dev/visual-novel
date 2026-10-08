@@ -45,3 +45,25 @@
 ## 校验口径
 
 共享 JSON／CSV 关系校验、厂商页面生成一致性检查、既有筛选测试及本轮厂商边界／版本去重测试。另将改动前后数据按作品和版本 ID 对照，确保其他厂商条目没有语义改动。没有浏览器渲染截图的检查不称为视觉验收。
+
+
+## 2026-10-08 图文菜单指令补充
+
+本节是对上次核对结果的追加，前文和专题原有核对行作为历史记录保留。数据库原有 676 部作品／1353 条版本、专题原有 29 部主库作品及 7 部关联作品全部未改动。本次只追加三部独立作品（`g680`—`g682`）与七条发行版本；专题主库现有 32 部／59 条版本，加上关联区共 39 部／68 条版本。共享数据库现有 679 部／1360 条版本。
+
+| 新增作品 | 菜单指令依据 | 本次已列版本 |
+| --- | --- | --- |
+| DERRINGER／デリンジャー | [8BITS](https://www.8-bits.info/gamelist/PC88/info/info_sEYav8D601zXtfnZ.php)明确记 [2][8] 选择、Return 确认，并说明 Crest 是 JAST 的新品牌 | PC-98 1988（[零售实物页](https://www.suruga-ya.jp/product/detail/125000947)）、MSX2 1988（[机种目录](https://generation-msx.nl/software/jast-clest/derringer/1316)）、PC-88 1989（8BITS；攻略另记 1988） |
+| Cosmos Club／コスモスクラブ | [《テクノポリス》1989 年 5 月](https://archive.org/stream/technopolis-1989-05/01_journal-1989-05_djvu.txt)第 50 页明确称为コマンド選択式 | PC-88 1989（[8BITS](https://www.8-bits.info/gamelist/PC88/info/info_HjIJDVNGMW5ExELY.php)）、MSX2 1989（[机种目录](https://generation-msx.nl/software/jast/cosmos-club/1315)） |
+| 夜之天使们：私铁沿线杀人事件 | [8BITS](https://www.8-bits.info/gamelist/PC88/info/info_UNmBFtRIwmibPszs.php)明确记 [2][4][6][8] 选择、Return 确认；[PC-98 实玩记录](https://iza-namakura.hateblo.jp/entry/2022/05/15/200000)用于剧情角色交叉核实 | PC-88 1989（8BITS）、PC-98 1989（[发行清单](https://kopenguin.com/post-14678/)；实玩记录确认平台存在） |
+
+本批次“图文指令”指从菜单选择动词与调查对象；按现有分类映射为 `文字冒险／图文选项／调查`。键入词句的指令输入游戏不在新增范围。判断依据是操作方式，不能把支持键盘设备误当成文字输入。
+
+- 《エリカ》[8BITS 键位](https://www.8-bits.info/gamelist/PC88/info/info_VtHnvizeQNU8ry3e.php)为假名指令输入，本次不新增。
+- 《Star Trap》[8BITS 键位](https://www.8-bits.info/gamelist/PC88/info/info_Bd7z6MKbtxJWmJ3u.php)同时含假名输入和菜单选择；[实玩评论](https://erogereport.blog.jp/archives/1301770.html)明确仍需键入菜单外的词句，不因有菜单快捷项而收录。
+- 《夜之天使们》[MSX2 目录](https://generation-msx.nl/software/jast/night-angels---murder-case-along-private-railway/1771)标明未发行／取消；宣传 CG 收录不代表可玩游戏已发行。
+- 《Cosmos Club》PC-98 实物可查，但综合目录的 1988 年与同期杂志的 1989 年 4 月预定冲突，因此暂不新增带确定年份的该机种记录。
+- 《DERRINGER》HARD BOILED／SPECIAL 是同作内模式，不重复建档。JAST SOUND 标记与实际语音支持有争议，七条新版本均未把音源或标记等同于角色配音。
+- 《Crisis》机种目录标为模拟，其他尚缺玩法或发行证据的历史项目继续保留待补；本批次不以指令菜单的存在推定为纯叙事 ADV，也不宣称穷尽历史作品和再版。
+
+发布前另以合并基准逐项比较：所有旧作品、所有旧版本、所有其他厂商专题、JAST 旧关联作品和旧核对行语义一致；CSV 旧内容保持字节前缀不变。新增卡片来自同一共享 JSON，专题没有另建重复游戏副本。
