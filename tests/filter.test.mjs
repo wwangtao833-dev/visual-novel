@@ -451,3 +451,45 @@ test('GAINA remains an independent empty dossier without invented game credits',
   assert.ok(!/undefined|NaN|Infinity/.test(page));
   assert.ok(readFileSync(new URL('../index.html',import.meta.url),'utf8').includes('href="gaina.html"'));
 });
+
+test('GAINAX collaboration dossiers retain actual publisher filtering',()=>{
+  const gainax=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='gainax');
+  assert.deepEqual(new Set(filterCatalogue(data,{company:'GAINAX'}).map(({work})=>work.id)),new Set(gainax.publisherWorkIds));
+  const dream=filterCatalogue(data,{query:'仲夏夜之梦',company:'TinMachine'});
+  assert.equal(dream.length,1);
+  assert.equal(dream[0].work.firstYear,2005);
+  assert.equal(filterCatalogue(data,{query:'仲夏夜之梦',company:'GAINAX'}).length,0);
+  const steel=filterCatalogue(data,{query:'Girlfriend of Steel',platform:'PSP',company:'CyberFront'});
+  assert.equal(steel.length,2);
+  const second=filterCatalogue(data,{query:'钢铁女友2nd',platform:'PlayStation 2',company:'BROCCOLI'});
+  assert.equal(second.length,1);
+  assert.equal(second[0].versions[0].year,2005);
+  assert.equal(filterCatalogue(data,{query:'钢铁女友2nd',platform:'PlayStation 2',company:'GAINAX'}).length,0);
+});
+
+test('GAINAX enhanced editions and Nadia mobile chapters preserve work identity',()=>{
+  for(const [query,id] of [['MIGHTYバトルスキンパニック','g812'],['鋼鉄のガールフレンド 特別編','g815'],['Princess Maker Refine','g820'],['綾波育成計画 with アスカ補完計画','g825']]){
+    assert.deepEqual(filterCatalogue(data,{query}).map(({work})=>work.id),[id]);
+  }
+  const nadia=filterCatalogue(data,{query:'蓝宝石之谜',company:'TinMachine'});
+  assert.equal(nadia.length,1);
+  assert.equal(nadia[0].work.firstYear,1992);
+  assert.equal(nadia[0].versions.length,3);
+  assert.ok(nadia[0].versions.every(v=>v.year===2006&&v.kind.startsWith('分割移植')));
+  const three=filterCatalogue(data,{query:'Princess Maker 3',platform:'Windows',from:1997,to:1997});
+  assert.equal(three.length,0);
+  assert.equal(filterCatalogue(data,{query:'Princess Maker 3',platform:'Windows',from:1998,to:1998}).length,1);
+  const five=filterCatalogue(data,{query:'Princess Maker 5',platform:'PSP'})[0];
+  assert.equal(five.versions[0].year,2008);
+});
+
+test('GAINAX related games have explicit non-VN categories and unique page anchors',()=>{
+  const gainax=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='gainax');
+  const page=readFileSync(new URL('../gainax.html',import.meta.url),'utf8');
+  for(const id of [...gainax.workIds,...gainax.relatedGames.map(w=>w.id)]) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
+  for(const related of gainax.relatedGames){
+    assert.ok(!data.works.some(w=>w.id===related.id));
+    assert.ok(!['文字冒险','视觉小说','互动动画','Galgame'].includes(related.category));
+  }
+  assert.ok(gainax.entries.some(e=>e.status==='跨类型后续补查'));
+});

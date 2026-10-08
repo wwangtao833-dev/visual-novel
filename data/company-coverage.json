@@ -24554,6 +24554,869 @@
           "workIds": []
         }
       ]
+    },
+    {
+      "id": "gainax",
+      "name": "GAINAX",
+      "checkedAt": "2026-10-08",
+      "status": "本轮叙事／养成及关联游戏核查完成；部分再版与跨类型清单留待补查",
+      "scope": "原株式会社ガイナックス的开发／发行作品，另标明Princess Maker系列合作与TinMachine的GAINAX协力／监修作品。只排除词句键入解析器；菜单、问答选择、点击与直接操作保留。养成归广义Galgame，问答／棋盘／策略／格斗在关联区明确分类。",
+      "versionScope": "每条版本按可核实的机种、年份与实际发行署名登记；增强、重制、合集及手机分割移植归并。未核实的其他地区、Mac版、后期重制和所有廉价再版不宣称补齐。",
+      "publisherNote": "GAINAX曾制作销售游戏，目录从电脑冒险与养成延伸到EVA剧情作品。此页区分本社游戏、系列合作和授权手机叙事作品；TinMachine、CyberFront、CFK等发行署名保留。GAINA／BENTEN Film与米子GAINAX各为独立法人。 原GAINAX法人已于2025年完成破产整理；本页保存历史开发与发行记录。",
+      "workIds": [
+        "g812",
+        "g813",
+        "g814",
+        "g815",
+        "g816",
+        "g817",
+        "g818",
+        "g819",
+        "g820",
+        "g821",
+        "g822",
+        "g823",
+        "g824",
+        "g825",
+        "g826",
+        "g827",
+        "g828",
+        "g829"
+      ],
+      "publisherWorkIds": [
+        "g812",
+        "g813",
+        "g814",
+        "g815",
+        "g816",
+        "g817",
+        "g818",
+        "g819",
+        "g820",
+        "g821",
+        "g822",
+        "g825",
+        "g826"
+      ],
+      "relatedGames": [
+        {
+          "id": "gainax-dennou1",
+          "title": "電脳学園シナリオI",
+          "originalTitle": "電脳学園シナリオI",
+          "titleAliases": [
+            "Cybernetic Hi-School 1",
+            "電脳学園1"
+          ],
+          "firstYear": 1989,
+          "category": "问答冒险",
+          "subcategory": "美少女问答",
+          "genre": "问答／剧情事件",
+          "characters": [
+            "本篇登场人物群像"
+          ],
+          "charactersNote": "人物姓名或身份依所引作品资料；未确认的角色姓名不另行补写。",
+          "charactersSource": "https://d4e.co.jp/lights_cat/gainax",
+          "synopsis": "通过菜单选择回答问答，推进本篇的角色事件与图像展示。",
+          "notes": "数字／菜单选择答案不等于键入词句解析器。问答为主，保留在专题跨类型区；General Products实际发行署名独立。",
+          "source": "https://d4e.co.jp/lights_cat/gainax",
+          "chineseTitle": "电脑学园I",
+          "chineseTitleType": "站内编辑译名",
+          "versions": [
+            {
+              "year": 1989,
+              "platform": "PC-98",
+              "publisher": "GAINAX",
+              "publisherCompanies": [
+                "GAINAX"
+              ],
+              "kind": "首发／原版",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc98.xml",
+              "id": "gainax-dennou1-v1",
+              "workId": "gainax-dennou1"
+            },
+            {
+              "year": 1989,
+              "platform": "PC-88",
+              "publisher": "General Products",
+              "publisherCompanies": [
+                "General Products"
+              ],
+              "kind": "机种发行",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc8801_flop.xml",
+              "id": "gainax-dennou1-v2",
+              "workId": "gainax-dennou1"
+            },
+            {
+              "year": 1990,
+              "platform": "MSX2",
+              "publisher": "GAINAX",
+              "publisherCompanies": [
+                "GAINAX"
+              ],
+              "kind": "机种发行",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/msx2_flop.xml",
+              "id": "gainax-dennou1-v3",
+              "workId": "gainax-dennou1"
+            },
+            {
+              "year": 1990,
+              "platform": "PC-98",
+              "publisher": "GAINAX",
+              "publisherCompanies": [
+                "GAINAX"
+              ],
+              "kind": "Version2.0",
+              "voice": "未核实",
+              "differences": "电脑学园Version2.0，机种档案1990/11/10；增强版归并。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc98.xml",
+              "id": "gainax-dennou1-v4",
+              "workId": "gainax-dennou1"
+            }
+          ]
+        },
+        {
+          "id": "gainax-dennou2",
+          "title": "電脳学園II ハイウェイバスター！！",
+          "originalTitle": "電脳学園II ハイウェイバスター！！",
+          "titleAliases": [
+            "Cybernetic Hi-School 2",
+            "電脳学園2"
+          ],
+          "firstYear": 1989,
+          "category": "问答冒险",
+          "subcategory": "美少女问答",
+          "genre": "问答／剧情事件",
+          "characters": [
+            "本篇登场人物群像"
+          ],
+          "charactersNote": "人物姓名或身份依所引作品资料；未确认的角色姓名不另行补写。",
+          "charactersSource": "https://d4e.co.jp/lights_cat/gainax",
+          "synopsis": "通过菜单选择回答问答，推进本篇的角色事件与图像展示。",
+          "notes": "数字／菜单选择答案不等于键入词句解析器。问答为主，保留在专题跨类型区；General Products实际发行署名独立。",
+          "source": "https://d4e.co.jp/lights_cat/gainax",
+          "chineseTitle": "电脑学园II：公路破坏者",
+          "chineseTitleType": "站内编辑译名",
+          "versions": [
+            {
+              "year": 1989,
+              "platform": "PC-98",
+              "publisher": "GAINAX",
+              "publisherCompanies": [
+                "GAINAX"
+              ],
+              "kind": "首发／原版",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc98.xml",
+              "id": "gainax-dennou2-v1",
+              "workId": "gainax-dennou2"
+            },
+            {
+              "year": 1989,
+              "platform": "PC-88",
+              "publisher": "General Products",
+              "publisherCompanies": [
+                "General Products"
+              ],
+              "kind": "机种发行",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc8801_flop.xml",
+              "id": "gainax-dennou2-v2",
+              "workId": "gainax-dennou2"
+            },
+            {
+              "year": 1990,
+              "platform": "MSX2",
+              "publisher": "GAINAX",
+              "publisherCompanies": [
+                "GAINAX"
+              ],
+              "kind": "机种发行",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/msx2_flop.xml",
+              "id": "gainax-dennou2-v3",
+              "workId": "gainax-dennou2"
+            }
+          ]
+        },
+        {
+          "id": "gainax-dennou3",
+          "title": "電脳学園III トップをねらえ！",
+          "originalTitle": "電脳学園III トップをねらえ！",
+          "titleAliases": [
+            "Cybernetic Hi-School 3",
+            "電脳学園3"
+          ],
+          "firstYear": 1990,
+          "category": "问答冒险",
+          "subcategory": "美少女问答",
+          "genre": "问答／剧情事件",
+          "characters": [
+            "タカヤ・ノリコ",
+            "アマノ・カズミ"
+          ],
+          "charactersNote": "人物姓名或身份依所引作品资料；未确认的角色姓名不另行补写。",
+          "charactersSource": "https://d4e.co.jp/lights_cat/gainax",
+          "synopsis": "通过菜单选择回答问答，推进本篇的角色事件与图像展示。",
+          "notes": "数字／菜单选择答案不等于键入词句解析器。问答为主，保留在专题跨类型区；General Products实际发行署名独立。",
+          "source": "https://d4e.co.jp/lights_cat/gainax",
+          "chineseTitle": "电脑学园III：飞跃巅峰",
+          "chineseTitleType": "站内编辑译名",
+          "versions": [
+            {
+              "year": 1990,
+              "platform": "PC-98",
+              "publisher": "GAINAX",
+              "publisherCompanies": [
+                "GAINAX"
+              ],
+              "kind": "首发／原版",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc98.xml",
+              "id": "gainax-dennou3-v1",
+              "workId": "gainax-dennou3"
+            },
+            {
+              "year": 1990,
+              "platform": "PC-88",
+              "publisher": "General Products",
+              "publisherCompanies": [
+                "General Products"
+              ],
+              "kind": "机种发行",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc8801_flop.xml",
+              "id": "gainax-dennou3-v2",
+              "workId": "gainax-dennou3"
+            },
+            {
+              "year": 1990,
+              "platform": "MSX2",
+              "publisher": "GAINAX",
+              "publisherCompanies": [
+                "GAINAX"
+              ],
+              "kind": "机种发行",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/msx2_flop.xml",
+              "id": "gainax-dennou3-v3",
+              "workId": "gainax-dennou3"
+            }
+          ]
+        },
+        {
+          "id": "gainax-dennou4",
+          "title": "電脳学園IV エイプハンターJ",
+          "originalTitle": "電脳学園IV エイプハンターJ",
+          "titleAliases": [
+            "Cybernetic Hi-School 4",
+            "電脳学園4"
+          ],
+          "firstYear": 1991,
+          "category": "问答冒险",
+          "subcategory": "美少女问答",
+          "genre": "问答／剧情事件",
+          "characters": [
+            "本篇登场人物群像"
+          ],
+          "charactersNote": "人物姓名或身份依所引作品资料；未确认的角色姓名不另行补写。",
+          "charactersSource": "https://d4e.co.jp/lights_cat/gainax",
+          "synopsis": "通过菜单选择回答问答，推进本篇的角色事件与图像展示。",
+          "notes": "数字／菜单选择答案不等于键入词句解析器。问答为主，保留在专题跨类型区；General Products实际发行署名独立。",
+          "source": "https://d4e.co.jp/lights_cat/gainax",
+          "chineseTitle": "电脑学园IV：猿猎人J",
+          "chineseTitleType": "站内编辑译名",
+          "versions": [
+            {
+              "year": 1991,
+              "platform": "PC-98",
+              "publisher": "GAINAX",
+              "publisherCompanies": [
+                "GAINAX"
+              ],
+              "kind": "首发／原版",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc98.xml",
+              "id": "gainax-dennou4-v1",
+              "workId": "gainax-dennou4"
+            }
+          ]
+        },
+        {
+          "id": "gainax-pmq",
+          "title": "プリンセスメーカーQ",
+          "originalTitle": "プリンセスメーカーQ",
+          "titleAliases": [
+            "Princess Maker Q"
+          ],
+          "firstYear": 2001,
+          "category": "问答冒险",
+          "subcategory": "系列问答外传",
+          "genre": "问答／多结局冒险",
+          "characters": [
+            "美少女梦工厂系列角色"
+          ],
+          "charactersNote": "人物姓名或身份依所引作品资料；未确认的角色姓名不另行补写。",
+          "charactersSource": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+          "synopsis": "以系列角色与世界观构成问答外传，作答和事件决定后续发展。",
+          "notes": "GAINAX系列外传，NineLives发行；网络1999年记录异文见核对说明，不当作主线第四作。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+          "chineseTitle": "美少女梦工厂Q",
+          "chineseTitleType": "站内编辑译名",
+          "versions": [
+            {
+              "year": 2001,
+              "platform": "Windows",
+              "publisher": "NineLives",
+              "publisherCompanies": [
+                "NineLives"
+              ],
+              "kind": "首发／原版",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+              "id": "gainax-pmq-v1",
+              "workId": "gainax-pmq"
+            },
+            {
+              "year": 2001,
+              "platform": "Mac OS",
+              "publisher": "NineLives",
+              "publisherCompanies": [
+                "NineLives"
+              ],
+              "kind": "Mac版",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+              "id": "gainax-pmq-v2",
+              "workId": "gainax-pmq"
+            }
+          ]
+        },
+        {
+          "id": "gainax-gogo",
+          "title": "プリンセスメーカー Go!Go!プリンセス",
+          "originalTitle": "プリンセスメーカー Go!Go!プリンセス",
+          "titleAliases": [
+            "Princess Maker Go!Go!Princess"
+          ],
+          "firstYear": 1999,
+          "category": "桌面模拟",
+          "subcategory": "棋盘外传",
+          "genre": "棋盘／养成竞赛",
+          "characters": [
+            "美少女梦工厂系列养女"
+          ],
+          "charactersNote": "人物姓名或身份依所引作品资料；未确认的角色姓名不另行补写。",
+          "charactersSource": "https://store.steampowered.com/app/1062640/",
+          "synopsis": "让系列女孩在棋盘移动中参与成长事件和竞赛，走向成为公主的目标。",
+          "notes": "棋盘型系列外传，跨类型关联；原版与2019移植合并。",
+          "source": "https://store.steampowered.com/app/1062640/",
+          "chineseTitle": "美少女梦工厂：Go!Go!Princess",
+          "chineseTitleType": "站内编辑译名",
+          "versions": [
+            {
+              "year": 1999,
+              "platform": "PlayStation",
+              "publisher": "NineLives",
+              "publisherCompanies": [
+                "NineLives"
+              ],
+              "kind": "首发／原版",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+              "id": "gainax-gogo-v1",
+              "workId": "gainax-gogo"
+            },
+            {
+              "year": 2019,
+              "platform": "Windows（Steam）",
+              "publisher": "CFK",
+              "publisherCompanies": [
+                "CFK"
+              ],
+              "kind": "国际移植",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://store.steampowered.com/app/1062640/",
+              "id": "gainax-gogo-v2",
+              "workId": "gainax-gogo"
+            },
+            {
+              "year": 2019,
+              "platform": "Nintendo Switch",
+              "publisher": "CFK",
+              "publisherCompanies": [
+                "CFK"
+              ],
+              "kind": "主机移植",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://www.nintendo.com/us/store/products/princess-maker-go-go-princess-switch/",
+              "id": "gainax-gogo-v3",
+              "workId": "gainax-gogo"
+            }
+          ]
+        },
+        {
+          "id": "gainax-seikai",
+          "title": "星界の戦旗",
+          "originalTitle": "星界の戦旗",
+          "titleAliases": [
+            "Seikai no Senki",
+            "Banner of the Stars"
+          ],
+          "firstYear": 2003,
+          "category": "策略游戏",
+          "subcategory": "科幻策略／冒险",
+          "genre": "即时策略／剧情冒险",
+          "characters": [
+            "ラフィール",
+            "ジント"
+          ],
+          "charactersNote": "人物姓名或身份依所引作品资料；未确认的角色姓名不另行补写。",
+          "charactersSource": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+          "synopsis": "在亚维帝国与人类统合体的战争中指挥舰队，并通过剧情冒险段落展开角色故事。",
+          "notes": "GAINAX开发的RTS与ADV混合作品；不是纯阅读视觉小说，保留在跨类型区。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+          "chineseTitle": "星界的战旗：GAINAX游戏版",
+          "chineseTitleType": "站内编辑译名",
+          "versions": [
+            {
+              "year": 2003,
+              "platform": "Windows",
+              "publisher": "GAINAX",
+              "publisherCompanies": [
+                "GAINAX"
+              ],
+              "kind": "首发／原版",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+              "id": "gainax-seikai-v1",
+              "workId": "gainax-seikai"
+            },
+            {
+              "year": 2005,
+              "platform": "PlayStation 2",
+              "publisher": "CyberFront",
+              "publisherCompanies": [
+                "CyberFront"
+              ],
+              "kind": "主机移植",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+              "id": "gainax-seikai-v2",
+              "workId": "gainax-seikai"
+            }
+          ]
+        },
+        {
+          "id": "gainax-grapple",
+          "title": "グラップルガイア～女王の翼冠～",
+          "originalTitle": "グラップルガイア～女王の翼冠～",
+          "titleAliases": [
+            "Grapple Gaia"
+          ],
+          "firstYear": 2004,
+          "category": "动作游戏",
+          "subcategory": "对战格斗",
+          "genre": "原创角色／对战格斗",
+          "characters": [
+            "本作女格斗士群像"
+          ],
+          "charactersNote": "人物姓名或身份依所引作品资料；未确认的角色姓名不另行补写。",
+          "charactersSource": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+          "synopsis": "以原创女性格斗角色展开对战，是GAINAX游戏业务中的格斗类型项目。",
+          "notes": "有角色设定的格斗游戏；类型明确标出，不计为视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+          "chineseTitle": "格斗盖亚：女王的翼冠",
+          "chineseTitleType": "站内编辑译名",
+          "versions": [
+            {
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "GAINAX",
+              "publisherCompanies": [
+                "GAINAX"
+              ],
+              "kind": "首发／原版",
+              "voice": "未核实",
+              "differences": "该平台发行记录；未确认的配音与具体版本改动不推测。",
+              "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+              "id": "gainax-grapple-v1",
+              "workId": "gainax-grapple"
+            }
+          ]
+        }
+      ],
+      "catalogueEntryCount": 26,
+      "source": "https://d4e.co.jp/lights_cat/gainax",
+      "sectionTitle": "电脑冒险、角色养成与手机视觉小说",
+      "overviewLabel": "已核实相关游戏（含合作）",
+      "auditTitle": "历史作品与合作关系核对清单",
+      "auditSourceLabel": "D4历史权利目录",
+      "auditLabel": "历史游戏、官方应用公告与合作边界逐项处理；不是完整公司发行目录。",
+      "auditNote": "“本轮完成”指本页列出作品及关系均有记录。D4是权利目录，MAME是机种档案；部分1990年代及Mac记录依二手目录，未核实字段保持未核实。公司所有电子游戏及每个地区再版尚未穷尽。",
+      "description": "GAINAX游戏专题：钢铁女友、Princess Maker、电脑冒险与官方协力手机视觉小说；版本、实际发行署名及核对记录。",
+      "relatedSectionTitle": "问答、棋盘、策略与格斗游戏",
+      "relatedCountLabel": "明确标注实际玩法",
+      "relatedIntro": "这些作品有GAINAX开发、发行或系列关联依据，但主要玩法不是四类主库的阅读冒险。以独立关联记录展示；不会把问答和即时策略伪装为纯视觉小说。",
+      "creativeProfile": {
+        "thesis": "从菜单式电脑冒险、长期角色养成到动画角色的原创外传，GAINAX关联作品采用不同互动方式组织角色故事。动画原作、游戏开发与发行公司分别核实，避免把共享角色误当成同一制作主体。",
+        "phases": [
+          {
+            "period": "1989—1993",
+            "heading": "菜单调查与混合玩法",
+            "analysis": "《电脑学园》以问答推进事件，《Battle Skin Panic》结合冒险和卡牌，《Nadia》组合调查与潜水舰战斗；菜单输入不是词句解析器。",
+            "basis": "编辑观察",
+            "source": "https://d4e.co.jp/lights_cat/gainax"
+          },
+          {
+            "period": "1991—2007",
+            "heading": "成长日程形成多结局",
+            "analysis": "Princess Maker以及绫波、真嗣育成计划用课程、工作与事件改变角色成长。此类是养成模拟，本站按广义Galgame入口保留，类型不改写成纯视觉小说。",
+            "basis": "编辑观察",
+            "source": "https://tinmachine.co.jp/princess/minigame.html"
+          },
+          {
+            "period": "1997—2008",
+            "heading": "从动画角色到原创与连载叙事",
+            "analysis": "钢铁女友与魔力女管家展开原创事件；TinMachine的两部EVA外传官方称多结局视觉小说，而《序A.D.V.》是监修的连载视觉应用。合作范围与实际发行署名各自保留。",
+            "basis": "编辑观察",
+            "source": "https://tinmachine.co.jp/eva_gainax/evangelion2.html"
+          }
+        ]
+      },
+      "entries": [
+        {
+          "title": "バトルスキンパニック -全裸戦士-",
+          "status": "共享主库收录",
+          "reason": "开发／发行作品。原作历史资料记1989，TAKERU档案记1990；不把再版年替换原作年。SUPER、MIGHTY和9821按增强／移植归并；不是键入词句的文字解析器冒险。",
+          "source": "https://d4e.co.jp/20101019/206",
+          "workIds": [
+            "g812"
+          ]
+        },
+        {
+          "title": "サイレントメビウス",
+          "status": "共享主库收录",
+          "reason": "开发／发行作品。CASE:TITANIC沿用原作记录；菜单选择调查予以保留，非纯文字输入。",
+          "source": "https://www.atpress.ne.jp/news/232608",
+          "workIds": [
+            "g813"
+          ]
+        },
+        {
+          "title": "ふしぎの海のナディア THE SECRET OF THE BLUE WATER",
+          "status": "共享主库收录",
+          "reason": "开发／发行作品。同一IP的FC、Mega Drive、PC Engine与Inherit the Blue Water不是本作的自动移植记录。手机三章的移植关系另据游戏史索引核对：https://srw.wiki.cre.jp/wiki/コンピュータゲーム；不按篇章重复计作品。",
+          "source": "https://tinmachine.co.jp/release/tinmachine_20060403.pdf",
+          "workIds": [
+            "g814"
+          ]
+        },
+        {
+          "title": "新世紀エヴァンゲリオン 鋼鉄のガールフレンド",
+          "status": "共享主库收录",
+          "reason": "开发／发行作品。菜单、点击与直接操作保留；重制、增强、合集及移植按同一作品的版本归档。",
+          "source": "https://www.4gamer.net/news/history/2006.07/20060718195726detail.html",
+          "workIds": [
+            "g815"
+          ]
+        },
+        {
+          "title": "あにまる・まぐねてぃずむ～ぽちのだいすき～",
+          "status": "共享主库收录",
+          "reason": "开发／发行作品。同期攻略出版社把本作列为RPG／ADV；混合战斗玩法明确保留，不把它写成纯阅读视觉小说。",
+          "source": "https://www.kohgakusha.co.jp/books/detail/978-4-87593-847-7",
+          "workIds": [
+            "g816"
+          ]
+        },
+        {
+          "title": "ガイナックス連続殺人事件（エロ）",
+          "status": "共享主库收录",
+          "reason": "开发／发行作品。实际游戏署名与发行年有商品记录；细致剧情及角色姓名未核实，保留人物身份而不虚构。",
+          "source": "https://www.suruga-ya.jp/product/detail/145003914",
+          "workIds": [
+            "g817"
+          ]
+        },
+        {
+          "title": "新世紀エヴァンゲリオン 鋼鉄のガールフレンド2nd",
+          "status": "共享主库收录",
+          "reason": "开发／发行作品。独立原创作品，不视为第一作的增强版；PSP发行方与PC原版不同。",
+          "source": "https://www.kadokawa.co.jp/product/200302000737/",
+          "workIds": [
+            "g818"
+          ]
+        },
+        {
+          "title": "まほろまてぃっく☆あどべんちゃー",
+          "status": "共享主库收录",
+          "reason": "开发／发行作品。GAINAX的PC冒险与KONAMI的PS2《萌っと≠きらきらメイドさん。》是不同游戏，不互记移植。",
+          "source": "https://www.mahoro-matic.com/mahoro2/news/info.html",
+          "workIds": [
+            "g819"
+          ]
+        },
+        {
+          "title": "プリンセスメーカー",
+          "status": "共享主库收录",
+          "reason": "开发／发行作品。女儿养成并非纯视觉小说；按本站广义Galgame入口收录，类型明确标出。原版发行署名依PC-98机种档案，General Products不自动并为GAINAX。",
+          "source": "https://store.steampowered.com/app/583040/",
+          "workIds": [
+            "g820"
+          ]
+        },
+        {
+          "title": "プリンセスメーカー2",
+          "status": "共享主库收录",
+          "reason": "开发／发行作品。Refine与手机版本归并；2024 Regeneration等后续授权重制列核对项，米子GAINAX不是原GAINAX法人。",
+          "source": "https://store.steampowered.com/app/523000/",
+          "workIds": [
+            "g821"
+          ]
+        },
+        {
+          "title": "プリンセスメーカー ゆめみる妖精",
+          "status": "共享主库收录",
+          "reason": "开发／发行作品。菜单、点击与直接操作保留；重制、增强、合集及移植按同一作品的版本归档。",
+          "source": "https://store.steampowered.com/app/650110/",
+          "workIds": [
+            "g822"
+          ]
+        },
+        {
+          "title": "プリンセスメーカー4",
+          "status": "共享主库收录",
+          "reason": "系列合作／关联作品，非GAINAX独立开发。GAINAX系列关联／合作项目，制作与发行涉及GeneX；不宣称GAINAX独立开发。附带短篇和移植不另造作品。",
+          "source": "https://game.watch.impress.co.jp/docs/20060615/pm4.htm",
+          "workIds": [
+            "g823"
+          ]
+        },
+        {
+          "title": "プリンセスメーカー5",
+          "status": "共享主库收录",
+          "reason": "开发／发行作品。菜单、点击与直接操作保留；重制、增强、合集及移植按同一作品的版本归档。",
+          "source": "https://tinmachine.co.jp/princess/minigame.html",
+          "workIds": [
+            "g824"
+          ]
+        },
+        {
+          "title": "新世紀エヴァンゲリオン 綾波育成計画",
+          "status": "共享主库收录",
+          "reason": "开发／发行作品。养成模拟不是纯视觉小说；原版与withアスカ補完計画归并，实际发行署名分开。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+          "workIds": [
+            "g825"
+          ]
+        },
+        {
+          "title": "新世紀エヴァンゲリオン 碇シンジ育成計画",
+          "status": "共享主库收录",
+          "reason": "开发／发行作品。菜单、点击与直接操作保留；重制、增强、合集及移植按同一作品的版本归档。",
+          "source": "https://www.4gamer.net/games/020/G002005/20050301230817/",
+          "workIds": [
+            "g826"
+          ]
+        },
+        {
+          "title": "新世紀エヴァンゲリオン外伝～真夏の夜の夢～",
+          "status": "共享主库收录",
+          "reason": "授权原创／GAINAX全面协力。TinMachine的GAINAX全面协力作品；不是GAINAX自行发行。功能机平台不误记为Android或iOS。",
+          "source": "https://tinmachine.co.jp/eva_gainax/evangelion.html",
+          "workIds": [
+            "g827"
+          ]
+        },
+        {
+          "title": "新世紀エヴァンゲリオン外伝2～人形達の宴～",
+          "status": "共享主库收录",
+          "reason": "授权原创／GAINAX公认合作。独立外传第二作；TinMachine开发发行／GAINAX公认合作，不把它并为前作移植。",
+          "source": "https://tinmachine.co.jp/eva_gainax/evangelion2.html",
+          "workIds": [
+            "g828"
+          ]
+        },
+        {
+          "title": "ヱヴァンゲリヲン新劇場版：序 A.D.V.",
+          "status": "共享主库收录",
+          "reason": "TinMachine授权发行／GAINAX监修。官方称连载型ビジュアルアプリ，并记GAINAX监修；有文本阅读与小游戏的单线作品。不同于2009年PSP／PS2同名战斗游戏。",
+          "source": "https://www.tinmachine.co.jp/release/tinmachine_20080527.pdf",
+          "workIds": [
+            "g829"
+          ]
+        },
+        {
+          "title": "電脳学園シナリオI",
+          "status": "专题关联区收录",
+          "reason": "开发／发行作品。数字／菜单选择答案不等于键入词句解析器。问答为主，保留在专题跨类型区；General Products实际发行署名独立。",
+          "source": "https://d4e.co.jp/lights_cat/gainax",
+          "workIds": [],
+          "relatedIds": [
+            "gainax-dennou1"
+          ]
+        },
+        {
+          "title": "電脳学園II ハイウェイバスター！！",
+          "status": "专题关联区收录",
+          "reason": "开发／发行作品。数字／菜单选择答案不等于键入词句解析器。问答为主，保留在专题跨类型区；General Products实际发行署名独立。",
+          "source": "https://d4e.co.jp/lights_cat/gainax",
+          "workIds": [],
+          "relatedIds": [
+            "gainax-dennou2"
+          ]
+        },
+        {
+          "title": "電脳学園III トップをねらえ！",
+          "status": "专题关联区收录",
+          "reason": "开发／发行作品。数字／菜单选择答案不等于键入词句解析器。问答为主，保留在专题跨类型区；General Products实际发行署名独立。",
+          "source": "https://d4e.co.jp/lights_cat/gainax",
+          "workIds": [],
+          "relatedIds": [
+            "gainax-dennou3"
+          ]
+        },
+        {
+          "title": "電脳学園IV エイプハンターJ",
+          "status": "专题关联区收录",
+          "reason": "开发／发行作品。数字／菜单选择答案不等于键入词句解析器。问答为主，保留在专题跨类型区；General Products实际发行署名独立。",
+          "source": "https://d4e.co.jp/lights_cat/gainax",
+          "workIds": [],
+          "relatedIds": [
+            "gainax-dennou4"
+          ]
+        },
+        {
+          "title": "プリンセスメーカーQ",
+          "status": "专题关联区收录",
+          "reason": "开发／发行作品。GAINAX系列外传，NineLives发行；网络1999年记录异文见核对说明，不当作主线第四作。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+          "workIds": [],
+          "relatedIds": [
+            "gainax-pmq"
+          ]
+        },
+        {
+          "title": "プリンセスメーカー Go!Go!プリンセス",
+          "status": "专题关联区收录",
+          "reason": "开发／发行作品。棋盘型系列外传，跨类型关联；原版与2019移植合并。",
+          "source": "https://store.steampowered.com/app/1062640/",
+          "workIds": [],
+          "relatedIds": [
+            "gainax-gogo"
+          ]
+        },
+        {
+          "title": "星界の戦旗",
+          "status": "专题关联区收录",
+          "reason": "开发／发行作品。GAINAX开发的RTS与ADV混合作品；不是纯阅读视觉小说，保留在跨类型区。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+          "workIds": [],
+          "relatedIds": [
+            "gainax-seikai"
+          ]
+        },
+        {
+          "title": "グラップルガイア～女王の翼冠～",
+          "status": "专题关联区收录",
+          "reason": "开发／发行作品。有角色设定的格斗游戏；类型明确标出，不计为视觉小说。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+          "workIds": [],
+          "relatedIds": [
+            "gainax-grapple"
+          ]
+        },
+        {
+          "title": "GAINA、福岛GAINAX、米子GAINAX与GAINAX本社",
+          "status": "范围说明",
+          "reason": "原GAINAX官方声明其与这些法人无关；GAINA独立建专题。米子GAINAX后期游戏与其他地方公司不自动算原GAINAX开发。",
+          "source": "https://www.gainax.co.jp/",
+          "workIds": []
+        },
+        {
+          "title": "ふしぎの海のナディア：FC／Mega Drive／PC Engine／Inherit the Blue Water",
+          "status": "范围说明",
+          "reason": "同IP的不同开发商游戏不等于GAINAX电脑版移植。D4页面混列多机种是权利目录，不能逐项推导原开发署名；本轮只加入有明确GAINAX关系的电脑原版及手机分割移植。",
+          "source": "https://gamefaqs.gamespot.com/games/franchise/4678-nadia-the-secret-of-blue-water",
+          "workIds": []
+        },
+        {
+          "title": "プリンセスメーカー2 Regeneration 与近期重制",
+          "status": "版本后续补查",
+          "reason": "后期授权重制须区分现行开发法人；未为未逐项核实的主机／地区发售年补空白。已记录Refine，Regeneration后续版本留待专门补查。",
+          "source": "https://blissbrain.co.jp/pm2rg/",
+          "workIds": []
+        },
+        {
+          "title": "鋼鉄のガールフレンド、2nd、まほろ的Mac移植／廉价再版",
+          "status": "版本后续补查",
+          "reason": "仅记有确定年份的Mac平台记录。钢铁系列尚未逐件核实的Mac包装、下载版与廉价再版不凭系列年表套用日期。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+          "workIds": []
+        },
+        {
+          "title": "まほろまてぃっく 萌っと≠きらきらメイドさん。",
+          "status": "范围说明",
+          "reason": "KONAMI的主机游戏不是GAINAX☆あどべんちゃー的自动移植；本轮未归入GAINAX自研清单。",
+          "source": "https://gamefaqs.gamespot.com/ps2/583417-mahoromatic-moetto-kirakira-maid-san",
+          "workIds": []
+        },
+        {
+          "title": "エヴァと愉快な仲間たち／シンジと愉快な仲間たち 系列",
+          "status": "跨类型后续补查",
+          "reason": "麻将、纸牌及棋类衍生属于其他玩法；本轮专题以视觉小说、剧情冒险、养成以及核实的代表性跨类型游戏为范围，不宣称完整电子游戏目录。",
+          "source": "https://gamefaqs.gamespot.com/games/company/72617-gainax",
+          "workIds": []
+        },
+        {
+          "title": "エヴァ＆GAINAX手机服务中的益智／动作游戏、头像与待机图",
+          "status": "范围说明",
+          "reason": "官方服务含多种应用，本次补入叙事应用、Nadia移植与PM2养成移植；未把服务名、动画版权或头像应用直接当作独立视觉小说。",
+          "source": "https://tinmachine.co.jp/release.html",
+          "workIds": []
+        },
+        {
+          "title": "音楽ディスク、画集、攻略书、限定特典及广播剧",
+          "status": "范围说明",
+          "reason": "媒体附件不是独立叙事游戏；除已核实的新增可玩内容外不单独计数。",
+          "source": "https://d4e.co.jp/lights_cat/gainax",
+          "workIds": []
+        },
+        {
+          "title": "Secret of Evangelion 与其他EVA授权游戏",
+          "status": "范围说明",
+          "reason": "动画原作版权或GAINAX监修字样不自动证明本社开发；无具体本社游戏开发依据的其他公司授权游戏不并入自研作品。",
+          "source": "https://www.gainax.co.jp/",
+          "workIds": []
+        },
+        {
+          "title": "GAINAX法人终止与历史档案",
+          "status": "公司现况",
+          "reason": "Khara于2025/12/11公布GAINAX破产整理结束及法人消灭；不把原法人历史作品转给GAINA或其他地方公司。",
+          "source": "https://www.khara.co.jp/2025/12/11/251211/",
+          "workIds": []
+        }
+      ]
     }
   ]
 }
