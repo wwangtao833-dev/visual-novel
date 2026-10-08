@@ -46,7 +46,7 @@ test('Nitroplus dossier reuses originals and keeps remakes, aliases and actual p
   const page=readFileSync(new URL('../nitroplus.html',import.meta.url),'utf8');
   for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
   const links=[...readFileSync(new URL('../index.html',import.meta.url),'utf8').matchAll(/class="secondary-link" href="[^\"]+\.html">([^<]+)<\/a>/g)];
-  assert.equal(links.length,28);
+  assert.equal(links.length,29);
   assert.ok(links.every(([,name])=>name.endsWith('社')));
 });
 
@@ -410,5 +410,28 @@ test('Macadamia icon and action works retain platform credit and exclude typed c
   assert.ok(!data.works.some(w=>w.originalTitle==='ドンファン'));
   assert.deepEqual(new Set(dossier.publisherWorkIds),new Set(filterCatalogue(data,{company:'Macadamia Soft'}).map(({work})=>work.id)));
   const page=readFileSync(new URL('../macadamia.html',import.meta.url),'utf8');
+  for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
+});
+
+
+test('FairyTale keeps menu adventures, credited ports and separate playable volumes',()=>{
+  const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='fairytale');
+  const saori=filterCatalogue(data,{query:'沙织'})[0];
+  assert.equal(saori.work.originalTitle,'沙織 -美少女達の館-');
+  assert.equal(saori.work.subcategory,'图文选项／调查');
+  assert.ok(saori.versions.some(v=>v.platform==='X68000'&&v.year===1991));
+  assert.ok(dossier.workIds.includes('g690'));
+  assert.equal(data.works.filter(w=>w.originalTitle==='きゃんきゃんバニー').length,1);
+  const natural=filterCatalogue(data,{query:'ナチュラル２デュオ～桜色の季節～',company:'KADOKAWA'})[0];
+  assert.equal(natural.work.originalTitle,'Natural2 -DUO-');
+  assert.equal(natural.versions[0].platform,'PlayStation 2');
+  assert.ok(!natural.versions.some(v=>v.publisherCompanies.includes('フェアリーテール')));
+  assert.equal(data.works.filter(w=>w.originalTitle.startsWith('セーラー服美少女図鑑 其の')).length,6);
+  assert.equal(data.works.filter(w=>w.originalTitle.startsWith('校内写生')).length,3);
+  assert.ok(dossier.relatedGames.some(w=>w.originalTitle==='MOON GATE'&&w.category==='策略游戏'));
+  assert.ok(dossier.entries.some(e=>e.title.includes('リップスティックV2')&&e.workIds.length===0&&e.reason.includes('缺少')));
+  assert.ok(dossier.entries.some(e=>e.title.includes('ほっとMILK')&&e.workIds.length===1));
+  assert.ok(dossier.workIds.every(id=>!['纯文本指令','图文指令'].includes(data.works.find(w=>w.id===id).subcategory)));
+  const page=readFileSync(new URL('../fairytale.html',import.meta.url),'utf8');
   for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
 });

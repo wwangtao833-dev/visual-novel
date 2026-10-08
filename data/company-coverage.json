@@ -21193,6 +21193,3296 @@
           ]
         }
       ]
+    },
+    {
+      "id": "fairytale",
+      "name": "フェアリーテール",
+      "checkedAt": "2026-10-08",
+      "status": "现行151项商品逐项处理；历史独立游戏及跨类型作品补充",
+      "scope": "FairyTale／フェアリーテール主品牌与X指定、花月組、月星組、ETHIX支线。只排除需要键入词句的文字输入游戏；菜单、图标、点击、按键阅读和直接操作保留。纯图像展示与附件在核对清单说明，集团独立品牌不混算；已有档案不修改。",
+      "versionScope": "已确证年份的机种、下载、介质与增强版本入档。官网合列机种的基础日期不自动复制到每个移植；未定年份、另名授权版与目录矛盾显式保留。",
+      "publisherNote": "《沙織 -美少女達の館-》署名FairyTale／X指定。专题以品牌来源归档，版本筛选按实际发行署名；既有Can Can Bunny只引用档案。",
+      "workIds": [
+        "g748",
+        "g749",
+        "g750",
+        "g751",
+        "g752",
+        "g753",
+        "g754",
+        "g755",
+        "g756",
+        "g757",
+        "g758",
+        "g759",
+        "g760",
+        "g761",
+        "g762",
+        "g763",
+        "g764",
+        "g765",
+        "g766",
+        "g767",
+        "g768",
+        "g769",
+        "g770",
+        "g771",
+        "g772",
+        "g773",
+        "g774",
+        "g775",
+        "g776",
+        "g777",
+        "g778",
+        "g779",
+        "g780",
+        "g781",
+        "g782",
+        "g783",
+        "g784",
+        "g785",
+        "g786",
+        "g787",
+        "g788",
+        "g789",
+        "g790",
+        "g791",
+        "g792",
+        "g793",
+        "g794",
+        "g795",
+        "g796",
+        "g797",
+        "g798",
+        "g799",
+        "g800",
+        "g801",
+        "g802",
+        "g803",
+        "g804",
+        "g805",
+        "g806",
+        "g807",
+        "g808",
+        "g809",
+        "g810",
+        "g811",
+        "g690"
+      ],
+      "publisherWorkIds": [
+        "g748",
+        "g749",
+        "g750",
+        "g751",
+        "g752",
+        "g753",
+        "g754",
+        "g755",
+        "g756",
+        "g757",
+        "g758",
+        "g759",
+        "g760",
+        "g761",
+        "g762",
+        "g763",
+        "g764",
+        "g765",
+        "g766",
+        "g767",
+        "g768",
+        "g769",
+        "g770",
+        "g771",
+        "g772",
+        "g773",
+        "g774",
+        "g775",
+        "g776",
+        "g777",
+        "g778",
+        "g779",
+        "g780",
+        "g781",
+        "g782",
+        "g783",
+        "g784",
+        "g785",
+        "g786",
+        "g787",
+        "g788",
+        "g789",
+        "g790",
+        "g791",
+        "g792",
+        "g793",
+        "g794",
+        "g795",
+        "g796",
+        "g797",
+        "g798",
+        "g799",
+        "g800",
+        "g801",
+        "g802",
+        "g803",
+        "g804",
+        "g805",
+        "g806",
+        "g807",
+        "g808",
+        "g809",
+        "g810",
+        "g811",
+        "g690"
+      ],
+      "relatedGames": [
+        {
+          "id": "fairytale-r01",
+          "title": "すてぃる･そーど",
+          "originalTitle": "すてぃる･そーど",
+          "titleAliases": [
+            "すてぃる･そーど for adult"
+          ],
+          "firstYear": 1987,
+          "category": "RPG",
+          "subcategory": "动作角色扮演",
+          "genre": "动作RPG／成人重制",
+          "characters": [
+            "インコーマ",
+            "被囚禁的公主"
+          ],
+          "charactersNote": "姓名资料未确认的角色保留原作身份，不推测姓名。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/302",
+          "synopsis": "玩家探索塔楼、收集宝石并救出公主；成人版重新制作人物、图像与音乐。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/302",
+          "versions": [
+            {
+              "id": "fairytale-r01-v1",
+              "workId": "fairytale-r01",
+              "year": 1987,
+              "platform": "PC-88",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1987-05；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/302"
+            },
+            {
+              "id": "fairytale-r01-v2",
+              "workId": "fairytale-r01",
+              "year": 1988,
+              "platform": "PC-88",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "再版",
+              "voice": "未核实",
+              "differences": "官网商品日期1988/07/08；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/34"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r02",
+          "title": "DORAGOON ARMAR for Adult",
+          "originalTitle": "DORAGOON ARMAR for Adult",
+          "titleAliases": [],
+          "firstYear": 1989,
+          "category": "RPG",
+          "subcategory": "迷宫角色扮演",
+          "genre": "3D迷宫RPG",
+          "characters": [
+            "リーナ王女"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://chaser.my.coocan.jp/guide/fairy_t.htm",
+          "synopsis": "主人公前往空中城堡，寻找失踪的莉娜公主。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/405",
+          "versions": [
+            {
+              "id": "fairytale-r02-v1",
+              "workId": "fairytale-r02",
+              "year": 1989,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1989/06/08；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/405"
+            },
+            {
+              "id": "fairytale-r02-v2",
+              "workId": "fairytale-r02",
+              "year": 1989,
+              "platform": "PC-88",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "原版机种／档案记录",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1989年，发行字段198909xx；与官网日期不同则按机种保留年级精度，不据版权年补其他平台。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc8801_flop.xml"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r03",
+          "title": "X・na [キサナ]",
+          "originalTitle": "X・na [キサナ]",
+          "titleAliases": [],
+          "firstYear": 1990,
+          "category": "RPG",
+          "subcategory": "迷宫角色扮演",
+          "genre": "幻想RPG",
+          "characters": [
+            "题名人物キサナ"
+          ],
+          "charactersNote": "姓名资料未确认的角色保留原作身份，不推测姓名。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/542",
+          "synopsis": "以迷宫探索和战斗为主体的幻想角色扮演作品。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/542",
+          "versions": [
+            {
+              "id": "fairytale-r03-v1",
+              "workId": "fairytale-r03",
+              "year": 1990,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1990/12/05；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/542"
+            },
+            {
+              "id": "fairytale-r03-v2",
+              "workId": "fairytale-r03",
+              "year": 1991,
+              "platform": "PC-88",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "原版机种／档案记录",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1991年，发行字段未列；与官网日期不同则按机种保留年级精度，不据版权年补其他平台。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc8801_flop.xml"
+            },
+            {
+              "id": "fairytale-r03-v3",
+              "workId": "fairytale-r03",
+              "year": 1991,
+              "platform": "X68000",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "移植／机种档案",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1991年，发行字段199106xx；仅采用该机种证据，配音与具体改编内容未核实。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/x68k_flop.xml"
+            },
+            {
+              "id": "fairytale-r03-v4",
+              "workId": "fairytale-r03",
+              "year": 1991,
+              "platform": "MSX2",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "移植／机种档案",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1991年，发行字段未列；仅采用该机种证据，配音与具体改编内容未核实。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/msx2_flop.xml"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r04",
+          "title": "XIX [ギゼ!]",
+          "originalTitle": "XIX [ギゼ!]",
+          "titleAliases": [],
+          "firstYear": 1991,
+          "category": "RPG",
+          "subcategory": "迷宫角色扮演",
+          "genre": "3D迷宫RPG",
+          "characters": [
+            "フィシス"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://chaser.my.coocan.jp/guide/fairy_t.htm",
+          "synopsis": "寻宝者在古代文明遗迹找到封存着少女的宝珠，与她共同进入地下迷宫。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/133",
+          "versions": [
+            {
+              "id": "fairytale-r04-v1",
+              "workId": "fairytale-r04",
+              "year": 1991,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1991/11/22；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/133"
+            },
+            {
+              "id": "fairytale-r04-v2",
+              "workId": "fairytale-r04",
+              "year": 1992,
+              "platform": "X68000",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "移植／机种档案",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1992年，发行字段199203xx；仅采用该机种证据，配音与具体改编内容未核实。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/x68k_flop.xml"
+            },
+            {
+              "id": "fairytale-r04-v3",
+              "workId": "fairytale-r04",
+              "year": 1991,
+              "platform": "MSX2",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "移植／机种档案",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1991年，发行字段未列；仅采用该机种证据，配音与具体改编内容未核实。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/msx2_flop.xml"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r05",
+          "title": "舞☆MAI ふにふにぱぴゅーんといわせちゃる！",
+          "originalTitle": "舞☆MAI ふにふにぱぴゅーんといわせちゃる！",
+          "titleAliases": [],
+          "firstYear": 1991,
+          "category": "RPG",
+          "subcategory": "角色扮演",
+          "genre": "幻想RPG",
+          "characters": [
+            "舞"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/387",
+          "synopsis": "舞因施法失误来到人类世界，寻找返回原本世界的方法。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/387",
+          "versions": [
+            {
+              "id": "fairytale-r05-v1",
+              "workId": "fairytale-r05",
+              "year": 1991,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1991/12/22；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/387"
+            },
+            {
+              "id": "fairytale-r05-v2",
+              "workId": "fairytale-r05",
+              "year": 1992,
+              "platform": "X68000",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "移植／机种档案",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1992年，发行字段19920327；仅采用该机种证据，配音与具体改编内容未核实。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/x68k_flop.xml"
+            },
+            {
+              "id": "fairytale-r05-v3",
+              "workId": "fairytale-r05",
+              "year": 1991,
+              "platform": "MSX2",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "移植／机种档案",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1991年，发行字段未列；仅采用该机种证据，配音与具体改编内容未核实。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/msx2_flop.xml"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r06",
+          "title": "ストロベリー大戦略 NOVU",
+          "originalTitle": "ストロベリー大戦略 NOVU",
+          "titleAliases": [],
+          "firstYear": 1990,
+          "category": "策略游戏",
+          "subcategory": "战略模拟",
+          "genre": "战略模拟",
+          "characters": [
+            "战略模拟中的指挥者"
+          ],
+          "charactersNote": "姓名资料未确认的角色保留原作身份，不推测姓名。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/22",
+          "synopsis": "以战场部署与对抗为主要玩法的早期战略游戏。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/22",
+          "versions": [
+            {
+              "id": "fairytale-r06-v1",
+              "workId": "fairytale-r06",
+              "year": 1990,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1990/05/17；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/22"
+            },
+            {
+              "id": "fairytale-r06-v2",
+              "workId": "fairytale-r06",
+              "year": 1990,
+              "platform": "X68000",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "移植／机种档案",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1990年，发行字段19901010；仅采用该机种证据，配音与具体改编内容未核实。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/x68k_flop.xml"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r07",
+          "title": "ストロベリー大戦略Ⅱ",
+          "originalTitle": "ストロベリー大戦略Ⅱ",
+          "titleAliases": [],
+          "firstYear": 1993,
+          "category": "策略游戏",
+          "subcategory": "战略模拟",
+          "genre": "战略模拟",
+          "characters": [
+            "战略模拟中的指挥者"
+          ],
+          "charactersNote": "姓名资料未确认的角色保留原作身份，不推测姓名。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/471",
+          "synopsis": "延续首作的战略对抗结构，属于独立续作。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/471",
+          "versions": [
+            {
+              "id": "fairytale-r07-v1",
+              "workId": "fairytale-r07",
+              "year": 1993,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1993/10/22；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/471"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r08",
+          "title": "これが噂の！ゴリンピック",
+          "originalTitle": "これが噂の！ゴリンピック",
+          "titleAliases": [],
+          "firstYear": 1988,
+          "category": "体育游戏",
+          "subcategory": "运动动作",
+          "genre": "运动项目合集",
+          "characters": [
+            "各运动项目的参赛者"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/351",
+          "synopsis": "围绕多个运动项目进行直接按键操作的体育作品。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/351",
+          "versions": [
+            {
+              "id": "fairytale-r08-v1",
+              "workId": "fairytale-r08",
+              "year": 1988,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1988/08/08；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/351"
+            },
+            {
+              "id": "fairytale-r08-v2",
+              "workId": "fairytale-r08",
+              "year": 1988,
+              "platform": "PC-88",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "原版机种／档案记录",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1988年，发行字段198808xx；与官网日期不同则按机种保留年级精度，不据版权年补其他平台。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc8801_flop.xml"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r09",
+          "title": "あっぷる・くらぶ1 禁じられた遊びシリーズ",
+          "originalTitle": "あっぷる・くらぶ1 禁じられた遊びシリーズ",
+          "titleAliases": [],
+          "firstYear": 1988,
+          "category": "棋牌游戏",
+          "subcategory": "纸牌",
+          "genre": "七连牌",
+          "characters": [
+            "纸牌桌上的对手"
+          ],
+          "charactersNote": "姓名资料未确认的角色保留原作身份，不推测姓名。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/323",
+          "synopsis": "通过纸牌七连牌比赛与不同对手竞争；追加数据盘作为原作扩展记录。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/323",
+          "versions": [
+            {
+              "id": "fairytale-r09-v1",
+              "workId": "fairytale-r09",
+              "year": 1988,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1988/06/08；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/323"
+            },
+            {
+              "id": "fairytale-r09-v2",
+              "workId": "fairytale-r09",
+              "year": 1988,
+              "platform": "PC-88",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "原版机种／档案记录",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1988年，发行字段198806xx；与官网日期不同则按机种保留年级精度，不据版权年补其他平台。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc8801_flop.xml"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r10",
+          "title": "あっぷる・くらぶ2 禁じられた遊びシリーズ",
+          "originalTitle": "あっぷる・くらぶ2 禁じられた遊びシリーズ",
+          "titleAliases": [],
+          "firstYear": 1988,
+          "category": "棋牌游戏",
+          "subcategory": "碰将",
+          "genre": "碰将牌桌游戏",
+          "characters": [
+            "かぐや",
+            "ももこ",
+            "おとひめ"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://chaser.my.coocan.jp/guide/fairy_t.htm",
+          "synopsis": "以日本童话人物为对手的碰将游戏。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/191",
+          "versions": [
+            {
+              "id": "fairytale-r10-v1",
+              "workId": "fairytale-r10",
+              "year": 1988,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1988/09/08；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/191"
+            },
+            {
+              "id": "fairytale-r10-v2",
+              "workId": "fairytale-r10",
+              "year": 1989,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "原版机种／档案记录",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1989年，发行字段19891116；与官网日期不同则按机种保留年级精度，不据版权年补其他平台。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc98.xml"
+            },
+            {
+              "id": "fairytale-r10-v3",
+              "workId": "fairytale-r10",
+              "year": 1988,
+              "platform": "PC-88",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "原版机种／档案记录",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1988年，发行字段198809xx；与官网日期不同则按机种保留年级精度，不据版权年补其他平台。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc8801_flop.xml"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r11",
+          "title": "華麗なる人生 みなさんのおかげです",
+          "originalTitle": "華麗なる人生 みなさんのおかげです",
+          "titleAliases": [],
+          "firstYear": 1991,
+          "category": "桌面模拟",
+          "subcategory": "人生模拟",
+          "genre": "棋盘人生模拟",
+          "characters": [
+            "棋盘上的人生模拟参与者"
+          ],
+          "charactersNote": "姓名资料未确认的角色保留原作身份，不推测姓名。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/68",
+          "synopsis": "以棋盘事件和人生状态变化构成模拟玩法。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/68",
+          "versions": [
+            {
+              "id": "fairytale-r11-v1",
+              "workId": "fairytale-r11",
+              "year": 1991,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1991/12/27；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/68"
+            },
+            {
+              "id": "fairytale-r11-v2",
+              "workId": "fairytale-r11",
+              "year": 1992,
+              "platform": "X68000",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "移植／机种档案",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1992年，发行字段19920325；仅采用该机种证据，配音与具体改编内容未核实。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/x68k_flop.xml"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r12",
+          "title": "華麗なる人生2",
+          "originalTitle": "華麗なる人生2",
+          "titleAliases": [],
+          "firstYear": 1994,
+          "category": "桌面模拟",
+          "subcategory": "人生模拟",
+          "genre": "棋盘人生模拟",
+          "characters": [
+            "棋盘上的人生模拟参与者"
+          ],
+          "charactersNote": "姓名资料未确认的角色保留原作身份，不推测姓名。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/261",
+          "synopsis": "人生模拟系列的独立第二作，延续棋盘和事件玩法。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/261",
+          "versions": [
+            {
+              "id": "fairytale-r12-v1",
+              "workId": "fairytale-r12",
+              "year": 1994,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1994/11/22；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/261"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r13",
+          "title": "私をゴルフに連れてって",
+          "originalTitle": "私をゴルフに連れてって",
+          "titleAliases": [],
+          "firstYear": 1991,
+          "category": "体育游戏",
+          "subcategory": "高尔夫",
+          "genre": "高尔夫游戏",
+          "characters": [
+            "高尔夫参赛人物"
+          ],
+          "charactersNote": "姓名资料未确认的角色保留原作身份，不推测姓名。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/75",
+          "synopsis": "以击球与高尔夫比赛为核心操作。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/75",
+          "versions": [
+            {
+              "id": "fairytale-r13-v1",
+              "workId": "fairytale-r13",
+              "year": 1991,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1991/03/08；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/75"
+            },
+            {
+              "id": "fairytale-r13-v2",
+              "workId": "fairytale-r13",
+              "year": 1991,
+              "platform": "PC-88",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "原版机种／档案记录",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1991年，发行字段199105xx；与官网日期不同则按机种保留年级精度，不据版权年补其他平台。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/pc8801_flop.xml"
+            },
+            {
+              "id": "fairytale-r13-v3",
+              "workId": "fairytale-r13",
+              "year": 1991,
+              "platform": "MSX2",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "移植／机种档案",
+              "voice": "未核实",
+              "differences": "MAME机种档案记1991年，发行字段未列；仅采用该机种证据，配音与具体改编内容未核实。",
+              "source": "https://github.com/mamedev/mame/blob/master/hash/msx2_flop.xml"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r14",
+          "title": "MOON GATE",
+          "originalTitle": "MOON GATE",
+          "titleAliases": [],
+          "firstYear": 1995,
+          "category": "策略游戏",
+          "subcategory": "即时战略",
+          "genre": "斜视角即时战略",
+          "characters": [
+            "战场上的指挥者"
+          ],
+          "charactersNote": "姓名资料未确认的角色保留原作身份，不推测姓名。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/428",
+          "synopsis": "玩家在可达八个屏幕大小的场地中进行实时战术操作。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/428",
+          "versions": [
+            {
+              "id": "fairytale-r14-v1",
+              "workId": "fairytale-r14",
+              "year": 1995,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1995/11/02；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/428"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r15",
+          "title": "ロマンスは剣の輝き -THE LAST CRUSADER-",
+          "originalTitle": "ロマンスは剣の輝き -THE LAST CRUSADER-",
+          "titleAliases": [],
+          "firstYear": 1995,
+          "category": "RPG",
+          "subcategory": "分支角色扮演",
+          "genre": "剧情分支RPG",
+          "characters": [
+            "冒险者主角"
+          ],
+          "charactersNote": "姓名资料未确认的角色保留原作身份，不推测姓名。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/310",
+          "synopsis": "以多分支剧情、冒险与战斗组成的角色扮演作品。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/310",
+          "versions": [
+            {
+              "id": "fairytale-r15-v1",
+              "workId": "fairytale-r15",
+              "year": 1995,
+              "platform": "PC-98",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1995/06/23；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/310"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r16",
+          "title": "ロマンスは剣の輝きⅡ",
+          "originalTitle": "ロマンスは剣の輝きⅡ",
+          "titleAliases": [
+            "ロマンスは剣の輝きⅡ～銀の虹をさがして～"
+          ],
+          "firstYear": 1999,
+          "category": "RPG",
+          "subcategory": "角色扮演",
+          "genre": "剧情RPG",
+          "characters": [
+            "キース・ライアン",
+            "エルファーシア"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/33",
+          "synopsis": "基斯继承父亲遗志寻找空中城市戴达罗斯，送信时偶遇艾尔法西亚。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/33",
+          "versions": [
+            {
+              "id": "fairytale-r16-v1",
+              "workId": "fairytale-r16",
+              "year": 1999,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期1999/12/24；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/33"
+            },
+            {
+              "id": "fairytale-r16-v2",
+              "workId": "fairytale-r16",
+              "year": 2002,
+              "platform": "PlayStation",
+              "publisher": "KADOKAWA",
+              "publisherCompanies": [
+                "KADOKAWA"
+              ],
+              "kind": "授权改编移植",
+              "voice": "未核实",
+              "differences": "官网机种与年份已确认；商品名《ロマンスは剣の輝きⅡ～銀の虹をさがして～》，原作ID保留，通常与限定包装归并；具体配音与追加故事未核实。",
+              "source": "https://fandc.co.jp/catalog/consumer/891"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r17",
+          "title": "時の森の物語 ～TEAR～",
+          "originalTitle": "時の森の物語 ～TEAR～",
+          "titleAliases": [],
+          "firstYear": 2001,
+          "category": "RPG",
+          "subcategory": "角色扮演",
+          "genre": "幻想RPG",
+          "characters": [
+            "レクス",
+            "リースティア",
+            "リネット",
+            "キッシェ"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/533",
+          "synopsis": "承接各种委托的雷克斯发现共同生活的莉斯蒂亚身世与王室有关，逐渐卷入王国危机。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/533",
+          "versions": [
+            {
+              "id": "fairytale-r17-v1",
+              "workId": "fairytale-r17",
+              "year": 2001,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "有",
+              "differences": "官网商品日期2001/06/22；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/533"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r18",
+          "title": "月雀",
+          "originalTitle": "月雀",
+          "titleAliases": [],
+          "firstYear": 2002,
+          "category": "棋牌游戏",
+          "subcategory": "麻将",
+          "genre": "剧情麻将",
+          "characters": [
+            "えみる",
+            "ファティマ",
+            "テレーズ"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/633",
+          "synopsis": "主角受到魔法影响，必须通过麻将对局寻找解除魔法的方法。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。 官网日期存在2002-05-28与2003-02-14异文，其他历史目录记2002-12-28；年份取2002，确切月份不定论。",
+          "source": "https://fandc.co.jp/catalog/pc/633",
+          "versions": [
+            {
+              "id": "fairytale-r18-v1",
+              "workId": "fairytale-r18",
+              "year": 2002,
+              "platform": "Windows",
+              "publisher": "花月組/フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "有",
+              "differences": "官网商品日期2002/05/28；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。 官网另记2003-02-14，历史列表记2002-12-28；年份取最早已列商品，月份不定论。",
+              "source": "https://fandc.co.jp/catalog/pc/633"
+            },
+            {
+              "id": "fairytale-r18-v2",
+              "workId": "fairytale-r18",
+              "year": 2003,
+              "platform": "Windows",
+              "publisher": "花月組/フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "再版",
+              "voice": "有",
+              "differences": "官网商品日期2003/02/14；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/939"
+            },
+            {
+              "id": "fairytale-r18-v3",
+              "workId": "fairytale-r18",
+              "year": 2010,
+              "platform": "Windows",
+              "publisher": "花月組/フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "下载再版",
+              "voice": "有",
+              "differences": "官网商品日期2010/06/29；下载版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/888"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r19",
+          "title": "ドラゴンズレイド",
+          "originalTitle": "ドラゴンズレイド",
+          "titleAliases": [],
+          "firstYear": 2012,
+          "category": "RPG",
+          "subcategory": "迷宫角色扮演",
+          "genre": "地下城RPG",
+          "characters": [
+            "ケイン",
+            "クリス"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/765",
+          "synopsis": "冒险者凯恩受村庄自卫团委托，进入地下城调查怪物事件。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/765",
+          "versions": [
+            {
+              "id": "fairytale-r19-v1",
+              "workId": "fairytale-r19",
+              "year": 2012,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "有（部分）",
+              "differences": "官网商品日期2012/08/31；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/765"
+            },
+            {
+              "id": "fairytale-r19-v2",
+              "workId": "fairytale-r19",
+              "year": 2012,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "下载再版",
+              "voice": "有（部分）",
+              "differences": "官网商品日期2012/09/28；下载版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/832"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r20",
+          "title": "ドラゴンズレイド2 催眠魔法と巨乳娘",
+          "originalTitle": "ドラゴンズレイド2 催眠魔法と巨乳娘",
+          "titleAliases": [
+            "ドラゴンズレイド2　催眠魔法と巨乳娘"
+          ],
+          "firstYear": 2013,
+          "category": "RPG",
+          "subcategory": "迷宫角色扮演",
+          "genre": "地下城RPG",
+          "characters": [
+            "ケイン"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/768",
+          "synopsis": "凯恩来到被称为龙之巢的地区，受托处理从中出现的怪物。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/768",
+          "versions": [
+            {
+              "id": "fairytale-r20-v1",
+              "workId": "fairytale-r20",
+              "year": 2013,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期2013/04/26；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/768"
+            },
+            {
+              "id": "fairytale-r20-v2",
+              "workId": "fairytale-r20",
+              "year": 2013,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "下载再版",
+              "voice": "未核实",
+              "differences": "官网商品日期2013/05/24；下载版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/828"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r21",
+          "title": "ドラゴンズレイド3 ドラゴンメイドと姫の帰還",
+          "originalTitle": "ドラゴンズレイド3 ドラゴンメイドと姫の帰還",
+          "titleAliases": [],
+          "firstYear": 2013,
+          "category": "RPG",
+          "subcategory": "迷宫角色扮演",
+          "genre": "地下城RPG",
+          "characters": [
+            "ケイン",
+            "龙城公主"
+          ],
+          "charactersNote": "姓名资料未确认的角色保留原作身份，不推测姓名。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/730",
+          "synopsis": "凯恩受龙城公主请求陪同她返回城堡，展开新的冒险。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/730",
+          "versions": [
+            {
+              "id": "fairytale-r21-v1",
+              "workId": "fairytale-r21",
+              "year": 2013,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "下载再版",
+              "voice": "未核实",
+              "differences": "官网商品日期2013/11/08；下载版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/826"
+            },
+            {
+              "id": "fairytale-r21-v2",
+              "workId": "fairytale-r21",
+              "year": 2013,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "官网商品日期2013/12/20；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/730"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r22",
+          "title": "ミダラーナ 巨乳戦記",
+          "originalTitle": "ミダラーナ 巨乳戦記",
+          "titleAliases": [],
+          "firstYear": 2012,
+          "category": "策略游戏",
+          "subcategory": "战略RPG",
+          "genre": "战略角色扮演",
+          "characters": [
+            "パーセイ",
+            "アリシア"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/10",
+          "synopsis": "帕塞与阿莉西亚在诸国竞争的大陆展开军事行动。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/10",
+          "versions": [
+            {
+              "id": "fairytale-r22-v1",
+              "workId": "fairytale-r22",
+              "year": 2012,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "有（部分）",
+              "differences": "官网商品日期2012/11/30；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/10"
+            },
+            {
+              "id": "fairytale-r22-v2",
+              "workId": "fairytale-r22",
+              "year": 2012,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "下载再版",
+              "voice": "有（部分）",
+              "differences": "官网商品日期2012/12/28；下载版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/831"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r23",
+          "title": "信長の欲とボウ",
+          "originalTitle": "信長の欲とボウ",
+          "titleAliases": [],
+          "firstYear": 2013,
+          "category": "策略游戏",
+          "subcategory": "战略RPG",
+          "genre": "战国幻想SRPG",
+          "characters": [
+            "トウキチ",
+            "織田信長",
+            "ハチスカマサカツ"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/702",
+          "synopsis": "藤吉在本能寺之后来到另一个世界，加入织田军参与六方势力的争战。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/702",
+          "versions": [
+            {
+              "id": "fairytale-r23-v1",
+              "workId": "fairytale-r23",
+              "year": 2013,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "有（部分）",
+              "differences": "官网商品日期2013/08/09；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/702"
+            },
+            {
+              "id": "fairytale-r23-v2",
+              "workId": "fairytale-r23",
+              "year": 2013,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "下载再版",
+              "voice": "有（部分）",
+              "differences": "官网商品日期2013/08/09；下载版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/827"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r24",
+          "title": "信長の欲とボウ 淫乳記",
+          "originalTitle": "信長の欲とボウ 淫乳記",
+          "titleAliases": [
+            "信長の欲とボウ　淫乳記"
+          ],
+          "firstYear": 2014,
+          "category": "策略游戏",
+          "subcategory": "战略RPG",
+          "genre": "战国幻想SRPG",
+          "characters": [
+            "ヒデヨシ",
+            "タケナカハンベエ"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/777",
+          "synopsis": "改名为秀吉的主人公继续参与全国争战，与军师共同推进战役。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/777",
+          "versions": [
+            {
+              "id": "fairytale-r24-v1",
+              "workId": "fairytale-r24",
+              "year": 2014,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "有",
+              "differences": "官网商品日期2014/09/26；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/777"
+            },
+            {
+              "id": "fairytale-r24-v2",
+              "workId": "fairytale-r24",
+              "year": 2014,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "下载再版",
+              "voice": "有",
+              "differences": "官网商品日期2014/10/31；下载版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/824"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r25",
+          "title": "学園オブザデッド",
+          "originalTitle": "学園オブザデッド",
+          "titleAliases": [],
+          "firstYear": 2014,
+          "category": "RPG",
+          "subcategory": "战斗冒险",
+          "genre": "僵尸战斗／脱出",
+          "characters": [
+            "堤衛",
+            "真壁あかね"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/772",
+          "synopsis": "僵尸突然出现在城市与校园，卫与茜必须寻找控制者并设法脱出。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/772",
+          "versions": [
+            {
+              "id": "fairytale-r25-v1",
+              "workId": "fairytale-r25",
+              "year": 2014,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "有",
+              "differences": "官网商品日期2014/04/11；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/772"
+            },
+            {
+              "id": "fairytale-r25-v2",
+              "workId": "fairytale-r25",
+              "year": 2014,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "下载再版",
+              "voice": "有",
+              "differences": "官网商品日期2014/04/11；下载版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/825"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r26",
+          "title": "大人の痴漢電車倶楽部",
+          "originalTitle": "大人の痴漢電車倶楽部",
+          "titleAliases": [],
+          "firstYear": 2015,
+          "category": "RPG",
+          "subcategory": "战斗模拟",
+          "genre": "剧情RPG",
+          "characters": [
+            "大地漢太郎",
+            "星隅奈留乃",
+            "須藤郁恵"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/776",
+          "synopsis": "以电车场景与RPG战斗结构组成的成人向作品；按官网玩法归入跨类型区。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/776",
+          "versions": [
+            {
+              "id": "fairytale-r26-v1",
+              "workId": "fairytale-r26",
+              "year": 2015,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "首发",
+              "voice": "有",
+              "differences": "官网商品日期2015/05/01；实体版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/776"
+            },
+            {
+              "id": "fairytale-r26-v2",
+              "workId": "fairytale-r26",
+              "year": 2015,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "下载再版",
+              "voice": "有",
+              "differences": "官网商品日期2015/05/01；下载版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/821"
+            }
+          ]
+        },
+        {
+          "id": "fairytale-r27",
+          "title": "ヌキっ娘クラブ45人（シコッターズ）",
+          "originalTitle": "ヌキっ娘クラブ45人（シコッターズ）",
+          "titleAliases": [],
+          "firstYear": 2014,
+          "category": "互动模拟",
+          "subcategory": "外设互动",
+          "genre": "USB设备联动模拟",
+          "characters": [
+            "可选人物群像"
+          ],
+          "charactersNote": "姓名资料未确认的角色保留原作身份，不推测姓名。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/771",
+          "synopsis": "以专用USB设备与人物选择构成互动；不视作文字冒险。",
+          "notes": "菜单、点击、按键阅读或直接操作均保留；版本与商品特典不重复计为独立作品。",
+          "source": "https://fandc.co.jp/catalog/pc/771",
+          "versions": [
+            {
+              "id": "fairytale-r27-v1",
+              "workId": "fairytale-r27",
+              "year": 2014,
+              "platform": "Windows",
+              "publisher": "フェアリーテール",
+              "publisherCompanies": [
+                "フェアリーテール"
+              ],
+              "kind": "下载再版",
+              "voice": "未核实",
+              "differences": "官网商品日期2014/10/24；下载版。特典、初回与通常包装归并；未确认的语音与移植细节不推测。",
+              "source": "https://fandc.co.jp/catalog/pc/771"
+            }
+          ]
+        }
+      ],
+      "catalogueEntryCount": 151,
+      "source": "https://fandc.co.jp/catalog/pc",
+      "sectionTitle": "从菜单调查到恋爱模拟与支线小说",
+      "auditTitle": "151项官网商品与历史补充核对",
+      "auditSourceLabel": "F&C官网商品目录及机种档案",
+      "auditLabel": "每项商品均有去向；不将商品SKU等同于独立游戏。",
+      "auditNote": "完成指已发现目录项目均有处理说明。Lipstick V2玩法、校内写生特别盘年份、部分移植与再版仍有缺项，不据缺项宣称未发行。",
+      "overviewLabel": "共享数据库作品",
+      "description": "FairyTale作品专题，含沙織与X指定；菜单、点击与直接操作收录，纯词句输入排除。共享平台档案，另列RPG、策略、棋牌和外设互动。",
+      "creativeProfile": {
+        "thesis": "依据游戏结构作编辑归纳：早期场景调查与悬疑叙事，逐渐发展成恋爱模拟、双视角小说和主题支线。类型按操作与叙事区分，成人题材不代替游戏类型。",
+        "phases": [
+          {
+            "period": "1987—1994",
+            "heading": "场景调查与悬疑",
+            "analysis": "Dress、Lipstick Adventure及Dead of the Brain通过菜单调查推进事件；电子小说与动作分卷并行，早期作品并非只有词句输入。",
+            "basis": "编辑观察",
+            "source": "https://fandc.co.jp/catalog/pc/224"
+          },
+          {
+            "period": "1995—2000",
+            "heading": "关系与时间安排",
+            "analysis": "VirtuaCall、同窓会、Natural和Twinkle Review将对话、关系变化与培养结构结合；合集、重制和新篇章分别归档。",
+            "basis": "编辑观察",
+            "source": "https://fandc.co.jp/catalog/pc/196"
+          },
+          {
+            "period": "2001—2026",
+            "heading": "主题支线与版本延续",
+            "analysis": "花月組改写童话，ETHIX以医学伦理悬疑为主题；主品牌继续推出小说ADV、跨类型游戏与动画增强版本。",
+            "basis": "编辑观察",
+            "source": "https://fandc.co.jp/catalog/pc/683"
+          }
+        ]
+      },
+      "entries": [
+        {
+          "title": "沙織 -美少女達の館-",
+          "status": "历史作品补充",
+          "reason": "现行官网缺项，由机种档案和历史玩法资料补充；不需要键入词句指令。",
+          "source": "https://kiisu.egono.com/main.php?key=saori",
+          "workIds": [
+            "g800"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ドラゴンシティ X指定",
+          "status": "历史作品补充",
+          "reason": "现行官网缺项，由机种档案和历史玩法资料补充；不需要键入词句指令。",
+          "source": "https://chaser.my.coocan.jp/guide/fairy_t.htm",
+          "workIds": [
+            "g801"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "花王フロッピー劇場 ルート246殺人案内",
+          "status": "历史作品补充",
+          "reason": "现行官网缺项，由机种档案和历史玩法资料补充；不需要键入词句指令。",
+          "source": "https://chaser.my.coocan.jp/guide/fairy_t.htm",
+          "workIds": [
+            "g802"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "校内写生1 世にもHな物語",
+          "status": "历史作品补充",
+          "reason": "现行官网缺项，由机种档案和历史玩法资料补充；不需要键入词句指令。",
+          "source": "https://fandc.co.jp/catalog/pc/92",
+          "workIds": [
+            "g803"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "校内写生2 美少女仮面の謎：美少女仮面見参！",
+          "status": "历史作品补充",
+          "reason": "现行官网缺项，由机种档案和历史玩法资料补充；不需要键入词句指令。",
+          "source": "https://fandc.co.jp/catalog/pc/92",
+          "workIds": [
+            "g804"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "校内写生3 セーラー服戦士アッコちゃん対美少女仮面",
+          "status": "历史作品补充",
+          "reason": "现行官网缺项，由机种档案和历史玩法资料补充；不需要键入词句指令。",
+          "source": "https://fandc.co.jp/catalog/pc/92",
+          "workIds": [
+            "g805"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "セーラー服美少女図鑑 其の一",
+          "status": "历史作品补充",
+          "reason": "现行官网缺项，由机种档案和历史玩法资料补充；不需要键入词句指令。",
+          "source": "https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/1539941.html",
+          "workIds": [
+            "g806"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "セーラー服美少女図鑑 其の二",
+          "status": "历史作品补充",
+          "reason": "现行官网缺项，由机种档案和历史玩法资料补充；不需要键入词句指令。",
+          "source": "https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/1539941.html",
+          "workIds": [
+            "g807"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "セーラー服美少女図鑑 其の三",
+          "status": "历史作品补充",
+          "reason": "现行官网缺项，由机种档案和历史玩法资料补充；不需要键入词句指令。",
+          "source": "https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/1539941.html",
+          "workIds": [
+            "g808"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "セーラー服美少女図鑑 其の四",
+          "status": "历史作品补充",
+          "reason": "现行官网缺项，由机种档案和历史玩法资料补充；不需要键入词句指令。",
+          "source": "https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/1539941.html",
+          "workIds": [
+            "g809"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "セーラー服美少女図鑑 其の五",
+          "status": "历史作品补充",
+          "reason": "现行官网缺项，由机种档案和历史玩法资料补充；不需要键入词句指令。",
+          "source": "https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/1539941.html",
+          "workIds": [
+            "g810"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "セーラー服美少女図鑑 其の六",
+          "status": "历史作品补充",
+          "reason": "现行官网缺项，由机种档案和历史玩法资料补充；不需要键入词句指令。",
+          "source": "https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/1539941.html",
+          "workIds": [
+            "g811"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "バーチャコール２ for Win · 商品924 · 1996/10/25",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/924",
+          "workIds": [
+            "g771"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ハートに火をつけて… · 商品922 · 2011/04/23",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/922",
+          "workIds": [
+            "g780"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "トゥインクルレビュー · 商品921 · 2010/07/19",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/921",
+          "workIds": [
+            "g781"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "Natural2 -DUO- DVD EDITION · 商品919 · 2008/05/14",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/919",
+          "workIds": [
+            "g777"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "さくらんぼ海岸 · 商品918 · 2009/12/08",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/918",
+          "workIds": [
+            "g782"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "さくらんぼ海岸 · 商品917 · 2000/06/30",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/917",
+          "workIds": [
+            "g782"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "同窓会メモリアルパッケージ · 商品914 · 2008/12/29",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/914",
+          "workIds": [
+            "g775"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "同窓会メモリアルパッケージ · 商品913 · 2000/10/06",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/913",
+          "workIds": [
+            "g775"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "B.B. Oh,yes! Jonny! · 商品912 · 2010/08/10",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/912",
+          "workIds": [
+            "g783"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "B.B. Oh,yes! Jonny! · 商品911 · 2000/11/10",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/911",
+          "workIds": [
+            "g783"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "White Christmas ～雪降る夜の恋人達～ · 商品910 · 2010/06/15",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/910",
+          "workIds": [
+            "g784"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "NaturalZero+ ～はじまりと終わりの場所で～ · 商品909 · 2011/04/16",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/909",
+          "workIds": [
+            "g778"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "Lipstick ADV.4 · 商品907 · 2011/02/12",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/907",
+          "workIds": [
+            "g758"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "Natural〜身も心も〜 XP対応版 · 商品904 · 2008/05/14",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/904",
+          "workIds": [
+            "g776"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ひまわりの咲くまち · 商品896 · 2009/09/08",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/896",
+          "workIds": [
+            "g785"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "羊たちの憂鬱 ～コンクリートに映る影～ · 商品890 · 2010/09/21",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/890",
+          "workIds": [
+            "g786"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "Hello Good-bye! ～男ともだち女ともだち～2 · 商品875 · 2011/04/09",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/875",
+          "workIds": [
+            "g788"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "Hello Good-bye! ～男ともだち女ともだち～ · 商品874 · 2011/04/09",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/874",
+          "workIds": [
+            "g788"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "アルゴノーツ · 商品861 · 2011/03/11",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/861",
+          "workIds": [
+            "g789"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ドラゴンズレイド · 商品832 · 2012/09/28",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/832",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r19"
+          ]
+        },
+        {
+          "title": "ミダラーナ 巨乳戦記 · 商品831 · 2012/12/28",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/831",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r22"
+          ]
+        },
+        {
+          "title": "ドラゴンズレイド2　催眠魔法と巨乳娘 · 商品828 · 2013/05/24",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/828",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r20"
+          ]
+        },
+        {
+          "title": "信長の欲とボウ · 商品827 · 2013/08/09",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/827",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r23"
+          ]
+        },
+        {
+          "title": "ドラゴンズレイド3 ドラゴンメイドと姫の帰還 · 商品826 · 2013/11/08",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/826",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r21"
+          ]
+        },
+        {
+          "title": "学園オブザデッド · 商品825 · 2014/04/11",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/825",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r25"
+          ]
+        },
+        {
+          "title": "なつえっち　～めいといなかのなつやすみ～ アニメハイブリッドDX版 · 商品988 · 2026/03/26",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/988",
+          "workIds": [
+            "g796"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "なつえっち　～めいといなかのなつやすみ～ アニメハイブリッド · 商品983 · 2025/12/19",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/983",
+          "workIds": [
+            "g796"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "なつえっち ～ホリデーパック～ · 商品970 · 2020/10/30",
+          "status": "已归档／归并",
+          "reason": "两部既有暑期ADV的合集，不新增作品。",
+          "source": "https://fandc.co.jp/catalog/pc/970",
+          "workIds": [
+            "g796",
+            "g797"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "妖怪ゑッチ ～エチチな鬼だよう～ · 商品968 · 2019/03/29",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/968",
+          "workIds": [
+            "g799"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "妖怪ゑッチ ～エチチな鬼だよう～ · 商品967 · 2019/03/29",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/967",
+          "workIds": [
+            "g799"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ねとられ姫 · 商品966 · 2019/02/28",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/966",
+          "workIds": [
+            "g798"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ねとられ姫 · 商品965 · 2019/02/28",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/965",
+          "workIds": [
+            "g798"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "なつえっち２　～ふたごといなかのなつやすみ～ · 商品961 · 2018/03/23",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/961",
+          "workIds": [
+            "g797"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "なつえっち２　～ふたごといなかのなつやすみ～ · 商品960 · 2018/03/23",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/960",
+          "workIds": [
+            "g797"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "信長の欲とボウ　淫乳記 · 商品824 · 2014/10/31",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/824",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r24"
+          ]
+        },
+        {
+          "title": "大人の痴漢電車倶楽部 · 商品821 · 2015/05/01",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/821",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r26"
+          ]
+        },
+        {
+          "title": "なつえっち　～めいといなかのなつやすみ～ · 商品818 · 2016/07/29",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/818",
+          "workIds": [
+            "g796"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "なつえっち　～めいといなかのなつやすみ～ · 商品784 · 2016/07/29",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/784",
+          "workIds": [
+            "g796"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "信長の欲とボウ　淫乳記 · 商品777 · 2014/09/26",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/777",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r24"
+          ]
+        },
+        {
+          "title": "大人の痴漢電車倶楽部 · 商品776 · 2015/05/01",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/776",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r26"
+          ]
+        },
+        {
+          "title": "学園オブザデッド · 商品772 · 2014/04/11",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/772",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r25"
+          ]
+        },
+        {
+          "title": "ヌキっ娘クラブ45人（シコッターズ） · 商品771 · 2014/10/24",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/771",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r27"
+          ]
+        },
+        {
+          "title": "ドラゴンズレイド2　催眠魔法と巨乳娘 · 商品768 · 2013/04/26",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/768",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r20"
+          ]
+        },
+        {
+          "title": "ドラゴンズレイド · 商品765 · 2012/08/31",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/765",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r19"
+          ]
+        },
+        {
+          "title": "Natural ～身も心も～ · 商品764 · 1998/02/06",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/764",
+          "workIds": [
+            "g776"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "Natural2 -DUO- · 商品761 · 2000/05/26",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/761",
+          "workIds": [
+            "g777"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "Natural2 -DUO- · 商品760 · 2000/05/26",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/760",
+          "workIds": [
+            "g777"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "NaturalZero+ ～はじまりと終わりの場所で～ · 商品759 · 2000/12/22",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/759",
+          "workIds": [
+            "g778"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "NaturalZero+ ～はじまりと終わりの場所で～ · 商品758 · 2000/12/22",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/758",
+          "workIds": [
+            "g778"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ドラゴンズレイド ツインパック · 商品738 · 2014/01/31",
+          "status": "已归档／归并",
+          "reason": "Dragons Raid前两作合集，不新增作品。",
+          "source": "https://fandc.co.jp/catalog/pc/738",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r19",
+            "fairytale-r20"
+          ]
+        },
+        {
+          "title": "ドラゴンズレイド3 ドラゴンメイドと姫の帰還 · 商品730 · 2013/12/20",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/730",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r21"
+          ]
+        },
+        {
+          "title": "いたずら姫 · 商品712 · 2002/08/30",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/712",
+          "workIds": [
+            "g787"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "信長の欲とボウ · 商品702 · 2013/08/09",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/702",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r23"
+          ]
+        },
+        {
+          "title": "羊たちの憂鬱 ～コンクリートに映る影～ · 商品698 · 2002/09/27",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/698",
+          "workIds": [
+            "g786"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "フェアリーテール リミックス volume.3 with Virtua Call2.2 · 商品660 · 1996/11/29",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/660",
+          "workIds": [
+            "g772"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "同窓会 ～Yesterday Once More～ · 商品659 · 1996/09/12",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/659",
+          "workIds": [
+            "g775"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "PALETTE【時計付き】 · 商品653 · 1998/11/20",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/653",
+          "workIds": [
+            "g779"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "Lipstick Adv.EX · 商品649 · 1999/04/23",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/649",
+          "workIds": [
+            "g757"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "Lipstick ADV.4 · 商品647 · 2001/02/23",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/647",
+          "workIds": [
+            "g758"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "B.B. Oh,yes! Jonny! · 商品626 · 2000/11/10",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/626",
+          "workIds": [
+            "g783"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "夢二 浅草綺譚 · 商品624 · 1992-05",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/624",
+          "workIds": [
+            "g762"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "さくらんぼ海岸 · 商品619 · 2000/06/30",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/619",
+          "workIds": [
+            "g782"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "羊たちの憂鬱 ～コンクリートに映る影～ · 商品606 · 2002/09/27",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/606",
+          "workIds": [
+            "g786"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "麗奈 · 商品592 · 1987-05",
+          "status": "非游戏／商品身份保留",
+          "reason": "实拍图像、简介、日记和信息展示，缺少游戏结构；按非游戏展示软件说明。",
+          "source": "https://fandc.co.jp/catalog/pc/592",
+          "workIds": [],
+          "relatedIds": []
+        },
+        {
+          "title": "アルゴノーツ · 商品575 · 2005/02/25",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/575",
+          "workIds": [
+            "g789"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "アルゴノーツ · 商品555 · 2005/03/25",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/555",
+          "workIds": [
+            "g789"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "時の森の物語 ～TEAR～ · 商品549 · 2001/06/22",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/549",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r17"
+          ]
+        },
+        {
+          "title": "X・na [キサナ] · 商品542 · 1990/12/05",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/542",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r03"
+          ]
+        },
+        {
+          "title": "DEAD OF THE BRAIN2 · 商品539 · 1993/11/26",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/539",
+          "workIds": [
+            "g768"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "時の森の物語 ～TEAR～ · 商品533 · 2001/06/22",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/533",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r17"
+          ]
+        },
+        {
+          "title": "Hello Good-bye! ～男ともだち女ともだち～ 【CD-ROM版】 · 商品522 · 2003/11/28",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/522",
+          "workIds": [
+            "g788"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "Hello Good-bye! ～男ともだち女ともだち～ 【DVD-ROM版】 · 商品515 · 2003/11/28",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/515",
+          "workIds": [
+            "g788"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "LIPSTICK. ADV2 · 商品514 · 1990/12/14",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/514",
+          "workIds": [
+            "g755"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "同窓会メモリアルパッケージ · 商品507 · 2000/10/06",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/507",
+          "workIds": [
+            "g775"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "Natural Premium Package(ナチュラル★ぷち同梱) · 商品497 · 2000/04/14",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/497",
+          "workIds": [
+            "g776"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "狂った果実 · 商品493 · 1992/05/01",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/493",
+          "workIds": [
+            "g760"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "リップスティックV2 · 商品490 · 1989",
+          "status": "商品身份保留，玩法缺项",
+          "reason": "官网列ADV，但缺少玩法与角色资料，无法确认与Lipstick图像集的关系；保留未决商品，不臆造剧情。",
+          "source": "https://fandc.co.jp/catalog/pc/490",
+          "workIds": [],
+          "relatedIds": []
+        },
+        {
+          "title": "White Christmas ～雪降る夜の恋人達～ · 商品477 · 2000/12/08",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/477",
+          "workIds": [
+            "g784"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ストロベリー大戦略Ⅱ · 商品471 · 1993/10/22",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/471",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r07"
+          ]
+        },
+        {
+          "title": "同窓会 Art Collection with ミニドラマCD · 商品459 · 1997/12/26",
+          "status": "已归档／归并",
+          "reason": "Art Collection与迷你广播剧附件，没有独立游戏证据。",
+          "source": "https://fandc.co.jp/catalog/pc/459",
+          "workIds": [
+            "g775"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "MOON GATE · 商品428 · 1995/11/02",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/428",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r14"
+          ]
+        },
+        {
+          "title": "DORAGOON ARMAR for Adult · 商品405 · 1989/06/08",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/405",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r02"
+          ]
+        },
+        {
+          "title": "殺しのドレス2 · 商品398 · 1989/09",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/398",
+          "workIds": [
+            "g752"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "蘭丸 · 商品394 · 1992-04",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/394",
+          "workIds": [
+            "g761"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "donor[ドナー] · 商品850 · 2011/01/21",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/850",
+          "workIds": [
+            "g790"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "蔵の中はキケンがいっぱい!? · 商品845 · 2010/06/22",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/845",
+          "workIds": [
+            "g791"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "donor[ドナー] · 商品683 · 2006/12/08",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/683",
+          "workIds": [
+            "g790"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "蔵の中はキケンがいっぱい!? · 商品258 · 2007/06/29",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/258",
+          "workIds": [
+            "g791"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "校内写生 · 商品92 · 1991/07/27",
+          "status": "已归档／归并",
+          "reason": "官网合列三卷，MAME保存三个独立本体，分别建档；特别盘年份与内容不明另列。",
+          "source": "https://fandc.co.jp/catalog/pc/92",
+          "workIds": [
+            "g803",
+            "g804",
+            "g805"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "たまきゅう · 商品882 · 2010/09/04",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/882",
+          "workIds": [
+            "g792"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "たまきゅう C-ZONE「たまきゅう」ドール付 · 商品279 · 2003/06/27",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/279",
+          "workIds": [
+            "g792"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "たまきゅう HONEY BEEデビューマキシCD付 · 商品132 · 2003/06/27",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/132",
+          "workIds": [
+            "g792"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "たまきゅう · 商品104 · 2003/06/27",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/104",
+          "workIds": [
+            "g792"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "月雀 · 商品939 · 2003/02/14",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/939",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r18"
+          ]
+        },
+        {
+          "title": "月雀 · 商品888 · 2010/06/29",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/888",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r18"
+          ]
+        },
+        {
+          "title": "鏡の中のオルゴール　ひとつめの物語 [THUMBELINA] · 商品881 · 2009/08/25",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/881",
+          "workIds": [
+            "g793"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "鏡の中のオルゴール　ふたつめの物語 [SNOW WHITE] · 商品880 · 2009/09/06",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/880",
+          "workIds": [
+            "g794"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "鏡の中のオルゴール　みっつめの物語 [Haensel und Gretel] · 商品879 · 2009/09/13",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/879",
+          "workIds": [
+            "g795"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "月雀 · 商品633 · 2002/05/28",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/633",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r18"
+          ]
+        },
+        {
+          "title": "鏡の中のオルゴール　ひとつめの物語 [THUMBELINA] · 商品625 · 2003/06/27",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/625",
+          "workIds": [
+            "g793"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "鏡の中のオルゴール　みっつめの物語 [Haensel und Gretel] · 商品587 · 2003/09/12",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/587",
+          "workIds": [
+            "g795"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "鏡の中のオルゴール　ふたつめの物語 [SNOW WHITE] · 商品20 · 2003/07/25",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/20",
+          "workIds": [
+            "g794"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "舞☆MAI ふにふにぱぴゅーんといわせちゃる！ · 商品387 · 1991/12/22",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/387",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r05"
+          ]
+        },
+        {
+          "title": "LIPSTICK. ADV · 商品379 · 1988/10/15",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/379",
+          "workIds": [
+            "g754"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "あっぷる・くらぶ データ集 · 商品369 · 1988/11/09",
+          "status": "已归档／归并",
+          "reason": "本体用追加数据盘；MAME明确需要Apple Club运行。PC88还保存6—10号扩展，不新增独立游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/369",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r09",
+            "fairytale-r10"
+          ]
+        },
+        {
+          "title": "マリンフィルト · 商品360 · 1993/03/12",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/360",
+          "workIds": [
+            "g765"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ひまわりの咲くまち · 商品356 · 2002/02/08",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/356",
+          "workIds": [
+            "g785"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "フェアリーテール リミックス volume.1 · 商品354 · 1995/10/27",
+          "status": "非游戏／商品身份保留",
+          "reason": "Remix第一卷为系列娱乐／配件集；未确认可独立归档的新游戏，保留商品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/354",
+          "workIds": [],
+          "relatedIds": []
+        },
+        {
+          "title": "これが噂の！ゴリンピック · 商品351 · 1988/08/08",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/351",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r08"
+          ]
+        },
+        {
+          "title": "F&C DVD COLLECTION vol.2 ひまわりの咲くまち · 商品348 · 2003/03/28",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/348",
+          "workIds": [
+            "g785"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ほっとMILK · 商品334 · 1987-06",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/334",
+          "workIds": [
+            "g749"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "あっぷる・くらぶ1 禁じられた遊びシリーズ · 商品323 · 1988/06/08",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/323",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r09"
+          ]
+        },
+        {
+          "title": "東京女子高生セーラー服入門 · 商品319 · 1988-02",
+          "status": "非游戏／商品身份保留",
+          "reason": "东京女子高生系列三卷为CG展示集；不作为游戏新增。",
+          "source": "https://fandc.co.jp/catalog/pc/319",
+          "workIds": [],
+          "relatedIds": []
+        },
+        {
+          "title": "セーラー服美少女図鑑 · 商品311 · 1988-01",
+          "status": "已归档／归并",
+          "reason": "六个分别发行的动作分卷分别建档，不误删为纯CG集；MSX计划未确认发售。",
+          "source": "https://fandc.co.jp/catalog/pc/311",
+          "workIds": [
+            "g806",
+            "g807",
+            "g808",
+            "g809",
+            "g810",
+            "g811"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ロマンスは剣の輝き -THE LAST CRUSADER- · 商品310 · 1995/06/23",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/310",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r15"
+          ]
+        },
+        {
+          "title": "すてぃる･そーど · 商品302 · 1987-05",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/302",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r01"
+          ]
+        },
+        {
+          "title": "バーチャコール for Win · 商品300 · 1996/04/26",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/300",
+          "workIds": [
+            "g770"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "フェアリーテール リミックス volume.2 · 商品291 · 1996/04/26",
+          "status": "非游戏／商品身份保留",
+          "reason": "Remix第二卷为系列娱乐／配件集；未确认可独立归档的新游戏，保留商品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/291",
+          "workIds": [],
+          "relatedIds": []
+        },
+        {
+          "title": "リップスティック #1　ロリータ編 · 商品289 · 1987-10",
+          "status": "非游戏／商品身份保留",
+          "reason": "Lipstick初代分卷为图像数据集，不是后来独立发行的Lipstick Adventure游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/289",
+          "workIds": [],
+          "relatedIds": []
+        },
+        {
+          "title": "リップスティックアドベンチャー3 · 商品282 · 1993/04/23",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/282",
+          "workIds": [
+            "g756"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "リップスティック #2　女子学生編 · 商品276 · 1987-10",
+          "status": "非游戏／商品身份保留",
+          "reason": "Lipstick初代分卷为图像数据集，不是后来独立发行的Lipstick Adventure游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/276",
+          "workIds": [],
+          "relatedIds": []
+        },
+        {
+          "title": "ドラキュラ伯爵 · 商品267 · 1992/11/27",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/267",
+          "workIds": [
+            "g764"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "リップスティック #3　OL編 · 商品266 · 1987-10",
+          "status": "非游戏／商品身份保留",
+          "reason": "Lipstick初代分卷为图像数据集，不是后来独立发行的Lipstick Adventure游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/266",
+          "workIds": [],
+          "relatedIds": []
+        },
+        {
+          "title": "華麗なる人生2 · 商品261 · 1994/11/22",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/261",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r12"
+          ]
+        },
+        {
+          "title": "リップスティック #4　白衣の天使編 · 商品260 · 1987-10",
+          "status": "非游戏／商品身份保留",
+          "reason": "Lipstick初代分卷为图像数据集，不是后来独立发行的Lipstick Adventure游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/260",
+          "workIds": [],
+          "relatedIds": []
+        },
+        {
+          "title": "リップスティック #5　スチュワーデス編 · 商品250 · 1987-10",
+          "status": "非游戏／商品身份保留",
+          "reason": "Lipstick初代分卷为图像数据集，不是后来独立发行的Lipstick Adventure游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/250",
+          "workIds": [],
+          "relatedIds": []
+        },
+        {
+          "title": "ふぇありぃてぃる · 商品240 · 1987-05",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/240",
+          "workIds": [
+            "g748"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "あぶない女性心理学入門 · 商品236 · 1987-06",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/236",
+          "workIds": [
+            "g750"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "バーチャコール · 商品232 · 1995/02/24",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/232",
+          "workIds": [
+            "g770"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "新宿物語 · 商品231 · 1992/07/23",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/231",
+          "workIds": [
+            "g763"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "殺しのドレス3 · 商品226 · 1993/02/10",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/226",
+          "workIds": [
+            "g753"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "殺しのドレス · 商品224 · 1987-10",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/224",
+          "workIds": [
+            "g751"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "バーチャコール3 · 商品221 · 1997/07/25",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/221",
+          "workIds": [
+            "g773"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "DEAD OF THE BRAIN ～死霊の叫び～ · 商品207 · 1992-04",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/207",
+          "workIds": [
+            "g767"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ProjectVC+フェアリーテールRemix Vol.4 · 商品196 · 1998/04/24",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/196",
+          "workIds": [
+            "g774"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "PALETTE 【マウスパッド付き】 · 商品195 · 1998/11/20",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/195",
+          "workIds": [
+            "g779"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "あっぷる・くらぶ2 禁じられた遊びシリーズ · 商品191 · 1988/09/08",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/191",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r10"
+          ]
+        },
+        {
+          "title": "バーチャコール２ · 商品189 · 1995/12/22",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/189",
+          "workIds": [
+            "g771"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "極楽まんだら · 商品165 · 1993/10/29",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/165",
+          "workIds": [
+            "g766"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ハートに火をつけて… · 商品157 · 1999/10/29",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/157",
+          "workIds": [
+            "g780"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "XIX [ギゼ!] · 商品133 · 1991/11/22",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/133",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r04"
+          ]
+        },
+        {
+          "title": "私をゴルフに連れてって · 商品75 · 1991/03/08",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/75",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r13"
+          ]
+        },
+        {
+          "title": "華麗なる人生 みなさんのおかげです · 商品68 · 1991/12/27",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/68",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r11"
+          ]
+        },
+        {
+          "title": "トゥインクルレビュー・スペシャルパッケージ · 商品58 · 2000/01/28",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/58",
+          "workIds": [
+            "g781"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "アラベスク · 商品56 · 1994/04/13",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/56",
+          "workIds": [
+            "g769"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "トゥインクルレビュー · 商品47 · 1999/11/19",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/47",
+          "workIds": [
+            "g781"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "すてぃる･そーど for adult · 商品34 · 1988/07/08",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/34",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r01"
+          ]
+        },
+        {
+          "title": "ロマンスは剣の輝きⅡ · 商品33 · 1999/12/24",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/33",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r16"
+          ]
+        },
+        {
+          "title": "ストロベリー大戦略 NOVU · 商品22 · 1990/05/17",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/22",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r06"
+          ]
+        },
+        {
+          "title": "ミダラーナ 巨乳戦記 · 商品10 · 2012/11/30",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/10",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r22"
+          ]
+        },
+        {
+          "title": "うろつき童子 · 商品5 · 1990/04/21",
+          "status": "已归档／归并",
+          "reason": "同一作品的独立商品条目已归并；按机种／介质／发行年份记录版本，初回特典不另计作品。",
+          "source": "https://fandc.co.jp/catalog/pc/5",
+          "workIds": [
+            "g759"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "Can Can Bunny · X68000授权发行",
+          "status": "边界与资料说明",
+          "reason": "直接引用既有g690，1990年FairyTale署名版本保留；本体与Cocktail专题均不修改。",
+          "source": "https://fandc.co.jp/catalog/pc/417",
+          "workIds": [
+            "g690"
+          ]
+        },
+        {
+          "title": "RED-ZONE、HARDCOVER与F&C FC01／FC02／FC03",
+          "status": "边界与资料说明",
+          "reason": "本次是FairyTale品牌专题，含明确FairyTale支线花月組、月星組、ETHIX、X指定；集团独立品牌不自动混入。Necronomicon、Maria等按HARDCOVER边界处理。",
+          "source": "https://fandc.co.jp/catalog/pc",
+          "workIds": []
+        },
+        {
+          "title": "フェアリーテール海賊版",
+          "status": "边界与资料说明",
+          "reason": "1991年正式宣传／体验合集，名称不表示盗版；含既有五作试玩片段与说明，不算五部新作或独立完整游戏。",
+          "source": "https://download.file-hunter.com/Magazines/JP/MSX%20Fan/MSXFAN199107.pdf",
+          "workIds": []
+        },
+        {
+          "title": "校内写生すぺしゃるDISK",
+          "status": "边界与资料说明",
+          "reason": "MAME保存身份但年份199?、内容缺项；不伪造发行年或独立故事。",
+          "source": "https://github.com/mamedev/mame/blob/master/hash/pc98.xml",
+          "workIds": [
+            "g803",
+            "g804",
+            "g805"
+          ]
+        },
+        {
+          "title": "Dragon Eyes／Can Can Bunny Superior",
+          "status": "边界与资料说明",
+          "reason": "MAME有FairyTale署名异文，但属于已存在的Cocktail Soft作品；不增重复记录、不改已有发行署名。",
+          "source": "https://github.com/mamedev/mame/blob/master/hash/pc8801_flop.xml",
+          "workIds": []
+        },
+        {
+          "title": "沙織的其他机种",
+          "status": "边界与资料说明",
+          "reason": "X68000机种档案已确认1991年并补入；PC-88等机种仍缺独立年份证据，不套用PC-98日期。",
+          "source": "https://chaser.my.coocan.jp/guide/fairy_t.htm",
+          "workIds": [
+            "g800"
+          ]
+        },
+        {
+          "title": "授权主机版本与非品牌制作合作",
+          "status": "边界与资料说明",
+          "reason": "另名授权移植、合集及合作作品按实际署名识别；当前补录以官网与机种档案确证年份为准，不宣称每个地区／主机版均已核对。",
+          "source": "https://fandc.co.jp/catalog/pc",
+          "workIds": []
+        },
+        {
+          "title": "文字输入筛选",
+          "status": "边界与资料说明",
+          "reason": "本次已确认的品牌游戏均为菜单、点击、按键阅读或直接操作，未发现需要键入词句才能推进的本体。数字菜单、电话拨号、姓名填写不等于词句解释器。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_5bdwPwUhL8aIZjKq.php",
+          "workIds": []
+        },
+        {
+          "title": "Natural2 -DUO- · 授权主机版",
+          "status": "已归入版本",
+          "reason": "以原作关联归档，发行署名按授权发行方，不自动改为FairyTale。",
+          "source": "https://fandc.co.jp/catalog/consumer/259",
+          "workIds": [
+            "g777"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ナチュラル２デュオ～桜色の季節～ · 授权主机版",
+          "status": "已归入版本",
+          "reason": "以原作关联归档，发行署名按授权发行方，不自动改为FairyTale。",
+          "source": "https://fandc.co.jp/catalog/consumer/43",
+          "workIds": [
+            "g777"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "たまきゅう · 授权主机版",
+          "status": "已归入版本",
+          "reason": "以原作关联归档，发行署名按授权发行方，不自动改为FairyTale。",
+          "source": "https://fandc.co.jp/catalog/consumer/517",
+          "workIds": [
+            "g792"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "バーチャコールS · 授权主机版",
+          "status": "已归入版本",
+          "reason": "以原作关联归档，发行署名按授权发行方，不自动改为FairyTale。",
+          "source": "https://fandc.co.jp/catalog/consumer/923",
+          "workIds": [
+            "g773"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "フレンズ ～青春の輝き～ · 授权主机版",
+          "status": "已归入版本",
+          "reason": "以原作关联归档，发行署名按授权发行方，不自动改为FairyTale。",
+          "source": "https://fandc.co.jp/catalog/consumer/329",
+          "workIds": [
+            "g775"
+          ],
+          "relatedIds": []
+        },
+        {
+          "title": "ロマンスは剣の輝きⅡ～銀の虹をさがして～ · 授权主机版",
+          "status": "已归入版本",
+          "reason": "以原作关联归档，发行署名按授权发行方，不自动改为FairyTale。",
+          "source": "https://fandc.co.jp/catalog/consumer/891",
+          "workIds": [],
+          "relatedIds": [
+            "fairytale-r16"
+          ]
+        },
+        {
+          "title": "Dead of the Brain 1&2 · PC Engine合集",
+          "status": "已归入两部版本",
+          "reason": "1999年授权移植合集，不重复新增作品；原作各计一条对应版本。",
+          "source": "https://github.com/mamedev/mame/blob/master/hash/pcecd.xml",
+          "workIds": [
+            "g767",
+            "g768"
+          ]
+        },
+        {
+          "title": "Natural2 DVD · 商品754",
+          "status": "跨品牌版本归并",
+          "reason": "已确认原作的DVD／廉价合集版，不把FC03全部作品算作FairyTale。",
+          "source": "https://fandc.co.jp/catalog/pc/754",
+          "workIds": [
+            "g777"
+          ]
+        },
+        {
+          "title": "Natural2 DVD · 商品631",
+          "status": "跨品牌版本归并",
+          "reason": "已确认原作的DVD／廉价合集版，不把FC03全部作品算作FairyTale。",
+          "source": "https://fandc.co.jp/catalog/pc/631",
+          "workIds": [
+            "g777"
+          ]
+        }
+      ]
     }
   ]
 }
