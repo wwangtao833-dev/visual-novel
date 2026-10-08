@@ -2808,10 +2808,10 @@
     {
       "id": "elf",
       "name": "ELF",
-      "checkedAt": "2026-09-29",
-      "status": "已核对主要叙事与跨类型产品，早期细节待补查",
-      "scope": "按原 ELF 主品牌及 ELF 实际发行的 Silky’s 改编版整理；四类主数据库不再新增图文指令和纯文本指令游戏。RPG、模拟与麻将作品仅在下方跨类型区介绍；特典盘、合集和现代其他厂商重制不重复计作 ELF 新作。",
-      "versionScope": "首发平台和已核实的重要移植单列；早期多机种版本、廉价版及语音信息仍需继续查证。1996 年后 Windows 产品可对照 ELF 留存的官方兼容表；老版本发行年与机种还参考历史资料。",
+      "checkedAt": "2026-10-08",
+      "status": "已补入七部图文菜单／点击调查作品，历史发行与部分机种仍待补查",
+      "scope": "按原 ELF 主品牌及 ELF 实际发行的 Silky’s 改编版整理；2026-10-08 补入七部菜单选指令或画面点击调查的图文冒险，排除需要键入词句的指令输入游戏。已有作品、版本与跨类型记录保持不变。RPG、模拟、麻将与动作作品在跨类型区介绍；特典盘、合集和现代其他厂商重制不重复计作 ELF 新作。",
+      "versionScope": "首发平台和已核实的重要移植单列；本轮补充 27 条版本，包括三集 PINKY・PONKY 多机种、DE・JA 双作 2004 年 Windows 重制与 ELLE／〔él〕。DE・JA2 的部分旧移植和 ELLE 的 FM TOWNS 年份仍待查证；配音缺证据时保持未核实。早期机种按专门目录核对，不能将原作日期套用于所有移植。",
       "publisherNote": "ELF 指日本株式会社エルフ。Silky’s 原创游戏只在 ELF 确有发行移植／重制版时收入本专题，并明确原作发行品牌；FANZA 等后续权利方重制版仍按实际发行署名归档。",
       "workIds": [
         "g046",
@@ -2844,7 +2844,14 @@
         "g329",
         "g330",
         "g331",
-        "g332"
+        "g332",
+        "g683",
+        "g684",
+        "g685",
+        "g686",
+        "g687",
+        "g688",
+        "g689"
       ],
       "publisherWorkIds": [
         "g038",
@@ -2877,13 +2884,20 @@
         "g329",
         "g330",
         "g331",
-        "g332"
+        "g332",
+        "g683",
+        "g684",
+        "g685",
+        "g686",
+        "g687",
+        "g688",
+        "g689"
       ],
-      "catalogueEntryCount": 62,
+      "catalogueEntryCount": 69,
       "source": "https://archive.is/taUch",
       "sectionTitle": "ELF 叙事作品与其实际发行版本",
-      "auditLabel": "62 项历史作品与范围核查。",
-      "auditNote": "官方原站已经关闭。此表综合 ELF 留存的官方 Windows 兼容表、历史发行目录与作品资料整理；“核对”表示本专题列出的项目有处理记录，不保证失传或未列出产品均已穷尽。纯文本指令和图文指令游戏没有新增条目。",
+      "auditLabel": "62 项原核对记录＋7 项本轮补充结果；核对行不是独立游戏数量。",
+      "auditNote": "官方原站已经关闭，资料综合官方存档、机种馆录、实物目录与实玩记录。原 62 行及其旧范围排除判断作为历史记录保留；PRIVATE SCHOOL、PINKY・PONKY 三集、DE・JA 两作和 ELLE 的最新处理见表末 2026-10-08 补充行，已纳入主库。仍未验证的项目不计入已建档作品，不宣称失传产品与全部平台再版已穷尽。",
       "relatedGames": [
         {
           "id": "elf-r01",
@@ -4105,14 +4119,77 @@
           "workIds": [],
           "reason": "《同級生》《下級生》《同級生2》《遺作》近年重制归原作品版本，发行署名按新厂商；不作为 ELF 2015 年后的新作。",
           "source": "https://bangumi.tv/person/1254/works/game"
+        },
+        {
+          "title": "PRIVATE SCHOOL（2026-10-08 补充）",
+          "status": "追加收录／菜单或点击调查",
+          "workIds": [
+            "g683"
+          ],
+          "reason": "按本轮包括图文菜单指令、排除词句指令输入的范围追加；旧核对行保留为历史记录。合集／移植不重复计独立游戏。",
+          "source": "https://erogereport.blog.jp/archives/1301898.html"
+        },
+        {
+          "title": "PINKY・PONKY第1集 ～びゅうてぃふる・どりぃむ～（2026-10-08 补充）",
+          "status": "追加收录／菜单或点击调查",
+          "workIds": [
+            "g684"
+          ],
+          "reason": "按本轮包括图文菜单指令、排除词句指令输入的范围追加；旧核对行保留为历史记录。合集／移植不重复计独立游戏。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_VFWfznsFMEjgZm7Z.php"
+        },
+        {
+          "title": "PINKY・PONKY第2集 ～とわいらいと・げーむす～（2026-10-08 补充）",
+          "status": "追加收录／菜单或点击调查",
+          "workIds": [
+            "g685"
+          ],
+          "reason": "按本轮包括图文菜单指令、排除词句指令输入的范围追加；旧核对行保留为历史记录。合集／移植不重复计独立游戏。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_JVwx7iHRHsR1GVjG.php"
+        },
+        {
+          "title": "PINKY・PONKY第3集 ～ばとる・らばぁす～（2026-10-08 补充）",
+          "status": "追加收录／菜单或点击调查",
+          "workIds": [
+            "g686"
+          ],
+          "reason": "按本轮包括图文菜单指令、排除词句指令输入的范围追加；旧核对行保留为历史记录。合集／移植不重复计独立游戏。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_hK56BDznUpIMbY2X.php"
+        },
+        {
+          "title": "DE・JA（2026-10-08 补充）",
+          "status": "追加收录／菜单或点击调查",
+          "workIds": [
+            "g687"
+          ],
+          "reason": "按本轮包括图文菜单指令、排除词句指令输入的范围追加；旧核对行保留为历史记录。合集／移植不重复计独立游戏。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_d4KWTdFEYtAQs1Uf.php"
+        },
+        {
+          "title": "DE・JA2（2026-10-08 补充）",
+          "status": "追加收录／菜单或点击调查",
+          "workIds": [
+            "g688"
+          ],
+          "reason": "按本轮包括图文菜单指令、排除词句指令输入的范围追加；旧核对行保留为历史记录。合集／移植不重复计独立游戏。",
+          "source": "https://erogereport.blog.jp/archives/1301995.html"
+        },
+        {
+          "title": "ELLE（2026-10-08 补充）",
+          "status": "追加收录／菜单或点击调查",
+          "workIds": [
+            "g689"
+          ],
+          "reason": "按本轮包括图文菜单指令、排除词句指令输入的范围追加；旧核对行保留为历史记录。〔él〕重制仍归 ELLE 版本。",
+          "source": "https://advgamer.com/elle/"
         }
       ],
       "auditTitle": "历史作品范围核对清单",
       "auditSourceLabel": "ELF 官方兼容表存档",
       "overviewLabel": "已整理的 ELF 相关游戏",
-      "publisherWorkText": "<p class=\"scope-note\"><strong>叙事作品 31 部，其中 ELF 原创 26 部、ELF 发行的 Silky’s 原作 5 部。</strong></p>",
+      "publisherWorkText": "<p class=\"scope-note\"><strong>叙事作品 38 部，其中 ELF 原创 33 部、ELF 发行的 Silky’s 原作 5 部。</strong></p>",
       "relatedCountLabel": "按实际类型标注",
-      "description": "日本 ELF 历史作品专题：31 部叙事作品、22 部跨类型作品、版本资料和指令类作品排除说明。",
+      "description": "日本 ELF 历史作品专题：38 部叙事作品、22 部跨类型作品、版本资料与图文菜单／点击冒险补充记录。",
       "creativeProfile": {
         "thesis": "既有以时间管理展开的校园恋爱，也有以封闭空间、权力关系和视点限制制造压力的悬疑。",
         "phases": [
