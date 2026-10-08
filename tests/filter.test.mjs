@@ -46,7 +46,7 @@ test('Nitroplus dossier reuses originals and keeps remakes, aliases and actual p
   const page=readFileSync(new URL('../nitroplus.html',import.meta.url),'utf8');
   for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
   const links=[...readFileSync(new URL('../index.html',import.meta.url),'utf8').matchAll(/class="secondary-link" href="[^\"]+\.html">([^<]+)<\/a>/g)];
-  assert.equal(links.length,26);
+  assert.equal(links.length,27);
   assert.ok(links.every(([,name])=>name.endsWith('社')));
 });
 
@@ -354,4 +354,36 @@ test('OVERDRIVE separates independent stories from enhanced releases and origina
     assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
     assert.ok(!['纯文本指令','图文指令'].includes(data.works.find(w=>w.id===id).subcategory));
   }
+});
+
+
+test('Cocktail Soft menu games, remasters and publisher credits remain distinct',()=>{
+  const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='cocktailsoft');
+  assert.ok(dossier);
+  const primo=filterCatalogue(data,{query:'Can Can Bunny Primo'});
+  assert.equal(primo.length,1);
+  assert.equal(primo[0].work.firstYear,1989);
+  assert.ok(primo[0].versions.some(v=>v.year===1997 && v.kind==='重制'));
+  assert.ok(!primo[0].versions.some(v=>v.platform==='MSX2'));
+  const premiere=data.works.find(w=>w.originalTitle==='きゃんきゃんバニープルミエール');
+  assert.ok(!data.versions.some(v=>v.workId===premiere.id && v.platform==='MSX2'));
+  const chat=filterCatalogue(data,{query:'CHATのススメ'});
+  assert.equal(chat.length,1);
+  assert.equal(chat[0].work.subcategory,'图文选项／调查');
+  assert.ok(chat[0].work.notes.includes('图标组合'));
+  const se=filterCatalogue(data,{query:'Pia♥キャロットへようこそ!!G.O.SE'});
+  assert.equal(se.length,1);
+  assert.equal(se[0].work.firstYear,2006);
+  assert.ok(se[0].versions.some(v=>v.year===2008 && v.kind==='增强版'));
+  const pia22=filterCatalogue(data,{query:'Pia♥キャロットへようこそ!!2.2'});
+  assert.equal(pia22.length,1);
+  assert.equal(filterCatalogue(data,{query:'Pia♥キャロットへようこそ!!2.2',company:'Cocktail Soft'}).length,0);
+  assert.deepEqual(new Set(dossier.publisherWorkIds),new Set(filterCatalogue(data,{company:'Cocktail Soft'}).map(({work})=>work.id)));
+  const petit=filterCatalogue(data,{query:'ぴあきゃろPetitBox'});
+  assert.equal(petit.length,1);
+  assert.equal(petit[0].work.firstYear,2017);
+  assert.ok(dossier.relatedGames.some(g=>g.originalTitle==='プリンセスメモリー'));
+  assert.ok(!data.works.some(w=>w.originalTitle==='プリンセスメモリー・トゥルータイピング'));
+  const page=readFileSync(new URL('../cocktailsoft.html',import.meta.url),'utf8');
+  for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
 });

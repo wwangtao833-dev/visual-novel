@@ -18748,6 +18748,2315 @@
           }
         ]
       }
+    },
+    {
+      "id": "cocktailsoft",
+      "name": "Cocktail Soft",
+      "checkedAt": "2026-10-08",
+      "status": "现行官网109项产品逐项核对；历史资料缺项显式保留",
+      "scope": "收录Cocktail Soft／カクテル・ソフト原品牌及复活后的作品：56部叙事／互动作品进入共享主库，14部RPG、射击、策略、桌游与杂集在本页另列。只排除键入词句的文字输入游戏；菜单、图标与点击指令均纳入。壁纸、屏保、非游戏附件不当作游戏。",
+      "versionScope": "已核实PC-98、Windows、MSX2、FM TOWNS及授权主机版等主要发行。官网旧商品常将多机种共享一个基础日期，不能推出所有移植同日同年；尚缺可靠年份的端口不造记录。语音只据明确规格／CAST，其他写未核实。",
+      "publisherNote": "Cocktail Soft是F&C旗下品牌，也是Can Can Bunny原始品牌。本页按作品来源归档；主库发行厂商筛选依版本实际署名，FairyTale、TAKERU及NEC Interchannel等授权发行不自动改记Cocktail Soft。",
+      "workIds": [
+        "g690",
+        "g691",
+        "g692",
+        "g693",
+        "g694",
+        "g695",
+        "g696",
+        "g697",
+        "g698",
+        "g699",
+        "g700",
+        "g701",
+        "g702",
+        "g703",
+        "g704",
+        "g705",
+        "g706",
+        "g707",
+        "g708",
+        "g709",
+        "g710",
+        "g711",
+        "g712",
+        "g713",
+        "g714",
+        "g715",
+        "g716",
+        "g717",
+        "g718",
+        "g719",
+        "g720",
+        "g721",
+        "g722",
+        "g723",
+        "g724",
+        "g725",
+        "g726",
+        "g727",
+        "g728",
+        "g729",
+        "g730",
+        "g731",
+        "g732",
+        "g733",
+        "g734",
+        "g735",
+        "g736",
+        "g737",
+        "g738",
+        "g739",
+        "g740",
+        "g741",
+        "g742",
+        "g743",
+        "g744",
+        "g745"
+      ],
+      "publisherWorkIds": [
+        "g690",
+        "g691",
+        "g692",
+        "g693",
+        "g694",
+        "g695",
+        "g696",
+        "g697",
+        "g698",
+        "g699",
+        "g700",
+        "g701",
+        "g702",
+        "g703",
+        "g704",
+        "g705",
+        "g706",
+        "g707",
+        "g708",
+        "g709",
+        "g710",
+        "g711",
+        "g712",
+        "g713",
+        "g714",
+        "g715",
+        "g716",
+        "g717",
+        "g718",
+        "g719",
+        "g720",
+        "g721",
+        "g722",
+        "g723",
+        "g724",
+        "g725",
+        "g726",
+        "g727",
+        "g728",
+        "g729",
+        "g730",
+        "g731",
+        "g732",
+        "g733",
+        "g734",
+        "g735",
+        "g736",
+        "g737",
+        "g738",
+        "g739",
+        "g740",
+        "g741",
+        "g742",
+        "g743",
+        "g745"
+      ],
+      "catalogueEntryCount": 109,
+      "source": "https://fandc.co.jp/catalog/pc",
+      "sectionTitle": "从Can Can Bunny到Premiere 3",
+      "auditLabel": "官网109项品牌商品逐项处理，另补历史产品与范围说明。",
+      "auditNote": "完成指已观察的官网清单每项有归档去向，不表示所有地区、廉价再版与平台日期已穷尽。历史游戏身份与内容有可靠记录即保留；人物、剧情、输入细节不足时明确记缺项，不编造资料。",
+      "relatedIntro": "以下作品保留在专题总数中，依RPG、射击、策略、麻将或杂集的真实玩法单列；这不属于本次排除项。",
+      "relatedSectionTitle": "RPG、策略、射击、桌游与杂集",
+      "auditTitle": "品牌目录与历史产品核对清单",
+      "auditSourceLabel": "F&C官方商品目录",
+      "overviewLabel": "品牌相关游戏（含授权与杂集）",
+      "description": "Cocktail Soft作品专题：Can Can Bunny、Pia Carrot与历史图文指令作品，菜单游戏纳入，文字输入排除；共享作品、平台版本和逐项核对来源。",
+      "creativeProfile": {
+        "thesis": "从指令菜单到行动日程与角色支线，Cocktail Soft多次改变互动方式；系列的延续既靠导航人物，也靠餐厅、校园等反复出现的生活场景。以下是基于作品结构的编辑归纳。",
+        "phases": [
+          {
+            "period": "1989—1994",
+            "heading": "菜单、调查与角色导航",
+            "analysis": "Can Can Bunny的导航人物、NIKE的多窗口指令与威尔的留言的点击调查，呈现不同的图文冒险形式。不能只凭键盘支持或姓名登记就把它们判成文字解析器。",
+            "basis": "编辑观察",
+            "source": "https://fandc.co.jp/catalog/pc/84"
+          },
+          {
+            "period": "1993—2002",
+            "heading": "分支小说与共同生活",
+            "analysis": "电话铃响起与某时某地转向选择分支；Pia Carrot以打工日程和日常关系推进恋爱，With You与univ又用独立支线及前后篇延续角色生活。",
+            "basis": "编辑观察",
+            "source": "https://fandc.co.jp/catalog/pc/755"
+          },
+          {
+            "period": "2004—2018",
+            "heading": "玩法扩展与旧系列再访",
+            "analysis": "天空的交响曲加入训练与策略战斗；TOYBOX及GP、4的Fan Disc增加新故事。2017年周年套装含PetitBox新篇，2018年Premiere 3则重新引入神社与女神相遇。新故事和重制版因此分开计数。",
+            "basis": "编辑观察",
+            "source": "https://fandc.co.jp/catalog/pc/964"
+          }
+        ]
+      },
+      "relatedGames": [
+        {
+          "id": "cocktailsoft-r01",
+          "title": "LIBERTY：自由",
+          "originalTitle": "LIBERTY",
+          "chineseTitle": "LIBERTY：自由",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 1989,
+          "category": "桌面游戏",
+          "subcategory": "桌面游戏＋冒险",
+          "genre": "桌面游戏＋冒险",
+          "characters": [
+            "玩家"
+          ],
+          "charactersNote": "按所引资料显示人物姓名；无可靠姓名时保留资料中可确认的身份。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/925",
+          "synopsis": "官网将本作标为TBL＋ADV，结合桌面玩法与冒险。",
+          "notes": "TAKERU历史发行；具体规则和角色名仍需原始说明书补证。",
+          "source": "https://fandc.co.jp/catalog/pc/925",
+          "versions": [
+            {
+              "id": "cocktailsoft-r01-v1",
+              "workId": "cocktailsoft-r01",
+              "year": 1989,
+              "platform": "PC-98",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "1989年该平台原版。角色配音资料未确认；背景音乐不作为语音依据。",
+              "source": "https://fandc.co.jp/catalog/pc/925"
+            }
+          ]
+        },
+        {
+          "id": "cocktailsoft-r02",
+          "title": "水果鸡尾酒",
+          "originalTitle": "フルーツ・カクテル",
+          "chineseTitle": "水果鸡尾酒",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 1989,
+          "category": "桌面游戏",
+          "subcategory": "扑克桌面游戏",
+          "genre": "扑克桌面游戏",
+          "characters": [
+            "扑克对手"
+          ],
+          "charactersNote": "按所引资料显示人物姓名；无可靠姓名时保留资料中可确认的身份。",
+          "charactersSource": "https://chaser.my.coocan.jp/guide/cocktail.htm",
+          "synopsis": "玩家与三名对手进行扑克对局。",
+          "notes": "别卖数据集追加六名对手，属于本作扩充，不另计游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/446",
+          "versions": [
+            {
+              "id": "cocktailsoft-r02-v1",
+              "workId": "cocktailsoft-r02",
+              "year": 1989,
+              "platform": "PC-88",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "1989年该平台原版。角色配音资料未确认；背景音乐不作为语音依据。",
+              "source": "https://fandc.co.jp/catalog/pc/446"
+            }
+          ]
+        },
+        {
+          "id": "cocktailsoft-r03",
+          "title": "水手服战士菲莉丝",
+          "originalTitle": "セーラー服戦士フェリス",
+          "chineseTitle": "水手服战士菲莉丝",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 1990,
+          "category": "射击游戏",
+          "subcategory": "横向射击",
+          "genre": "横向射击",
+          "characters": [
+            "フェリス"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://chaser.my.coocan.jp/guide/cocktail.htm",
+          "synopsis": "フェリス驾驶战机救回遭UFO带走的同伴。",
+          "notes": "",
+          "source": "https://fandc.co.jp/catalog/pc/39",
+          "versions": [
+            {
+              "id": "cocktailsoft-r03-v1",
+              "workId": "cocktailsoft-r03",
+              "year": 1990,
+              "platform": "PC-98",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "1990年该平台原版。角色配音资料未确认；背景音乐不作为语音依据。",
+              "source": "https://fandc.co.jp/catalog/pc/39"
+            },
+            {
+              "id": "cocktailsoft-r03-v2",
+              "workId": "cocktailsoft-r03",
+              "year": 1990,
+              "platform": "MSX2",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "移植",
+              "voice": "未核实",
+              "differences": "已发行MSX2版及年份依机种档案；不从官网的多机种共用日期推导。",
+              "source": "https://generation-msx.nl/company/cocktail-soft/217/software"
+            }
+          ]
+        },
+        {
+          "id": "cocktailsoft-r04",
+          "title": "Illumina！：伊露米娜",
+          "originalTitle": "イルミナ！",
+          "chineseTitle": "Illumina！：伊露米娜",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 1990,
+          "category": "角色扮演",
+          "subcategory": "地图探索／角色扮演",
+          "genre": "地图探索／角色扮演",
+          "characters": [
+            "リュウナ",
+            "失忆的主人公（玩家）"
+          ],
+          "charactersNote": "按所引资料显示人物姓名；无可靠姓名时保留资料中可确认的身份。",
+          "charactersSource": "https://chaser.my.coocan.jp/guide/cocktail.htm",
+          "synopsis": "失忆的旅人与リュウナ一同寻找自己的来历。",
+          "notes": "",
+          "source": "https://fandc.co.jp/catalog/pc/41",
+          "versions": [
+            {
+              "id": "cocktailsoft-r04-v1",
+              "workId": "cocktailsoft-r04",
+              "year": 1990,
+              "platform": "PC-98",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "1990年该平台原版。角色配音资料未确认；背景音乐不作为语音依据。",
+              "source": "https://fandc.co.jp/catalog/pc/41"
+            },
+            {
+              "id": "cocktailsoft-r04-v2",
+              "workId": "cocktailsoft-r04",
+              "year": 1991,
+              "platform": "MSX2",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "移植",
+              "voice": "未核实",
+              "differences": "已发行MSX2版及年份依机种档案；不从官网的多机种共用日期推导。",
+              "source": "https://generation-msx.nl/company/cocktail-soft/217/software"
+            }
+          ]
+        },
+        {
+          "id": "cocktailsoft-r05",
+          "title": "转转Party：公主任务",
+          "originalTitle": "くるくる☆Party ～プリンセス・クエスト～",
+          "chineseTitle": "转转Party：公主任务",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 1993,
+          "category": "桌面游戏",
+          "subcategory": "奇幻桌游",
+          "genre": "奇幻桌游",
+          "characters": [
+            "冒险者（玩家）",
+            "女王"
+          ],
+          "charactersNote": "按所引资料显示人物姓名；无可靠姓名时保留资料中可确认的身份。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/362",
+          "synopsis": "冒险者在桌面竞赛中击败怪物、收集宝物，争取愿望成真的机会。",
+          "notes": "",
+          "source": "https://fandc.co.jp/catalog/pc/362",
+          "versions": [
+            {
+              "id": "cocktailsoft-r05-v1",
+              "workId": "cocktailsoft-r05",
+              "year": 1993,
+              "platform": "PC-98",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "1993年该平台原版。角色配音资料未确认；背景音乐不作为语音依据。",
+              "source": "https://fandc.co.jp/catalog/pc/362"
+            }
+          ]
+        },
+        {
+          "id": "cocktailsoft-r06",
+          "title": "女王的藏书馆",
+          "originalTitle": "クイーンズ・ライブラリー",
+          "chineseTitle": "女王的藏书馆",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 1993,
+          "category": "角色扮演",
+          "subcategory": "动作角色扮演",
+          "genre": "动作角色扮演",
+          "characters": [
+            "可操作的冒险角色"
+          ],
+          "charactersNote": "按所引资料显示人物姓名；无可靠姓名时保留资料中可确认的身份。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/402",
+          "synopsis": "通过奔跑、攻击等直接操作，推进奇幻世界中的冒险。",
+          "notes": "官网明确是动作RPG，非资料库应用。",
+          "source": "https://fandc.co.jp/catalog/pc/402",
+          "versions": [
+            {
+              "id": "cocktailsoft-r06-v1",
+              "workId": "cocktailsoft-r06",
+              "year": 1993,
+              "platform": "PC-98",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "1993年该平台原版。角色配音资料未确认；背景音乐不作为语音依据。",
+              "source": "https://fandc.co.jp/catalog/pc/402"
+            }
+          ]
+        },
+        {
+          "id": "cocktailsoft-r07",
+          "title": "直到变成半月：兰宫凉的七彩宝盒",
+          "originalTitle": "ハーフムーンにかわるまで ～蘭宮涼の虹色玉手箱～",
+          "chineseTitle": "直到变成半月：兰宫凉的七彩宝盒",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 1994,
+          "category": "杂集",
+          "subcategory": "漫画改编／小游戏杂集",
+          "genre": "漫画改编／小游戏杂集",
+          "characters": [
+            "蘭宮涼原作角色"
+          ],
+          "charactersNote": "按所引资料显示人物姓名；无可靠姓名时保留资料中可确认的身份。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/65",
+          "synopsis": "兰宫凉漫画原作角色进入多种小游戏。",
+          "notes": "",
+          "source": "https://fandc.co.jp/catalog/pc/65",
+          "versions": [
+            {
+              "id": "cocktailsoft-r07-v1",
+              "workId": "cocktailsoft-r07",
+              "year": 1994,
+              "platform": "PC-98",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "1994年该平台原版。角色配音资料未确认；背景音乐不作为语音依据。",
+              "source": "https://fandc.co.jp/catalog/pc/65"
+            }
+          ]
+        },
+        {
+          "id": "cocktailsoft-r08",
+          "title": "DORADORA Emotion：圣牌传",
+          "originalTitle": "DORADORAエモーション ～聖牌伝～",
+          "chineseTitle": "DORADORA Emotion：圣牌传",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 1995,
+          "category": "桌面游戏",
+          "subcategory": "麻将",
+          "genre": "麻将",
+          "characters": [
+            "アスタ",
+            "ミント"
+          ],
+          "charactersNote": "按所引资料显示人物姓名；无可靠姓名时保留资料中可确认的身份。",
+          "charactersSource": "https://chaser.my.coocan.jp/guide/cocktail2.htm",
+          "synopsis": "流浪雀士アスタ与女儿ミント前往浮游大陆，寻找传说中的理想乡。",
+          "notes": "麻将与冒险混合；官网与历史资料的7月具体日有异文，本次只记1995年。",
+          "source": "https://fandc.co.jp/catalog/pc/268",
+          "versions": [
+            {
+              "id": "cocktailsoft-r08-v1",
+              "workId": "cocktailsoft-r08",
+              "year": 1995,
+              "platform": "PC-98",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "1995年该平台原版。角色配音资料未确认；背景音乐不作为语音依据。",
+              "source": "https://fandc.co.jp/catalog/pc/268"
+            }
+          ]
+        },
+        {
+          "id": "cocktailsoft-r09",
+          "title": "公主回忆",
+          "originalTitle": "プリンセスメモリー",
+          "chineseTitle": "公主回忆",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2000,
+          "category": "角色扮演",
+          "subcategory": "随机迷宫／动作角色扮演",
+          "genre": "随机迷宫／动作角色扮演",
+          "characters": [
+            "ポーニィ",
+            "サリアン",
+            "フィーリア"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/504",
+          "synopsis": "主人公在不断变化的洞窟中遇到失去心与记忆的フィーリア。",
+          "notes": "",
+          "source": "https://fandc.co.jp/catalog/pc/504",
+          "versions": [
+            {
+              "id": "cocktailsoft-r09-v1",
+              "workId": "cocktailsoft-r09",
+              "year": 2000,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "首发",
+              "voice": "有",
+              "differences": "2000年该平台原版。角色配音见官网CAST或规格。",
+              "source": "https://fandc.co.jp/catalog/pc/504"
+            }
+          ]
+        },
+        {
+          "id": "cocktailsoft-r10",
+          "title": "天空的交响曲",
+          "originalTitle": "天空のシンフォニア",
+          "chineseTitle": "天空的交响曲",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2004,
+          "category": "策略与养成",
+          "subcategory": "魔女养成／策略战斗＋ADV",
+          "genre": "魔女养成／策略战斗＋ADV",
+          "characters": [
+            "ミルフィ",
+            "カーライル",
+            "魔法修行中的主人公"
+          ],
+          "charactersNote": "按所引资料显示人物姓名；无可靠姓名时保留资料中可确认的身份。",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/718",
+          "synopsis": "主人公返回师门后，被要求训练魔女并面对新的战斗。",
+          "notes": "",
+          "source": "https://fandc.co.jp/catalog/pc/718",
+          "versions": [
+            {
+              "id": "cocktailsoft-r10-v1",
+              "workId": "cocktailsoft-r10",
+              "year": 2004,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "2004年该平台原版。角色配音资料未确认；背景音乐不作为语音依据。",
+              "source": "https://fandc.co.jp/catalog/pc/718"
+            },
+            {
+              "id": "cocktailsoft-r10-v2",
+              "workId": "cocktailsoft-r10",
+              "year": 2009,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "下载版",
+              "voice": "未核实",
+              "differences": "官网明确的数字发行；归到原作品。",
+              "source": "https://fandc.co.jp/catalog/pc/863"
+            },
+            {
+              "id": "cocktailsoft-r10-v3",
+              "workId": "cocktailsoft-r10",
+              "year": 2006,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "合集",
+              "voice": "未核实",
+              "differences": "2006-07-28的1＋2 Pack收录本作与系列另一部。",
+              "source": "https://fandc.co.jp/catalog/pc/716"
+            },
+            {
+              "id": "cocktailsoft-r10-v4",
+              "workId": "cocktailsoft-r10",
+              "year": 2010,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "合集",
+              "voice": "未核实",
+              "differences": "2010-09-24 Twin Pack收录系列两部；仍使用各自作品记录。",
+              "source": "https://fandc.co.jp/catalog/pc/705"
+            }
+          ]
+        },
+        {
+          "id": "cocktailsoft-r11",
+          "title": "天空的交响曲2",
+          "originalTitle": "天空のシンフォニア2",
+          "chineseTitle": "天空的交响曲2",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2006,
+          "category": "策略与养成",
+          "subcategory": "魔女养成／策略战斗＋ADV",
+          "genre": "魔女养成／策略战斗＋ADV",
+          "characters": [
+            "ウィル",
+            "ミルフィ",
+            "ディアボロス"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/715",
+          "synopsis": "ウィル为救出参与封印的ミルフィ，前往炼金术与龙的大陆。",
+          "notes": "独立续作；1＋2套装不新增作品。",
+          "source": "https://fandc.co.jp/catalog/pc/715",
+          "versions": [
+            {
+              "id": "cocktailsoft-r11-v1",
+              "workId": "cocktailsoft-r11",
+              "year": 2006,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "2006年该平台原版。角色配音资料未确认；背景音乐不作为语音依据。",
+              "source": "https://fandc.co.jp/catalog/pc/715"
+            },
+            {
+              "id": "cocktailsoft-r11-v2",
+              "workId": "cocktailsoft-r11",
+              "year": 2010,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "下载版",
+              "voice": "未核实",
+              "differences": "官网明确的数字发行；归到原作品。",
+              "source": "https://fandc.co.jp/catalog/pc/853"
+            },
+            {
+              "id": "cocktailsoft-r11-v3",
+              "workId": "cocktailsoft-r11",
+              "year": 2006,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "合集",
+              "voice": "未核实",
+              "differences": "2006-07-28的1＋2 Pack收录本作与系列另一部。",
+              "source": "https://fandc.co.jp/catalog/pc/716"
+            },
+            {
+              "id": "cocktailsoft-r11-v4",
+              "workId": "cocktailsoft-r11",
+              "year": 2010,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "合集",
+              "voice": "未核实",
+              "differences": "2010-09-24 Twin Pack收录系列两部；仍使用各自作品记录。",
+              "source": "https://fandc.co.jp/catalog/pc/705"
+            }
+          ]
+        },
+        {
+          "id": "cocktailsoft-r12",
+          "title": "Pia雀",
+          "originalTitle": "ぴあ雀",
+          "chineseTitle": "Pia雀",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 2007,
+          "category": "桌面游戏",
+          "subcategory": "麻将／角色互动",
+          "genre": "麻将／角色互动",
+          "characters": [
+            "秋山純一",
+            "木ノ下れおな",
+            "椚あやの"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://fandc.co.jp/catalog/pc/650",
+          "synopsis": "宿舍中的麻将对局，引发同事们参加的大麻将比赛。",
+          "notes": "",
+          "source": "https://fandc.co.jp/catalog/pc/650",
+          "versions": [
+            {
+              "id": "cocktailsoft-r12-v1",
+              "workId": "cocktailsoft-r12",
+              "year": 2007,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "首发",
+              "voice": "有",
+              "differences": "2007年该平台原版。角色配音见官网CAST或规格。",
+              "source": "https://fandc.co.jp/catalog/pc/650"
+            },
+            {
+              "id": "cocktailsoft-r12-v2",
+              "workId": "cocktailsoft-r12",
+              "year": 2009,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "下载版",
+              "voice": "有",
+              "differences": "官网明确的数字发行；归到原作品。",
+              "source": "https://fandc.co.jp/catalog/pc/847"
+            },
+            {
+              "id": "cocktailsoft-r12-v3",
+              "workId": "cocktailsoft-r12",
+              "year": 2014,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "廉价版",
+              "voice": "有",
+              "differences": "2014-09-26 BEST BUY F&C 13，不新增作品。",
+              "source": "https://fandc.co.jp/catalog/pc/786"
+            },
+            {
+              "id": "cocktailsoft-r12-v4",
+              "workId": "cocktailsoft-r12",
+              "year": 2009,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "合集",
+              "voice": "未核实",
+              "differences": "官方组合销售中的同一原作；Pia3属于FC02品牌边界，PetitBox新增剧情单独建档。",
+              "source": "https://fandc.co.jp/catalog/pc/561"
+            },
+            {
+              "id": "cocktailsoft-r12-v5",
+              "workId": "cocktailsoft-r12",
+              "year": 2016,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "合集",
+              "voice": "未核实",
+              "differences": "官方组合销售中的同一原作；Pia3属于FC02品牌边界，PetitBox新增剧情单独建档。",
+              "source": "https://fandc.co.jp/catalog/pc/833"
+            },
+            {
+              "id": "cocktailsoft-r12-v6",
+              "workId": "cocktailsoft-r12",
+              "year": 2017,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "合集",
+              "voice": "未核实",
+              "differences": "官方组合销售中的同一原作；Pia3属于FC02品牌边界，PetitBox新增剧情单独建档。",
+              "source": "https://fandc.co.jp/catalog/pc/795"
+            }
+          ]
+        },
+        {
+          "id": "cocktailsoft-r13",
+          "title": "Cocktail Soft增刊号2",
+          "originalTitle": "カクテルソフト増刊号2",
+          "chineseTitle": "Cocktail Soft增刊号2",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 1993,
+          "category": "杂集",
+          "subcategory": "宣传杂集／游戏摘要",
+          "genre": "宣传杂集／游戏摘要",
+          "characters": [
+            "所收录游戏的原作角色"
+          ],
+          "charactersNote": "按所引资料显示人物姓名；无可靠姓名时保留资料中可确认的身份。",
+          "charactersSource": "https://download.file-hunter.com/Magazines/JP/Takeru%20Press/Takeru-Press-199310.pdf",
+          "synopsis": "收录毕业照片／美姬、电击护士、笑嘻嘻星、Mayumi、威尔的留言及Can Can Bunny Premiere的摘要内容。",
+          "notes": "现有原始广告确认1993年已售及两种机种；不把摘要中的六款旧作复制为六部新游戏。",
+          "source": "https://download.file-hunter.com/Magazines/JP/Takeru%20Press/Takeru-Press-199310.pdf",
+          "versions": [
+            {
+              "id": "cocktailsoft-r13-v1",
+              "workId": "cocktailsoft-r13",
+              "year": 1993,
+              "platform": "PC-98",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "1993年该平台原版。角色配音资料未确认；背景音乐不作为语音依据。",
+              "source": "https://download.file-hunter.com/Magazines/JP/Takeru%20Press/Takeru-Press-199310.pdf"
+            },
+            {
+              "id": "cocktailsoft-r13-v2",
+              "workId": "cocktailsoft-r13",
+              "year": 1993,
+              "platform": "X68000",
+              "publisher": "TAKERU",
+              "publisherCompanies": [
+                "TAKERU"
+              ],
+              "kind": "同期版本",
+              "voice": "未核实",
+              "differences": "TAKERU PRESS 1993年10月原始广告明确该机种已发行。",
+              "source": "https://fandc.co.jp/catalog/pc/10006"
+            }
+          ]
+        },
+        {
+          "id": "cocktailsoft-r14",
+          "title": "Mixed Candy 3",
+          "originalTitle": "みっくすキャンディ3",
+          "chineseTitle": "Mixed Candy 3",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 1998,
+          "category": "杂集",
+          "subcategory": "应用与原创内容杂集",
+          "genre": "应用与原创内容杂集",
+          "characters": [
+            "みっくすキャンディ3（原作身份）"
+          ],
+          "charactersNote": "官方仅公开收录内容名称，按杂集原作身份显示，未将应用名称推造为人物。",
+          "charactersSource": "https://fandc.co.jp/support/faq/faq1998.php",
+          "synopsis": "邮购杂集收录ゼツリンガー等应用内容，官方FAQ记录其独立运行与兼容问题。",
+          "notes": "不同于第一款纯壁纸／屏保集，本盘有可运行原创内容，保留整盘身份；原始说明书的玩法、剧情与姓名资料仍有缺项。",
+          "source": "https://fandc.co.jp/support/faq/faq1998.php",
+          "versions": [
+            {
+              "id": "cocktailsoft-r14-v1",
+              "workId": "cocktailsoft-r14",
+              "year": 1998,
+              "platform": "Windows",
+              "publisher": "カクテル・ソフト",
+              "publisherCompanies": [
+                "Cocktail Soft"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "1998年该平台原版。角色配音资料未确认；背景音乐不作为语音依据。",
+              "source": "https://fandc.co.jp/support/faq/faq1998.php"
+            }
+          ]
+        }
+      ],
+      "entries": [
+        {
+          "title": "きゃんきゃんバニープルミエール３",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g738"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/964"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!! Vista対応版",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g718"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/955"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!! Vista対応版",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g718"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/954"
+        },
+        {
+          "title": "カク箱 ～カクテル・ソフトスペシャルBOX～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g730"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/944"
+        },
+        {
+          "title": "プリかべ",
+          "status": "非游戏应用",
+          "workIds": [],
+          "reason": "官网类型为壁纸集，不存在独立可游玩故事；作为非游戏商品说明。",
+          "source": "https://fandc.co.jp/catalog/pc/943"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!G.O. スペシャルパック",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g731",
+            "g732",
+            "g733"
+          ],
+          "relatedIds": [],
+          "reason": "组合产品；分别关联已经建档的原作，不另计合集游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/932"
+        },
+        {
+          "title": "LIBERTY",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r01"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/925"
+        },
+        {
+          "title": "らぶ2・ナビゲーション ～恋の免許講習～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g725"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/916"
+        },
+        {
+          "title": "きゃんきゃんバニー６ i･mail",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g726"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/915"
+        },
+        {
+          "title": "天空のシンフォニア",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r10"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/863"
+        },
+        {
+          "title": "天空のシンフォニア2",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r11"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/853"
+        },
+        {
+          "title": "ぴあきゃろG.O. TOYBOX ～サマーフェア～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g732"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/852"
+        },
+        {
+          "title": "ぴあ雀",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r12"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/847"
+        },
+        {
+          "title": "ぴあきゃろG.O. TOYBOX2 ～スプリングフェア～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g733"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/846"
+        },
+        {
+          "title": "ティルアぱにっく",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g734"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/843"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!G.P.",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g735"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/842"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!G.O.SE",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g731"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/841"
+        },
+        {
+          "title": "DokiDokiバケーション ～きらめく季節の中で～フルセットリマスター",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g714"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/839"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!4",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g736"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/838"
+        },
+        {
+          "title": "ぴあきゃろ４ＦＤ　Pia♥キャロットへようこそ!!4ファンディスク",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g737"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/836"
+        },
+        {
+          "title": "Piaキャロットフルコンプリートセット",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g718",
+            "g721",
+            "g731",
+            "g735",
+            "g736",
+            "g732",
+            "g733",
+            "g737"
+          ],
+          "relatedIds": [
+            "cocktailsoft-r12"
+          ],
+          "reason": "组合产品；分别关联已经建档的原作，不另计合集游戏。 内含FC02署名的Pia3是品牌边界项，不把系列名称当作Cocktail Soft原始发行署名。",
+          "source": "https://fandc.co.jp/catalog/pc/833"
+        },
+        {
+          "title": "Pia&hearts;キャロ 20th ANNIVERSARY PACK",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g740",
+            "g718",
+            "g721",
+            "g731",
+            "g735",
+            "g736"
+          ],
+          "relatedIds": [
+            "cocktailsoft-r12"
+          ],
+          "reason": "组合产品；分别关联已经建档的原作，不另计合集游戏。 内含FC02署名的Pia3是品牌边界项，不把系列名称当作Cocktail Soft原始发行署名。 新增PetitBox故事另立作品，七款旧作沿用原作。",
+          "source": "https://fandc.co.jp/catalog/pc/795"
+        },
+        {
+          "title": "BEST BUY F&C 13 ぴあ雀",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r12"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/786"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!G.P. REFRESH",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g735"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/783"
+        },
+        {
+          "title": "きゃんきゃんバニー・プルミエール２ REFRESH",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g719"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/779"
+        },
+        {
+          "title": "univ ～恋・はじまるよっ～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g728"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/755"
+        },
+        {
+          "title": "プリンセスメモリー",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r09"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/746"
+        },
+        {
+          "title": "Canvas ～セピア色のモチーフ～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g727"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/744"
+        },
+        {
+          "title": "Canvas ～セピア色のモチーフ～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g727"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/742"
+        },
+        {
+          "title": "univ ～愛・おまたせっ～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g729"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/740"
+        },
+        {
+          "title": "univ ～愛・おまたせっ～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g729"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/739"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!G.O. ～グランドオープン～ 【スタンダード版】",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g731"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/732"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!G.O. スペシャルパック",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g731",
+            "g732",
+            "g733"
+          ],
+          "relatedIds": [],
+          "reason": "组合产品；分别关联已经建档的原作，不另计合集游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/724"
+        },
+        {
+          "title": "天空のシンフォニア",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r10"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/718"
+        },
+        {
+          "title": "天空のシンフォニア",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r10"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/717"
+        },
+        {
+          "title": "天空のシンフォニア 【1+2パック】",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r10",
+            "cocktailsoft-r11"
+          ],
+          "reason": "组合产品；分别关联已经建档的原作，不另计合集游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/716"
+        },
+        {
+          "title": "天空のシンフォニア2",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r11"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/715"
+        },
+        {
+          "title": "きゃんきゃんバニー６ i･mail",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g726"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/707"
+        },
+        {
+          "title": "天空のシンフォニア　ツインパック",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r10",
+            "cocktailsoft-r11"
+          ],
+          "reason": "组合产品；分别关联已经建档的原作，不另计合集游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/705"
+        },
+        {
+          "title": "ぴあきゃろG.O. TOYBOX ～サマーフェア～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g732"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/685"
+        },
+        {
+          "title": "ぴあ雀",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r12"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/650"
+        },
+        {
+          "title": "ぴあきゃろ４ＦＤ　Pia♥キャロットへようこそ!!4ファンディスク",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g737"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/640"
+        },
+        {
+          "title": "きゃんきゃんバニー６ i･mail",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g726"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/638"
+        },
+        {
+          "title": "DokiDokiバケーション ～きらめく季節の中で～フルセットリマスター",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g714"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/613"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!1･2･TB",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g718",
+            "g721",
+            "g723"
+          ],
+          "relatedIds": [],
+          "reason": "组合产品；分别关联已经建档的原作，不另计合集游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/605"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!2　STANDARD PACK",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g721"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/602"
+        },
+        {
+          "title": "うぃずゆーTOYBOX",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g724"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/600"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!G.O. ～グランドオープン～ 【マキシシングル付きスイーツパック】",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g731"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/564"
+        },
+        {
+          "title": "Piaキャロ コンプリートBOX",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g718",
+            "g721",
+            "g731",
+            "g735",
+            "g736"
+          ],
+          "relatedIds": [
+            "cocktailsoft-r12"
+          ],
+          "reason": "组合产品；分别关联已经建档的原作，不另计合集游戏。 内含FC02署名的Pia3是品牌边界项，不把系列名称当作Cocktail Soft原始发行署名。",
+          "source": "https://fandc.co.jp/catalog/pc/561"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!G.O.SE",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g731"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/557"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!4",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g736"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/552"
+        },
+        {
+          "title": "With You ＋ TOYBOX NEW AGE PACK",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g722",
+            "g724"
+          ],
+          "relatedIds": [],
+          "reason": "组合产品；分别关联已经建档的原作，不另计合集游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/526"
+        },
+        {
+          "title": "プリンセスメモリー",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r09"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/504"
+        },
+        {
+          "title": "With You ～みつめていたい～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g722"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/499"
+        },
+        {
+          "title": "With You ～みつめていたい～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g722"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/498"
+        },
+        {
+          "title": "フルーツ・カクテル 別売りデータ集",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r02"
+          ],
+          "reason": "水果鸡尾酒的六名对手追加数据，依赖本体，不另计独立游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/473"
+        },
+        {
+          "title": "カスタムメイト3",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g716"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/472"
+        },
+        {
+          "title": "晴れのちときどき胸さわぎ",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g720"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/458"
+        },
+        {
+          "title": "きゃんきゃんバニー１・Primo",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g690"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/452"
+        },
+        {
+          "title": "DOKIDOKIバケーション ～きらめく季節の中で～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g714"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/451"
+        },
+        {
+          "title": "フルーツ・カクテル",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r02"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/446"
+        },
+        {
+          "title": "ANGEL",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g705"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/437"
+        },
+        {
+          "title": "JYB　～メハメ・ハルーガは秘密の呪文～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g703"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/431"
+        },
+        {
+          "title": "晴れのちおおさわぎ！",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g691"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/430"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!G.P.",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g735"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/422"
+        },
+        {
+          "title": "きゃんきゃんバニー",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g690"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/417"
+        },
+        {
+          "title": "カスタムメイト3",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g716"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/409"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!　～We've been Waiting for you～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g718"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/408"
+        },
+        {
+          "title": "クイーンズ・ライブラリー",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r06"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/402"
+        },
+        {
+          "title": "きゃんきゃんバニープルミエール2",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g719"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/383"
+        },
+        {
+          "title": "くるくる☆Party ～プリンセス・クエスト～",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r05"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/362"
+        },
+        {
+          "title": "ぴあきゃろ TOYBOX",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g723"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/331"
+        },
+        {
+          "title": "きゃんきゃんバニー リミテッド5 1/2",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g710"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/322"
+        },
+        {
+          "title": "トラベル☆ジャンクション",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g717"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/309"
+        },
+        {
+          "title": "きゃんきゃんバニー エクストラ",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g739"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/292"
+        },
+        {
+          "title": "カスタムメイト2＆いつかどこかで。",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g709",
+            "g713"
+          ],
+          "relatedIds": [],
+          "reason": "组合产品；分别关联已经建档的原作，不另计合集游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/288"
+        },
+        {
+          "title": "ぴあきゃろG.O. TOYBOX2 ～スプリングフェア～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g733"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/283"
+        },
+        {
+          "title": "DORADORAエモーション ～聖牌伝～",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r08"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/268"
+        },
+        {
+          "title": "きゃんきゃんバニー・リミテッド5 1/2",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g710"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/252"
+        },
+        {
+          "title": "電撃ナース",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g699"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/246"
+        },
+        {
+          "title": "ウィルの伝言",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g702"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/245"
+        },
+        {
+          "title": "濃縮ANGEL・120%",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g712"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/237"
+        },
+        {
+          "title": "True Heart",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g711"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/220"
+        },
+        {
+          "title": "いつかどこかで。",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g713"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/214"
+        },
+        {
+          "title": "晴れのち胸さわぎ",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g715"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/193"
+        },
+        {
+          "title": "カスタムメイト＆電話のベルが…",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g707",
+            "g704"
+          ],
+          "relatedIds": [],
+          "reason": "组合产品；分别关联已经建档的原作，不另计合集游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/186"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!2　DELUXE PACK",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g721"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/184"
+        },
+        {
+          "title": "ティルアぱにっく",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g734"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/177"
+        },
+        {
+          "title": "電撃ナース2 モアセクシー",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g708"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/163"
+        },
+        {
+          "title": "レモンカクテル・コレクション",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g700",
+            "g701",
+            "g702"
+          ],
+          "relatedIds": [],
+          "reason": "组合产品；分别关联已经建档的原作，不另计合集游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/112"
+        },
+        {
+          "title": "らぶ2・ナビゲーション ～恋の免許講習～",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g725"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/99"
+        },
+        {
+          "title": "Mayumi -まゆみ-",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g700"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/89"
+        },
+        {
+          "title": "ナイキ",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g694"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/84"
+        },
+        {
+          "title": "美少女通信 CHATのススメ",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g697"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/76"
+        },
+        {
+          "title": "きゃんきゃんバニープルミエール",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g698"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/72"
+        },
+        {
+          "title": "ハーフムーンにかわるまで ～蘭宮涼の虹色玉手箱～",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r07"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/65"
+        },
+        {
+          "title": "COSMIC PSYCHO",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g696"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/61"
+        },
+        {
+          "title": "けらけら星",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g701"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/60"
+        },
+        {
+          "title": "きゃんきゃんバニー プルミエール/スピリッツ",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g695",
+            "g698"
+          ],
+          "relatedIds": [],
+          "reason": "组合产品；分别关联已经建档的原作，不另计合集游戏。",
+          "source": "https://fandc.co.jp/catalog/pc/50"
+        },
+        {
+          "title": "カスタムメイト2",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g709"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/49"
+        },
+        {
+          "title": "イルミナ！",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r04"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/41"
+        },
+        {
+          "title": "セーラー服戦士フェリス",
+          "status": "跨类型已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r03"
+          ],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/39"
+        },
+        {
+          "title": "きゃんきゃんバニー スピリッツ",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g695"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/35"
+        },
+        {
+          "title": "世界でいちばん君がすき！",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g693"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/26"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!G.O. ～グランドオープン～ 【ドラマCD付きブランチパック】",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g731"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/24"
+        },
+        {
+          "title": "DEMON CITY",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g706"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/21"
+        },
+        {
+          "title": "電話のベルが…",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g704"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/17"
+        },
+        {
+          "title": "きゃんきゃんバニー スペリオール",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g692"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/12"
+        },
+        {
+          "title": "カスタムメイト",
+          "status": "已收录／版本归档",
+          "workIds": [
+            "g707"
+          ],
+          "relatedIds": [],
+          "reason": "独立作品已建档；同一故事的移植、重制、廉价版和特典不同的包装沿用作品身份。",
+          "source": "https://fandc.co.jp/catalog/pc/7"
+        },
+        {
+          "title": "ぴあきゃろG.P.FD",
+          "status": "历史补充已收录",
+          "workIds": [
+            "g741"
+          ],
+          "relatedIds": [],
+          "reason": "C74先行、后续通常发行是同一Fan Disc；三篇合计一部。",
+          "source": "https://fandc.co.jp/piagpfd/"
+        },
+        {
+          "title": "卒業写真／美姫",
+          "status": "历史补充已收录",
+          "workIds": [
+            "g742"
+          ],
+          "relatedIds": [],
+          "reason": "原发行双作盘整体建档；1993年的MSX2分篇售卖作为同一档案的版本，篇名可分别检索。",
+          "source": "https://www.ymgal.games/ga14367"
+        },
+        {
+          "title": "カクテルソフト増刊号",
+          "status": "历史补充已收录",
+          "workIds": [
+            "g743"
+          ],
+          "relatedIds": [],
+          "reason": "重用旧作CG但具有原创日记生成与分支玩法，非纯图片合集；PC-98年代资料有1991／1992异文。",
+          "source": "https://generation-msx.nl/software/cocktail-soft/cocktail-soft-special-edition/1626"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!2.2",
+          "status": "历史补充已收录",
+          "workIds": [
+            "g744"
+          ],
+          "relatedIds": [],
+          "reason": "GB新故事，非第二作的简单移植；Dreamcast的2.5双盘合集另含原第二作。",
+          "source": "https://fandc.co.jp/catalog/consumer/303"
+        },
+        {
+          "title": "娘々台風",
+          "status": "历史补充已收录",
+          "workIds": [
+            "g745"
+          ],
+          "relatedIds": [],
+          "reason": "品牌年表与Windows兼容表可确认作品和平台；不据缺少剧情的资料补造角色姓名。",
+          "source": "https://zh.wikipedia.org/wiki/Cocktail_Soft"
+        },
+        {
+          "title": "カクテルソフト増刊号2",
+          "status": "历史补充已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r13"
+          ],
+          "reason": "现有原始广告确认1993年已售及两种机种；不把摘要中的六款旧作复制为六部新游戏。",
+          "source": "https://download.file-hunter.com/Magazines/JP/Takeru%20Press/Takeru-Press-199310.pdf"
+        },
+        {
+          "title": "みっくすキャンディ3",
+          "status": "历史补充已收录",
+          "workIds": [],
+          "relatedIds": [
+            "cocktailsoft-r14"
+          ],
+          "reason": "不同于第一款纯壁纸／屏保集，本盘有可运行原创内容，保留整盘身份；原始说明书的玩法、剧情与姓名资料仍有缺项。",
+          "source": "https://fandc.co.jp/support/faq/faq1998.php"
+        },
+        {
+          "title": "みっくすキャンディ／みっくすキャンディ2／SPECIAL／LITE",
+          "status": "应用资料项",
+          "workIds": [],
+          "reason": "初代资料明确为壁纸与屏保集；后续名称见官方支持表。未确认其有独立可游玩新故事，不将应用安装或CD时钟当作新增游戏；第三盘收录原创内容，已另列。",
+          "source": "https://www.kinokuniya.co.jp/f/dsg-01-9784948732346"
+        },
+        {
+          "title": "きゃんきゃんバニー／プルミエール MSX2计划",
+          "status": "未发行，不计版本",
+          "workIds": [
+            "g690",
+            "g698"
+          ],
+          "reason": "官网旧列表含计划机种，机种档案记未发行；不登记为实际MSX2发行。",
+          "source": "https://generation-msx.nl/company/cocktail-soft/217/software"
+        },
+        {
+          "title": "プリンセスメモリー・トゥルータイピング",
+          "status": "排除文字输入／其他品牌",
+          "workIds": [],
+          "reason": "F&C with Shall-luck的打字练习衍生软件，需实际键入文字；原作公主回忆RPG仍保留，不连带排除。",
+          "source": "https://wikippe.e-do-match.com/index.php/F%26C"
+        },
+        {
+          "title": "F&C・FC01／FC02／FC03、FairyTale、Santa Fe、FMC",
+          "status": "品牌范围说明",
+          "workIds": [],
+          "reason": "同一集团不等于同一品牌。本专题以Can Can Bunny厂商Cocktail Soft为范围，不将集团其他品牌独立作品全部计入；同一原作换发行署名的移植归在原作版本。",
+          "source": "https://fandc.co.jp/catalog/pc"
+        },
+        {
+          "title": "Canvas ～セピア色のモチーフ～（Dreamcast）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g727"
+          ],
+          "reason": "2001-04-05发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/404"
+        },
+        {
+          "title": "Canvas ～セピア色のモチーフ～ ニューベストコレクション（PS2）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g727"
+          ],
+          "reason": "2003-04-10发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/242"
+        },
+        {
+          "title": "Canvas～セピア色のモチーフ～（PS2）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g727"
+          ],
+          "reason": "2005-03-03发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/209"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!（PC-FX）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g718"
+          ],
+          "reason": "1997-05-23发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/357"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!（Sega Saturn）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g718"
+          ],
+          "reason": "1998-03-12发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/345"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!2（Sega Saturn）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g721"
+          ],
+          "reason": "1998-10-08发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/317"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!2（Dreamcast）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g721"
+          ],
+          "reason": "2003-02-06发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/160"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!! G.P. ～学園プリンセス～（PS2）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g735"
+          ],
+          "reason": "2009-01-22发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/800"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!! G.P. ～学園プリンセス～ Portable（PSP）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g735"
+          ],
+          "reason": "2009-06-25发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/804"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!! G.P. ～学園プリンセス～ Portable（PSP）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g735"
+          ],
+          "reason": "2012-04-26发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/929"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!4 ～夏の恋活～（Xbox 360）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g736"
+          ],
+          "reason": "2011-02-24发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/695"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!4 ～夏の記憶～（PSP）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g736"
+          ],
+          "reason": "2012-10-25发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/806"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!4 ～夏の記憶～（PSP）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g736"
+          ],
+          "reason": "2013-04-25发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/927"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!G.O.　～SUMMER FAIR～（PS2）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g731"
+          ],
+          "reason": "2007-12-20发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/723"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!G.O.　～SUMMER FAIR～（PS2）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g731"
+          ],
+          "reason": "2009-01-22发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/930"
+        },
+        {
+          "title": "きゃんきゃんバニー エクストラDX（PC-FX）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g739"
+          ],
+          "reason": "1996-09-27发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/391"
+        },
+        {
+          "title": "きゃんきゃんバニー エクストラDX（Sega Saturn）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g739"
+          ],
+          "reason": "1997-10-02发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/363"
+        },
+        {
+          "title": "きゃんきゃんバニー プルミエール（Sega Saturn）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g698"
+          ],
+          "reason": "1996-04-05发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/416"
+        },
+        {
+          "title": "きゃんきゃんバニー プルミエール2（Sega Saturn）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g719"
+          ],
+          "reason": "1996-12-20发行；平台及发行署名依官方家庭用商品页。",
+          "source": "https://fandc.co.jp/catalog/consumer/388"
+        },
+        {
+          "title": "絆という名のペンダント with TOYBOX（PlayStation）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g722"
+          ],
+          "reason": "2000-04-06发行；平台及发行署名依官方家庭用商品页。改名为絆という名のペンダント with TOYBOX，包含原作及TOYBOX内容。",
+          "source": "https://fandc.co.jp/catalog/consumer/295"
+        },
+        {
+          "title": "絆という名のペンダント with TOYBOX（PlayStation）",
+          "status": "原作版本已归档",
+          "workIds": [
+            "g722"
+          ],
+          "reason": "2004-02-05发行；平台及发行署名依官方家庭用商品页。改名为絆という名のペンダント with TOYBOX，包含原作及TOYBOX内容。",
+          "source": "https://fandc.co.jp/catalog/consumer/137"
+        },
+        {
+          "title": "カクテルパック",
+          "status": "合集归档",
+          "workIds": [
+            "g718",
+            "g739"
+          ],
+          "reason": "PC-FX双作合集使用两部已有作品，不新增合集游戏。",
+          "source": "https://fandc.co.jp/catalog/consumer/371"
+        },
+        {
+          "title": "Pia♥キャロットへようこそ!!2.5",
+          "status": "授权合集归档",
+          "workIds": [
+            "g721",
+            "g744"
+          ],
+          "reason": "2及2.2的Dreamcast双盘移植，独立故事仍使用原作品ID。",
+          "source": "https://www.wdic.org/w/MOE/Piaキャロットへようこそ!!2.5"
+        }
+      ]
     }
   ]
 }
