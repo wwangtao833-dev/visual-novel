@@ -46,7 +46,7 @@ test('Nitroplus dossier reuses originals and keeps remakes, aliases and actual p
   const page=readFileSync(new URL('../nitroplus.html',import.meta.url),'utf8');
   for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
   const links=[...readFileSync(new URL('../index.html',import.meta.url),'utf8').matchAll(/class="secondary-link" href="[^\"]+\.html">([^<]+)<\/a>/g)];
-  assert.equal(links.length,27);
+  assert.equal(links.length,28);
   assert.ok(links.every(([,name])=>name.endsWith('社')));
 });
 
@@ -385,5 +385,30 @@ test('Cocktail Soft menu games, remasters and publisher credits remain distinct'
   assert.ok(dossier.relatedGames.some(g=>g.originalTitle==='プリンセスメモリー'));
   assert.ok(!data.works.some(w=>w.originalTitle==='プリンセスメモリー・トゥルータイピング'));
   const page=readFileSync(new URL('../cocktailsoft.html',import.meta.url),'utf8');
+  for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
+});
+
+test('Macadamia icon and action works retain platform credit and exclude typed commands',()=>{
+  const coverage=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8'));
+  const dossier=coverage.companies.find(c=>c.id==='macadamia');
+  const macadam=filterCatalogue(data,{query:'二人爱戏'});
+  assert.equal(macadam.length,1);
+  for(const query of ['マカダム','Macadam - Futari Yogari']){
+    assert.deepEqual(filterCatalogue(data,{query}).map(({work})=>work.id),[macadam[0].work.id]);
+  }
+  const parent=filterCatalogue(data,{query:'二人爱戏',company:'dB-SOFT'});
+  const brand=filterCatalogue(data,{query:'二人爱戏',company:'Macadamia Soft'});
+  assert.deepEqual(parent[0].versions.map(v=>v.platform),['PC-88']);
+  assert.deepEqual(brand[0].versions.map(v=>v.platform),['PC-98']);
+  const game177=filterCatalogue(data,{query:'１７７',company:'Macadamia Soft'});
+  assert.equal(game177.length,1);
+  assert.deepEqual(new Set(game177[0].versions.map(v=>v.platform)),new Set(['PC-88','PC-98','X1']));
+  assert.ok(game177[0].work.genre.includes('动作'));
+  assert.ok(!macadam[0].versions.some(v=>v.platform==='MZ-2500'));
+  assert.ok(dossier.entries.some(e=>e.title.includes('MZ-2500')&&e.reason.includes('年份')));
+  assert.ok(dossier.entries.some(e=>e.title.includes('Don Juan')&&e.workIds.length===0&&e.status.includes('排除')));
+  assert.ok(!data.works.some(w=>w.originalTitle==='ドンファン'));
+  assert.deepEqual(new Set(dossier.publisherWorkIds),new Set(filterCatalogue(data,{company:'Macadamia Soft'}).map(({work})=>work.id)));
+  const page=readFileSync(new URL('../macadamia.html',import.meta.url),'utf8');
   for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
 });
