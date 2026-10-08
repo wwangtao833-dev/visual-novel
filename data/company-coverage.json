@@ -24483,6 +24483,77 @@
           ]
         }
       ]
+    },
+    {
+      "id": "gaina",
+      "name": "GAINA",
+      "checkedAt": "2026-10-08",
+      "status": "公司身份与游戏范围核查完成；暂未确认游戏",
+      "scope": "仅核查株式会社ガイナ（旧福岛GAINAX、现BENTEN Film）自身有开发／发行证据的视觉小说与Galgame。GAINAX旧作、米子GAINAX游戏与其他同名公司的作品不自动并入。",
+      "versionScope": "本次没有获得可确认的游戏及平台记录；0为当前资料核实结果，不是证明从未参与任何游戏。",
+      "publisherNote": "GAINA是动画制作公司，与原GAINAX独立。其母公司公告确认2025年8月1日更名BENTEN Film；已核查公开作品目录与公司资料，暂未找到可确认由该法人开发／发行的视觉小说或Galgame。",
+      "workIds": [],
+      "relatedGames": [],
+      "publisherWorkIds": [],
+      "catalogueEntryCount": 4,
+      "source": "https://prtimes.jp/main/html/rd/p/000000004.000147544.html",
+      "sectionTitle": "视觉小说与Galgame核查结果",
+      "overviewLabel": "本次已确认游戏",
+      "emptyWorksNote": "截至2026-10-08，暂未找到可确认属于GAINA／BENTEN Film自身开发或发行的视觉小说与Galgame。不将GAINAX历史游戏移入此页；有新作品署名证据时再补充。",
+      "auditTitle": "公司身份与收录边界",
+      "auditSourceLabel": "母公司沿革公告",
+      "auditLabel": "四项公司身份／范围核查。",
+      "auditNote": "公司沿革已确认；游戏结论是当前公开资料下的“暂未确认”，不声称证明其全部受托工作中从未参与游戏。",
+      "description": "GAINA／BENTEN Film独立专题：公司沿革、视觉小说与Galgame核查结果及与GAINAX的区别。",
+      "creativeProfile": {
+        "thesis": "公开资料可以支持GAINA的动画制作身份；没有已核实的游戏作品，不据此虚构视觉小说创作风格。",
+        "phases": [
+          {
+            "period": "2014—2024",
+            "heading": "动画制作的公司身份",
+            "analysis": "母公司沿革说明公司于2014年设立，公开代表作包括《钢琴之森》等动画。动画作品及人员经历本身不足以证明游戏开发署名。",
+            "basis": "厂商说明",
+            "source": "https://prtimes.jp/main/html/rd/p/000000004.000147544.html"
+          },
+          {
+            "period": "2025—2026",
+            "heading": "BENTEN Film的新名称",
+            "analysis": "2025年5月29日股权被Creator’s X取得，8月1日更名BENTEN Film。近期公开业务仍以动画制作为依据；母集团的游戏CG业务不直接当作GAINA独立游戏目录。",
+            "basis": "厂商说明",
+            "source": "https://prtimes.jp/main/html/rd/p/000000004.000147544.html"
+          }
+        ]
+      },
+      "entries": [
+        {
+          "title": "GAINA → BENTEN Film",
+          "status": "沿革确认",
+          "reason": "母公司2025年公告明确旧社名及2025/08/01更名；专题保留用户指定GAINA名称。",
+          "source": "https://prtimes.jp/main/html/rd/p/000000004.000147544.html",
+          "workIds": []
+        },
+        {
+          "title": "GAINA 与 GAINAX本社",
+          "status": "独立法人",
+          "reason": "GAINAX官方声明列GAINA、福岛GAINA等为无关法人。GAINAX的Princess Maker、钢铁女友等历史游戏不复制为GAINA作品。",
+          "source": "https://www.gainax.co.jp/",
+          "workIds": []
+        },
+        {
+          "title": "BENTEN Film作品目录",
+          "status": "暂未确认游戏",
+          "reason": "现行官网入口与母公司沿革所列代表作未提供可确认的视觉小说／Galgame开发发行证据；不将动画条目制造成游戏版本。",
+          "source": "https://bentenfilm.com/works/",
+          "workIds": []
+        },
+        {
+          "title": "母公司游戏CG与员工历史作品",
+          "status": "不自动归属",
+          "reason": "母公司业务包括游戏CG、员工可能有其他公司经历；均须实际项目署名才能归属，不据集团业务简介虚构游戏。",
+          "source": "https://prtimes.jp/main/html/rd/p/000000004.000147544.html",
+          "workIds": []
+        }
+      ]
     }
   ]
 }

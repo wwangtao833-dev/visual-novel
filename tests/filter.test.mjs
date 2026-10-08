@@ -46,7 +46,7 @@ test('Nitroplus dossier reuses originals and keeps remakes, aliases and actual p
   const page=readFileSync(new URL('../nitroplus.html',import.meta.url),'utf8');
   for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
   const links=[...readFileSync(new URL('../index.html',import.meta.url),'utf8').matchAll(/class="secondary-link" href="[^\"]+\.html">([^<]+)<\/a>/g)];
-  assert.equal(links.length,29);
+  assert.equal(links.length,JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.length);
   assert.ok(links.every(([,name])=>name.endsWith('社')));
 });
 
@@ -434,4 +434,20 @@ test('FairyTale keeps menu adventures, credited ports and separate playable volu
   assert.ok(dossier.workIds.every(id=>!['纯文本指令','图文指令'].includes(data.works.find(w=>w.id===id).subcategory)));
   const page=readFileSync(new URL('../fairytale.html',import.meta.url),'utf8');
   for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
+});
+
+
+test('GAINA remains an independent empty dossier without invented game credits',()=>{
+  const coverage=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8'));
+  const company=coverage.companies.find(c=>c.id==='gaina');
+  assert.deepEqual(company.workIds,[]);
+  assert.deepEqual(company.relatedGames,[]);
+  assert.ok(company.publisherNote.includes('BENTEN Film'));
+  assert.equal(filterCatalogue(data,{company:'GAINA'}).length,0);
+  const page=readFileSync(new URL('../gaina.html',import.meta.url),'utf8');
+  assert.ok(page.includes('暂未找到可确认'));
+  assert.ok(page.includes('<strong>—</strong>'));
+  assert.ok(!page.includes('class="card"'));
+  assert.ok(!/undefined|NaN|Infinity/.test(page));
+  assert.ok(readFileSync(new URL('../index.html',import.meta.url),'utf8').includes('href="gaina.html"'));
 });
