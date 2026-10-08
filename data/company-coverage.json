@@ -21057,6 +21057,142 @@
           "source": "https://www.wdic.org/w/MOE/Piaキャロットへようこそ!!2.5"
         }
       ]
+    },
+    {
+      "id": "macadamia",
+      "name": "Macadamia Soft",
+      "checkedAt": "2026-10-08",
+      "status": "两部正式品牌作品已核对；文字输入关联作排除；未定年机种显式保留",
+      "scope": "按Macadamia Soft／マカダミアソフト品牌收录两部已核实作品；只排除需要键入词句的文字输入玩法，保留图标选择、菜单与直接按键互动。母公司其他品牌和非游戏附件不混入作品数；已有数据库记录保持不变。",
+      "versionScope": "共五条有年份依据的PC-88、PC-98与X1版本记录。Macadam的MZ-2500版已确认存在但年份缺项，X1版尚未确证，均在核对清单说明。资料不支持的配音、移植差异与精确日期不作推测。",
+      "publisherNote": "你所称的Macadama soft对应Macadamia Soft（マカダミアソフト），dB-SOFT旗下历史成人游戏品牌。专题按品牌作品归档，发行筛选仍保留各机种实际署名，不将dB-SOFT母公司的全部游戏合并为该品牌。",
+      "workIds": [
+        "g746",
+        "g747"
+      ],
+      "publisherWorkIds": [
+        "g746",
+        "g747"
+      ],
+      "relatedGames": [],
+      "catalogueEntryCount": 2,
+      "source": "https://www.gamepres.org/pc88/library/dbsoft.htm",
+      "sectionTitle": "Macadam与177：图标和动作互动",
+      "auditTitle": "历史品牌作品与机种核对清单",
+      "auditSourceLabel": "游戏保存协会历史目录",
+      "auditLabel": "两部已核实品牌作品，另列关联作、机种和署名说明。",
+      "auditNote": "没有现行厂商官网完整目录可供比对；以游戏保存协会、机种档案和实玩资料交叉核查。完成指每个已发现项目有处理说明，不表示所有机种、介质和再版日期均已查明。",
+      "overviewLabel": "已核实品牌作品",
+      "description": "Macadamia Soft作品专题：Macadam／二人爱戏与177，按键、图标玩法保留，文字输入作品排除；共享作品档案、平台版本和历史核对来源。",
+      "creativeProfile": {
+        "thesis": "两作更侧重直接操作与状态反馈，而非长篇分支叙事。下列为依据玩法资料的编辑归纳；Galgame只是本站的检索入口，具体类型按动作与图标互动说明。",
+        "phases": [
+          {
+            "period": "1985 · Macadam",
+            "heading": "图标与限时操作",
+            "analysis": "工具图标、位置选择与按键挑战构成主要互动。角色与场景可以选择，但不宜据此称作现代恋爱养成或长篇视觉小说。",
+            "basis": "编辑观察",
+            "source": "https://www.8-bits.info/gamelist/PC88/info/info_xHYMR7GSpbU3BqI9.php"
+          },
+          {
+            "period": "1986 · 177",
+            "heading": "两段式动作结构",
+            "analysis": "横向动作与按键互动组成两个主要部分，人物设定为行动提供背景。叙事题材与操作形式分别记录，避免把题材标签当作游戏类型。",
+            "basis": "编辑观察",
+            "source": "https://chaser.my.coocan.jp/guide/db_soft.htm"
+          }
+        ]
+      },
+      "entries": [
+        {
+          "title": "マカダム ～二人愛戯～",
+          "status": "已收录",
+          "reason": "1985年品牌作品；图标选择、位置操作和连按挑战，不需要输入指令词句。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_xHYMR7GSpbU3BqI9.php",
+          "workIds": [
+            "g746"
+          ]
+        },
+        {
+          "title": "177",
+          "status": "已收录",
+          "reason": "1986年品牌作品；横向动作与按键互动，纳入早期成人向互动。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_FE8KsDzbM8rq2Nwg.php",
+          "workIds": [
+            "g747"
+          ]
+        },
+        {
+          "title": "Macadamia品牌目录的5条机种记录",
+          "status": "归并为两部作品",
+          "reason": "UVList的5个条目对应Macadam和177的机种版本，不是5部独立作品；其“1986年成立”与自身1985年商品矛盾，不据此写品牌成立年份。",
+          "source": "https://www.uvlist.net/companies/info/723-Macadamia",
+          "workIds": [
+            "g746",
+            "g747"
+          ]
+        },
+        {
+          "title": "ドンファン／Don Juan（1984）",
+          "status": "文字输入作品排除",
+          "reason": "历史关联作品；虽有图像，实玩记录明确需键入日文词句、回答和数字，不是菜单选择。本次沿用“排除键入词句”的规则，不录主库；其品牌沿革署名另有异文。",
+          "source": "https://chaser.my.coocan.jp/guide/db_soft.htm",
+          "workIds": []
+        },
+        {
+          "title": "Macadam PC-98版",
+          "status": "已归入版本",
+          "reason": "MAME保留1985年Macadam - Futari Yogari版本；月份和移植先后不定论。",
+          "source": "https://github.com/mamedev/mame/blob/master/hash/pc98.xml",
+          "workIds": [
+            "g746"
+          ]
+        },
+        {
+          "title": "Macadam MZ-2500版",
+          "status": "版本身份保留，年份缺项",
+          "reason": "MAME已保存该版本，年份为198?；UVList记1985，仍缺独立的发行年证据。不把版权年自动当成移植发行年，不生成精确年份记录。",
+          "source": "https://github.com/mamedev/mame/blob/master/hash/mz2500_flop.xml",
+          "workIds": [
+            "g746"
+          ]
+        },
+        {
+          "title": "Macadam X1／X1turbo版",
+          "status": "尚未确证",
+          "reason": "历史调查页以问号列机种且无日期；当前MAME X1清单未提供Macadam条目。不据疑问列表添加发行记录，也不宣称已取消。",
+          "source": "https://erogereport.blog.jp/archives/1301712.html",
+          "workIds": [
+            "g746"
+          ]
+        },
+        {
+          "title": "177 PC-98／X1版",
+          "status": "已归入版本",
+          "reason": "1986年机种记录并入原作品，分别保留来源，不新增作品计数。",
+          "source": "https://github.com/mamedev/mame/blob/master/hash/x1_flop.xml",
+          "workIds": [
+            "g747"
+          ]
+        },
+        {
+          "title": "dB-SOFT其他游戏与麻将系列",
+          "status": "品牌范围说明",
+          "reason": "本次按Macadamia Soft品牌整理，不自动扩展至母公司的Flappy、Woody Poco、今夜も朝までPowerfulまあじゃん等其他作品。",
+          "source": "https://www.gamepres.org/pc88/library/dbsoft.htm",
+          "workIds": []
+        },
+        {
+          "title": "包装附赠照片册与其他附件",
+          "status": "非独立游戏",
+          "reason": "原作商品的附属物，不独立计为游戏或平台版本。",
+          "source": "https://chaser.my.coocan.jp/guide/db_soft.htm",
+          "workIds": [
+            "g746",
+            "g747"
+          ]
+        }
+      ]
     }
   ]
 }
