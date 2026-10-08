@@ -4,11 +4,11 @@
 
 ## 数据范围
 
-当前收录 **744 部代表作品、1539 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、ゆずソフト、Innocent Grey、minori、AUGUST、tone work’s、ASa Project、ELF、Silky’s、Leaf、SAGA PLANETS、SMEE、FAVORITE、CUFFS、CUBE、Sphere、ぱれっと、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
+当前收录 **808 部代表作品、1683 个平台版本**，覆盖 1976—2026 年，重点补充了 1970 年代文字冒险的起点、1980—1985 年的早期作品，以及按发行厂商核查的 KID、TYPE-MOON、Key、NOVECT、ANIPLEX.EXE、sprite、まどそふと、ゆずソフト、Innocent Grey、minori、AUGUST、tone work’s、ASa Project、ELF、Silky’s、Leaf、SAGA PLANETS、SMEE、FAVORITE、CUFFS、CUBE、Sphere、ぱれっと、AQUAPLUS、Konami、Chunsoft、世嘉、Spike Chunsoft、Capcom、Nitroplus 和 07th Expansion 等作品。此项目不是完整历史清单；缺乏可靠版本信息的地方保持“待核实”。首发年份取所收录的最早版本；平台移植与重制按所引来源的发行地区记录，尚未逐一列出所有地区的发售时间。早期作品的日期异文与收录原则见 [`data/early-era-notes.md`](data/early-era-notes.md)。
 
 作品主分类是一种检索入口，并非互斥的学术分类：一部恋爱视觉小说也可能属于广义 Galgame。视觉小说的“有声小说”可能只有音乐和音效，配音字段专指游戏内角色人声。
 
-现有 431 部作品设有单独中文检索名（含《雫》等容易漏检的日文汉字标题），原名继续保留。已有通行译名优先采用；缺少通行译名的中文称呼是本站编辑译名，方便检索，不代表官方定名。搜索支持中文检索名、原名和别名，例如“白色相簿”“白色相册”都能找到《WHITE ALBUM2》。网页版本卡片只在确认无角色配音时显示“无角色配音”；JSON 仍保留原始配音状态供筛选，CSV 则只导出无配音标记。
+现有 465 部作品设有单独中文检索名（含《雫》等容易漏检的日文汉字标题），原名继续保留。已有通行译名优先采用；缺少通行译名的中文称呼是本站编辑译名，方便检索，不代表官方定名。搜索支持中文检索名、原名和别名，例如“白色相簿”“白色相册”都能找到《WHITE ALBUM2》。网页版本卡片只在确认无角色配音时显示“无角色配音”；JSON 仍保留原始配音状态供筛选，CSV 则只导出无配音标记。
 
 ## 厂商集中整理
 
@@ -142,3 +142,5 @@ Alicesoft 叙事作品转入主库（2026-10-04）：按专题现有“叙事／
 
 
 **Cocktail Soft 专题（2026-10-08）：** 新增 [Cocktail Soft社专题](cocktailsoft.html)，按《Can Can Bunny》所属品牌核对现行官网 **109 项产品**及历史／授权补充，共 **143 条核对说明**。主库追加 **56 部作品、147 条版本**，专题另列 **14 部跨类型作品与杂集、28 条版本**，共 **70 部关联作品／175 条版本**。菜单、点击及图标指令均纳入，只排除词句键入；原有686部作品、1387条版本和26个专题完全保留。1・Primo、G.O.SE、REFRESH与合集沿用原作ID，PetitBox及独立Fan Disc另计。原品牌与集团其他品牌、实际授权发行方分开说明；已取消的MSX2计划不补成发售版本，欠缺原始资料的字段明确保留疑点。具体边界、逐产品去向与证据见 [`data/cocktailsoft-audit.md`](data/cocktailsoft-audit.md)。全库现为 **742 部作品／1534 条版本**。
+
+**FairyTale 专题（2026-10-08）：** 新增 [FairyTale社专题](fairytale.html)，覆盖《沙織 -美少女達の館-》所属品牌及X指定、花月組、月星組、ETHIX支线。官网151项商品逐项归档；主库追加 **64部作品／144条版本**，另列 **27部跨类型游戏／55条版本**，专题共92部关联作品。菜单、图标、点击、按键阅读与动作保留，只排除词句输入游戏；纯CG展示、试玩、配件与独立集团品牌列明边界。已有744部作品、1539条版本与28个专题保持不变。Lipstick V2玩法、部分移植和特别盘年份仍缺资料，不补造字段。详见 [核对记录](data/fairytale-audit.md)。全库 **808部／1683条版本**。
