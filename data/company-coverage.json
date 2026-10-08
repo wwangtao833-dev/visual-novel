@@ -17755,9 +17755,9 @@
       "name": "JAST（日本）",
       "checkedAt": "2026-10-08",
       "status": "专题与已核实作品建档完成；历史资料缺项逐项标注",
-      "scope": "以发行《天使们的午后》的日本旧 JAST 为主体，整理本社、Tiare、早期 Purple、Angel Hearts 与 pride 的历史目录。本轮建档 29 部四类作品与 7 部跨类型关联作品；合集、CG 集、企划与资料不足项目另有处理记录。",
+      "scope": "以发行《天使们的午后》的日本旧 JAST 为主体，整理本社、Crest、Tiare、早期 Purple、Angel Hearts 与 pride 的历史目录。现有 32 部四类作品与 7 部跨类型关联作品；2026-10-08 追加三部图文菜单指令作品，已有作品与版本保留原样。",
       "versionScope": "列出有来源的主要初版、移植、重制与合集记录，不宣称穷尽所有地区和再版。发售月份冲突时只记年份；有年份冲突的 III 番外篇保留异文。部分配音需 JAST SOUND 外设，不能理解为普通机器上自带完整语音。",
-      "publisherNote": "本专题的 JAST 是 1985—2001 年间活动的日本株式会社ジャスト。旗下品牌的实际署名保留在版本中，筛选归档为“JAST（日本）”；JAST USA／现代 JAST 国际发行方单独保留。2001 年 Purple software 承接后的系列作品仅作沿革关联。",
+      "publisherNote": "本专题的 JAST 是 1985—2001 年间活动的日本株式会社ジャスト。旗下品牌的实际署名保留在版本中，筛选归档为“JAST（日本）”；JAST USA／现代 JAST 国际发行方单独保留。2001 年 Purple software 承接后的系列作品仅作沿革关联。 早期クレスト（Crest／Clest）依据机种馆录的 JAST 新品牌说明归档，保留版本实际署名。",
       "workIds": [
         "g015",
         "g652",
@@ -17787,7 +17787,10 @@
         "g676",
         "g677",
         "g678",
-        "g679"
+        "g679",
+        "g680",
+        "g681",
+        "g682"
       ],
       "publisherWorkIds": [
         "g015",
@@ -17817,16 +17820,19 @@
         "g675",
         "g676",
         "g677",
-        "g679"
+        "g679",
+        "g680",
+        "g681",
+        "g682"
       ],
-      "catalogueEntryCount": 56,
+      "catalogueEntryCount": 59,
       "source": "https://ja.wikipedia.org/wiki/ジャスト_(ブランド)",
       "sectionTitle": "从早期校园冒险到 Windows 多品牌时期",
       "overviewLabel": "已建档作品与跨类型关联",
       "auditTitle": "历史目录核对与收录说明",
       "auditSourceLabel": "历史品牌目录（非现存官网）",
-      "auditLabel": "56 项作品、产品组与范围说明；不等同于独立游戏数。",
-      "auditNote": "旧官网已关闭，历史目录、机种馆录、零售资料和后续发行页相互补充。“资料待补”项目不计入顶部游戏数，不能将本专题理解为所有作品与版本字段均已核实。原有初代条目保留，本轮不新增纯文本指令／图文指令游戏。",
+      "auditLabel": "56 项历史核对与范围说明，另附 3 项菜单指令补充结果；不等同于独立游戏数。",
+      "auditNote": "旧官网已关闭，历史目录、机种馆录、零售资料和同期杂志相互补充。原有核对行保留为前次核对记录；本次新增条目附日期，已解决事项见后附补充结果。“资料待补”不计入顶部游戏数。本次只新增图文菜单指令作品，排除需要键入词句的指令输入作品；已有作品、版本与跨类型记录未改动。",
       "description": "日本老 JAST 与旗下品牌作品专题：天使们的午后系列、剧情角色、平台版本、跨类型作品及历史目录核对。",
       "relatedGames": [
         {
@@ -18610,6 +18616,33 @@
           "workIds": [],
           "reason": "本专题仅关联 2001 年承接系列的 SEASON2001，不收进转交之后新公司的完整目录。",
           "source": "https://www.purplesoftware.jp/products/"
+        },
+        {
+          "title": "デリンジャー（2026-10-08 补充核实）",
+          "status": "补充已收录",
+          "workIds": [
+            "g680"
+          ],
+          "reason": "本次核实为图文菜单指令选择式，补入共享主库；前次待补行作为核对历史保留，现以本行补充结果为准。图文菜单指令选择式：PC-88 用 [2][8] 选择指令、Return 确认，不需要键入词句。8BITS 明确将クレスト记为 JAST 的新品牌，保留实际署名并归档日本旧 JAST；不据后期品牌年表排除这部早期作品。HARD BOILED／SPECIAL 是同一游戏内的模式，不拆成独立作品。PC-88 年份有 1988／1989 异文，暂依 8BITS 记 1989；已列最早版本为 PC-98／MSX2 的 1988 年。操作与品牌依据：https://www.8-bits.info/gamelist/PC88/info/info_sEYav8D601zXtfnZ.php",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_sEYav8D601zXtfnZ.php"
+        },
+        {
+          "title": "コスモスクラブ（2026-10-08 补充核实）",
+          "status": "补充已收录",
+          "workIds": [
+            "g681"
+          ],
+          "reason": "本次核实为图文菜单指令选择式，补入共享主库；前次待补行作为核对历史保留，现以本行补充结果为准。图文菜单指令选择式：《テクノポリス》1989 年 5 月第 50 页明确记载コマンド選択式。操作和剧情依据：https://archive.org/stream/technopolis-1989-05/01_journal-1989-05_djvu.txt。PC-88 年份暂依 8BITS 与当年杂志记 1989；攻略页及部分综合清单记 1988，保留异文而不拼造早期版本。PC-98 实物零售页可证版本存在，但 1988 清单与同期杂志所载 1989 年 4 月预定有冲突，暂不补入带确定年份的该机种版本。",
+          "source": "https://archive.org/stream/technopolis-1989-05/01_journal-1989-05_djvu.txt"
+        },
+        {
+          "title": "夜の天使たち -私鉄沿線殺人事件-（2026-10-08 补充核实）",
+          "status": "补充已收录",
+          "workIds": [
+            "g682"
+          ],
+          "reason": "本次核实为图文菜单指令选择式，补入共享主库；前次待补行作为核对历史保留，现以本行补充结果为准。图文菜单指令选择式：PC-88 用 [2][4][6][8] 选择指令、Return 确认，不需要键入词句。中藤美希系列第二作，与《天使们的午后》有关联。8BITS 记 JAST 发行、Crest 开发，部分馆录／攻略记 Crest；本条保留署名异文，版本暂依机种资料。PC-88 1989 年 9 月、PC-98 1989 年 12 月有发行目录依据；其他页面的 1988 年异文不作为额外版本。故事中的 1989 年 12 月不是 PC-88 发售日期。MSX2 企划被 Generation MSX 明确标为取消，CG 收录不计为游戏发行。取消依据：https://generation-msx.nl/software/jast/night-angels---murder-case-along-private-railway/1771",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_UNmBFtRIwmibPszs.php"
         }
       ],
       "creativeProfile": {
