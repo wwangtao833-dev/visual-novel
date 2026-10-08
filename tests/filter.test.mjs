@@ -493,3 +493,59 @@ test('GAINAX related games have explicit non-VN categories and unique page ancho
   }
   assert.ok(gainax.entries.some(e=>e.status==='跨类型后续补查'));
 });
+
+test('Japan Home Video filtering preserves other publishers and original release years',()=>{
+  const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='jhv');
+  const published=filterCatalogue(data,{company:'Japan Home Video'});
+  assert.deepEqual(new Set(published.map(({work})=>work.id)),new Set(dossier.publisherWorkIds));
+  assert.equal(published.length,5);
+  assert.equal(publisherWorkCounts(data).get('Japan Home Video'),5);
+  const cross=filterCatalogue(data,{query:'Crossworld',company:'Japan Home Video'})[0];
+  assert.equal(cross.work.firstYear,1996);
+  assert.deepEqual(cross.versions.map(v=>[v.year,v.platform]),[[1997,'Windows']]);
+  assert.equal(filterCatalogue(data,{query:'Crossworld',platform:'PlayStation',company:'Japan Home Video'}).length,0);
+  const fx=filterCatalogue(data,{query:'Neo Generation',platform:'PC-FX',company:'NEC Home Electronics'});
+  assert.equal(fx.length,1);
+  assert.equal(filterCatalogue(data,{query:'Neo Generation',platform:'PC-FX',company:'Riverhill Soft'}).length,0);
+  assert.equal(filterCatalogue(data,{query:'Graduation',company:'IRIコマース&テクノロジー'}).length,2);
+});
+
+test('JHV enhanced names, English localization and compilation reuse original works',()=>{
+  for(const [query,id] of [['卒業FINAL','g830'],['卒業S','g830'],["卒業 '93",'g830'],['卒業II FX','g831'],['Graduation for Windows 95','g831'],['生于M15行星','g833']]){
+    assert.deepEqual(filterCatalogue(data,{query}).map(({work})=>work.id),[id]);
+  }
+  for(const id of ['g830','g831']){
+    assert.equal(data.versions.filter(v=>v.workId===id).length,9);
+    const reprint=data.versions.filter(v=>v.workId===id&&v.kind==='卒業復刻版合集收录');
+    assert.equal(reprint.length,1);
+    assert.equal(reprint[0].year,2004);
+    assert.deepEqual(reprint[0].publisherCompanies,['IRIコマース&テクノロジー']);
+  }
+  assert.equal(data.works.filter(w=>w.originalTitle==='卒業復刻版').length,0);
+  const urm=filterCatalogue(data,{query:'URM M15'})[0];
+  assert.equal(urm.work.firstYear,1994);
+  assert.equal(urm.versions.filter(v=>v.platform==='FM TOWNS').length,1);
+  assert.ok(urm.versions.find(v=>v.platform==='FM TOWNS').differences.includes('1995/01/27'));
+});
+
+test('JHV separates cross genres, pending evidence and unrelated same-IP titles',()=>{
+  const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='jhv');
+  assert.equal(dossier.relatedGames.length,4);
+  assert.equal(dossier.relatedGames.flatMap(w=>w.versions).length,8);
+  assert.equal(data.versions.filter(v=>dossier.workIds.includes(v.workId)).length,25);
+  for(const related of dossier.relatedGames){
+    assert.ok(!data.works.some(w=>w.id===related.id));
+    assert.ok(!['文字冒险','视觉小说','互动动画','Galgame'].includes(related.category));
+  }
+  const pending=dossier.entries.find(e=>e.title==='Sensual Angels');
+  assert.deepEqual(pending.workIds,[]);
+  assert.deepEqual(pending.relatedIds,[]);
+  assert.ok(pending.status.includes('待核'));
+  const star=dossier.relatedGames.find(w=>w.id==='jhv-star2');
+  assert.equal(star.firstYear,1993);
+  assert.equal(star.versions.find(v=>v.year===1993).publisher,'Arsys Software');
+  assert.equal(star.versions.filter(v=>v.publisher==='JHV').length,2);
+  const page=readFileSync(new URL('../jhv.html',import.meta.url),'utf8');
+  for(const id of [...dossier.workIds,...dossier.relatedGames.map(w=>w.id)]) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
+  assert.ok(!/undefined|NaN|Infinity/.test(page));
+});
