@@ -46,8 +46,44 @@ test('Nitroplus dossier reuses originals and keeps remakes, aliases and actual p
   const page=readFileSync(new URL('../nitroplus.html',import.meta.url),'utf8');
   for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
   const links=[...readFileSync(new URL('../index.html',import.meta.url),'utf8').matchAll(/class="secondary-link" href="[^\"]+\.html">([^<]+)<\/a>/g)];
-  assert.equal(links.length,25);
+  assert.equal(links.length,26);
   assert.ok(links.every(([,name])=>name.endsWith('社')));
+});
+
+test('historical Japanese JAST and international publishers stay independent',()=>{
+  const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='jast');
+  const old=filterCatalogue(data,{company:'JAST（日本）'});
+  assert.deepEqual(new Set(old.map(({work})=>work.id)),new Set(dossier.publisherWorkIds));
+  assert.ok(old.every(({work})=>dossier.workIds.includes(work.id)));
+  assert.equal(filterCatalogue(data,{query:'SEASON2001',company:'JAST（日本）'}).length,0);
+  assert.equal(filterCatalogue(data,{query:'SEASON2001',company:'Purple software'}).length,1);
+  const japanese=filterCatalogue(data,{query:'Runaway City',company:'JAST（日本）'})[0];
+  const english=filterCatalogue(data,{query:'Runaway City',company:'JAST USA'})[0];
+  assert.equal(japanese.work.id,english.work.id);
+  assert.ok(japanese.versions.every(v=>v.publisher==='Tiare'));
+  assert.ok(english.versions.every(v=>v.publisher==='JAST USA'));
+  assert.ok(!old.some(({versions})=>versions.some(v=>v.publisher==='JAST')));
+});
+
+test('JAST remakes, collections and non-narrative discs preserve work identity',()=>{
+  const original=filterCatalogue(data,{query:'天使们的午后：转校生'})[0];
+  assert.deepEqual(filterCatalogue(data,{query:'もんもん学園'}).map(({work})=>work.id),[original.work.id]);
+  assert.equal(original.versions.filter(v=>v.kind.startsWith('重制')).length,1);
+  assert.equal(filterCatalogue(data,{query:'エロでん'}).length,2);
+  assert.equal(data.works.filter(w=>w.originalTitle==='エロでん').length,0);
+  const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='jast');
+  assert.ok(dossier.relatedGames.some(w=>w.id==='jast-vanishing'&&w.category==='角色扮演'));
+  assert.equal(filterCatalogue(data,{query:'Vanishing Point'}).length,0);
+  assert.ok(dossier.entries.some(e=>e.title.includes('SpecialII')&&e.workIds.length===0));
+  const page=readFileSync(new URL('../jast.html',import.meta.url),'utf8');
+  for(const id of [...dossier.workIds,...dossier.relatedGames.map(w=>w.id)]) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
+  const pride=filterCatalogue(data,{query:'梦日记：遥远的天空之下'})[0];
+  assert.equal(pride.work.firstYear,2000);
+  assert.equal(pride.versions[0].publisher,'pride');
+  assert.equal(pride.versions[0].voice,'有');
+  const upgrade=data.versions.find(v=>v.workId==='g015'&&v.kind==='语音外设对应升级版');
+  assert.equal(upgrade.voice,'有（部分）');
+  assert.ok(upgrade.differences.includes('另购 JAST SOUND'));
 });
 
 test('Chinese titles and alternate spellings find the same work without losing original name search',()=>{

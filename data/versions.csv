@@ -106,7 +106,7 @@ g133,g133-v1,爱丽丝梦游仙境,,不思議の国のアリス,文字冒险,纯
 g133,g133-v2,爱丽丝梦游仙境,,不思議の国のアリス,文字冒险,纯文本指令,纯文本／文学改编,爱丽丝,1984,PC-8001,マイクロキャビン,マイクロキャビン,原始机种版本,,馆藏将 PC-8001 列作原始机种；FM 系磁带 1984 年 4 月另有明确馆藏记录，PC-8001 月份待核。,https://fm-7.com/museum/products/yrjupxzp/
 g007,g007-v2,波多比亚连续杀人事件,,ポートピア連続殺人事件,文字冒险,图文指令,图文指令／推理,刑警（玩家）、ヤス,1985,红白机,艾尼克斯,Enix（艾尼克斯）,家庭机移植,,移植时重做指令选择界面；并非1983年PC初版。,https://www.nintendo.co.jp/etc/interview/platinumgames/vol1/index3.html
 g014,g014-v1,时间少女,,タイムギャル,互动动画,激光影碟·动作选择,激光影碟／动作选择,玲香（レイカ）、鲁达（ルーダ）,1985,街机,太东,TAITO（太东）,首发,,日本街机原版。,https://www.taito.co.jp/mob/topics/2587
-g015,g015-v1,天使们的午后,,天使たちの午後,Galgame,成人向冒险,成人向／学园冒险,白石由美子,1985,PC-8801 等,JAST,JAST,首发,无角色配音,按 PC-8801 初版；FM-7 移植为 1986 年。,https://www.famitsu.com/news/202312/10327281.html
+g015,g015-v1,天使们的午后,天使们的午后,天使たちの午後,Galgame,成人向冒险,成人向／学园冒险,白石由美子,1985,PC-8801,JAST（日本）,JAST（日本）,首发,无角色配音,1985 年 PC-8801 初版；键盘输入指令。该初版不支持后续 JAST SOUND 语音。,https://www.8-bits.info/gamelist/PC88/info/info_6Tyibs0v7iKE9uBs.php
 g016,g016-v1,东京搭讪街,,TOKYOナンパストリート,Galgame,恋爱剧情冒险,成人向／都市恋爱冒险,东京街区的搭讪者（玩家）、街头邂逅对象,1985,日本个人计算机,艾尼克斯,Enix（艾尼克斯）,首发,无角色配音,作品最早确认的版本。,https://fm-7.com/museum/products/vt0km2jr/
 g017,g017-v1,轻井泽诱拐指南,,軽井沢誘拐案内,文字冒险,图文选项／调查,图文选项／推理,绑架案调查者（玩家）、被绑架者,1985,日本个人计算机,艾尼克斯,Enix（艾尼克斯）,首发,无角色配音,作品最早确认的版本。,https://fm-7.com/museum/products/iq8kysdi/
 g018,g018-v1,黄金国传奇,,エルドラド伝奇,Galgame,成人向冒险,成人向／奇幻冒险,黄金国探险者（玩家）,1985,FM-7 等,艾尼克斯,Enix（艾尼克斯）,首发,无角色配音,作品最早确认的版本。,https://fm-7.com/museum/products/333wukd2/
@@ -1301,3 +1301,54 @@ g651,g651-v1,MUSICUS!,音乐人！,MUSICUS!,Galgame,恋爱剧情冒险,叙事／
 g651,g651-v2,MUSICUS!,音乐人！,MUSICUS!,Galgame,恋爱剧情冒险,叙事／恋爱／音乐,対馬馨、花井三日月、香坂めぐる、尾崎弥子、花井是清,2021,Windows,MangaGamer,MangaGamer,英文版,,2021-04-08；除主人公外有角色配音。,https://www.mangagamer.com/detail.php?product_code=1221
 g651,g651-v3,MUSICUS!,音乐人！,MUSICUS!,Galgame,恋爱剧情冒险,叙事／恋爱／音乐,対馬馨、花井三日月、香坂めぐる、尾崎弥子、花井是清,2022,PlayStation 4,Entergram,Entergram,主机移植,,2022-03-24；新增场景和演出，发行日按主机产品页。,https://www.entergram.co.jp/musicus/product.html
 g651,g651-v4,MUSICUS!,音乐人！,MUSICUS!,Galgame,恋爱剧情冒险,叙事／恋爱／音乐,対馬馨、花井三日月、香坂めぐる、尾崎弥子、花井是清,2022,Nintendo Switch,Entergram,Entergram,主机移植,,2022-03-24；新增场景和演出，发行日按主机产品页。,https://www.entergram.co.jp/musicus/product.html
+g015,g015-v2,天使们的午后,天使们的午后,天使たちの午後,Galgame,成人向冒险,成人向／学园冒险,白石由美子,1986,FM-7,JAST（日本）,JAST（日本）,移植,,移植版本；未核实的画面、脚本和配音差异不作推断。,https://fm-7.com/museum/products/nkobte9s/
+g015,g015-v3,天使们的午后,天使们的午后,天使たちの午後,Galgame,成人向冒险,成人向／学园冒险,白石由美子,1986,PC-8801,JAST（日本）,JAST（日本）,语音外设对应升级版,,1986 年版本升级；部分台词需另购 JAST SOUND 外设播放，无外设时不等于有内置配音。,https://www.8-bits.info/gamelist/PC88/info/info_Sq8qNhbKYAYESbBs.php
+g015,g015-v4,天使们的午后,天使们的午后,天使たちの午後,Galgame,成人向冒险,成人向／学园冒险,白石由美子,1987,MSX,JAST（日本）,JAST（日本）,移植,,移植版本；未核实的画面、脚本和配音差异不作推断。,https://generation-msx.nl/software/jast/afternoon-angels/977
+g652,g652-v1,天使们的午后II 番外篇,天使们的午后II 番外篇,天使たちの午後II 番外編,Galgame,成人向冒险,成人向／剧情冒险,ひろし、梢,1988,PC-8801,JAST（日本）,JAST（日本）,首发,,PC-8801 原版，菜单选择指令；部分台词需另购 JAST SOUND 外设播放。,https://www.8-bits.info/gamelist/PC88/info/info_rSeFpk2p5PNMNpEV.php
+g653,g653-v1,天使们的午后III：缎带,天使们的午后III：缎带,天使たちの午後III ～リボン～,Galgame,成人向冒险,成人向／剧情冒险,教师（玩家）、岡本遙,1989,PC-8801,JAST（日本）,JAST（日本）,首发,,PC-8801 原版，菜单选择指令；部分台词需另购 JAST SOUND 外设播放。,https://www.8-bits.info/gamelist/PC88/info/info_VBZIm10RFJEhPUr7.php
+g654,g654-v1,天使们的午后III 番外篇,天使们的午后III 番外篇,天使たちの午後III 番外編,Galgame,成人向冒险,成人向／剧情冒险,主人公（玩家）、高円寺瑠璃,1990,PC-8801,JAST（日本）,JAST（日本）,首发,,菜单选择指令；部分台词需另购 JAST SOUND 外设播放。年份暂依 8BITS，其他数据库存在异文。,https://www.8-bits.info/gamelist/PC88/info/info_BaGs7J78s9ZH2MfD.php
+g654,g654-v2,天使们的午后III 番外篇,天使们的午后III 番外篇,天使たちの午後III 番外編,Galgame,成人向冒险,成人向／剧情冒险,主人公（玩家）、高円寺瑠璃,1990,X68000,JAST（日本）,JAST（日本）,移植,,移植版本；未核实的画面、脚本和配音差异不作推断。,https://www.8-bits.info/gamelist/PC88/info/info_BaGs7J78s9ZH2MfD.php
+g654,g654-v3,天使们的午后III 番外篇,天使们的午后III 番外篇,天使たちの午後III 番外編,Galgame,成人向冒险,成人向／剧情冒险,主人公（玩家）、高円寺瑠璃,1993,PC-9801,JAST（日本）,JAST（日本）,反省版,,以图像修正后再发行的“反省版”归并；不作为独立续篇。,https://ja.wikipedia.org/wiki/天使たちの午後
+g655,g655-v1,天使们的午后IV：裕子,天使们的午后IV：裕子,天使たちの午後IV ～ゆう子～,Galgame,成人向冒险,成人向／剧情冒险,代课教师（玩家）、裕子,1991,PC-9801,JAST（日本）,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://shionlib.com/en/game/25513
+g656,g656-v1,抱歉，天使：横滨物语,抱歉，天使：横滨物语,ごめんねエンジェル ～横浜物語～,Galgame,成人向冒险,成人向／剧情冒险,捜し屋（玩家）、早苗,1992,PC-9801,JAST（日本）,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://shionlib.com/en/game/25477
+g657,g657-v1,天使们的午后V：被盯上的天使,天使们的午后V：被盯上的天使,天使たちの午後V ～狙われた天使～,Galgame,成人向冒险,成人向／演艺圈悬疑,舞台导演（玩家）、美紀,1992,PC-9801,JAST（日本）,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://ja.wikipedia.org/wiki/天使たちの午後
+g658,g658-v1,天使们的午后VI：My Fair Teacher,天使们的午后VI：My Fair Teacher,天使たちの午後VI ～My Fair Teacher～,Galgame,成人向冒险,成人向／剧情冒险,Tatsuya Shindou,1993,PC-9801,JAST（日本）,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://shionlib.com/en/game/25393
+g659,g659-v1,赛博格玛丽琳DX,赛博格玛丽琳DX,SUPER・ULTRA・むっちんぷりぷりサイボーグ マリリンDX,Galgame,成人向冒险,成人向／科幻冒险,Kenji、Marilyn,1994,PC-9801,JAST（日本）,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://www.ymgal.games/ga21596
+g659,g659-v2,赛博格玛丽琳DX,赛博格玛丽琳DX,SUPER・ULTRA・むっちんぷりぷりサイボーグ マリリンDX,Galgame,成人向冒险,成人向／科幻冒险,Kenji、Marilyn,1994,FM TOWNS,JAST（日本）,JAST（日本）,移植,,移植版本；未核实的画面、脚本和配音差异不作推断。,https://www.ymgal.games/ga21596
+g659,g659-v3,赛博格玛丽琳DX,赛博格玛丽琳DX,SUPER・ULTRA・むっちんぷりぷりサイボーグ マリリンDX,Galgame,成人向冒险,成人向／科幻冒险,Kenji、Marilyn,1994,X68000,JAST（日本）,JAST（日本）,移植,,移植版本；未核实的画面、脚本和配音差异不作推断。,https://www.8-bits.info/gamelist/X68K/info/info_LemhUKEQyL0ZaPZx.php
+g660,g660-v1,DEEP,DEEP,DEEP,Galgame,成人向冒险,成人向／多视角科幻,Jesus、可选择的其他视角主人公,1994,PC-9801,JAST（日本）,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://www.mobygames.com/game/43164/deep/
+g660,g660-v2,DEEP,DEEP,DEEP,Galgame,成人向冒险,成人向／多视角科幻,Jesus、可选择的其他视角主人公,1995,FM TOWNS,JAST（日本）,JAST（日本）,移植,,移植版本；未核实的画面、脚本和配音差异不作推断。,https://www.mobygames.com/game/43164/deep/
+g661,g661-v1,雪猫,雪猫,雪猫 ～YUKI NEKO～,Galgame,成人向冒险,成人向／剧情冒险,毕业旅行的学生（玩家）,1995,PC-9801,JAST（日本）,JAST（日本）,首发,,PC-98 初版年份据发行目录；具体日存在 3 月／4 月异文，仅记年份。配音资料尚未核实。,https://www.ymgal.games/ga21612
+g662,g662-v1,天使们的午后：转校生,天使们的午后：转校生,天使たちの午後 ～転校生～,Galgame,成人向冒险,成人向／剧情冒险,Hayato、Motoka,1995,PC-9801,JAST（日本）,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://www.ymgal.games/ga23955
+g662,g662-v2,天使们的午后：转校生,天使们的午后：转校生,天使たちの午後 ～転校生～,Galgame,成人向冒险,成人向／剧情冒险,Hayato、Motoka,1995,FM TOWNS,JAST（日本）,JAST（日本）,移植,,移植版本；未核实的画面、脚本和配音差异不作推断。,https://www.ymgal.games/ga23955
+g662,g662-v3,天使们的午后：转校生,天使们的午后：转校生,天使たちの午後 ～転校生～,Galgame,成人向冒险,成人向／剧情冒险,Hayato、Motoka,1998,MS-DOS,JAST USA,JAST USA,英语版,,JAST USA 英语发行；现代国际发行方和日本旧公司分别归档。,https://jaststore.com/page/classic-jast-games/
+g662,g662-v4,天使们的午后：转校生,天使们的午后：转校生,天使たちの午後 ～転校生～,Galgame,成人向冒险,成人向／剧情冒险,Hayato、Motoka,1998,Windows,JAST（日本）,JAST（日本）,重制：もんもん学園 ten.ko.sei,,原作《转校生》的 Windows 重制；新产品名作为版本名和检索别名。,https://ja.wikipedia.org/wiki/天使たちの午後
+g661,g661-v2,雪猫,雪猫,雪猫 ～YUKI NEKO～,Galgame,成人向冒险,成人向／剧情冒险,毕业旅行的学生（玩家）,1997,Windows,JAST（日本）,JAST（日本）,合集：エロでん,,在《エロでん》合集中的 Windows 发行，沿用原作身份。发售日有异文，仅记 1997 年；不把合集创建为重复的新故事。,https://www.ymgal.games/ga21612
+g662,g662-v5,天使们的午后：转校生,天使们的午后：转校生,天使たちの午後 ～転校生～,Galgame,成人向冒险,成人向／剧情冒险,Hayato、Motoka,1997,Windows,JAST（日本）,JAST（日本）,合集：エロでん,,在《エロでん》合集中的 Windows 发行，沿用原作身份。发售日有异文，仅记 1997 年；不把合集创建为重复的新故事。,https://www.ymgal.games/ga23955
+g663,g663-v1,三姐妹,三姐妹,三姉妹,Galgame,成人向冒险,成人向／家族复仇,Koichi、Eiichi、Shoji Okamura,1996,PC-9801,JAST（日本）,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://www.mobygames.com/game/4054/three-sisters-story/
+g664,g664-v1,伊甸的香气,伊甸的香气,エデンの香り,Galgame,成人向冒险,成人向／侦探悬疑,ジョー,1996,PC-9801,JAST（日本）,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://advgamer.com/eden-no-kaori/
+g665,g665-v1,周刊FROM H,周刊FROM H,週刊フロムH,Galgame,成人向冒险,成人向／都市生活冒险,Atsushi,1997,Windows,JAST（日本）,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://shionlib.com/en/game/24937
+g666,g666-v1,Pompom Pretty Parfait,Pompom Pretty Parfait,ポムポムプリてぃパフぇ（お子様用）,Galgame,成人向冒险,成人向／咖啡店剧情冒险,受托管理咖啡店的大学生（玩家）,1998,Windows,JAST（日本）,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://shionlib.com/en/game/24818
+g667,g667-v1,迷走都市,迷走都市,迷走都市,Galgame,成人向冒险,成人向／都市异能冒险,Hiroaki,1995,PC-9801,Tiare,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://www.ymgal.games/ga11110
+g667,g667-v2,迷走都市,迷走都市,迷走都市,Galgame,成人向冒险,成人向／都市异能冒险,Hiroaki,1996,FM TOWNS,Tiare,JAST（日本）,移植,,移植版本；未核实的画面、脚本和配音差异不作推断。,https://www.ymgal.games/ga11110
+g667,g667-v3,迷走都市,迷走都市,迷走都市,Galgame,成人向冒险,成人向／都市异能冒险,Hiroaki,1998,MS-DOS,JAST USA,JAST USA,英语版,,由 JAST USA 发行的英语版；1998 年不作为日本原作首发年。,https://jaststore.com/page/classic-jast-games/
+g667,g667-v4,迷走都市,迷走都市,迷走都市,Galgame,成人向冒险,成人向／都市异能冒险,Hiroaki,2003,Windows,JAST USA,JAST USA,Memorial Collection 英语版,,JAST USA Memorial Collection 中的 Windows 英语版本；合集不另计独立作品。,https://www.ymgal.games/ga11110
+g668,g668-v1,樱花的季节,樱花的季节,さくらの季節,Galgame,成人向冒险,成人向／校园恋爱冒险,Yamagami Shuuji、Hinagiku Aki、Nakano Meimi,1996,PC-9801,Tiare,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://kaguya.io/vn/season-of-the-sakura
+g669,g669-v1,魔女少女乐园,魔女少女乐园,まじょっ子ぱらだいす,Galgame,成人向冒险,成人向／魔法校园冒险,Rei Kidachi,1996,Windows,Tiare,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://shionlib.com/en/game/25050
+g670,g670-v1,黄昏的边界,黄昏的边界,黄昏の境界,Galgame,成人向冒险,成人向／恐怖调查冒险,寻宝的学生（玩家）,1997,Windows,Tiare,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://vnclub.org/vn/v9108/
+g670,g670-v2,黄昏的边界,黄昏的边界,黄昏の境界,Galgame,成人向冒险,成人向／恐怖调查冒险,寻宝的学生（玩家）,1997,PC-9801,Tiare,JAST（日本）,移植,,移植版本；未核实的画面、脚本和配音差异不作推断。,https://tokumei-wa-kazutaro.hatenablog.jp/entry/2022/02/20/000850
+g671,g671-v1,Muchimuchi Sexy Parfait,Muchimuchi Sexy Parfait,ムチムチセクシぃパフぇ（お姉様用）,Galgame,成人向冒险,成人向／咖啡店剧情冒险,受托管理店铺的大学生（玩家）,1998,Windows,Tiare,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://shionlib.com/en/game/24779
+g672,g672-v1,You & I,You & I,You ＆ I,Galgame,成人向冒险,成人向／校园剧情冒险,事故后返校的学生（玩家）,1999,Windows,Tiare,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://shionlib.com/en/game/10237
+g673,g673-v1,霞的游戏,霞的游戏,かすみ遊戯,Galgame,成人向冒险,成人向／近未来仿生人冒险,早瀬浩、かすみ,1999,Windows,Purple（JAST期）,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://vndb.org/p5364
+g673,g673-v2,霞的游戏,霞的游戏,かすみ遊戯,Galgame,成人向冒险,成人向／近未来仿生人冒险,早瀬浩、かすみ,2002,DVD 播放器（DVDPG）,BLACKRAINBOW,BLACKRAINBOW,DVDPG 改编,,2002-10-31 DVDPG 改编；含 Windows 原作光盘镜像，官方说明新增主人公台词配音。不得把附带镜像当成另一部新作。,https://www.blackrainbow.jp/dvdpg/006/index.html
+g674,g674-v1,Lien：不会结束的你的歌,Lien：不会结束的你的歌,Lien ～終わらない君の唄～,Galgame,成人向冒险,成人向／校园与生死主题,事故后重新醒来的主人公（玩家）,2000,Windows,Purple（JAST期）,JAST（日本）,首发,,该平台初版。角色配音状态据所引资料标注。,https://kiisu.egono.com/main.php?key=lien
+g675,g675-v1,追忆,追忆,追憶,Galgame,成人向冒险,成人向／神社与前世记忆,Tenma Takeshi、Itsuki Hikari、Tenma Koume、Tenma Mari、Tenma Yukino,2000,Windows,Purple（JAST期）,JAST（日本）,首发,无角色配音,该平台初版。角色配音状态据所引资料标注。,https://vnclub.org/vn/v5140/
+g676,g676-v1,Grief：想传达难眠的思念,Grief：想传达难眠的思念,Grief ～眠れぬ想い伝えたくて～,Galgame,成人向冒险,成人向／校园恋爱冒险,北川浩樹、小泉奈々、太田茜、高橋京子、白川静香,2000,Windows,Angel Hearts,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://vndbreview.blogspot.com/2017/12/vn-of-month-march-2000.html
+g677,g677-v1,YASHA：隐藏的疯狂,YASHA：隐藏的疯狂,YASHA ～隠された狂気～,Galgame,成人向冒险,成人向／家庭冲突悬疑,继家庭中的主人公（玩家）、主人公的妹妹,2000,Windows,Angel Hearts,JAST（日本）,首发,,该平台初版。配音资料尚未核实。,https://vndbreview.blogspot.com/2019/01/vn-of-month-november-2000.html
+g678,g678-v1,天使们的午后 SEASON2001,天使们的午后 SEASON2001,天使達の午後 SEASON2001,Galgame,成人向冒险,成人向／校园与天使幻想,被恶魔附身的主人公（玩家）、校园中的天使,2001,Windows,Purple software,Purple software,首发,,该平台初版。配音资料尚未核实。,https://www.purplesoftware.jp/products/
+g015,g015-v5,天使们的午后,天使们的午后,天使たちの午後,Galgame,成人向冒险,成人向／学园冒险,白石由美子,1995,PC-9801,JAST（日本）,JAST（日本）,合集：Collection,,Collection 收录 I、II、III；本条只表示对应原作内容。II 指令原作未新建主库条目。,https://ja.wikipedia.org/wiki/天使たちの午後
+g653,g653-v2,天使们的午后III：缎带,天使们的午后III：缎带,天使たちの午後III ～リボン～,Galgame,成人向冒险,成人向／剧情冒险,教师（玩家）、岡本遙,1995,PC-9801,JAST（日本）,JAST（日本）,合集：Collection,,Collection 收录 I、II、III；本条只表示对应原作内容。II 指令原作未新建主库条目。,https://ja.wikipedia.org/wiki/天使たちの午後
+g652,g652-v2,天使们的午后II 番外篇,天使们的午后II 番外篇,天使たちの午後II 番外編,Galgame,成人向冒险,成人向／剧情冒险,ひろし、梢,1995,PC-9801,JAST（日本）,JAST（日本）,合集：Collection2,,Collection2 收录 II 番外、III 番外反省版、IV；部分画面与文本有修订。按原作归并。,https://ja.wikipedia.org/wiki/天使たちの午後
+g654,g654-v4,天使们的午后III 番外篇,天使们的午后III 番外篇,天使たちの午後III 番外編,Galgame,成人向冒险,成人向／剧情冒险,主人公（玩家）、高円寺瑠璃,1995,PC-9801,JAST（日本）,JAST（日本）,合集：Collection2,,Collection2 收录 II 番外、III 番外反省版、IV；部分画面与文本有修订。按原作归并。,https://ja.wikipedia.org/wiki/天使たちの午後
+g655,g655-v2,天使们的午后IV：裕子,天使们的午后IV：裕子,天使たちの午後IV ～ゆう子～,Galgame,成人向冒险,成人向／剧情冒险,代课教师（玩家）、裕子,1995,PC-9801,JAST（日本）,JAST（日本）,合集：Collection2,,Collection2 收录 II 番外、III 番外反省版、IV；部分画面与文本有修订。按原作归并。,https://ja.wikipedia.org/wiki/天使たちの午後
+g679,g679-v1,梦日记：遥远的天空之下,梦日记：遥远的天空之下,yume nikki ～遠い空の下で～,Galgame,成人向冒险,成人向／家庭纠纷与胁迫剧情,友野慎一、高倉深雪、高倉恵子、天野照美、天野優香,2000,Windows,pride,JAST（日本）,首发,,发行年暂依 2000-12-15 制作名单，角色配音据该页列出的角色／声优表；其他图像、脚本差异未确认。,https://w.atwiki.jp/ercr/pages/2655.html

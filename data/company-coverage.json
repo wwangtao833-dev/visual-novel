@@ -17749,6 +17749,895 @@
           "source": "https://over-drive.jp/"
         }
       ]
+    },
+    {
+      "id": "jast",
+      "name": "JAST（日本）",
+      "checkedAt": "2026-10-08",
+      "status": "专题与已核实作品建档完成；历史资料缺项逐项标注",
+      "scope": "以发行《天使们的午后》的日本旧 JAST 为主体，整理本社、Tiare、早期 Purple、Angel Hearts 与 pride 的历史目录。本轮建档 29 部四类作品与 7 部跨类型关联作品；合集、CG 集、企划与资料不足项目另有处理记录。",
+      "versionScope": "列出有来源的主要初版、移植、重制与合集记录，不宣称穷尽所有地区和再版。发售月份冲突时只记年份；有年份冲突的 III 番外篇保留异文。部分配音需 JAST SOUND 外设，不能理解为普通机器上自带完整语音。",
+      "publisherNote": "本专题的 JAST 是 1985—2001 年间活动的日本株式会社ジャスト。旗下品牌的实际署名保留在版本中，筛选归档为“JAST（日本）”；JAST USA／现代 JAST 国际发行方单独保留。2001 年 Purple software 承接后的系列作品仅作沿革关联。",
+      "workIds": [
+        "g015",
+        "g652",
+        "g653",
+        "g654",
+        "g655",
+        "g656",
+        "g657",
+        "g658",
+        "g659",
+        "g660",
+        "g661",
+        "g662",
+        "g663",
+        "g664",
+        "g665",
+        "g666",
+        "g667",
+        "g668",
+        "g669",
+        "g670",
+        "g671",
+        "g672",
+        "g673",
+        "g674",
+        "g675",
+        "g676",
+        "g677",
+        "g678",
+        "g679"
+      ],
+      "publisherWorkIds": [
+        "g015",
+        "g652",
+        "g653",
+        "g654",
+        "g655",
+        "g656",
+        "g657",
+        "g658",
+        "g659",
+        "g660",
+        "g661",
+        "g662",
+        "g663",
+        "g664",
+        "g665",
+        "g666",
+        "g667",
+        "g668",
+        "g669",
+        "g670",
+        "g671",
+        "g672",
+        "g673",
+        "g674",
+        "g675",
+        "g676",
+        "g677",
+        "g679"
+      ],
+      "catalogueEntryCount": 56,
+      "source": "https://ja.wikipedia.org/wiki/ジャスト_(ブランド)",
+      "sectionTitle": "从早期校园冒险到 Windows 多品牌时期",
+      "overviewLabel": "已建档作品与跨类型关联",
+      "auditTitle": "历史目录核对与收录说明",
+      "auditSourceLabel": "历史品牌目录（非现存官网）",
+      "auditLabel": "56 项作品、产品组与范围说明；不等同于独立游戏数。",
+      "auditNote": "旧官网已关闭，历史目录、机种馆录、零售资料和后续发行页相互补充。“资料待补”项目不计入顶部游戏数，不能将本专题理解为所有作品与版本字段均已核实。原有初代条目保留，本轮不新增纯文本指令／图文指令游戏。",
+      "description": "日本老 JAST 与旗下品牌作品专题：天使们的午后系列、剧情角色、平台版本、跨类型作品及历史目录核对。",
+      "relatedGames": [
+        {
+          "id": "jast-smiles",
+          "title": "天使们的微笑",
+          "originalTitle": "天使たちの微笑み",
+          "chineseTitle": "天使们的微笑",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 1996,
+          "category": "养成模拟",
+          "subcategory": "教育养成",
+          "genre": "成人向／教育养成模拟",
+          "characters": [
+            "家庭教师（玩家）",
+            "四名备考学生"
+          ],
+          "charactersNote": "按资料中可确认的玩家身份显示；未据罗马字补造日文姓名。",
+          "charactersSource": "https://shionlib.com/en/game/6263",
+          "synopsis": "大学生以家庭教师身份在四个月内辅导四名学生，目标是让她们进入志愿大学。",
+          "notes": "以教学安排与培养结果为主要玩法，在专题跨类型区显示。",
+          "source": "https://shionlib.com/en/game/6263",
+          "versions": [
+            {
+              "workId": "jast-smiles",
+              "year": 1996,
+              "platform": "Windows",
+              "publisher": "JAST（日本）",
+              "publisherCompanies": [
+                "JAST（日本）"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "该平台初版。配音资料尚未核实。",
+              "source": "https://shionlib.com/en/game/6263",
+              "id": "jast-smiles-v1"
+            },
+            {
+              "workId": "jast-smiles",
+              "year": 1996,
+              "platform": "PC-9801",
+              "publisher": "JAST（日本）",
+              "publisherCompanies": [
+                "JAST（日本）"
+              ],
+              "kind": "移植",
+              "voice": "未核实",
+              "differences": "移植版本；未核实的画面、脚本和配音差异不作推断。",
+              "source": "https://ja.wikipedia.org/wiki/天使たちの午後",
+              "id": "jast-smiles-v2"
+            }
+          ]
+        },
+        {
+          "id": "jast-vanishing",
+          "title": "消失点：天使消失的城市",
+          "originalTitle": "Vanishing Point －天使の消えた街－",
+          "chineseTitle": "消失点：天使消失的城市",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [],
+          "firstYear": 1995,
+          "category": "角色扮演",
+          "subcategory": "调查冒险／战斗",
+          "genre": "成人向／调查冒险＋RPG战斗",
+          "characters": [
+            "Kusanagi"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://vndbreview.blogspot.com/2017/07/vn-of-month-september-1995.html",
+          "synopsis": "Kusanagi 调查少女接连失踪的城市，在地点探索中与怪物战斗，寻找幕后原因。",
+          "notes": "评论明确记有 RPG 战斗，不作为纯剧情 ADV 收入四类主库。",
+          "source": "https://vndbreview.blogspot.com/2017/07/vn-of-month-september-1995.html",
+          "versions": [
+            {
+              "workId": "jast-vanishing",
+              "year": 1995,
+              "platform": "PC-9801",
+              "publisher": "Tiare",
+              "publisherCompanies": [
+                "JAST（日本）"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "该平台初版。配音资料尚未核实。",
+              "source": "https://vndbreview.blogspot.com/2017/07/vn-of-month-september-1995.html",
+              "id": "jast-vanishing-v1"
+            },
+            {
+              "workId": "jast-vanishing",
+              "year": 1995,
+              "platform": "FM TOWNS",
+              "publisher": "Tiare",
+              "publisherCompanies": [
+                "JAST（日本）"
+              ],
+              "kind": "移植",
+              "voice": "未核实",
+              "differences": "移植版本；未核实的画面、脚本和配音差异不作推断。",
+              "source": "https://gamesdb.launchbox-app.com/publishers/games/14681-jast",
+              "id": "jast-vanishing-v2"
+            }
+          ]
+        },
+        {
+          "id": "jast-tails",
+          "title": "Tails Knights：梦镜的巫女",
+          "originalTitle": "テイルスナイツ ～夢鏡の巫女～",
+          "chineseTitle": "Tails Knights：梦镜的巫女",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Tails Knights",
+            "テイルズナイツ"
+          ],
+          "firstYear": 1997,
+          "category": "角色扮演",
+          "subcategory": "奇幻角色扮演",
+          "genre": "成人向／奇幻ADV＋RPG",
+          "characters": [
+            "Lamia",
+            "Elysia",
+            "被召唤的主人公（玩家）"
+          ],
+          "charactersNote": "按资料中可确认的玩家身份显示；未据罗马字补造日文姓名。",
+          "charactersSource": "https://shionlib.com/en/game/24866",
+          "synopsis": "主人公在梦中被巫女 Elysia 召往异世界，踏上对抗魔女 Lamia 的旅程。",
+          "notes": "零售商品页标注 Adventure/RPG；角色名保留资料罗马字。",
+          "source": "https://shionlib.com/en/game/24866",
+          "versions": [
+            {
+              "workId": "jast-tails",
+              "year": 1997,
+              "platform": "Windows",
+              "publisher": "Tiare",
+              "publisherCompanies": [
+                "JAST（日本）"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "该平台初版。配音资料尚未核实。",
+              "source": "https://www.getchu.com/item/354/?gc=gc",
+              "id": "jast-tails-v1"
+            }
+          ]
+        },
+        {
+          "id": "jast-izayoi",
+          "title": "十六夜",
+          "originalTitle": "十六夜",
+          "chineseTitle": "十六夜",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Izayoi"
+          ],
+          "firstYear": 1998,
+          "category": "角色扮演",
+          "subcategory": "校园角色扮演",
+          "genre": "成人向／校园奇幻RPG",
+          "characters": [
+            "Kusanagi Yorokuya"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://shionlib.com/en/game/24687",
+          "synopsis": "古老家系的继承者被派往新学校，调查结界破损与校园七大不可思议。",
+          "notes": "资料明确标为 RPG。8 月具体日存在异文，只记年份；不据罗马字推造姓名汉字。",
+          "source": "https://shionlib.com/en/game/24687",
+          "versions": [
+            {
+              "workId": "jast-izayoi",
+              "year": 1998,
+              "platform": "Windows",
+              "publisher": "Tiare",
+              "publisherCompanies": [
+                "JAST（日本）"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "该平台初版。配音资料尚未核实。",
+              "source": "https://shionlib.com/en/game/24687",
+              "id": "jast-izayoi-v1"
+            }
+          ]
+        },
+        {
+          "id": "jast-world",
+          "title": "世界尽头的故事",
+          "originalTitle": "世界の果ての物語",
+          "chineseTitle": "世界尽头的故事",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Sekai no Hate no Monogatari"
+          ],
+          "firstYear": 1998,
+          "category": "模拟游戏",
+          "subcategory": "期限行动模拟",
+          "genre": "成人向／期限与地图行动模拟",
+          "characters": [
+            "Kou"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://vndb.org/v10743",
+          "synopsis": "被囚禁的 Kou 有三十天时间筹得保释金；地图探索和行动安排决定能否重获自由。",
+          "notes": "资料标为 Simulation Game，按玩法另列。",
+          "source": "https://vndb.org/v10743",
+          "versions": [
+            {
+              "workId": "jast-world",
+              "year": 1998,
+              "platform": "Windows",
+              "publisher": "Purple（JAST期）",
+              "publisherCompanies": [
+                "JAST（日本）"
+              ],
+              "kind": "首发",
+              "voice": "无",
+              "differences": "该平台初版。角色配音状态据所引资料标注。",
+              "source": "https://vndb.org/v10743",
+              "id": "jast-world-v1"
+            }
+          ]
+        },
+        {
+          "id": "jast-mugen",
+          "title": "梦幻：虚实与真实",
+          "originalTitle": "夢幻 ～虚実と真実～",
+          "chineseTitle": "梦幻：虚实与真实",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "Mugen 虚実と真実"
+          ],
+          "firstYear": 1999,
+          "category": "角色扮演",
+          "subcategory": "奇幻角色扮演",
+          "genre": "成人向／章节冒险＋RPG战斗",
+          "characters": [
+            "受命的主人公（玩家）",
+            "Lilith"
+          ],
+          "charactersNote": "按资料中可确认的玩家身份显示；未据罗马字补造日文姓名。",
+          "charactersSource": "https://vndbreview.blogspot.com/2017/10/vn-of-month-march-1999.html",
+          "synopsis": "主人公受命击败十二位战士以唤醒 Lilith，章节叙事与战斗交替推进。",
+          "notes": "ADV 段落与 RPG 战斗混合，跨类型区完整保留作品身份。",
+          "source": "https://vndbreview.blogspot.com/2017/10/vn-of-month-march-1999.html",
+          "versions": [
+            {
+              "workId": "jast-mugen",
+              "year": 1999,
+              "platform": "Windows",
+              "publisher": "Purple（JAST期）",
+              "publisherCompanies": [
+                "JAST（日本）"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "该平台初版。配音资料尚未核实。",
+              "source": "https://vndbreview.blogspot.com/2017/10/vn-of-month-march-1999.html",
+              "id": "jast-mugen-v1"
+            }
+          ]
+        },
+        {
+          "id": "jast-purple-fd",
+          "title": "Purple Fan Disc",
+          "originalTitle": "Purple Fan Disc",
+          "chineseTitle": "Purple Fan Disc",
+          "chineseTitleType": "站内编辑译名",
+          "titleAliases": [
+            "パープルファンディスク"
+          ],
+          "firstYear": 2001,
+          "category": "杂集",
+          "subcategory": "宣传短篇／附录",
+          "genre": "短篇宣传VN／时钟等附录",
+          "characters": [
+            "かすみ"
+          ],
+          "charactersNote": "",
+          "charactersSource": "https://vnclub.org/vn/v10924/",
+          "synopsis": "かすみ在盘内的短篇介绍中讲解《かすみ遊戯2》的制作企划，并展示预告内容。",
+          "notes": "整盘独立产品计一部杂集；宣传内容不等于第二作已经发行。",
+          "source": "https://vnclub.org/vn/v10924/",
+          "versions": [
+            {
+              "workId": "jast-purple-fd",
+              "year": 2001,
+              "platform": "Windows",
+              "publisher": "Purple（JAST期）",
+              "publisherCompanies": [
+                "JAST（日本）"
+              ],
+              "kind": "首发",
+              "voice": "未核实",
+              "differences": "该平台初版。配音资料尚未核实。",
+              "source": "https://vnclub.org/vn/v10924/",
+              "id": "jast-purple-fd-v1"
+            }
+          ]
+        }
+      ],
+      "relatedSectionTitle": "RPG、养成模拟与 Fan Disc 杂集",
+      "relatedIntro": "保留有战斗、养成或期限行动系统的作品，并将以预告短篇与附录为主的整张 Fan Disc 单列。中文名有编辑译名标识；这些作品不混入四类主库筛选。",
+      "relatedCountLabel": "按可确认的主要玩法归档",
+      "entries": [
+        {
+          "title": "天使たちの午後",
+          "status": "沿用既有作品",
+          "workIds": [
+            "g015"
+          ],
+          "reason": "保留主库原有历史条目；说明实际输入方式，不把原作复制为新条目。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_6Tyibs0v7iKE9uBs.php"
+        },
+        {
+          "title": "天使たちの午後II 番外編",
+          "status": "已收录",
+          "workIds": [
+            "g652"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_rSeFpk2p5PNMNpEV.php"
+        },
+        {
+          "title": "天使たちの午後III ～リボン～",
+          "status": "已收录",
+          "workIds": [
+            "g653"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_VBZIm10RFJEhPUr7.php"
+        },
+        {
+          "title": "天使たちの午後III 番外編",
+          "status": "已收录",
+          "workIds": [
+            "g654"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_BaGs7J78s9ZH2MfD.php"
+        },
+        {
+          "title": "天使たちの午後IV ～ゆう子～",
+          "status": "已收录",
+          "workIds": [
+            "g655"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://shionlib.com/en/game/25513"
+        },
+        {
+          "title": "ごめんねエンジェル ～横浜物語～",
+          "status": "已收录",
+          "workIds": [
+            "g656"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://shionlib.com/en/game/25477"
+        },
+        {
+          "title": "天使たちの午後V ～狙われた天使～",
+          "status": "已收录",
+          "workIds": [
+            "g657"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://ja.wikipedia.org/wiki/天使たちの午後"
+        },
+        {
+          "title": "天使たちの午後VI ～My Fair Teacher～",
+          "status": "已收录",
+          "workIds": [
+            "g658"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://shionlib.com/en/game/25393"
+        },
+        {
+          "title": "SUPER・ULTRA・むっちんぷりぷりサイボーグ マリリンDX",
+          "status": "已收录",
+          "workIds": [
+            "g659"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://www.ymgal.games/ga21596"
+        },
+        {
+          "title": "DEEP",
+          "status": "已收录",
+          "workIds": [
+            "g660"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://www.mobygames.com/game/43164/deep/"
+        },
+        {
+          "title": "雪猫 ～YUKI NEKO～",
+          "status": "已收录",
+          "workIds": [
+            "g661"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://shionlib.com/en/game/25237"
+        },
+        {
+          "title": "天使たちの午後 ～転校生～",
+          "status": "已收录",
+          "workIds": [
+            "g662"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://www.ymgal.games/ga23955"
+        },
+        {
+          "title": "三姉妹",
+          "status": "已收录",
+          "workIds": [
+            "g663"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://www.mobygames.com/game/4054/three-sisters-story/"
+        },
+        {
+          "title": "エデンの香り",
+          "status": "已收录",
+          "workIds": [
+            "g664"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://advgamer.com/eden-no-kaori/"
+        },
+        {
+          "title": "週刊フロムH",
+          "status": "已收录",
+          "workIds": [
+            "g665"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://shionlib.com/en/game/24937"
+        },
+        {
+          "title": "ポムポムプリてぃパフぇ（お子様用）",
+          "status": "已收录",
+          "workIds": [
+            "g666"
+          ],
+          "reason": "JAST（日本） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://shionlib.com/en/game/24818"
+        },
+        {
+          "title": "迷走都市",
+          "status": "已收录",
+          "workIds": [
+            "g667"
+          ],
+          "reason": "Tiare 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://www.ymgal.games/ga11110"
+        },
+        {
+          "title": "さくらの季節",
+          "status": "已收录",
+          "workIds": [
+            "g668"
+          ],
+          "reason": "Tiare 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://kaguya.io/vn/season-of-the-sakura"
+        },
+        {
+          "title": "まじょっ子ぱらだいす",
+          "status": "已收录",
+          "workIds": [
+            "g669"
+          ],
+          "reason": "Tiare 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://shionlib.com/en/game/25050"
+        },
+        {
+          "title": "黄昏の境界",
+          "status": "已收录",
+          "workIds": [
+            "g670"
+          ],
+          "reason": "Tiare 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://vnclub.org/vn/v9108/"
+        },
+        {
+          "title": "ムチムチセクシぃパフぇ（お姉様用）",
+          "status": "已收录",
+          "workIds": [
+            "g671"
+          ],
+          "reason": "Tiare 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://shionlib.com/en/game/24779"
+        },
+        {
+          "title": "You ＆ I",
+          "status": "已收录",
+          "workIds": [
+            "g672"
+          ],
+          "reason": "Tiare 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://shionlib.com/en/game/10237"
+        },
+        {
+          "title": "かすみ遊戯",
+          "status": "已收录",
+          "workIds": [
+            "g673"
+          ],
+          "reason": "Purple（JAST期） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://www.blackrainbow.jp/dvdpg/006/index.html"
+        },
+        {
+          "title": "Lien ～終わらない君の唄～",
+          "status": "已收录",
+          "workIds": [
+            "g674"
+          ],
+          "reason": "Purple（JAST期） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://kiisu.egono.com/main.php?key=lien"
+        },
+        {
+          "title": "追憶",
+          "status": "已收录",
+          "workIds": [
+            "g675"
+          ],
+          "reason": "Purple（JAST期） 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://vnclub.org/vn/v5140/"
+        },
+        {
+          "title": "Grief ～眠れぬ想い伝えたくて～",
+          "status": "已收录",
+          "workIds": [
+            "g676"
+          ],
+          "reason": "Angel Hearts 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://vndbreview.blogspot.com/2017/12/vn-of-month-march-2000.html"
+        },
+        {
+          "title": "YASHA ～隠された狂気～",
+          "status": "已收录",
+          "workIds": [
+            "g677"
+          ],
+          "reason": "Angel Hearts 独立叙事作品；移植、合集与重制沿用本条作品记录。",
+          "source": "https://vndbreview.blogspot.com/2019/01/vn-of-month-november-2000.html"
+        },
+        {
+          "title": "天使達の午後 SEASON2001",
+          "status": "系列沿革关联",
+          "workIds": [
+            "g678"
+          ],
+          "reason": "商标转交后的 Purple software 作品，仅作为系列沿革关联；发行厂商筛选不归入日本旧 JAST。",
+          "source": "https://www.purplesoftware.jp/products/tenshi/"
+        },
+        {
+          "title": "天使たちの微笑み",
+          "status": "专题关联",
+          "workIds": [],
+          "reason": "JAST（日本） 作品；成人向／教育养成模拟，按主要玩法在专题另列。",
+          "source": "https://shionlib.com/en/game/6263",
+          "relatedIds": [
+            "jast-smiles"
+          ]
+        },
+        {
+          "title": "Vanishing Point －天使の消えた街－",
+          "status": "专题关联",
+          "workIds": [],
+          "reason": "Tiare 作品；成人向／调查冒险＋RPG战斗，按主要玩法在专题另列。",
+          "source": "https://vndbreview.blogspot.com/2017/07/vn-of-month-september-1995.html",
+          "relatedIds": [
+            "jast-vanishing"
+          ]
+        },
+        {
+          "title": "テイルスナイツ ～夢鏡の巫女～",
+          "status": "专题关联",
+          "workIds": [],
+          "reason": "Tiare 作品；成人向／奇幻ADV＋RPG，按主要玩法在专题另列。",
+          "source": "https://shionlib.com/en/game/24866",
+          "relatedIds": [
+            "jast-tails"
+          ]
+        },
+        {
+          "title": "十六夜",
+          "status": "专题关联",
+          "workIds": [],
+          "reason": "Tiare 作品；成人向／校园奇幻RPG，按主要玩法在专题另列。",
+          "source": "https://shionlib.com/en/game/24687",
+          "relatedIds": [
+            "jast-izayoi"
+          ]
+        },
+        {
+          "title": "世界の果ての物語",
+          "status": "专题关联",
+          "workIds": [],
+          "reason": "Purple（JAST期） 作品；成人向／期限与地图行动模拟，按主要玩法在专题另列。",
+          "source": "https://vndb.org/v10743",
+          "relatedIds": [
+            "jast-world"
+          ]
+        },
+        {
+          "title": "夢幻 ～虚実と真実～",
+          "status": "专题关联",
+          "workIds": [],
+          "reason": "Purple（JAST期） 作品；成人向／章节冒险＋RPG战斗，按主要玩法在专题另列。",
+          "source": "https://vndbreview.blogspot.com/2017/10/vn-of-month-march-1999.html",
+          "relatedIds": [
+            "jast-mugen"
+          ]
+        },
+        {
+          "title": "Purple Fan Disc",
+          "status": "专题关联",
+          "workIds": [],
+          "reason": "Purple（JAST期） 作品；短篇宣传VN／时钟等附录，按主要玩法在专题另列。",
+          "source": "https://vnclub.org/vn/v10924/",
+          "relatedIds": [
+            "jast-purple-fd"
+          ]
+        },
+        {
+          "title": "天使たちの午後Collection／Collection2",
+          "status": "合集归并",
+          "workIds": [
+            "g015",
+            "g653",
+            "g652",
+            "g654",
+            "g655"
+          ],
+          "reason": "两套三作合集分别关联到所收录的既有作品；移植不另计故事，II 指令原作不因合集新建。",
+          "source": "https://ja.wikipedia.org/wiki/天使たちの午後"
+        },
+        {
+          "title": "もんもん学園 ten.ko.sei",
+          "status": "重制归并",
+          "workIds": [
+            "g662"
+          ],
+          "reason": "1998 年 Windows 重制归到 1995 年《转校生》，保留产品名检索。",
+          "source": "https://ja.wikipedia.org/wiki/天使たちの午後"
+        },
+        {
+          "title": "エロでん",
+          "status": "合集归并",
+          "workIds": [
+            "g662",
+            "g661"
+          ],
+          "reason": "零售页证明 1997 年 Windows 合集；分别据原作版本目录关联《转校生》《雪猫》。未确认内容不补造独立新作。",
+          "source": "https://www.getchu.com/item/395/?gc=gc"
+        },
+        {
+          "title": "天使たちの午後 番外編（1985）",
+          "status": "CG集／不计游戏",
+          "workIds": [],
+          "reason": "未使用图像组成的 CG 集，和 II／III 的剧情外传不同。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_8D85FWWgXxNIiJnJ.php"
+        },
+        {
+          "title": "天使たちの午後II ～美奈子～",
+          "status": "按既定范围排除",
+          "workIds": [],
+          "reason": "键盘输入指令的原作未新增；1988 年菜单选择式番外篇独立收录。",
+          "source": "https://www.8-bits.info/gamelist/PC88/info/info_6Tyibs0v7iKE9uBs.php"
+        },
+        {
+          "title": "天使たちの午後SpecialII",
+          "status": "资料待补",
+          "workIds": [],
+          "reason": "1993 年产品名和发行记载可查；缺少能够确认剧情、角色及与 Special 的关系的单作资料，暂不补造条目。",
+          "source": "https://ja.wikipedia.org/wiki/天使たちの午後"
+        },
+        {
+          "title": "彼岸花の追憶／彼岸花の記憶",
+          "status": "题名与资料待补",
+          "workIds": [],
+          "reason": "1996 年历史目录记载；题名存在异文，尚不能确认具体版本与剧情字段。",
+          "source": "https://ja.wikipedia.org/wiki/ジャスト_(ブランド)"
+        },
+        {
+          "title": "天使人形",
+          "status": "资料待补",
+          "workIds": [],
+          "reason": "Tiare 1998 年 Windows 产品有发行记录；角色、剧情和具体玩法证据不足，留在核对表。",
+          "source": "https://www2s.biglobe.ne.jp/~pdg/xgame/1998.htm"
+        },
+        {
+          "title": "JUSTICE SLAVE ～星となれ!! 悪組織～",
+          "status": "玩法资料待补",
+          "workIds": [],
+          "reason": "1999 年 Tiare 产品及组织战斗主题可查；评论编码异常，暂未取得可确认主要玩法的资料。",
+          "source": "https://type-98.lix.jp/98/kako/jslave.htm"
+        },
+        {
+          "title": "yume nikki ～遠い空の下で～",
+          "status": "已收录",
+          "workIds": [
+            "g679"
+          ],
+          "reason": "pride 原品牌叙事作品；剧情依据另见作品卡片，2000 年发行与配音据制作名单。评论页存在 1999 年异文，未补造旧版。",
+          "source": "https://w.atwiki.jp/ercr/pages/2655.html"
+        },
+        {
+          "title": "夜の天使たち ～私鉄沿線殺人事件～（Crest）",
+          "status": "署名与操作方式待补",
+          "workIds": [],
+          "reason": "PC-88 馆录记 1989 年 9 月、发行方 Crest；不把故事发生时间当发售日。Crest 归属年表和输入方式仍需核实。",
+          "source": "https://www.gamepres.org/pc88/library/1989/1989_9.html"
+        },
+        {
+          "title": "cosmos club",
+          "status": "操作方式待补",
+          "workIds": [],
+          "reason": "历史目录记载 1988 年作品，MSX 移植另见机种目录；未确认输入方式前不新增四类主库。",
+          "source": "https://generation-msx.nl/software/jast/cosmos-club/1315"
+        },
+        {
+          "title": "DERRINGER（Crest）",
+          "status": "署名与资料待补",
+          "workIds": [],
+          "reason": "零售馆录见 PC-98 1988 年产品；不得套用历史综合页中较晚的 Crest 品牌设立年。",
+          "source": "https://www.suruga-ya.jp/product/detail/125000947"
+        },
+        {
+          "title": "エリカ",
+          "status": "历史项目待补",
+          "workIds": [],
+          "reason": "1986 年历史名称可查，输入方式与单作角色／版本未完成交叉核实。",
+          "source": "https://ja.wikipedia.org/wiki/ジャスト_(ブランド)"
+        },
+        {
+          "title": "スタートラップ／くりいむレモン スタートラップ",
+          "status": "历史项目待补",
+          "workIds": [],
+          "reason": "目录出现 1986／1987 年不同名称，身份与版本关系未确认，不拆成两部。",
+          "source": "https://ja.wikipedia.org/wiki/ジャスト_(ブランド)"
+        },
+        {
+          "title": "ブレイカー／昇龍／Candy Kiss／Crisis",
+          "status": "历史项目待补",
+          "workIds": [],
+          "reason": "1988 年历史目录的四个题名；发售、主要玩法与机种需逐作核实，不据一份综合清单补造游戏。",
+          "source": "https://ja.wikipedia.org/wiki/ジャスト_(ブランド)"
+        },
+        {
+          "title": "突撃!ばっこんストリート／同2 ハンティングルーレット",
+          "status": "历史项目待补",
+          "workIds": [],
+          "reason": "1993／1994 年目录名称；主要玩法未确认，不能把街道、轮盘题材直接当作叙事 ADV。",
+          "source": "https://ja.wikipedia.org/wiki/ジャスト_(ブランド)"
+        },
+        {
+          "title": "キャンディキッズ／メイキング・オブ・Miki／天使たちの午後IV 番外編",
+          "status": "未发行企划",
+          "workIds": [],
+          "reason": "目录列为中止项目，不补平台发行版本；IV 番外篇不等于已发售的 Special。",
+          "source": "https://ja.wikipedia.org/wiki/ジャスト_(ブランド)"
+        },
+        {
+          "title": "かすみ遊戯2／Lien2／追憶2",
+          "status": "未确认发售的续篇企划",
+          "workIds": [],
+          "reason": "Fan Disc 中有预告内容，但没有可确认的完成发行记录；不把预告短篇当完整续篇。",
+          "source": "https://vnclub.org/vn/v10924/"
+        },
+        {
+          "title": "JAST USA／现代 JAST 国际目录",
+          "status": "发行方边界",
+          "workIds": [],
+          "reason": "仅英语移植版本使用 JAST USA 署名；现代国际发行的其他厂商游戏不属于日本老 JAST 自制作品。",
+          "source": "https://jaststore.com/page/classic-jast-games/"
+        },
+        {
+          "title": "Purple software 2002 年及以后目录",
+          "status": "厂商边界",
+          "workIds": [],
+          "reason": "本专题仅关联 2001 年承接系列的 SEASON2001，不收进转交之后新公司的完整目录。",
+          "source": "https://www.purplesoftware.jp/products/"
+        }
+      ],
+      "creativeProfile": {
+        "thesis": "从早期以校园人物关系为中心的冒险，到都市悬疑、科幻与 Windows 多品牌作品，JAST 的目录呈现出叙事题材和操作系统同时扩展的过程。以下划分是基于作品的编辑观察。",
+        "phases": [
+          {
+            "period": "1985—1993",
+            "heading": "校园系列与调查冒险",
+            "analysis": "《天使们的午后》系列从键盘输入转向菜单选择；后续作品也把寻人、学园怪事和演艺圈命案放入人物关系之中。系列外传、修正版与合集需要分层阅读。",
+            "basis": "编辑观察",
+            "source": "https://ja.wikipedia.org/wiki/天使たちの午後"
+          },
+          {
+            "period": "1994—1998",
+            "heading": "科幻、都市与品牌分支",
+            "analysis": "DEEP 用多个人物视角呈现同一事件；Tiare 的目录则涵盖异能都市、魔法校园与恐怖调查，并出现含战斗的 RPG。不能仅凭美少女画面判断主要玩法。",
+            "basis": "编辑观察",
+            "source": "https://www.mobygames.com/game/43164/deep/"
+          },
+          {
+            "period": "1998—2001",
+            "heading": "Windows 叙事与系列承接",
+            "analysis": "早期 Purple 作品使用仿生人、前世记忆和生死主题；2001 年系列由 Purple software 承接。专题同时展示创作关联与每个版本的实际发行署名。",
+            "basis": "编辑观察",
+            "source": "https://www.purplesoftware.jp/products/tenshi/"
+          }
+        ]
+      }
     }
   ]
 }
