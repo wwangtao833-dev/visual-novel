@@ -549,3 +549,58 @@ test('JHV separates cross genres, pending evidence and unrelated same-IP titles'
   for(const id of [...dossier.workIds,...dossier.relatedGames.map(w=>w.id)]) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
   assert.ok(!/undefined|NaN|Infinity/.test(page));
 });
+
+test('Cabbage Soft original catalogue and localized versions retain publisher credits',()=>{
+  const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='cabbage');
+  const originals=filterCatalogue(data,{company:'きゃべつそふと'});
+  assert.deepEqual(new Set(originals.map(({work})=>work.id)),new Set(dossier.workIds));
+  assert.equal(originals.length,8);
+  const grace=filterCatalogue(data,{query:'奇异恩典',company:'Shiravune'})[0];
+  assert.equal(grace.work.id,'g836');
+  assert.equal(grace.versions.length,1);
+  assert.equal(grace.versions[0].year,2024);
+  assert.equal(filterCatalogue(data,{query:'奇异恩典',company:'Sekai Project'}).length,0);
+  for(const [query,id,year] of [['巧克甜恋','g837',2020],['巧克甜恋2','g839',2023],['巧克甜恋3','g841',2025]]){
+    const row=filterCatalogue(data,{query,company:'Sekai Project'}).find(({work})=>work.id===id);
+    assert.equal(row.versions.length,1);
+    assert.equal(row.versions[0].year,year);
+    assert.equal(row.versions[0].platform,'Windows（Steam）');
+  }
+});
+
+test('Cabbage console publisher transitions and compilations reuse work identity',()=>{
+  for(const [id,firstYear,portYear] of [['g838',2020,2021],['g840',2022,2024]]){
+    assert.equal(data.works.find(w=>w.id===id).firstYear,firstYear);
+    const credited=data.versions.filter(v=>v.workId===id);
+    assert.deepEqual(credited.filter(v=>v.kind==='主机移植').map(v=>[v.year,v.publisher]),[[portYear,'ENTERGRAM'],[portYear,'ENTERGRAM']]);
+    const moved=credited.filter(v=>v.kind==='下载版销售移行');
+    assert.equal(moved.length,2);
+    assert.ok(moved.every(v=>v.year===2025&&v.publisher==='HuneX'));
+    assert.deepEqual(new Set(moved.map(v=>v.platform)),new Set(['PlayStation 4','Nintendo Switch']));
+    const pack=credited.filter(v=>v.kind==='双作包合集收录');
+    assert.equal(pack.length,1);
+    assert.equal(pack[0].platform,'Nintendo Switch');
+    assert.equal(pack[0].year,2024);
+  }
+  const hune=filterCatalogue(data,{query:'宝石心学院',company:'HuneX'})[0];
+  assert.equal(hune.work.id,'g840');
+  assert.equal(hune.versions.length,2);
+  for(const id of ['g837','g839','g841']) assert.equal(data.versions.filter(v=>v.workId===id&&v.kind==='1・2・3 Complete Pack合集收录').length,1);
+  assert.equal(data.works.filter(w=>w.originalTitle.includes('Complete Pack')).length,0);
+});
+
+test('Cabbage future releases and music remain outside shipped version counts',()=>{
+  const dossier=JSON.parse(readFileSync(new URL('../data/company-coverage.json',import.meta.url),'utf8')).companies.find(c=>c.id==='cabbage');
+  const shipped=data.versions.filter(v=>dossier.workIds.includes(v.workId));
+  assert.equal(shipped.length,29);
+  assert.ok(shipped.every(v=>v.year<2026));
+  assert.equal(shipped.filter(v=>v.workId==='g840'&&v.platform==='Windows（Steam）').length,0);
+  assert.equal(shipped.filter(v=>['g839','g841'].includes(v.workId)&&v.platform==='Nintendo Switch').length,0);
+  const music=dossier.entries.find(e=>e.title==='きゃべつそふと Consumer Collection');
+  assert.deepEqual(music.workIds,[]);
+  assert.ok(music.status.includes('音乐'));
+  const page=readFileSync(new URL('../cabbage.html',import.meta.url),'utf8');
+  for(const id of dossier.workIds) assert.equal(page.split(`<article class="card" id="${id}">`).length-1,1);
+  assert.ok(readFileSync(new URL('../index.html',import.meta.url),'utf8').includes('href="cabbage.html"'));
+  assert.ok(!/undefined|NaN|Infinity/.test(page));
+});
