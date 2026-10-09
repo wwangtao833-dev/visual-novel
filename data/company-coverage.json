@@ -25889,6 +25889,225 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cabbage",
+      "name": "きゃべつそふと",
+      "checkedAt": "2026-10-09",
+      "status": "官方八部已发行原作核对完成",
+      "scope": "收录2017—2025年官网LINEUP的八部已发行视觉小说。巧克甜恋三作与宝石题材两作分别建档；移植、增强、合集、下载销售接续归原作。音乐和周边另作范围说明。",
+      "versionScope": "记录29条主要发行关系：Windows原版及可核下载版、Steam国际版、PS4／Switch移植、两种实体合集与2025主机下载销售移行。不是全球所有地区、介质与廉价再版的穷尽目录。2026完全版及未核到实际上市的Steam英译仅记计划。",
+      "publisherNote": "きゃべつそふと／Cabbage Soft是本页的原作品牌；国际版由Sekai Project或Shiravune发行，主机有dramatic create、ENTERGRAM及HuneX接续销售版本。数据库按各版实际发行署名筛选，不将开发品牌套用到所有移植。",
+      "workIds": [
+        "g835",
+        "g836",
+        "g837",
+        "g838",
+        "g839",
+        "g840",
+        "g841",
+        "g842"
+      ],
+      "publisherWorkIds": [
+        "g835",
+        "g836",
+        "g837",
+        "g838",
+        "g839",
+        "g840",
+        "g841",
+        "g842"
+      ],
+      "relatedGames": [],
+      "catalogueEntryCount": 8,
+      "source": "https://cabbage-soft.com/products/jna/",
+      "auditTitle": "官方作品与版本核对",
+      "auditSourceLabel": "官网作品目录",
+      "auditLabel": "八部已发行独立作品，以及合集、发行接续、未来计划和非游戏媒介说明。",
+      "auditNote": "完成口径是官网八部原作均有主库记录和来源处理。未来发售计划不计发行数，下载销售移行保留原发行史；具体其他地区与再版可继续补查。",
+      "description": "きゃべつそふと／Cabbage Soft专题：星恋、奇异恩典、樱色之云、巧克甜恋系列与宝石题材作品，剧情、角色、实际发行和平台版本核对。",
+      "sectionTitle": "星之传说、时间悬疑、兽耳日常与宝石冒险",
+      "creativeProfile": {
+        "thesis": "目录中可以观察到两类叙事重心：以地方传说、循环和穿越组织悬念，以及以咖啡馆工作、同学羁绊组织角色关系。以下是对具体作品的编辑归纳；共同品牌不意味着每个系列采用相同剧本结构。",
+        "phases": [
+          {
+            "period": "2017—2020",
+            "heading": "熟悉日常中的隐藏规则",
+            "analysis": "星恋让海滨校园围绕独有星光与节庆展开；奇异恩典把艺术小镇置于时间循环；樱色之云用百年穿越连接侦探调查与恋爱。作品通过地点和时间的异常逐渐改变日常关系。",
+            "basis": "编辑观察",
+            "source": "https://cabbage-soft.com/products/amagra/"
+          },
+          {
+            "period": "2020—2023",
+            "heading": "店铺与角色关系的连续展开",
+            "analysis": "巧克甜恋从发现兽人身份与共同工作起步，第二作扩展甜品店和兔耳姐妹，第三作组合前作后日谈与新人物故事。三部各自独立发布，合集只是发行形式。",
+            "basis": "编辑观察",
+            "source": "https://cabbage-soft.com/products/amachoco3/"
+          },
+          {
+            "period": "2022—2025",
+            "heading": "从学园群像走向奇幻冒险",
+            "analysis": "宝石心学院用背景不同的学生与间谍任务连接大陆危机；宝石骑士续作把同班人物带向矿脉深层。宝石设定与战斗冲突属于剧情题材，官方类型及游戏形态仍是视觉小说冒险。",
+            "basis": "编辑观察",
+            "source": "https://cabbage-soft.com/products/jna/"
+          }
+        ]
+      },
+      "entries": [
+        {
+          "title": "星恋＊ティンクル",
+          "status": "已发行／主库收录",
+          "reason": "2017年独立作品；已核实2条发行记录，剧情、角色和版本分别附来源。",
+          "source": "https://cabbage-soft.com/products/hoshikoi/",
+          "workIds": [
+            "g835"
+          ]
+        },
+        {
+          "title": "アメイジング・グレイス -What color is your attribute?-",
+          "status": "已发行／主库收录",
+          "reason": "2018年独立作品；已核实4条发行记录，剧情、角色和版本分别附来源。",
+          "source": "https://cabbage-soft.com/products/amagra/",
+          "workIds": [
+            "g836"
+          ]
+        },
+        {
+          "title": "あまいろショコラータ",
+          "status": "已发行／主库收录",
+          "reason": "2020年独立作品；已核实4条发行记录，剧情、角色和版本分别附来源。",
+          "source": "https://cabbage-soft.com/products/amachoco/",
+          "workIds": [
+            "g837"
+          ]
+        },
+        {
+          "title": "さくらの雲＊スカアレットの恋",
+          "status": "已发行／主库收录",
+          "reason": "2020年独立作品；已核实6条发行记录，剧情、角色和版本分别附来源。",
+          "source": "https://cabbage-soft.com/products/scarlet/",
+          "workIds": [
+            "g838"
+          ]
+        },
+        {
+          "title": "あまいろショコラータ2",
+          "status": "已发行／主库收录",
+          "reason": "2021年独立作品；已核实3条发行记录，剧情、角色和版本分别附来源。",
+          "source": "https://cabbage-soft.com/products/amachoco2/",
+          "workIds": [
+            "g839"
+          ]
+        },
+        {
+          "title": "ジュエリー・ハーツ・アカデミア -We will wing wonder world-",
+          "status": "已发行／主库收录",
+          "reason": "2022年独立作品；已核实6条发行记录，剧情、角色和版本分别附来源。",
+          "source": "https://cabbage-soft.com/products/jewelry/",
+          "workIds": [
+            "g840"
+          ]
+        },
+        {
+          "title": "あまいろショコラータ3",
+          "status": "已发行／主库收录",
+          "reason": "2023年独立作品；已核实3条发行记录，剧情、角色和版本分别附来源。",
+          "source": "https://cabbage-soft.com/products/amachoco3/",
+          "workIds": [
+            "g841"
+          ]
+        },
+        {
+          "title": "ジュエリー・ナイツ・アルカディア -The ends of the world-",
+          "status": "已发行／主库收录",
+          "reason": "2025年独立作品；已核实1条发行记录，剧情、角色和版本分别附来源。",
+          "source": "https://cabbage-soft.com/products/jna/",
+          "workIds": [
+            "g842"
+          ]
+        },
+        {
+          "title": "あまいろショコラータ1・2・3 Complete Pack",
+          "status": "合集归并",
+          "reason": "2023/11/24日文三作合集；分别登记三部原作的合集版本，不建立第四部作品。",
+          "source": "https://cabbage-soft.com/products/amachoco3/",
+          "workIds": [
+            "g837",
+            "g839",
+            "g841"
+          ]
+        },
+        {
+          "title": "Jewelry Hearts Academia＋Scarlet Double Pack",
+          "status": "合集归并／Switch限定",
+          "reason": "2024/10/24双作包只支持Switch；分别归g838、g840，没有PS4双作包记录。",
+          "source": "https://www.entergram.co.jp/jewelry/",
+          "workIds": [
+            "g838",
+            "g840"
+          ]
+        },
+        {
+          "title": "主机下载销售移行",
+          "status": "2025署名变化",
+          "reason": "HuneX 2025/10/01公告接续两作的PS4／Switch下载销售；原ENTERGRAM发行署名保留，不追溯替换。",
+          "source": "https://www.hunex.co.jp/archives/news/eg",
+          "workIds": [
+            "g838",
+            "g840"
+          ]
+        },
+        {
+          "title": "さくらの雲＊スカアレットの恋 完全版",
+          "status": "已公告／尚未发售",
+          "reason": "官网计划2026/11/27发行，加入主机后续故事、演出调整及BGM重制。核查日早于发售日，不计入已发行版本；未来仍归原作。",
+          "source": "https://cabbage-soft.com/",
+          "workIds": [
+            "g838"
+          ]
+        },
+        {
+          "title": "Jewelry Hearts Academia Steam版",
+          "status": "已公告／上市待核",
+          "reason": "Sekai Project于Anime Expo 2026宣布Steam英译、计划2026年，公告时仍在QA；本次没有确认实际上市，暂不记已发行Steam版本。",
+          "source": "https://sekaiproject.com/anime-expo-2026-announcement-recap/",
+          "workIds": [
+            "g840"
+          ]
+        },
+        {
+          "title": "きゃべつそふと Consumer Collection",
+          "status": "音乐专辑／不计游戏",
+          "reason": "官方说明为主机版音乐mini album，2025/09/26发行；不是消费机游戏合集，不据Collection字样新增游戏。",
+          "source": "https://cabbage-soft.com/products/jna/topic/",
+          "workIds": []
+        },
+        {
+          "title": "修正补丁、生日语音、广播CD、漫画与周边",
+          "status": "附属媒介／不另建游戏",
+          "reason": "补丁归既有原作；广播、音乐、漫画及抱枕等不属于独立可玩叙事游戏。2017/04/01的99th Project是已结束的愚人节展示，不据品牌编号编造作品。",
+          "source": "https://cabbage-soft.com/products/hoshikoi/",
+          "workIds": []
+        },
+        {
+          "title": "Steam Amairo Chocolate Bundle",
+          "status": "销售组合／不新增版本",
+          "reason": "商店优惠组合售卖已登记的三款Steam游戏；没有额外独立内容，不重复建立三条同版记录。",
+          "source": "https://store.steampowered.com/app/3143300/",
+          "workIds": [
+            "g837",
+            "g839",
+            "g841"
+          ]
+        },
+        {
+          "title": "其他地区、下载渠道与后续主机移植",
+          "status": "范围说明／继续补查",
+          "reason": "官网八部已发行原作已全部处理。未分别核定日期的Windows下载渠道并入原版，未证实的Switch续作或原生PS5版不填写虚构发行记录。",
+          "source": "https://cabbage-soft.com/products/jna/",
+          "workIds": []
+        }
+      ]
     }
   ]
 }
